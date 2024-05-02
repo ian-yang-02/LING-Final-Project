@@ -1,0 +1,43 @@
+using smartphones and laptops to simulate deadly heart arrhythmias 
+ researchers are using smartphones and laptop computers to model heart arrhythmias. 
+ flavio fenton, a professor in the school of physics at the georgia institute of technology, examines cardiac and fluid flow simulations created on a system that uses graphics processing chips designed for gaming applications and software that runs on ordinary web browsers. (photo: allison carter, georgia tech) 
+ mar 27, 2019 
+ — atlanta, ga 
+ modeling the complex electrical waves that cause heart arrhythmias could provide the key to understanding and treating a major cause of death in the world. until now, however, real-time modeling of those deadly waveforms within millions of interacting heart cells required especially powerful computer clusters – even supercomputers. 
+ using graphics processing chips designed for gaming applications and software that runs on ordinary web browsers, researchers have moved this modeling of the deadly spiral wave heart arrhythmias to less costly computers, and even to high-end smartphones. that could put the real-time 3d modeling into the hands of clinicians who may one day use the system to diagnose and treat these abnormal heart rhythms. the new tools could also help researchers study new drugs that must be evaluated for their potential to cause heart arrhythmias. 
+ beyond cardiac issues, which can require solving billions of equations, the tools could also be applied to other physical systems, such as fluid flow and crystal growth. the research, which has been supported by the national science foundation and national institutes of health, is reported march 27 in the journal 
+ science advances . the new simulation tools rely on web graphics library (webgl 2.0) and can run on most common operating systems, independent of the operating system. 
+ “models that might have been accessible to only a handful of researchers in the world will now be available to many more groups,” said 
+ flavio fenton , a professor in the 
+ school of physics 
+ at the georgia institute of technology. “this also opens the door to many other areas of research where people have equations that can be run in parallel. anybody can have access to these solutions, which run simulations as much as thousands of times faster than standard cpus.” 
+ fenton and collaborators at georgia tech and rochester institute of technology have been studying harmful heart rhythm patterns to understand them – and potentially to design control strategies that go beyond existing treatments, which use drugs, implantable devices and tissue ablation to halt the arrhythmias. ultimately, the researchers envision doctors using the simulations on tablet computers. 
+ “being able to do real-time simulations in three dimensions could open the door to clinical applications where we could actually obtain patient geometries and solve these equations in the cells that are packed into the heart,” said elizabeth cherry, a professor of mathematics at rochester institute of technology and one of the project researchers. “we could see applications in the clinic that could individualize treatments on the basis of their specific heart geometries. we could actually test possible therapies to see what would work for each patient.” 
+ key to what they have done are graphics processing units (gpus), which were developed to help computers display graphics and video. their development and application have now taken off with the growth of the computer gaming industry, which needs fast parallel processing. high-end smartphones have as many as 900 gpu cores, while high-end graphics cards for laptop or desktop computers may have more than 5,000. each core can process simulation data, providing a massively parallel computing system. 
+ “over the past several years, gpus have become really powerful,” fenton said. “each one has multiple processors, so you can run problems in parallel like a supercomputer does. as many as 40 or 50 differential equations must be calculated for each cell, and we need to understand how millions of cells interact. i was surprised that even a cellphone may have enough gpu cores to run these simulations.” 
+ harnessing gpu power is not all the researchers have done. software for the gpus varies by manufacturer and chip type. to allow the simulations to run on any gpu, research scientist abouzar kaboudian developed a versatile programming library that enabled him and his team of collaborators to develop programs in webgl that run through web browsers such as chrome and firefox. through a browser, the tools can run the simulations on a variety of computers, tablets and phones – without the need to install any new programs on them. 
+ “if you have access to the internet and a modern web browser like firefox or chrome, you can just go to a web link and the simulation will start running on the graphics card of your computer,” said kaboudian. “any problem that can be parallelized can run on the library that we have created. it will accelerate simulations on any computer by several hundred times.” 
+ while the original goal was to simulate heart arrhythmias, the tools can be useful with other simulations such as chemical reactions, fluid flow, crystal growth and geophysical forces. 
+ “oscillating forces can reduce the lifespan of civil engineering structures such as petroleum platforms and underwater pipelines,” kaboudian said. “to understand these forces, you have to understand fluid flow around the structures and how to control the oscillations. with this program, you can see the effects of changes to modify your design strategy in real time.” 
+ the researchers have developed ten different models based on their webgl programming, and are planning to make the tools available to other researchers who want to use them. they are planning future enhancements, such as the ability to run the simulations on more than one gpu card to achieve even higher computational speeds. 
+ though high-end graphics cards can range in cost up to thousands of dollars, even those that cost only a few hundred dollars can provide computational power that would be only possible on supercomputers that would normally cost several hundred thousand dollars, kaboudian said. in this way, they may provide real savings compared to operating large computer clusters or supercomputers. and that could make simulations available to more researchers. 
+ “being able to run these simulations on gpu cards greatly lowers the cost compared to a traditional supercomputer,” cherry noted. “even the gpus of high-end cellphones can run these simulations. that will expand access by moving these simulations onto smaller local devices that researchers are familiar with and can afford.” 
+ this research was supported by the national science foundation’s computer and network systems under grants cns-1446675 and cns-1446312 and by the national institute of health’s national heart lung and blood institute under grant 1r01hl143450-01. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ citation : abouzar kaboudian, elizabeth m. cherry, flavio h. fenton, “real-time interactive simulations of large-scale systems on personal computers and cell phones: toward patient-specific heart modeling and other applications,” (science advances, 2019). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact: 
+ john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,30 @@
+Georgia Tech Internet of Things Research Center Releases White Paper on Digital Transformation
+New white paper offers pathways for business leaders exploring digital transformation and the Internet of Things.
+CDAIT to review new white paper at Georgia Tech's Coda building.
+Nov 25, 2019
+— Atlanta, GA
+The Georgia Institute of Technology’s Center for the Development and Application of Internet of Things Technologies (CDAIT) announces the release of a white paper that offers some pathways for business leaders as they explore digital transformation and the Internet of Things (IoT).
+The study gives context for IoT and Digital Business Transformation (DBT) relative to ongoing digital change bounded on one hand by the basic digitalization of information and processes and, on the other, the broader digital societal transformation that will enable a connected and digitally engaged society.
+“The paper focuses on the business reinvention, opportunities and impacts brought about by pervasive digital change (across people, process, technology & environment) for which IoT technologies play a key role. It also explores some of the key DBT challenges, especially around IoT implementation and scale, and suggests frameworks for improving the approach to and efficacy of DBT programs and their IoT elements,” said Michelle Mindala-Freeman, former Vice President in the Telecommunications, Media and Technology Practice at Capgemini, CDAIT Visiting Scholar and incoming Chair of the CDAIT IoT Thought Leadership Working Group.
+Supported by CDAIT research and members’ experience, the white paper underscores three foundational components related to digital transformation and IoT:
+IoT projects must be defined, designed and delivered as part of a comprehensive DBT agenda and approach. The DIGIT framework outlined in the paper identifies the building blocks that are mission-critical to success, starting with setting and communicating a clear digital strategy.
+The IoT end-to-end value chain is rich and complex, going well beyond devices, networks and applications. To create a more holistic view, the paper proposes the IMAGE model, which blends technological and non-technological aspects, all essential for delivering scale and benefits over time.
+IoT and business leaders should take action now to ground their DBT programs in fast emerging value vectors such as Recycling and reuse (circular economy),  Outcome-driven business models (outcome economy), and Integration (interconnected economy), i.e., the “new ROI”, which, if judiciously harnessed, will bolster up corporate return on investment.
+“We recognize that creating and scaling digital transformation and IoT programs is extremely difficult to do; in particular when it comes to maintaining a big picture mindset while dealing with a myriad of related moving parts and details,” added Sebastien Lafon, former Global Head of Digital and Marketing Services at Boehringer Ingelheim, CDAIT Visiting Scholar and Vice Chair of the CDAIT IoT Standards & Management Working Group. “We trust digital transformation leaders will find in this paper a useful and concrete set of guideposts.”
+Anyone who is considering launching some kind of IoT-centered DBT initiative or has hit stumbling barriers or snags – be they business buy-in, deployment speed or value delivery – should be able to capitalize on the suggestions and lessons learned that are shared throughout the report.
+“As a matter of course, we leverage industry insights from our members and Georgia Tech researchers to provide original perspectives on critical issues currently at the center of the IoT space,” said Alain Louchez, Co-founder and Managing Director of CDAIT. “The white paper on digital transformation is a concrete example of this approach. It does not claim to be the be-all and end-all answer to a complex question. Rather, it shares key concerns and constraints while offering a few possible, directions, recommendations and guidelines to help decision-makers and practitioners effectively chart the course of this very challenging undertaking.”
+The white paper can be accessed free of charge here:
+https://c.gatech.edu/2QLbVE1
+About CDAIT
+The Center for the Development and Application of Internet of Things Technologies (CDAIT, pronounced “sedate”) is a global, nonprofit, partner-funded center located in Atlanta, GA that fosters interdisciplinary research and education while driving general awareness about the Internet of Things (IoT). CDAIT bridges sponsors with Georgia Institute of Technology (Georgia Tech) faculty and researchers, as well as industry members with similar interests. Central to its value proposition is the belief that only a holistic approach, i.e., mindful of the complexity of the entire IoT value chain and the intricate relationships between the various links, can generate superior results. CDAIT’s broad overarching goal is to expand and promote IoT’s huge potential and transformational capabilities. CDAIT aims to efficiently identify, understand and solve challenges and problems that may arise along the entire Internet of Things value chain through six Working Groups: IoT Education and Training; IoT Startup Ecosystem; IoT Thought Leadership; IoT Security and Privacy; IoT Standards and Management; and IoT Research.
+Learn more about CDAIT at
+www.cdait.gatech.edu .
+Additional Images
+Contact
+Denise Ward
+denise.ward@comm.gatech.edu
+Email
+denise.ward@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

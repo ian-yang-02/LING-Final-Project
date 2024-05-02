@@ -1,0 +1,45 @@
+looking for entangled atoms in a bose-einstein condensate 
+ using a bose-einstein condensate composed of sodium atoms, georgia tech researchers have observed a sharp magnetically-induced quantum phase transition where they expect to find entangled atomic pairs. 
+ chandra raman, an associate professor in the georgia tech school of physics, is shown in his laboratory with equipment used to study bose-einstein condensates. (credit: rob felt, georgia tech). 
+ feb 02, 2017 
+ — atlanta, ga 
+ using a bose-einstein condensate composed of millions of sodium atoms, researchers at the georgia institute of technology have observed a sharp magnetically-induced quantum phase transition where they expect to find entangled atomic pairs. the work moves scientists closer to an elusive entangled state that would have potential sensing and computing applications beyond its basic science interests. 
+ the use of entangled atoms from a condensate could improve the sensitivity and reduce the noise in sensing very small changes in physical properties such as magnetic fields or rotation. and it could also provide a foundation for quantum computers able to perform certain calculations much faster than conventional digital computers. 
+ sponsored by the national science foundation, the research was reported january 23 as a rapid communication in the journal 
+ physical review a . 
+ “we have defined a window where we expect to be able to observe entanglement,” said 
+ chandra raman , an associate professor in the georgia tech 
+ school of physics . “we now know where to look for it, and we know how to look for it.” 
+ raman and former graduate student anshuman vinit have been studying bose-einstein condensates (becs) as a source of entanglement, seeking to take advantage of the system’s quantum purity to create conditions where correlation between atoms might occur. becs don’t normally contain entangled atoms. 
+ “we found ways to engineer the system to create entanglement,” raman explained. “we looked at the behavior of the system as we tuned the magnetic field very close to the phase boundary and showed that the boundary had a very sharply defined point. we were able to resolve that boundary with a level of uncertainty we didn’t think we could get until we did the experiment.” 
+ theoretical predictions have suggested that at the boundary between different magnetic phases of a spinor bose-einstein condensate, scientists would find an entangled quantum state of all the atoms. in spinor bose-einstein condensates, the individual magnetic moments do not need to have a well-defined orientation in space, but rather, can exist in a superposition of different orientations. 
+ in their experiment, the researchers identified two phases: antiferromagnetic and polar. in the polar phase, the atoms all align their moments vertically, while in the antiferromagnetic phase, they are horizontally aligned.  in a bec exactly at the boundary between these phases, theorists had predicted the existence of a quantum mechanical superposition of all possible alignments, an entangled state. 
+ the researchers haven’t yet observed that entangled state yet, but their work so far has defined an experimental window within which to look for new physical effects governing different magnetic phases, or to generate entangled states that are relevant for quantum-based systems. 
+ earlier research in raman’s lab had produced the two phases, but the boundary between them was “smeared out” by magnetic field inhomogeneities. by smoothing out the magnetic field so that it was more uniform, the researchers were able to eliminate the variations to produce a sharp boundary between the phases. 
+ in the narrowly-defined transition area identified in the research, atoms are torn between the two phases, causing entangled pairs to form, raman said. the state may be stable enough to find practical applications, though scientists won’t know for sure until they actually can observe and measure the properties. 
+ the researchers measured the boundary in their system by “jumping” the magnetic field from one part of the bec to another. the move created a dynamical instability in the atomic system; the larger the instability, the less time the system required to return to equilibrium, as predicted by quantum theory. 
+ the researchers now believe they’ve set the stage for observing entanglement in a smaller groups of atoms, perhaps no more than a thousand. 
+ “at our current sensitivity, we think we could observe these spin-correlated states with a reasonable number of particles,” raman said. “we think that is experimentally feasible, and since we can measure the boundary with precision, we can begin to test the theories governing behavior in this regime.” 
+ once that’s shown, the large ensemble of atoms could be broken down into many smaller groups operating independently, each with phase boundaries containing entangled atoms. 
+ though raman finds the basic science and quantum computing interesting, he is equally excited about potential sensing applications. 
+ “if you could reduce the noise level through the clever use of quantum mechanical superpositions, you could realize sensors that are more precise and could detect smaller effects,” he said. “in quantum sensing you could use entanglement to increase the precision of measurements to levels that, in classical sensor systems, would have a higher noise level.” 
+ in classical oscillating systems such as coin tosses, each flip is an independent system and has a certain level of noise. but because of the correlation, the atomic pairs would no longer be independent systems. 
+ “in an ordinary classical system, there’s a certain amount of noise that has to do with the fact that you are making measurements on independent systems,” he said. “in quantum systems, it is possible to suppress that noise if the atoms are correlated. it’s as if the coins were talking to one another.” 
+ quantum sensors might therefore be able to detect changes in rotation or magnetic variation that are too small for today’s sensors. other applications could be found in spectroscopic measurement, raman said. 
+ this material is based upon work supported by the national science foundation under grant no. 1100179. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the national science foundation. 
+ citation : a. vinit and c. raman, “precise measurements on a quantum phase transition in antiferromagnetic spinor bose-einstein condensates,” (physical review a, 2017). 
+ https: / / doi.org / 10.1103 / physreva.95.011603 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

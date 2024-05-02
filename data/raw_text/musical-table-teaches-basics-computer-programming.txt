@@ -1,0 +1,34 @@
+Musical Table Teaches Basics of Computer Programming
+A musical, interactive tabletop teaches the basics of computer coding.
+Coasters can be moved along TuneTable's projection surface to make music using elements of computer programming
+Dec 14, 2016
+— Atlanta, GA
+Museums are the next places K-12 students will have a chance to learn about computer programming. As part of a $3 million grant from the National Science Foundation, researchers at the Georgia Institute of Technology and Northwestern University have built a musical, interactive tabletop exhibit that teaches the basics of computer coding.
+It’s called TuneTable . Students move coasters along the table’s projection surface to make a musical piece using elements of computer programming.  Then they tap the surface to play a series of beats, beeps and samples. The table will be installed at the Museum of Design Atlanta in early 2017 and Chicago’s Museum of Science and Industry in the summer.
+The project addresses a national need to make major strides in computer programming literacy for K-12 students.
+“It’s also about changing the attitude about computation and exposing it to people that might not have sought it out otherwise,” said project lead Brian Magerko, an associate professor in Georgia Tech’s Ivan Allen College of Liberal Arts. “Hopefully some of them will think it is a cool, new way to express themselves.”
+The table includes basic computing programming elements that people would use when learning programming formally for the first time, such as iteration and go-to statements.
+TuneTable’s interactive surface uses computer vision to detect printed markers — officially they’re called fiducials —  on the coasters. Each coaster is assigned a sound or programming command, such as a splitter or repeater. People link them together to form a chain of electronic and hip hop sounds.
+“Manipulating notes, chords and rests requires a lot of music theory knowledge,” said Magerko, who also leads Georgia Tech’s
+Adaptive Digital Media lab . “Instead, we’re opting to manipulate music samples with code. And certain genres, such as electronic and hip hop, map very well computationally.”
+Magerko said they’re also very appealing to underserved populations, such as women, African-Americans and Latinos. He and Georgia Tech College of Design Professor Jason Freeman learned that after designing a software program called
+EarSketch
+that teaches Python and Javascript at nearly 200 high schools across the country. EarSketch students use digital audio workstations and the programming languages to manipulate loops and compose music. TuneTable reimagines this experience within a museum exhibit.
+“The table allows us bring the basics of computer programming out of the classroom and into more informal settings such as museums,” said Freeman, a co-principal investigator on the NSF grant. “Kids can be playful and social, just by walking up and giving it a try.”
+Once the exhibit arrives in museums, people will be able to create their own music and email it to themselves. They can continue tinkering with the code when they get home using EarSketch or a tablet version of the software, which is being designed by Northwestern’s Mike Horn.
+“We see the tablet app as a crucial connection point between what kids experience at the museum with TuneTable and what they learn in school with EarSketch,” said Horn. “We want it to give kids space and time to build up foundational computational literacy skills before the deep dive into learning Python or JavaScript.”
+The project is supported in part by NSF grant AISL-1612644 . Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors.
+Additional Images
+Related links
+White House Recognizes EarSketch
+Learn More About EarSketch
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

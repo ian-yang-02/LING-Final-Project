@@ -1,0 +1,26 @@
+Ph.D. Student Programs Robot for HBO Max Movie ‘Superintelligence’
+Ph.D. student De’Aira Bryant programs humanoid robot for HBO Max Movie ‘Superintelligence’ starring Melissa McCarthy.
+Jan 19, 2021
+— Atlanta, GA
+For one doctoral student in computer science and intelligent systems at Georgia Tech, her main focus has been exploring interactive communication within robotics — not working in the movie industry.
+But De’Aira Bryant lives in Midtown Atlanta, a booming area of film production where unique opportunities occasionally arise.
+In summer 2018, the production team for the HBO Max movie
+Superintelligence
+contacted the
+College of Computing
+in search of a programmable robot for a scene. Ayanna Howard, chair of the School of Interactive Computing and Linda J. and Mark C. Smith Professor, recommended Bryant.
+For the film, she was asked to program a Nao, a humanoid robot she utilizes in the  Human-Automation Systems (HumAnS) Lab , which the lab affectionately named Cookie. The robot is traditionally used in adaptive rehabilitative activities for children with motor impairments.
+“I had about a week to get it ready. I had this idea of what they wanted, and I tried to program it as best I could. I had no idea what the movie was about, but I was just excited to be a part of it,” Bryant explained.
+Superintelligence,
+starring Melissa McCarthy, takes place when an all-powerful autonomous artificial intelligence chooses to study the most average person on earth, Carol (played by Melissa McCarthy). The fate of the world hangs in the balance
+For the scene, Bryant programmed Cookie to execute specific non-verbal movements that matched the timing and script. Cookie can be seen in the film executing custom gestures that helped to portray the personality of the Superintelligence while also exhibiting social and communicative behavior as it spoke to the actors in the scene.
+On the day of filming, Bryant took the Nao robot to the Klaus Advanced Computing Building. Sitting right behind the camera, De’Aira was readying for her cue. Anxiously waiting, she says everyone on set was understanding and eager to learn, with plenty of questions. And, of course, when it was time, Cookie came through with flying colors.
+“I like to say that the robot was the biggest superstar on the set.”
+Additional Images
+Contact
+Evan Atkinson , Georgia Tech Institute Communications
+Email
+eatkinson6@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

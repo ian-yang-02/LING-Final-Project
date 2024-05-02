@@ -1,0 +1,57 @@
+asymptomatic spread could make the covid-19 pandemic longer and worse 
+ a new statistical study may help dispel lingering doubts about whether to be concerned that people without covid-19 symptoms are spreading the disease. 
+ chart shows the realized proportion of asymptomatic transmission of the coronavirus. 
+ jul 20, 2020 
+ — atlanta, ga 
+ a new statistical study may help dispel lingering doubts about whether to be concerned that people without covid-19 symptoms are spreading the disease. the asymptomatic spread of the coronavirus is likely both common and significant, authors of 
+ a new study 
+ said. 
+ “for the bulk of possible scenarios that can exist, asymptomatic transmission matters in the spread of covid-19. you have to make very extreme assumptions about the spread for asymptomatic transmission to be unimportant,” said 
+ joshua weitz , a georgia institute of technology professor and the study’s co-principal investigator. 
+ how strongly does asymptomatic spread contribute to the covid-19 pandemic’s curve? the new study addressed the question with mathematical modeling and concluded that this depends on how asymptomatic spread affects what is called the generation interval for new infections. 
+ simply put, the generation interval is how long it takes for a person infected today to infect the next person. 
+ knowing where these intervals fall allows researchers to calculate a more accurate value for r0 (r naught), a number that indicates the pandemic’s inherent strength of contagion in the absence of measures like distancing or masks to push it down. r0 is used to project how long the pandemic can last, how high the infection curve can go, and how many people in total could get sick and die. 
+ for more coverage of georgia tech’s response to the coronavirus pandemic, please visit our  responding to covid-19 page . 
+ but unlike highly visible data such as new cases per day, hospitalizations, or death toll, asymptomatic spread moves in the shadows because those cases very often remain unrecorded. documenting them would take large-scale virus and antibody testing and meticulous contact tracing. 
+ assumption vs. calculation 
+ that makes it challenging to accurately measure the real-time impact of asymptomatic spread. in light of this, the researchers calculated how a broad range of asymptomatic spread scenarios would affect the nature of the generation interval and the course of the pandemic. 
+ they found that asymptomatic spread’s contributions can reduce or raise the r0 calculation dramatically. that would mean that if current assumptions about asymptomatic spread are significantly inaccurate, r0’s value and the resulting projections of the pandemic’s length and severity would be, too. 
+ “to get r0, we make an assumption about how generation intervals are distributed. not accounting for asymptomatic generation intervals leads to biases in how big r0 is for covid-19,” said weitz, who is a professor in georgia tech’s 
+ school of biological sciences 
+ and founding director of the quantitative biosciences graduate program. 
+ the team, led by weitz and jonathan dushoff from mcmaster university, 
+ published their results 
+ in the june 2020 issue of the journal epidemics. sang woo park of princeton university and daniel cornforth of georgia tech coauthored the study. the research was funded by the simons foundation, the army research office, the national institutes of health, and the national science foundation. 
+ speed vs. strength 
+ though the study was not about mitigations like distancing and masks, the authors, like public health officials, said both pushback on the virus’s innate strength of transmission. if a society can push the strength below 1 – one infected person infecting just one other person on average – the pandemic starts to fade away, a success a few countries have already achieved. 
+ “if a lot of transmission is going the asymptomatic route, masks are really going to work in our favor. we should be prioritizing mask-wearing as a public health intervention irrespective of symptoms,” weitz said. 
+ there are important differences between the speed of contagion – how steeply the curve is climbing – and the strength – how sustained contagion is over time and how high the curve will peak. speed is highly visible, strength much less so. 
+ barring measures to slow it, the innate speed of a pandemic is seen by how quickly the number of new cases per day doubles – for example, every four days. but the strength of contagion is partly hidden in the yet-obscured frequency of asymptomatic contagion. 
+ adding to that stealth, the speed of spread on the upside of the curve looks exactly the same for many strengths, i.e. r0 values. 
+ “that is the tricky thing. the difference comes in the long term, and it is big,” dushoff said. “right now, we are judging the spread by its speed, but what can make the big difference in the peak and the duration of the pandemic is the strength of the spread.” 
+ short vs. long 
+ a short generation interval can make for a shorter pandemic with a lower peak, and a long interval would expand both. two polar opposite scenarios illustrate how this works. for the sake of the exercise, let’s assume we know the real value of covid-19’s generation intervals during a pandemic where case counts double about every four days and symptomatic persons can spread the virus for six days on average. 
+ let’s say, hypothetically, that people transmitting the virus asymptomatically, on average, either: 
+ can spread the coronavirus for only three days – a short generation interval, half the duration of symptomatic cases. 
+ or, alternatively, spread the virus for 12 days – a long generation interval, twice the duration of symptomatic cases. 
+ to maintain the speed of spread, in the first scenario, the virus is having to pass to more people more quickly, and herd immunity – when enough people have immunity to stop the spread – is reached sooner. the r0 is lower; the curve peaks and begins its decline sooner, and that reduces the total number of illnesses and deaths. 
+ “if the generation interval is long, that means it takes fewer infected people to maintain the same speed of contagion and that the spread is stronger, more sustained,” weitz said. “if asymptomatic people are staying infected longer than we have thought and are infecting more people in the course of their infection than thought, then we are currently underestimating r0.” 
+ if so, just when we think we have reached the peak, covid-19’s climb would keep going, lengthening the pandemic and increasing the number of severe and deadly cases. 
+ these researchers coauthored the study: the research was funded by the simons foundation (scope award 329108), the army research office (grant w911nf1910384), the national institutes of health (1r01ai46592-01), and the national science foundation (grants 1806606 and 1829636). any findings, conclusions, or recommendations are those of the authors and not necessarily of the sponsors. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer: 
+ ben brumfield 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

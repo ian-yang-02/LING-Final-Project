@@ -1,0 +1,20 @@
+controlling swarms of robots with a finger 
+ system allows human to control robots with finger and beams of light. 
+ a person taps the tablet to control where the beam of light appears on a floor. the swarm robots then roll toward the illumination, constantly communicating with each other and deciding how to evenly cover the lit area. 
+ may 12, 2015 
+ — atlanta, ga 
+ using a smart tablet and a red beam of light, georgia institute of technology researchers have created a system that allows people to control a fleet of robots with the swipe of a finger. a person taps the tablet to control where the beam of light appears on a floor. the swarm robots then roll toward the illumination, constantly communicating with each other and deciding how to evenly cover the lit area. when the person swipes the tablet to drag the light across the floor, the robots follow. if the operator puts two fingers in different locations on the tablet, the machines will split into teams and repeat the process. the new georgia tech algorithm that fuels this system demonstrates the potential of easily controlling large teams of robots, which is relevant in manufacturing, agriculture and disaster areas. “it’s not possible for a person to control a thousand or a million robots by individually programming each one where to go,” said magnus egerstedt, schlumberger professor in georgia tech’s school of electrical and computer engineering. “instead, the operator controls an area that needs to be explored. then the robots work together to determine the best ways to accomplish the job.” egerstedt envisions a scenario in which an operator sends a large fleet of machines into a specific area of a tsunami-ravaged region. the robots could search for survivors, dividing themselves into equal sections. if some machines were suddenly needed in a new area, a single person could quickly redeploy them.  the georgia tech model is different from many other robotic coverage algorithms because it’s not static. it’s flexible enough to allow robots to “change their minds” effectively, rather than just performing the single job they’re programmed to do. “the field of swarm robotics gets difficult when you expect teams of robots to be as dynamic and adaptive as humans,” egerstedt explained. “people can quickly adapt to changing circumstances, make new decisions and act. robots typically can’t. it’s hard for them to talk and form plans when everything is changing around them.” in the georgia tech demonstration, each robot is constantly measuring how much light is in its local “neighborhood.” it’s also chatting with its neighbor. when there’s too much light in its area, the robot moves away so that another can steal some of its light. “the robots are working together to make sure that each one has the same amount of light in its own area,” said egerstedt. the tablet-based control system has one final benefit: it was designed with everyone in mind. anyone can control the robots, even if they don’t have a background in robotics. “in the future, farmers could send machines into their fields to inspect the crops,” said georgia tech ph.d. candidate yancy diaz-mercado. “workers on manufacturing floors could direct robots to one side of the warehouse to collect items, then quickly direct them to another area if the need changes.” a paper about the control system, “multi-robot control using time-varying density functions,” was 
+ recently published 
+ in the ieee transactions on robotics (t-ro). this material is based upon work supported by the air force office of scientific research under award no. fa9550-13-1-0029. any opinions, findings and conclusions or recommendations expressed in this publication are those of the authors and do not necessarily reflect the views of the afosr. 
+ additional images 
+ related links 
+ read the study 
+ see a video demo 
+ grits lab 
+ contact 
+ jason maderer national media relations maderer@gatech.edu 404-385-2966 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

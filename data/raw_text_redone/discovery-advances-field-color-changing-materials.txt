@@ -1,0 +1,50 @@
+discovery advances the field of color-changing materials 
+ a serendipitous discovery by a graduate student has led to materials that quickly change color from completely clear to a range of vibrant hues — and back again. 
+ graduate research assistant dylan christiansen studies the electrochromic properties of new materials in a transparent electrochemical cell that allows examination of color change upon application of an oxidizing voltage. (photo: allison carter, georgia tech) 
+ apr 11, 2019 
+ — atlanta, ga 
+ a serendipitous discovery by a graduate student has led to materials that quickly change color from completely clear to a range of vibrant hues — and back again. the work could have applications in everything from skyscraper windows that control the amount of light and heat coming in and out of a building, to switchable camouflage and visors for military applications, and even color-changing cosmetics and clothing. it also helps fill a knowledge gap in a key area of materials science and chemistry. 
+ a paper on the research was published in a recent issue of the 
+ journal of the american chemical society 
+ (jacs). 
+ electrochromic materials change color upon the application of a small electrical potential or voltage. for the last 20 years 
+ john r. reynolds , a professor at the georgia institute of technology, has been studying and developing electrochromic materials that can switch from a wide range of vibrant colors to clear. 
+ but these materials, known as cathodically coloring polymers, have a drawback. their transmissive, or clear, state is not completely clear. rather, in this state the material has a light blue tint. “that’s fine for many applications — including rear-view mirrors that cut the glare from oncoming cars by turning dark — but not for all potential uses,” said reynolds, who has joint appointments in the 
+ school of chemistry and biochemistry 
+ and the 
+ school of materials science and engineering 
+ at georgia tech. 
+ for example, the air force is working toward visors for its pilots that would automatically switch from dark to clear when a plane flies from bright sunlight into clouds. “and when they say clear, they want it crystal clear, not a light blue,” reynolds said. “we’d like to get rid of that tint.” 
+ toward a solution 
+ there is another family of electrochromic materials that can change color when exposed to an oxidizing voltage. these materials, known as anodically coloring electrochromes (aces), are colorless materials that turn colored upon oxidation. but there has been a knowledge gap in the science behind the colored oxidized states, known as radical cations. researchers have not understood the absorption mechanism of these cations, and so the colors could not be controllably tuned. 
+ introducing dylan t. christiansen, a graduate student in the reynolds group. while tinkering with some ace molecules, he experimented with a new approach to controlling color in radical cations. specifically, he created four different ace molecules by making tiny changes to the aces’ molecular structures that have little effect on the neutral, clear state, but significantly change the absorption of the colored or radical cation state. 
+ the results were spectacular. “i expected some color differences between the four molecules, but thought they’d be very minor,” christiansen said. instead, upon the application of an oxidizing voltage, the four molecules produced four very different colors: two vibrant greens, a yellow, and a red. and unlike their cathodic counterparts, they are crystal clear in the neutral state, with no tint. finally, just like mixing inks, the researchers found that a blend of the molecules that switch to green and red made a mixture that is clear and switches to an opaque black. suddenly those air force visors that switch from crystal clear to black looked more attainable. 
+ “the beauty of this is it’s so simple. these minor chemical changes — literally the difference of a few atoms — have such a huge impact on color,” said 
+ aimée l. tomlinson , a professor in the department of chemistry and biochemistry at the 
+ university of north georgia 
+ and the third author of the paper with reynolds and christiansen. 
+ what’s going on? 
+ how could such tiny changes have such an effect? that’s where tomlinson, a computational chemist, comes in. 
+ for the last five years she has been analyzing reynolds’ electrochromic materials with computational models that provide insights into what’s happening at the sub-molecular level. using those models, coupled with christiansen’s data for the new ace molecules, she was able to show how the small chemical changes that were made can drastically alter the electronic structure of the molecules’ radical cation states, and ultimately control the color. 
+ the work continues to generate insights into new ace molecules thanks to continuous feedback between tomlinson’s models and the experimental data. the models help guide efforts in the lab to create new ace molecules, while the experimental data from those molecules makes the models ever stronger. 
+ tomlinson notes that because the work is also helping to illuminate how radical cations work — they are still not well understood — it could help others manipulate them for future use in fields beyond electrochromism. 
+ reynolds commented on the serendipitous nature of the initial discovery. “i think what makes science really interesting is that [sometimes] you see something you really did not expect, you pursue it, and you end up with something that is better than you expected when you started.” 
+ this work was funded by the air force office of scientific research. tomlinson also acknowledges the support of her university, while reynolds acknowledges support for his electrochromic polymer research program from nxn licensing. any opinions or conclusions are those of the authors and do not necessarily represent the views of the sponsoring organizations. 
+ citation : dylan t. christiansen, aimée l. tomlinson, and john r. reynolds, “new design paradigm for color control in anodically coloring electrochromic molecules”(journal of the american chemical society, february 22, 2019). 
+ https: / / pubsdc3.acs.org / doi / 10.1021 / jacs.9b01507 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : elizabeth thomson 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

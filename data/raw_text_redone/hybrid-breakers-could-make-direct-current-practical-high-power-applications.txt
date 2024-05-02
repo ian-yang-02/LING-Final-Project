@@ -1,0 +1,42 @@
+hybrid breakers could make direct current practical in high power applications 
+ direct current (dc) has advantages over alternating current, and a new circuit breaker under development could make dc more practical. 
+ georgia tech professor lukas graber and postdoctoral fellow chanyeop park study the plasma potential surrounding materials being evaluated for use in improved dc circuit breakers. the low-energy argon plasma creates the purple color. (photo: rob felt, georgia tech) 
+ oct 01, 2019 
+ — atlanta, ga 
+ direct current (dc) powers flashlights, smartphones and electric cars, but major power users depend on alternating current (ac), which cycles on and off 60 times per second. among the reasons: ac is simple to turn off when there’s a problem — known as a fault — such as a tree falling on a power line. 
+ but dc has inherent advantages over its alternating cousin, among them higher efficiency and the ability to carry more power over longer distances. that could be increasingly important as wind farms in rural areas produce power needed in population centers. and future electric aircraft and ships are likely to be powered by high-power-density dc systems. 
+ alternating current can be shut down when the power level hits zero during a cycle — the zero-crossing point of a sine wave — which is the basis for breakers that protect modern power systems everywhere from substations to home installations. without these alternating cycles, however, direct current has no opportune time to turn off the power. 
+ new technology funded by a $3.3 million award from arpa-e’s breakers program could help solve that problem using innovations in power electronics, piezoelectric actuators, and new insulation materials to make high-power dc circuit breakers feasible. researchers from the georgia institute of technology and florida state university (fsu) expect to enable breaker switching speeds ten times faster than existing equipment and commercialize the technology through a consortium of industry partners. 
+ “the transition from ac to dc, which is already happening, will open up a new paradigm for efficiently and controllably managing power in future electrical systems and military platforms,” said michael "mischa" steurer, a research faculty member at florida state university’s center for advanced power systems. “this will be enabled by the amazing developments that have happened over the past two decades in power electronics.” 
+ the hybrid circuit breaker under development by the research team will use stacks of very large transistors to switch off the dc when necessary. semiconductors are less efficient at conducting current than conventional mechanical switches, so under ordinary conditions, the current will flow through mechanical switches. but when the power must be turned off, current will be briefly routed through the power electronics until the mechanical breakers can be opened. 
+ “we are proposing a hybrid dc circuit breaker in which the current will have two paths,” explained 
+ lukas graber , an assistant professor in the 
+ school of electrical and computer engineering 
+ at georgia tech. “one path will be through the semiconductors, which can interrupt the current when needed. the second path will be through mechanical switches, which will provide a much less resistive path that will be more efficient for normal operations.” 
+ in common consumer electronics applications, transistors are too small to see and handle just a few volts. the transistors that will be used in dc switching are much larger — a square centimeter — and dozens or hundreds of them would be combined in serial or parallel to provide enough capacity for switching thousands of volts. after the current has been moved to the solid-state transistor pathway, piezoelectric actuators will quickly separate the contacts in the mechanical switches before current rises too high in the transistors. once separated, the current through the transistors can be switched off. 
+ “we need to be extremely fast,” graber said. “we have to separate the contacts within 250 microseconds and to completely break the current within 500 microseconds — just half a millisecond. for that reason, we cannot use spring-loaded or hydraulic actuators common to ac breakers. devices that rely on the piezoelectric effect can do that for us.” 
+ the georgia tech and fsu researchers have developed intellectual property for components of the proposed dc breakers, and will work together to combine the technologies. the project is known as efficient dc interrupter with surge protection (edison). 
+ “we will combine the strengths of significantly different technologies — solid state and mechanical — into a system that functions better overall than its individual components,” said steurer. “the pieces of the system have to work together seamlessly within half a millisecond to achieve our goal.” 
+ the researchers — including associate professor maryam saeedifard, venturelab principal jonathan goldman, and postdoctoral fellow chanyeop park at georgia tech and professor fang peng, research faculty karl schoder, and assistant professor yuan li at fsu — expect to build a prototype that will be tested at fsu’s five-megawatt test facility within three years. the development and testing will be done in collaboration with a team of industrial partners who will ultimately transition the dc breakers to commercial use. 
+ direct current could be particularly useful as more renewable energy comes online. photovoltaics in the west may still be generating power after the sun sets in the east. wind turbines may be producing power in the midsection of the country while clouds cover other parts of the country. transmitting power from one location to another could therefore become more important. 
+ “there are large distances to be bridged with renewables,” graber said. “when we rethink what the next grid is going to be like, dc may play a larger role.” 
+ for those who know the history of electrical power, the work opens a new chapter of a story that goes back almost a century and a half to two of the most celebrated inventors of all time. 
+ the relative merits of dc versus ac provided the basis for the “war of current” between inventors thomas edison and nickolas tesla in the 1880s. edison, a proponent of dc, ultimately lost out to tesla’s ac. but had edison been able to use modern power electronics, the story might have turned out differently. 
+ “edison was right, but at the time he was wrong,” graber said. “dc is coming back strong, and we will be a part of making it practical.” 
+ funding for the work is from arpa-e’s building reliable electronics to achieve kilovolt effective ratings safely (breakers) program. the project was among eight funded to support the development of medium-voltage devices for grid, industry and transportation applications. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

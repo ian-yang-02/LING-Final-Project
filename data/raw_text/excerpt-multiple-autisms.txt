@@ -1,0 +1,79 @@
+Excerpt: ‘Multiple Autisms’
+Jennifer S. Singh sets out to discover how autism emerged as a genetic disorder and how this affects those who study autism and those who live with it.
+Apr 06, 2017
+— Atlanta, GA
+Excerpt from
+Multiple Autisms: Spectrums of Advocacy and Genomic Science
+Jennifer S. Singh
+Multiple Ways of Viewing Autism
+I think in the end, at the end of the day . . . genetic factors will probably account for most of autism. So the working model that we have now is that there are multiple genetic variants involved in autism. . . . Some cases there might be an environmental component to it, too. . . . I’m sticking with genetics right now. But it’s going to be in the majority cases complex combinations of genes that are contributing to it, and there seems to be a lot of genes involved.
+■ Molecular geneticist
+My biggest motivation for participating in a genetic research study was just the idea of being part of something that could ultimately help us better understand this disorder, for us and for everybody else. You know, this is a great mystery. . . . I mean we’re getting little signs but we still don’t know.
+■ Parent of a child diagnosed with autism
+People are improperly addressing autism by thinking of whether it is a question of genetics or not. I don’t see why it would really make a practical difference. In terms of what actually happens if it is genetic or something else, you know, some people have it, some people don’t. Some people are in between. You deal with them based on who they are, not how they got to be that way.
+■ Adult with autism
+This book investigates the social, cultural, and political factors contributing to the production, meanings, and use of genetic and genomic knowledges of autism since the late twentieth century.
+The introduction’s epigraphs reflect central themes I examine throughout this book.
+First, it offers a critical analysis of the persistent focus on investigating autism through genetic and increasingly genomic lenses, as well as the social and political consequences for this narrow focus of autism research.
+Second, this book investigates the emergence of biosocial communities and forms of citizenships situated within and around advocacy for, participation in, or contestation to autism genetics and genomics research.
+Finally, this book offers alternative perspectives based on the experiences of living with autism and the utility of genetic information for everyday life.
+These various ways of seeing, practicing, living, advocating, and knowing autism and the relationships and tensions situated around the politics of autism genetic and genomic science are central issues I investigate in this book.
+Multiple Autisms
+is framed within theoretical perspectives of sociology of science, technology, and medicine and is based on nine years of ethnographic observations at autism conferences, symposiums, lectures, and public events.
+This book is grounded in the analysis of over seventy interviews I conducted with scientists, parents who have a child with autism, and adults diagnosed or self-diagnosed with autism, as well as the review of selected scientific literature and media produced by key actors in the production of autism genetic and/or genomic knowledge. 1
+Based on these different sites of analysis, I investigate the politics of knowledge production surrounding the scientific quest of and contestation to finding the elusive genes for autism. I demonstrate how the production of autism genetic and genomic knowledge dwells within larger infrastructures 2
+built through complex interactions among parent advocacy groups, scientists, funding agencies, and individuals with autism and their families, as well as biological materials, genomic technologies, and many other elements. 3
+Where the biosocial worlds of these various actors interact, this book reveals both agreement and contestation as to how autism genetic and genomic science is implicated vis-à-vis diagnoses, causes, treatments, and, above all, meanings associated with autism.
+So Much Money, No Autism Gene
+When I started investigating the politics of autism genetic science, the prevalence of autism was reported as 1 in 150 children, 4
+and autism was clinically defined as “autistic disorder” in the Diagnostic and Statistical Manual of Mental Disorders, 4th Edition (DSM–IV). 5
+The defining features of autism according to DSM–IV are impairments in social interaction; impairments in communication; and restricted, repetitive, and stereotyped patterns of behavior, interests, and activities. 6
+The signs of autism are typically apparent by age three, and although autism is diagnosed and culturally constructed as a childhood disorder, 7
+autism is a lifelong condition.
+In 2014, ten years after I started my investigation, the prevalence of autism was reported to affect approximately 1 percent of the population and to be almost five times more common in boys (1 in 42) than among girls (1 in 189). 8
+In 2013 the DSM changed the diagnosis of autism to “autism spectrum disorder” to account for the range of symptoms and severity associated with this diagnosis. 9
+Thus, in the course of researching and writing this book, the prevalence and diagnosis of autism have changed and remain unsettled. This unsettledness is especially true with regard to the causes and treatments of autism.
+To date, there are no known definitive causes of autism, and the treatments are equally tentative. 10
+This book investigates the social and political processes of investigating the genetic and increasingly genomic causes of autism, an area of research that has generated much attention, money, time, and resources. 11
+Multiple Autisms
+is situated within the flows and wakes of sequencing the human genome in the early years of the twenty-first century. The Human Genome Project (HGP) offered hope and hype of gene-based designer drugs or cures for many diseases. 12
+Within the autism scientific community, there was also a growing consensus by 1998 that autism had a genetic component, claiming that it was “one of the psychiatric disorders most influenced by genetic factors.” 13
+Since this time, the funding for autism genetics research has risen substantially. 14
+For example, the Combating Autism Act (CAA) of 2006 allocated hundreds of millions of dollars toward genetics research. Spending on the investigation of genetic risk factors alone accounted for over $100 million. 15
+Autism was also the only disease earmarked for funds in the American Recovery and Reinvestment Act of 2009, granting approximately $30 million to establish the Autism Sequencing Collaboration.
+By 2014 a private philanthropy, the Simons Foundation, granted over $200 million dollars to autism research that focuses mainly on genetics, including the development of the Simons Simplex Collection (SSC), an autism-specific genomic database designed to investigate new kinds of genomic mutations made visible through emergent biotechnologies.
+In short, by 2014 the investigation of autism genetics became a billion-dollar scientific industry, and it continues to be a major funding priority in the United States.
+Despite these and other efforts, however, major genes for autism have not been found.
+It is estimated that approximately 20–25 percent of autism cases are a result of known genetic mechanisms, 16
+leaving the cause of 75–80 percent of autism cases unknown.
+Yet public and private resource commitments toward the goal of identifying genetic risk factors continue at the expense of research on other alternative causal mechanisms such as environmental exposures or issues relevant to families and people living with autism.
+The persistent focus on autism genetics research over time raises important sociological questions I investigate in this book: Why has autism genetics research received so much financial and political support? Who has been involved in setting the priorities to pursue the genetic mechanisms underlying autism? And what are the social processes and consequences of viewing autism as a genetic and genomic condition for scientists, for clinical researchers, for families, and for people living with autism?
+Multiple Autisms
+answers these questions by investigating and charting the various shifts in the social and scientific history of autism genetic and genomics research.
+I trace the social history of parent advocacy in autism genetics, the scientific optimism and subsequent failures of finding a gene for autism, and the various meanings attached to autism in the context of knowledge produced with emerging genomic technologies.
+This book reveals how parent advocates not only pushed for more autism awareness and research funding but also organized and governed autism genetic research initiatives. This in turn influenced shifts in scientific practices and created new fields of exchange among scientists and families who participate in genetics research. Their collective efforts also helped to build an epistemic infrastructure to support the shift to autism
+genomics
+science.
+Situated during these shifts from autism genetics to genomics research were the developments of technologies that enabled scientists to see and interpret the genome in new ways.
+Thus, this book traces the transformations in scientific practices of autism genetics research from its initial optimism about identifying a “gene for” autism to the current paradigm of uncovering multiple gene-gene and gene-environment interactions, as well as small chromosomal deletions or duplications that are spontaneously acquired.
+Finally, this book pays close attention to the social impacts of translating autism through a genomic lens by taking into account the various meanings and subjectivities developed or interrupted based on autism genetic and/or genomic knowledge.
+I show how despite the billion-dollar pursuit of unraveling the genetic cause of autism, the understanding of autism remains elusive and the utility of this information has limited value in the immediate lives of people living with autism.
+Excerpt from the introduction to
+Multiple Autisms: Spectrums of Advocacy and Genomic Science
+by Jennifer S. Singh
+(University of Minnesota Press, 2016). Copyright 2016 by the Regents of the University of Minnesota.
+PURCHASE THIS BOOK
+Additional Images
+Related links
+Unlocking Autism: Illuminating the Complexities of Genomic Science
+Contact
+Rebecca Keane
+Director of Communications
+Ivan Allen College of Liberal Arts
+Georgia Institute of Technology
+404.894.1720
+Email
+rebecca.keane@iac.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

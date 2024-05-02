@@ -1,0 +1,55 @@
+Comparison Shows Value of DNA Barcoding in Selecting Nanoparticles
+New research may guide selection of nanoparticles for transporting therapeutic molecules into cells.
+Cells, stained in green with blue nuclei, are targeted by nanoparticles carrying DNA barcodes (white). The nanoparticles efficiently delivery their DNA payload into the cells. (Image courtesy of Daryll A. Vanover, Kalina Paunovska, and Cory Sago at Georgia Tech).
+Mar 05, 2018
+— Atlanta, GA
+The first direct comparison of
+in vitro
+and
+in vivo
+screening techniques for identifying nanoparticles that may be used to transport therapeutic molecules into cells shows that testing in lab dishes isn’t much help in predicting which nanoparticles will successfully enter the cells of living animals.
+The new study demonstrated the advantages of an
+in vivo
+DNA barcoding technique, which attaches small snippets of DNA to different lipid-based nanoparticles that are then injected into living animals; more than a hundred nanoparticles can be tested in a single animal. DNA sequencing techniques are then used to identify which nanoparticles enter the cells of specific organs, making the particles candidates for transporting gene therapies to treat such killers as heart disease, cancer and Parkinson’s disease.
+The traditional technique for identifying promising nanoparticles examines how the particles enter living cells kept in lab dishes. To compare the new and old screening techniques, the researchers added barcoded nanoparticles to living cells in lab dishes, and injected identical barcoded nanoparticles into living animal models. They found almost no correlation between the nanoparticles identified as promising in the lab dish tests and those that actually performed well in the mice.
+“DNA barcoding has the potential to advance the science of selecting nanoparticles for delivering gene therapies,” said
+James Dahlman , an assistant professor in the
+Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University
+and the study’s principal investigator. “Using this technique, companies and academic labs could pick out promising nanoparticles much more efficiently. That could accelerate the rate at which nanoparticle-based therapies move into the clinic, while reducing the amount of animal testing required.”
+The research, which is supported by the National Institutes of Health, the Cancer Research Institute, Cystic Fibrosis Foundation and Parkinson’s Disease Foundation, was reported February 28 in the journal
+ACS Nano Letters . The research was conducted by scientists from the Georgia Institute of Technology and Emory University.
+Genetic therapies, such as those made from DNA or RNA, face challenges because of the difficulty in delivering the nucleic acid to the right cells. For the past two decades, scientists have been developing nanoparticles made from a broad range of materials and adding compounds such as cholesterol to help carry these therapeutic agents into cells. But the development of nanoparticle carriers has been slowed by the challenges of testing them, first in cell culture to identify promising nanoparticles, and later in animals. With millions of possible combinations, identifying the optimal nanoparticles to target each organ has been overwhelming.
+Using DNA strands just 58 nucleotides long to uniquely identify each particle allows researchers to skip the cell culture screening altogether – and test a hundred or more different types of nanoparticles simultaneously in just a handful of animals.
+“If you wanted to test 200 nanoparticles in the traditional way, you would need 600 mice – three for each type of nanoparticle,” said Dahlman. “Using the DNA barcoding technique, which we call Joint Rapid DNA Analysis of Nanoparticles (JORDAN), we are able to do the testing in just three animals.”
+The study examined nanoparticle entry into endothelial cells and macrophages for the
+in vitro
+study, and the same type of cells from the lung, heart and bone marrow for the
+in vivo
+component. The two cell types are important to a broad range of organ systems in the body and play active roles in diseases that could be targets for nucleic acid therapies. The study compared how the same 281 lipid nanoparticles delivered the barcodes in lab dishes and living animals.
+“There was no predictive capability between the lab dish tests and the animal tests,” Dahlman said. “If the
+in vitro
+tests had been good predictors, then particles that did well in the dish would also have done well in the animals, and particles that did poorly in the dish would also have done poorly in the animals. We did not see that at all.”
+The research team, led by co-first authors Kalina Paunovska and Cory D. Sago, also studied how nanoparticle delivery changes with the microenvironment of specific tissue types. For that, they quantified how 85 nanoparticles delivered DNA barcodes to eight cell populations in the spleen, and found that cell types derived from myeloid progenitors tended to be targeted by similar nanoparticles.
+Researchers are interested not only in which nanoparticles deliver the therapeutics most effectively, but also which can deliver them selectively to specific organs. Therapeutics targeted to tumors, for example, should be delivered only to the tumor and not to surrounding tissues. Therapeutics for heart disease likewise should selectively accumulate in the heart.
+The single-strand DNA barcode sequences use in the technique are about the same size as antisense oligonucleotides, microRNA and siRNA being developed for possible therapeutic uses. Other gene-based therapeutics are larger, and additional research would be needed to determine if the technique could be used with them.
+Once the promising nanoparticles are identified with the screening, they would be subjected to additional testing to verify their ability to deliver therapeutics. To avoid the possibility of nanoparticles merging, only structures that are stable in aqueous environments can be tested with this technique. Only nontoxic nanoparticles can be screened, and researchers must control for potential inflammation generated by the inserted DNA.
+“Nucleic acid therapies hold considerable promise for treating a range of serious diseases,” said Dahlman. “We hope this technique will be used widely in the field, and that it will ultimately bring more clarity to how these drugs affect cells – and how we can get them to the right locations in the body.”
+In addition to those already mentioned, the research team included Christopher M. Monaco, Marielena Gamboa Castro, Tobi G. Rudoltz, Sujay Kalathoor, Daryll A. Vanover and Professor Philip J. Santangelo of the Coulter Department; William H. Hudson and Rafi Ahmed of the Emory Vaccine Center and Department of Microbiology and Immunology at Emory University, and Anton V. Bryksin of the Parker H. Petit Institute for Bioengineering and Bioscience at Georgia Tech.
+This research was supported the NIH/NIGMS-sponsored Cell and Tissue Engineering (CTEng) Biotechnology Training Program (T32GM08433), the NIH/NIGMS-sponsored Immunoengineering Training Program (T32EB021962), the Cancer Research Institute Irvington Fellow program supported by the Cancer Research Institute, the Cystic Fibrosis Research Foundation, the Parkinson’s Disease Foundation, and the Bayer Hemophilia Awards Program. This study was also supported with funding from the National Institutes of Health GT BioMAT Training Grant under Award Number (5T32EB006343). This work was performed in part at the Georgia Tech Institute for Electronics and Nanotechnology, a member of the National Nanotechnology Coordinated Infrastructure, which is supported by the National Science Foundation (Grant ECCS-1542174). The content of this news release is solely the responsibility of the authors and does not necessarily represent the official views of the sponsoring organizations.
+CITATION : Kalina Paunovska and Cory D. Sago, et al., “A direct comparison of in vitro and in vivo nucleic acid delivery mediated by hundreds of nanoparticles reveals a weak correlation,” (Nano Letters 2018). https://pubs.acs.org/doi/10.1021/acs.nanolett.8b00432
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,45 @@
+website rates security of internet-connected devices 
+ a new website can help consumers understand the security challenges of internet-connected devices. 
+ a row of cameras is among the internet-connected devices whose security has been assessed by researchers from georgia tech and the university of north carolina. (photo: allison carter, georgia tech) 
+ sep 04, 2019 
+ — atlanta, ga 
+ if you’re in the market for an internet-connected garage door opener, doorbell, thermostat, security camera, yard irrigation system, slow cooker — or even a box of connected light bulbs — a new website can help you understand the security issues these shiny new devices might bring into your home. 
+ consumer-grade internet of things (iot) devices aren’t exactly known for having tight security practices. to save purchasers from finding that out the hard way, researchers from the georgia institute of technology and the university of north carolina at chapel hill have done security assessments of representative devices, awarding scores ranging from 28 (an f) up to 100. 
+ their site, 
+ https: / / yourthings.info , shows rankings for 45 devices, though a total of 74 have been evaluated. that’s hardly a complete roundup of the tens of thousands of devices available, but the big idea behind the project is to help consumers understand important issues before connecting a new iot helper to their home networks. 
+ “a lot of people who purchase these devices don’t fully understand the risks associated with installing them in their homes,” said omar alrawi, a graduate research assistant at georgia tech. “we want to provide insight by providing security ratings for the devices we have tested.” 
+ voice-activated personal digital assistants are among the most common home iot devices, but if not properly installed, they can provide unwanted access to the home networks to which they are connected, warned 
+ manos antonakakis , a cybersecurity researcher and associate professor in georgia tech’s 
+ school of electrical and computer engineering . 
+ “if you have an iot app that is vulnerable, whoever has access to that app not only has access to your personal information, but could also jump into your home and eavesdrop on your conversations,” he said. “anything that is connected in the home in proximity to the personal assistant could also interact with it. if there is vulnerable software running on the device, it could be exploited within the home network.” 
+ one problem is that most home networks were set up for simple tasks like sharing printers, so they lack the kind of security controls found on enterprise systems at businesses, noted chaz lever, a research engineer in georgia tech’s school of electrical and computer engineering. 
+ “the home network is beginning to look a lot like enterprise networks with a range of services that have to be protected,” lever said. “but the average consumer is not going to be equipped to do that. they don’t have an it staff that is doing audits and securing the devices. if these devices are not secure out of the box and there aren’t easy ways to secure them, they can open the home up to a new vector of attacks.” 
+ to give consumers helpful advice, the researchers developed a framework for analyzing the devices’ security components. in what is believed to be the first effort to objectively assess the risks of iot equipment, they examined the devices themselves, how the devices communicate with cloud servers, the applications running on the devices, and the cloud-based endpoints. 
+ “the more services running on the device, the higher the probability that some of them will be vulnerable to attack,” antonakakis said. “providing many services may be attractive from a marketing perspective, but if you have multiple services, the risk increases.” 
+ in their study of iot devices, the researchers found wide variations in security depending on the manufacturer. in some cases, equipment made by small and lesser-known companies performed better than devices made by larger companies. 
+ “there are some devices that do security really well, and other manufacturers should learn from those exemplary devices,” alrawi said. “we saw the full spectrum of good and bad, and sometimes we were surprised at the results of our evaluation.” 
+ because they are designed to be installed by consumers, these iot devices must be easy to use. but ease of use can be the enemy of security. an example is a service known as upnp, which makes devices known to the network during installation so communications can be established. 
+ but a device announcing itself on the network can attract attackers, lever noted. “it’s helpful for the devices to communicate what they do, but that opens up vulnerabilities. the choice of protocols affects not only the device, but also the security of the network on which it is running.” 
+ internet-connected light bulbs are unlikely to have a long service life, but that’s not the case with expensive appliances like internet-connected refrigerators. antonakakis worries that these devices could become security risks without regular updates. 
+ “ideally, the consumer shouldn’t have to be aware that their refrigerator needs updates that have to be downloaded to the device,” he said. “we want that to happen automatically and securely. why should anyone have to know how to patch their refrigerator?” 
+ while the notion of hacking a slow cooker might seem amusing, the devices have heating elements that could cause a fire if a malicious actor turned up the temperature. attacks can also affect more than a homeowner. in 2016, the mirai botnet took advantage of unsecured internet-connected cameras — many of them baby monitors — to create a massive distributed denial of service attack that left much of the internet unavailable. 
+ beyond educating consumers, the researchers hope to encourage better security by device manufacturers by tracking security trends over time. 
+ “we hope to inspire both technical and policy next steps,” said antonakakis. “there is a need for establishing policy and standards. we want to raise the security level of all these devices. there is a lot more that could be done.” 
+ in addition to those already mentioned, fabrian monrose from the university of north carolina at chapel hill was also a member of the research team. 
+ this material is based upon work supported in part by u.s. department of commerce grants 2106dek and 2106dzd, by national science foundation grant 2106dgx, and by air force research laboratory / defense advanced research projects agency grants 2106dtx and 2106ehp. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

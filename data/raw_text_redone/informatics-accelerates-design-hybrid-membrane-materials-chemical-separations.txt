@@ -1,0 +1,26 @@
+informatics accelerates design of hybrid membrane materials for chemical separations 
+ a $1.7 million award from the national science foundation (nsf) will help a team at the georgia institute of technology develop much cheaper ways to separate chemicals using membranes that could potentially replace energy-intensive distillation processes. 
+ this image shows an elemental map collected with electron microscopy of a fractured cross-section of hybrid hollow fiber membrane with a radius of about 500 μm. green dots signify locations of the metal oxide within the membrane. this image shows that metal oxide infuses throughout the entire membrane. microscopy was done by fengyi zhang at georgia tech’s materials characterization facility. 
+ nov 08, 2019 
+ — atlanta, ga 
+ vast amounts of energy are consumed each year for chemical separation processes – a precursor to the production of everything from gasoline to food. 
+ a $1.7 million award from the national science foundation (nsf) will help a team at the georgia institute of technology develop much cheaper ways to separate chemicals using membranes that could potentially replace energy-intensive distillation processes. 
+ “membranes have the potential to reduce energy consumption in chemical separation processes by as much as 90%,” said mark losego, an assistant professor in the school of materials science and engineering, and the principal investigator for the project. “but most of today’s mass-manufactured membrane materials degrade under the chemical conditions required for many important chemical separations.” 
+ recently, losego’s research team in collaboration with ryan lively, an associate professor in georgia tech’s school of chemical and biomolecular engineering and co-pi on the project, described a new process for taking a polymer-based membrane and infusing it with a metal oxide network. the resulting membrane is far more effective at standing up to harsh chemicals without degrading. 
+ “plastic membranes are easy to mass manufacture, but they tend to dissolve when used with harsh chemicals, while inorganic membranes are more stable but are difficult to produce in large quantities,” losego said. “this new process creates a membrane with the best characteristics of both types of materials, one that we call a hybrid membrane.” 
+ the new process involves placing a prefabricated plastic membrane inside a reactor, which exposes the membrane to metal-containing vapors that infuse inside the material. this process is called vapor phase infiltration, and it creates a uniform network of metal oxide throughout the polymer membrane. 
+ the new grant will enable researchers to use computer simulations and data analytics to speed up the process of finding new ways to infuse inorganic materials into polymer-based membranes, with the goal of developing a range of new membranes that could be used for a variety of separation tasks. 
+ “atomic simulations and data-driven methods such as machine learning can significantly accelerate the design and discovery of new application-specific materials,” said rampi ramprasad, a professor in the school of materials science and engineering and another co-pi on the project. 
+ the machine learning process involves taking materials data that is already available and using powerful computers to automatically and progressively learn their strengths and weaknesses and how those materials might combine to form materials with new properties. 
+ “these methods allow us to virtually screen thousands of new materials before they are made to provide guidance for the specific types of materials that should be made and tested,” ramprasad said. 
+ this new nsf program will combine data collected from experiments with computational simulations to accelerate the development of these hybrid membrane materials, enabling new separation processes that lower production costs and are more environmentally friendly. 
+ this new project will be funded through the national science foundation’s designing materials to revolutionize and engineer our future, award 1921873. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the national science foundation. 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

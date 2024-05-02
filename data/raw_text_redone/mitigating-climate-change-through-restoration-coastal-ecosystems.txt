@@ -1,0 +1,35 @@
+mitigating climate change through restoration of coastal ecosystems 
+ researchers at the georgia institute of technology and yale university are proposing a novel pathway through which coastal ecosystem restoration can permanently capture carbon dioxide from the atmosphere. 
+ may 30, 2023 
+ one of the primary drivers of climate change is excess greenhouse gases like carbon dioxide in the atmosphere. mitigating climate change in the coming century will require both decarbonization — electrifying the power grid or reducing fossil fuel-guzzling transportation —  and removing already existing carbon dioxide from the atmosphere, a process called carbon dioxide removal. 
+ researchers at the georgia institute of technology and yale university are proposing a novel pathway through which coastal ecosystem restoration can permanently capture carbon dioxide from the atmosphere. seagrass and mangroves — known as blue carbon ecosystems — naturally capture carbon through photosynthesis, which converts carbon dioxide into living tissue. 
+ “mangroves and seagrasses extract carbon dioxide from the atmosphere all day long and turn it into biomass,” said 
+ chris reinhard , an associate professor in the 
+ school of earth and atmospheric sciences 
+ (eas) . “some of this biomass can get buried in sediments, and if it stays there, then you’ve basically just removed carbon dioxide from the atmosphere.” 
+ restoring these ecosystems could potentially benefit local flora and fauna and help to energize coastal economies. but reinhard and colleagues now suggest that restoring them could also remove additional carbon through a novel pathway while combating increasing acidity in the ocean. 
+ in may, 
+ they presented their research in “ ocean alkalinity enhancement through restoration of blue carbon ecosystems ” in  nature sustainability . 
+ carbon 101 
+ there are two major types of carbon that cycle through the earth system: organic carbon and inorganic carbon. organic carbon is contained in living matter, such as algae, plants, animals, and even humans. this form of carbon can remove carbon dioxide from the atmosphere temporarily, but if it becomes buried in sediments at the seafloor, it can lead to permanent carbon dioxide removal. inorganic carbon can also be found in many forms, including rocks and minerals, but is present as a significant dissolved component of ocean water. roughly 30% of the carbon emitted by human activities since the industrial revolution is now stored as dissolved inorganic carbon in the ocean. although carbon dioxide stored as organic carbon can be disrupted, effectively redistributing carbon dioxide back into the atmosphere, carbon dioxide removal by inorganic carbon is potentially much more durable. 
+ “even if you change the way a coastal ecosystem restoration project is operating, potentially remobilizing previously stored organic carbon, inorganic carbon capture is largely a one-way street,” said mojtaba fakhraee, lead author of the study and former postdoctoral researcher in eas. “so even if a massive ecosystem disruption in the future undoes organic carbon storage, the inorganic carbon that has been captured will still be in the ocean permanently.” 
+ capturing carbon, counteracting acidity 
+ coastal ecosystems naturally remove carbon from the atmosphere and provide a range of environmental and economic benefits to coastal communities, but many human interventions have caused extensive degradation or destruction of natural coastal environments. planting more mangroves and seagrasses, maintaining them, and protecting the overall ecosystem can restore their functioning and lead to additional carbon removal from the atmosphere. reinvigorating coastal ecosystems as a technique for mitigating carbon emissions is not a new idea, but past research has focused on carbon removal through organic carbon burial and has not explored the potential for carbon removal through the formation of inorganic carbon. 
+ another major result of human fossil fuel use beyond climate change is ocean acidification from carbon dioxide in the atmosphere dissolving in the water and driving down the ph of the ocean, which can have severe, negative impacts on many organisms like corals. storing carbon dioxide as inorganic carbon in the ocean could help mitigate this, because the chemical processes that lead to carbon capture as inorganic carbon involves alkalinizing ocean waters. 
+ “the basic idea here is that you are shifting the acid-base balance of the ocean to drive conversion of carbon dioxide in the atmosphere to inorganic carbon in the ocean,” reinhard said. “this means that the process can help to partially offset the negative ecological consequences of ocean acidification.” 
+ modeling carbon capture 
+ to explore how effective restoring coastal ecosystems could be for inorganic carbon capture, the researchers built a numerical model to represent the chemistry and physics of sedimentary systems — the complex mixture of solid particles, living organisms, and seawater that accumulates at the seafloor. a key advance of the model is that it specifically tracks the potential benefits of restored mangrove or seagrass ecosystems and their impacts on organic and inorganic carbon cycling. it also calculates the effects of other greenhouse gases, such as methane, that can sometimes be created in the process of restoring mangrove and seagrass ecosystems. 
+ “this model comes up with representations for the rates of carbon transformation in the sediment based on how much mangrove is growing above the sediment,” said noah planavsky, senior author on the study and professor of earth and planetary sciences at yale. “we found that across an extremely large range of scenarios, restoration of blue carbon ecosystems leads to durable carbon dioxide removal as dissolved inorganic carbon.” 
+ the team hopes this research could provide an impetus to protect current coastal ecosystems and economically incentivize restoration of degraded ecosystems, potentially as a new form of carbon offset. 
+ “companies that are trying to offset their own emissions could potentially purchase carbon removal through funding restoration of coastal ecosystems,” reinhard said. “this could help rebuild these ecosystems and all of the environmental benefits they provide, while leading to durable carbon dioxide removal from the atmosphere.” 
+ citation: 
+ fakhraee, m., planavsky, n.j. & reinhard, c.t. ocean alkalinity enhancement through restoration of blue carbon ecosystems.  nat sustain  (2023). 
+ https: / / doi.org / 10.1038 / s41893-023-01128-2 
+ additional images 
+ contact 
+ tess malone, senior research writer / editor 
+ email 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

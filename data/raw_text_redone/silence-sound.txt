@@ -1,0 +1,40 @@
+silence to sound 
+ a new tool can help first-responders use twitter activity to identify developing crises after a storm. 
+ hurricane harvey churns near the coast of texas at peak intensity late on august 25, 2017. photo: national oceanic and atmospheric administration 
+ jun 07, 2018 
+ — atlanta, ga 
+ when hurricane harvey flooded houston last year, many residents turned to social media to cry out for help. 
+ sometimes, with emergency lines jammed, that was the only way to communicate. 
+ other people stopped posting altogether — perhaps because they were saving the last of their phone’s battery or were too busy trying to evacuate after the storm. 
+ meanwhile, hundreds of residents from neighboring louisiana motored west to help, bringing boats and bodies to supplement emergency crews. 
+ with another hurricane season beginning june 1 — and some forecasters predicting another busy one — researchers in the school of civil and environmental engineering are working on a tool to help first-responders use twitter activity to identify developing crises after a storm while also helping civilians more effectively plug in to disaster response efforts. it’s the result of a grant from the national science foundation, which was looking for ways to learn from harvey. 
+ led by frederick law olmsted professor john e. taylor, one of the interesting results of the team’s work over the last year was that a lack of activity can be just as instructive as people asking for help. 
+ “obviously, where people who are in trouble have explicitly said, ‘i'm in trouble,’ that's critical to respond to,” taylor said. “but an important secondary predictor is, what about areas where people are saying nothing where they were before?” 
+ “how do we hear the silence?” asked taylor’s ph.d. student rachel samuels, who presented the work at a big disaster conference this week. “how do we turn silence into sound?” 
+ samuels collected building-level damage assessments from the federal emergency management agency and compared that to the twitter activity, breaking the city into 10-kilometer areas. her idea was to map real-time damage using tweets. 
+ using posts on the micro-blogging site has been done before by researchers who match spikes of activity to infrastructure damage, samuels said. 
+ “what we found that it missed are these data shadows, where areas that don't have any twitter activity at all are also being damaged. so, how can we shed some light on those data shadows?” 
+ that’s where the team’s new software tool will come in. using tweets from users that have tagged their posts with their location, their system can assess the sentiments people express, identify trending topics in localized areas, and also note where activity has dropped off significantly from normal — all in the service of helping emergency workers better identify where they need to deploy their resources. 
+ “we're using unsupervised machine learning techniques to extract what we call ‘geo topics,’” taylor said. “a topic that is associated with negativity that's in a certain geographic space comes to the list, and the first responders will see a list of, for example, the five leading geo topics that are occurring right now somewhere in the city.” 
+ uniquely, users don’t have to tell the system anything about what to look for — a key advance, taylor said. 
+ “that is actually the key innovation to the backend system. you don't have to, 
+ a priori , know what you're looking for.” 
+ the backend programming for the system is operational, thanks to the work of taylor’s now-graduated ph.d. student yan wang, but samuels is still working on the front-end design for the software. taylor said they plan to meet with five to 10 emergency response agencies throughout the summer to collect feedback and improve the system. but they also hope to offer a beta version of the system to responders so they can use it this hurricane season. 
+ there’s one other piece to the software that samuels is especially excited about: the ability to link professional disaster responders and people who just want to help coordinate their efforts. that grew out of samuels’ respect for that cajun navy that cruised from baton rouge to houston last august to help people in need and the cajun army that put boots on the ground after floodwaters receded. 
+ “part of why i really wanted to do this was to also provide a platform with which citizen responders, who i would really like to be able to enable, can also work with emergency response professionals,” she said. 
+ “i'm very impressed with the cajun army. i would love to be able to make it easier for them to also be able to coordinate with the people whose job it is to respond to these disasters.” 
+ taylor said the system will be useful for large disasters other than hurricanes, too, like an earthquake, where problems develop in the immediate aftermath of the initial event. 
+ “this is about identifying smaller crises happening within a much larger crisis. there are dangers within this larger, monolithic thing like an earthquake or a hurricane. we need to take advantage of emerging data streams to find those in danger and get help to where help is needed.” 
+ additional images 
+ related links 
+ new research may improve communications during natural disasters 
+ contact 
+ joshua stewart 
+ communications 
+ school of civil and environmental engineering 
+ 404.385.3171 
+ email 
+ joshua.stewart@ce.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

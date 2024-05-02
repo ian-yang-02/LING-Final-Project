@@ -1,0 +1,59 @@
+Neurons Get the Beat and Keep It Going in Drumrolls
+Some of what researchers believed to be chaotic electric potentials in neurons are turning out the be surprisingly orderly.
+Illustration of a healthy neuron in the brain. Credit: the National Institute on Aging/National Institutes of Health
+Feb 01, 2018
+— Atlanta, GA
+A neuron firing deep in the brain might sound a little like: Drumroll…cymbal crash! Drumroll…cymbal crash! Repeat. With emphasis on “repeat,”
+according to a new study.
+What used to look like fleeting cacophonies of electrical impulses in the brain is looking to neuroscience researchers more and more like a sustained matrix of electronic percussion. For years, they have been analyzing patterns hidden in neurons’ electrical buzzes, and now, they have revealed in neurons continued stretches of orderly drumroll-like rumblings speckled with thrashing impulses, or spikes, that stimulate neighboring neurons.
+“These signaling patterns last a lot longer than we thought,” said
+Annabelle Singer, an assistant professor at the Georgia Institute of Technology . Singer led the
+in vivo
+study on mice together with
+Ed Boyden, a professor at the Massachusetts Institute of Technology .
+Persistent neurons
+“We used to think that neurons would fire spikes to neighboring neurons for a few milliseconds, and that was all it would take to make the next neuron spike,” Singer said. “Now we’re seeing that you get these repeating patterns of rumblings and spikes sustained over hundreds of milliseconds, even close to a full second.”
+That’s about how long it takes a human heart to complete one full beat.
+The rumblings are jumbly fluctuations of electrical potential within a neuron before it fires a spike. The spikes are big electrical signals that communicate with neighboring neurons.
+Taken together, the sum of the spikes in the brain make its circuitry compute so that we can walk, talk, and live life.
+The researchers
+published their study on the newly discovered patterns in the
+Journal of Neuroscience . Official publication date is February 14, 2018, but the study is already available online without embargo. The research was funded by the National Institutes of Health, the National Science Foundation, the Friends of the McGovern Institute, the New York Stem Cell Foundation, the MIT Intelligence Initiative, and the Lane Family.
+Questions and answers
+The combination of observing the patterns’ percussion-like characteristics as well as their sustained lengths in the brains of awake mice make this a novel finding, Singer said. Some similar previous studies have been performed on mice that were anesthetized, which strongly altered brain activity when compared to awake brains.
+Here are some questions and answers about the observed patterns and their significance.
+What do these sustained patterns look like?
+The researchers recorded the activities of individual neurons in the hippocampus, which is located in the lower center of the brain, with a robotic device called a
+patch clamp . It’s a hollow glass needle one micron in diameter that latches onto a single neuron via suction and measures its electrical activity.
+The researchers observed electrical rumblings, symbolized here by a drumroll. And they observed spikes, symbolized here by a cymbal crash.
+Though the pattern of rumblings wasn’t uniform, it rose and fell like a drumroll undulating between softer and louder volumes. Spikes occurred much more rarely than drumbeats, but with notable timing.
+“The spikes repeated in the same spots with high precision, so they weren’t just random,” Singer said. “They came around the peaks of rumblings, not always right on top of a peak but within a hair of it.”
+It would be like a cymbal crash hitting not every time, but every few times the undulating drumroll topped a volume peak. And the drumroll-cymbal-crash patterns sustained themselves for surprisingly long periods.
+“The time periods of activity that was structured like this were much longer than we expected,” Singer said. “People have shown sustained periods of signaling like this for 100 to 300 milliseconds before, but this appears to be the first time it’s been seen for 900 milliseconds (nearly a full second), and it may go on even longer.”
+What are neurons doing with these rumblings and spikes?
+When one neuron fires a spike, that electronic impulse hits neighboring neurons and influences the receiving neurons’ rumblings until they fire spikes, too.
+“A neuron receives these fast inputs. There are many different drumbeat patterns coming from many different neurons around it,” Singer said. “The patterns we observed in one neuron were being driven by other neurons firing into it like a whole drum section with short little bursts.”
+At first sight, that may appear to be a cacophony, but if the jumbly patterns repeat, a consistent percussion of rumblings in the neuron may result.
+How may this influence the way we picture neurons at work?
+“I think people have thought about neuron firings as random then suddenly organized in a concerted kind of way,” Singer said.
+That could be pictured as many neurons behaving spastically until it was time to get to work, then abruptly firing as a group in near unison. This does appear to happen under the right circumstances, but as a prevailing picture of neuron firing,  it may be lacking something.
+“We’re starting to see more structure, very complex structure in what was thought to be randomness,” Singer said. “There is a lot of activity that is ongoing that is organized and that we need to understand, as well.”
+The researchers examined cells important for memory, but further research will be required to know what role the observed firing patterns may have in its function. The researchers are also working together with engineers at Georgia Tech to develop new robotic patch clamping devices that listen simultaneously to the firings of neurons connected to one another.
+Also READ our feature on neurology research: The Brain, Cosmos in the Cranium
+Like this article?
+Get our email newsletter here.
+These researchers also collaborated on the study: Craig Forest, Ilya Kolb, and Michael Wang of Georgia Tech; Giovanni Talei Franzesi, and Edward S. Boyden of MIT, and Suhasa Kodandaramaiah previously at Georgia Tech and MIT and now at the University of Minnesota. The research was funded by the following of the National Institutes of Health sources: Computational Neuroscience Training (grant DA032466-02), a Director’s Pioneer Award (1DP1NS087724), a Transformative Award (1R01MH103910), and further NIH grants (1R01EY023173, 1R01NS067199, 1R01DA029639, 1U01MH106027 and 5R44NS08310803). It was also funded by the Cognitive Rhythms Collaborative, which is funded by the National Science Foundation’s Division of Mathematical Science (grant 10421134), and funding also came from the MIT Intelligence Initiative, the Lane Family, and the Friends of the McGovern Institute.
+DOI:   10.1523/JNEUROSCI.1519-17.2017
+Additional Images
+Contact
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia 30332-0181  USA
+Writer:  Ben Brumfield
+@benbgatech
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

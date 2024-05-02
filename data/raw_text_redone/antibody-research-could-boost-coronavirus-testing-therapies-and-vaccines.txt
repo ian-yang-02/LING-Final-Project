@@ -1,0 +1,69 @@
+antibody research could boost coronavirus testing, therapies, and vaccines 
+ georgia tech researchers are working with colleagues at the cdc to produce coronavirus antibodies that could lead to improved testing techniques. 
+ an electron microscope image of a particle of sars-cov-2, which is the virus that causes covid-19. the prominent spikes give the coronavirus its name and are being targeted some efforts to develop a vaccine against it. (centers for disease control and prevention: cynthia s. goldsmith and a. tamin.) 
+ aug 22, 2020 
+ — atlanta, ga 
+ using simulated components of the coronavirus’s distinctive spike proteins, georgia institute of technology researchers, along with colleagues at the atlanta-based centers for disease control and prevention (cdc), are producing antibodies that could lead to improved testing techniques for the virus, potential treatments for those infected with it – and ultimately, perhaps, a vaccine that could prevent coronavirus infection altogether. 
+ the antibodies are produced by mice that are exposed to peptides – short chains of amino acids – produced from the genetic code of the virus. the researchers choose distinctive components of the viral surface, create the peptide structures in the laboratory, and place them onto nanoparticles to create artificial immunogens designed to stimulate the immune systems of the mice. 
+ the antibodies are produced in collaboration with the cdc’s immunodiagnostic development team, reagent diagnostic support branch, division of scientific resources, national center for emerging zoonotic infectious diseases. scientists at both institutions are using the antibodies to study antigen binding in the coronavirus. so far, the work has produced hundreds of new antibodies against the virus spike protein. 
+ “we do a series of immunizations with components of the proteins from the coronavirus that we believe are particularly important and able to be seen by the mouse immune system,” said 
+ m.g. finn , who co-leads the project as chair of georgia tech’s 
+ school of chemistry and biochemistry . “the immunizations and follow-up boosts allow us to provide samples of immune system cells from the mice. cdc researchers use them to generate thousands of candidate antibodies that we then use to test binding of the antibodies to portions of the virus.” 
+ for more information on georgia tech's covid-19 research, please visit our 
+ responding to covid-19 page . 
+ georgia tech doesn’t have samples of the coronavirus in its labs, but instead generates the protein components from the genetic sequencing information that was developed early on in the pandemic by scientists who isolated the virus. 
+ using bacteria to battle a virus 
+ the georgia tech researchers are using a common bacterium to help them develop new weapons against the coronavirus. 
+ “we know the genome of the virus and what part of the genome codes for the amino acid sequences that make the spike protein,” finn said. “from that we can create a piece of dna that includes instructions for making that protein, but adapt those instructions to work best in bacterial cells such as 
+ e. coli 
+ that we can grow in the laboratory. we put the dna into the bacteria, it gets converted to rna, and the bacteria make as many copies of the spike protein component as we want. in our case, we cause those protein components to be attached to the outer surface of a nanoparticle, where the immune system can recognize them.” 
+ the desired nanoparticles are then introduced into the mice. the rodent immune systems create antibodies that can be harvested from b cells, a key component of the animal immune systems. the antibodies take about a month to develop. 
+ the work began in march and has so far produced hundreds of antibodies against the virus spike proteins. preparations are underway to expand the work using robotic systems, and to explore sites on the virus where the most potent of the antibodies may attach. 
+ finn’s lab had been working with the cdc on antibodies for other diseases when the coronavirus pandemic began. the researchers changed course to support their cdc collaborators on the covid-19 challenge. 
+ antibodies are keys to a complex immune system 
+ antibodies are molecules produced by the immune system in response to a pathogen such as a virus, bacterium, or other invader. there are different kinds of antibodies; some serve as sentries patrolling the bloodstream in search of invaders. others evolve to attack specific invaders such as viruses, while yet another kind keeps a record of invaders the body has fought off in case that attacker returns. still other antibodies can block a pathogen’s attempt to bind to and infect cells. 
+ “the reason why it takes you a few days to get over a cold,” he explained, “is that it takes the immune system a few days, when it is working well, to turn on the evolutionary process that generates antibodies that can bind to a new pathogen.” 
+ humans are born with certain antibodies that can attach themselves weakly to most invaders. but to battle a formidable foe, more specific antibodies must be created that can more strongly attach to the invader. for a new invader like the coronavirus, there’s a race against time between the speed of an infection’s spread and the body’s development of a successful response. 
+ “the body makes changes in the general antibody structure continuously until it creates a molecule that is able to grab onto an invading pathogen in such as way that it signals to the rest of the body that it has found something that doesn’t belong,” said finn. the signals from the antibody attract other immune system cells that kill the invader by engulfing it or spraying it with toxins. 
+ when the immune system is working well, invasion by a virus might not even produce symptoms; the pathogen would simply be dispatched without anyone being the wiser. 
+ not all antibodies are created equal 
+ people who are vaccinated against or recover from measles often have a lifetime immunity from the virus – meaning they never are infected again. that requires an antibody system that is particularly strong and durable. but for some reason, the body does not respond to every infection with such vigor. 
+ researchers know that the coronavirus generates antibodies, but they don’t know yet what that actually means. 
+ “we don’t yet have an answer as to whether or not, in general, the human immune response to the coronavirus protects against another exposure to this virus,” finn said. “it’s likely that the answer is yes, but the scientific community hasn’t proven that yet. 
+ research to find out is certainly ongoing in animal models around the world, and with covid-19 patients, analyzing the blood of those who have been infected and recovered.” 
+ because humans haven’t been exposed to the coronavirus before, their immune systems have no experience with it. while that experience is quickly learned, in the meantime humans are at a disadvantage in that struggle. the virus may also mutate, which would mean that antibodies developed through one exposure may not recognize the virus the next time it attacks. 
+ “some pathogens are just very difficult to kill, difficult for the immune system to get a handle on,” finn said. “there is a wide disparity in how well the immune system handles viruses over time or over different levels of exposure.” 
+ one key issue affecting the outcome of a coronavirus infection is the volume of virus particles to which the person is exposed. inhaling particles from an infected person’s nearby sneeze is likely much more dangerous than touching virus particles that had been left on a surface perhaps hours earlier by that same person. 
+ “the first situation you have to prevent with physical distancing; the second is harder to prevent, but also much less dangerous because the initial amount of virus you get is hugely important.” 
+ antibodies used in testing 
+ the ability of an antibody to bind with an invader can be the basis for tests that can rapidly detect coronavirus, so one result of the georgia tech-cdc collaboration could be improved tests to determine who has covid-19. 
+ many current tests use a process called polymerase chain reaction (pcr), which detects the presence of rna from the virus based on samples taken from the nasal swabs. those tests are fairly accurate, but must be done with costly and complex equipment. 
+ finn hopes the georgia tech antibody research will lead to a faster and cheaper alternative. the antibodies would attach to the viral particles, and that attachment could be detected. some coronavirus tests now use that technology, but improvements are needed. 
+ “if you have an antibody that binds tightly to the virus, then you might be able to construct a paper strip test, in principle, that would be like a pregnancy test,” finn said. “with some degree of sensitivity, such a test would be able to quickly tell if the virus is present or not.” 
+ because the body makes antibodies in response to an infection, antibody testing is also useful for identifying people who may have recovered from the coronavirus. this would be useful in studying how far the virus has spread, and potentially for determining who might have immunity to the virus. these antibody assays differ from the tests used to determine whether or not a person is actively infected by the virus. 
+ “if the test is done properly and it indicates that you have antibodies to the new coronavirus, then it’s guaranteed that you have been infected, even if you didn’t have the classic symptoms,” finn said. “but we don’t necessarily know what a specific antibody test is really seeing.” 
+ after initially allowing the sale of many different antibody tests, the u.s. food and drug administration (fda) is now requiring more proof of their effectiveness, which is evaluated by two measures: sensitivity and specificity. sensitivity is the test’s ability to detect very small quantities of the virus, while specificity is its ability to detect the exact virus of interest. there are often tradeoffs between the two measures. 
+ “the reason why it is good for multiple labs to be working on this is that the production of antibodies is a random exercise in many ways,” finn said. “it’s the luck of the draw, so the more experiments going on, the more likely it is that someone will find the right one.” 
+ yet another type of antibody can prevent a virus from attaching to a cell. such neutralizing antibodies could provide a therapy to help those who are already infected. “for someone who is infected, you might be able to administer an antibody and have that bind to your cells and take out the virus,” finn explained. 
+ a step toward vaccines, the holy grail 
+ understanding antibodies can also provide clues to the development of vaccines, which normally take years to develop, test, and produce in quantities large enough to protect billions of vulnerable people worldwide. many vaccines that initially show promise fail to meet stringent requirements for safety and effectiveness, which is why so many coronavirus vaccines are currently in early stages of development. 
+ good vaccines trick the immune system into developing an antibody response to whatever pathogen it is designed to protect against. vaccines have been made in different ways over time — sometimes from a killed or immobilized pathogen, and other times from a fragment of the pathogen. the world’s first vaccine, which helped eliminate the scourge of smallpox, was little more than infection by a related virus known as vaccinia. 
+ “the development of vaccines is the single greatest accomplishment of biomedicine in the modern age for saving people’s lives,” finn said. “in general, vaccines are very safe because they are tested rigorously. because they are given to healthy people to keep them healthy, you have to test it on many, many people to make sure the vaccine is well tolerated.” 
+ understanding the antibodies created in response to the coronavirus could identify weak points that could be attacked by a vaccine. it’s likely that there are many such locations on the viral surface where vaccine developers could find a target. 
+ “it would be great if the work we are doing with antibodies could ultimately help identify a way to successfully attack this virus,” finn said. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

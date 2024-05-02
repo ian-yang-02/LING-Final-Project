@@ -1,0 +1,126 @@
+tech researchers team up for advanced materials 
+ tech researchers use collaboration to push the frontiers of advanced materials research. 
+ jun 01, 2017 
+ — atlanta, ga 
+ by renay san miguel 
+ ask georgia tech researchers working with advanced materials for examples, and they give a pop culture reference. two of them even cite the same reference. 
+ “it’s like 
+ the terminator , liquid metal that then becomes a solid,” says 
+ alberto fernandez-nieves , associate professor in the school of physics. 
+ “think of 
+ the terminator ,” says another school of physics associate professor, 
+ jennifer curtis . 
+ pop culture so effectively appropriates next-level science research, that it comes as no surprise that these scientists first thought of oscar-winning director james cameron’s shapeshifting “mimetic polyalloy” assassin from the future in 
+ terminator 2: judgment day . 
+ “or that animated movie, 
+ big hero 6 ,” curtis adds, referring to a 2014 disney film about nanobots combining to form bigger objects. “we would love to find an original way to create small shapes. and then make them intelligent enough to properly reconfigure in some other way.” 
+ georgia tech scientists aim to make those science-fiction scenarios real through collaborative, interdisciplinary research at the 
+ center for the science and technology of advanced materials and interfaces 
+ (stami). 
+ launched in 2016, stami comprises four groups: 
+ center for organic photonics and electronics 
+ (cope) 
+ georgia tech polymer network 
+ (gtpn) 
+ community for research on active surfaces and interfaces 
+ (crāsi, pronounced crazy) 
+ soft matter incubator 
+ (smi) 
+ of all those acronyms, cope’s has been around the longest, since 2003. cope helped develop the optical technologies that enable flat-screen hdtv to deliver sharper resolutions on any monitor size while consuming less power. 
+ over the years, cope has attracted some $84 million in research funding and 
+ research-related 
+ awards , says 
+ seth marder , regents professor in the school of chemistry and biochemistry and cope’s founding director. that’s because “we were able to create multi-investigator proposals with a very high degree of success,” marder says. 
+ because proposals from centers with teams of researchers tend to attract more funding, marder and colleagues set up stami to brew ideas and foster collaboration among researchers across georgia tech. 
+ “people who work in advanced materials recognize that collaborative approaches are critical,” marder says. at cope and now in stami, he adds, “we recognize that if you build the strong human relationships, the strong collaborative scientific relationships will be that much stronger, that much more fun, and it will lead to that much more productivity and the opportunity to do other things.” 
+ the promise of advanced materials 
+ when subjected to stimuli – such as current, light, heat, or chemicals – liquids, foams, gels, liquid crystals, and other substances may respond and change, or even acquire new functions. 
+ the liquid crystal displays (lcds) and organic light-emitting diodes (oleds) in smartphones and tv / computer monitors are organic photonic technologies in action. they are marvelous combinations of thin films, electrolytic gels, and molecules that respond to light and electricity. 
+ soft matter is anything that can be prodded, poked, folded, warped, or deformed by weak external causes, including heat and mechanical forces. examples abound but the science around them is relatively young. 
+ polymers, strings of repeating molecular units, can be natural, like the dna in cells, or synthetic, like the plastics in houses. manipulating them can yield stronger construction materials or more effective medical treatments. 
+ advanced materials can mean progress from healthcare to defense technology and consumer electronics. but getting materials to work together – and allowing users to program, control, and predict their behaviors – is key to realizing the next-generation promises. 
+ cope: collaboration before collaborating was cool 
+ it was the spirit of teamwork that first brought marder to georgia tech in 2003, after appointments at the 
+ jet propulsion laboratory , 
+ california institute of technology , and the 
+ university of arizona . 
+ he and three others who were focused on optical sciences started cope shortly after they arrived at tech. they believed that a center like cope would help them brainstorm research ideas while increasing their chance of funding. 
+ that teamwork helped marder ignore temptations to move to other universities. “what kept me at georgia tech is the people,” he says. “if you’re fundamentally connected with the people around you, that’s a pretty strong adhesive.” 
+ to that end, marder became a strong protagonist for cope’s collaborative propensity. materials science can involve physics, chemistry, biology, and engineering, and reaching across tech’s colleges and schools is key. cope pioneered this approach. 
+ “you’re not just bringing people together to work on a problem; you need the right culture,” says 
+ bernard j. kippelen , a professor in the school of electrical and computer engineering and current cope director. “georgia tech is uniquely positioned in that respect because interdisciplinary research is part of georgia tech’s dna.” 
+ research themes exemplify the intrinsic interdisciplinarity: 
+ organic photovoltaic materials, for solar cell technology 
+ flexible organic materials that can go inside or on the body, for medical and sensing applications 
+ organic materials to protect sensors and human eyes from laser pulses, of interest to the defense department 
+ organic materials to enable rapid and safe removal of heat from its source, for computers and consumer electronics 
+ “we focus on organic – carbon-based – materials,” kippelen says, because they can be processed at room temperature, making manufacturing easier. and because the building blocks are molecules, physical properties can be controlled by changing chemical structure. 
+ “as we study more of these materials to understand why they work, we come across new surprises, new breakthroughs that were not anticipated,” kippelen says. “it’s the gift that keeps giving.” 
+ gtpn: pushing polymers for fun and profit, but mostly fun 
+ when 
+ john reynolds 
+ joined 
+ ibm research 
+ in the late 1970s, scientists had just discovered that plastics can conduct electricity. until then, “if you wanted high conductivity, you had to get a piece of metal,” says reynolds, a polymer chemist. “that an organic polymeric material could do that was earth-shattering.” the breakthrough eventually won the 
+ 2000 nobel prize in chemistry . 
+ now reynolds is a professor in the school of chemistry and biochemistry and in the school of materials science and engineering.  he also serves as director of gtpn, which launched shortly after he joined tech in 2012. reynolds leads with co-directors 
+ david collard , 
+ zhiqun lin , 
+ elsa reichmanis , and 
+ paul russo . 
+ “georgia tech and the interdisciplinary atmosphere is why i moved here,” he says. “the walls between colleges and schools here are very low, and that makes georgia tech special.” 
+ reynolds has had a front-row seat for many advances his gtpn colleagues are making in polymer science.  he anticipates new materials for applications such as: 
+ electrochromism, reversibly changing a material’s color in the presence of an electric field 
+ energy savings through separation of hydrocarbon and industrial chemicals using nanoporous membranes 
+ energy storage, such as batteries and capacitors to store chemical energy and electrical charge 
+ drug and active-molecule release using polymer-modified nanoparticles 
+ when it comes to electrochromic application, reynolds notes, this technology using polymer gel electrolytes has allowed automakers to eliminate the mechanical switch on rear-view mirrors to suppress blinding high-beam lights from the vehicle behind. most mirrors now use light sensors and color-changing electrochemical systems to dim that harsh glare. 
+ “that’s a $1 billion a year sales business for a 
+ company 
+ in michigan,” reynolds says. 
+ yet the most innovative aspect of gtpn, reynolds says, is its impact on graduate students and researchers at tech. they’re not just increasing their knowledge of chemistry and physics. “they grow professionally by participating in meetings and seminars, hosting people, and learning how to be professionally social. and they get contacts with companies.” 
+ smi: fundamental science from soft matter 
+ soft matter is described by the 
+ university of edinburgh school of physics and astronomy 
+ as “all things squishy.” 
+ in that spirit, the 
+ school of physics 
+ has been hosting 
+ squishy physics 
+ public events since 2012. restaurant chefs from atlanta and beyond prepare foods that illustrate aspects of soft matter: “gelation (jams and jelly), phase transitions (melting chocolate ice cream), emulsions (hollandaise and other sauces), foams (meringue), and glass formations (confections),” says the squishy physics web page. 
+ “in many cases, soft materials are mixtures of phases – solids in liquids, gases in liquids, or liquid-liquid mixtures, for example,” says fernandez-nieves, director of smi. “a polymer gel may be 99% water, but it behaves like a spring. if you push on it, it deforms and retains its shape due to the presence of restoring forces, and thus it’s a solid from that perspective. it’s an elastic material. and it’s made of 99% water and 1% polymer.” 
+ smi is itself in its early phase, launching in july 2016 to coalesce soft matter research interest at tech and provide brainstorming opportunities, workshops, and seed grants. 
+ so what exactly is smi incubating: ideas or specific research projects? 
+ “both,” fernandez-nieves says. “you can use soft materials as models to address interesting questions beyond soft matter.” the holy grail in the field is matter with controllable and predictive qualities. “what do i need to do to make that happen? that’s where fundamental science comes in.” 
+ a recent research 
+ pape r co-authored by fernandez-nieves offers an example of soft matter’s potential. microgels and polymer networks made of natural fibrin, a blood-clotting protein, self-assemble to form tunnels that could allow healing substances to pass through. the department of defense, hoping for battlefield applications, supported part of the research. 
+ smi is a place “where you can incubate ideas and so they can come to fruition,” fernandez-nieves says. “i think of smi as driven by people with ideas and drive, and the desire to do new things.” 
+ you don’t have to be crāsi to study interfaces, but it helps 
+ since 1978, 
+ odyssey of the mind 
+ has staged global problem-solving competitions for students in kindergarten through college. the competition stresses teamwork. thinking outside the box isn’t just encouraged; it’s necessary. 
+ at tech, 
+ jennifer curtis 
+ and 
+ michael filler , crāsi co-directors, are hosts of their own odyssey of the mind-style competitions for professors only. the focus is on thinking 
+ way 
+ outside the box in getting advanced materials – their surfaces, actually – to communicate, work together, and respond to human commands. 
+ these gatherings of the minds are needed, because none of the next-level advances in materials science happens without figuring out surfaces and interfaces, says filler, an associate professor in the 
+ school of chemical and biomolecular engineering . 
+ “there is an opportunity to target interfaces, the position where materials change from a to b,” he says. “they’re ubiquitous, and they’re really hard to study, because they’re dynamic.” 
+ “the big thing we would love to do is control how smaller objects interact with each other to make programmable, reconfigurable matter,” curtis says. 
+ the idea of assembling matter is not new. but with the types of assemblies curtis and filler are talking about, it might be easier to kill the terminator. why? 
+ “we’re just not good enough with the interfaces, programming them and controlling them,” filler says. 
+ that’s the obstacle crāsi wants to topple. like smi, crāsi also launched in the summer of 2016 to start conversations about possible solutions to tough science problems. so far, crāsi has hosted a total of 10 events, mostly odyssey of the mind competitions. curtis and filler never share the agenda for their meetings because they don’t want any biases to creep into the discussion. 
+ curtis is pleased with the buy-in from researchers. “there’s a critical mass of people who want to be in the same room to talk science and explore ideas,” she says. “we’re really trying to identify the grand challenge of the next decade.” 
+ additional images 
+ contact 
+ renay san miguel 
+ communications officer / science writer 
+ college of sciences 
+ 404-894-5209 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

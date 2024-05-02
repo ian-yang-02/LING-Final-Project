@@ -1,0 +1,41 @@
+origami, 3d printing merge to make complex structures in one shot 
+ researchers have created a one-step approach to fabricating complex origami structures. 
+ closeup of origami structures created through digital light processing 3d printing. (credit: christopher moore, georgia tech). 
+ oct 20, 2018 
+ — atlanta, ga 
+ by merging the ancient art of origami with 21st century technology, researchers have created a one-step approach to fabricating complex origami structures whose light weight, expandability, and strength could have applications in everything from biomedical devices to equipment used in space exploration. until now, making such structures has involved multiple steps, more than one material, and assembly from smaller parts. 
+ “what we have here is the proof of concept of an integrated system for manufacturing complex origami. it has tremendous potential applications,” said 
+ glaucio h. paulino , the raymond allen jones chair and professor at the 
+ school of civil and environmental engineering 
+ at the georgia institute of technology and a leader in the growing field of origami engineering, or using the principles of origami, mathematics and geometry to make useful things. last fall georgia tech became the first university in the country to offer a course on origami engineering, which paulino taught. 
+ the researchers used a relatively new kind of 3d printing called digital light processing (dlp) to create groundbreaking origami structures that are not only capable of holding significant weight but can also be folded and refolded repeatedly in an action similar to the slow push and pull of an accordion. when paulino first reported these structures, or “zippered tubes,” in 2015, they were made of paper and required gluing. in the current work, the zippered tubes – and complex structures made out of them – are composed of one plastic (a polymer) and do not require assembly. 
+ the work was reported in a recent issue of 
+ soft matter , a journal published by the royal society of chemistry. the primary authors are paulino; 
+ h. jerry qi , the woodruff faculty fellow in georgia tech’s 
+ george w. woodruff school of mechanical engineering ; and daining fang of peking university and the beijing institute of technology. other authors are zeang zhao, a visiting student at georgia tech now at peking university; qiang zhang of peking university; and xiao kuang and jiangtao wu of georgia tech. 
+ an emerging technology 
+ there are many different types of 3d printing technologies. the most familiar, inkjet, has been around for some 20 years. but until now, it has been difficult to create 3d-printed structures with the intricate hollow features associated with complex origami because removing the supporting materials necessary to print these structures is challenging. further, unlike paper, the 3d-printed materials could not be folded numerous times without breaking. 
+ enter dlp and some creative engineering. according to qi, a leader in the emerging field collaborating with fang’s group at peking university, dlp has been in the lab for a while, but commercialization only began about five years ago. unlike other 3d printing techniques, it creates structures by printing successive layers of a liquid resin that is then cured, or hardened, by ultraviolet light. 
+ for the current work, the researchers first developed a new resin that, when cured, is very strong. “we wanted a material that is not only soft, but can also be folded hundreds of times without breaking,” said qi.  the resin, in turn, is key to an equally important element of the work: tiny hinges. these hinges, which occur along the creases where the origami structure folds, allow folding because they are made of a thinner layer of resin than the larger panels of which they are part. (the panels make up the bulk of the structure.) 
+ together the new resin and hinges worked. the team used dlp to create several origami structures ranging from the individual origami cells that the zippered tubes are composed of to a complex bridge composed of many zippered tubes. all were subjected to tests that showed they were not only capable of carrying about 100 times the weight of the origami structure, but also could be repeatedly folded and unfolded without breaking. “i have a piece that i printed about six months ago that i demonstrate for people all the time, and it’s still fine,” said qi. 
+ what’s next? 
+ what’s next? among other things, qi is working to make the printing even easier while also exploring ways to print materials with different properties. meanwhile, paulino’s team recently created a new origami pattern on the computer that he is excited about but that he has been unable to physically make because it is so complex. “i think the new system could bring it to life,” he said. 
+ the principal funders of the work were the air force office of scientific research (fa9550-16-1-0169), the national science foundation (cmmi-1462894, cmmi-1462895, and cmmi-1538830), the raymond allen jones chair at georgia tech, the national natural science foundation of china, and the national materials genome project of china. 
+ citation : zeang zhao, et al., “3d printing of complex origami assemblages for reconfigurable structures,” (soft matter 39, 2018) 
+ http: / / dx.doi.org / 10.1039 / c8sm01341a 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : elizabeth thomson 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,45 @@
+chiral metamaterial produces record optical shift under incremental power modulation 
+ researchers have demonstrated an optical metamaterial whose chiroptical properties in the nonlinear regime produce a significant spectral shift. 
+ sean rodrigues, a ph.d. candidate in the georgia tech school of electrical and computer engineering, adjusts a sample of a chiral metamaterial whose properties in the nonlinear regime produce a significant spectral shift with power levels in the milliwatt range. (credit: rob felt, georgia tech) 
+ mar 01, 2017 
+ — atlanta, ga 
+ georgia institute of technology researchers have demonstrated an optical metamaterial whose chiroptical properties in the nonlinear regime produce a significant spectral shift with power levels in the milliwatt range. 
+ the researchers recently demonstrated properties of their chiral metamaterial, in which they spectrally modified two absorptive resonances by incrementally exposing the material to power intensities beyond its linear optical regime. with a 15 milliwatt change in excitation power, they measured a 10-nanometer spectral shift in the material’s transmission resonances and a 14-degree polarization rotation. 
+ the researchers believe that may be the strongest nonlinear optical rotation ever reported for a chiral metamaterial, and is about a hundred thousand times larger than the current record measurement for this type of structure. the research, supported by the national science foundation and the air force research laboratory, was reported february 27 in the journal 
+ nature communications . 
+ “nanoscale chiral structures offer an approach to modulating optical signals with relatively small variations in input power,” said sean rodrigues, a ph.d. candidate who led the research in the laboratory of associate professor 
+ wenshan cai 
+ in georgia tech’s 
+ school of electrical and computer engineering . “to see this kind of change in such a thin material makes chiroptical metamaterials an interesting new platform for optical signal modulation.” 
+ this modulation of chiroptical responses from metamaterials by manipulating input power offers the potential for new types of active optics such as all-optical switching and light modulation. the technologies could have applications in such areas as data processing, sensing and communications. 
+ chiral materials exhibit optical properties that differ depending on their opposing circular polarizations. the differences between these responses, which are created by the nanoscale patterning of absorptive materials, can be utilized to create large chiroptical resonances. to be useful in applications such as all-optical switching, these resonances would need to be induced by external tuning – such as variations in power input. 
+ “when you increase the power, you shift the spectrum,” rodrigues said. “in effect, you change the transmission at certain wavelengths, meaning you’re changing the amount of light passing through the sample by simply modifying input power.” for optical engineers, that could be the basis for a switch. 
+ the material demonstrated by cai’s lab are made by nano-patterning layers of silver – approximately 33 nanometers thick – onto glass substrates. between the carefully-designed silver layers is a 45-nanometer layer of dielectric material. an elliptical pattern is created using electron beam lithography, then the entire structure is encapsulated within a dielectric material to prevent oxidation. 
+ “it is the engineering of these structures that gives us these chiral optical properties,” rodrigues explained. “the goal is really to take advantage of the discrepancy between one circular polarization versus the other to create the broadband resonances we need.” 
+ the material operates in the visible to near-infrared spectrum, at approximately 740 to 1,000 nanometers. the optical rotation and circular dichroism measurements were taken with the beam entering the material at a normal incident angle. 
+ the researchers induced the change in circular dichroism by increasing the optical power applied to the material from 0.5 milliwatts up to 15 milliwatts. while that is comparatively low power for a laser system, it has a high enough energy flux (energy transfer in time) to instigate change. 
+ “the beam size is roughly 40 microns, so it is really focused,” said rodrigues. “we are putting a lot of energy into a small area, which causes the effect to be fairly intense.” 
+ the researchers don’t yet know what prompts the change, but suspect that thermal processes may be involved in altering the material’s properties to boost the circular dichroism. tests show that the power applications do not damage the metamaterial. 
+ cai’s laboratory has been studying chiral materials of different kinds for a variety of optical applications. in june 2015, they 
+ reported the realization 
+ of one of the long-standing theoretical predictions in nonlinear optical metamaterials: creation of a nonlinear material that has opposite refractive indices at the fundamental and harmonic frequencies of light. such a material, which doesn’t exist naturally, had been predicted for nearly a decade. 
+ in addition to those already mentioned, the research included shoufeng lan, lei kang, yonghao cui, patrick panuski, shengxiang wang and augustine m. urbas. urbas is associated with the air force research laboratory at wright-patterson air force base; wang is associated with wuhan textile university in china. the others are associated with georgia tech. 
+ this work was performed in part at the georgia tech institute for electronics and nanotechnology, a member of the national nanotechnology coordinated infrastructure, which is supported by the national science foundation (grant eccs-1542174). this material is based on work partially supported by the national science foundation under grant no. eccs-1609567 and by collaborative support from the air force research laboratory through ues and azimuth subcontracts s-977-022-001 and 238-5404-git, respectively. support is also acknowledged from the national science foundation (nsf) graduate research fellowship under grant no. dge-1650044. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations. 
+ citation : rodrigues, s.p. et al., “intensity-dependent modulation of optically active signals in a chiral metamaterial,” (nature communications, 2017). 
+ http: / / dx.doi.org / 10.1038 / ncomms14602 . 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

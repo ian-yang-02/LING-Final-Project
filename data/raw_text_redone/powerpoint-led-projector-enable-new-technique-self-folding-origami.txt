@@ -1,0 +1,43 @@
+powerpoint & led projector enable new technique for self-folding origami 
+ powerpoint and an led projector allow self-folding origami structures from photo-sensitive polymers. 
+ a new technique for producing self-folding three-dimensional origami structures from photo-curable liquid polymer materials created these tiny samples, held in a hand for size comparison. (credit: rob felt, georgia tech) 
+ apr 28, 2017 
+ — atlanta, ga 
+ researchers at the georgia institute of technology and peking university have found a new use for the ubiquitous powerpoint slide: producing self-folding three-dimensional origami structures from photocurable liquid polymers. 
+ the technique involves projecting a grayscale pattern of light and dark shapes onto a thin layer of liquid acrylate polymer placed in a plate or between two glass slides. a photoinitiator material mixed into the polymer initiates a crosslinking reaction when struck by light from an ordinary led projector, causing a solid film to form. a light-absorbing dye in the polymer serves as a regulator for the light. due to the complicated interaction between the evolution of the polymer network and volume shrinkage during photo curing, areas of the polymer that receive less light exhibit more apparent bending behavior. 
+ when the newly-created polymer film is removed from the liquid polymer, the stress created in the film by the differential shrinkage causes the folding to begin. to make the most complex origami structures, the researchers shine light onto both sides of the structures. 
+ origami structures produced so far include tiny tables, capsules, flowers, birds and the traditional miura-ori fold – all about a half-inch in size. the origami structures could have applications in soft robots, microelectronics, soft actuators, mechanical metamaterials and biomedical devices. 
+ “the basic idea of our method is to utilize the volume shrinkage phenomenon during photo-polymerization,” said 
+ jerry qi , a professor in the 
+ woodruff school of mechanical engineering 
+ at georgia tech. “during a specific type of photopolymerization, frontal photopolymerization, the liquid resin is cured continuously from the side under light irradiation toward the inner side. this creates a non-uniform stress field that drives the film to bend along the direction of light path.” 
+ details of the work were published april 28 in the journal 
+ science advances . the research was supported by the national science foundation, the air force office of scientific research and the chinese scholarship council. it is believed to be the first application to create self-folding origami structures through the control of volume shrinkage during patterned photopolymerization. 
+ the process that creates the shrinkage phenomenon is considered harmful in other uses of the polymer. 
+ “volume shrinkage of polymer was always assumed to be detrimental in the fabrication of composites and in the conventional 3-d printing technology,” said daining fang, a co-author of the paper and a professor at peking university when the research was done. “our work shows that with a change of perspective, this phenomenon can become quite useful.” fang is now at beijing institute of technology. 
+ to make the most complex shapes with bending in both directions, the researchers can flip the patterned film over to create crosslinking on the other side. 
+ “we have developed two types of fabrication processes,” said zeang zhao, a ph.d. student at georgia tech and peking university. “in the first one, you can just shine the light pattern towards a layer of liquid resin, and then you will get the origami structure. in the second one, you may need to flip the layer and shine a second pattern. this second process gives you much wider design freedom.” 
+ light is shined onto the film for five to ten seconds, which produces a film about 200 microns thick. “the areas that receive light become solid; the other parts of the pattern remain liquid, and the structure can then be removed from the liquid polymer,” said qi. “the technique is very simple.” 
+ frontal photopolymerization is a process in which a polymer film is continuously cured from one side in a thick layer of liquid resin. in the presence of strong light attenuation, the solidification front initiates at the surface upon illumination and propagates toward the liquid side as the irradiation time increases. the process can be delicately tuned by controlling the illumination time and the light intensity, and the method has been used to fabricate microfluidic devices and synthesize microparticles. 
+ the researchers used poly(ethylene glycol) diacrylate in this demonstration, but the technique should work with a broad range of photocurable polymers. an orange dye was used in the demonstration, but other dyes could produce structures in a range of different colors. 
+ for the proof-of-principle, zhao created a powerpoint pattern by hand. to scale the process up, the system could be connected to a computer-aided design (cad) tool for generating more precise grayscale patterns. 
+ qi believes the technique could be used to produce structures as much as an inch in size. “the self-folding requires relatively thin films which might not be possible in larger structures,” he said. 
+ added qi, “we have developed a simple approach to fold a thin sheet of polymer into complicated three-dimensional origami structures. our approach is not limited by specific materials, and the patterning is so simple that anybody with powerpoint and a projector could do it.” 
+ this research was supported by nsf awards cmmi-1462894, cmmi-1462895, and efri-1435452; and the air force office of scientific research grant 15rt0885. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring organizations. 
+ citation : zeang zhao, jiangtao wu, xiaoming mu, haosen chen, h. jerry qi, and daining fang, “origami by frontal photopolymerization,” (science advances, 2017). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or josh brown (404-385-0500) (josh.brown@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

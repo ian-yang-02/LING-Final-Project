@@ -1,0 +1,84 @@
+researchers reveal roadmap for ai innovation in brain and language learning 
+ a new study co-led by anna (anya) ivanova highlights how human neuroscience is paving the way for ai innovation — and what ai can teach us about ourselves. 
+ mar 19, 2024 
+ one of the hallmarks of humanity is language, but now, powerful new artificial intelligence tools also compose poetry, write songs, and have extensive conversations with human users. tools like chatgpt and gemini are widely available at the tap of a button — but just how 
+ smart 
+ are these ais? 
+ a new multidisciplinary research effort co-led by 
+ anna (anya) ivanova , assistant professor in the 
+ school of psychology 
+ at georgia tech, alongside 
+ kyle mahowald , an assistant professor in the department of linguistics at the university of texas at austin, is working to uncover just that. 
+ their results could lead to innovative ais that are more similar to the human brain than ever before — and also help neuroscientists and psychologists who are unearthing the secrets of our own minds. 
+ the study, 
+ “dissociating language and thought in large language models,” 
+ is published this week in the scientific journal 
+ trends in cognitive sciences . the work is already making waves in the scientific community: an earlier 
+ preprint 
+ of the paper, released in january 2023, has already been cited more than 150 times by fellow researchers. 
+ the 
+ research team 
+ has continued to refine the research for this final journal publication. 
+ “chatgpt became available while we were finalizing the preprint,” ivanova explains. “over the past year, we've had an opportunity to update our arguments in light of this newer generation of models, now including chatgpt.” 
+ form versus function 
+ the study focuses on large language models (llms), which include ais like chatgpt. llms are text prediction models, and create writing by predicting which word comes next in a sentence — just like how a cell phone or email service like gmail might suggest what next word you might want to write. however, while this type of language learning is extremely effective at creating coherent sentences, that doesn’t necessarily signify intelligence. 
+ ivanova’s team argues that 
+ formal competence 
+ — creating a well-structured, grammatically correct sentence — should be differentiated from 
+ functional competence 
+ — answering the right question, communicating the correct information, or appropriately communicating. they also found that while llms trained on text prediction are often very good at formal skills, they still struggle with functional skills. 
+ “we humans have the 
+ tendency to conflate language and thought,” ivanova says. “i think that’s an important thing to keep in mind as we're trying to figure out what these models are capable of, because using that ability to be good at language, to be good at formal competence, leads many people to assume that ais are also good at thinking — even when that's not the case. 
+ it's a heuristic that we developed when interacting with other humans over thousands of years of evolution, but now in some respects, that heuristic is broken,” ivanova explains. 
+ the distinction between formal and functional competence is also vital in rigorously testing an ai’s capabilities, ivanova adds. evaluations often don’t distinguish formal and functional competence, making it difficult to assess what factors are determining a model’s success or failure. the need to develop distinct tests is one of the team’s more widely accepted findings, and one that some researchers in the field have already begun to implement. 
+ creating a modular system 
+ while the human tendency to conflate functional and formal competence may have hindered understanding of llms in the past, our human brains could also be the key to unlocking more powerful ais. 
+ leveraging the tools of cognitive neuroscience while a postdoctoral associate at 
+ massachusetts institute of technology (mit) , ivanova and her team studied brain activity in neurotypical individuals via fmri, and used behavioral assessments of individuals with brain damage to test the causal role of brain regions in language and cognition — both conducting new research and drawing on previous studies. the team’s results showed that human brains use different regions for functional and formal competence, further supporting this distinction in ais. 
+ “our research shows that in the brain, there is a language processing module and separate modules for reasoning,” ivanova says. this modularity could also serve as a blueprint for how to develop future ais. 
+ “building on insights from human brains — where the language processing system is sharply distinct from the systems that support our ability to think — we argue that the language-thought distinction is conceptually important for thinking about, evaluating, and improving large language models, especially given recent efforts to imbue these models with human-like intelligence,” says ivanova’s former advisor and study co-author 
+ evelina fedorenko , a professor of brain and cognitive sciences at mit and a member of the mcgovern institute for brain research. 
+ developing ais in the pattern of the human brain could help create more powerful systems — while also helping them dovetail more naturally with human users. “generally, differences in a mechanism’s internal structure affect behavior,” ivanova says. “building a system that has a broad macroscopic organization similar to that of the human brain could help ensure that it might be more aligned with humans down the road.” 
+ in the rapidly developing world of ai, these systems are ripe for experimentation. after the team’s preprint was published, openai announced their intention to add plug-ins to their gpt models. 
+ “that plug-in system is actually very similar to what we suggest,” ivanova adds. “it takes a modularity approach where the language model can be an interface to another specialized module within a system.” 
+ while the openai plug-in system will include features like booking flights and ordering food, rather than cognitively inspired features, it demonstrates that “the approach has a lot of potential,” ivanova says. 
+ the future of ai — and what it can tell us about ourselves 
+ while our own brains might be the key to unlocking better, more powerful ais, these ais might also help us better understand ourselves. 
+ “when researchers try to study the brain and cognition, it's often useful to have some smaller system where you can actually go in and poke around and see what's going on before you get to the immense complexity,” ivanova explains. 
+ however, since human language is unique, model or animal systems are more difficult to relate. that's where llms come in. 
+ “there are lots of surprising similarities between how one would approach the study of the brain and the study of an artificial neural network” like a large language model, she adds. “they are both information processing systems that have biological or artificial neurons to perform computations.” 
+ in many ways, the human brain is still a black box, but 
+ openly available ais offer a unique opportunity to see the synthetic system's inner workings and modify variables, and explore these corresponding systems like never before. 
+ “ it's a really wonderful model that we have a lot of control over,” ivanova says. “ n eural networks — they are amazing.” 
+ along with  anna (anya) ivanova, kyle mahowald, and evelina fedorenko, the 
+ research team also includes 
+ idan blank 
+ (university of california, los angeles), as well as 
+ nancy kanwisher 
+ and 
+ joshua tenenbaum 
+ (massachusetts institute of technology). 
+ doi: 
+ https: / / doi.org / 10.1016 / j.tics.2024.01.011 
+ researcher acknowledgements 
+ for helpful conversations, we thank jacob andreas, alex warstadt, dan roberts, kanishka misra, students in the 2023 ut austin linguistics 393 seminar, the attendees of the harvard langcog journal club, the attendees of the ut austin department of linguistics synsem seminar, gary lupyan, john krakauer, members of the intel deep learning group, yejin choi and her group members, allyson ettinger, nathan schneider and his group members, the ut nll group, attendees of the kuis ai talk series at koç university in istanbul, tom mccoy, attendees of the nyu philosophy of deep learning conference and his group members, sydney levine, organizers and attendees of the ilfc seminar, and others who have engaged with our ideas. we also thank aalok sathe for help with document formatting and references. 
+ funding sources 
+ anna (anya) ivanova was supported by funds from the quest initiative for intelligence. kyle mahowald acknowledges funding from nsf grant 2104995. evelina fedorenko was supported by nih awards r01-dc016607, r01-dc016950, and u01-ns121471 and by research 
+ funds from the brain and cognitive sciences department, mcgovern institute for brain research, and the simons foundation through the simons center for the social brain. 
+ additional media 
+ related links 
+ sparks of artificial general intelligence: early experiments with gpt-4 
+ some glimpse agi in chatgpt. others call it a mirage 
+ the difference between speaking and thinking 
+ contact 
+ written by selena langner 
+ editor and press contact: 
+ jess hunt-ralston 
+ director of communications 
+ college of sciences 
+ georgia tech 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

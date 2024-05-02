@@ -1,0 +1,27 @@
+nanoscale “glass” bottles could enable targeted drug delivery 
+ tiny silica bottles filled with medicine and a special temperature-sensitive material could be used for drug delivery to kill malignant cells only in certain parts of the body. 
+ this scanning electron microscopy image shows the nanocapsules once formed after the removal of the gold nanoparticles and polystyrene beads, leaving behind an opening that can be used to fill the capsules with a payload. (credit: jichuan qiu) 
+ aug 14, 2019 
+ — atlanta, ga 
+ tiny silica bottles filled with medicine and a special temperature-sensitive material could be used for drug delivery to kill malignant cells only in certain parts of the body, according to a study published recently by researchers at the georgia institute of technology. 
+ the research team devised a way to create silica-based hollow spheres around 200 nanometers in size, each with one small hole in the surface that could enable the spheres to encapsulate a wide range of payloads to be released later at certain temperatures only. 
+ in the study, which was published on june 4 in the journal  angewandte chemie international edition , the researchers describe packing the spheres with a mixture of fatty acids, a near-infrared dye, and an anticancer drug. the fatty acids remain solid at human body temperature but melt a few degrees above. when an infrared laser is absorbed by the dye, the fatty acids will be quickly melted to release the therapeutic drug. 
+ “this new method could allow infusion therapies to target specific parts of the body and potentially negating certain side effects because the medicine is released only where there’s an elevated temperature,” said younan xia, professor and brock family chair in the wallace h. coulter department of biomedical engineering at georgia tech and emory university. “the rest of the drug remains encapsulated by the solid fatty acids inside the bottles, which are biocompatible and biodegradable.” 
+ the researchers also showed that the size of the hole could be changed, enabling nanocapsules that release their payloads at different rates. 
+ “this approach holds great promise for medical applications that require drugs to be released in a controlled fashion and has advantages over other methods of controlled drug release,” xia said. 
+ an earlier method for achieving controlled drug release involves loading the temperature-sensitive material into low-density lipoproteins, which is often referred to as “bad cholesterol.” another method involves loading the mixture into gold nanocages. both have disadvantages in how the material used to encapsulate the drugs interact with the body, according to the study. 
+ to make the silica-based bottles, the research team started by fabricating spheres out of polystyrene with a small gold nanoparticle embedded in its surface. the spheres are then coated with a silica-based material everywhere except where the gold nanoparticle is embedded. once the gold and polystyrene are removed, only a hollow silica sphere with a small opening remains. to adjust the size of the opening, the researchers simply changed the size of the gold nanoparticle. 
+ the process to load the bottles with their payload involves soaking the spheres in a solution containing the mixture, removing the trapped air, then washing away the excess material and payload with water. the resulting nanocapsules contain an even mixture of the temperature-sensitive material, the therapeutic drug, and the dye. 
+ to test the release mechanism, the researchers then put the nanocapsules in water and used a near-infrared laser to heat the dye while tracking the concentration of the released therapeutic. the test confirmed that without the use of the laser, the medicine remains encapsulated. after several minutes of heating, concentrations of the therapeutic rose in the water. 
+ “this controlled release system enables us to deal with the adverse impacts associated with most chemotherapeutics by only releasing the drug at a dosage above the toxic level inside the diseased site,” said jichuan qiu, a postdoctoral fellow in the xia group. 
+ this research was supported by the national science foundation under grant no. eccs-1542174 through the national nanotechnology coordinated infrastructure. the work was also supported by the china scholarship council through a graduate student fellowship. the content is the responsibility of the authors and does not necessarily represent the official views of the sponsoring agencies. 
+ citation :  jichuan qiu, da huo, jiajia xue, guanghui zhu, hong lui, and younan xia, “encapsulation of a phase-change material in nanocapsules with a well-defined hole in the wall for the controlled release of drugs,” (angewandte chemie international edition, july 2019). http: / / dx.doi.org / 10.1002 / anie.201904549 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

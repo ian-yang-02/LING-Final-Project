@@ -1,0 +1,33 @@
+graphene oxide membranes could reduce paper industry energy costs 
+ georgia tech has found a method to engineer energy-efficient filtration membranes to recycle pulping wastewater. 
+ paper mills use large amounts of water in their production processes and need new methods to improve sustainability. 
+ feb 22, 2021 
+ — atlanta, ga 
+ the u.s. pulp and paper industry uses large quantities of water to produce cellulose pulp from trees. the water leaving the pulping process contains a number of organic byproducts and inorganic chemicals. to reuse the water and the chemicals, paper mills rely on steam-fed evaporators that boil up the water and separate it from the chemicals. 
+ water separation by evaporators is effective but uses large amounts of energy. that’s significant given that the united states currently is the world’s second-largest producer of paper and paperboard. the country’s approximately 100 paper mills are estimated to use about 0.2 quads (a quad is a quadrillion btus) of energy per year for water recycling, making it one of the most energy-intensive chemical processes. all industrial energy consumption in the united states in 2019 totaled 26.4 quads, according to 
+ lawrence livermore national laboratory . 
+ an alternative is to deploy energy-efficient filtration membranes to recycle pulping wastewater. but conventional polymer membranes — commercially available for the past several decades — cannot withstand operation in the harsh conditions and high chemical concentrations found in pulping wastewater and many other industrial applications. 
+ georgia institute of technology researchers have found a method to engineer membranes made from graphene oxide (go), a chemically resistant material based on carbon, so they can work effectively in industrial applications. 
+ “go has remarkable characteristics that allow water to get through it much faster than through conventional membranes,” said 
+ sankar nair , professor, simmons faculty fellow, and associate chair for industry outreach in the georgia tech 
+ school of chemical and biomolecular engineering . “but a longstanding question has been how to make go membranes work in realistic conditions with high chemical concentrations so that they could become industrially relevant.” 
+ using new fabrication techniques, the researchers can control the microstructure of go membranes in a way that allows them to continue filtering out water effectively even at higher chemical concentrations. 
+ the research, supported by the u.s. department of energy-rapid institute, an industrial consortium of forest product companies, and georgia tech’s renewable bioproducts institute, was reported recently in the journal nature sustainability. many industries that use large amounts of water in their production processes may stand to benefit from using these go nanofiltration membranes. 
+ nair, his colleagues meisha shofner and scott sinquefield, and their research team began this work five years ago. they knew that go membranes had long been recognized for their great potential in desalination, but only in a lab setting. “no one had credibly demonstrated that these membranes can perform in realistic industrial water streams and operating conditions,” nair said. “new types of go structures were needed that displayed high filtration performance and mechanical stability while retaining the excellent chemical stability associated with go materials.” 
+ to create such new structures, the team conceived the idea of sandwiching large aromatic dye molecules in between go sheets. researchers zhongzhen wang, chen ma, and chunyan xu found that these molecules strongly bound themselves to the go sheets in multiple ways, including stacking one molecule on another. the result was the creation of “gallery” spaces between the go sheets, with the dye molecules acting as “pillars.” water molecules easily filter through the narrow spaces between the pillars, while chemicals present in the water are selectively blocked based on their size and shape. the researchers could tune the membrane microstructure vertically and laterally, allowing them to control both the height of the gallery and the amount of space between the pillars. 
+ the team then tested the go nanofiltration membranes with multiple water streams containing dissolved chemicals and showed the capability of the membranes to reject chemicals by size and shape, even at high concentrations. ultimately, they scaled up their new go membranes to sheets that are up to 4 feet in length and demonstrated their operation for more than 750 hours in a real feed stream derived from a paper mill. 
+ nair expressed excitement for the potential of go membrane nanofiltration to generate cost savings in paper mill energy usage, which could improve the industry’s sustainability. “these membranes can save the paper industry more than 30% in energy costs of water separation,” he said. 
+ georgia tech continues to work with its industrial partners to apply the go membrane technology for pulp and paper applications. 
+ this work is supported by the u.s. department of energy (doe) rapid advancement in process intensification deployment (rapid) institute ( # de-ee007888-5-5), an industrial consortium comprising georgia-pacific, international paper, sappi, and westrock, and the georgia tech renewable bioproducts institute. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations. 
+ citation : zhongzhen wang, et al., “graphene oxide nanofiltration membranes for desalination under realistic conditions.” ( nature sustainability , 2021) 
+ https: / / doi.org / 10.1038 / s41893-020-00674-3 . 
+ additional images 
+ contact 
+ anne wainscott-sargent 
+ research news 
+ (404-435-5784) 
+ email 
+ asargent7@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

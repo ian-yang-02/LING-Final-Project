@@ -1,0 +1,46 @@
+Rising Tundra Temperatures Create Worrying Changes in Microbial Communities
+Rising temperatures could affect the microbial communities in northern latitude tundra.
+Test plots were used by researchers to study the effects of warming on microbial communities in the interior Alaskan landscape. (Photo: Professor Ted Schuur, Northern Arizona University)
+Jul 08, 2019
+— Atlanta, GA
+Rising temperatures in the tundra of the Earth’s northern latitudes could affect microbial communities in ways likely to increase their production of greenhouse gases methane and carbon dioxide, a new study of experimentally warmed Alaskan soil suggests.
+About half of the world’s total underground carbon is stored in the soils of these frigid, northern latitudes. That is more than twice the amount of carbon currently found in the atmosphere as carbon dioxide, but until now most of it has been locked up in the very cold soil. The new study, which relied on metagenomics to analyze changes in the microbial communities being experimentally warmed, could heighten concerns about how the release of this carbon may exacerbate climate change.
+“We saw that microbial communities respond quite rapidly – within four or five years – to even modest levels of warming,” said
+Kostas T. Konstantinidis , the paper’s corresponding author and a professor in the
+School of Civil and Environmental Engineering
+and the
+School of Biological Sciences
+at the Georgia Institute of Technology, where he also is a researcher in the Petit Institute for Bioengineering and Bioscience. “Microbial species and their genes involved in carbon dioxide and methane release increased their abundance in response to the warming treatment. We were surprised to see such a response to even mild warming.”
+The new study was supported by the U.S. Department of Energy and the National Science Foundation, and reported July 8 in the early edition of the journal
+Proceedings of the National Academy of Sciences.
+Researchers from the University of Oklahoma, Michigan State University and Northern Arizona University collaborated with Georgia Tech on the study.
+The study provides quantitative information about how rapidly microbial communities responded to the warming at critical depths, and highlights the dominant microbial metabolisms and groups of organisms that are responding to warming in the tundra. The work underscores the importance of accurately representing the role of soil microbes in climate models.
+The research began in September 2008 at a moist, acidic tundra area in the interior of Alaska near Denali National Park. Six experimental blocks were created, and in each block, two snow fences were constructed about five meters apart in the winter to control snow cover. Thicker snow cover in the winter served as an insulator, creating slightly elevated temperatures – about 1.1 degrees Celsius (2 degrees Fahrenheit) in the experimental plots.
+Other than the temperature difference, the soil conditions were similar in the experimental and control plots. Soil cores were taken from the experimental and control plots at two different depths at two different times: 1.5 years after the experiment began, and 4.5 years after the start. Microbial DNA was extracted from the cores and sequenced using the Genomics Core at Georgia Tech.
+“Our analysis of the resulting data showed which species were there, in what abundances, which species responded to warming and by how much – and what functions they possessed related to carbon use and release,” said Eric R. Johnston, now a postdoctoral researcher at Oak Ridge National Laboratory, who conducted the study’s analysis as a Georgia Tech Ph.D. student.
+Cores from the experimental and control plots were compared to assess the effects of the warming. Cumulative ecosystem respiration was also sampled during the month following removal of the cores.
+“The response we observed differed markedly between the two soil depths (15 to 25 centimeters and 45 to 55 centimeters) that were sampled for this study,” said Johnston. “Specifically, at the upper boundary of the initial permafrost boundary layer – 45 to 55 centimeters below the surface – the relative abundance of genes involved in methane production (methanogenesis) increased with warming, while genes involved in organic carbon respiration — the release of carbon dioxide — became more abundant at shallower depths.”
+Measurement of the community respiration showed increases in the rate of carbon dioxide and methane release in the plots that were warmed. “Similar measurements have also shown that these gases are being released at a greater rate throughout the entire region in recent years as a result of climate warming,” Johnston added.
+The two soil depths correspond to an active layer near the surface that freezes during the winter but thaws during warmer months, exposing the carbon. The deeper measurements examined soil just above the permafrost that thaws for only a brief time each year. These variations create fundamental differences in the biology and chemistry at the two depths.
+“We expected to observe warming responses that differed between the two sampling depths,” Johnston said. “Ongoing thaw of permafrost soil is being observed on the global scale, so we were particularly interested in evaluating microbiological responses to thawing permafrost.”
+The research highlights the importance of microbial communities in contributing atmospheric methane and carbon dioxide to climate change, Konstantinidis said.
+“Because of the very large amount of carbon in these systems, as well as the rapid and clear response to warming found in this experiment and other studies, it is becoming increasingly clear that soil microbes – particularly those in the northern latitudes – and their activities need to be represented in climate models,” he said. “Our work provides markers – species and genes – that can be used in this direction.”
+In addition to those already mentioned, the paper’s authors included Janet K. Hatt from Georgia Tech, Zhili He and Liyou Wu from the University of Oklahoma, Xue Guo from Tsinghua University, Yiqi Luo and Edward A. G. Schuur from Northern Arizona University, James M. Tiedje from Michigan State University, and Jizhong Zhou from Lawrence Berkeley National Laboratory.
+This research was supported by U.S. Department of Energy award DE-SC0004601 and by the National Science Foundation awards 1356288 and 1759831. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations.
+CITATION : Eric R. Johnston, et al., “ Responses of tundra soil microbial communities to half a decade of experimental warming at two critical depths " (Proceedings of the National Academy of Sciences, 2019)
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,45 @@
+researchers discover predictable behavior in promising material for computer memory 
+ a research team led by georgia tech researchers has discovered unexpectedly familiar behavior in the antiferroelectric material known as zirconium dioxide, or zirconia. 
+ research findings recently featured on the cover of the journal advanced electronic materials. 
+ nov 01, 2021 
+ — atlanta, ga 
+ in the last few years, a class of materials called antiferroelectrics has been increasingly studied for its potential applications in modern computer memory devices. research has shown that antiferroelectric-based memories might have greater energy efficiency and faster read and write speeds than conventional memories, among other appealing attributes. further, the same compounds that can exhibit antiferroelectric behavior are already integrated into existing semiconductor chip manufacturing processes. 
+ now, a team led by georgia tech researchers has discovered unexpectedly familiar behavior in the antiferroelectric material known as zirconium dioxide, or zirconia. they show that as the microstructure of the material is reduced in size, it behaves similarly to much better understood materials known as ferroelectrics. the findings were recently 
+ published 
+ in the journal 
+ advanced electronic materials . 
+ miniaturization of circuits has played a key role in improving memory performance over the last fifty years. knowing how the properties of an antiferroelectric change with shrinking size should enable the design of more effective memory components. 
+ the researchers also note that the findings should have implications in many other areas besides memory. 
+ "antiferroelectrics have a range of unique properties like high reliability, high voltage endurance, and broad operating temperatures that makes them useful in a wealth of different devices, including high-energy-density capacitors, transducers, and electro-optics circuits.” said  nazanin bassiri-gharb , coauthor of the paper and professor in the 
+ woodruff school of mechanical engineering 
+ and the 
+ school of materials science and engineering 
+ at georgia tech. “but size scaling effects had gone largely under the radar for a long time.” 
+ “you can design your device and make it smaller knowing exactly how the material is going to perform,” said  asif khan , coauthor of the paper and assistant professor in the 
+ school of electrical and computer engineering 
+ and the school of materials science and engineering at georgia tech. “from our standpoint, it opens really a new field of research.” 
+ lasting fields 
+ the defining feature of an antiferroelectric material is the peculiar way it responds to an external electric field. this response combines features of non-ferroelectric and ferroelectric materials, which have been much more intensively studied in physics and materials science. 
+ for ferroelectrics, exposure to an external electric field of sufficient strength makes the material become strongly polarized, which is a state where the material exhibits its own internal electric field. even when the external electric field is removed, this polarization persists, similar to how an iron nail can become permanently magnetized. 
+ the behavior of a ferroelectric material also depends on its size. as a sample of material is made thinner, a stronger electric field is required to create a permanent polarization, in accordance with a precise and predictable law called the janovec–kay–dunn (jkd) law. 
+ by contrast, application of an external electric field to an antiferroelectric does not cause the material to become polarized – at first. however, as the strength of the external field is increased, an antiferroelectric material eventually switches to a ferroelectric phase, where polarization abruptly sets in. the electric field needed to switch the antiferroelectric to a ferroelectric phase is called the critical field. 
+ size scaling 
+ in the new work, the researchers discovered that zirconia antiferroelectrics also obey something like a jkd law. however, unlike for ferroelectrics, the microstructure of the material plays a key role. the strength of the critical field scales in the jkd pattern specifically with respect to the size of structures known as crystallites within the material. for a smaller crystallite size, it takes a stronger critical field to switch an antiferroelectric material into its ferroelectric phase, even if the thinness of the sample remains the same. 
+ “there had not been a predictive law that dictates how the switching voltage will change as one miniaturizes these antiferroelectric oxide devices,” said khan. “we’ve found a new twist on an old law.” 
+ formerly, thin antiferroelectrics had been difficult to produce in comparable sizes as ferroelectrics, the researchers said. nujhat tasneem, the doctoral student leading the research, spent “day and night” in the lab according to khan to process and produce leakage-free antiferroelectric zirconium oxide films of single nanometers in size. the next step, according to khan, is for researchers to figure out exactly how to control the crystallite size, thereby tailoring the properties of the material for its use in circuits. 
+ the researcher also collaborated with researchers from the charles university in czech republic and the universidad andres bello in chile for x-ray diffraction characterization and first-principles based calculations, respectively. 
+ “it was truly a collaborative effort, spanning multiple continents,” said tasneem. 
+ the results should also speak to fundamental physics questions, according to bassiri-gharb. in recent years, something of a mystery has arisen in the study of antiferroelectrics, with the way that microscopic crystalline structures cause a macroscopic polarization being called into question. 
+ “finding two very different types of materials – ferroelectric and antiferroelectrics with different atomic structures – to follow similar behaviors and laws is particularly exciting,” said bassiri-gharb. “it opens doors for searching for more similarities and transferring more of our knowledge across the fields.” 
+ the work was supported by the national science foundation, the semiconductor research corporation, the defense threat reduction agency, the european regional development fund, and anid fondecyt in chile. this work was performed in part at the georgia tech institute for electronics and nanotechnology, a member of the national nanotechnology coordinated infrastructure (nnci), which is supported by the national science foundation. 
+ references: 
+ nujhat tasneem, yasmin mohamed yousry, mengkun tian, milan dopita, sebastian e. reyes‐lillo, josh kacher, nazanin bassiri‐gharb, and asif islam khan. "a janovec‐kay‐dunn‐like behavior at thickness scaling in ultra‐thin antiferroelectric zro2 films." advanced electronic materials (2021): 2100485. 
+ https: / / doi.org / 10.1002 / aelm.202100485 
+ additional images 
+ contact 
+ georgia parmelee 
+ email 
+ georgia.parmelee@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

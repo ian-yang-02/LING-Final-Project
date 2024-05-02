@@ -1,0 +1,49 @@
+study in 'science' finds missing piece of biogeochemical puzzle in aquifer 
+ new study may dramatically shift our understanding of the complex dance of microbes and minerals that takes place in aquifers deep underground. 
+ jul 18, 2014 
+ — atlanta, ga 
+ written by argonne national laboratory a study published in scienceby researchers from the u.s. department of energy’s argonne national laboratory and co-authored by georgia tech may dramatically shift our understanding of the complex dance of microbes and minerals that takes place in aquifers deep underground. this dance affects groundwater quality, the fate of contaminants in the ground and the emerging science of carbon sequestration. deep underground, microbes don’t have much access to oxygen. so they have evolved ways to breathe other elements, including solid minerals like iron and sulfur. the part that interests scientists is that when the microbes breathe solid iron and sulfur, they transform them into highly reactive dissolved ions that are then much more likely to interact with other minerals and dissolved materials in the aquifer. this process can slowly but steadily make dramatic changes to the makeup of the rock, soil and water. “that means that how these microbes breathe affects what happens to pollutants — whether they travel or stay put — as well as groundwater quality,” said ted flynn, a scientist from argonne and the 
+ computation institute 
+ at the 
+ university of chicago 
+ and the lead author of the study. about a fifth of the world’s population relies on groundwater from aquifers for their drinking water supply, and many more depend on the crops watered by aquifers. for decades, scientists thought that when iron was present in these types of deep aquifers, microbes who can breathe it would out-compete those who cannot. there’s an accepted hierarchy of what microbes prefer to breathe, according to how much energy each reaction can theoretically yield. (oxygen is considered the best overall, but it is rarely found deep below the surface.) according to these calculations, of the elements that do show up in these aquifers, breathing iron theoretically provides the most energy to microbes. and iron is frequently among the most abundant minerals in many aquifers, while solid sulfur is almost always absent. but something didn’t add up right. a lot of the microorganisms had equipment to breathe both iron and sulfur. this requires two completely different enzymatic mechanisms, and it’s evolutionarily expensive for microbes to keep the genes necessary to carry out both processes. why would they bother, if sulfur was so rarely involved? the team decided to redo the energy calculations assuming an alkaline environment — “older and deeper aquifers tend to be more alkaline than ph-neutral surface waters,” said argonne coauthor ken kemner — and found that in alkaline environments, it gets harder and harder to get energy out of iron. “breathing sulfur, on the other hand, becomes even more favorable in alkaline conditions,” flynn said. the team reinforced this hypothesis in the lab with bacteria under simulated aquifer conditions. the bacteria, 
+ shewanella oneidensis, 
+ can normally breathe both iron and sulfur. when the ph got as high as 9, however, it could breathe sulfur, but not iron. there was still the question of where microorganisms like 
+ shewanella 
+ could find sulfur in their native habitat, where it appeared to be scarce. the answer came from another group of microorganisms that breathe a different, soluble form of sulfur called sulfate, which is commonly found in groundwater alongside iron minerals. these microbes exhale sulfide, which reacts with iron minerals to form solid sulfur and reactive iron. the team believes this sulfur is used up almost immediately by 
+ shewanella 
+ and its relatives. “this explains why we don’t see much sulfur at any fixed point in time, but the amount of energy cycling through it could be huge,” kemner said. indeed, when the team put iron-breathing bacteria in a highly alkaline lab environment without any sulfur, the bacteria did not produce any reduced iron. “this hypothesis runs counter to the prevailing theory, in which microorganisms compete, survival-of-the-fittest style, and one type of organism comes out dominant,” flynn said. rather, the iron-breathing and the sulfate-breathing microbes depend on each other to survive. understanding this complex interplay is particularly important for sequestering carbon. the idea is that in order to keep harmful carbon dioxide out of the atmosphere, we would compress and inject it into deep underground aquifers. in theory, the carbon would react with iron and other compounds, locking it into solid minerals that wouldn’t seep to the surface. iron is one of the major players in this scenario, and it must be in its reactive state for carbon to interact with it to form a solid mineral. microorganisms are essential in making all that reactive iron. therefore, understanding that sulfur—and the microbe junkies who depend on it—plays a role in this process is a significant chunk of the puzzle that has been missing until now. the study, “sulfur-mediated electron shuttling during bacterial iron reduction,” appeared online in the may 1 edition of 
+ science express 
+ and was published in 
+ science 
+ earlier this summer. other authors on the study were argonne scientists bhoopesh mishra (also of the illinois institute of technology) and edward o’loughlin and 
+ georgia tech 
+ scientist thomas dichristina. “the exciting findings reported in our study were made possible by combining the microbiology expertise of my laboratory in the school of biology at georgia tech with the geochemical expertise of the molecular environmental sciences group led by ken kemner at argonne national laboratory,” said professor dichristina, “the biogeochemical link between bacterial iron- and sulfur-breathing bacteria is important for survival of microbial communities in modern subsurface environments, and also provides clues to the evolution of ancient metabolic processes on an early earth that lacked oxygen but contained large amounts of iron and sulfur.” funding for the research was provided by the 
+ u.s. department of energy’s office of science . the 
+ advanced photon source 
+ (aps) is also supported by the doe’s office of science. the team conducted x-ray analysis at the aps 
+ geosoilenvirocars 
+ beamline 13-id-e, which is operated by the university of chicago and jointly supported by the 
+ national science foundation 
+ and the doe’s office of science. additional support came from the 
+ national institutes of health 
+ and the national science foundation. t ‪ he computation institute 
+ (ci), a joint institute of the university of chicago and argonne national laboratory, is an intellectual nexus for scientists and scholars pursuing multi-disciplinary research, and a resource center for developing and applying innovative computational approaches. founded in 1999, it is home to over 200 faculty, fellows, and staff researching complex, system-level problems in such areas as biomedicine, energy and climate, astronomy and astrophysics, computational economics, social sciences and molecular engineering. ci is home to diverse projects including the center for robust decision making on climate and energy policy , the 
+ center for multiscale theory and simulation , the 
+ urban center for computation and data 
+ and 
+ globus . the advanced photon source 
+ at argonne national laboratory is one of five national synchrotron radiation light sources supported by the u.s. department of energy’s office of science to carry out applied and basic research to understand, predict, and ultimately control matter and energy at the electronic, atomic, and molecular levels, provide the foundations for new energy technologies, and support doe missions in energy, environment, and national security. to learn more about the office of science x-ray user facilities, visit the 
+ user facilities directory . argonne national laboratory 
+ seeks solutions to pressing national problems in science and technology. the nation's first national laboratory, argonne conducts leading-edge basic and applied scientific research in virtually every scientific discipline. argonne researchers work closely with researchers from hundreds of companies, universities, and federal, state and municipal agencies to help them solve their specific problems, advance america's scientific leadership and prepare the nation for a better future. with employees from more than 60 nations, argonne is managed by 
+ uchicago argonne, llc 
+ for the u.s. department of energy's office of science. doe’s office of science 
+ is the single largest supporter of basic research in the physical sciences in the united states, and is working to address some of the most pressing challenges of our time. for more information, visit 
+ science.energy.gov . 
+ contact 
+ jason maderer national media relations 404-385-2966 maderer@gatech.edu 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,63 @@
+physicists solve mysteries of microtubule movers 
+ physicists have developed a new model and clearer picture of molecular movements within active matter — bringing science a step closer to designing specific functions into new materials, and understanding emergent behaviors. 
+ roman grigoriev 
+ sep 01, 2023 
+ active matter 
+ is any collection of materials or systems composed of individual units that can move on their own, thanks to self-propulsion or autonomous motion. they can be of any size — think clouds of bacteria in a petri dish, or schools of fish. 
+ roman grigoriev 
+ is mostly interested in the emergent behaviors in active matter systems made up of units on a molecular scale — tiny systems that convert stored energy into directed motion, consuming energy as they move and exert mechanical force. 
+ “active matter systems have garnered significant attention in physics, biology, and materials science due to their unique properties and potential applications,” grigoriev, a professor in the 
+ school of physics 
+ at georgia tech, explains. 
+ “researchers are exploring how active matter can be harnessed for tasks like designing new materials with tailored properties, understanding the behavior of biological organisms, and even developing new approaches to robotics and autonomous systems,” he says. 
+ but that’s only possible if scientists learn how the microscopic units making up active matter interact, and whether they can affect these interactions and thereby the collective properties of active matter on the macroscopic scale. 
+ grigoriev and his research colleagues have found a potential first step by developing a new model of active matter that generated new insight into the physics of the problem. they detail their methods and results in a new 
+ study 
+ published in 
+ science advances , “physically informed data-driven modeling of active nematics.” 
+ school of physics graduate researcher 
+ matthew golden 
+ is the study's lead author. co-authors are graduate researcher 
+ jyothishraj nambisan 
+ and 
+ alberto fernandez-nieves , professor in the department of condensed matter physics at the 
+ university of barcelona 
+ and a former associate professor of physics at georgia tech. 
+ a two-dimensional 'solution?' 
+ the research team focused on one of the most common examples of active matter, a suspension of self-propelled particles, such as bacteria or synthetic microswimmers, in a liquid medium. these particles cluster, swarm, and otherwise form dynamic patterns due to their ability to move and interact with each other. 
+ “in our paper, we use data from an experimental system involving suspensions of microtubules, which provide structural support, shape, and organization to eukaryotic cells (any cell with a clearly defined nucleus),” grigoriev explains. 
+ microtubules, as well as actin filaments and some bacteria, are examples of nematics, rod-like objects whose "heads" are indistinguishable from their "tails.” 
+ the motion of microtubules is driven by molecular motors powered by a protein, kinesin, which consumes adenosine triphosphate (atp) dissolved in the liquid to slide a pair of neighboring microtubules past one another. the researcher’s system used microtubules suspended between layers of oil and water, which restricted their movement to two dimensions. 
+ “that makes it easier to visualize the microtubules and track their motion. by changing the kinesin or atp concentrations, we could control the motion of the microtubules, making this experimental setup by far one of the most popular in the study of active nematics and even more generally, active matter,” grigoriev said. 
+ ‘this is where the story gets interesting’ 
+ getting a clearer picture of microtubular movements was just one discovery in the study. 
+ another was learning more about the relationships between the characteristic patterns describing the orientation and motion of nematic molecules on a macroscopic scale. those patterns, or topological defects, determine how the nematics orient themselves at the oil-water interface, that is in two spatial dimensions. 
+ “understanding the relationship between the flow — the global property of the system, or the fluid — and the topological defects, which describe the local orientation of microtubules, is one of the key intellectual questions facing researchers in the field,” grigoriev said. “one needs to correctly identify the dominant physical effects which control the interaction between the microtubules and the surrounding fluid.” 
+ “and this is where the story gets interesting,” grigoriev adds. “for over a decade, it was believed that the key physics were well understood, with a large number of theoretical and computational studies relying on a generally accepted first principles model” — that is, one based on established science — “that was originally derived for active nematics in three spatial dimensions.” 
+ in the georgia tech model, though, the dynamics of active nematics — more specifically, the length and time scales of the emerging patterns — are controlled by a pair of physical constants describing those assumed dominant physical effects: the stiffness of the microtubules (their flexibility), and the activity describing the stress, or force, generated by the kinesin motors. 
+ “using a data-driven approach, we inferred the correct form of the model demonstrating that, for two-dimensional active nematics, the dominant physical effects are different from what was previously assumed,” grigoriev says. “in particular, the time scale is set by the rate at which bundles of microtubules are stretched by kinesin.” it is this rate, rather than the stress, that is constant. 
+ the danger of confirmation bias 
+ grigoriev said the results of the study have important implications for understanding of active nematics and their emergent behaviors, explaining that they help rationalize a number of recent experimental results that were previously unexplained, such as how the density of topological defects scales with the concentration of kinesin and the viscosity of the fluid layers. 
+ “more importantly, our results demonstrate the danger associated with traditional assumptions that established research communities often land on and have difficulty overcoming,” grigoriev said. “while data-driven methods may have their own sources of bias, they offer a perspective which is different enough from more traditional approaches to become a valuable research tool in their own right.” 
+ about georgia institute of technology 
+ the georgia institute of technology, or georgia tech, is one of the top public research universities in the u.s., developing leaders who advance technology and improve the human condition. the institute offers business, computing, design, engineering, liberal arts, and sciences degrees. its more than 45,000 undergraduate and graduate students, representing 50 states and more than 148 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ funding: 
+ this study was funded by the national science foundation, grant no. cmmi-2028454. 
+ “physically informed data-driven modeling of active nematics,” doi: 10.1126 / sciadv.abq6120 
+ additional images 
+ related links 
+ blending old and new schools: machine learning mixes with traditional science p… 
+ physicists uncover new dynamical framework for turbulence 
+ tech celebrates outstanding faculty, staff members 
+ 12 proposals to achieve college of sciences strategic goals funded by sutherlan… 
+ contact 
+ writer: renay san miguel 
+ communications officer ii / science writer 
+ college of sciences 
+ 404-894-5209 
+ editor: jess hunt-ralston 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

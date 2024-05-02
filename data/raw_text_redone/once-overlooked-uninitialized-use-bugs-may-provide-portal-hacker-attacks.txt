@@ -1,0 +1,34 @@
+once overlooked, uninitialized-use ‘bugs’ may provide portal for hacker attacks 
+ new georgia tech research has determined that simple memory errors in linux can be reliably exploited by hackers. 
+ mar 01, 2017 
+ — atlanta, ga 
+ popular with programmers the world over for its stability, flexibility and security, linux now appears to be vulnerable to hackers. 
+ according to new georgia institute of technology research, uninitialized variables ­– largely overlooked bugs mostly regarded as insignificant memory errors – are actually a critical attack vector that can be reliably exploited by hackers to launch privilege escalation attacks in the linux kernel. 
+ when successful, these intrusions give attackers increasing levels of access to a network’s resources. 
+ “while other kernel bugs and vulnerabilities have been examined and remedied, uninitialized-use bugs are not well studied, and to date, no practical defense mechanisms have been developed to protect against these attacks,” said georgia tech ph.d. student 
+ kangjie lu , lead researcher on the project. 
+ in fact, despite potentially dangerous consequences, uninitialized-use bugs are seldom even classified as security vulnerabilities. 
+ to prove that these bugs do present a security risk, researchers developed a novel approach, known as targeted stack spraying, to attack the operating system (os) kernel. 
+ along with a technique that occupies large portions of the memory to control the stack, the automated attack probes the stack to find weaknesses that user-mode programs can exploit to direct kernel code paths and leave attacker-controlled data on the kernel stack. ultimately, the goal of this attack is to reliably control the value of a specific uninitialized variable in the kernel space of a running program. 
+ the research findings confirm that hackers using this method can automatically prepare a malicious pointer in the uninitialized variable. when the malicious pointer is used, a privilege escalation attack targeting the linux kernel may occur. 
+ “our research shows that utilizing the targeted stack-spraying approach allows attackers to reliably control more than 91 percent of the linux kernel stack, which, in combination with uninitialized-use vulnerabilities, suffices for a privilege escalation attack,” said lu. 
+ not content to merely identify the vulnerability, lu and his fellow researchers also developed a potential solution to the problem. 
+ “our mitigation approach leverages the fact that uninitialized-use attacks usually control an uninitialized pointer to achieve arbitrary read / write / execution,” explained lu. “by zero-initializing pointer-type fields that the compiler cannot prove are properly initialized before they are used, we can prevent an adversary from controlling these pointers.” 
+ to limit any unnecessary performance overhead related to zero-initializing pointer-type fields, the team developed an intra-procedural program analysis that checks whether a pointer field is properly initialized when it is used. only uninitialized pointer fields require zero initialization. 
+ a paper titled 
+ unleashing use-before-initialization vulnerabilities in the linux kernel using targeted stack spraying 
+ is being presented this week at the 
+ network and distributed system security symposium 
+ being held in san diego, calif. 
+ additional images 
+ contact 
+ albert snedeker 
+ communications manager 
+ college of computing 
+ 404-844-7128 
+ albert.snedeker@cc.gatech.edu 
+ email 
+ albert.snedeker@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,62 @@
+pre-life building blocks spontaneously align in evolutionary experiment 
+ defying expectations, life building blocks spontaneously linked up in an experiment on how prebiotic chemistry took steps toward becoming the early life chemistry behind proteins. 
+ an outtake from a mural on the origin of life celebrates famous experimental milestones in the science that tries to explain how chemicals evolved into the first building blocks of life on an earth before life existed. the nsf center for chemical evolution headquartered at georgia tech has adopted this banner as a symbol. credit: painted by christine he and david fialho for georgia tech 
+ aug 01, 2019 
+ — atlanta, ga 
+ when earth was a lifeless planet about 4 billion years ago, chemical components came together in tiny molecular chains that would later evolve into proteins, crucial life building blocks. a 
+ new study 
+ has shown how fortuitously some early predecessors of protein may have fallen into line. 
+ in the laboratory, under conditions mimicking those on pre-life earth, a small selection of amino acids linked up spontaneously into neat segments in a way that surprised researchers at the georgia institute of technology. they had given these amino acids found in proteins today some stiff competition by adding amino acids not found in proteins, thinking these non-protein, or non-biological, amino acids would probably not allow predominantly biological segments to come together. 
+ the non-biological amino acids had the potential to chemically react equally well or better than the biological ones and frequently become part of the tiny chains, perhaps serving as an in-between step in the greater evolution toward proteins. the experiment dashed those expectations -- but to the researchers’ delight. the reactions resulted mostly in strings that were closer to today’s actual proteins and less in chains that included non-biological amino acids. 
+ “the non-biological amino acids were being excluded to some extent,” said nick hud, one of the study’s principal investigators, a 
+ regents professor in georgia tech’s school of chemistry and biochemistry  and associate director of the 
+ petit institute for bioengineering and bioscience 
+ at georgia tech. 
+ doorway to evolution 
+ in particular, the researchers had thought the non-biological amino acids would outcompete the biological amino acid lysine, but it was not the case. they also thought lysine would often not fit neatly into the chains the way it does in proteins. the reaction surprised them again. 
+ “lysine went into the chains predominantly in the way that it is connected in proteins today,” said hud, who is also director of the 
+ national science foundation / nasa center for chemical evolution 
+ (cce), which is headquartered at georgia tech and explores chemistry that may have paved the way to first life. 
+ the research team, which included collaborators from 
+ the scripps research 
+ institute, published their results 
+ in the journal 
+ proceedings of the national academy of sciences 
+ on july 29, 2019. the research was funded by the nsf and nasa. 
+ the study’s experiment points to chemical evolution having prefabricated some amino acid chains useful in living systems before life had evolved a way to make proteins. the preference for the incorporation of the biological amino acids over non-biological counterparts also adds to possible explanations for why life selected for just 20 amino acids when 500 occurred naturally on the hadean earth. 
+ “our idea is that life started with the many building blocks that were there and selected a subset of them, but we don’t know how much was selected on the basis of pure chemistry or how much biological processes did the selecting. looking at this study, it appears today’s biology may reflect these early prebiotic chemical reactions more than we had thought,” said loren williams, another principal investigator in the study and a 
+ professor in georgia tech’s school of chemistry and biochemistry  as well as a petit institute researcher. 
+ [ready for graduate school?  here's how to apply to georgia tech. ] 
+ mono, oligo, poly 
+ to help understand the study’s significance, let’s look at how proteins form, then at the study’s core experiment, which revealed an unexpectedly high preference for bonds between sites called alpha-amines (α-amines) on the biological amino acids. those bonds gave resulting molecular segments a protein-like shape in the lab. 
+ in a protein, one amino acid is a single chemical unit, or monomer. a few of them linked together is called an 
+ oligomer , and really long chains are polymers. in proteins, the polymer is called a polypeptide -- named after the peptide bonds that link its monomers together. 
+ polypeptides are long chains that often form helices, like old phone cords, or flat sheets. they kink and fold up into specific, mostly functional wads, sheets, and other shapes, which are called proteins. the study looked at how amino acid monomers linked up to make interesting oligomers that look like small pieces of proteins. 
+ hadean eon experiment 
+ late in the 
+ hadean eon , earth’s earliest phase, when prebiotic chemistry was taking shape, the planet’s surface was awash in vulcanism and rain, and large meteors pummeled it with new chemicals. the researchers’ experimental lab setup reflected relatively mild conditions for those times and feasibly present ingredients. 
+ first author 
+ moran frenkel-pinter 
+ placed the biological amino acids lysine, arginine, and histidine together with three non-biological competitors in water containing hydroxy acids. hydroxy acids are known to facilitate amino acid reactions and would have been common on prebiotic earth. 
+ the mixture was heated to 85 degrees celsius, pushing the reaction and evaporating the water, and the researchers analyzed the products formed. 
+ “we found this high preference for the inclusion of these biological amino acids and the linkage via the α-amine,” said frenkel-pinter, a nasa postdoctoral researcher in the cce. 
+ amine groups are made of nitrogen and hydrogen and are quite reactive, but the α-amine is part of the core of an amino acid, and other amines in this experiment were at the end of a sidechain extending off the core. the latter is often more reactive. 
+ “it surprised us that this chemistry favored the α-amine connection found in proteins, even though chemical principles might have led us to believe that the non-protein connection would be favored,” frenkel-pinter said. “the preference for the protein-like linkage over non-protein was about seven to one.” 
+ easy chemical evolution 
+ most resulting oligomers had evenly placed links in the chain, which are used in life, as opposed to non-α-amine bonded oligomers, which built more irregular chains. 
+ the finished products were mostly 
+ depsipeptides , which the cce previously 
+ established as stepping stone products in an easy, reliable pathway to peptides . 
+ in another reflection of life chemistry, the abiotic depsipeptide transition to peptides is the same basic reaction (ester-amide) carried out by ribosomes, the cellular machines that make proteins today. 
+ surprise reactions, in which potential pre-life chemistry casually falls into place, have happened often in the cce’s research. they have shored up the center’s core hypothesis that most biological polymers formed in wet and dry cycles, perhaps on rain-swept dirt flats or lakeshore rocks regularly baked by the sun’s heat. 
+ despite its grounded simplicity, the premise of everyday wet-dry cycles being key to the origin of life is unconventional, challenging a more established narrative that improbable concurrences of cataclysms and multiple ingredients were necessary to produce life’s early materials in rare and volatile events. 
+ also read:  the helix, of dna fame, may have arisen with startling ease 
+ these researchers coauthored the study: jay haynes, martin c, anton petrov, and bradley burcar of georgia tech; and ramanarayanan krishnamurthy and luke leman of scripps. all researchers are members of the nsf / nasa center for chemical evolution. the research was funded by the national science foundation and nasa under the center’s grant (che-1504217). any findings, conclusions, and recommendations are those of the authors and not necessarily of the funding agencies. 
+ writer & media representative : ben brumfield (404-660-1408), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

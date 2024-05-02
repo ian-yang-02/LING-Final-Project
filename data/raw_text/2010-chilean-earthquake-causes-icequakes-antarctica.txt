@@ -1,0 +1,23 @@
+2010 Chilean earthquake causes icequakes in Antarctica
+Study is the first to indicate that Antarctica is sensitive to seismic waves from distant earthquakes
+The HOWD seismic station in Antarctica. Photo: Erik Kendrick, Ohio State University
+Aug 11, 2014
+— Atlanta, GA
+Seismic events aren’t rare occurrences on Antarctica, where sections of the frozen desert can experience hundreds of micro-earthquakes an hour due to ice deformation. Some scientists call them icequakes. But in March of 2010, the ice sheets in Antarctica vibrated a bit more than usual because of something more than 3,000 miles away: the 8.8-magnitude Chilean earthquake. A new Georgia Institute of Technology study
+published in Nature Geoscience
+is the first to indicate that Antarctica’s frozen ground is sensitive to seismic waves from distant earthquakes. To study the quake’s impact on Antarctica, the Georgia Tech team looked at seismic data from 42 stations in the six hours before and after the 3:34 a.m. event. The researchers
+used the same technology
+that allowed them to “hear” the seismic response at large distances for the devastating 2011 magnitude 9 Japan earthquake as it rumbled through the earth. In other words, they simply removed the longer-period signals as the seismic waves spread from the distant epicenter to identify high-frequency signals from nearby sources. Nearly 30 percent (12 of the 42 stations) showed clear evidence of high-frequency seismic signals as the surface-wave arrived on Antarctica. “We interpret these events as small icequakes, most of which were triggered during or immediately after the passing of long-period Rayleigh waves generated from the Chilean mainshock,” said Zhigang Peng, an associate professor in the School of Earth and Atmospheric Sciences who led the study. “This is somewhat different from the micro-earthquakes and tremor caused by both Love and Rayleigh-type surface waves that traditionally occur in other tectonically active regions thousands of miles from large earthquakes. Peng says the subtle difference is that micro-earthquakes respond to both shearing and volumetric deformation from distant events. The newly found icequakes respond only to volumetric deformation. “Such differences may be subtle, but they tell us that the mechanisms of these triggered icequakes and small earthquakes are different,” Peng added. “One is more like cracking, while the other is like a shear slip event. It’s similar to two hands passing each other.” Some of the icequakes were quick bursts and over in less than one second. Others were long duration, tremor-like signals up to 10 seconds. They occurred in various parts of the continent, including seismic stations along the coast and near the South Pole. The researchers found the clearest indication of induced high-frequency signals at station HOWD near the northwest corner of the Ellsworth Mountains. Short bursts occurred when the P wave hit the station, then continued again when the Rayleigh wave arrived. The triggered icequakes had very similar high waveform patterns, which indicates repeated failure at a single location, possibly by the opening of cracks. Peng says the source locations of the icequakes are difficult to determine because there isn’t an extensive seismic network coverage in Antarctica. “But at least some of the icequakes themselves create surface waves, so they are probably formed very close to the ice surface,” he added. “While we cannot be certain, we suspect they simply reflect fracturing of ice in the near surface due to alternating volumetric compressions and expansions as the Rayleigh waves passed through Antarctica’s frozen ice.” Antarctica was originally not on the research team’s target list. While examining seismic stations in the Southern Hemisphere, Peng “accidently” found the triggered icequakes at a few openly available stations. He and former Georgia Tech postdoctoral student Jake Walter (now a research scientist at the Institute for Geophysics at UT Austin) then reached out to other seismologists (the paper’s four co-authors) who were in charge of deploying more broadband seismometers in Antarctica.  This project is partially supported by a National Science Foundation CAREER grant (EAR-0956051).
+Any conclusions expressed are those of the principal investigator and may not necessarily represent the official views of the NSF.
+Additional Images
+Related links
+College of Sciences
+Nature Geoscience Paper
+School of Earth and Atmospheric Sciences
+Contact
+Jason Maderer National Media Relations maderer@gatech.edu 404-385-2966
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

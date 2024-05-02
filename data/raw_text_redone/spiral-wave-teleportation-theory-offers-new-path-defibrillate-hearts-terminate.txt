@@ -1,0 +1,34 @@
+spiral wave teleportation theory offers new path to defibrillate hearts, terminate arrhythmias 
+ researchers from the georgia institute of technology offer a new method to disrupt spiral waves that uses less energy and that may be less painful than traditional defibrillation. 
+ jun 23, 2022 
+ — atlanta, ga 
+ a spiral wave of electrical activity in the heart can cause catastrophic consequences. one spiral wave creates tachycardia — a heart rate that’s too fast — and multiple spirals cause a state of disorganized contraction known as fibrillation. researchers from the georgia institute of technology offer a new method to disrupt spiral waves that uses less energy and that may be less painful than traditional defibrillation. 
+ this research has been ongoing in 
+ school of physics 
+ professor 
+ flavio fenton’s 
+ lab with his student noah detal and research scientist abouzar kaboudian. their latest findings are published in the paper, “ terminating spiral waves with a single designed stimulus: teleportation as the mechanism for defibrillation,” 
+ in the journal 
+ proceedings of the national academy of science . 
+ the problem with spiral waves 
+ electrical waves enable the heart to contract and send blood throughout the body. when a wave becomes a spiral, its rotation is faster than the heart’s natural pacemaker and suppresses normal cardiac function. instead, one spiral wave can spawn more spirals until the heart is overtaken by multiple spiral waves, leading to disorganized contraction, and preventing the heart from supplying the body with blood. 
+ for years, scientists and doctors have worked to find the best way to stop spiral waves before they get out of control. yet for over half a century the best method has been a single strong electric shock. the 300 joules of energy required for defibrillation excites not just the heart cells, but the entire body, making it very painful for the patient. 
+ over the years researchers have experimented with using weaker shocks to reorganize arrythmias. 
+ “we still did not have a clear understanding of how defibrillation worked,” said fenton. “this research explains the minimum energy required to actually terminate an arrhythmia and i believe it clarifies the mechanism for defibrillation.” 
+ the symmetrical solution 
+ the researchers determined that because spiral waves develop in pairs, they must also be terminated in pairs. every spiral wave is connected to another spiral going in the opposite direction. bringing the spiral waves together through an electric shock instantly eliminates both waves. 
+ the researchers used a mathematical method to identify the key regions for electrical shock stimulation to target spiral waves. they determined that a stimulus delivered to the tissue areas a spiral wave just left and were able sustain a new wave could defibrillate the heart. 
+ in the process of terminating the spiral waves, the researchers were actually moving them, as well, through a concept they named “teleportation.” 
+ “we call it teleportation because it’s very similar to what you see in science fiction where something is moved instantaneously from one place to another,” fenton said. 
+ spiral waves can be teleported anywhere in the heart using this approach. in particular, spiral waves can be moved so that they collide with their partners, which extinguishes them. fenton explained that for successful defibrillation to occur, all pairs of spiral waves must be eliminated in this manner. 
+ the researchers plan to further test this concept using two-dimensional cultures of heart cells. 
+ “the next step is to is to prove experimentally that what we did numerically is possible,” fenton said. 
+ eventually, fenton added, they want to develop methods that could be used clinically, and are partnering with cardiologists at emory university on this work. 
+ doi:  https: / / doi.org / 10.1073 / pnas.2117568119 
+ contact 
+ tess malone, research writer / editor 
+ email 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

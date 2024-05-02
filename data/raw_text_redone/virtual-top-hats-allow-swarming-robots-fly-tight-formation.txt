@@ -1,0 +1,40 @@
+virtual top hats allow swarming robots to fly in tight formation 
+ autonomous flying robots created to learn more about human interaction and obey rules of the sky. 
+ autonomous blimps are controlled by a 3d-printed gondola frame that carries sensors and a mini camera. it attaches to either an 18- or 36-inch diameter balloon. \ 
+ may 15, 2017 
+ — atlanta, ga 
+ georgia institute of technology researchers have created a team of free-flying robots that obeys the two rules of the air: don’t collide or undercut each other. they’ve also built autonomous blimps that recognize hand gestures and detect faces. 
+ both projects will be presented at the 
+ 2017 ieee international conference on robotics and automation (icra) 
+ may 29 – june 3 in singapore. 
+ in the first, five swarm quadcopters zip back and forth in formation, then change their behaviors based on user commands. the trick is to maneuver without smacking into each other or flying underneath another machine. if a robot cuts into the airstream of a higher flying quadcopter, the lower machine must quickly recover from the turbulent air or risk falling out of the sky. 
+ “ground robots have had built-in safety ‘bubbles’ around them for a long time to avoid crashing,” said magnus egerstedt, the georgia tech 
+ school of electrical and computer engineering 
+ professor who oversees the project. “our quadcopters must also include a cylindrical ‘do not touch’ area to avoid messing up the airflow for each other. they’re basically wearing virtual top hats.” 
+ as long as the georgia tech machines avoid flying in the two-foot space below their neighbor, they can swarm freely without a problem. that typically means they dart around each other rather than going low. 
+ ph.d. student li wang figured out the size of the “top hat” one afternoon by hovering one copter in the air and sending others back and forth underneath it. any closer than 0.6 of a meter (or five times the diameter from one rotor to another) and the machines were blasted to the ground. then he created algorithms to allow them to change formation midflight. 
+ “we figured out the smallest amount of modifications a quadcopter must make to its planned path to achieve the new formation,” said wang. “mathematically, that’s what a programmer wants — the smallest deviations from an original flight plan.” 
+ the project is part of egerstedt and wang’s 
+ overall research , which focuses on easily controlling and interacting with large teams of robots. 
+ “our skies will become more congested with autonomous machines, whether they’re used for deliveries, agriculture or search and rescue,” said egerstedt, who directs georgia tech’s institute for robotics and intelligent machines. “it’s not possible for one person to control dozens or hundreds of robots at a time. that’s why we need machines to figure it out themselves.” 
+ the researchers overseeing the second project, the blimps, 3d-printed a gondola frame that carries sensors and a mini camera. it attaches to either an 18- or 36-inch diameter balloon. the smaller blimp can carry a five-gram payload; the larger one supports 20 grams. 
+ the autonomous blimps detect faces and hands, allowing people to direct the flyers with movements. all the while, the machine gathers information about its human operator, identifying everything from hesitant glares to eager smiles. the goal is to better understand how people interact with flying robots. 
+ “roboticists and psychologists have learned many things about how humans relate to robots on the ground, but we haven’t created techniques to study how we react to flying machines,” said fumin zhang, the georgia tech associate professor leading the blimp project. “flying a regular drone close to people presents a host of issues. but people are much more likely to approach and interact with a slow-moving blimp that looks like a toy.” 
+ the blimps’ circular shape makes them harder to steer with manual controllers, but allows them to turn and quickly change direction. this is unlike the more popular zeppelin-shaped blimps commonly used by other researchers. 
+ zhang has filed a request with guinness world records for the smallest autonomous blimp. he sees a future where blimps can play a role in people’s lives, but only if roboticists can determine what people want and how they’ll react to a flying companion. 
+ “imagine a blimp greeting you at the front of the hardware store, ready to offer assistance,” zhang said. “people are good at reading people’s faces and sensing if they need help or not. robots could do the same. and if you needed help, the blimp could ask, then lead you to the correct aisle, flying above the crowds and out of the way.” 
+ additional images 
+ related links 
+ additional videos of blimps 
+ ground robots learn to collaborate, not crash 
+ school of electrical and computer engineering 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

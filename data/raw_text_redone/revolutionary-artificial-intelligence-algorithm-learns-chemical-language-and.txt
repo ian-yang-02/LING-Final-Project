@@ -1,0 +1,39 @@
+revolutionary artificial intelligence algorithm learns chemical language and accelerates polymer research 
+ figuring out which combinations of materials will make the most effective polymers is a monumental and time-consuming task because the combinations are essentially endless. researchers at georgia tech have developed a groundbreaking machine learning model that could revolutionize how scientists and manufacturers virtually search the chemical space to identify and develop these all-important polymers. 
+ jul 18, 2023 
+ — atlanta, ga 
+ polymers are well-known macromolecules in materials science and engineering communities, but most of us may not be aware of how often we’re touching, using, and interfacing with these materials. polymers can be engineered to have desired properties such as flexibility, water resistance, or electrical conductivity. nonstick cookware and construction materials, for example, include the polymers polytetrafluoroethylene and polyvinyl chloride. 
+ figuring out which combinations of materials will make the most effective polymers is a monumental and time-consuming task because the combinations are essentially endless. researchers at georgia tech have developed a groundbreaking machine learning model that could revolutionize how scientists and manufacturers virtually search the chemical space to identify and develop these all-important polymers. they published their findings recently in 
+ “polybert: a chemical language model to enable fully machine-driven ultrafast polymer informatics” in 
+ nature communications . 
+ the work was conceived and guided by 
+ rampi ramprasad 
+ from the 
+ georgia tech school of materials science and engineering. 
+ the new tool called polybert was designed and implemented by chris kuenneth, formerly a postdoctoral fellow in the ramprasad group and current professor at the university of bayeruth in germany. it aims to overcome the challenges of searching the staggeringly large chemical space of polymers. trained on a massive dataset of 80 million polymer chemical structures, polybert has become an expert in understanding the language of polymers. 
+ “this is a novel application of language models within polymer informatics. while natural language models may be used to extract materials data from the literature, here, we aim such capabilities at understanding the complex grammar and syntax followed by atoms as they come together to make up polymers,” said ramprasad, the michael e. tennenbaum family chair and georgia research alliance eminent scholar in energy sustainability. 
+ currently investigators use a manual method called fingerprinting to understand the chemical structure of polymers, which are used to understand the relationships between the structure, properties, and performance of different polymers. polybert treats chemical structures and connectivity of atoms as a form of chemical language and uses state-of-the-art techniques inspired by natural language processing to extract the most meaningful information from chemical structures. the tool uses the powerful transformer architecture, used in natural language models, to capture the patterns and relationships and learn the grammar and syntax that occur at the atomic and higher levels in the polymer structure. 
+ speed is one remarkable advantage of polybert. compared to traditional fingerprinting methods, polybert is over two orders of magnitude faster. this high-speed capability makes polybert an ideal tool for high-throughput polymer informatics pipelines, allowing for the rapid screening of massive polymer spaces at an unprecedented scale. 
+ with advancements in graphics processing unit technology, the computation time for polybert fingerprints is expected to improve even further. 
+ polybert's multitask deep neural networks enable it to simultaneously predict multiple properties of polymers, leveraging hidden correlations within the data. this approach outperforms single-task models, enhancing the accuracy of property predictions. property predictions for large datasets by polybert can offer valuable insights into the true limits of the polymer property space. researchers can establish standardized benchmarks, explore uncharted areas, and even facilitate the direct selection of polymers with specific properties. by analyzing the chemical relevance of polybert-generated fingerprints, scientists can unravel the functions and interactions of different structural components in polymers. this opens possibilities for designing polymers based on an even wider array of specific properties. 
+ the dataset, comprising 100 million hypothetical polymers and their predictions for 29 properties, is now available for academic use. this vast collection presents researchers with ample opportunities to delve into the polymer universe, unlocking new discoveries, design rules, and practical applications. 
+ “our vision is to combine ultrafast fingerprinting and property prediction schemes such as polybert and polygnn with virtual polymer generation algorithms to perform searches of synthetically accessible chemical spaces for application-specific polymers at unprecedented scales,” said ramprasad. 
+ an alternate capability to perform ultrafast fingerprinting of polymers by treating polymer chemical structures as mathematical graphs was also recently published from the ramprasad group in the journal 
+ chemistry of materials . this capability, called polygnn, was designed and implemented by georgia tech graduate student rishi gurnani. 
+ this research was supported by funding from the 
+ office of naval research 
+ through a multidisciplinary university research initiative grant (n00014-17-1-2656) and the 
+ national science foundation 
+ ( # 1941029). 
+ citation: kuenneth, c., ramprasad, r. polybert: a chemical language model to enable fully machine-driven ultrafast polymer informatics. nat commun 14, 4099 (2023). https: / / doi.org / 10.1038 / s41467-023-39868-6 
+ ramprasad and kuenneth are inventors of the transformer-based informatics pipeline for polymer representation and property prediction technology used in this study, which is patent pending. ramprasad is founder of matmerize inc., which is developing technology related to this study. he is entitled to royalties derived from matmerize’s future sales of products related to the research. these potential conflicts of interest have been disclosed and are overseen by the georgia institute of technology. 
+ additional images 
+ contact 
+ steven norris 
+ director, media relations and social media 
+ georgia tech institute communications 
+ email 
+ snorris@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

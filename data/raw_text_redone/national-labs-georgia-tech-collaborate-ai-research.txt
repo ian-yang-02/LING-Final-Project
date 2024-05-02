@@ -1,0 +1,38 @@
+national labs, georgia tech, collaborate on ai research 
+ georgia tech is part of a new research center created to solve some of the most challenging issues in ai. 
+ the research of assistant professor tushar krishna focuses on building hardware platforms to run ai applications efficiently. (photo: allison carter, georgia tech) 
+ nov 05, 2019 
+ — atlanta, ga 
+ the georgia institute of technology, 
+ sandia national laboratories , and the 
+ pacific northwest national laboratory 
+ are jointly launching a new research center to solve some of the most challenging problems in artificial intelligence (ai) today, thanks to $5.5 million in funding from the u.s. department of energy (doe). 
+ ai enables computer systems to automatically learn from experience without being explicitly programmed. such technology can perform tasks that formerly only a human could: see, identify patterns, make decisions, and act. 
+ the new co-design center, known as the center for artificial intelligence-focused architectures and algorithms (ariaa), funded by doe’s 
+ office of science , will promote collaboration between scientists at the three organizations as they develop core technologies important for the application of ai to doe mission priorities, such as cybersecurity, electric grid resilience, graph analytics, and scientific simulations. 
+ pnnl senior research scientist roberto gioiosa will be the center’s director and will lead the overall vision, strategy, and research direction. 
+ tushar krishna , an assistant professor in georgia tech’s 
+ school of electrical and computer engineering 
+ (ece), and siva rajamanickam, a computer scientist at sandia, will serve as deputy directors. 
+ each institution brings to the collaboration a unique strength: pnnl has expertise in power grid simulation, chemistry, and cybersecurity and has research experience in computer architecture and programming models, as well as computing resources such as systems for testing emerging architectures. sandia has expertise in software simulation of computer systems, machine learning algorithms, graph analytics, and sparse linear algebra, and will provide access to computer facilities and testbed systems to support early access to emerging computing architectures for code development and testing. georgia tech has expertise in modeling and developing custom accelerators for machine learning and sparse linear algebra and will develop and provide access to novel hardware prototypes. 
+ “new projects like the center were made possible by the strategic collaboration between sandia and georgia tech for the past few years," said sandia’s rajamanickam. 
+ special-purpose hardware can enable ai tasks to run faster and use less energy than on conventional computing devices such as cpus and gpus. ariaa is centered around a concept known as “co-design,” which refers to the need for researchers to weigh and balance the capabilities of hardware and software – and corral the vastly different types of architectures and algorithms possible to best solve the problems at hand. 
+ krishna’s lab will lead the effort on architecting and evaluating reconfigurable hardware accelerators that can adapt to the rapidly evolving needs of ai applications. in particular, running sparse computations efficiently will be a key focus. sparse computations are critical to several computational areas of interest to the doe because they greatly reduce the number of computations on problems with large amounts of data. one way of thinking about sparsity is that there might be millions or even billions of users on a social media site, but a user cares about updates only from a few hundred friends. 
+ krishna, the on semiconductor junior professor in ece, works on custom hardware accelerators for ai. in 2015, he co-developed the eyeriss deep learning asic (in collaboration with mit), which was one of the earliest prototypes demonstrating real-time inference on a state-of-the-art deep neural network then known as alexnet. more recently his lab has been working on an analytical microarchitectural design-space exploration tool for ai accelerators known as maestro (developed in collaboration with nvidia) and a reconfigurable ai accelerator platform known as maeri. both of these will be leveraged to perform co-design as part of the ariaa center. 
+ “georgia tech provides a great environment to carry out research in hardware-software co-design due to a rich collaborative environment across ece and the college of computing, and vibrant research centers such as machine learning at georgia tech (ml@gt) and the center for research into novel computing hierarchies (crnch) that bring together researchers with experience in algorithms, compilers, architecture, circuits, and novel devices, fostering collaboration and innovation,” said krishna. 
+ - adapted from an article by the pacific northwest national laboratory 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

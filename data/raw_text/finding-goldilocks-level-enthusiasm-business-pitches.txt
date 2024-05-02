@@ -1,0 +1,28 @@
+Finding the ‘Goldilocks’ Level of Enthusiasm for Business Pitches
+Georgia Institute of Technology researchers found that how long an entrepreneur displays the highest level of excitement during a pitch plays a major role in predicting their success in receiving funding.
+Getty Images
+May 16, 2019
+— Atlanta, GA
+When it comes to pitching business ideas to potential investors, an entrepreneur’s excitement and enthusiasm can be the difference between dreams taking shape or ultimately falling flat.
+But it’s not just the intensity of enthusiasm that’s important, according to a recent study by a team led by Georgia Institute of Technology researchers. How long an entrepreneur displays the highest level of excitement during a pitch also plays a major role in predicting success in receiving funding.
+Basically, too much enthusiasm can be a bad thing.
+“The findings suggest that investors may interpret prolonged periods of high enthusiasm as over-optimistic,” said Dong Liu, an associate professor in Georgia Tech’s Scheller College of Business. “Over-optimistic entrepreneurs are thought to make irrational decisions and overestimate their products’ profitability.”
+In the study, which was published April 8 in the
+Academy of Management Journal , the researchers described using artificial intelligence software to analyze video pitches for 1,460 business funding proposals for products posted on the crowd funding website Kickstarter.
+The software used facial expression recognition and big data analytics to measure the intensity of enthusiasm in more than 8 million frames of video, then recorded how long the presenters stayed at their maximum level of excitement, which the researchers described as the point of “peak joy.”
+They found that, generally speaking, the higher the peak level of enthusiasm, the more likely the entrepreneur was to receive funding, after controlling for differences in the products and business ideas. But there was a bell curve in the results, where the likelihood of funding tended to fall as “peak joy” levels went on for too long.
+“Although a higher level of peak joy displayed by entrepreneurs during their pitches leads to better funding performance over time, prolonged display of peak joy seemed to undermine funding performance,” Liu said. “Another possible interpretation is that investors may believe the entrepreneur is acting and the pitch is manipulative. Maybe they feel the entrepreneur is using his or her excitement to manipulate the investors’ perceptions in hopes of increasing the odds of getting funding.”
+The facial recognition software analyzed when the presenters made expressions linked to joy, such as raising the cheek, drawing the corners of the mouth into a smile, and the movement and position of the eyes. The researchers noted that the software, called FaceReader, was even more accurate in recognizing emotions than real people analyzing those video frames.
+The researchers also found another factor that influenced funding success was at what point during the presentation “peak joy” happened. They found the most effective times to display enthusiasm was at the beginning of the pitch and near the end.
+“The results of our research could be broadly applicable to different kinds of audiences, not just those funding projects through crowd funding websites,” Liu said. “Venture capitalists are looking for good business ideas on these websites too. But in general these findings could help inform any business pitch.”
+CITATION:
+Lin Jiang, Dezhi Yin and Dong Liu, “Can Joy Buy You Money? The Impact of the Strength, Duration, and Phases of an Entrepreneur’s Peak Displayed Joy on Funding Performance,” (Academy of Management Journal, April 2019). http://dx.doi.org/10.5465/amj.2017.1423
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

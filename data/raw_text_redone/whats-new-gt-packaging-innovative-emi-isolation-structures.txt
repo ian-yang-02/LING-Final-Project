@@ -1,0 +1,30 @@
+what's new @ gt in packaging? innovative emi isolation structures 
+ georgia tech and its industry partners have developed the most advanced package-level electromagnetic interference (emi) shielding structures for emerging highly-miniaturized system packages. 
+ dec 15, 2016 
+ — atlanta, ga 
+ georgia tech and its industry partners have developed the most advanced package-level electromagnetic interference (emi) shielding structures for emerging highly-miniaturized system packages. 
+ electromagnetic interference (emi) is defined as unwanted electrical or magnetic coupling between components in a module or system. such coupling or cross-talk results to performance degradation and electromagnetic compatibility issues. with increased multi-functional integration and miniaturization of emerging consumer, iot, and automotive electronics, component-level emi shielding has become extremely important to prevent undesired electromagnetic (em) coupling. 
+ emi noise in traditional modules with large components is shielded by metallic cans or creating physical separation between them. shielding with conformal metal coatings on overmolded packages has also been demonstrated. component-level shielding has been developed with integrated via-based shields inside packages. 
+ in contrast to the prior approaches described above, georgia tech team has recently pioneered innovative multi-layered structures for more effective emi shielding. in the near field region, magnetic fields, generated from sources such as power inductors and transformers, have lower wave impedance and hence are difficult to be shielded with blanket sheets of a few micron thickness. to address this challenge, unique thin magnetic-nonmagnetic multi-layered structures, which lead to high shielding effectiveness, are developed. the primary shielding mechanism for such thin multi-layered shields is the multiple reflections that occur at interfaces between magnetic and conductive thin layers because of impedance mismatch. furthermore, by employing copper as a conductive material, absorption loss also contributes to high shielding effectiveness. 
+ the georgia tech team, in partnership with tango systems, has demonstrated this concept with ultra-thin (< 5 micron) multi-layered shield composed of copper (cu), titanium (ti), and nickel-iron (permalloy) for noise suppression of 100 khz to 100 mhz from dc-dc converters as an example. in this frequency range, such multi-layer shields placed between two magnetic coils show higher isolation or less near-field inductive coupling than traditional shielding materials such as copper or nickel films. multi-layered structures composed of ti, cu, and nife showed 59 db isolation, or more than 20 db shielding effectiveness, much greater than nife-cu shield or the nife-ti multi-layered structures. this approach is now extended for further improvement in shielding effectiveness performance by employing oxide layers such as alumina within the multi-layered structures. 
+ in addition to those multi-layered shielding materials, georgia tech team has also been pioneering package-integrated copper via-trench structures for component-level shielding between sensitive rf components. such shields are now custom-designed for isolation between transmission lines, rf inductors, also rf power amplifiers. since undesired em coupling occurs both from above and below the substrates, innovative trench shielding structures with through-substrate vias or micro-vias are designed and demonstrated with 2-4 ghz shielding of above 65 db even with component separation of below 0.5 mm. georgia tech is now extending these trench-via array and multi-layered conductor structures to 5g and other mm-wave modules in the frequency range of 28 ghz to 39 ghz. 
+ this research is being performed in partnership with a large global team of material and tool companies and with support from several on-site industry engineers at georgia tech. 
+ this project is part of georgia tech industry consortium in system scaling which includes about 40 end-user and supply chain companies and rf module companies. 
+ about the authors 
+ atom watanabe is an ece student pursuing his phd under the advisement of prof. rao tummala. his research focus is on 5g modules with advanced shielding structures. 
+ atom@gatech.edu 
+ dr. p.m. raj is the program manager for integrated passive and actives as well as high-temp electronics at georgia tech prc.  raj@ece.gatech.edu 
+ prof. rao tummala is joseph. m. pettit chair professor in ece and mse and director of georgia tech’s packaging research center. 
+ rao.tummala@ece.gatech.edu . 
+ additional images 
+ contact 
+ karen may 
+ marketing & communications coordinator 
+ packaging research center 
+ karen.may@ece.gatech.edu 
+ (404) 385-1220 
+ email 
+ karen.may@ece.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

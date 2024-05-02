@@ -1,0 +1,31 @@
+Strength Test for Platelets
+Testing platelet strength with microfluidic device could help diagnose bleeding disorders
+Biomedical engineers from Emory and Georgia Tech have devised a microfluidic device for the diagnosis of bleeding disorders, in which platelets can demonstrate their strength by squeezing two protein dots together using this device.
+Photo credit: Emory University / Georgia Tech
+Oct 11, 2016
+— Atlanta, GA
+Bleeding disorders could one day be diagnosed by putting platelets through strength tests, researchers have proposed.
+Biomedical engineers from Emory University and the Georgia Institute of Technology have devised a microfluidic testing ground where platelets can demonstrate their strength by squeezing two protein dots together. Imagine rows and rows of strength testing machines from a carnival, but very tiny. A platelet is capable of exerting forces that are several times larger, in relation to its size, than a muscle cells.
+After a blood clot forms, it contracts, promoting wound closure and restoration of normal blood flow. This process can be deficient in a variety of blood clotting disorders. Previously, it was difficult to measure an individual platelet’s contributions to contraction, because clots’ various components got in the way.
+The prototype diagnostic tools were  described in Nature Materials  in a paper published on Monday, October 10, 2016. The research was supported with funding from the National Heart, Lung and Blood Institute and the National Science Foundation.
+"We discovered that platelets from some patients with bleeding disorders are ‘wimpier’ than platelets from healthy people," says
+Wilbur Lam, an assistant professor
+in the Department of
+Pediatrics at Emory University School of Medicine
+and in the
+Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University . "Our device may function as a new physics-based method to test for bleeding disorders, complementary to current methods."
+The first author of the paper is  David Myers, an instructor at Emory's medical school . Lam is also a physician in the Aflac Cancer and Blood Disorders Center, Children’s Healthcare of Atlanta.
+The scientists infer how strong or wimpy someone’s platelets are by measuring how far the protein dots move, taking a picture of the rows of dots, and then analyzing the picture on a computer.
+The dots are made of fibrinogen, a sticky protein that is the precursor for fibrin, which forms a mesh of insoluble strands in a blood clot.
+In addition to detecting problems with platelet contraction in patients with known inherited disorders such as Wiskott Aldrich syndrome, Myers, Lam and colleagues could also see differences in some patients who had bleeding symptoms, but who performed normally on standard diagnostic tests.
+The researchers also used chemical tools to dissect the process of platelet contraction. They showed that inhibitors of Rho/ROCK enzymes shut down platelet contraction, but inhibitors of a related pathway, MLCK (myosin light chain kinase), did not. Individual platelet contraction could become an assay for development or refinement of blood thinning drugs, Lam says.
+Yongzhi Qiu, Meredith Fay, Yumiko Sakurai, Jong Baek, Reginald Tran, Jordan C. Ciciliano, Byungwook Ahn, Robert Mannino of Georgia Tech and Emory; Alberto Fernandez-Nieves, Michael Tennenbaum, Jonas Cuadrado and Todd Sulchek of Georgia Tech; Carolyn Bennett, Silvia Bunting and Michael Briones of Emory coauthored the paper. Daniel Chester and Ashley Brown from North Carolina State University contributed to testing the device. T he research was supported with funding from the National Heart, Lung and Blood Institute (grants R01HL121264, U54HL112309) and a National Science Foundation CAREER award (grant 1150235).
+Additional Images
+Contact
+Writer and contact: Quinn Eastman
+Emory University 404-727-7829
+Email
+qeastma@emory.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

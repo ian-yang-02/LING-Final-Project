@@ -1,0 +1,40 @@
+new grant award supports research on early detection of ovarian cancer 
+ research on the early detection of ovarian cancer will get a boost from a new award from the prevent cancer foundation. 
+ the prevent cancer foundation has made a significant grant award to georgia tech to advance research on detecting ovarian cancer. the work is led by john mcdonald, a professor in the school of biological sciences. (credit: rob felt, georgia tech) 
+ feb 26, 2019 
+ — atlanta, ga 
+ promising research toward what could become the first simple and accurate test for the early detection of ovarian cancer could be validated – and expanded – thanks to a significant grant from the prevent cancer foundation. 
+ if validated, the general technique for the work could also have a variety of other applications. “in my dream world, a single blood test could be used to screen for multiple diseases,” said 
+ john mcdonald , the leader of the research and a professor in the 
+ school of biological sciences 
+ at the georgia institute of technology. 
+ ovarian cancer is especially dangerous because women often don’t show symptoms until the disease is in an advanced stage and difficult to treat. in contrast, when caught early “about 94 percent of patients live longer than five years after diagnosis,” according to the american cancer society. 
+ the problem is that there is no good test for detecting the disease at an early stage. 
+ about seven years ago mcdonald and colleagues decided to see if they could change that by merging the disparate disciplines of biology, analytical chemistry and computer science. “bringing the computer into it was novel at the time,” said mcdonald, who is also director of georgia tech’s integrated cancer research center. 
+ his georgia tech collaborators on the initial work were professor facundo fernández, the vasser woolley foundation chair in bioanalytical chemistry, and alex gray, an assistant professor of computer science (gray has since left georgia tech to become vp for artificial intelligence science at ibm). they were joined by clinical consultant dr. benedict benigno, a gynecological oncologist and ceo of the ovarian cancer institute in atlanta. 
+ promising results 
+ the researchers initially analyzed blood samples from 49 healthy women and 46 with early-stage ovarian cancer. they specifically focused on metabolites in those samples. metabolites are molecules like fatty acids that our cells produce through enzymatic reactions. 
+ in the molecular equivalent of finding needles in a haystack, they proceeded to analyze some 40,000 metabolites to see if there were any associated with the cancer patients that differed from those in samples from the healthy women. these could be biomarkers for the disease; molecules to screen for in an annual test. 
+ through a variety of techniques, the team first pared down the original thousands of metabolites to a collection of 255 candidate biomarkers. they then applied machine learning to that set, asking the computer to find any metabolites that were over- or under-expressed in the cancer samples. 
+ “that’s what machine learning is all about,” mcdonald said. “the computer is simply looking for correlations in very large data sets, then it comes back to you with what it has found.” 
+ in 2015 the team reported in the journal scientific reports the discovery of 16 metabolites that could distinguish women with ovarian cancer from those without the disease with 100 percent accuracy. “basically we modeled the face of cancer at the metabolic level,” mcdonald said. 
+ moving forward 
+ with the new $100,000 grant, the researchers hope to validate their earlier work with samples from some 1,000 women, as compared to the roughly 100 they originally studied. the new study will also include samples from a much more diverse set of women (the original samples were from caucasian women). 
+ they also aim to expand the work to look for biomarkers associated with different types of ovarian cancer. “we want to be able to distinguish between a type ii cancer with high malignant potential – one that’s highly likely to spread outside the ovary – and a type i with low malignant potential. a cancer with high malignant potential you’d want to treat right away, while a cancer with low malignant potential might not require immediate surgery,” mcdonald said. 
+ in conclusion, mcdonald said, “it’s exciting because the initial results look like [our approach] might work.” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : elizabeth thomson 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

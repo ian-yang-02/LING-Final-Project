@@ -1,0 +1,22 @@
+wearable robot transforms musicians into three-armed drummers 
+ a new wearable robotic limb allows drummers to play with three arms. 
+ the wearable robot allows humans to play with three arms. 
+ feb 17, 2016 
+ — atlanta, ga 
+ georgia institute of technology researchers have built a wearable robotic limb that allows drummers to 
+ play with three arms . the two-foot long “smart arm” can be attached to a musician’s shoulder. it responds to human gestures and the music it hears. when the drummer moves to play the high hat cymbal, for example, the robotic arm maneuvers to play the ride cymbal. when the drummer switches to the snare, the mechanical arm shifts to the tom. georgia tech professor gil weinberg oversees the project, which is funded by the national science foundation. he says the goal is to push the limits of what humans can do. “if you augment humans with smart, wearable robotics, they could interact with their environment in a much more sophisticated manner,” said weinberg, director of the 
+ center for music technology . “the third arm provides a much richer and more creative experience, allowing the human to play many drums simultaneously with virtuosity and sophistication that are not otherwise possible.” the robotic arm is smart for a few reasons. first, it knows what to play by listening to the music in the room. it improvises based on the beat and rhythm. for instance, if the musician plays slowly, the arm slows the tempo. if the drummer speeds up, it plays faster. another aspect of its intelligence is knowing where it’s located at all times, where the drums are, and the direction and proximity of the human arms. when the robot approaches an instrument, it uses built-in accelerometers to sense the distance and proximity. on-board motors make sure the stick is always parallel to the playing surface, allowing it to rise, lower or twist to ensure solid contact with the drum or cymbal. the arm moves naturally with intuitive gestures because it was programmed using human motion capture technology. weinberg and a team of student researchers with backgrounds in music, engineering, computer science and physics built the arm after creating a 
+ robotic prosthesis for an atlanta drummer . that device had two sticks, one with a mind of its own. the prosthetic arm allowed the man to continue his musical passion after losing an arm in an accident, while also making him the fastest drummer in the world. its success led weinberg to create the “third arm” robot, something that anyone can wear and become a cyborg drummer. “if you have a robotic device that is part of your body, it’s a completely different feeling from working alongside a regular robot,” said weinberg. “the machine learns how your body moves and can augment and complement your activity. it becomes a part of you.” the next step is linking the arm’s movements to brain activity. the team is already experimenting with an electroencephalogram (eeg) headband that detects a drummer’s brain patterns. they’re hoping to identify patterns that would allow the arm to react when the musician simply thinks about changing tempo or instruments. weinberg sees other applications for the technology. “imagine if doctors could use a third arm to bring them tools, supplies or even participate in surgeries. technicians could use an extra hand to help with repairs and experiments,” he said. “music is based on very timely, precise movements. it’s the perfect medium to try this concept of human augmentation and a third arm.” for another video showing the technology, visit the 
+ guthman musical instrument competition facebook page . the competition for future musical instruments is held annually at georgia tech and is scheduled for march 3. this research is supported by the national science foundation (nsf) through grant numbers iis- 1345006 . the content is solely the responsibility of the authors and does not necessarily represent the official views of the nsf. 
+ additional images 
+ related links 
+ guthman musical competition 
+ additional information 
+ earlier research project for amputee 
+ contact 
+ jason maderer national media relations 404-660-2926 maderer@gatech.edu 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

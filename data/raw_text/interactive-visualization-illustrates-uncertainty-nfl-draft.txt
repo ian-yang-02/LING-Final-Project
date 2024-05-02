@@ -1,0 +1,42 @@
+Interactive Visualization Illustrates Uncertainty of NFL Draft
+An interactive visualization created by the Information Interfaces Research Groups shows just how few draftees make it long-term in the NFL.
+Apr 19, 2017
+— Atlanta, GA
+Next week, 253 players will hear their names called over the course of three days in the 2017 NFL Draft. For many, it will be the beginning of a long and lucrative career in professional football. For most, it will be the highlight in an increasingly competitive business.
+An
+interactive visualization
+created by a team of researchers in the Georgia Institute of Technology’s School of Interactive Computing illustrates just how fleeting the career of a professional football player can be and how difficult it can be for teams to differentiate between the superstars and the busts.
+The visualization, which catalogues each of the 32 teams’ draft picks from 2007-16, indicates with a green icon a player who is currently active on the team that drafted him. A blue icon indicates a player still in the league, but playing on a different team, and a red icon indicates a player that is no longer active in the NFL.
+A quick glance at all 32 teams’ charts presents a healthy dose of red in comparison to the green and blue, illustrating the brevity of the average NFL career. An analysis has shown that the average length of a career decreased by about two years, from 4.99 years to 2.66, from 2008-14.
+Only one team, the Carolina Panthers, have more than one player still active on their roster from their 2007 draft.
+From a team perspective, the ebb and flow of a given franchise’s success can be traced within the colors of the visualization.
+The Atlanta Falcons, owners of an 11-5 record and a near Super Bowl championship this past season, have experienced their fair share. After a 13-3 season in 2012, their third straight season of double-digit wins, they surprised many by slipping to four, six, and eight victories over the next three years, missing the playoffs in each.
+The visualization, however, shows why it probably shouldn’t have come as such a surprise. The Falcons drafted just three players from 2007-12 that are currently on their roster. Since 2013, however, the mass of red icons has turned to green, as the team has hit on 21 of 30 picks.
+Check out highlights from a
+handful of other teams
+in the NFL.
+Also evident in the visualization is which teams have seen relative success in the draft in comparison to others, as well as how that draft success has correlated to improved returns on the field.
+On one hand, there are the Houston Texans, who have seen their average wins per season increase from 5.33 over the course of their first seven years of existence to 8.22 in the nine years since. That increase in wins coincides with a string of nine straight hits in the first round of the draft, shown in the visualization by a green icon in the first-round column for each year from 2008-16.
+Comparatively, the consistently unsuccessful Cleveland Browns display just five first-round green icons since 2007, three of which have come in the past two years. They have just three in the second round, none coming before 2014.
+In addition to the player’s league status, active or inactive, the visualization allows the user to toggle to two other categories: Games started and approximate value.
+The “games started” option indicates much of what you would expect – that players taken earlier in the draft see the field more often – but also indicates which teams have had the most success in finding the proverbial diamonds in the rough.
+The Seattle Seahawks, for example, found much of the talent that led it to back-to-back Super Bowl appearances in 2013-14 in the later rounds of the 2010-11 drafts. Kam Chancellor, K.J. Wright, and Richard Sherman, who help form the nucleus of Seattle’s stingy defense, were taken in the fourth and fifth rounds but are colored orange to indicate 65-99 NFL starts.
+The team of researchers includes undergraduate student Se Yeon Kim, graduate student Sakshi Pratap, and School of Interactive Computing Professor John Stasko. Stasko is the director of the
+Information Interfaces Research Group , whose mission is to help people take advantage of information to enrich their lives by creating information visualizations and visual analytics tools to help analyze and understand large data sets.
+Information for the visualization was compiled from NFL.com's
+draft history
+and
+player
+pages. Games started and approximate value was taken from
+Pro Football Reference .
+Follow the link for a look at the
+project page .
+Additional Images
+Contact
+David Mitchell
+Communications Officer
+Email
+david.mitchell@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

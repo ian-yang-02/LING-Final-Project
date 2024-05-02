@@ -1,0 +1,37 @@
+Mind Over Muscles: How the Brain Hinders Individual Muscle Control
+A new study explores the role of "common drive" when controlling muscles.
+Participants were tasked with flexing their bicep muscles and maintaining that activation at a designated level while also extending their triceps and keeping them steady at a different level.
+Jun 12, 2017
+— Atlanta, GA
+The key to balance is, in part, the ability to overpower your mind. Your brain possesses what some researchers call “common drive.” It wants to activate and relax all muscles in synchrony, including the opposing ones. It’s probably why you find yourself swaying while trying to balance on one leg. When you start to teeter, your mind drives all the muscles to stiffen at the same time. The problem: This drive contains muscle oscillations, which cause you to sway again and continue the process.
+All muscles typically have slight oscillations at the same time — less than three per second or three Hz — when they’re used. This is the common motor drive.
+This common drive may also be a reason why stroke survivors have trouble keeping their hands from becoming rigid and shaking. Only when you control both sets of muscles individually, or overcome this common drive, the rigidity and wobbling may stop.
+Georgia Institute of Technology researchers wanted to learn why some people are better than others at controlling joint stiffness by co-contracting opposing muscles to overcome this common drive. They also wanted to know if that skill could be taught. If so, it could lead to more effective rehabilitation exercises for stroke survivors or people with Parkinson’s disease.
+In a new study, the researchers set up an experiment for healthy young adults. They were tasked with flexing their bicep muscles and maintaining that activation at a designated level while also extending their triceps and keeping them steady at a different level. By wearing EMG sensors, the researchers were able to determine who was more effective in steady co-contraction.
+“The opposing muscles fought against each other to maintain different activation levels,” said Minoru Shinohara, an associate professor in the
+School of Biological Sciences
+at Georgia Tech. “It wasn’t easy. Some participants were actually sweating after just 30 seconds, struggling to keep both muscles activated and consistent at different levels.”
+The people who were worst at the experiment were unable to reduce the synchronized oscillations from both muscles. They rose and fell at the same time.
+“In contrast, better performers were able to dissociate the signal to both muscles and control them individually,” said Shinohara. “They overcame the mind’s willingness to send synchronized signals across muscles. They activated individually to better control both.”
+The next part of the experiment was to see if the healthy adults could train their muscles to more easily overcome the common drive. A third of the participants were trained for dissociated co-contraction — to flex and contract both muscles simultaneously but at different levels, back and forth, for an hour. Others worked on one muscle for a while, then switched to the other. The third group rested for 60 minutes.
+Afterward, everyone did the first test again. The improvement was the same across groups. Those who did nothing for an hour were just as successful (or not) as those who practiced, simply due to familiarization with the test.
+“If you practice anything specific for an hour, you’re likely to see specific improvement,” said Shinohara. “But there were no specific improvements with the dissociation practice. This means that the common drive is deeply embedded into the mind. It would take a long time for healthy adults to efficiently dissociate their muscles.”
+And that may partially explain why stroke survivors are slow to see any improvement after extensive rehab.
+“If healthy adults have trouble controlling their muscles individually, we shouldn’t be surprised that those who always struggle to control their muscles would have an even more difficult experience. An hour isn’t enough, which isn’t too surprising. But it’s important that people don’t give up if it takes a while to progress.”
+The paper, “Slow intermuscular oscillations are associated with cocontraction steadiness,” is currently published ahead of print in the journal
+Medicine & Science in Sports & Exercise .
+The study is supported by the National Science Foundation (IIS-1317718). Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsor.
+Additional Images
+Related links
+Read the study
+Human Neuromuscular Physiology Laboratory
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

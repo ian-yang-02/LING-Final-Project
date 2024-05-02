@@ -1,0 +1,52 @@
+solving a 75-year-old mystery might provide a new source of farm fertilizer 
+ solving a 75-year-old mystery could provide a new way to produce farm fertilizer. 
+ titanium dioxide, also known as titania, has photocatalytic properties that allow it to react with nitrogen. (credit: rob felt, georgia tech) 
+ nov 27, 2018 
+ — atlanta, ga 
+ the solution to a 75-year-old materials mystery might one day allow farmers in developing nations to produce their own fertilizer on demand, using sunlight and nitrogen from the air. 
+ thanks to a specialized x-ray source at 
+ lawrence berkeley national laboratory , researchers at the georgia institute of technology have confirmed the existence of a long-hypothesized interaction between nitrogen and titanium dioxide (tio 2 ) – a common photoactive material also known as titania – in the presence of light. the catalytic reaction is believed to use carbon atoms found as contaminants on the titania. 
+ if the nitrogen-fixing reaction can be scaled up, it might one day help power clean farm-scale fertilizer production that could reduce dependence on capital-intensive centralized production facilities and costly distribution systems that drive up costs for farmers in isolated areas of the world. most of the world’s fertilizer is now made using ammonia produced by the haber-bosch process, which requires large amounts of natural gas. 
+ “in the united states, we have an excellent production and distribution system for fertilizer. however, many countries are not able to afford to build haber-bosch plants, and may not even have adequate transportation infrastructure to import fertilizers. for these regions, photocatalytic nitrogen fixation might be useful for on-demand fertilizer production,” said 
+ marta hatzell , an assistant professor in georgia tech’s 
+ woodruff school of mechanical engineering . “ultimately, this might be a low-cost process that could make fertilizer-based nutrients available to a broader array of farmers.” 
+ hatzell and collaborator 
+ andrew medford , an assistant professor in georgia tech’s 
+ school of chemical and biomolecular engineering , are working with scientists at the international fertilizer development center (ifdc) to study the potential impacts of the reaction process. the research was reported october 29 in the 
+ journal of the american chemical society . 
+ the research began more than two years ago when hatzell and medford began collaborating on a materials mystery that originated with a 1941 paper published by seshacharyulu dhar, an indian soil scientist who reported observing an increase in ammonia emitted from compost subjected to light. dhar suggested that a photocatalytic reaction with minerals in the compost could be responsible for the ammonia. 
+ since that paper, other researchers have reported nitrogen fixation on titania and ammonia production, but the results have not been consistently confirmed experimentally. 
+ medford, a theoretician, worked with graduate research assistant benjamin comer to model the chemical pathways that would be needed to fix nitrogen on titania to potentially create ammonia using additional reactions. the calculations suggested the proposed process was highly unlikely on pure titania, and the researchers failed to win a grant they had proposed to use to study the mysterious process. however, they were awarded experimental time on the 
+ advanced light source 
+ at the u.s. department of energy’s lawrence berkeley national laboratory, which allowed them to finally test a key component of the hypothesis. 
+ specialized equipment at the lab allowed hatzell and graduate student yu-hsuan liu to use x-ray photoelectron spectroscopy (xps) to examine the surface of titania as nitrogen, water and oxygen interacted with the surfaces under near-ambient pressure in the dark and in the light. at first, the researchers saw no photochemical nitrogen fixation, but as the experiments continued, they observed a unique interaction between nitrogen and titania when light was directed at the minerals surface. 
+ what accounted for the initial lack of results? hatzell and medford believe that surface contamination with carbon – likely from a hydrocarbon – is a necessary part of the catalytic process for nitrogen reduction on the titania. “prior to testing, the samples are cleaned to remove nearly all the trace carbon from the surface, however during experiments carbon from various sources (gases and the vacuum chamber) can introduce trace amount of carbon back onto the sample,” hatzell explained. “what we observed was that reduced nitrogen species only were detected if there was a degree of carbon on the sample.” 
+ the hydrocarbon contamination hypothesis would explain why earlier research had provided inconsistent results. carbon is always present at trace levels on titania, but getting the right amount and type may be key to making the hypothesized reaction work. 
+ “we think this explains the puzzling results that had been reported in the literature, and we hope it gives insights into how to engineer new catalysts using this 75-year-old mystery,” medford said. “often the best catalysts are materials that are very pristine and made in a clean room. here you have just the opposite – this reaction actually needs the impurities, which could be beneficial for sustainable applications in farming.” 
+ the researchers hope to experimentally confirm the role of carbon with upcoming tests at pacific northwest national laboratory (pnnl), which will allow them to directly probe the carbon during the photocatalytic nitrogen fixation process. they also hope to learn more about the catalytic mechanism so that they can better control the reaction to improve efficiency, which is currently less than one percent. 
+ the research reported in the journal did not measure ammonia, but hatzell and her students have since detected it in lab scale tests. because the ammonia is currently produced at such low levels, the researchers had to take precautions to avoid ammonia-based contamination. “even tape used on equipment can create small quantities of ammonia that can affect the measurements,” medford added. 
+ though the amounts of ammonia produced by the reaction are currently low, hatzell and medford believe that with process improvements, the advantages of on-site fertilizer production under benign conditions could overcome that limitation. 
+ “while this may sound ridiculous from a practical perspective at first, if you actually look at the needs of the problem and the fact that sunlight and nitrogen from the air are free, on a cost basis it starts to look more interesting,” medford said. “if you could operate a small-scale ammonia production facility with enough capacity for one farm, you have immediately made a difference.” 
+ hatzell credits cutting-edge surface science with finally providing an explanation to the mystery. 
+ “since earlier investigators looked at this, there have been significant advances made in the area of measurement and surface science,” she said. “most surface science measurements require the use of ultra-high vacuum conditions which do not mimic the catalytic environment you aim to investigate. the near ambient pressure xps at lawrence berkeley national lab, allowed us to take a step closer to observing this reaction in its native environment.” 
+ the research was supported by startup funds from georgia tech to hatzell and medford, and by georgia tech’s serve-learn-sustain initiative. the effort also received a boost from georgia tech’s technological innovation: generating economic results (ti:ger®) program, which supported research into potential stakeholders for scale-up of the process. 
+ in addition to those already mentioned, the research included marm b. dixit and kelsey b. hatzell from vanderbilt university and yifan ye and ethan j. crumlin from lawrence berkeley laboratory. 
+ this research used resources of the advanced light source, which is a doe office of science user facility under contract number de-ac02-05ch11231. 
+ citation : benjamin m. comer, et al., “the role of adventitious carbon in photo-catalytic nitrogen fixation by titania,” (journal of american chemical society, 2018). 
+ http: / / dx.doi.org / 10.1021 / jacs.8b08464 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

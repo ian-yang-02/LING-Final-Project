@@ -1,0 +1,44 @@
+covid-19 interventions can cut virus infections, severe outcomes, and healthcare needs 
+ interventions such as shelter-in-place taken to control the sars-cov-2 virus can reduce infections and overall deaths. 
+ interventions such as voluntary shelter-in-place, quarantines and other distancing strategies to control the sars-cov-2 virus can reduce the peak number of infections and other outcomes, a new case study has found. 
+ oct 21, 2020 
+ — atlanta, ga 
+ non-pharmaceutical interventions such as voluntary shelter-in-place, quarantines, and other steps taken to control the sars-cov-2 virus can reduce the peak number of infections, daily infection rates, cumulative infections, and overall deaths, a new study published in the journal plos one has found. 
+ “high compliance with voluntary quarantine – where the entire household stays home if there is a person with symptoms or risk of exposure in the household – has a significant impact on reducing the spread,” said 
+ pinar keskinocak , the william w. george chair and professor in the 
+ h. milton stewart school of industrial and systems engineering 
+ (isye) and director of the 
+ center for health and humanitarian systems 
+ at the georgia institute of technology. “shelter-in-place (sip) puts the brakes on the spread for some time, but if people go back to ‘business as usual’ after sip, the significant impact is lost, so it needs to be followed up by voluntary quarantine and other physical distancing measures.” 
+ utilizing data from the state of georgia, the study determined that a combination of non-pharmaceutical interventions, with various levels of compliance that change over time, could in some instances cut cumulative infections in half and reduce the peak number of infections to about a third of what could have been seen, “flattening the peak” to avoid overwhelming a state’s healthcare system. 
+ the study compared actual statistics to revised models of what could have happened in the state during the past seven and a half months without the physical distancing. as covid-19 cases increase toward what may be a new peak this fall, the study could help public health officials evaluate the benefits of potential intervention strategies, for example, in the debate around k-12 school closure. 
+ the study modeled the number of covid-19 infections and resulting severe outcomes, and the need for hospital capacity under social distancing, particularly, school closures, shelter-in-place, and voluntary quarantine. 
+ “as one would expect, there is variation across the state in the observed data, which depends in large part on people’s behaviors,” said 
+ nicoleta serban , who is the joseph c. mello chair and professor in isye. “for example, mobility increased faster in some counties compared to others, which is likely to be correlated with increased physical and social interactions, and therefore faster spread of the coronavirus.” 
+ the team, including georgia tech isye ph.d. students buse eylul oruc and arden baxter, developed and used an agent-based simulation model to project the infection spread. “this is a sophisticated mathematical model which mimics what might happen in practice – under different scenarios – by capturing the progression of the disease in an individual, as well as the interactions between people in the household, in peer groups such as schools or workplaces, or in community groups such as grocery stores,” oruc said. 
+ the model utilizes parameters specific to covid-19 and data from georgia on population interactions and demographics. the study covered a period starting february 18, evaluating different social distancing scenarios, including baselines in which no intervention would have taken place or the only intervention would have been k-12 school closure, comparing them to combinations of shelter-in-place and voluntary quarantine with different timelines and compliance levels. 
+ outcomes were compared at the state and community level for the number and percentage of cumulative and daily new symptomatic and asymptomatic infections, hospitalizations, and deaths; covid-19-related demand for hospital beds, icu beds, and ventilators. 
+ the number of hospitalizations in georgia turned out to be fewer than models last spring had forecast, but “models accurately predicted which hospital regions of the state that would have the largest gaps between number of people with severe outcomes and available care capacity – and therefore face potential shortages of icu beds, hospital beds, and ventilators,” baxter said. 
+ the results suggest that shelter-in place followed by voluntary quarantine reduced peak infections to less than a third of what we would have seen if no intervention had taken place and to less than a half if only schools had been closed. the models predicted correctly that the interventions would delay the peak from april to sometime between late july to mid-september, reducing the daily strain on health care systems. 
+ according to the study, increasing shelter-in-place duration from four to five weeks yielded between 2% to 9% and 3% to 11% decrease in cumulative infection and deaths, respectively. regardless of the shelter-in-place duration, increasing voluntary quarantine compliance decreased daily new infections and cumulative infections by about 50%. the cumulative number of deaths ranged from 6,660 to 19,430 under different scenarios. 
+ as infection rates rise in the united states during late october, the study could help public health officials select the best techniques for addressing the viral threat. georgia’s total population is approximately 10.5 million, and covid-19 related deaths have exceeded 7,600. 
+ “the study further highlighted and quantified the impact of how compliance with public health measures impact infectious disease spread,” keskinocak said. “the takeaway message is that each of us have the power to control our health by making the right choices.” 
+ “as individuals and as a nation, we often expect technological or medical fixes or cures to health problems, whereas many of these problems, whether they are at the individual level or the public health level, are caused by or exacerbated by our choices and behaviors,” keskinocak said. “for many of them, we don’t need a new fancy device, drug, or technology to make things better. as individuals, or households, or communities, we have the power and the responsibility to impact and improve our own health, and the public health, by making healthy choices.” 
+ this research was supported in part by the william w. george endowment, the virginia c. and joseph c. mello endowments, a national science foundation graduate research fellowship (dge-1650044), an nsf grant to support the high performance computing facilities at georgia tech (mri-1828187), and research cyberinfrastructure resources and services provided by the partnership for an advanced computing environment (pace) at georgia tech, and the following georgia tech benefactors: andrea laliberte, joseph c. mello, richard “rick” e. & charlene zalesky, and claudia & paul raines. the funders played no role in the study design, data collection, analysis, interpretation, or in writing the manuscript. 
+ citation : pinar keskinocak, buse eylul oruc, arden baxter, john asplund, and nicoleta serban, “the impact of social distancing on covid19 spread: state of georgia case study.” ( plos one , 2020) 
+ https: / / doi.org / 10.1371 / journal.pone.0239798 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986)(jtoon@gatech.edu). writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

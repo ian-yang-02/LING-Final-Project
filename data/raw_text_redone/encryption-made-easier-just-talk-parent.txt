@@ -1,0 +1,18 @@
+encryption made easier: just talk like a parent 
+ new prototype encyrpts emails, without confusing encryption software. 
+ open book example. on the left, a typical email. on the right, the message is vaguer after open book transforms it but doesn't change meaning. 
+ jul 02, 2015 
+ — atlanta, ga 
+ encrypting emails can be tedious, difficult and very confusing. and even for those who have mastered the process, it’s useless unless the intended recipient has the correct software to decode the message. a georgia institute of technology researcher has created an easier method – one that sounds familiar to parents who try to outsmart their 8-year-old child. the new technique gets rid of the complicated, mathematically generated messages that are typical of encryption software. instead, the method transforms specific emails into ones that are vague by leaving out key words.  “it’s kind of like when mom and dad are talking about potential vacation spots while the kids are nearby,” said eric gilbert, the georgia tech assistant professor who developed the software. “they can’t say or spell ‘disney,’ or the children will get too excited. so they use other words and the meaning is implied. instead of ‘disney,’ they could say ‘have you bought tickets to the 
+ place 
+ yet.’” gilbert’s open book system, a prototype that uses a google mail plug-in called read me, works the same way by substituting specific words with ambiguous ones. if the above example was an email conversation, the sender would write, “have you bought tickets to disney yet?” open book would change the message when it was sent. the other person would see, “have you bought tickets to (place) yet?” the process reduces the information disclosed to eavesdroppers or computer systems that monitor online communications, while taking advantage of common ground between the participants. “as people react more with each other, they don’t have to say as much to understand what is being said,” said gilbert. “open book uses the same technique. even though the messages resemble typical email conversations, they’re lost in the background noise of the internet.” to test the reliability, gilbert put together a small study of 10 people who each wrote emails to five friends, which were then transformed by open book. the recipients correctly deciphered the missing words or phrases 95 percent of the time. when the same vague emails were shown to strangers, only 2 percent were interpreted correctly. the system, which isn’t commercially available yet, is tailored for people who know each other. readers cannot transform the vague email back into specific terms if they’re confused and unsure of its meaning. gilbert says he’s noticed more interest in encryption since edward snowden leaked documents about government surveillance. he thinks open book could be beneficial for anyone who cares to hide information online, whether it’s from the government, a nosy employer or from search engines that use communications for marketing purposes. the system was presented at the acm conference on human factors in computing systems (chi 2015) in seoul, south korea, april 18-23 ( open book: a socially inspired cloaking technique that uses lexical abstraction to transform messages ). 
+ additional images 
+ related links 
+ read the study 
+ contact 
+ jason maderer national media relations maderer@gatech.edu 404-385-2966 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

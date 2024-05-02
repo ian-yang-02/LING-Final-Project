@@ -1,0 +1,41 @@
+Social Media Study Identifies Mental Health Culture at Top-Ranked Campuses
+Using social media, researchers create a mental health index for country's top-ranked colleges.
+Munmun De Choudhury is an assistant professor in the School of Interactive Computing.
+Jun 01, 2017
+— Atlanta, GA
+Using information gleaned from social media, researchers from the Georgia Institute of Technology have created a mental health index for the nation’s highest-ranked colleges and universities. Their study looked at five years of data on Reddit, scanning it for comments about issues that included depression, financial and academic anxiety and thoughts of suicide. Schools were given a score based on the frequency of those threads and robustness of the conversations.
+The research found that students at higher-ranked schools have better mental health than those at lower-ranked colleges. The well-being index is also better at universities with higher tuition. It’s lower at large public schools with a majority of female students.
+The study doesn’t identify schools individually for privacy reasons.
+“Online conversations about mental health issues are definitely increasing,” said Munmun De Choudhury, Georgia Tech’s assistant professor, from the School of Interactive Computing, who led the study. “We saw it rise 16 percent from 2011 to 2015, even after we took into account that Reddit has become more popular in recent years.”
+The study focused on the top 150 universities as ranked by
+U.S. News & World Report , gathering data from the 109 of them with active Reddit accounts.
+De Choudhury suggests that the reason there are less posts about tuition anxiety at more expensive colleges is because their students tend to be more affluent than the average public school attendee. Therefore, the stresses of paying for college or going into debt aren’t as great. De Choudhury also thinks that the wider variety of backgrounds at large public schools likely lends itself to a more robust sharing of stress and anxiety issues.
+“As for more posts about mental health at universities with more females, I don’t think it’s necessarily because women have more anxiety,” De Choudhury said. “Research has traditionally shown that females are more likely to express their emotions and feelings whether in an offline setting or social media. It’s not that they have poorer mental health — it’s that they’re more likely to talk about their troubles while online.”
+The study also found an overall increase in mental health posts as the academic year progressed. It peaked in the fall in November and was even higher in May. It gradually decreased each summer.
+The Georgia Tech team used a method called transfer learning to mine the data. First, they created a model to scan subreddit threads about depression, bipolar disorder and other issues to learn patterns of what is written when people discuss mental health. Then the model was used on the higher education subreddit communities.
+The algorithm scanned the five years of discussions, day by day, looking for clues. Once it found keywords and phrases, it measured the breadth of the conversations. The more frequent the posts and depths of the discussions, the lower the respective mental health indexes.
+Overall, three percent of the threads on the 109 sites were about mental health topics.
+De Choudhury has previously done similar social media research to help identify expressions of
+eating disorders ,
+postpartum depression
+and
+suicide .
+“I’ve always wondered if there are things about college students and mental health that we could learn by using these same social media research tactics,” De Choudhury said. “We wanted to see if we could do something more collectively at the campus level before digging deeper to understand the challenges individuals might be facing. Perhaps this data can be used to help campus administrators as they create policies in real-time to benefit student bodies dealing with stress and anxieties.”
+The paper, “ A Social Media-Based Index of Mental Well-Being in College Campuses ,” was presented this month at the 2017 ACM Conference on Human Factors in Computing Systems (CHI 2017) in Denver.
+The study is partially supported by the National Institutes of Health (grant number
+1R01GM11269701). Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsor.
+Additional Images
+Related links
+Read the Study
+Banning Eating Disorder Words on Instagram Doesn't Work
+How Celebrity Suicides Change Online Behavior
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

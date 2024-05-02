@@ -1,0 +1,58 @@
+magtrack technology opens doors for independent operation of smartphones, computers, and other devices for wheelchair users 
+ clinical work begins with magtrack, a cutting-edge assistive technology that enables power wheelchair users to control their connected devices and drive their power wheelchairs using an alternative, multimodal controller. 
+ a squint is an example of a facial gesture that magtrack can detect and issue a discrete command to control a connected device. 
+ mar 03, 2022 
+ — atlanta, ga 
+ brooks rehabilitation 
+ recently announced that the magtrack study, a collaborative research endeavor with the 
+ georgia tech school of electrical and computer engineering , has been successfully completed. feedback from the brooks clinical team and its patients has allowed georgia tech engineers to transform their early research prototype into a user-ready version that was tested by more than 17 power wheelchair users living with tetraplegia — a form of paralysis caused by spinal cord injury that affects the arms, hands, trunk, legs, and pelvic organs. 
+ the collaboration between the brooks and georgia tech teams has created a path to a first-of-its-kind, innovative application for individuals living with disabilities. the teams — comprised of physicians, clinical therapists, and engineers — brought together multidisciplinary expertise in advanced science, technology, and clinical rehabilitation. 
+ “we met with the georgia tech team years ago, when we first heard of the research breakthroughs they were achieving for wheelchair users. brooks is constantly looking for technology that is useful for our patient population living with spinal cord injuries and mobility impairments. to see where the magtrack project has advanced even just since the early stages of this study is incredible,” said geneva tonuzi, medical director of the spinal cord injury program, the spinal cord injury and related disorders day treatment program, and cyberdyne hal therapy at brooks rehabilitation. 
+ as a result of this engineering-clinical collaboration, 
+ magtrack 
+ was created as a cutting-edge assistive technology that enables power wheelchair users to control their connected devices (e.g., smartphone, computer) and drive their power wheelchairs using an alternative, multimodal controller. in addition, the assistive device is designed to be wearable, wireless, and adaptable to the user’s specific condition. 
+ the magtrack study is earning the praise of patients and scientists alike and has been 
+ published 
+ in 
+ ieee transactions on biomedical engineering . from the beginning, the magtrack studies have tested the performance of the head-tongue controller (htc), an earlier version of the magtrack technology, on its ability to perform complex human-machine interactions that will enhance users’ quality of life. the magtrack’s htc allows the user to perform a variety of complex tasks in a single controller through the use of tongue and head movements, which are detected by eyewear and a tiny tracer that is temporarily glued onto the tongue using glustitch’s 
+ peryacryl 
+ bio-compatible adhesive. target-specific commands are generated from these motions using advanced data processing and machine learning models. this combination of input modalities allows the user to perform a variety of daily functions with customizable control, from performing complex computer tasks (e.g., mouse navigation, scrolling, drag-and-drop) to completing advanced driving maneuvers when connected to a power wheelchair. 
+ in the latest study, researchers connected the magtrack technology to a single power wheelchair donated by quantum rehab, and recruited 17 patient volunteers from brooks rehabilitation to test the functionality and usability of the device by completing a set of both simple and advanced driving tasks. results showed that new users of magtrack can complete these tasks as fast, and sometimes even faster, with the magtrack’s htc rather than their personal, alternative controller. since the study session lasted less than 3 hours — and in a power wheelchair that wasn’t their own — it is anticipated that participants would be more proficient, and thus perform better with magtrack, if they were given more time to familiarize themselves with its multimodal capabilities and using their own power wheelchair. 
+ "working with all of the participants has been very rewarding,” said jesse milliken, speech-language pathologist in the spinal cord injury program at 
+ brooks rehabilitation hospital . “each patient who came in was someone who has been directly affected by a spinal cord injury and who can truly benefit from this technology. it was amazing to see how their faces lit up when they saw they were able to control their wheelchair with such ease and comfort. they all said they can see this improving their day-to-day lives if it were available to them. it's been such an honor to be a part of this process and see the work and thought process behind such advanced technology." patients from the 
+ brooks 
+ spinal cord injury program who have participated in phase three of the study call the advancement “exciting” and a “great system that can be used for so many things.” after experiencing the technology themselves, they believe it will “touch the lives of those who are able to use it.” 
+ to date, the head array and sip-and-puff are the most common alternative controllers recommended by physical therapists to individuals living with tetraplegia, while specialized switches and joystick technology are available for those with mobility in their upper extremities. these technologies were developed many decades ago for the basic need of controlling a power wheelchair. since then, a lack of innovation in this field has hindered these assistive technologies from adapting to today’s technology. furthermore, they are affixed to the wheelchair, which becomes inaccessible once the user is transferred to a bed, a couch, or any location away from the wheelchair. therefore, there is a growing need for this population to have access to new, alternative controllers that will enable them to be active members of an interconnected digital world. 
+ “the trajectory of the magtrack study shows an unprecedented possibility for the advancement of independent function as well as mobility for electric wheelchair users. our team and partners are energized and motivated by the recent patient trials to continue to push this technology and its capabilities as far as possible. this technology can significantly improve people’s lives. we will continue to work to see these advances in assistive technology come to life,” said georgia tech’s omer t. inan, director of the inan research lab, linda j. and mark c. smith chair in bioscience and bioengineering, associate professor in the school of electrical and computer engineering, and adjunct associate professor in the wallace h. coulter department of biomedical engineering. 
+ “magtrack is an innovative assistive technology aimed for those living with physical paralysis to have access to more complex human-machine interactions, which will facilitate the control of more devices in their everyday life that they cannot easily use otherwise,” said nordine sebkhi, postdoctoral researcher at the inan research lab in the school of electrical and computer engineering. “the development of our wearable alternative controller eliminates the need for having multiple assistive technologies, replacing them with a single multimodal and integrated system.” sebkhi is the co-creator of magtrack and the technical lead in the development of this assistive technology. 
+ as a result of these studies, 
+ magtrack 
+ has been refined to offer a fully integrated, all-in-one experience so that a user can seamlessly switch between driving their wheelchair and controlling connected devices in their surroundings (e.g., smartphone, computer, automated door opener, smart tv). the system can be used anywhere since it is wearable, and its built-in wireless connectivity facilitates portability. 
+ the team at georgia tech is already working on a new version of 
+ magtrack 
+ that is not only more inconspicuous, but also includes detection of facial gestures that significantly augments its control capabilities. thanks to a grant from the 
+ georgia research alliance , this new version of magtrack will be tested in a focus group at the 
+ shepherd center 
+ and in simulated testing in a home-like environment. in the coming year, the team plans to make magtrack available to early adopters for at-home validation testing to further improve the technology before pursuing commercialization. 
+ this successful study is only a start since, at its core, magtrack is a new type of body motion tracking. the georgia tech team is working on various designs of magtrack to be used as a wearable articulograph for motor speech disorders, as a hand and joint tracking system for physical rehabilitation, and even as a finger tracking for vr / ar applications. the magtrack team will be partnering with the 
+ global center for medical innovation 
+ to assist in regulatory strategy and project planning to transition the technology from the lab to the market. 
+ ----- 
+ special thanks and recognition go to all team members involved in this groundbreaking study, including but not limited to: 
+ nordine sebkhi, ph.d., postdoctoral researcher, inan research lab, school of electrical and computer engineering, georgia tech 
+ arpan bhavsar, m.s., research engineer, inan research lab, school of electrical and computer engineering, georgia tech 
+ nazmus sahadat, ph.d., applied scientist, amazon 
+ david v. anderson, ph.d., professor, school of electrical and computer engineering, georgia tech 
+ omer t. inan, ph.d., linda j. and mark c. smith chair in bioscience and bioengineering, associate professor, school of electrical and computer engineering, adjunct associate professor of biomedical engineering, director of the inan research lab 
+ geneva tonuzi, m.d., medical director, spinal cord injury program and spinal cord injury / disorders day treatment program, medical director, brooks cyberdyne hal therapy 
+ erica walling mpt, atp / sms, wheelchair clinic manager, brooks rehabilitation 
+ jesse milliken, m.s., ccc-slp, speech-language pathologist, spinal cord injury program, brooks rehabilitation 
+ raine osborne, pt, dpt, edd, faaompt, director of research, brooks rehabilitation 
+ additional images 
+ contact 
+ georgia parmelee 
+ email 
+ georgia.parmelee@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,51 @@
+hybrid approach predicts and confirms structure of complex metal nanoparticles 
+ combining experimental and theoretical methods accurately describes complex nanoparticle 
+ the de novo-predicted and x-ray-confirmed structure of the organic thiol-capped auag16(sr)12 cluster. the cluster is comprised of a central icosahedral (auag12, made of a gold atom surrounded by twelve silver atoms), capped by four ags3 mounts, each made of a triangle of sulfur atoms, in yellow, bonded to an anchoring silver atom (black). each of the twelve sulfur atoms is bonded to an aromatic phenyl ring which is crowned by a tetrabutyl group c(ch3)3. most of the aromatic rings are organized in dimer bund 
+ nov 28, 2016 
+ — atlanta, ga 
+ a combined theoretical and experimental approach has allowed researchers to predict and verify the full structure of a monolayer-coated molecular metal nanoparticle. the methodology was tested on silver-thiolate nanoparticles, expanding on earlier knowledge about gold nanoparticles, and is expected to be applicable to a broad range of sizes of nanoparticles made of different elements. 
+ in a paper published friday, november 25, 2016, in 
+ the journal 
+ science advances , researchers from the georgia institute of technology and the university of toledo report on an x-ray-determined structure that authenticates the 
+ a priori 
+ prediction, and in conjunction with first-principles theoretical analysis, supports the underlying forecasting methodology. 
+ “metal nanoparticles capped by organic ligands have fundamental and applied significance for understanding the physical and chemical principles controlling the assembly and atomic organization in nanocrystalline materials, and to their potential usage in fields as quantum dots, sensors, nanocatalysts, biomedical imaging, nanocrystalline superlattices and plasmonics,” said 
+ uzi landman, regent’s professor and f.e. callaway chair in the georgia tech school of physics . “we have been engaged in investigations of the principles underlying the structures of atomic and molecular nanoclusters, with some of our earlier predictions made over two decades ago, and thus, in some sense, the achievement demonstrated in this paper closes a circle for us, pointing the way toward future science governing atomically-precise structures at this scale.” 
+ the research was supported by the national science foundation, the air force office of scientific research, and the u.s. department of energy’s office of basic energy sciences. computational research was carried out at the georgia tech center for computational materials science. 
+ since the 1990s, researchers have been investigating the unique properties of metallic nanoparticles whose surfaces have been passivated using, mainly, sulfur-based organic materials. these thiol-capped structures, composed of dozens to hundreds of atoms, have unique optical and electrical properties depending on the metals’ chemical identities, the number of metal atoms in the nanoparticle core, and the type and number of capping organic ligands – all of which determine the nanoparticle’s structure. 
+ predicting the structure of such nanoparticles is a formidable theoretical goal, and an experimental challenge. nanoparticles made of different metals – gold, silver, platinum, copper, and their alloys – can be formed with sizes ranging from dozens up to hundreds of atoms, being characterized by metal-specific discrete sequences of numbers of atoms reflecting preferential stabilities and higher abundances of nanoparticles of specific sizes. the atomic constituents in such stable nanoparticles are organized in structures that differ from the corresponding bulk atomic arrangements of the constituent metals. the plethora of different structures thus formed accounts for the variability and diversity in the physical and chemical properties of such finite-size nanomaterials. moreover, the metal nanoparticles are capped by sulfur-containing ligands, whose bonding to the metal constituents further complicates the structural predictions, landman noted. 
+ “there is often something that underlies the abundance and atomic organization in such particles that is subtle and unusual,” landman said. “the interactions vary based on competing effects. we learned how complicated the effects of the ligand binding can be, and how to integrate this knowledge into a structure-forecasting strategy.” 
+ using concepts from nucleation theory and judiciously chosen trial structural motifs, taken in part from earlier studies, in conjunction with first-principles quantum-mechanical structure-optimization computational techniques, the researchers advanced in an earlier study (published in 2015 in the journal of the american chemical society) a 
+ de novo 
+ predicted structure for the capped silver nanoparticle. this prediction was largely borne out by the subsequent experimentally determined structure accomplished by a group of researchers headed by 
+ professor terry bigioni from the department of chemistry at the university of toledo . 
+ in the 
+ science advances 
+ paper, the researchers present an experimental x-ray total structure determination and theoretical optimization and analysis of the atomic arrangement in the nanoparticle whose chemical formula is (toa) 3 auag 16 
+ (tbbt) 12 , where tbbt (4-tert-butylbenzenethiol) denotes the organic thiol ligand molecules, and toa (tetraoctylammonium) serves as a counterion. the inner part of the nanoparticle consists of a central gold atom surrounded by twelve silver atoms, forming a 13-atom five-fold-symmetric icosahedral metal core. the organic ligands have been predicted, and experimentally confirmed, to be anchored to the metal core though bonding to additional four silver atoms, forming four-ag (tbbt) 3 
+ capping mounts. 
+ along with the emergence of the novel mount-motif family for silver-thiolate nanoparticles, the study compares in detail the observed and predicted structural, electronic and spectral properties of the monolayer-protected gold-atom-doped silver nanoparticle, largely confirms the 
+ de novo 
+ structure prediction as well as identifies accessible rotational isomeric ligand-shell conformations, validates the structure forecasting methodology, and provides impetus for further experimental and theoretical developments. 
+ among the highlights of the reported research was the growing cognition concerning the possible role of the organic ligands in controlling the structure of the nanoparticle. 
+ “if you modify the capping agent, you may modify structures, and that is a radical paradigm change,” landman said. “usually, you would expect the metal nanoparticles to arrange in ways dictated by their intermetallic interactions, with only mild influence from the capping organic molecules.” 
+ another highlight pertains to ordering within the ligand shell, which was theoretically predicted 20 years ago in the context of investigations of capped gold nanoparticles, known as “ligand bundling.” subsequently, such ligand orderings have been confirmed in various instances. the identification of intermolecular ligand bundling in the present work, with the emergence of perennial noncovalent phenyl-ring assemblies in the form of a cyclic trimer and t-shape-like dimers, is of relevance to molecular recognition, self-assembled supramolecular architecture, crystal packing, biomolecule (dna and protein) structures, and quantum-chemistry benchmark studies. 
+ “these findings demonstrate key principles underlying ligand-shell anchoring to the metal core, as well as unique t-like benzene-dimer and cyclic-benzene-trimer ligand bundling configurations, opening vistas for rational design of metal and alloy nanoparticles,” the authors said in the paper. the study “provides an impetus and guidance for continued efforts toward formulation and implementation of structure prediction methodologies for such complex materials systems.” 
+ the principles underlying the ligand-shell structure also imply that the structure of bimetallic nanoparticles could be influenced by the coordination of the metal atoms in the ligand shell. for example, if the coordination of the heteroatoms is not compatible with the ligand shell structure, then those heteroatoms will be located in the metal core. indeed, heteroatom substitution can be used in this sense as a structural probe. if the incompatible metal atoms are located in the ligand shell, however, then the structure of the nanoparticle will not be conserved, due to structural changes in the ligand shell necessitated by the different heteroatom bonding requirements. 
+ along with those mentioned above, others who contributed to the research are graduate students brian e. conn and aydar atnagulov from the department of chemistry at the university of toledo, ohio, and bokwon yoon and robert n. barnett, senior research scientists in the georgia tech school of physics. 
+ this research was supported by nsf grant cbet-0955148, grant fa9550-14-1-0005 from the air force office of scientific research, and by the office of basic energy sciences of the u.s. department of energy under contract fg05-86er45234. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsors. 
+ citation: brian e. conn, aydar atnagulov, bokwon yoon, robert n. barnett, uzi landman, terry p. bigioni  “confirmation of a de novo structure prediction for an atomically precise monolayer coated silver nanoparticle,” (sci. adv. 
+ 2 , e1601609 (2016)). 
+ http: / / dx.doi.org / 10.1126 / sciadv.1601609 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181 
+ media relations assistance: john toon (404-894-6986) (jtoon@gatech.edu). 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

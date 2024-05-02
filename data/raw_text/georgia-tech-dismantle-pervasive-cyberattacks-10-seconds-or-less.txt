@@ -1,0 +1,30 @@
+Georgia Tech to Dismantle Pervasive Cyberattacks in 10 Seconds or Less
+Georgia Tech researchers have earned a DARPA contract to determine ways of defeating low-volume denial of service attacks on websites.
+Georgia Tech Assistant Professor Taesoo Kim and a team of researchers here recently earned a $2.9 million DARPA contract to study ways of detecting and defending against low-volume distributed denial of service (DDoS) attacks on websites.
+May 03, 2016
+— Atlanta, GA
+Georgia Tech researchers have been awarded a $2.9 million contract from the U.S. Defense Advanced Research Projects Agency (DARPA) to develop a cybersecurity method that will identify and defend against low-volume distributed denial of service (DDoS) attacks. High-volume DDoS attacks that overwhelm servers with large amounts of malicious traffic in order to shut down a particular website have received a significant amount of study. However, low-volume attacks have not. Low-volume attacks—while generally receiving less attention from scholars and media outlets—account for a significant percentage of all DDoS assaults. They can take down a website and be as damaging, but may use less bandwidth, are often shorter in duration, and may be designed to distract a security team from the aftershocks of follow-on attacks. In fact, according to Neustar, Inc., around 54 percent of DDoS attacks were found to be relatively small at less than 5 Gbps, yet 43 percent leave behind malware or viruses. Neustar’s
+April 2016
+report found that 82 percent of corporations were attacked repeatedly. “This has been a 25-year problem with no practical solution,” says
+Taesoo Kim , lead principal investigator for the study and assistant professor in Georgia Tech’s School of Computer Science. “Our goal is to create a precise and timely detection method that identifies attacks by how they subtly change the resource consumption of a machine. With little to no degradation of system performance, we believe we can mitigate the threat and write a new signature for it inside the hardware within approximately 10 seconds so a network interface card will recognize it again. This effectively puts an anti-virus patch into your hardware in real time.” Under the project name ROKI, Kim and colleagues propose to first establish a baseline of resource consumption using three Intel hardware features. Next, they will develop continuous analysis algorithms to compare a packet’s effect on system performance against historical consumption under similar scenarios. A new path-reconstruction engine will then produce a sequence of instructions to nullify an attack and encode the finding into the network interface card to stop current or future attack traffic. “ROKI has the potential to achieve both timeliness and precision,” says
+Wenke Lee , co-PI on the project and co-director of the
+Institute for Information Security & Privacy
+at Georgia Tech. “We don’t need to know what an attack looks like, just that it deviates from the baseline. Existing defenses against low-volume DDoS attacks lack precision and they cannot create a response in a timely manner. This will.” The research is part of DARPA’s
+Extreme DDoS Defense
+(XD3) program (awarded under contract #HR0011-16-C-0059) and began in April. First deliverables are expected in approximately 18 months, beginning with a prototype to demonstrate the core idea. The project is expected to be complete in three years. Field exercises to mitigate previously unknown DDoS attacks will occur in 2019. About the Researchers Taesoo Kim ,
+assistant professor, School of Computer Science, College of Computing
+He received his Ph.D. in Computer Science from the Massachusetts Institute of Technology in 2014 and since has taught at Georgia Tech, attracting nearly $6 million in research awards to the university, inclusive of this announcement. He leads and co-leads projects on large-scale analytics, scalable manycore operating systems, defense mechanisms to harden software, and tag-tracking. His thesis work focused on the design of an intrusion recovery method for operating systems, web applications, distributed web services, and web frameworks that is today the foundation of a company called Nerati. William Harris ,
+assistant professor, School of Computer Science, College of Computing He studies program synthesis, analysis and verification and has developed tools that generate programs to help operating systems meet specified security requirements even if the underlying components may not be trusted. Wenke Lee ,
+the John P. Imlay Jr. Professor, School of Computer Science, and co-director of the Institute for Information Security & Privacy at Georgia Tech Dr. Lee has worked on large-scale network monitoring, botnet detection, and malware analysis for more than 10 years. His research interests also include systems and network security, applied cryptography, and data mining. Clifton (Trent) Brunson ,
+research scientist, Georgia Tech Research Institute In his prior academic studies and work, he has performed multiple projects for the Air Force Research Laboratory and DARPA in the areas of cryptography, insider threats, programming languages, cyber battle damage assessment, agentless network monitoring, and IPv6. About Georgia Tech’s College of Computing The Georgia Tech College of Computing is a national leader in the creation of real-world computing breakthroughs that drive social and scientific progress. With its graduate program ranked 9th nationally by
+U.S. News and World Report , the College’s unconventional approach to education is expanding the horizons of traditional computer science students through interdisciplinary collaboration and a focus on human-centered solutions. For more information about the Georgia Tech College of Computing, its academic divisions and research centers, please visit
+www.cc.gatech.edu
+Additional Images
+Contact
+Ben Snedeker, News & Media Relations Manager, Georgia Tech College of Computing. 404-894-7253,
+albert.snedeker@cc.gatech.edu
+Email
+albert.snedeker@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

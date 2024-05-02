@@ -1,0 +1,35 @@
+Particles Emitted by Consumer 3D Printers Could Hurt Indoor Air Quality
+The particles emitted from 3D printers can negatively impact indoor air quality and have the potential to harm respiratory health, according to a study from researchers at the Georgia Institute of Technology and UL Chemical Safety.
+3D Printed Object (Credit: Rob Felt)
+Oct 07, 2019
+— Atlanta, GA
+Consumer-grade 3D printers have grown in popularity in recent years, but the particles emitted from such devices can negatively impact indoor air quality and have the potential to harm respiratory health, according to a study from researchers at the Georgia Institute of Technology and UL Chemical Safety.
+For the study, which was published September 12 in the journal
+Environmental Science & Technology
+and sponsored by Underwriters Laboratories, Inc. (UL)., the researchers collected particles emitted from 3D printers and conducted several tests to gauge their impact on respiratory cell cultures.
+“All of these tests, which were done at high doses, showed that there is a toxic response to the particles from various types of filaments used by these 3D printers,” said Rodney Weber, a professor in Georgia Tech’s School of Earth & Atmospheric Sciences, who led the research.
+The study was part of multi-year research project aimed at characterizing particle emissions by the printers in a controlled environment and identifying measures that could be taken by both 3D printer manufacturers and users to reduce the potential for harm. While earlier studies had focused on quantifying the particles being emitted, this time the researchers looked more closely at the chemical composition of the particles and their potential for toxicity.
+3D printers typically work by melting plastic filaments and then depositing the melt layer upon layer to form an object. Heating the plastic to melt it releases volatile compounds, some of which from ultrafine particles that are emitted into the air near the printer and the object.
+In earlier research, the team found that generally the hotter the temperature required to melt the filament, the more emissions were produced. As a result, acrylonitrile butadiene styrene (ABS) plastic filaments, which require a higher temperature to melt, produced more emissions than filaments made of polylactic acid (PLA), which melt at a lower temperature.
+To test the impact of the emissions on live cells, the researchers partnered with Weizmann Institute of Science in Israel, which exposed human respiratory cells and rat immune system cells to concentrations of the particles from the printers. They found that both ABS and PLA particles negatively impacted cell viability, with the latter prompting a more toxic response. But these tests did not reflect actual exposures
+The researchers also performed a chemical analysis of particles to gain further insight into their toxicity and allow comparisons to toxicity of particles found in outdoor urban environments. The analysis – called oxidative potential – simulates the toxic response that an aerosol would have on cellular organisms.
+“The toxicity tests showed that PLA particles were more toxic than the ABS particles on a per-particle comparison, but because the printers emitted so much more of the ABS – it’s the ABS emissions that end up being more of the concern,” Weber said. “Taken together, these tests indicate that exposure to these filament particles could over time be as toxic as the air in an urban environment polluted with vehicular or other emissions.”
+Another finding of the study was that the ABS particles emitted from the 3D printers had chemical characteristics that were different than the ABS filament.
+“When the filament companies manufacture a certain type of filament, they may add small mass percentages of other compounds to achieve certain characteristics, but they mostly do not disclose what those additives are,” Weber said. “Because these additives seem to affect the amount of emissions for ABS, and there can be great variability in the type and amount of additives added to ABS, a consumer may buy a certain ABS filament, and it could produce far more emissions than one from a different vendor.”
+The study also looked at which types of indoor environmental scenarios emissions from a 3D printer would most impact. They estimated that in a commercial building setting such as a school or an office, better ventilation would limit the amount of exposure to the emissions. However, in a typical residential setting with less effective ventilation, the exposure could be much higher, they reported.
+“These studies show that particle and chemical emissions from 3D printers can result in unintentional pollutant exposure hazards, and we are pleased to share this research so that steps can be taken to reduce health risks,” according to Marilyn Black, Sr. Technical Advisor for UL.
+In the meantime, some measures can be taken by operators of 3D printers to lessen their impact on air quality.
+Operating 3D printers only in well-ventilated areas
+Setting the nozzle temperature at the lower end of the suggested temperature range for filament materials
+Standing away from operating machines
+Using machines and filaments that have been tested and verified to have low emissions.
+CITATION : Qian Zhang, Michal Pardo, Yinon Rudich, Ifat Kaplan-Ashiri, Jenny P.S. Wong, Aika Y. Davis, Marilyn S. Black and Rodney J. Weber, “Chemical Composition and Toxicity of Particles Emitted from a Consumer-Level 3D Printer Using Various Materials,” ( Environmental Science & Technology , September 2019). http://dx.doi.org/10.1021/acs.est.9b04168
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

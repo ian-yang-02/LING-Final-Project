@@ -1,0 +1,45 @@
+two-way cell-based treatment repairs muscle after rotator cuff injury 
+ new treatment helps muscle regenerate following shoulder surgery 
+ mar 26, 2024 
+ a team of georgia tech researchers has introduced a 
+ new therapeutic system 
+ to offset the poor clinical outcomes often associated with common rotator cuff surgery. 
+ it’s the kind of surgery that makes headlines whenever a famous athlete is sidelined with a torn rotator cuff. major league baseball all-star pitchers clayton kershaw and justin verlander, for example, both had rotator cuff surgeries and made successful comebacks. 
+ for those of us who can’t throw baseballs 95 miles an hour, the rotator cuff may tear over time from repeated overhead motions (painters and carpenters, for instance). or an injury can occur as we age and our body’s tissues naturally degenerate. and although rotator cuff injuries are common, they can be serious, leading to muscle degeneration after surgery. 
+ now, two professors from the 
+ wallace h. coulter department of biomedical engineering , a joint department of georgia tech and emory university, have addressed the problem with a novel cell-based dual treatment, which they describe in a study published recently in the journal 
+ tissue engineering . 
+ “we’re thinking mainly of an aging population with this study — the people most likely to have these injuries,” said 
+ johnna temenoff , whose research group collaborated with the lab of 
+ ed botchwey 
+ on this work. “the great thing about this system is, it isn’t specific to a particular population. these are cells we all have, and this treatment system might work even better in younger patients.” 
+ local delivery 
+ the rotator cuff is a group of muscles and tendons surrounding and protecting the shoulder joint, keeping the head of the upper arm bone firmly in the shallow socket of the shoulder. it’s tight jumble of tissues, and not an easy environment for muscle regeneration. 
+ “with a rotator cuff injury, you’re actually tearing the tendon,” said temenoff, director of the nsf engineering research center for cell manufacturing technologies ( cmat ) at georgia tech. “and that causes the muscle to atrophy.” 
+ while pro athletes have access to world-class training and rehabilitation to help rebuild the shoulder following surgery, for many patients that rotator cuff muscle doesn’t fully regenerate, even after a successful surgery. temenoff isn’t sure why. 
+ “that’s a big unknown,” she said. “and it’s a big field of study right now, an active area of research. there is a need for regenerative therapies that can be used in conjunction with rotator cuff restoration surgery, as a long-term treatment option —that is what we are addressing.” 
+ in previous studies using mouse models, temenoff found that she could change the cellular environment in the muscle with the local injection of microparticles loaded with a protein called stromal cell-derived factor (sdf), which can attract various pre-regenerative cells circulating to the muscle. 
+ the push-pull effect 
+ the idea is to mobilize the cells that can heal, the cells that rebuild muscle at the source. getting enough of them to do the work is the trick. 
+ temenoff’s lab 
+ has developed microparticles that use heparin, a natural sugar-based molecule found in the body that has a high negative charge. sdf is positive-charged, so that electrostatic interaction between the two particles allows for controlled release of sdf over time. 
+ sdf interacts almost magnetically with a receptor on pro-regenerative cells in bone marrow or circulation to “call” them to a certain location. however, older people may not have enough of these cells in circulation to make much of a difference in healing. that’s where 
+ botchwey’s lab 
+ entered with the major assist. 
+ his team provided experience with a bone marrow mobilizing agent (called vpc01091) that can send healing cells into circulation around the body. in clinical settings, bone marrow mobilizing agents are used to “push” stem cells out of the marrow and into the blood. these cells can regenerate and differentiate into all kinds of cells in multiple tissue environments. 
+ the researchers set out to develop a single therapeutic option by combining the two technologies. here's what happened when they tested the system in rats: the mobilizing agent was injected systemically while the sdf was injected locally into the shoulder. so, while the mobilizing agent “pushed” pro-healing cells into circulation, sdf’s magnetic effect “pulled” them to the injury site, resulting in the desired regenerative effects. 
+ the researchers found different levels of regeneration spatially—in other words, where they applied the local injection really matters. further research will aim to fine-tune the process, so clinicians can recruit healing cells to even more specific areas of the damaged muscle. temenoff and her collaborators believe they are onto something that will result in better muscle regeneration, with potential applications beyond the rotator cuff. 
+ this work was supported by the national institutes of health (grant no. r01ar071026). 
+ citation: 
+ leah anderson, liane tellier, keshav shah, joseph pearson, alexandra brimeyer, ed botchwey, johnna temenoff. “bone marrow mobilization and local stromal cell-derived factor-1a delivery enhances nascent supraspinatus muscle fiber growth,” 
+ tissue engineering . 
+ doi: 
+ https: / / doi.org / 10.1089 / ten.tea.2023.0128 
+ additional media 
+ contact 
+ jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

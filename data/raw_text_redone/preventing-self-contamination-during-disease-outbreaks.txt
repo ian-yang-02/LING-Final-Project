@@ -1,0 +1,38 @@
+preventing self-contamination during disease outbreaks 
+ researchers have identified risky behaviors of health care workers that may lead to self-contamination. 
+ apr 16, 2018 
+ — atlanta, ga 
+ ebola virus infections that occurred in the u.s. in late 2014 alarmed the public. in the two cases, nurses got the infection from a patient who caught the dreaded virus overseas. both nurses received treatment and survived. in the aftermath, 
+ the centers for disease control and prevention (cdc) awarded emory university and georgia tech a grant 
+ to discover ways to protect health care workers from self-contamination when treating patients during outbreaks of deadly infections. 
+ now, georgia tech researchers and others at emory and georgia state university have observed health care workers in a facility that has treated ebola-infected patients and identified risky behaviors that may lead to self-contamination. reported in 
+ clinical infectious diseases , 
+ the findings suggest that health care workers can be well-protected from self-contamination under the current guidelines and protocols for health care facilities certified to treat ebola-infected patients. 
+ in the study, school of psychology professor and interim chair frank t. durso and ph.d. student joel m. mumma and coworkers observed how health care workers trained to treat ebola-infected patients followed procedures for removing protective equipment after contact with a patient. 
+ protecting health care workers 
+ according to cdc guidelines, protective equipment should provide coverage from head to toe. coveralls protect the neck to the toe. underneath are disposable paper scrubs. neck-to-head protection includes a hood that has three parts: a face shield, a shroud, and a respirator underneath. hands are covered by two pairs of gloves. shoes are protected by shoe covers. 
+ in addition, a trained observer must be present when donning or doffing protective equipment. the trained observer reminds workers of the proper procedure and signals when a step is not done right. 
+ the health care workers participated in simulations in which their protective equipment was contaminated with harmless viruses that served as surrogates for ebola and for hardier viruses, similar to norovirus. the workers were video recorded while removing their protective equipment. 
+ the georgia state team sampled critical areas, such as hands and scrubs, for microbial analyses. 
+ data analyses and modeling – led by mumma – revealed human behavioral pathways along which pathogens can travel from contaminated outer layers to the clean inner layers of the protective equipment. 
+ behavioral pathways to self-contamination 
+ “we were interested in the kinds of behaviors that may spread contamination,” mumma says. “an example is touching the hood’s face shield with the inner pair of gloves when trying to remove the hood. the inner pair of gloves should always remain clean.” 
+ another common failure point is hand hygiene, mumma says. after each doffing step, workers sanitize their hands with an alcohol-based rub. sometimes, this step is not carried out as thoroughly as the world health organization recommends. 
+ often workers don’t allow the sanitizer to dry completely. in that case the effectiveness of hand hygiene becomes limited, mumma says. 
+ in addition, “when they take the gloves off, they don’t get a good grip because the surface is slippery from the alcohol, and they snap their glove,” durso says. “every time that happens, you increase the chance of shooting the virus into the room or to the health care worker.” 
+ the trained observers can also be a failure point, mumma says. “sometimes trained observers cut hand hygiene short by moving health care workers on to the next doffing step.” 
+ the bottom line is self-contamination in ebola facilities may be reduced if trained observers pace themselves to ensure that workers are doffing methodically and if the workers handle protective equipment properly, sanitize and their hands thoroughly and dry them completely, and use the proper technique in removing the hood. 
+ although the behavioral pathways to contamination revealed by the study may be applicable to ebola, details may change depending on the virus causing the disease outbreak. for example, hand sanitation with an alcohol-based rub keeps ebola contained. a virus more robust than ebola, such as the hardier viruses used in the simulations, may require use of a more potent agent, such as bleach. 
+ “if we can intervene and improve the process in facilities, we shouldn’t get self-contamination,” durso says. “what’s really exciting is that hospitals are already implementing changes based on our findings.” 
+ additional images 
+ related links 
+ cdc awards $2.2 million to prevent spread of infectious disease in health care … 
+ contact 
+ a. maureen rouhi, ph.d. 
+ director of communications 
+ college of sciences 
+ email 
+ maureen.rouhi@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

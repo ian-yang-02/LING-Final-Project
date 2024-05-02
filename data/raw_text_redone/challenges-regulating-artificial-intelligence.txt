@@ -1,0 +1,56 @@
+the challenges of regulating artificial intelligence 
+ as innovation surrounding artificial intelligence continues, georgia tech experts offer their thoughts on the scope of the recent executive order and the challenges ahead in regulating ai. 
+ jan 11, 2024 
+ in 1950, alan turing asked, “can machines think?” more than 70 years later, advancements in artificial intelligence are creating exciting possibilities and questions about its potential pitfalls. 
+ a recent executive order issued by president joe biden seeks to establish "new standards for ai safety and security" while addressing consumer privacy concerns and promoting innovation. georgia tech experts have examined the key elements of the order and offer their thoughts on its scope and what comes next. 
+ a precautionary tale 
+ the order calls for the development of standards, tools, and tests to ensure the safe use of ai. from voice scams and phishing campaigns to larger-scale threats, the technology’s potential dangers have been widely documented. but 
+ margaret kosal , associate professor in the ivan allen college of liberal arts, says that additional context is often needed to dispel hysteria. 
+ "no one is going to be hooking up ai to launch nuclear weapons, but ai capabilities may enable targeting, or enable the command and control and the decision-making time to be compressed,” she said. 
+ the order will create an ai safety and security board tasked with addressing critical threats. companies developing foundation models that "pose a serious risk to national security, national economic security, or national public health and safety” will be required to notify the federal government when training the model and required to share the results of all red-team safety tests — a simulated cyberattack to test a system's defenses. 
+ since the launch of chatgpt in 2022, 
+ a cnbc report 
+ details a 1,267% rise in phishing emails. 
+ srijan kumar , assistant professor in the college of computing, attributes the increase to the technology's availability and an inability to rein in "bad actors." 
+ he says these scams will only continue to get more sophisticated and personalized. they “can be created by knowing what you might be willing to fall prey to versus what i might fall prey to,” said kumar, whose systems have influenced misinformation detection on sites like x (formerly twitter) and wikipedia. “ai is not going to autonomously do all of those bad things, but this order can ensure there are consequences for people who misuse it.” 
+ a delicate balance 
+ building an ai platform requires large amounts of data regardless of its intended application. two primary goals of the executive order are protecting privacy and advancing equity. 
+ to protect personal data, the order tasks congress with evaluating how agencies collect and use commercially available information and address algorithmic discrimination. 
+ acknowledging that everyone should be allowed to have their voice represented in the outputs of ai data sets, 
+ deven desai, 
+ associate professor in the scheller college of business, noted, "there are people who don't want to be part of data sets, which is their right, but this means their voices won't be reflected in the outputs.” 
+ the order also includes sections to address intellectual property concerns among inventors and creators, though legal challenges will likely set new precedents in the years ahead. 
+ when that time comes, kosal says that 
+ defining “theft” in the context of ai becomes the true challenge 
+ and that, ultimately, money will play a significant role. "if you spit out a harry potter book and read it yourself, nobody will care. it's when you start selling it to make money, and you don't share proceeds with the original people, then it becomes an issue," she said. 
+ what does ai-generated mean? 
+ the order instructs the department of commerce to develop guidelines for content authentication and watermarking to label ai-generated content. desai questions what it means for something to be truly created by ai. 
+ an important distinction lies between using ai to assist a writer in organizing their thoughts and using the technology to generate content. he likens the trend to the music industry in the 1980s. 
+ "synthesizers really changed people's ability to generate music and, for a while, people thought that was horrible. they can just program the music. they're not. i am still the human responsible for that music, or that article in this case, so what is the point of the label?" he asks. 
+ as ai assistance becomes commonplace in content creation, trusting the source of information is increasingly important. recently, articles published on sports illustrated's website 
+ featured ai-generated content 
+ provided by a third-party company that had used a machine to write the content and create fake bylines. sports illustrated, which may not have known of the problem, ran the material without disclosure to readers. ceo ross levinsohn was ousted shortly after the story broke. 
+ “perhaps if the third party had disclosed its use of ai software, si would have been able to assess how much ai was used and then chosen not to run the material, or to run it with a disclaimer that ai helped write the material,” desai said. "of course, even if they label the content as ai-generated, a reader still won't know exactly how much of the content came from ai or a human.” 
+ ai and the workforce 
+ as ai systems and models become more sophisticated, workers may become more concerned about being replaced. to counteract these concerns, the order calls for a study to examine ai’s potential impact on labor markets and investments in workforce training efforts. 
+ kumar compares the rise of ai to similar technological innovations throughout history and sees it as an opportunity for workers and industries to adapt. "it's less a matter of ai replacing workers and more of reskilling people to use the new technology. it's no different from when assembly lines in the auto industry were created." 
+ promoting innovation and competition 
+ the power to harness the full potential of ai has initiated a race to the top. desai believes that part of the executive order providing resources to smaller developers can help level the playing field. 
+ "there is a possibility here for markets to open up. current players using models that weren't built with transparency in mind might struggle, but maybe that's ok." 
+ the issue of reliability and transparency comes into focus for desai, especially as it relates to government usage of ai. the order calls on agencies to "acquire specified ai products and services faster, more cheaply, and more effectively through more rapid and efficient contracting." 
+ when taxpayer dollars are at stake, government can’t afford to trust a technology it doesn’t fully understand — a topic desai 
+ has explored elsewhere . "you can’t just say, ‘we don’t know how it works, but we trust it.’ that’s not going to work. so that’s where there may be a slowdown in the government’s ability to use private sector software if they can’t explain how the thing works and to show that it doesn’t have discriminatory issues.” 
+ what's next 
+ promoting and policing the safe use of ai cannot be done independently. georgia tech experts agree that participation on a global scale is necessary. to that end, the european union will unveil its comprehensive eu ai act, which includes a similar framework to the president's executive order. 
+ due to the evolving nature of ai, the executive order or the eu's actions will not be all-encompassing. law often lags behind technology, but kosal points out that it's crucial to think beyond what currently exists when crafting policy. 
+ experts also agree that ai cannot be regulated or governed through a single document and that this order is likely the first in a series of policymaking moves. kosal sees tremendous opportunity with the innovation surrounding ai but hopes the growing fear of its rise does not usher in another ai winter, in which interest and research funding fade. 
+ related links 
+ ai: am i...the future of artificial intelligence at georgia tech 
+ contact 
+ steven gagliano 
+ - institute communications 
+ email 
+ steven.gagliano@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,62 @@
+wwii code-breaking techniques inspire interpretation of brain data 
+ brain signals are as furtive as the wartime encryption system 'enigma,' but they can be similarly decrypted as new research shows. 
+ this diagram shows how brain activity theoretically recorded from a human could be decoded so that neural activity that causes hand movement is aligned with the actual bodily movement. the study was conducted on animal models. credit: northwestern university / university of pennsylvania / georgia tech 
+ dec 18, 2017 
+ — atlanta, ga 
+ cracking the german enigma code is considered to be one of the decisive factors that hastened allied victory in world war ii. now researchers have used similar techniques to crack some of the brain’s mysterious code. 
+ by statistically analyzing clues intercepted through espionage, computer science pioneers in the 1940s were able to work out the rules of the enigma code, turning a string of gibberish characters into plain language to expose german war communications. and today, a team that included 
+ computational neuroscientist eva dyer , who recently joined the georgia institute of technology, used cryptographic techniques inspired by enigma’s decrypting to predict, from brain data alone, which direction subjects will move their arms. 
+ the work by researchers from the university of pennsylvania, georgia tech, and northwestern university could eventually help decode the neural activity underpinning more complex muscle movements and become useful in prosthetics, or even speech, to aid patients with paralysis. 
+ during the war, the 
+ team that cracked enigma, led by alan turing , considered the forebear of modern computer science, analyzed the statistical prevalence of certain letters of the alphabet to understand how they were distributed in messages like points on a map. that allowed the code breakers to eventually decipher whole words reliably. 
+ in a similar manner, the neurological research team has now mapped the statistical distribution of more prevalent and less prevalent activities in populations of motor neurons to arrive at the specific hand movements driven by that neural activity. 
+ the research team was led by university of pennsylvania professor 
+ konrad kording , and 
+ eva dyer , formerly a postdoctoral researcher in kording’s lab and now an assistant professor at georgia tech. they collaborated with the group of lee miller, a professor at northwestern university. they published their 
+ study on december 12, 2017, in the journal 
+ nature biomedical engineering . 
+ neuron firing pattern 
+ in an experiment conducted in animal models, the researchers took data from more than one hundred neurons associated with arm movement. as the animals reached for a target that appeared at different locations around a central starting point, sensors recorded spikes of neural activity that corresponded with the movement of the subject’s arm. 
+ “just looking at the raw neural activity on a visual level tells you basically nothing about the movements it corresponds to, so you have to decode it to make the connection,” dyer said. “we did it by mapping neural patterns to actual arm movements using machine learning techniques inspired by 
+ cryptography .” 
+ the statistical prevalence of certain neurons’ firings paired up reliably and repeatedly with actual movements the way that, in the enigma project, the prevalence of certain code symbols paired up with the frequency of use of specific letters of the alphabet in written language. in the neurological experiment, an algorithm translated the statistical patterns into visual graphic patterns, and eventually, these aligned with the physical hand movements that they aimed to decode. 
+ “the algorithm tries every possible decoder until we get something where the output looks like typical movements,” kording said. “there are issues scaling this up — it’s a hard computer science problem — but this is a proof-of-concept that 
+ cryptanalysis 
+ can work in the context of neural activity. 
+ “at this point, the cryptanalysis approach is very new and needs refining, but fundamentally, it’s a good match for this kind of brain decoding,” dyer said. 
+ brain decoding does face a fundamental challenge that code-breaking doesn't. 
+ in cryptography, code-breakers have both the encrypted and unencrypted messages, so all they need to do is to figure out which rules turn one into the other. "what we wanted to do in this experiment was to be able to decode the brain from the encrypted message alone,” kording said. 
+ hear podcast: the brain, cosmos in the cranium, part ii -- neurons' secrets and how they make the brain 
+ compute 
+ brain-computer interfaces 
+ a 
+ cryptanalysis 
+ approach to decoding neural activity is particularly attractive when it comes to brain-computer interfaces that control prosthetics. 
+ existing brain-computer interfaces can already use such data to move a robotic prosthesis, but kording and dyer’s experiment has achieved a significant innovation. existing technology uses a process known as 
+ supervised learning , in which the interface can be trained to recognize which neural firings correspond to which intended physical movements, and can thus “replay” those movements when the subject's motor neurons produce a pattern the device has been trained to recognize. 
+ the new research could do away with the training period required for existing 
+ brain-computer interfaces  to function and allow robotic limbs to directly interpret their user’s thoughts without even having to be calibrated. it would represent a significant quality-of-life improvement for patients wearing them. 
+ “supervised training may sound simple, but actually, it can be long and troublesome, and in the end, it can even fail,” dyer said. “for example, if the patient’s arm is not paralyzed but instead is missing, it’s really hard for the training to work.” 
+ the researchers’ innovation could mean the difference between a patient straining to mentally picture how the arm should move with possibly cumbersome results, and willfully moving the arm in a virtually natural way. 
+ doorway to mindreading 
+ this cryptanalysis approach also offers promise for brain-computer interfaces to achieve literal mind-reading, the way decoding enigma allowed for reading encrypted texts. 
+ a patient repeatedly thinking the same sentences would generate neural patterns. “we could build a decoder that transforms those patterns until they look like language,” kording said. “i think we should be able to do this within the next decade.” 
+ a consistent improvement in 
+ brain recording technology 
+ could help put this goal within reach. this could become useful for patients unable to speak but could also possibly be abused in espionage, kording warned. but there's still time to work out the direction future applications take on. 
+ an evolutionary stroke of luck has made this cryptanalysis approach possible. “the brain ended up with this encryption system through natural selection,” kording said. “so, it’s essentially making the same kind of ‘mistakes’ that allowed us to crack enigma in the first place.” 
+ modern encryption systems are so refined they’re impossible to crack. enigma, on the other hand, was new enough during world war ii that it had small imperfections that gave decrypters a pathway into its secrets, making its cracking a fitting inspiration for brain decoding. 
+ podcast: the brain, cosmos in the cranium, part i - when the brain's fate hangs by a few molecules 
+ podcast: the brain, part iii - how we get around, how we focus, and how we zone out 
+ researchers mohammad gheshlaghi azar, hugo l fernandes, matthew 
+ peich, stephanie naufel and lee miller of northwestern university coauthored the study. the work was supported by the national institute of neurological disorders and stroke through grants r01 ns053603 and r01 ns074044. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsor. 
+ additional images 
+ contact 
+ writers and media representatives : evan lerner (upenn) and ben brumfield (georgia tech) 
+ mobile: evan - ( 908) 370-7621 , ben -  (404-660-1408) 
+ evan email: elerner@seas.upenn.edu 
+ email 
+ ben.brumfield@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

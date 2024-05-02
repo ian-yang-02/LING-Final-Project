@@ -1,0 +1,48 @@
+soft semiconductors that stretch like human skin can detect ultra-low light levels 
+ georgia tech researchers have created a semiconductor material that acts like a second skin layer and is up to 200% more stretchable than its original dimension without significantly losing its electric current. 
+ three engineering labs at georgia tech collaborated to demonstrate a new level of stretchability of a photodetector. pictured above is first author youngrak park (right) with the lab leads (l to r) bernard kippelen,  samuel graham, and olivier pierron. (photo credit: ben wright, georgia tech) 
+ dec 15, 2021 
+ — atlanta, ga 
+ semiconductors are moving away from rigid substrates, which are cut or formed into thin discs or wafers, to more flexible plastic material and even paper thanks to new material and fabrication discoveries. the trend toward more flexible substrates has led to fabrication of numerous devices, from light-emitting diodes to solar cells and transistors. 
+ georgia tech researchers have created a material that acts like a second skin layer and is up to 200% more stretchable than its original dimension without significantly losing its electric current. the researchers say the soft flexible photodetectors could enhance the utility of medical wearable sensors and implantable devices, among other applications. the research will be published on dec. 15 in the journal 
+ science advances . 
+ georgia tech researchers from both mechanical and computing engineering labs collaborated over three years to demonstrate a new level of stretchability for a photodetector, a device made from a synthetic polymer and an elastomer that absorbs light to produce an electrical current. 
+ photodetectors today are used as wearables for health monitoring, such as rigid fingertip pulse oximeter reading devices. they convert light signals into electrical ones and are commonly used on wearable electronics. 
+ stretchable like a rubber band 
+ given that conventional flexible semiconductors break under a few percentages of strain, the georgia tech findings are “an order-of-magnitude improvement,” said olivier pierron, professor in the 
+ george w. woodruff school of mechanical engineering , whose lab measures the mechanical properties and reliability of flexible electronics under extreme conditions. 
+ “think of a rubber band or something that's soft and stretchable like human skin yet has similar electrical semiconducting properties of solid or rigid semiconductors,” said canek fuentes-hernandez, a co-pi formerly in the 
+ school of electrical and computer engineering (ece) 
+ and now an associate professor in electrical and computer engineering at northeastern university in boston. “we’ve shown that you can build stretchability into semiconductors that retains the electrical performance needed to detect light levels that are around hundred million times fainter than produced by a light bulb used for indoor illumination,” he said. 
+ extraordinary tenacity and teamwork 
+ bernard kippelen, vice provost for international initiatives and an ece professor, oversaw the work of youngrak park, the study’s first author and a ph.d. candidate in ece.  following two-and-a-half years of research, park uncovered the right combination of chemical compounds that produced a super-soft material with the ability to generate and conduct electricity when exposed to light. 
+ park found the perfect ratio for all parts of the semiconductor layer to maintain high performance in the photodetector. but it was painstaking work to prove the materials’ stretchability, especially given that a single layer was 1,000 times thinner than a human hair. 
+ park relied on kyungjin kim, then a georgia tech ph.d. mechanical engineering student, to test the material’s reliability. he continued to provide kim with larger, thicker samples until one with a thickness of 500 nanometers worked. 
+ “it was still super thin. under dry conditions, it would just crumble. we had to use a water reservoir to keep its shape,” recalled kim, now an assistant professor in the university of connecticut’s department of mechanical engineering. 
+ elaborating on how difficult it was to measure pure mechanical properties of a photoactive layer, pierron noted, “electronic devices are very brittle typically, which is okay with conventional devices fabricated on rigid substrates. but as soon as you use soft substrates that becomes an issue.” 
+ the water acted like plastic wrap keeping the thin films in place without crumbling or losing shape, enabling the researchers to stretch the material and measure its mechanical properties. 
+ to test for electrical signals coming out of the device under illumination, electronic terminals had to be embedded on it. yet, those terminals had to be deformable, too, or the entire device would become rigid. 
+ “fabricating stretchable electronic terminals was a major challenge in and of itself,” said ece phd graduate felipe andres larrain, who worked closely with park and focused on the embedded components.  he is now an assistant professor at adolfo ibáñez university in chile. 
+ while this breakthrough material has been initially integrated into a photodetector and tested for electrical functionality, more testing and optimization is needed to show the materials’ stretchability  under multimodal loads and its shelf stability. 
+ “what's exciting is what these materials and the devices will enable us to develop―namely, the concept of intelligence systems. you have functional surfaces that combine sensors that monitor all kinds of physical properties,” said graham, former chair of the woodruff school of mechanical engineering and now dean of engineering at the university of maryland. 
+ “this is a very good example of interdisciplinary research — none of this work would have been possible without the collaboration between electrical and mechanical engineers,” kippelen said. “in the lab we didn’t have any prior experience with stretchable materials. figuring out how to measure this took a lot of perseverance, creativity and hard work.” 
+ new smart applications possible 
+ the researchers are most excited about the potential of the material to enhance medical wearables. typically, wristwatches that use rigid biosensors have limitations since flexing the wrist can completely change the sensor’s measurements. they are subject to “motion artifact,” or degraded image quality, caused when a person moves. 
+ “moving around can drastically affect the usability of collected data but being able to reposition devices on the body to minimize or eliminate motion artifact is a big deal,” noted gabriel cahn, a project manager for huxley medical, a biosensor startup in atlanta, who recently graduated from georgia tech with a doctorate in flexible electronics.  “having electronics that can flex, twist, bend and conform to non-flat surfaces and move with your body will allow you to place these sensors in more advantageous places to collect biometric data. it will be infinitely more useful in helping diagnose or monitor existing medical illnesses.” 
+ the research team foresees rich applications for the soft and stretchable polymer blend beyond wearables for health monitoring. “the soft device also could be attractive for implantable electronics for bio-electronic applications since the interfaces comply with the dynamic motion of the soft biological tissues, reducing the foreign body reaction,” said kim. 
+ “the potential is fantastic,” added larrain. “in the long-term, you could develop sensors that could enhance or even replace the human eye or be applied to robotic eyes.” 
+ fuentes sees the material working in smart agriculture applications, where farmers could attach light sensors into fruits or other produce to monitor growth, disease and to better time harvesting. 
+ kippelen believes the rubber-like photodiodes that detect ultralow light levels could find applications in detecting, identifying, and characterizing ionizing radiation for nuclear fuel cycle monitoring. 
+ citation: 
+ y. park, et. all, “skin-like low-noise elastomeric organic photodiodes.” (science advances, 2021) 
+ https: / / doi.org / 10.1126 / sciadv.abj6565 
+ *** 
+ the georgia institute of technology, or georgia tech, is a top 10 public research university developing leaders who advance technology and improve the human condition. the institute offers business, computing, design, engineering, liberal arts, and sciences degrees. its nearly 44,000 students representing 50 states and 149 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ additional images 
+ contact 
+ anne wainscott-sargent (404-435-5784) 
+ email 
+ asargent7@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

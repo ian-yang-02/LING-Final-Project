@@ -1,0 +1,45 @@
+ultra-low power chips help make small robots more capable 
+ an ultra-low power hybrid chip inspired by the brain could help give palm-sized robots the ability to collaborate and learn from their experiences. 
+ a robotic car controlled by an ultra-low power hybrid chip is shown in an arena to demonstrate its ability to learn and collaborate with another robot. (photo: allison carter, georgia tech) 
+ mar 05, 2019 
+ — atlanta, ga 
+ an ultra-low power hybrid chip inspired by the brain could help give palm-sized robots the ability to collaborate and learn from their experiences. combined with new generations of low-power motors and sensors, the new application-specific integrated circuit (asic) – which operates on milliwatts of power – could help intelligent swarm robots operate for hours instead of minutes. 
+ to conserve power, the chips use a hybrid digital-analog time-domain processor in which the pulse-width of signals encodes information. the neural network ic accommodates both model-based programming and collaborative reinforcement learning, potentially providing the small robots larger capabilities for reconnaissance, search-and-rescue and other missions. 
+ researchers from the georgia institute of technology demonstrated robotic cars driven by the unique asics at the 2019 ieee international solid-state circuits conference (isscc). the research was sponsored by the defense advanced research projects agency (darpa) and the semiconductor research corporation (src) through the center for brain-inspired computing enabling autonomous intelligence (cbric). 
+ “we are trying to bring intelligence to these very small robots so they can learn about their environment and move around autonomously, without infrastructure,” said 
+ arijit raychowdhury , associate professor in georgia tech’s 
+ school of electrical and computer engineering . “to accomplish that, we want to bring low-power circuit concepts to these very small devices so they can make decisions on their own. there is a huge demand for very small, but capable robots that do not require infrastructure.” 
+ the cars demonstrated by raychowdhury and graduate students ningyuan cao, muya chang and anupam golder navigate through an arena floored by rubber pads and surrounded by cardboard block walls. as they search for a target, the robots must avoid traffic cones and each other, learning from the environment as they go and continuously communicating with each other. 
+ the cars use inertial and ultrasound sensors to determine their location and detect objects around them. information from the sensors goes to the hybrid asic, which serves as the “brain” of the vehicles. instructions then go to a raspberry pi controller, which sends instructions to the electric motors. 
+ in palm-sized robots, three major systems consume power: the motors and controllers used to drive and steer the wheels, the processor, and the sensing system. in the cars built by raychowdhury’s team, the low-power asic means that the motors consume the bulk of the power. “we have been able to push the compute power down to a level where the budget is dominated by the needs of the motors,” he said. 
+ the team is working with collaborators on motors that use micro-electromechanical (mems) technology able to operate with much less power than conventional motors. 
+ “we would want to build a system in which sensing power, communications and computer power, and actuation are at about the same level, on the order of hundreds of milliwatts,” said raychowdhury, who is the on semiconductor associate professor in the school of electrical and computer engineering. “if we can build these palm-sized robots with efficient motors and controllers, we should be able to provide runtimes of several hours on a couple of aa batteries. we now have a good idea what kind of computing platforms we need to deliver this, but we still need the other components to catch up.” 
+ in time domain computing, information is carried on two different voltages, encoded in the width of the pulses. that gives the circuits the energy-efficiency advantages of analog circuits with the robustness of digital devices. 
+ “the size of the chip is reduced by half, and the power consumption is one-third what a traditional digital chip would need,” said raychowdhury. “we used several techniques in both logic and memory designs for reducing power consumption to the milliwatt range while meeting target performance.” 
+ with each pulse-width representing a different value, the system is slower than digital or analog devices, but raychowdhury says the speed is sufficient for the small robots. (a milliwatt is a thousandth of a watt). 
+ “for these control systems, we don’t need circuits that operate at multiple gigahertz because the devices aren’t moving that quickly,” he said. “we are sacrificing a little performance to get extreme power efficiencies. even if the compute operates at 10 or 100 megahertz, that will be enough for our target applications.” 
+ the 65-nanometer cmos chips accommodate both kinds of learning appropriate for a robot. the system can be programmed to follow model-based algorithms, and it can learn from its environment using a reinforcement system that encourages better and better performance over time – much like a child who learns to walk by bumping into things. 
+ “you start the system out with a predetermined set of weights in the neural network so the robot can start from a good place and not crash immediately or give erroneous information,” raychowdhury said. “when you deploy it in a new location, the environment will have some structures that it will recognize and some that the system will have to learn. the system will then make decisions on its own, and it will gauge the effectiveness of each decision to optimize its motion.” 
+ communication between the robots allow them to collaborate to seek a target. 
+ “in a collaborative environment, the robot not only needs to understand what it is doing, but also what others in the same group are doing,” he said. “they will be working to maximize the total reward of the group as opposed to the reward of the individual.” 
+ with their isscc demonstration providing a proof-of-concept, the team is continuing to optimize designs and is working on a system-on-chip to integrate the computation and control circuitry. 
+ “we want to enable more and more functionality in these small robots,” raychowdhury added. “we have shown what is possible, and what we have done will now need to be augmented by other innovations.” 
+ this project was supported by the semiconductor research corporation under grant jump cbric task id 2777.006. 
+ citation : ningyuan cao, muya chang, arijit raychowdhury, “a 65 nm 1.1-to-9.1 tops / w hybrid-digital-mixed-signal computing platform for accelerating model-based and model free swarm robotics.” (2019 ieee international solid-state circuits conference). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ want to stay informed about the latest georgia tech research? subscribe to our free monthly e-newsletter at   www.rh.gatech.edu / subscribe 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

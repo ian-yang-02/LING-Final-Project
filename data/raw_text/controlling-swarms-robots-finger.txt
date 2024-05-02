@@ -1,0 +1,20 @@
+Controlling swarms of robots with a finger
+System allows human to control robots with finger and beams of light.
+A person taps the tablet to control where the beam of light appears on a floor. The swarm robots then roll toward the illumination, constantly communicating with each other and deciding how to evenly cover the lit area.
+May 12, 2015
+— Atlanta, GA
+Using a smart tablet and a red beam of light, Georgia Institute of Technology researchers have created a system that allows people to control a fleet of robots with the swipe of a finger. A person taps the tablet to control where the beam of light appears on a floor. The swarm robots then roll toward the illumination, constantly communicating with each other and deciding how to evenly cover the lit area. When the person swipes the tablet to drag the light across the floor, the robots follow. If the operator puts two fingers in different locations on the tablet, the machines will split into teams and repeat the process. The new Georgia Tech algorithm that fuels this system demonstrates the potential of easily controlling large teams of robots, which is relevant in manufacturing, agriculture and disaster areas. “It’s not possible for a person to control a thousand or a million robots by individually programming each one where to go,” said Magnus Egerstedt, Schlumberger Professor in Georgia Tech’s School of Electrical and Computer Engineering. “Instead, the operator controls an area that needs to be explored. Then the robots work together to determine the best ways to accomplish the job.” Egerstedt envisions a scenario in which an operator sends a large fleet of machines into a specific area of a tsunami-ravaged region. The robots could search for survivors, dividing themselves into equal sections. If some machines were suddenly needed in a new area, a single person could quickly redeploy them.  The Georgia Tech model is different from many other robotic coverage algorithms because it’s not static. It’s flexible enough to allow robots to “change their minds” effectively, rather than just performing the single job they’re programmed to do. “The field of swarm robotics gets difficult when you expect teams of robots to be as dynamic and adaptive as humans,” Egerstedt explained. “People can quickly adapt to changing circumstances, make new decisions and act. Robots typically can’t. It’s hard for them to talk and form plans when everything is changing around them.” In the Georgia Tech demonstration, each robot is constantly measuring how much light is in its local “neighborhood.” It’s also chatting with its neighbor. When there’s too much light in its area, the robot moves away so that another can steal some of its light. “The robots are working together to make sure that each one has the same amount of light in its own area,” said Egerstedt. The tablet-based control system has one final benefit: it was designed with everyone in mind. Anyone can control the robots, even if they don’t have a background in robotics. “In the future, farmers could send machines into their fields to inspect the crops,” said Georgia Tech Ph.D. candidate Yancy Diaz-Mercado. “Workers on manufacturing floors could direct robots to one side of the warehouse to collect items, then quickly direct them to another area if the need changes.” A paper about the control system, “Multi-Robot Control Using Time-Varying Density Functions,” was
+recently published
+in the IEEE Transactions on Robotics (T-RO). This material is based upon work supported by the Air Force Office of Scientific Research under Award No. FA9550-13-1-0029. Any opinions, findings and conclusions or recommendations expressed in this publication are those of the authors and do not necessarily reflect the views of the AFOSR.
+Additional Images
+Related links
+Read the study
+See a video demo
+GRITS Lab
+Contact
+Jason Maderer National Media Relations maderer@gatech.edu 404-385-2966
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

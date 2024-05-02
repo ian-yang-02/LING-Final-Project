@@ -1,0 +1,71 @@
+Reinvented Toilets Could Provide Safe Sanitation for 2.5 Billion People
+Georgia Tech researchers are leading a $13.5 million effort, funded by the Bill & Melinda Gates Foundation, to reinvent the toilet.
+A $13.5 million award from the Bill &amp; Melinda Gates Foundation will improve sanitation to 2.5 billion people worldwide by reinventing the toilet, technology that hasn’t changed much in more than a century. (Photo: Rob Felt, Georgia Tech)
+Jul 29, 2019
+— Atlanta, GA
+There’s a shiny black espresso machine prominently displayed in
+Shannon Yee’s
+office in Georgia Tech’s
+George W. Woodruff School of Mechanical Engineering .
+While Yee is indeed a coffee drinker, there is a more important reason for the machine’s presence: Its compact and efficient design may hold the key to meeting the needs of the approximately 2.5 billion people worldwide who now lack improved sanitation. An associate professor specializing in energy technologies, Yee is leading a $13.5 million effort funded by the Bill & Melinda Gates Foundation to reinvent the toilet — technology that hasn’t changed much in more than a century.
+High pressure, heat, and control of liquids are essential to making a good cup of espresso. They are also critical for a 21st-century toilet able to reduce human waste to clean water and benign solids, operating with no plumbing or sewerage connections – and an amount of electricity that could potentially be provided by a single solar panel.
+Shifting Away from Treatment Plants
+Existing toilets still rely on a key innovation patented in 1775: the S-trap, which holds water in the toilet bowl to prevent sewer gases from entering buildings containing flush toilets. It’s not that the system doesn’t work well, but the world’s poorest cannot afford the sewage treatment infrastructure necessitated by existing toilets.
+“The Reinvent The Toilet Challenge (RTTC) wanted to create a momentous global shift away from sewerage systems,” said Yee. “It can no longer be about running pipes to a central treatment plant.”
+Centralizing the Engineering Efforts
+Research to reinvent the toilet was launched by the Gates Foundation eight years ago and those efforts have made significant progress toward this goal. But gaps remain, and the broader team will have 42 months to bridge those gaps to produce a minimum of six reinvented toilet prototypes ready for a commercial manufacturer.
+The new initiative is nicknamed Generation 2 Reinvented Toilet (G2RT). It will build on the exceptional innovations developed during the original RTTC program. The goal will now be to bring the dispersed efforts together to focus on demonstrating prototypes of a single user reinvented toilet (SURT) that the world’s poorest regions can afford.
+“We will have to hit a certain reduction in pathogenic markers like E. coli bacteria, and we will also have to control, treat, and handle the nitrates and phosphates associated with waste,” Yee explained. “It’s a pretty aggressive goal and those metrics will be hard to hit at a cost point of $450. And each SURT will have to operate for less than 15 cents per day.”
+The G2RT project has formed three engineering teams, two of them headed by researchers from the
+Georgia Tech Research Institute
+(GTRI) – Georgia Tech’s applied research group – and one from Helbling Technik, the Swiss engineering company that designed Yee’s espresso machine. The GTRI teams will be led by Principal Research Scientist Kevin Caravati and Senior Research Scientist Ilan Stern, both of whom have been involved in creating new products. The Helbling team is being led by Christian Seiler, who holds the title of Head Of Development Process Technologies at the company.
+The engineering teams are joined by researchers from other institutions, including:
+Cranfield University, led by Professors Ewan McAdam and Leon Williams
+Duke University, led by Professor Brian Stoner and Research Scientist Brian Hawkins
+University of Kwazulu Natal in South Africa, led by Professor Chris Buckley
+University of Applied Sciences in Northwestern Switzerland (FHNW), led by Professor Frederic Vogel
+Scion, a New Zealand company, led by Environmental Engineer Daniel Gapes
+At Georgia Tech, GTRI Research Engineer Paula Gómez and microbiologist Stephanie Richter, along with Ph.D. students Bettina Thomas and Amanda Lai and undergraduate student Magdalena Ravello, will develop concepts for features that will serve women, children, seniors, and those with special needs.
+The research teams will be reviewing all that has been developed so far and asking existing researchers to discuss concepts that may have been discarded along the way. Centralizing the engineering should help accelerate progress toward the G2RT finish line.
+“We want to take the best concepts that have been developed and try to integrate them,” Yee said. “We will look at the problem holistically and try to deliver a series of prototypes tailored for various culturally acceptable use cases.”
+Controlling Cost, Creating Value
+Cost targets will require some engineering compromises, of course. Instead of using mechanical solenoids common in the developed world, for instance, the SURT will use simpler technology – perhaps a camshaft to control actuation. In addition to being inexpensive and easy to deploy, the SURT will have to be simple to maintain and repair.
+For homeowners around the world, having an indoor toilet provides perceived value well beyond the cost. “How much are you willing to pay to have a toilet in your house versus the alternative? Once they have clean water and electricity, people start looking at sanitation,” Yee observed.
+That perceived value provides the basis for what could be a very large market. And that doesn’t include the value of preventing disease, improving dignity, and offering better safety.
+Initially, the new toilets will likely be purchased and installed by non-governmental organizations and governments to demonstrate the potential. Then it will be up to homeowners and others to see the value and make the investment.
+There are multiple engineering alternatives for what can happen to human waste inside the reinvented toilet. Suffice to say that heat and pressure will be required, and that the result will be water and a dry, odor-free sanitized solid that can be placed into municipal landfills, buried or even burned.
+The Laws of Thermodynamics
+Yee’s interest in the project stems from the thermodynamic issues involved. At Georgia Tech, he has pursued new methods of converting heat into useful energy and developing new cooling technologies. Success of the toilet project will depend on working within the limits of the first and second laws of thermodynamics – using the energy in solid waste, supplemented by a minimal amount of electricity, in the most efficient manner.
+“This is very much a thermodynamics and heat transfer problem,” said Yee. “It comes down to the flow of energy and how we can heat things locally to accomplish what we need with the toilet. I would say we are working at the intersection of thermodynamics, heat transfer, and chemistry.”
+The strategy will require keeping solids separate from liquids, a practice that conventional sanitation systems abandoned long ago. Existing sewerage systems combine solids and liquids for transport to central treatment plants, where they must be separated – consuming large amounts of both water and energy in plants that are costly to build and operate.
+“A lot of our systems today are based on having large volumes of water to transport the dilute waste streams,” Yee said. “But when you treat human waste, it’s a lot easier to treat a high solid concentration and a high liquid concentration separately.”
+Originally, the reinvented toilets were supposed to work without electricity. “However, in the last decade, we have seen a dramatic decline in the cost of distributed energy from solar and other sources,” Yee said. “When you look at how rural electrification efforts are going, this electricity input seems reasonable.”
+Recruiting Existing Manufacturers
+The project will recruit and work with existing manufacturers – companies that can afford to invest $100 million in developing the product for manufacturing – to take over once prototypes have been built. The actual products will depend on cultural norms for each market, but will use common processing technologies.
+“It’s potentially a very large market, but the entry point will be difficult,” Yee admits. “We want to work with large companies that are aligned with the Gates Foundation’s goals of global access and societal good, and help these companies access the $10 billion-per-year market with our technologies.”
+But fielding reinvented toilets is only part of the battle. They will have to be maintained to keep them working. While that may seem like a major challenge in parts of the world without home repair centers nearby, it could actually provide a new source of employment, Yee noted.
+“Some maintenance is required, but that’s not necessarily a bad thing,” he explained. “You can imagine having a service technician who visits periodically to change a filter.”
+Opportunities in a Grand Challenge
+While entrepreneurship still attracts students to universities, Yee is seeing a shift toward the excitement of tackling grand challenges like this one. “The climate is changing at universities and students seem to be focused on the big problems of the world,” he said. “We are getting into this at just the right time.”
+While the main technological challenges for G2RT may require professional engineering to reduce risk for manufacturing, components of the challenge will also be open to student design projects. For instance, integrating odor control technologies and potentially including health monitoring may be projects for students to take on.
+“It is quite an honor that the Gates Foundation believes we can tackle this grand challenge,” Yee said. “We are very fortunate to have the infrastructure and past investments that will allow us to do this.”
+Lessons for the Developed World
+While the Gates Foundation and the G2RT effort are focused on parts of the globe without improved sanitation, the reinvented toilets may ultimately find applications in large cities like Atlanta, Seattle, San Francisco, or Washington where sewerage systems may be in need of replacement.
+“It is going to be far too costly to replace all of that infrastructure at the end of its lifetime,” Yee said. “Cities in the developed world may ultimately want to move in this direction, too.”
+This publication is based on research funded by the Bill & Melinda Gates Foundation. The findings and conclusions contained within are those of the authors and do not necessarily reflect positions or policies of the Bill & Melinda Gates Foundation.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

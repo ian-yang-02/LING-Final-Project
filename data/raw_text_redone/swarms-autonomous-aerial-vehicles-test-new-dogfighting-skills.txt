@@ -1,0 +1,40 @@
+swarms of autonomous aerial vehicles test new dogfighting skills 
+ researchers recently pitted two swarms of autonomous aircraft against one another. 
+ a single zephyr aircraft is launched at camp roberts in monterey county, california during a demonstration by the georgia tech research institute and the naval postgraduate school. (u.s. navy photo by javier chagoya) 
+ apr 21, 2017 
+ — atlanta, ga 
+ aerial dogfighting began more than a century ago in the skies over europe with propeller-driven fighter aircraft carried aloft on wings of fabric and wood. an event held recently in southern california could mark the beginning of a new chapter in this form of aerial combat. 
+ in what may have been the first aerial encounter of its kind, researchers from the 
+ georgia tech research institute 
+ and naval postgraduate school recently pitted two swarms of autonomous aircraft against one another over a military test facility. while the friendly encounter may not have qualified as an old-fashioned dogfight, it provided the first example of a live engagement between two swarms of unmanned air vehicles (uavs), and allowed the two teams to demonstrate different combat tactics in flight. 
+ “the ability to engage a swarm of threat uavs with another autonomous swarm is an area of critical research for defense applications,” said don davis, division chief of the robotics and autonomous systems branch of the georgia tech research institute. “this experiment demonstrated the advances made in collaborative autonomy and the ability of a team of unmanned vehicles to execute complex missions. this encounter will serve to advance and inform future efforts in developing autonomous vehicle capabilities.” 
+ each team launched ten small propeller-driven zephyr aircraft, though two of the aircraft experienced technical issues at launch and were unable to compete, resulting in a 10 versus 8 competition. although the uavs were physically identical, their computers used different autonomy logic, collaboration approaches, and communications software developed by the two institutions. gps tracking allowed each aircraft to know the location of the others for this demonstration. in the future, this information will be provided by on-board cameras, radars, and other sensors and payloads. 
+ each aircraft used a single-board mission computer, and for this demonstration, an open-source autopilot maintained flight control. the aircraft also had wi-fi systems that allowed them to communicate with other aircraft and with a ground station. 
+ “both teams were trying to solve the same problem of flying a large swarm in a meaningful mission, and we came up with solutions that were similar in some ways and different in others,” said charles pippin, a senior research scientist at the georgia tech research institute. “by comparing how well each approach worked in the air, we were able to compare strategies and tactics on platforms capable of the same flight dynamics.” 
+ the foam-wing aircraft couldn’t actually shoot at one another, so a ground computer determined when an aircraft would have been in a position to attack another aircraft. the swarm teams flew three different sorties to compare different algorithms. the event took place february 9, 2017 at camp roberts, a california national guard facility in monterey county, calif. 
+ the two institutions have been working together since 2015 on issues involving collaborative autonomy – the ability of autonomous vehicles to work together to accomplish a given task. the georgia tech researchers have been using aircraft known as skywalkers that are similar to the zephyrs used by the naval postgraduate school. 
+ “this was a very successful test,” said davis. “it gave us, as far as i know, the first actual experimentation of flying two autonomous swarms of uavs against one another with no human control, other than sending high level commands or sending a message to engage. we were really trying to understand how different autonomy tactics work against other autonomy tactics.” 
+ for each uav, the autonomy algorithms were fully in control of the aircraft, but a safety pilot stood by to take control of any aircraft if necessary.  the autopilots also had built in safety constraints, such as airspace boundaries and ranges. 
+ such aerial demonstrations are the third step in the process that the georgia tech team uses to test its autonomy systems, pippin said. as a first step, tactics are rapidly tested on a simulator that runs 30 times faster than real time. next, promising approaches are tested on a full software stack that includes a high-resolution simulation. 
+ “we run hardware-in-the-loop simulations where we have the actual algorithms running on the hardware we fly,” said pippin. “the full software stack includes the autonomy logic, communications systems, collaboration algorithms and other software that is then inserted directly into the actual aircraft. in the third step, the tactics are flown on the aircraft on test ranges. in this case, we used the zephrys and flew the swarms at camp roberts.” 
+ the georgia tech researchers are using machine learning to help their autonomy system optimize performance and recognize under which circumstances a particular tactic may be advantageous. 
+ “right now, we’re more interested in the research questions about autonomous coordination among the vehicles and the tactical behavior of the groups of vehicles,” pippin explained. “we are focusing our efforts on how these vehicles cooperate and want to understand what it means for them to operate as a team.” 
+ dogfighting tactics have advanced dramatically since the world war i, but the advent of uav swarms may bring a brand new set of challenges. unmanned vehicles have freedom to dive, bank, and climb at rates human pilots cannot tolerate. but the real advantage may be in computing power that could track dozens of adversaries – far more than any human pilot could do – and develop new ways to address challenges. 
+ “autonomous techniques using machine learning may identify new tactics that a human would never think of,” added davis. “humans tend to base their techniques on tactics that manned fighters have used in the past. these autonomous aircraft may invoke new strategies.” 
+ in addition those already named, the georgia tech research institute team that supported the swarm demonstration included michael day, kevin demarco, david jensen, rick presley, and evan hammac. others supporting the project included michael matthews, eric squires, rob bever, ethan trewhitt, and students laura strickland, avery leonard, natalie rakoski, and jeremy feltracco. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

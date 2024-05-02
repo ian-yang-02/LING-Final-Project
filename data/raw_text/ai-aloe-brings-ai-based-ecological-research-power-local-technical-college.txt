@@ -1,0 +1,30 @@
+AI-ALOE Brings AI-based Ecological Research Power To Local Technical College
+The AI-ALOE Institute offers the Georgia Tech led web application VERA to local technical college.
+Oct 25, 2022
+During the summer, Duncan Hughes, an Environmental Technology instructor at North Georgia Technical College (NGTC) introduced his students to the web application Virtual Ecological Research Assistant, better known as VERA. It allowed students to construct conceptual models and ecological systems, as well as run interactive model simulations on the brook trout, a species of freshwater fish.
+Hughes and his students sought to answer questions about reproduction and food supply, as they worked to add new complexities to the VERA application from different species of trout, circumstances, to changes. According to the Encyclopedia of Life (EOL), an international effort, led by the Smithsonian Institution's National Museum of Natural History, brook trout are found in three types of aquatic environments: rivers, lakes, and marine areas and their living requirements in these environments.
+“Originally when we populated the brook trout, we noticed the brown trout shared the same life history and ecological information, but we were able to find enough information from the Encyclopedia of Life to differentiate those species,” said Hughes. “I had my students run through the process of building these components through an instructional-based format by having them manipulate some of the parameters and probabilities.”
+VERA was developed by the Design & Intelligence Lab at Georgia Tech in collaboration with EOL. The technology is being used by students as an assisting tool and is publicly accessible. The data being collected from their usage is part of the research conducted at the NSF AI Institute for Adult Learning and Online Education (AI-ALOE).
+“Users can jump into our program and conduct ‘what if’ experiments by adjusting simulation parameters. This is our way of providing an accessible and informal learning tool,” said Ashok Goel, director and co-principal Investigator of AI-ALOE and computer science professor at Georgia Tech. “Using VERA as an assessment tool is excellent. These students are using VERA in a way we are not.”
+Goel was recently joined by Georgia Tech graduate researcher Andrew Hornback, research scientist Sandeep Kakar, and staff member Daniela Estrada at NGTC to learn more about the work in VERA and challenges Hughes and his students faced while using the application.
+“The main struggle is limitation with the EOL and database,” said Hughes. “There are some species that we just can’t find, and sometimes it is glitchy and doesn’t work right away, but it is not insurmountable.”
+Another challenge Hughes’ students found was not being able to find what they wanted to complete certain tasks, such as stream and environmental patterns of comparative fish ecosystems.
+With that being known, AI-ALOE is working to address these issues and more to build and cater to specific student and teacher needs. At this time, the Design & Intelligence Laboratory is in the process of expanding VERA in the capability of its on-demand agent-based simulation generator, which would enable users to divide components into separate habitats.
+“It was very interesting to see the results because antidotally through much research we were able to set up all these relationships and let them run the model, and the results were exactly what we would have hypothesized what they would be given those perimeters,” said Hughes.
+The technical college has plans to introduce VERA to another classroom this semester held by Natural Resource Management instructor, Kevin Peyton.
+About VERA
+Interested in trying out VERA? Create an account at  https://vera.cc.gatech.edu/ . You can also find VERA’s user guide as well as a step-by-step tutorial at  http://epi.vera.cc.gatech.edu/docs/exercise .
+About AI-ALOE
+The NSF AI Institute for Adult Learning and Online Education (AI-ALOE) is developing an AI-based transformative model for online adult learning through research and data collection.
+About NGTC
+North Georgia Technical College is a residential, public, multi-campus institution of higher education serving the workforce development needs of Northeast Georgia and part of the Technical College System of Georgia.
+Additional Media
+Contact
+Breon Martin
+AI Communications Officer
+breon.martin@gatech.edu
+Email
+breon.martin@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

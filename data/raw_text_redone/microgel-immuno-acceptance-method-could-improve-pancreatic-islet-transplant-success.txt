@@ -1,0 +1,43 @@
+microgel immuno-acceptance method could improve pancreatic islet transplant success 
+ researchers developed a new microgel drug delivery method that could extend the effectiveness of pancreatic islet transplantations. 
+ transplanted pancreatic islet cells in which insulin is shown in red, the cell nucleus in blue, and the blood vessels in aqua.  (credit: maria coronel, georgia tech) 
+ aug 28, 2020 
+ — atlanta, ga 
+ pancreatic islet transplants, which revive insulin production to treat type 1 diabetes, only last an average of three years. 
+ by learning from a groundbreaking cancer treatment strategy based on a recent nobel prize-winning discovery, researchers at the georgia institute of technology and university of missouri developed a new microgel drug delivery method that could extend the effectiveness of pancreatic islet transplantations — from several years to possibly the entire lifespan of a recipient. 
+ working across multidisciplinary teams using an animal model, the labs of professors 
+ andrés garcía 
+ at georgia tech and haval shirwan at the university of missouri have developed a new biomaterial microgel that could deliver safer, smaller, and more cost-effective dosages of an immune-suppressing protein that could lead to better long-term acceptance of islet transplantations within the body. 
+ the study was published august 28, 2020, in the journal 
+ science advances . the research was led by maria coronel, a postdoctoral fellow in the lab of garcía, the parker h. petit chair and executive director of the 
+ petit institute for bioengineering and bioscience . garcía is also a regents professor in the 
+ george w. woodruff school of mechanical engineering . 
+ in 2018, the nobel prize for medicine was awarded for discovering how cancer cells send molecular signals to suppress immune response, thus hiding and protecting those cancer cells from the body’s immune system. researchers soon developed pioneering treatment methods to signal and “turn on” the immune system (such as t cells) so the invading cancer would once again be recognized, allowing a patient’s own immune system to more effectively eliminate their cancer cells. 
+ “the work we are doing is taking a page from that discovery and using immunotherapy in the opposite sense used by cancer treatments to control and ‘turn off’ an immune response to transplant a graft,” coronel said. “when you get a transplant, like an islet transplant or organ transplant, even if it’s matched, you will have an immune response to that graft, and your immune system will recognize it as non-self and will try to reject and attack the site of the graft.” 
+ after islet transplant surgery, traditional postoperative treatments use immune-suppressing systemic drugs that affect the entire body, and can be toxic — creating numerous, unwelcome side effects, whose severity often limits the number of candidates for islet and other organ transplants. 
+ “a unique aspect of our method is that we have greatly reduced the dosage needed, which will significantly reduce or eliminate side effects currently caused by today’s systemic drug treatments,” said coronel. 
+ the research team developed a new “immune-acceptance” method, which inserts an engineered biomaterial — in this case a microgel — with the islets at the time of the transplantation. the microgels, which resemble clusters of micro-sized fish eggs, held and delivered a protein (sa-pd-l1) to a specific transplant area that successfully signaled the immune system to hold back an immune response, protecting a transplanted islet graft from being rejected. this locally delivered molecular signal, using sa-pd-l1, was designed to quietly suppress any immune response and was effective for up to 100 days with no additional systemic immune-suppressing drug intervention. 
+ “we wanted to use pd-l1 for the prevention of allogeneic islet graft rejection by simulating the way tumor cells use this molecule to evade the immune system, but without resorting to gene therapy,” said shirwan, professor of child health and molecular microbiology and immunology at the university of missouri school of medicine. 
+ to achieve this goal, shirwan worked with esma yolcu, professor of child health, also at the university of missouri school of medicine. both were previously at the university of louisville, where they generated the sa-pd-l1, a novel form of the molecule that can be positionally displayed on the surface of islet grafts or microgels for delivery to the graft site. 
+ “microgels presenting sa-pd-l1 represent an important technological development that has potential not only for the treatment of type 1 diabetes, but also other autoimmune diseases and various transplant types,” shirwan said. 
+ in addition to engineering this specific biomaterial microgel, the team tested its lifespan durability and dosage release possibilities. they also looked at its longer-term effects on both the graft and the immune response and function of the recipient — evaluating its long-term biocompatibility potential. 
+ “one of the major goals in the diabetes field over the past two decades has been to allow the immune-acceptance of grafts and avoid the toxic drugs used to induce immune suppression, which affect the entire body,” garcía said. 
+ “generally speaking, organ transplantation is very successful at dealing with a variety of chronic conditions. these are very exciting results as proof of principle that demonstrate this engineered biomaterial and procedure may provide a platform technology that is applicable to other transplantation settings and may enlarge the pool of candidates who can safely receive transplants.” 
+ these researchers also coauthored the study: karen e. martin, michael d. hunckler, graham barber, eric b. o’neill, juan d. medina, claire a. mcclain, jessica d. weaver, hong s. lim, peng qiu, and edward a. botchwey from the georgia institute of technology; enrico opri from emory university; and lalit batra from the university of louisville. 
+ the research was funded by the national institutes of health (r21eb020107, r01ai121281, u01ai132817, and s10od016264), the national institute of general medical sciences (nigms) biotechnology training program on cell and tissue engineering (t32gm008433), the juvenile diabetes research foundation postdoctoral fellowships, and a national science foundation graduate fellowship. any findings, conclusions, and recommendations are those of the authors and not necessarily of the funding agencies. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : walter rich 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

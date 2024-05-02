@@ -1,0 +1,56 @@
+Synthetic Organelle Shows How Tiny Puddle-Organs in our Cells Work
+Just tiny puddles. That's what some of our cells' organelles are, and this synthetic organelle, engineered in the lab, shows how they can work.
+In a vile three watery solutions phase separate into three layers. In membraneless organelles, chemical reactions occur at the interfaces of such layers, processing a reactant step-by-step and moving the reaction product from one layer to the next. Credit: Georgia Tech / Rob Felt
+Sep 20, 2018
+— Atlanta, GA
+A couple of sugars, a dash of enzymes, a pinch of salt, a splash of a real common lab chemical, all arranged in watery baths. And researchers had made a synthetic organelle, which they used in a
+new study
+to explore some odd cellular biochemistry.
+The researchers at the Georgia Institute of Technology made the chemical medley in the lab to closely mimic membraneless organelles, mini-organs in cells that are not contained in a membrane but exist as pools of watery solutions, or puddles. And their model demonstrated how, with just a few ingredients, the organelles could carry out fine-tuned biological processes.
+The researchers
+published the results of their study in the journal
+ACS Applied Materials & Interfaces
+for the September 26, 2018 issue. The research was funded by the National Institutes of Health’s National Institute of General Medical Science and by the National Science Foundation.
+A quick look at membraneless organelles should aid in understanding the research’s significance.
+What are membraneless organelles?
+Organelles that are pools of watery solutions and not objects with membranes are a fairly recent discovery. A prime example is the
+nucleolus . It resides inside of the cell’s nucleus, which is an organelle that does have a membrane.
+In the past, researchers thought the nucleolus disappeared during cell division and reappeared later. In the meantime, researchers have realized that the nucleolus has no membrane and that during cell division it gets diffused the way water bubbles do in vinaigrette dressing that has been shaken up.
+“After cell division, the nucleolus comes back together as a single compartment of fluid,” said
+Shuichi Takayama, the study’s principal investigator and a professor in the Wallace E. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University .
+Membraneless organelles can be made up of a few different aqueous solutions, each with different solutes like proteins or sugar or RNA or salt. Differences in the
+thermodynamics
+of the solutions, that is, how their molecules bounce around, keep them from merging into a single solution.
+Instead, they
+phase separate
+the way oil and water do, even after intermingling. But there’s no oil in this case.
+“They’re all waters,” Takayama said. “They just don’t mix with each other because they have different solutes.”
+What lifelike processes did the synthetic experiment demonstrate?
+During intermingling, important things happen. The nucleolus, for example, is vital to DNA transcription. But the synthetic set-up, a collection of watery solutions made by the study’s first author, Taisuke Kojima, carried out a simpler series of reactions that demonstrated how membraneless organelles could process sugar.
+“We had three phases of solutions that each held different reactants,” Kojima said. “It was like a ball with three layers: an outer solution, an intermediate solution, and a core solution. Glucose was in the outer layer; an enzyme,  glucose oxidase , was in the second layer, and  horseradish peroxidase  was in the core along with a colorimetric substrate that gave us a visible signal when the last reaction we were looking for occurred.”
+The glucose in the outer layer interfaced with the glucose oxidase in the second layer, which catalyzed the glucose to hydrogen peroxide. It landed in the second layer and interfaced with the horseradish peroxidase in the core layer, which catalyzed the hydrogen peroxide along with the compound that turns colors, which changed the color of the core layer.
+“This type of cascading reaction is what one would expect to see membraneless organelles perform,” Takayama said.
+The cascade even transported each reaction product from one compartment to the next, something very typical in biological processes, like organs digesting food or an organelle processing molecules.
+What can a surprise discovery teach us?
+Part of the reaction took the researchers by surprise, and it resulted in a novel discovery.
+“When researchers think about membraneless organelles, we often think that the reactions inside them are more efficient when their enzymes and
+substrates
+are in the same compartment,” Takayama said. “But in our experiments, that actually slowed the reaction down. We said, ‘Whoa, what’s going on here?’”
+“When the substrate is in the same place where the product of the reaction also builds up, the enzyme sometimes gets confused, and that can impede the reaction,” said Kojima, who is a postdoctoral researcher in Takayama’s lab. “I was pretty surprised to see it.”
+Kojima put the enzymes and substrate into separate solutions, which interfaced but did not merge to a single solution, and the reaction in his synthetic organelle worked efficiently. This showed how unexpected subtleties may be fine-tuning organelle chemistry.
+“It was a Goldilocks regime, not too much contact between substrate and enzyme, not too little, just right,” Takayama said.
+“Sometimes, in a cell, a substrate is not abundant and may need to be concentrated in its own little compartment and then brought into contact with the enzyme,” Takayama said. “By contrast, some substrates can be very abundant in the nucleus, and it might be important to partition them off from enzymes to get just enough contact for the right kind of reaction.”
+Like this article?  Get our email newsletter here.
+Also read:
+Buzzing Cancer Drugs into Malignancies in the Brain
+The research was funded by the National Institutes of Health’s National Institute of General Medical Science (grant R01 GM12351) and by the National Science Foundation (grant CBET 0939511). Findings, opinions, and conclusions are those of the authors and not necessarily of the NIH.
+Writer & Media Representative : Ben Brumfield (404-660-1408), ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Additional Images
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

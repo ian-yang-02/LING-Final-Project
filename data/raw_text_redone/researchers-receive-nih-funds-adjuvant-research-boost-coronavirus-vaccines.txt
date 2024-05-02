@@ -1,0 +1,41 @@
+researchers receive nih funds for adjuvant research to boost coronavirus vaccines 
+ researchers have received funding to screen and evaluate adjuvants that may improve the ability of coronavirus vaccines to simulate the immune system. 
+ researchers have received funding from the national institute of allergy and infectious diseases to screen and evaluate certain molecules known as adjuvants that may improve the ability of coronavirus vaccines to stimulate the immune system and generate appropriate responses necessary to protect the general population against the virus. (credit: getty images, not for republication) 
+ may 20, 2020 
+ — atlanta, ga 
+ researchers have received funding from the 
+ national institute of allergy and infectious diseases , part of the national institutes of health, to screen and evaluate certain molecules known as adjuvants that may improve the ability of coronavirus vaccines to stimulate the immune system and generate appropriate responses necessary to protect the general population against the virus. 
+ “the adjuvants that we are studying, known as pathogen-associated molecular patterns (pamps), are molecules often found in viruses and bacteria, and can efficiently stimulate our immune system,” explained 
+ krishnendu roy , a professor and robert a. milton chair in the 
+ wallace h. coulter department of biomedical engineering at georgia tech and emory university . “most viruses have several of these molecules in them, and we are trying to mimic that multi-adjuvant structure.” 
+ adjuvants are used with some vaccines to help them create stronger protective immune responses in persons receiving the vaccine. the research team will screen a library of various adjuvant combinations to quickly identify those that may be most useful to enhance the effects of both protein- and rna-based coronavirus vaccines under development. 
+ “we are trying to understand how adjuvant combinations affect the vaccine response,” roy said. “we will look at how the immune system shifts and changes with the adjuvant combinations. the ultimate goal is to determine how to generate the most effective, strongest, and most durable immune response against the virus. there are more than a hundred vaccine candidates being developed for the sars-cov-2 virus, which causes covid-19, and it is likely that many will generate initial antibody responses. it remains to be seen how long those responses will last and whether they can generate appropriate immunological memory that protects against subsequent virus exposures in the long-term.” 
+ the parent grant to georgia tech is part of a program called “molecular mechanisms of combination adjuvants (mmca).” for the past four years, the agency has been supporting roy and his research team to pursue studies to understand how adjuvants work, and this additional funding will allow them to apply their research to potential coronavirus vaccines. 
+ for more coverage of georgia tech’s response to the coronavirus pandemic, please visit our  responding to covid-19  page. 
+ “it has been difficult to develop safe and durable vaccines against respiratory viruses,” explained roy, who also directs the center for immunoengineering.  “over the past several years, we have been looking mostly at the basic science and understanding how the immune system integrates signals from multiple adjuvants to create a unified immune response in mammals. this new funding will allow us to pursue more translational aspects related to covid-19 and provide the scientific community with potentially new tools to fight this devastating pandemic.” 
+ the team has developed a technique that uses micron- and nanometer-scale polymer particles to present both the vaccine antigen and adjuvant compounds to the mammalian immune system. the medical polymer that is the basis for the particles is used for other purposes in the body. 
+ the synthetic particles, which roy’s team calls pathogen-like particles (plps), are designed to mimic real pathogens in terms of how they elicit immune responses – without causing infection. “they have an antigen and multiple synergistic adjuvants on a particle-structure that is very similar to how native pathogens present these molecules to our immune system,” he said. 
+ the plps combined with adjuvants encourage the immune system to develop antibodies and t cell responses that can battle the real pathogen if it attacks. having existing antibodies and the appropriate virus-fighting t cells to the novel coronavirus will enable the body’s immune system to respond quickly to the threat of infection and potentially destroy the virus quickly. 
+ the researchers will first evaluate how the adjuvants affect the interaction of specific immune cells, called dendritic cells and macrophages, with t cells – a key component of generating immune system response – and then follow up with animal studies using the promising combinations. whether or not a vaccine can be created that will provide long-term protective immunity against the coronavirus is still an open question in the research community, and roy said the research into adjuvants will help provide new tools to answer that question. 
+ “part of the knowledge gap right now is that we don’t know how the immune system is influenced by various adjuvants,” he said. “we need to look at how the vaccine formulations, our particles and the adjuvants affect t cell proliferation and t cell response, and how we can optimize that response to generate durable immunity.” 
+ the adjuvant alum has been used since the 1930s to boost the action of the immune system as it responds to antigens in vaccines that elicit protection against many pathogens. however, for those pathogens that require alternative adjuvants, only a few other adjuvants are currently used in commercial vaccines. research on modern adjuvants aims to understand the way they specifically activate our immune systems and can be designed to protect against infections. another approach is to find out if combinations of adjuvants are safe and more effective than a single adjuvant providing highly effective and long-lasting protective immunity. 
+ roy and his team will be evaluating existing adjuvants in combination, along with potential protein and rna-based antigens currently under evaluation. the goal is to develop novel combinations of current adjuvants, including adjuvants approved for use and others that are still in development. “in this work, the strategy is to take existing platforms and see how we can pivot them to understand how to make the covid vaccines better, and do it rapidly.” 
+ as with other research into potential coronavirus vaccines, the work is being accelerated with the goal of creating a safe and effective vaccine against the pandemic virus as soon as possible. 
+ “there are multiple efforts that the nih and others are funding to really accelerate the pace of the work to see how many different approaches we can come up with and to evaluate the differences,” roy said. “the goal is to determine what data we can generate very quickly to move toward a successful vaccine that is safe, durable, affordable, scalable, and effective. evaluating different approaches will help increase the likelihood that we’ll find one or more that meet these criteria.” 
+ this research is supported by the national institute of allergy and infectious diseases of the national institutes of health under supplemental funding to award number u01ai124270. the content is solely the responsibility of the authors and does not necessarily represent the official views of the national institutes of health. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) ( jtoon@gatech.edu ) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404-894-6986) 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,66 @@
+engineering research center will help expand use of therapies based on living cells 
+ a $20 million engineering research center will help expand the uses of cell-based therapies. 
+ researchers work in the cell manufacturing laboratory of krishnendu roy at georgia tech. shown (l-r) are nsf graduate research fellow joscelyn mejias, research experience for undergraduates (reu) program student angela jimenez, (background) postdoctoral fellow randall toy, georgia tech research institute tag-ed high school intern gita balakirsky, and project engages high school intern ayanna prather. (credit: rob felt, georgia tech) 
+ sep 12, 2017 
+ — atlanta, ga 
+ the national science foundation (nsf) has awarded nearly $20 million to a consortium of universities to support a new engineering research center (erc) that will work closely with industry and clinical partners to develop transformative tools and technologies for the consistent, scalable and low-cost production of high-quality living therapeutic cells. such cells could be used in a broad range of life-saving medical therapies now emerging from research laboratories. 
+ led by the georgia institute of technology, the nsf engineering research center for cell manufacturing technologies (cmat) could help revolutionize the treatment of cancer, heart disease, autoimmune diseases and other disorders by enabling broad use of potentially curative therapies that utilize living cells – such as immune cells and stem cells – as “drugs.” examples of these highly promising therapies include t cell-based immunotherapies for blood cancers, such as the one developed at the university of pennsylvania and approved in august by the u.s. food & drug administration, and a gene-modified stem cell therapy recently approved in europe for a form of the so-called “bubble boy” syndrome. 
+ to facilitate the widespread application of these cutting-edge emerging treatments, cmat will develop robust and scalable technologies, innovative analytical tools, and engineering systems that will enable industry and clinical facilities to reproducibly manufacture efficient, safe and affordable cell-therapy products. the center, one of four ercs announced september 12 by the nsf, will also develop improved models for a robust supply chain, storage and distribution system for these therapeutic cell products. 
+ “for over 30 years, 
+ nsf engineering research centers 
+ have promoted innovation, helped to maintain our competitive edge, and added billions of dollars to the u.s. economy,” said nsf director 
+ france córdova . “they bring together talented innovators and entrepreneurs with resources from academia, industry and government to produce engineers and engineering systems that solve real-world problems.  i am confident that these new ercs will strengthen u.s. competitiveness for the next generation and continue our legacy of improving the quality of life for all americans.” 
+ in addition to the consistent manufacture of  cell-based therapies, the public-private cmat initiative will also help develop a skilled, diverse and inclusive bio-manufacturing workforce through extensive education and training activities at the k-12, technical college, undergraduate, graduate and postdoctoral levels. 
+ living cells become “drugs” 
+ “unlike pharmaceuticals and other products now used in medical treatments, cells are living entities whose properties can significantly change depending on nuances in the way they are grown, stored or otherwise manipulated,” said 
+ krishnendu roy , director of cmat and the robert a. milton chair professor in the 
+ wallace h. coulter department of biomedical engineering 
+ at georgia tech and emory university. “the center will develop new engineering tools and scalable methods to better characterize, expand, differentiate, separate, transport and store high-quality cells so they provide consistent therapeutic effects, allowing them to be used in standardized therapies by clinicians to serve large numbers of patients worldwide.” 
+ beyond georgia tech, the center will include major partners – the university of georgia, the university of wisconsin-madison and the university of puerto rico, mayaguez campus – as well as affiliate partners such as the university of pennsylvania, emory university, the gladstone institutes and michigan technological university. additional international academic partners, as well as industry and the u.s. national laboratories, will also be critical collaborators in the effort. 
+ moving discoveries into application 
+ “georgia tech has a long history of building collaborative partnerships with industry, the national labs and other research universities. with the support of the nsf and this new erc, we will be able to capitalize on expertise in multiple areas, taking transformative research from the laboratory to practice much more quickly,” said georgia tech president g. p. “bud” peterson. “the center for cell manufacturing technologies will also help us educate, train and prepare the workforce in a new industry, thereby continuing to strengthen the u.s. economy.” 
+ clinical trials have already established the effectiveness of several cell-based therapies and many other trials are underway. but for these exciting therapies to advance into broad healthcare use, the cells will have to be produced in much larger quantities and with more consistent quality than is now available. there are also very few, if any, established industry standards for analytics and processes in cell manufacturing, which hinders consistent production of safe and efficacious cells. another key limitation identified by industry is the need for a highly-trained workforce. 
+ cmat would address these barriers through transformative innovations that build upon a series of earlier efforts, including the 
+ national cell manufacturing consortium 
+ (ncmc) roadmap, infrastructure established at georgia tech with support from the marcus foundation, quality and other standards programs from the national institute of standards and technology (nist) and independent industry-led bodies, and translational activities by industry, entrepreneurs and other partners. 
+ the nsf’s multidisciplinary engineering research centers address unique, complex engineering challenges by stimulating knowledge and tech transfer between different sectors, from electronics to energy to infrastructure. each center takes on a specific engineering research challenge. 
+ “the overall goal of the nsf engineering research centers program is nothing less than to revolutionize engineering research and education in the united states,” said dawn tilbury, nsf assistant director for engineering. “we look forward to the exciting advances and outcomes in these important areas.” 
+ accelerating clinical trials 
+ beyond established cell-based therapies, the work of cmat should accelerate the development of new therapies and the testing needed to bring them into the clinic, said 
+ steven stice , director of the university of georgia’s 
+ regenerative bioscience center 
+ (rbc). regenerative medicine applications could offer new ways of treating diseases for which there are now essentially no treatments, including parkinson's, alzheimer’s, heart disease and stroke. 
+ “there are a significant number of cell therapy clinical trials and investments in the field,” stice said. “but there is little or no investment in a set of consistent standardization methods to optimize how these therapies should work. for instance, we know that cell therapies will improve human health, but right now it’s difficult to guarantee that each dose produced will be as potent as the next. the work done by cmat researchers will help solve some of these problems.” 
+ the university of pennsylvania develops cellular therapies and has conducted more than 40 clinical trials of cell-based therapies, including those for engineered t cell therapies and chimeric antigen receptor (car) t cells. an example is recently-approved treatment for relapsed and refractory acute lymphoblastic leukemia in pediatric and young adult patients. 
+ “the cell and gene therapy fields are on the cusp of multiple regulatory approvals in the near term,” said 
+ bruce levine , barbara and edward netter professor in cancer gene therapy in the perelman school of medicine at the 
+ university of pennsylvania . “the challenges ahead lie in developing manufacturing and testing processes incorporating automation that can bring costs down and allow access to more patients.” 
+ developing broad-based innovations 
+ critical innovations often occur at the boundaries of disciplines, and cmat will bring together relevant specialties for both research and workforce development, noted 
+ madeline torres-lugo , a professor in the department of chemical engineering at the university of puerto rico, mayaguez campus. 
+ “due to the complexity of cells as living organisms, a team with a strong background in biology, chemistry, physics, materials science, and engineering is required for this initiative,” torres-lugo said. “our participation and contribution to cmat will ensure that puerto rico not only remains at the forefront of pharma manufacturing, but also supports cell manufacturing technologies here and around the world by educating highly talented engineering students.” 
+ cmat testbeds have been selected to address several cell types that are in early stages of clinical adoption or moving toward clinical applications, but it isn't yet clear what cell types will have the greatest therapeutic impacts, noted 
+ sean palecek , the milton j. and a. maude shoemaker professor in chemical and biological engineering at the 
+ university of wisconsin-madison . therefore, one of the center’s challenges will be to ensure that fundamental discoveries, and tool and technology development efforts, will apply to multiple cell types. 
+ “our work will provide safer and more potent cell products that will allow clinical studies to establish the effectiveness of these cells as therapeutics,” palecek said. “in addition, our work on scaling cell production will enable manufacturing of sufficient numbers of cells to replace damaged organs, such as the loss of heart muscle after a heart attack, at a cost that makes these therapies accessible to broad segments of society. we will also train the future leaders of the emerging therapeutic cell manufacturing industry. these students and their work establishing this industry will be the most significant impact of cmat.” 
+ new centers among 19 ercs 
+ since the program’s inception in 1985, nsf has funded a total of 74 ercs and will support 19 in this fiscal year, including four new centers. each center receives nsf funding for up to 10 years. during this time, centers build partnerships with industry, universities and other government agencies that will sustain them for years to come. 
+ in may, the national academies published a report, “a new vision for center-based engineering research,” which was the result of an nsf-funded study to examine the future of the nsf erc program. 
+ the report identifies and recommends strategies to enable nsf multidisciplinary engineering research centers to continue addressing key research, education and innovation needs of the united states in a changing global context. 
+ “ercs are widely known as outstanding examples of successful partnerships between universities, private industry and government that have made significant contributions to address national challenges,” said don millard, acting division director for the nsf division of engineering education and centers. “we are continually working with the scientific and engineering communities, as well as private industry and government partners, to ensure nsf-funded centers and grantees are best-equipped to match societal needs with research abilities.” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) ( jtoon@gatech.edu ) or ben brumfield (404-660-1408) ( ben.brumfield@comm.gatech.edu ). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

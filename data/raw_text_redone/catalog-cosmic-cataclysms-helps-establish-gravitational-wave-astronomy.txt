@@ -1,0 +1,63 @@
+catalog of cosmic cataclysms helps establish gravitational wave astronomy 
+ a new catalog of cataclysmic events supports the development of gravitational wave astronomy. 
+ image shows simulation of gravitational waves produced when two binary black holes collide. (credit: center for relativistic astrophysics) 
+ dec 05, 2018 
+ — atlanta, ga 
+ in february 2016, astronomers shook the scientific world with the announcement that they had observed gravitational waves from a cataclysmic event in the distant universe — the collision of two massive black holes, celestial objects so dense that not even light can escape from them. 
+ gravitational waves, hard-to-see ripples in the fabric of space-time, had been predicted by albert einstein’s 
+ general theory of relativity 
+ in 1915. these gravitational waves carry information about their origins, potentially offering a new way to observe the cosmos. three years ago, however, researchers didn’t know if this first observation was merely an anomaly or part of a widespread phenomenon that could teach us about the population of black holes in the universe. 
+ a dozen georgia tech faculty members, postdoctoral researchers, and students participated with hundreds of other researchers in the national science foundation-sponsored 
+ ligo 
+ (laser interferometer gravitational-wave observatory) scientific collaboration that reported the first gravitational waves. after the announcement, the work continued, and scientists from around the world have now observed 10 black hole collisions and a merger of two binary neutron stars using ligo and the european-based virgo gravitational wave detector. 
+ catalog of coalescing cosmic objects 
+ the records of these cataclysmic cosmic events, including four black hole observations disclosed for the first time, have been collected into a catalog released december 1 at the gravitational wave physics and astronomy workshop held in college park, maryland. production of the catalog suggests that gravitational wave astronomy will indeed offer astronomers a new way to view the secrets of the universe. 
+ “the individual black hole detections previously announced allow us to confirm, after many years of searching, that gravitational wave astronomy is a feasible endeavor,” said james alexander clark, a research scientist in georgia tech’s 
+ center for relativistic astrophysics 
+ (cra) in the 
+ school of physics 
+ and a member of the ligo collaboration. “we now know that pairs of massive black holes exist and collide frequently enough for us to detect gravitational waves within a human lifetime. we also know that the instruments and analysis procedures we use are capable of detecting and characterizing gravitational wave sources and we have been able to start probing some basic features of the theory of general relativity.” 
+ astronomers do not have the luxury of repeating laboratory experiments to build confidence in their findings, clark pointed out. “instead, we rely on observing large samples of objects and phenomena spread throughout the universe. by building a ‘census’ of this population, we are rapidly learning more about how common these objects are, what their general properties are like, and about the diversity of black holes in the universe.” 
+ expanding the observations 
+ that census should expand more rapidly starting in april 2019 when ligo begins its next observing run. the two instruments, one in livingston, louisiana, and the other in hanford, washington, are shut down periodically for upgrades to improve sensitivity. “by observing a larger sample of binary black hole sources, we are more likely to find systems with more extreme configurations that allow more stringent tests of our models — and of general relativity,” clark added. 
+ the new gravitational wave catalog shows that gravitational waves from powerful cosmic phenomena arrive at the earth almost once every 15 days of observation, noted karan jani, a postdoctoral fellow in the cra and also a member of the ligo collaboration. “future releases will provide much stronger tests of einstein’s theory of gravity, and help provide a better understanding of how black holes are formed in the universe.” 
+ data collected on the 10 black hole mergers describe objects that are as much as 100 times more massive than our own sun. among the reports is a july 29, 2017, signal that represents the most distant, most energetic, and most massive black hole collision detected so far. that collision happened about five billion years ago — even before the birth of our sun — and released an amount of energy equivalent to converting almost five solar masses to gravitational radiation. 
+ what we learn from black hole observations 
+ black holes are among the few objects in the universe massive and dense enough to produce gravitational waves that can be measured, said sudarshan ghonge, a cra graduate student and also a member of the collaboration. but those measurements can be quite worthwhile. 
+ “these waves have signatures that depend on the properties of the black holes from which they originated,” he said. “by measuring these waves, we can infer the masses, spin, sky location, and distance from us. it’s similar to how you can listen to a sound and roughly figure out where it’s coming from, how far away it is, and what’s causing it.” 
+ ligo works by observing infinitesimally small changes caused by gravitational waves passing through the earth. the changes affect laser beams traveling through twin four-kilometer arms of the l-shaped observatories. the hanford and livingston facilities, separated by 1,865 miles, confirm the observations, as both facilities should detect the waves. additional information comes from the virgo facility in italy. 
+ observing runs produce new records 
+ from september 12, 2015, to january 19, 2016, during the first ligo observing run since undergoing upgrades in a program called advanced ligo, gravitational waves from three binary black hole mergers were detected. the second observing run, which lasted from november 30, 2016, to august 25, 2017, yielded one binary neutron star merger and seven additional binary black hole mergers, including the four new gravitational wave events reported december 1. the new events are known as gw170729, gw170809, gw170818 and gw170823, in reference to the dates they were detected. 
+ gw170814 was the first binary black hole merger measured by the three-detector network made possible by collaboration between ligo and virgo, and allowed for the first tests of gravitational wave polarization, which is analogous to light polarization. 
+ one of the new events, gw170818, detected by the global network formed by the ligo and virgo observatories, was very precisely pinpointed in the sky. the position of the binary black holes, located 2.5 billion light-years from earth, was identified in the sky with a precision of 39 square degrees. that makes it the next-best localized gravitational wave source after the gw170817 neutron star merger. 
+ the event gw170817, detected three days after gw170814, represented the first time that gravitational waves were observed from the merger of a binary neutron star system. what's more, this collision was seen in gravitational waves and light, marking an exciting new chapter in multi-messenger astronomy, in which cosmic objects are observed simultaneously in different forms of radiation. 
+ advancing gravitational wave observation 
+ “the release of four additional binary black hole mergers further informs us of the nature of the population of these binary systems in the universe and better constrains the event rate for these types of events,” said caltech’s albert lazzarini, deputy director of the ligo laboratory. 
+ "in just one year, ligo and virgo working together have dramatically advanced gravitational wave science, and the rate of discovery suggests the most spectacular findings are yet to come,” said denise caldwell, director of nsf's division of physics. "the accomplishments of nsf's ligo and its international partners are a source of pride for the agency, and we expect even greater advances as ligo's sensitivity becomes better and better in the coming year." 
+ "the next observing run, starting in spring 2019, should yield many more gravitational wave candidates, and the science the community can accomplish will grow accordingly,” said david shoemaker, spokesperson for the ligo scientific collaboration and senior research scientist in mit’s kavli institute for astrophysics and space research. “it’s an incredibly exciting time.” 
+ “it is gratifying to see the new capabilities that become available through the addition of advanced virgo to the global network,” said jo van den brand of nikhef (the dutch national institute for subatomic physics) and vu university amsterdam, who is the spokesperson for the virgo collaboration. “our greatly improved pointing precision will allow astronomers to rapidly find any other cosmic messengers emitted by the gravitational wave sources.” the enhanced pointing capability of the ligo-virgo network is made possible by exploiting the time delays of the signal arrival at the different sites and the so-called antenna patterns of the interferometers. 
+ the scientific papers describing these new findings, which are being initially published on the arxiv repository of electronic preprints, present detailed information in the form of a catalog of all the gravitational wave detections and candidate events of the two observing runs as well as describing the characteristics of the merging black hole population. most notably, we find that almost all black holes formed from stars are lighter than 45 times the mass of the sun. thanks to more advanced data processing and better calibration of the instruments, the accuracy of the astrophysical parameters of the previously announced events increased considerably. 
+ added georgia tech professor 
+ laura cadonati , deputy spokesperson for the ligo scientific collaboration, “these new discoveries were only made possible through the tireless and carefully coordinated work of the detector commissioners at all three observatories, and the scientists around the world responsible for data quality and cleaning, searching for buried signals, and parameter estimation for each candidate — each a scientific specialty requiring enormous expertise and experience.” 
+ about ligo and virgo 
+ ligo is funded by nsf and operated by caltech and mit, which conceived and built the project. financial support for the advanced ligo project was led by the nsf with germany (max planck society), the united kingdom (science and technology facilities council) and australia (australian research council-ozgrav) making significant commitments and contributions to the project. more than 1,200 scientists from around the world participate in the effort through the ligo scientific collaboration. a list of additional partners is available at 
+ http: / / ligo.org / partners.php . 
+ the virgo collaboration consists of more than 300 physicists and engineers belonging to 28 different european research groups: six from centre national de la recherche scientifique in france; 11 from the istituto nazionale di fisica nucleare in italy; two in the netherlands with nikhef; the mta wigner rcp in hungary; the polgraw group in poland; spain with ifae and the universities of valencia and barcelona; two in belgium with the universities of liege and louvain; jena university in germany; and the european gravitational observatory, the laboratory hosting the virgo detector near pisa in italy, funded by cnrs, infn and nikhef. a list of the virgo collaboration can be found at 
+ http: / / public.virgo-gw.eu / the-virgo-collaboration / . more information is available on the virgo website at 
+ www.virgo-gw.eu . 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : ligo scientific collaboration / john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,32 @@
+researchers develop methodology for streamlined control of material deformation 
+ researchers demonstrate that new physical theories provide precise predictions of the deformations of certain structures, revealing that a flexible mechanical structure is governed by some of the same math as electromagnetic waves and even black holes. 
+ a conformal deformation of the kagome metamaterial gives an example of the dramatic possibilities. 
+ feb 04, 2022 
+ — atlanta, ga 
+ can you crumple up two sheets of paper the exact same way? probably not — the very flexibility that lets flexible structures from paper to biopolymers and membranes undergo many types of large deformations makes them notoriously difficult to control. researchers from the georgia institute of technology, universiteit van amsterdam, and universiteit leiden have shed new light on this fundamental challenge, demonstrating that new physical theories provide precise predictions of the deformations of certain structures, as recently published in 
+ nature communications. 
+ in the paper, michael czajkowski and d. zeb rocklin from georgia tech, corentin coulais from universiteit van amsterdam, and martin van hecke of amolf and universiteit leiden approach a highly studied exotic elastic material, uncover an intuitive geometrical description of the pronounced – or nonlinear – soft deformations, and show how to activate any of these deformations on-demand with minimal inputs. this new theory reveals that a flexible mechanical structure is governed by some of the same math as electromagnetic waves, phase transitions, and even black holes. 
+ “so many other systems struggle with how to be strong and solid in some ways but flexible and compliant in others, from the human body and micro-organisms to clothing and industrial robots,” said rocklin. “these structures solve that problem in an incredibly elegant way that permits a single folding mechanism to generate a wide family of deformations. we’ve shown that a single folding mode can transform a structure into an infinite family of shapes.” 
+ a brief history of metamaterials 
+ metamaterials rely on the use of hinges, folds, cuts, and “flexible” ingredients to display the variety of counterintuitive physics that has been steadily revealed over the past decade of intense research. many of these new behaviors have emerged from the development of auxetics, materials that tend to shrink in all directions when they are compressed from any direction rather than bulging outward. although the researchers’ chosen structure, “rotating squares,” is already one of the most heavily researched metamaterials, they uncovered entirely new and powerful physics hiding within its deformations. 
+ “normally complex real-world structures defy analytical physics, which made it all the more thrilling when michael found that his conformal predictions could account for 99.9% of the variance in corentin’s structure,” said rocklin. “this new approach could allow us to predict and control tough, flexible structures from the size of skyscrapers to the microscale.” 
+ conformal findings 
+ the results of this paper rely on the novel observation that these maximally auxetic metamaterials deform conformally, which the researchers confirmed with a high degree of accuracy. this means that any angle drawn on the material before and after deformation will still look like the same angle. this seemingly mundane observation activates powerful mathematical structures. 
+ this conformal insight allows for a variety of pen-and-paper analytic advances: a nonlinear energy functional, deformation fitting methods, new prediction methods etc. this culminates with a recipe to choose any of these conformal deformations in an exact, reversible, and mathematically straightforward manner via the manipulation of the boundary. by choosing how much the boundary is stretched, the overall shape can be picked from infinite possibilities. 
+ such deformation control is still limited by the essential nature of conformal deformations. however, the underlying principles are quite general, and researchers are working to apply these new principles to more varied and complex structures. 
+ "our results are very promising for the soft microscopic robotics that are being developed for non-invasive surgical purposes," said czajkowski. "in this effort, scalability and precise external control are two of the primary goalposts, and our style of deformation control seems perfectly suited for the job." 
+ the jump to more provocative applications is likely not far off, as the realm of metamaterials has steadily become populated with 
+ manipulatable faces , a variety of 
+ new grabbers 
+ and hands, and even an elastic worm that can 
+ thread a series of needles . these advances will become essential in the effort to develop soft microscopic robots, which must be externally manipulated to move through a body and perform noninvasive surgeries. 
+ citation: 
+ michael czajkowski, corentin coulais, martin van hecke and d. zeb rocklin, “ conformal elasticity of mechanism-based metamaterials ,” 
+ nature communications 
+ (january 11, 2022). doi.org / 10.1038 / s41467-021-27825-0 
+ additional images 
+ contact 
+ georgia parmelee | georgia.parmelee@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

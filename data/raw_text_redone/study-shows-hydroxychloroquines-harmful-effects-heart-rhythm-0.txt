@@ -1,0 +1,40 @@
+study shows hydroxychloroquine's harmful effects on heart rhythm 
+ drug creates serious disturbances in the electrical signals that govern heartbeat. 
+ images show the voltage surface on a rabbit heart with and without hcq. without the drug (left) the electrical activation spreads homogeneously, while with hcq, waves propagate unevenly, generating complex spatiotemporal patterns and arrhythmias. 
+ jun 01, 2020 
+ — atlanta, ga 
+ the malaria drug hydroxychloroquine, which has been promoted as a potential treatment for covid-19, is known to have potentially serious effects on heart rhythms. now, a team of researchers has used an optical mapping system to observe exactly how the drug creates serious disturbances in the electrical signals that govern heartbeat. 
+ the research, reported may 29 in the journal 
+ heart rhythm , found that the drug made it “surprisingly easy” to trigger worrisome arrhythmias in two types of animal hearts by altering the timing of the electrical waves that control heartbeat. while the findings of animal studies can’t necessarily be generalized to humans, the videos created by the research team clearly show how the drug can cause cardiac electrical signals to become dysfunctional. 
+ “we have illustrated experimentally how the drug actually changes the waves in the heart, and how that can initiate an arrhythmia,” said flavio fenton, a professor in the school of physics at the georgia institute of technology and the paper’s corresponding author. “we have demonstrated that with optical mapping, which allows us to see exactly how the waveform is changing. this gives us a visual demonstration of how the drug can alter the wave propagation in the heart.” 
+ what the team saw was an elongation of the t wave, a portion of the heart cycle during which voltages normally dissipate in preparation for the next beat. by extending the qt portion of one wave cycle, the drug sets the stage for disturbances in the next wave, potentially creating an arrhythmia. such disturbances can transition to fibrillation that interferes with the heart’s ability to pump. 
+ the ability to easily trigger disturbances known as “long qt” reinforces cautions about using hydroxychloroquine (hcq) in humans – particularly in those who may have heart damage from covid-19, cautioned dr. shahriar iravanian, a co-author of the paper and a cardiologist in the division of cardiology, section of electrophysiology, at emory university hospital. 
+ “the hearts used in the study are small and very resistant to this form of arrhythmia,” iravanian said. “if we had not seen any hcq-induced arrhythmias in this model, the results would not have been reassuring. however, in reality, we observed that hcq readily induced arrhythmia in those hearts. this finding is very concerning and, in combination with the clinical reports of sudden death and arrhythmia in covid-19 patients taking hcq, suggests that the drug should be considered a potentially harmful medication and its use in covid-19 patients be restricted to clinical trial settings.” 
+ georgia tech postdoctoral fellow ilija uzelac administered hcq to the animal hearts – one from a guinea pig and one from a rabbit – while quantifying wave patterns changing across the hearts using a high-powered, led-based optical mapping system. voltage-sensitive fluorescent dyes made the electrical waves visible as they moved across the surface of the hearts. 
+ “the effect of the arrhythmia and the long qt was quite obvious,” said uzelac. “hcq shifts the wavelengths to larger values, and when we quantified the dispersion of the electrical current in portions of the heart, we saw the extension of the voltage across the tissue. the change was very dramatic comparing the waveforms in the heart with and without the hcq.” 
+ the drug concentration used in the study was at the high end of what’s being recommended for humans. hcq normally takes a few days to accumulate in the body, so the researchers used a higher initial dose to simulate the drug’s effect over time. 
+ in a normal heartbeat, an electrical wave is generated in specialized cells of a heart’s right atrium. the wave propagates through the entire atria and then to the ventricles. as the wave moves through the heart, the electrical potential created causes calcium ions to be released, which stimulates contraction of the heart muscle in a coordinated pattern. 
+ drugs such as hcq modify the properties of these ion channels and inhibit the flow of potassium currents, which prolongs the length of the electrical waves and creates spatial variations in their properties. ultimately, that can lead to the development of dangerously rapid and dysfunctional heart rhythms. 
+ “the wavelength becomes less homogeneous and that affects the propagation of additional waves, producing sections of the heart where the waves do not propagate well,” fenton said. “in the worst case, there are multiple waves going in different directions. every section of the heart is contracting at a different time, so the heart is just quivering. at that point, it can no longer pump blood throughout the body.” 
+ patients taking hcq for diseases such as lupus and rheumatoid arthritis rarely suffer from arrythmia because the doses they take are smaller than those being recommended for covid-19 patients, iravanian said. 
+ “covid-19 patients are different and are at a much higher risk of hcq-induced arrhythmia,” he said. “not only is the proposed dose of hcq for covid-19 patients two to three times the usual dose, but covid-19 has effects on the heart and lowers potassium levels, further increasing the risk of arrythmias.” 
+ fenton and his colleagues have already begun a new study to evaluate the effects of hcq with the antibiotic azithromycin, which has been suggested as a companion treatment. azithromycin can also cause the long qt effect, potentially increasing the impact on covid-19 patients. 
+ the study, which was supported by grants from the national institutes of health and national science foundation, was also coauthored by dr. hiroshi ashikaga from johns hopkins university school of medicine; dr. neal bathia from the division of cardiology, section of electrophysiology at emory university hospital; conner herndon, abouzar kaboudian, and james c. gumbart from the georgia tech school of physics, and elizabeth cherry from the georgia tech school of computational science and engineering. 
+ this research is supported by the national institutes of health under award number 1r01hl143450-01 and the national science foundation under grant 
+ 1446675. 
+ the content is solely the responsibility of the authors and does not necessarily represent the official views of the national institutes of health or the national science foundation. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

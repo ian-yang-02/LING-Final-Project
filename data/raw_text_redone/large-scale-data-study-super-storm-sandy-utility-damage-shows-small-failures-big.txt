@@ -1,0 +1,40 @@
+large-scale data study of super storm sandy utility damage shows “small” failures, big impact 
+ a new study shows the extent of the challenge faced by the upstate new york distribution grid during super storm sandy. 
+ georgia tech ph.d. student yun wei and associate professor chuanyi ji with a map showing utility disruptions in new york state resulting from super storm sandy. (credit: john toon, georgia tech) 
+ may 09, 2016 
+ — atlanta, ga 
+ when super storm sandy struck new york state in october 2012, the damage to the state’s electric utility infrastructure was devastating, overwhelming repair and restoration by the distribution system operators (dsos). a new study shows the extent of the challenge faced by the upstate new york distribution grid and suggests what might be done to make the system more resilient against future storms. 
+ the study, which required more than three years, examined power failures that affected more than 600,000 customers from four major service regions. the study showed that failures affecting small numbers of customers accounted for more than half the outage impact, defeating efforts to restore service by prioritizing repairs to substations and other major facilities – a traditional recovery strategy. the research, reported april 29 in the journal 
+ nature energy , is believed to be the largest detailed study of failure reports for distribution grids using real data. 
+ “system failures can affect large numbers of customers even if they occur at the distribution level of the grid and do not cascade,” said 
+ chuanyi ji , an associate professor in the 
+ school of electrical and computer engineering 
+ at the georgia institute of technology. “together, these local failures can have a big non-local impact on customers. the grid simply cannot respond well to large numbers of failures.” 
+ the top 20 percent of distribution grid failures accounted for more than 80 percent of the customers affected. but even failures that each affected relatively small numbers of customers added up. a large number – 89 percent – of small failures, represented by the bottom 34 percent of customers and commonplace devices, resulted in 56 percent of the total cost of 28 million customer interruption hours. 
+ “if you are just going after the big failures, the effect will be limited because there are just too many small ones that cannot be restored quickly,” ji noted. “together, small failures were significant in the total down time of customers.” 
+ the large-scale study used granular data provided by the central hudson gas & electric corporation in poughkeepsie; national grid in waltham, massachusetts; the new york state electric and gas corporation in binghamton; orange and rockland utilities, inc., in pearl river – and the new york state public service commission in albany. overall, the study examined the utility infrastructure serving nearly 51,000 square miles in the entirety of upstate new york. 
+ beyond the storm damage information, the researchers also examined data from day-to-day operations and studied how routine issues were handled. those resilience issues included customer service and restoration, in addition to sporadic infrastructure failures. two ph.d. students from the georgia tech school of electrical and computer engineering, yun wei and henry mei, were instrumental in the data study as part of the research team. the research was supported by the new york state energy research and development authority. 
+ “our analysis shows that extreme weather does not cause, but rather exacerbates, existing vulnerabilities in the infrastructure and service, which are obscured in daily operations,” ji said. “we also saw the issues in daily operations.” 
+ the researchers began the work with development of a non-stationary spatiotemporal random process model that linked a large number of infrastructure failures to recoveries and customer impact. the model was chosen because failure and recovery were subject to uncertainty and occurred over widely varying times and locations. the researchers believe their model could be useful to other service regions. 
+ “super storm sandy was an unusual event, but we discovered that our findings about the response is broadly applicable to other states and other dsos when we compared data from daily operations to emergency conditions,” ji said. “the infrastructure problem is generic due to the design, and the recovery problem is also somewhat generic because the response follows a similar strategy. this highlights a larger issue of how to make the nation’s energy infrastructure and service more resilient to outside disruptions.” 
+ because the emphasis was on restoring service, not all the records that were obtained from the storm contained information useful to the model. still, the study is believed to be the largest ever done based on granular failure reports across multiple service regions, and could provide a foundation for future analyses of utility data, ji noted. 
+ “data analysis can help utilities turn what they collect into knowledge for improving services,” she added. “the grid can be made more inherently resilient, like communication networks, so a failure in one place doesn’t cut off services for many people in the network.” 
+ citation : chuanyi ji, et al., “large-scale data analysis of power grid resilience across multiple us service regions,” (nature energy, 2016). 
+ http: / / dx.doi.org / 10.1038 / nenergy.2016.52 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181 usa 
+ media relations assistance : john toon ( jtoon@gatech.edu ) (404-894-6986) or ben brumfield ( ben.brumfield@comm.gatech.edu ) (404-385-1933). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ jtoon@gatech.edu 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,40 @@
+the force is strong: amputee controls individual prosthetic fingers 
+ an ultrasonic sensor in a prosthesis allows amputees to control each of their prosthetic fingers individually. 
+ jason barnes lost part of his right arm in 2012. he can now play the piano by controlling each of his prosthetic fingers. 
+ dec 11, 2017 
+ — atlanta, ga 
+ luke skywalker’s bionic hand is a step closer to reality for amputees in this galaxy. researchers at the georgia institute of technology have created an ultrasonic sensor that allows amputees to control each of their prosthetic fingers individually. it provides fine motor hand gestures that aren’t possible with current commercially available devices. 
+ the first amputee to use it, a musician who lost part of his right arm five years ago, 
+ is now able to play the piano for the first time since his accident . he can even strum the star wars theme song. 
+ “our prosthetic arm is powered by ultrasound signals,” said gil weinberg, the georgia tech 
+ college of design 
+ professor who leads the project. “by using this new technology, the arm can detect which fingers an amputee wants to move, even if they don’t have fingers.” 
+ jason barnes is the amputee working with weinberg. the 28-year-old was electrocuted during a work accident in 2012, forcing doctors to amputate his right arm just below the elbow. barnes no longer has his hand and most of his forearm but does have the muscles in his residual limb that control his fingers. 
+ barnes’ everyday prosthesis is similar to the majority of devices on the market. it’s controlled by electromyogram (emg) sensors attached to his muscles. he switches the arm into various modes by pressing buttons on the arm. each mode has two programmed moves, which are controlled by him either flexing or contracting his forearm muscles. for example, flexing allows his index finger and thumb to clamp together; contracting closes his fist. 
+ “emg sensors aren’t very accurate,” said weinberg, director of georgia tech’s 
+ center for music technology . “they can detect a muscle movement, but the signal is too noisy to infer which finger the person wants to move. we tried to improve the pattern detection from emg for jason but couldn’t get finger-by-finger control.” 
+ but then the team looked around the lab and saw an ultrasound machine. they partnered with two other georgia tech professors – minoru shinohara, chris fink ( college of sciences ) and levent degertekin ( woodruff school of mechanical engineering ) — and attached an ultrasound probe to the arm. the same kind of probe doctors use to see babies in the womb could watch how barnes’ muscles moved. 
+ “ that’s when we had a eureka moment ,” said weinberg. 
+ when barnes tries to move his amputated ring finger, the muscle movements differ from those seen when he tries to move any other digit. weinberg and the team fed each unique movement into an algorithm that can quickly determine which finger barnes wants to move. the ultrasound signals and machine learning can detect continuous and simultaneous movements of each finger, as well as how much force he intends to use. 
+ “it’s completely mind-blowing,” said barnes. “this new arm allows me to do whatever grip i want, on the fly, without changing modes or pressing a button. i never thought we’d be able to do this.” 
+ this is the second device weinberg’s lab has built for barnes. his first love is the drums, so the 
+ team fitted him with a prosthetic arm with two drumsticks 
+ in 2014. he controlled one of the sticks. the other moved on its own by listening to the music in the room and improvising. 
+ the device gave him the chance to drum again. the robotic stick could play faster than any drummer in the world. worldwide attention has sent barnes and weinberg’s robots around the globe for concerts across four continents. they’ve also played at the kennedy center in washington, d.c. and 
+ moogfest . 
+ that success pushed weinberg to take the next step and create something that gives barnes the dexterity he’s lacked since 2012. 
+ “if this type of arm can work on music, something as subtle and expressive as playing the piano, this technology can also be used for many other types of fine motor activities such as bathing, grooming and feeding,” said weinberg. “i also envision able-bodied persons being able to remotely control robotic arms and hands by simply moving their fingers.” 
+ additional images 
+ related links 
+ watch jason barnes play the drums with prosthesis 
+ institute for robotics and intelligent machines 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

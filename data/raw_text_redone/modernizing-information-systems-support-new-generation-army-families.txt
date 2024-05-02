@@ -1,0 +1,44 @@
+modernizing information systems to support a new generation of army families 
+ gtri is helping the army community service upgrade its information systems. 
+ gtri senior research scientist sheila isbell and senior research associate margarita gonzalez are helping the army community service program revamp information systems used to provide an array of social services to the families of soldiers. (credit: branden camp, georgia tech) 
+ mar 07, 2018 
+ — atlanta, ga 
+ with their loved ones sometimes deployed far away from home, potentially in harm’s way, the families of soldiers face challenging circumstances that can place a strain on everyday life. 
+ that’s what led the army more than five decades ago to establish the army community service (acs), a program designed to provide a vast array of social services to soldiers’ families such as support for new parents, financial counseling and help finding a job. 
+ now, the acs is looking ahead at novel ways to improve how services are delivered and is working with the 
+ georgia tech research institute 
+ (gtri) on a sweeping project to revamp its collection of information systems – key tools used by staff members providing services to army families. 
+ the goal is to make the software smarter, faster, easier to use, and in the long run enable army leaders to leverage data from the systems to gain new insights that could help shape future services. 
+ “the primary driver for this project was to transform a proprietary and antiquated army system into a more efficient cloud-friendly environment to enable better service delivery by providing robust access to applications that are vital to accomplishing our customer support missions,” said david b. severson, a program specialist at the army’s installation management command. 
+ a big part of the effort, which began in 2015, is building systems that can track and process data being gathered by acs staff members across the army. 
+ “these systems support the army’s mission to help make soldiers and their families more ready to respond to life’s challenges,” said sheila isbell, a senior research scientist who is leading gtri’s support for the project. “the army’s needs outgrew its current information systems, and as a result we’re helping to build platforms using cloud-based open architectures that will make the software much more capable and easier to maintain and upgrade over time.” 
+ the project involves the transformation of eight separate information systems and unifying them through a new web interface – called the army family web portal (afwp). acs staff members will be able to gain access to all of the systems through a single sign-on. 
+ a key design approach throughout the rebuilding process is presenting data-entry forms that make it easier to capture the right information and reduce the likelihood of missing or incomplete data. 
+ “they needed a system that supported the uploading of that data in a more comprehensive way,” said margarita gonzalez, a senior research associate at gtri, who is helping lead the project. “sometimes something as simple as using a drop-down menu rather than an open field makes all the difference in whether a form is completed properly. that then allows for the information in the system to be more complete, more precise and searchable.” 
+ for example, one of the early systems the project team got up and running helped army leaders keep track of data that required regular review and assessment. that process, which previously had involved collecting information from several different divisions within acs across the country, typically lasted for weeks. the new system enabled army leads to cull that data in a matter of days. 
+ “we’re designing software that allows them to respond quicker to trends they’re noticing among their families,” isbell said. “rather than looking at data retrospectively, this new portal will allow them to look at live data so that in some cases they can take action immediately.” 
+ another key aspect of the project includes building a secure system that allows all of the different information databases that support each service program to share information or send reports to other databases. 
+ that feature will come into play for the modernized volunteer management information system (vmis), which is one of the information systems that is used directly by army families. vmis helps track volunteer hours, among other information, for the army volunteer corps., a program that places civilian volunteers into needed roles at an army installation – providing a valuable service for the army while potentially helping volunteers gain work experience that could be useful for career advancement. the transformed cloud-based vmis will make keeping track of those hours and sharing that information much easier. 
+ “through the enhanced reporting feature, data will become more readily available to program managers who analyze the program trends,” severson said. “this will ultimately assist in making data driven decisions in acs program improvements.” 
+ for army social workers, a big part of their job is generating reports that can be used by army leaders to gain insight into the trends happening at individual installations or throughout the army. gtri’s task is to create a software suite that makes reporting easier as well. 
+ “if you have a system that better handles the data and generates reports and feedback, as well as one that on the front end that makes it easier for staff members to input, it frees up a lot of time both at the leadership level and at the service-delivery level,” isbell said. “it allows leaders to analyze the data faster and really dig into what that information is telling them, and staff members to be better able to provide services to army families.” 
+ in building the new cloud-based software suite, the gtri team is also laying the foundation for software that will stand the test of time with an open-source platform as opposed to a closed, proprietary system. 
+ “the idea was to build something that is sustainable for years and years, and make it so that the army does not have a hard time finding contractors who can make changes and updates,” isbell said. “an open source platform is essential to that longevity.” 
+ the open platform can also help the army keep down costs over time. 
+ “through the years, the legacy system was limited to only a few support vendors because of its proprietary state,” severson said. “the new system focuses on an open source foundation to allow greater flexibility in vendor contract support.” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations assistance : josh brown (404-385-0500) (josh.brown@comm.gatech.edu) or john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : josh brown 
+ additional images 
+ contact 
+ josh brown 
+ research news 
+ 404-853-0500 
+ email 
+ josh.brown@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

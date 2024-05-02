@@ -1,0 +1,50 @@
+wearable brain-machine interface could control a wheelchair, vehicle or computer 
+ combining new classes of nanomembrane electrodes with flexible electronics and a deep learning algorithm could help disabled people wirelessly control devices. 
+ an aerosol-jet printed stretchable, skin-like electrode with an open-mesh structure shown in inset. (courtesy of woon-hong yeo) 
+ sep 20, 2019 
+ — atlanta, ga 
+ combining new classes of nanomembrane electrodes with flexible electronics and a deep learning algorithm could help disabled people wirelessly control an electric wheelchair, interact with a computer or operate a small robotic vehicle without donning a bulky hair-electrode cap or contending with wires. 
+ by providing a fully portable, wireless brain-machine interface (bmi), the wearable system could offer an improvement over conventional electroencephalography (eeg) for measuring signals from visually evoked potentials in the human brain. the system’s ability to measure eeg signals for bmi has been evaluated with six human subjects, but has not been studied with disabled individuals. 
+ the project, conducted by researchers from the georgia institute of technology, university of kent and wichita state university, was reported on september 11 in the journal 
+ nature machine intelligence . 
+ “this work reports fundamental strategies to design an ergonomic, portable eeg system for a broad range of assistive devices, smart home systems and neuro-gaming interfaces,” said 
+ woon-hong yeo , an assistant professor in georgia tech’s 
+ george w. woodruff school of mechanical engineering 
+ and 
+ wallace h. coulter department of biomedical engineering. 
+ “the primary innovation is in the development of a fully integrated package of high-resolution eeg monitoring systems and circuits within a miniaturized skin-conformal system.” 
+ bmi is an essential part of rehabilitation technology that allows those with amyotrophic lateral sclerosis (als), chronic stroke or other severe motor disabilities to control prosthetic systems. gathering brain signals known as steady-state virtually evoked potentials (ssvep) now requires use of an electrode-studded hair cap that uses wet electrodes, adhesives and wires to connect with computer equipment that interprets the signals. 
+ yeo and his collaborators are taking advantage of a new class of flexible, wireless sensors and electronics that can be easily applied to the skin. the system includes three primary components: highly flexible, hair-mounted electrodes that make direct contact with the scalp through hair; an ultrathin nanomembrane electrode; and soft, flexible circuity with a bluetooth telemetry unit. the recorded eeg data from the brain is processed in the flexible circuitry, then wirelessly delivered to a tablet computer via bluetooth from up to 15 meters away. 
+ beyond the sensing requirements, detecting and analyzing ssvep signals have been challenging because of the low signal amplitude, which is in the range of tens of micro-volts, similar to electrical noise in the body. researchers also must deal with variation in human brains. yet accurately measuring the signals is essential to determining what the user wants the system to do. 
+ to address those challenges, the research team turned to deep learning neural network algorithms running on the flexible circuitry. 
+ “deep learning methods, commonly used to classify pictures of everyday things such as cats and dogs, are used to analyze the eeg signals,” said chee siang (jim) ang, senior lecturer in multimedia / digital systems at the university of kent. “like pictures of a dog which can have a lot of variations, eeg signals have the same challenge of high variability. deep learning methods have proven to work well with pictures, and we show that they work very well with eeg signals as well.” 
+ in addition, the researchers used deep learning models to identify which electrodes are the most useful for gathering information to classify eeg signals. “we found that the model is able to identify the relevant locations in the brain for bmi, which is in agreement with human experts,” ang added. “this reduces the number of sensors we need, cutting cost and improving portability.” 
+ the system uses three elastomeric scalp electrodes held onto the head with a fabric band, ultrathin wireless electronics conformed to the neck, and a skin-like printed electrode placed on the skin below an ear. the dry soft electrodes adhere to the skin and do not use adhesive or gel. along with ease of use, the system could reduce noise and interference and provide higher data transmission rates compared to existing systems. 
+ the system was evaluated with six human subjects. the deep learning algorithm with real-time data classification could control an electric wheelchair and a small robotic vehicle. the signals could also be used to control a display system without using a keyboard, joystick or other controller, yeo said. 
+ “typical eeg systems must cover the majority of the scalp to get signals, but potential users may be sensitive about wearing them,” yeo added. “this miniaturized, wearable soft device is fully integrated and designed to be comfortable for long-term use.” 
+ next steps will include improving the electrodes and making the system more useful for motor-impaired individuals. 
+ “future study would focus on investigation of fully elastomeric, wireless self-adhesive electrodes that can be mounted on the hairy scalp without any support from headgear, along with further miniaturization of the electronics to incorporate more electrodes for use with other studies,” yeo said. “the eeg system can also be reconfigured to monitor motor-evoked potentials or motor imagination for motor-impaired subjects, which will be further studied as a future work on therapeutic applications.” 
+ long-term, the system may have potential for other applications where simpler eeg monitoring would be helpful, such as in sleep studies done by 
+ audrey duarte , an associate professor in georgia tech’s 
+ school of psychology . 
+ “this eeg monitoring system has the potential to finally allow scientists to monitor human neural activity in a relatively unobtrusive way as subjects go about their lives,” she said. “for example, dr. yeo and i are currently using a similar system to monitor neural activity while people sleep in the comfort of their own homes, rather than the lab with bulky, rigid, uncomfortable equipment, as is customarily done. measuring sleep-related neural activity with an imperceptible system may allow us to identify new, non-invasive biomarkers of alzheimer's-related neural pathology predictive of dementia.” 
+ in addition to those already mentioned, the research team included musa mahmood, yun-soung kim, saswat mishra, and robert herbert from georgia tech; deogratias mzurikwao from the university of kent; and yongkuk lee from wichita state university. 
+ this research was supported by a grant from the fundamental research program (project pnk5061) of korea institute of materials science, funding by the nano-material technology development program through the national research foundation of korea (nrf) funded by the ministry of science, ict and future planning (no. 2016m3a7b4900044), and support from the institute for electronics and nanotechnology, a member of the national nanotechnology coordinated infrastructure, which is supported by the national science foundation (grant eccs-1542174). 
+ citation : musa mahmood, et al., “fully portable and wireless universal brain-machine interfaces enabled by flexible scalp electronics and deep learning algorithm.” (nature machine intelligence, 1, 412-422, 2019). 
+ https: / / doi.org / 10.1038 / s42256-019-0091-7 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,36 @@
+Georgia Tech Professor Produces 'The Nerdiest Study of 2019'
+Prof. Joseph H. Saleh uses his engineering perspective to decode political history
+Prof. Joseph H. Saleh
+Jan 08, 2020
+— Atlanta, GA
+If American politics sometimes
+seem
+like a bloodsport, they do not,
+in fact , risk the lives of our office holders.
+Not so, in Ancient Rome.
+This, according to Georgia Tech professor
+Joseph H. Saleh ,
+author of
+"Statistical Reliability Analysis for a Most Dangerous Occupation: Roman Emperor,"
+published last month by Palgrave Communications, a division of the journal
+Nature .
+"Popular culture associates the lives of Roman emperors with luxury, cruelty,and debauchery, sometimes rightfully so," writes Saleh, a respected risk analysis expert who teaches in the Daniel Guggenheim School of Aerospace Engineering.
+"One missing attribute in this list is, surprisingly, that this mighty office was most dangerous for its holder. Of the 69 rulers of the unified Roman Empire, from Augustus (d. 14 CE) to Theodosius (d. 395 CE), 62 percent suffered violent death."
+Dubbed  "the Nerdiest Study of 2019" by
+Fast Company
+magazine, Saleh's piece was reported on by dozens of mainstream publications around the globe. Praise from Saleh's colleagues in academia was likewise generous.
+"This paper has the potential to lead to important interdisciplinary work on a central question in Roman history," wrote one Palgrave Communications reviewer.
+"[This] has the potential to change how Roman historians think about this topic by showing that unique historical cases can be modeled as instances of a stochastic process," wrote another reviewer.
+The fact that so many Roman emperors faced violent deaths is a matter of public record, Saleh notes. His analysis focuses more on the length of their individual tenures. Absent term limits, impeachments, and democratic elections, what factors influenced the length of their reigns? Would they be hastened or delayed by their leadership style or by a fault of the particular system of government?
+Saleh dug into those question by borrowing from the parlance of reliability engineering, which would look at a system's "time-to-failure" profile. Instead, he developed each emperor's "time-to-violent-death"  profile to gain insight.
+"We examined whether there is some structure of underlying randomness in the process [of regicide]." he notes.
+Among other things, Saleh found that two-thirds of all Roman emperors died violently in the first year of their rule. Of those who survived at least seven years, many were able to hold onto their thrones for another five years.
+"A fundamental engine of the spectacle of regicide was not structural in nature, nor within the legions or the flawed system of government of the empire, but intrinsic to the actors themselves,"  he writes. "The individuals should not be neglected in future work. It was the mutual interactions between the motivations and ambitions of individuals on the one hand, and the social, political, and military factors on the other hand that led to spectacle of regicide of Roman emperors. The whole was subject to historical contingencies and some level of randomness in the timing and alignment of factors."
+Saleh's scientific analysis of the process leaves room for a robust debate involving history, politics, and even human behavior. Ever the seeker, Saleh welcomes the discussion.
+"I undertook this work mostly for the pleasure of writing, and the pleasure of exploring and sharing something on this topic," said Saleh, who holds a doctorate in aerospace engineering from MIT and a master's in history from Harvard. "It was an incredibly enjoyable experience, and I hoped anyone who reads this would get a bit of this pleasure out of it. I did not expect nor considered there would anything utilitarian in this work."
+Additional Images
+Related links
+Statistical reliability analysis for a most dangerous occupation: Roman emperor
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

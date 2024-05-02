@@ -1,0 +1,34 @@
+Campus Initiatives Continue to Tackle Challenge of Covid-19
+Tech researchers have helped develop several new technologies to add on to testing, masking, and distancing.
+Covid-19 Research Illustration
+Feb 16, 2021
+— Atlanta, GA
+As students, faculty, and staff return to campus, there are several ways to slow the spread of Covid-19. The main three are, as they were in the fall, to
+get tested weekly , wear a mask, and physically distance yourself from others.
+Recently, though, Georgia Tech researchers have developed even more ways for members of the Georgia Tech community to help slow the spread.
+One project in the works is in coordination with the
+National Institutes of Health RADx initiative . This program is designed to evaluate novel high-throughput, cost-effective tests, and positive samples are needed for validation. Surveillance testing participants will be able to opt in to provide an additional sample at the campus testing site in the Couch Building. Identities are not tied to samples. To participate, visit the Couch Building testing site
+during regular operating hours
+and let the testing staff know you’d like to participate.
+In the fall, Georgia Tech started using NOVID, an exposure notification app. The app has been enhanced since the fall and now runs in the background on both Androids and iPhones, so users need only open it once and not fully turn it off for it to work. Without collecting any personally identifiable information from its users, the app uses ultrasound and Bluetooth technology to keep track of who each person has been in contact with. Users are alerted if someone they’ve been in contact with tests positive, enabling them to judge their risk of exposure and whether to self-isolate. Learn more about NOVID
+here .
+In addition, the
+COVIDvoice
+project lets people anonymously submit voice recordings and know immediately if they may have Covid-19 or not. Bruce Walker, professor in the School of Psychology and School of Interactive Computing, is leading the project. COVIDvoice’s algorithms are designed to detect subtle changes in the body’s speech systems sometimes caused by the virus.
+Users are encouraged to submit to COVIDvoice regularly to help improve the program’s algorithms, which are already approximately 80% accurate.
+Meanwhile, David Ku, Regents Professor and Lawrence P. Huang Chair in the George W. Woodruff School of Mechanical Engineering, helped create
+Count Covid , an anonymous survey that allows people to track any potential Covid-19 symptoms they may have. Respondents also provide their zip code to contribute to time-based displays that show the spread of Covid-19 in individual communities.
+Finally, the American Red Cross is always looking for blood donations, especially now. Blood drives will be on campus approximately once a month; you can see the next one on the GT American Red Cross Club’s
+calendar
+or find another one
+here . Donations are now
+being screened for Covid-19 antibodies . Donors will be able to learn the results of their antibody test and whether they may have had an asymptomatic case without knowing it.
+While students, faculty, and staff are encouraged to participate in these new opportunities to help slow the spread as much as possible, they are no substitute for regular testing, masking, and social distancing. Those who test positive off campus should report their results to Stamps Health Services. Learn more about those initiatives
+here .
+Additional Images
+Contact
+Grace Wyner
+Institute Communications
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

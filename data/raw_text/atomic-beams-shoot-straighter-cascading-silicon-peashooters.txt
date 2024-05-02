@@ -1,0 +1,47 @@
+Atomic Beams Shoot Straighter via Cascading Silicon Peashooters
+A true feat in miniaturization, this new device could inspire a new generation of handheld navigation systems and quantum entanglement machines
+Atoms, here in blue, shoot out of parallel barrels of an atom beam collimator. Lasers, here in pink, can manipulate the exiting atoms for desired effects. Credit: Georgia Tech / Ella Maru studios work for hire
+Apr 23, 2019
+— Atlanta, GA
+To a non-physicist, an “atomic beam collimator” may sound like a phaser firing mystical particles. That might not be the worst metaphor to introduce a technology that
+researchers have now miniaturized , making it more likely to someday land in handheld devices.
+Today, atomic beam collimators are mostly found in physics labs, where they shoot out atoms in a beam that produces exotic quantum phenomena and which has properties that may be useful in precision technologies. By shrinking collimators from the size of a small appliance to fit on a fingertip, researchers at the Georgia Institute of Technology want to make the technology available to engineers advancing devices like atomic clocks or  accelerometers , a component found in smartphones.
+“A typical device you might make out of this is a next-generation gyroscope for a precision navigation system that is independent of GPS and can be used when you’re out of satellite range in a remote region or traveling in space,” said Chandra Raman,  an associate professor in Georgia Tech’s School of Physics  and a co-principal investigator on the study.
+The research was funded by the Office of Navy Research. The researchers
+published their results in the journal  Nature Communications  on April 23, 2019.
+Here’s what a collimator is, some of the quantum potential in atomic beams, and how the miniature collimator format could help atomic beams shape new generations of technology.
+Pocket atomic shotgun
+“Collimated atomic beams have been around for decades,” Raman said, “But currently, collimators must be large in order to be precise.”
+The atomic beam starts in a box full of atoms, often  rubidium , heated to a vapor so that the atoms zing about chaotically. A tube taps into the box, and random atoms with the right trajectory shoot into the tube like pellets entering the barrel of a shotgun.
+Like pellets leaving a shotgun, the atoms exit the end of the tube shooting reasonably straight but also with a random spray of atomic shot flying at skewed angles. In an atomic beam, that spray produces signal noise, and the improved collimator-on-a-chip eliminates most of it for a more precise, nearly perfectly parallel beam of atoms.
+The beam is much more focused and pure than beams coming from existing collimators. The researchers would also like their collimator to enable experimental physicists to more conveniently create complex quantum states.
+[Thinking about grad school?  Here's how to apply to Georgia Tech. ]
+Unwavering inertia machine
+But more immediately, the collimator sets up Newtonian mechanics that could be adapted for practical use.
+The improved beams are streams of unwavering  inertia  because, unlike a laser beam, which is made of massless photons, atoms have mass and thus momentum and inertia. This makes their beams potentially ideal reference points in beam-driven  gyroscopes  that help track motion and changes in location.
+Current gyroscopes in GPS-free navigation devices are precise in the short run but not the long run, which means recalibrating or replacing them ever so often, and that makes them less convenient, say, on the moon or on Mars.
+“Conventional chip-scale instruments based on  MEMS (microelectromechanical systems) technology  suffer from drift over time from various stresses,” said co-principal investigator Farrokh Ayazi, who is Ken Byers  Professor in Georgia Tech’s School of Electrical and Computer Engineering . “To eliminate that drift, you need an absolutely stable mechanism. This atomic beam creates that kind of reference on a chip.”
+Quantum entanglement beam
+Heat-excited atoms in a beam can also be converted into  Rydberg atoms, which provide a cornucopia of quantum properties .
+When an atom is energized enough, its outermost orbiting electron bumps out so far that the atom balloons in size. Orbiting so far out with so much energy, that outermost electron behaves like the lone electron of a hydrogen atom, and the Rydberg atom acts as if it had only a single proton.
+“You can engineer certain kinds of multi-atom quantum entanglement by using Rydberg states because the atoms interact with each other much more strongly than two atoms in the ground state,” Raman said.
+“Rydberg atoms could also advance future sensor technologies because they’re sensitive to fluxes in force or in electronic fields smaller than an electron in scale,” Ayazi said. “They could also be used in quantum information processing.”
+Lithographed silicon grooves
+The researchers devised a surprisingly convenient way to make the new collimator, which could encourage manufacturers to adopt it: They cut long, extremely narrow channels through a silicon wafer running parallel to its flat surface. The channels were like shotgun barrels lined up side-by-side to shoot out an array of atomic beams.
+Silicon is an exceptionally slick material for the atoms to fly through and also is used in many existing microelectronic and computing technologies. That opens up the possibility for combining these technologies on a chip with the new miniature collimator. Lithography, which is used to etch existing chip technology, was used to precisely cut the collimator's channels.
+The researchers’ biggest innovation greatly reduced the shotgun-like spray, i.e. the signal noise. They sliced two gaps in the channels, forming an aligned cascade of three sets of parallel arrays of barrels.
+Atoms flying at skewed angles jump out of the channels at the gaps and those flying reasonably parallel in the first array of channels continue on to the next one, then the process repeats going from the second into the third array of channels. This gives the new collimator’s atomic beams their exceptional straightness.
+Also read:
+What spooky quantum particles have in common with curveballs
+These authors contributed to the study: Chao Li, Xiao Chai, Bochao Wei, Jeremy Yang, and Anosh Daruwalla, all from Georgia Tech. The research was funded by the Office of Naval Research (award # N00014-17-1-2249). A patent is pending (U.S. patent app. # 62/672,709). Any findings, conclusions or recommendations are those of the authors and not necessarily of the Office of Naval Research.
+Media contact/writer : Ben Brumfield
+(404) 660-1408
+ben.brumfield@comm.gatech.edu
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

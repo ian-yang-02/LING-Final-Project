@@ -1,0 +1,29 @@
+durability vs. recyclability: dueling goals in making electronics more sustainable 
+ research released by a team at georgia institute of technology looked into the impact of government policies put in place to reduce the amount of electronics waste filling up landfills. 
+ atalay atasu, a professor at the scheller college of business 
+ apr 15, 2019 
+ — atlanta, ga 
+ the falling cost of solar power has led to a boom in recent years, with more and more photovoltaic panels popping up on rooftops and backyard solar farms around the world. 
+ but what happens to all of those solar panels in a couple of decades when they reach the end of their useful life? and what about electronic devices with even shorter life spans? 
+ those questions are at the heart of new research released by a team at georgia institute of technology, where researchers looked into the impact of government policies put in place to reduce the amount of electronics waste filling up landfills. 
+ “there is a lot of concern in sustainability circles that manufacturers are making things with shorter and shorter life spans, and products are perhaps even intentionally made to become obsolete to induce replacement purchases,” said beril toktay, a professor at georgia tech’s scheller college of business. 
+ the study, which was published april 4 in the journal 
+ management science , focused on government policies used to encourage electronics makers to put more thought into what happens at the end of the product life cycle. those programs, which are called extended producer responsibility (epr) laws and are already in use in some states, have two common objectives: to have producers design their products to be easier to recycle or to boost their durability for increased device life span. 
+ however, the researchers reported that those goals are often at odds. 
+ “what we have found is that sometimes when you design for recyclability, you give up on durability, and when durability is the goal, recyclability is sacrificed,” toktay said. 
+ in theory, a product that is both easy to recycle and more durable would be the pinnacle of environmentally responsible product design. the researchers pointed to automobiles with thicker metal frames that last longer and also have more recyclable materials. in such a scenario, epr policies emphasizing durability and recyclability work hand in hand. 
+ “sometimes simple choices that product designers make, such as using glue or fasteners to put together a device, really impact recyclability at the end of life,” said natalie huang, a former graduate student at georgia tech and now an assistant professor at the university of minnesota. 
+ more often than not, however, there is no such synergy. in the case of photovoltaic panels, the researchers highlighted how thin-film panels are much more cost effective to recycle than other panels because they contain precious metals. meanwhile, crystalline silicon panels, which aren’t as cost effective to recycle, have much longer life spans because their components degrade much more slowly. 
+ “these kinds of trade-offs are common, and so from a policy-making perspective, there’s not a one-size-fits-all approach that will work,” said atalay atasu, a professor at the scheller college of business. “you really have to distinguish between different product categories to consider the recyclability and the durability implications and make sure that your policy isn’t conflicting with the objective.” 
+ the researchers said that in some cases, epr policies could actually lead to increased waste generation if product designers make products more recyclable but less durable, or lead to increased greenhouse gas emissions if products are made more durable but less recyclable. 
+ to help determine how government policies could impact individual products, the researchers built a mathematical model to help predict the impact those policies would have on products based on their materials and design characteristics. among the factors the model takes into account are the base production cost of the product, the degree of difficulty in increasing recyclability and durability, the degree of interaction between recyclability and durability in the product design, and the recycling properties of the product. 
+ “ultimately what we’re after is to find a way to do scenario analyses to determine what would be the best policy for different product categories,” toktay said. “fifteen to 20 years from now, a lot of panels are going to be coming off of roofs. are they being designed with the end of life in mind and with consideration of what’s the best way to reduce the impact of producing those panels?” 
+ citation : ximin (natalie) huang, atalay atasu and l. beril toktay, “design implications of extended producer responsibility for durable products,” (management science, april 2019). http: / / dx.doi.org / 10.1287 / mnsc.2018.3072 
+ additional images 
+ contact 
+ josh brown, research news, (404) 385-0500 
+ email 
+ josh.brown@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,36 @@
+wearable computing ring allows users to write words and numbers with thumb 
+ technology allows people to trace letters and numbers on their fingers and see the figures appear on a nearby computer screen. 
+ fingersound uses wearable ring technology to detect numbers and letters drawn on fingers. 
+ nov 29, 2017 
+ — atlanta, ga 
+ with the whirl of a thumb, georgia tech researchers have created technology that allows people to trace letters and numbers on their fingers and see the figures appear on a nearby computer screen. the system is triggered by a thumb ring outfitted with a gyroscope and tiny microphone. as wearers strum their thumb across the fingers, the hardware detects the movement. 
+ in a 
+ video demonstration , the “written” figures appear on an adjacent screen. in the future, the researchers say the technology could be used to send phone calls to voicemail or answer text messages — all without the wearer reaching for their phone or even looking at it. 
+ “when a person grabs their phone during a meeting, even if trying to silence it, the gesture can infringe on the conversation or be distracting,” said thad starner, the georgia tech school of interactive computing professor leading the project. “but if they can simply send the call to voicemail, perhaps by writing an ‘x’ on their hand below the table, there isn’t an interruption.” 
+ starner also says the technology could be used in virtual reality, replacing the need to take off a head-mounted device in order to input commands via a mouse or keyboard. 
+ the research team wanted to build a system that would always be available and easy to use. 
+ “a ring augments the fingers in a way that is fairly non-obstructive during daily activities. a ring is also socially acceptable, unlike other wearable input devices,” said cheng zhang, the georgia tech graduate student who created the technology. 
+ the system is called fingersound. while other gesture-based systems require the user to perform gestures in the air, fingersound uses the fingers as a canvas. this allows the system to clearly recognize the beginning and end of an intended gesture by using the microphone and gyroscope to detect the signal. in addition to helping recognize the start and end of a gesture, it also provides tactile feedback while performing the gestures. this feedback is crucial for user experience and is missing on other in-air gestures 
+ “our system uses sound and movement to identify intended gestures, which improves the accuracy compared to a system just looking for movements,” said zhang. “for instance, to a gyroscope, random finger movements during walking may look very similar to the thumb gestures. but based on our investigation, the sounds caused by these daily activities are quite different from each other.” 
+ fingersound sends the sound captured by the contact microphone and motion data captured by the gyroscope sensor through multiple filtering mechanisms. the system then analyzes it to determine whether a gesture was performed or whether it was simply noise from other finger-related activity. 
+ the research was presented earlier this year at ubicomp and the acm international symposium on wearable computing along with two other papers that feature ring-based gesture technology. 
+ fingorbits 
+ allows the wearer to control apps on a smartwatch or head-mounted display by rubbing their thumb on their hand. with 
+ soundtrak , people can write words or 3-d doodles in the air by localizing the absolute position of the finger in 3-d space, then see the results simultaneously on a computer screen. 
+ the new technologies were developed by the same team that created a technique that 
+ allowed smartwatch wearers to control their device by tapping its sides . 
+ additional images 
+ related links 
+ previous research with smartwatches 
+ school of interactive computing 
+ meet thad starner 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

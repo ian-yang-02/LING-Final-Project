@@ -1,0 +1,39 @@
+Filtration Engineers Offer Advice on Do-It-Yourself Face Masks
+A new website has been launched to share information and recommendations about creating your own face masks.
+Coping with COVID-19
+Apr 06, 2020
+— Atlanta, GA
+The continuing shortage of face masks and new recommendations on their use by the general public have led many individuals and organizations to make their own masks using available materials. While homemade protection as simple as scarves and bandanas can be helpful, there are ways to optimize the benefit of do-it-yourself personal protective equipment (PPE).
+“Our expectation is that frontline healthcare workers interacting with COVID-19 patients will use certified PPE,” said
+Ryan Lively , an associate professor in Georgia Tech’s
+School of Chemical and Biomolecular Engineering . “But for situations that don’t involve intimate and prolonged interactions with COVID-19 infected individuals, we believe that DIY cloth face masks combined with proper social distancing etiquette will help slow the spread of this virus.”
+While the underlying physics of filtration are complicated, Lively and colleagues believe that two or more layers of a tightly woven, knitted, or nonwoven fabric can provide at least a partial barrier to virus-containing droplets, which combined with social distancing, can reduce the likelihood of virus transmission.
+“Equally, important though, is the way that users fit, wear, handle, and remove the face mask,” said
+Mark Losego , an assistant professor in Georgia Tech’s
+School of Materials Science and Engineering . “Because the mask will be touching your face, it and your hands should be clean before putting it on. The mask should be snug but not uncomfortable.”
+Gaps around the nose and chin should be minimized. Once wearing the mask, you should avoid touching or moving the mask; don’t pull the mask down to cough or sneeze! The mask is expected to capture germs, so it should be removed by touching only the straps; otherwise, you will contaminate your hands.
+Equally important to blocking virus-containing droplets is that the mask materials be breathable and non-hazardous for inhalation. “For example, there is some danger of glass fibers within HEPA or MERV filters being inhaled if appropriate blocking layers are not included,” said Lively. “Most apparel or home goods textiles are safe. However, if you smell a chemical odor from the material, you should probably avoid using it for a mask.”
+Upon returning home from an errand, the mask should be discarded or thrown in the clothes washer and cleaned before being used again.  If the fabric mask does get wet from another individual’s cough or sneeze, the mask should be removed quickly at a safe distance. The team recommends reviewing both the World Health Organization (WHO)
+link
+and Centers for Disease Control and Prevention (CDC)  guidelines
+for mask wearing.
+A new website ( www.research.gatech.edu/rapid-response ) has been created to bring together recommendations and templates for making face masks. The website provides guidance for making unsewn, sewn, glued, or 3D-printed face masks.
+The recommendations resulted from consulting with a team of experts in materials, chemical and mechanical engineering, filtration processes, and production design. “We have also interacted with relevant stakeholders, including hospitals and manufacturers, and studied the peer-reviewed literature to make recommendations based on scientific evidence,” said Lively.
+On the website, the researchers suggest alternatives for materials that are in short supply. For instance, high-performance HEPA furnace filters can be used with 3D printed masks to create a respirator, provided the HEPA filters are installed in between two blocking layers of nonwoven fabric. Reusable polypropylene grocery bags without a shiny film can be used as the droplet-repelling outer shell of the masks.
+The new website includes directions, recommendations, files for 3D printers and more. The team is actively testing fabric materials to provide more specific recommendations for which fabrics to use and which to avoid. A rudimentary DIY test using a water spray bottle is described to make an initial assessment of how suitable a fabric is for a mask.
+Masks produced or tested with directions from the site do not meet the standards of federal agencies such as NIOSH, OSHA or the FDA.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

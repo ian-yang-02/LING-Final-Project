@@ -1,0 +1,47 @@
+This Matrix Delivers Healing Stem Cells to Injured Elderly Muscles
+Elderly accident victims and Duchene muscular dystrophy sufferers could someday benefit from this stem cell hydrogel successfully tested in mice.
+Hydrogel delivered stem cells called muscle satellite cells integrate to form new muscle strands, in green, along with existing muscle tissue, in red. Yellow strands may descend from existing muscle cells and from delivered MuSCs.
+Aug 15, 2018
+— Atlanta, GA
+A car accident leaves an aging patient with severe muscle injuries that won’t heal. Treatment with muscle stem cells from a donor might restore damaged tissue, but doctors are unable to deliver them effectively.
+A new method  may help change this.
+Researchers at the Georgia Institute of Technology engineered a molecular matrix, a hydrogel, to deliver muscle stem cells called muscle satellite cells (MuSCs) directly to injured muscle tissue in patients whose muscles don’t regenerate well. In lab experiments on mice, the hydrogel successfully delivered MuSCs to injured, aged muscle tissue to boost the healing process while protecting the stem cells from harsh immune reactions.
+The method was also successful in mice with a muscle tissue deficiency that emulated Duchene muscular dystrophy, and if research progresses, the new hydrogel therapy could one day save the lives of people suffering from the disease.
+Inflammatory war zone
+Simply injecting additional muscle satellite cells into damaged, inflamed tissue has proven inefficient, in part because the stem cells encounter an immune system on the warpath.
+“Any muscle injury is going to attract immune cells. Typically, this would help muscle stem cells repair damage. But in aged or dystrophic muscles, immune cells lead to the release a lot of toxic chemicals like cytokines and free radicals that kill the new stem cells,” said Young Jang, an  assistant professor in Georgia Tech’s School of Biological Sciences  and one of the study’s principal investigators.
+Only between 1 and 20 percent of injected MuSCs make it to damaged tissue, and those that do, arrive there weakened. Also, some tissue damage makes any injection unfeasible, thus the need for new delivery strategies.
+“Our new hydrogel protects the stem cells, which multiply and thrive inside the matrix. The gel is applied to injured muscle, and the cells engraft onto the tissues and help them heal,” said Woojin Han, a postdoctoral researcher in Georgia Tech’s School of Mechanical Engineering and the paper’s first author.
+Han, Jang and Andres Garcia, the study’s other principal investigator,
+published their results on August 15, 2018, in the journal  Science Advances . The National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health funded the research.
+Hydrogel: watery nets
+Hydrogels often start out as water-based solutions of molecular components that resemble crosses, and other components that make the ends of the crosses attach to each other. When the components come together, they fuse into molecular nets suspended in water, resulting in a material with the consistency of a gel.
+If stem cells or a drug are mixed into the solution, when the net, or matrix, forms, it ensnares the treatment for delivery and protects the payload from death or dissipation in the body. Researchers can easily and reliably synthesize hydrogels and also custom-engineer them by tweaking their components, as the Georgia Tech researchers did in this hydrogel.
+“It physically traps the muscle satellite cells in a net, but the cells also grab onto chemical latches we engineered into the net,” Han said.
+This hydrogel’s added latches, which bond with proteins protruding from stem cells’ membranes, not only increase the cells’ adhesion to the net but also hinder them from committing suicide. Stem cells tend to kill themselves when they’re detached and free-floating.
+The chemical components and the cells are mixed in solution then applied to the injured muscle, where the mixture sets to a matrix-gel patch that glues the stem cells in place. The gel is biocompatible and biodegradable.
+“The stem cells keep multiplying and thriving in the gel after it is applied,” Jang said. “Then the hydrogel degrades and leaves behind the cells engrafted onto muscle tissue the way natural stem cells usually would be.”
+Stem cell breakdown
+In younger, healthier patients, muscle satellite cells are part of the natural healing mechanism.
+“Muscle satellite cells are resident stem cells in your skeletal muscles. They live on muscle strands like specks, and they’re key players in making new muscle tissue,” Han said.
+“As we age, we lose muscle mass, and the number of satellite cells also decreases. The ones that are left get weaker. It’s a double whammy,” Jang said. “At a very advanced age, a patient stops regenerating muscle altogether.”
+“With this system we engineered, we think we can introduce donor cells to enhance the repair mechanism in injured older patients,” Han said. “We also want to get this to work in patients with Duchene muscular dystrophy.”
+“Duchene muscular dystrophy is surprisingly frequent,” Jang said. “About 1 in 3,500 boys get it. They eventually get respiratory defects that lead to death, so we hope to be able to use this to rebuild their diaphragm muscles.”
+If the method goes to clinical trials, researchers will likely have to work around the potential for donor cell rejection in human patients.
+Also READ: Punching Cancer with RNA Knuckles Wrapped in Hydrogel
+Like this article?
+Subscribe to our email newsletter here.
+The following researchers coauthored the paper: Shannon Anderson, Mahir Mohiuddin, Shadi Nakhai, and Eunjung Shin from Georgia Tech; Isabel Freitas Amaral, and Ana Paula Pêgo from the University of Porto in Portugal, and Daniela Barros from Georgia Tech and the University of Porto. The research was funded by the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health (awards # R21AR072287 and R01AR062368).  Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect views of the National Institutes of Health.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Assistance : Ben Brumfield (404) 660-1408, ben.brumfield@comm.gatech.edu
+Writer:
+Ben Brumfield
+Additional Images
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

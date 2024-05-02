@@ -1,0 +1,19 @@
+2019 InVenture Finalist: Unfoldit
+The idea for a gaming app came from an unlikely place – the American Dental Association’s national admissions test.
+Mar 12, 2019
+— Atlanta, GA
+The idea for a gaming app came from an unlikely place.
+“We got our idea from the American Dental Association’s national admissions test,” explains Unfolidt co-creator and computer science student Jacqueline Elliot. Imagine folding a piece of paper in half. You then punch a hole in the corner of the folded piece of paper. When you unfold the paper there would be two holes – one in each corner. The game reenacts this folding and hole-punching and quizzes respondents on the positioning of resulting holes. The team developed an interactive version of this question and turned it into a 250-level game.
+“Some people pick up the game and know exactly what to do without a tutorial,” explains Unfoldit developer Cliff Panos.
+The brain-training game also has some slick design. “We use a lot of fun colors and there are a lot of interactive features. It will vibrate when you get an answer correct,” says Michael Xu, a computer science major.
+In fact, everyone on the team is a computer science major. They built the game from scratch and spent a lot of time on user experience — “Even to the small details of how big the arrow was between stages,” says team member Max Brauer.
+The programming minds behind Unfoldit are working on a way to automate the design of levels, in hopes of adding even more gameplay. You can currently find Unfoldit in the Android and iTunes app stores.
+Additional Images
+Contact
+Steven Norris
+Institute Communications
+Email
+snorris@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,59 @@
+Georgia Tech Announces Zoom Soft Launch
+Georgia Tech will begin a soft launch of the Zoom video collaboration platform beginning Monday, Feb. 7, for students, faculty, and staff.
+Feb 07, 2022
+— Atlanta, GA
+Georgia Tech will begin a soft launch of the
+Zoom
+video collaboration platform beginning Monday, Feb. 7. The announcement comes after an almost yearlong effort to evaluate and introduce a new videoconferencing solution for academic course delivery and collaboration.
+With the Institute’s existing agreement with BlueJeans set to expire at the end of the spring semester — and the sunset of the WebEx platform in December 2021* — the
+Video Collaboration Review
+(VCR) team formed in early 2021 to explore new video collaboration platforms that meet the academic and operational needs of students, faculty, and staff. The committee, comprised of members from each division and College, along with students and technology representatives, identified requirements and evaluated possible solutions on their ability to:
+Enable secure, reliable, and flexible course delivery and student learning.
+Support virtual classrooms and meetings of multiple sizes.
+Facilitate effective collaboration and communication across the Institute.
+“It was critically important to us that we start our selection process with an examination of our needs from a collaboration, teaching, and learning perspective,” said Daren Hubbard, Georgia Tech vice president of Information Technology and chief information officer. “The committee spent a great deal of time articulating these criteria so that we could, as objectively as possible, evaluate a number of options and eventually recommend a solution for Georgia Tech.”
+“Not only did Zoom, to a large extent, meet our committee’s criteria, but it is also one of the most widely used video collaboration tools,” said Yakut Gazi, Ph.D., associate dean for Learning Systems at Georgia Tech Professional Education. “Many of our students, faculty, and staff have participated in Zoom meetings during and even before the pandemic, which we anticipate will facilitate adoption at Georgia Tech.”
+The VCR team had planned to launch a two-month pilot of Zoom at Georgia Tech last October.
+“Due to unforeseen circumstances, we regrettably had to delay, then ultimately cancel our planned October pilot,” Gazi said. “Thanks to collaborative work between the Office of Information Technology (OIT), Procurement and Business Services, and the Office of the General Counsel, we were able to come to an agreement with Zoom in December, setting us up for our soft launch in February with our campus partners.”
+Canvas has been integrated with Zoom and will enable convenient access for faculty and students in blended and online learning courses. During the first phase of the Zoom soft launch, the platform will only be available to Georgia Tech users who host meetings from inside the U.S. Zoom recordings will be automatically migrated to the user’s
+Kaltura MediaSpace
+account.
+“Over the course of the next few months, our teams will work to tighten the integration of Zoom with the classroom technology systems, as well as with the Kaltura MediaSpace video storage and delivery system, to further enhance the interoperability of our academic technology ecosystem,” Gazi said. “We will also be working with Tech entities and Zoom to expand the platform’s usage to all Georgia Tech learners, independent of their global location.”
+Gazi also applauded the extensive due diligence process that guided the committee’s decision to bring the platform to Georgia Tech.
+“I am thankful for the resilience and persistence of the committee members who guided this process for many months. I am excited to introduce this much needed platform to our community and welcome input as we continue to improve our technology tools and services.”
+OIT will work with the Georgia Tech community through the spring to prepare for the transition from BlueJeans. Upcoming communications will share resources for securely migrating stored lecture and meeting recordings and additional information.
+The campus community is invited to join an upcoming ‘Ask Me Anything’ informational Zoom session:
+Monday, Feb. 14, 3:30 – 4:15 p.m.
+Tuesday, Feb. 15, 2 – 2:45 p.m.
+Georgia Tech users can log into Zoom at
+gatech.zoom.us .
+More Zoom information and resources will be made available to the Georgia Tech community in the coming months.
+*The Georgia Tech Research Institute will continue to use its version of WebEx ( gtri.webex.com ).
+Additional Images
+Email
+oit@gatech.edu
+Additional information
+A few notes about accessing Zoom at Georgia Tech:
+Students, faculty, and staff can access Zoom at
+gatech.zoom.us.
+Sign in with your Georgia Tech login ID and password.
+During this first phase, Zoom meetings must be hosted from inside the U.S. (Meeting participants can join from anywhere in the world.)
+Zoom will integrate with Canvas to enable course delivery. Please refer to
+Using Zoom in Canvas
+for direction.
+BlueJeans will be available through the spring semester but will sunset at Georgia Tech in May. Those already using BlueJeans or Teams for video collaboration, course instruction, and advising are highly encouraged to continue using these platforms through the end of the spring semester.
+Zoom recordings will be automatically migrated to
+Kaltura MediaSpace . (They will be automatically deleted from Zoom seven business days after their creation.)
+Faculty and course instructors who would like to use Zoom for classroom instruction hosted inside the U.S. may visit
+avservices.oit.gatech.edu
+to request a classroom training opportunity.
+Zoom provides 24/7 user support at
+support.zoom.us . You may also submit a help request at
+services.gatech.edu .
+Browse Zoom knowledge articles by searching the
+Service Now
+website or via the ‘Zoom’ search provided on the site
+here . Additional articles and information will be added, as developed.
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

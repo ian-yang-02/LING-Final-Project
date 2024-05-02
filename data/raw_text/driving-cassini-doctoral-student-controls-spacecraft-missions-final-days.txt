@@ -1,0 +1,53 @@
+Driving Cassini: Doctoral Student Controls Spacecraft in Mission’s Final Days
+Michael Staab is one of three people authorized to send commands to Cassini spacecraft.
+The Cassini spacecraft, which has been orbiting Saturn since 2004, will plunge into Saturn on September 15. (Image credit: NASA/JPL-Caltech)
+Sep 12, 2017
+— Atlanta, GA
+When the
+Cassini spacecraft
+plunges into Saturn on September 15 to end a nearly two-decade mission, Georgia Tech student Michael Staab will have a front row seat. It’s almost literally the driver’s seat.
+Staab is working at
+NASA's Jet Propulsion Laboratory
+(JPL) in California while pursuing his
+aerospace engineering
+doctoral degree in the distance learning program. He’s a Cassini Spacecraft Flight Controller, which means he’s one of only three people authorized to tell the machine what to do and where to go as it orbits Saturn.
+The job is almost finished. Just before 8 a.m. (Atlanta time) on Friday, Staab will hear Cassini’s signal for the final time before it dives into the planet’s atmosphere, becoming a part of Saturn.
+Staab has controlled the bus-sized spacecraft since January of 2016, when he was given the keys to the NASA’s flagship Saturn mission. He’s logged more than 1,200 hours at the
+Cassini flight console . His commands have directed the spacecraft around Saturn 62 times, hurled it through the planet’s rings and soared Cassini around Saturn’s moons. Although Cassini will technically dive into the planet because of a gravitational nudge by Saturn’s moon Titan, Staab was the one who sent the background sequence code that will send it on its fateful plunge. He uploaded the command a few weeks ago.
+Staab earned his master’s degree in aerospace engineering in 2015. He came to campus earlier this month to talk to students about the mission and what NASA is calling “ The Grand Finale .”
+We asked him a few questions about his job, starting with the obvious:
+How did you get such a cool gig?
+I fell into this job from a combination of luck and having the right background. I actually had no intention of applying to JPL when I stopped by JPL’s booth at Georgia Tech’s fall career fair. I chatted with one of their reps and, after some persuasion, was convinced to leave a copy of my resume. I received an offer to be a Cassini flight controller a few weeks later. It was the right job and one that I always wanted.
+Prior to attending Georgia Tech, I was a flight test engineering intern at NASA’s Armstrong Flight Research Center at Edwards Air Force Base in California and, later, a test requirements and analysis engineer for Boeing in St. Louis. I had a lot of control room and operations experience, which is exactly what JPL was looking for.
+The duty of a flight controller at JPL is fairly straight-forward; we possess absolute command and control authority of the spacecraft when tracking it through the Deep-Space Network. We are the only people in the world who can tell the spacecraft what to do. We’re the first to respond to anomalies with either the ground or flight system, and we have the authority to make any real-time decisions to protect the flight system without prior approval. It’s an immense responsibility that only very few people in the world ever get to do. I am still greatly humbled to be given such responsibility by the Cassini flight team so early in my career.
+Why are you destroying the spacecraft and ending the mission?
+The mission is ending for two reasons. The first, and most obvious, is that the spacecraft is out of fuel. We primarily use its moon, Titan, to navigate around Saturn – stealing more than 100 km/s of delta-v from gravitational assists. But we need fuel to maneuver the spacecraft to very precise locations near Titan. Without it, we can’t navigate the planet. Essentially, we’d be flying blind.
+The second, and more important reason, is because we need to protect Titan and Enceladus from the potential organisms on Cassini. The spacecraft has shown both moons to be suitable for supporting life.
+Titan
+is the most Earth-like world we’ve discovered in the solar system, with methane clouds and methane-filled surface lakes. Cassini has even detected a global, subsurface ocean beneath Titan’s thick, icy surface.
+Enceladus
+is perhaps an even more exciting world. It also has a global, subsurface ocean underneath its icy crust. Unlike Titan, though, Enceladus is shooting samples of its ocean into space from a set of geysers at its south pole. Scientists have dubbed them “cold faithful.”  Enceladus gave Cassini free samples of its oceans during flybys through its plumes. The spacecraft detected the presence of carbon dioxide, simple organic compounds and molecular hydrogen. Not only do we have organic chemistry taking place in Enceladus’ ocean, but we also have direct evidence of hydrothermal vents on Enceladus’ ocean floor. All the basic ingredients for life – water, organic chemistry and an energy source – exist on the moon. Does Enceladus have life in its ocean? We don’t know yet, but it has shown the strongest evidence yet for the possibility of life outside of Earth.
+We want to go back to Enceladus with better instruments to possibly detect the presence of biological signatures. But to do so, we have to preserve the integrity of the moon and not contaminate it with Earth “bugs,” which might have hitched a ride aboard Cassini. Are you sad?
+Yes and no. I will, more than anything, miss working with the Cassini flight team. They’ve become my family at JPL. A part of me is also dealing with the fact that I will no longer get to work in the mission control center. I’ll miss not being able to sit in the chair anymore.
+However, Cassini is a victim of her own success. Her discoveries at Titan and Enceladus sealed her fate. We have to dispose of the spacecraft to guarantee it will never impact those biologically interesting moons. And, in the end, Cassini is just a robot. I’m a heartless engineer, but it’s hard to feel sad about the “death” of a machine. We like to anthropomorphize our spacecraft at JPL as having personalities and feelings. I don’t. It will be hard on the morning of the 15th to say goodbye to this mission. But I know this isn’t the end of our exploration of the Saturn system. Cassini has ensured we will return. The only question is when.
+What’s next for you after Cassini is gone?
+I’m moving over to Mars as a spacecraft systems engineer (SSE) and flight director for the
+Mars Exploration Rover Opportunity . In combination with the responsibilities of a flight director, SSEs are a jack of all trades – from tactical downlink lead, to uplink verification lead, to testbed engineers. These versatile skills are necessary for a mission operating well beyond its original design life. Opportunity was slated for a 90-sol mission (a "sol" is a day on Mars). It’s been on the surface for 4,800 and counting.
+What is your advice for your fellow Yellow Jackets interested in aerospace and/or planetary science?
+Be inquisitive, innovative and, most importantly, bold. JPL’s motto is “Dare Mighty Things.” That really encompasses the spirit of the people and the type of missions the lab designs, builds and operates.
+There really is no other place on Earth where you can build and operate spacecraft that drive on Mars, orbit Saturn and even travel to interstellar space. These missions require the lab to take bold risks and come up with, to an outsider, crazy ideas. But, as co-worker Adam Steltzner put it, it’s the right kind of crazy.
+If exploring the solar system and looking for life beyond Earth is something that excites you, JPL is the place for you.
+Additional Images
+Related links
+JPL's Space Ace
+Video: Michael Sends Commands to Cassini
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,46 @@
+drug design strategy boosts the odds against resistance development 
+ a new drug design strategy could boost the odds against developing antibiotic resistance. 
+ image shows e. coli cells under the stress of dhfr-targeting antibiotic trimethoprim in a 2015 study done prior to the research reported in this paper. the green color comes from gfp protein fused to dhfr and shows the uniform distribution of dhfr. the red color shows location of inclusion bodies of aggregated proteins in the cell. (courtesy of eugene shakhnovich) 
+ jun 14, 2017 
+ — atlanta, ga 
+ a new rational drug design technique that uses a powerful computer algorithm to identify molecules that target different receptor sites on key cellular proteins could provide a new weapon in the battle against antibiotic resistance, potentially tipping the odds against the bugs. 
+ the technique, which has been validated against a drug-resistant bacterial strain, identifies compounds that target two or more receptor sites on proteins that inhibit a key cellular function. to obtain resistance to drug compounds developed with the technique, the microbes would have to simultaneously develop mutations in all the receptor pockets targeted by the drug – a challenge much more significant than developing resistance in a single receptor site. 
+ researchers from the georgia institute of technology and harvard university believe the technique could provide a new general approach for battling drug resistance that may potentially also be applied to cancer cells and viruses which also develop drug resistance. the research, supported by the national institutes of health, was reported may 19 in the journal 
+ acs chemical biology . 
+ “we have developed an entirely novel mechanism for increasing antibiotic effectiveness,” said 
+ jeffrey skolnick , director of georgia tech’s 
+ center for the study of systems biology  and a georgia research alliance eminent scholar in computational systems biology “the problem of emerging antibiotic resistance is a major health care crisis, and we think this approach could allow the rapid design of new classes of molecules that would be able to maintain their effectiveness longer, allowing us to stay one step ahead of the bugs.” 
+ antibiotic resistance often develops when proteins – often enzymes – mutate the receptor pockets that allow the drugs to bind to the protein. bacterial populations often include individuals that have these mutations randomly, and when antibiotics kill off the susceptible cells, the population of those with the specific mutation grows. in order to control these resistant bacteria, doctors must employ a drug compound that targets a different receptor or different binding site on a key bacterial protein. 
+ the technique identified three classes of inhibitor drugs that targeted both primary and secondary receptor pockets on the dihydrofolate reductase (dhfr) enzyme in a drug-resistant strain of 
+ escherichia coli 
+ (e. coli). dhfr is necessary for the synthesis of important cellular building blocks, and is a classical target for antibiotics. without production of these compounds, bacteria cannot reproduce. 
+ using their algorithm, skolnick and his georgia tech collaborators identified 10 potentially useful drug compounds and prioritized compounds from the three categories – stilbenoid, deoxybenzoin and chalcone family of compounds – for their ability to target a secondary receptor pocket. interestingly, one of the molecules was resveratrol which is found in red wine and which has been reported to have anti-aging and anti-cancer effects. in the laboratory, the researchers confirmed that the commercially available compounds could indeed bind with dhfr. 
+ but the real test was whether the compounds would work on living bacteria. to evaluate that, the georgia tech researchers worked with eugene shakhnovich, a professor in the department of chemistry and chemical biology at harvard university. shakhnovich and his colleagues confirmed that the drug compounds shut down the production of folates in the drug-resistant 
+ e. coli , dramatically slowing the growth of the bacterium. they also showed that the addition of folates to the bacterial population allowed the bugs to survive despite treatment by the dhfr-inhibiting drugs. 
+ “we tested the compounds in vitro with purified variants of the enzyme,” shakhnovich said. “we engineered 
+ e. coli 
+ strains that carry escape mutations in the fola locus – which encodes dhfr – on their chromosomes and proved that the newly-found compounds effectively inhibit growth in both wild-type and escape mutant strains of dhfr, albeit at high concentrations.” 
+ because it is a relatively small protein with well-defined biophysical properties, dhfr “represents a desirable model to explore the genotype-phenotype relationship between biophysical properties of the enzyme and the fitness and evolution of a microorganism,” shakhnovich added. 
+ as a next step, skolnick would like to test the principle on other proteins essential to other microorganisms to see if two or more binding pockets can be targeted. that could require development of new therapeutic molecules able to attack the microbial targets. ultimately, the technique could be used to shut down other avenues of antibiotic resistance, including the ability of cells to break down drugs or eject them before they can bind. 
+ if the technique proves successful in other laboratory studies, testing with an animal model would be necessary to determine whether it can be beneficial in living organisms. 
+ dhfr has been targeted for anti-cancer drugs, and skolnick is hopeful that the two-receptor technique may prove useful in developing new chemotherapy agents that could fight off the resistance that often renders them useless. 
+ skolnick believes the approach may help scientists stay ahead of bacterial resistance by providing a technique to rapidly develop new drugs. the compounds would be used in combination therapies to further guard against development of resistance. 
+ “we are always going to be at war with microbes,” he said. “the bacterial system is going to evolve to respond to new antibiotics, so we have to keep targeting something else so the system never gets to evolve resistance. it’s likely that we’ll need to use combination therapies that use multiple drugs to eliminate the development of resistance.” 
+ this project was funded by 1r35gm118039 and 1ro1068670 (to shakhnovich) of the division of general medical sciences of the nih. the content is solely the responsibility of the authors and does not necessarily represent the official views of the national institutes of health. 
+ citation : bharath srinivasan, joa?o v. rodrigues, sam tonddast-navaei, eugene shakhnovich, and jeffrey skolnick, “rational design of novel allosteric dihydrofolate reductase inhibitors  showing antibacterial effects on drug-resistant escherichia coli escape variants,” (acs chemical biology, 2017) http: / / dx.doi.org / 10.1021 / acschembio.7b00175 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

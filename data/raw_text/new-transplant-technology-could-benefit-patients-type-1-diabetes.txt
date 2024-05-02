@@ -1,0 +1,46 @@
+New Transplant Technology Could Benefit Patients with Type 1 Diabetes
+Combining a new hydrogel material with a protein that boosts blood vessel growth could improve the success rate for transplanting insulin-producing islet cells.
+Jessica Weaver, a postdoctoral researcher in Georgia Tech’s Woodruff School of Mechanical Engineering, holds a multiwell plate containing hydrogels with pancreatic islet cells. (Credit: Christopher Moore, Georgia Tech)
+Jun 04, 2017
+— Atlanta, GA
+Combining a new hydrogel material with a protein that boosts blood vessel growth could improve the success rate for transplanting insulin-producing islet cells into persons with type 1 diabetes. In an animal model, the technique enhanced the survival rate of transplanted insulin-producing cells, restoring insulin production in response to blood glucose levels and curing these diabetic animals.
+The technology could also help patients who must have their pancreas removed because of severe pancreatitis, an inflammatory disease. Using the material and protein combination, the researchers evaluated multiple locations for implanting the islet cell clusters, the first time such a direct comparison of transplant sites has been made.
+“We have engineered a material that can be used to transplant islets and promote vascularization and survival of the islets to enhance their function,” said Andrés García, a Regents’ Professor in the Woodruff School of Mechanical Engineering at the Georgia Institute of Technology. “We are very excited about this because it could have immediate patient benefits if this proves successful in humans.”
+The research, supported by the Juvenile Diabetes Research Foundation and the National Institutes of Health, was reported June 2 in the journal Science Advances.
+Type 1 Diabetes Affects Millions
+About 1.25 million Americans have type 1 diabetes, also known as juvenile diabetes, a disease characterized by the body’s inability to produce insulin. To control the disease, patients must frequently test their glucose levels and inject insulin to maintain the proper balance. But some patients suffer life-threatening hypoglycemic episodes, and the disease has other serious health consequences.
+Using cells from cadavers, doctors have been experimentally transplanting pancreatic islets into humans for decades, but as many as 60 percent of the transplanted islets die immediately because they are cut off from their blood supply and are killed by an immune response due to direct injection into the bloodstream, and those that survive the transplant usually die within several months. In testing done so far, the islets have been placed into the vasculature of the liver, which has significant blood supply – but might not be the ideal location because of the hostile immune environment.
+Engineering a New Solution
+So García and collaborators, including Georgia Tech postdoctoral researcher and first author Jessica Weaver, set out to engineer a new approach to transplanting the cells. They developed a new degradable polymer hydrogel material used to deliver the cells as they are injected into the body. And they incorporated into the gel a protein known as vascular endothelial growth factor (VEGF), which encourages the growth of blood vessels into the transplanted cells.
+“The transplanted islets need a lot of oxygenation and a connection to the body’s circulatory system to sense the glucose levels and transport the insulin,” noted García, who is also the Rae and Frank H. Neely Endowed Chair in Mechanical Engineering. “In addition to protecting the islets, our engineered material promotes the formation of new blood vessels to nourish the cells.”
+VEGF has been tried before, but in quantities too large, it stimulates the growth of leaky blood vessels that don’t provide long-term oxygenation. Too little VEGF doesn’t grow vessels rapidly enough to maintain the transplanted islets, which are clusters containing hundreds of cells. Without sufficient vasculature in the clusters, the cells in the center don’t survive.
+Weaver used diabetic mice to compare locations in the body where the transplanted cells could be placed. She studied locations in the liver, under the skin, in the mesentery regions near the intestines and in an epididymal fat pad in the abdomen.
+Potentially Treating More Patients
+“We were able to study the transplant sites in parallel and really look at the pros and cons of each to compare the survival rates of the cells in each area,” said Weaver. “Islet cells are very precious because we get so few from each donor. We need them all to survive to help a patient with type 1 diabetes get off insulin.”
+In the liver location, as many as three donors are now required to get enough transplantable islets to provide glucose control in a single patient. If researchers could reduce the loss of cells, they could one day treat two or even three times as many patients from the limited number of cadaver donors available, García noted.
+Evaluating the Technique
+Weaver studied the animal models for as long as 100 days, and found that the islet clusters transplanted with the hydrogel and VEGF developed many blood vessels and engrafted into their new locations. As expected, the hydrogel material disappeared and was replaced by new tissue which grew around the islets.
+To track the long-term viability of the islet cells, she used cells with a gene that produces a green luminescence when excited by certain wavelengths of light. By measuring the signal returned from the transplant locations, she was able to determine how many of the cells survived. Introducing a dye into the bloodstream then allowed her to image the growing vasculature around the islets.
+The abdominal fat pad turned out to provide the most optimal transplant location. In humans, the equivalent structure is called the omentum, a blood vessel-rich region that other researchers are evaluating as an islet transplant location. Should the technique be used in humans, the cells could be placed there laparoscopically in a minimally-invasive procedure. The hydrogel would be injected in liquid form and would polymerize in the transplant site, creating a flexible gel that would conform to bodily structures to improve both blood vessel connections and tissue integration.
+What’s Next
+As a next step, García and Weaver would like to study the technique in larger animals. After that, human clinical trials would be required to show whether the combination of hydrogel material and protein will benefit patients with type 1 diabetes. Ultimately, the researchers hope stem cells might provide a source of islets that could be transplanted without the need of cadaveric donor islets and immune system suppression.
+Weaver, a researcher at the Diabetes Research Institute before joining Georgia Tech, said she was surprised at how well the new technology worked. The imaging provided a clear view of the growing vascular system surrounding the islet clumps.
+“When we first started doing the imaging, I’m pretty sure I screamed the first time I saw it,” said Weaver. “It was so beautiful to see the vasculature. I wasn’t expecting to see such perfect blood vessel growth into the islets.”
+This research was supported by the Juvenile Diabetes Research Foundation (grant 2-SRA-2014-287-Q-R), the NIH Innovation and Leadership AQ37 in Engineering Technologies and Therapies Postdoctoral Training (grant T90-DK097787-03), and the Ruth L. Kirschstein National Research Service Award (F30AR069472) from the National Institute of Arthritis and Musculoskeletal and Skin Diseases. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations.
+CITATION : Jessica D. Weaver, et al., “Vasculogenic hydrogel enhances islet survival, engraftment, and function in leading extrahepatic sites, (Science Advances, 2017). http://advances.sciencemag.org/content/3/6/e1700184
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

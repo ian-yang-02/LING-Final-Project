@@ -1,0 +1,48 @@
+early feasibility study shows flickering lights and sound could be new weapon against alzheimer’s 
+ safety, tolerance, adherence get high scores in first human trial 
+ alzheimer's "flicker" study first author kristie garza (l.) with principal investigators annabelle singer (m.) and levi wood (r.) in a lab at georgia tech. credit: georgia tech / allison carter 
+ may 24, 2021 
+ — atlanta, ga 
+ for the past few years, 
+ annabelle singer 
+ and her collaborators have been using 
+ flickering lights and sound 
+ to treat mouse models of alzheimer’s disease, and they’ve seen some dramatic results. 
+ now they have results from the first human feasibility study of the flicker treatment, and they’re promising, with qiliang he, a postdoctoral fellow in the school of psychology, serving as first author for the study. 
+ “we looked at safety, tolerance, and adherence, and several different biological outcomes, and the results were excellent — better than we expected,” said singer, assistant professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory. 
+ singer shared preliminary results of the feasibility study in october at the american neurological association annual meeting. now she is a corresponding author with emory neurology researcher 
+ james lah 
+ of a paper outlining their findings in the journal 
+ alzheimer’s & dementia: translational research & clinical interventions . 
+ the flicker treatment stimulates gamma waves, manipulating neural activity, recruiting the brain’s immune system, and clearing pathogens — in short, waging a successful fight against a progressive disease that still has no cure. 
+ previous research already had shown that sensory areas in the human brain will entrain to flickering stimuli for seconds to hours. but this was the first time singer and her team were able to test gamma sensory stimulation over an extended period of time. 
+ the study included 10 patients with alzheimer’s-associated mild cognitive impairment, which required them to wear an experimental visor and headphones that exposed one group to light and sound at 40 hertz for an hour a day over eight weeks, and another group for four weeks after a delayed start. 
+ “we were able to tune the devices to a level of light and sound that was not only tolerable, but it also successfully provoked an underlying brain response,” lah said. 
+ as they hoped and expected, singer said, “there was widespread entrainment.” that is, brain activity – in this case, gamma waves – synchronized to the external stimulation. 
+ gamma waves are associated with high-level cognitive functions, like perception and memory. disruptions to these waves have been found in various neurological disorders, not just alzheimer’s. 
+ the human feasibility study showed that the gamma flicker treatment was safe and tolerable. and perhaps most surprising, patients followed the full treatment schedule. 
+ “adherence was one of our major concerns,” singer said. “when we sent the device home with the participants, would they use it? would they use it for a couple of days, and that would be it? we were pleasantly surprised that this wasn’t the case.” 
+ adherence rates hovered around 90 percent, with no severe adverse effects reported during the study or the 10-month open label extension (some patients even volunteered to continue being monitored and assessed after the study, though this data wasn’t part of the published research). 
+ some participants reported mild discomfort that could have been flicker related — dizziness, ringing in the ears, and headaches. but overall, singer said, the device’s safety profile was excellent. she also reported some positive biological outcomes. 
+ “we looked at default mode network connectivity, which is basically how different brain regions that are particularly active during wakeful rest and memory, interact with each other,” singer said. “there are deficits in this network in alzheimer’s, but after eight weeks [of treatment], we found strengthening in that connectivity.” this may indicate stronger interactions and therefore better communication between these regions. 
+ in previous animal studies, the 40hz of flicker stimulated mouse gamma waves, significantly reducing some alzheimer’s pathogenic hallmarks and recruited microglia to the cause – these are the primary immune cells in the brain. but in the human study, there were no clear changes in the presence of pathogens amyloid beta or p-tau. 
+ however, as with the mouse studies, “we are getting immune engagement in humans,” singer said. the flicker treatment sparked the activity of cytokines, proteins used in cell signaling — a sign that flicker had engaged the brain’s immune system. 
+ “that is something we want to see, because microglia do things like clear out pathogens. some people think that part of what’s going wrong in alzheimer’s is a failure of this clearance mechanism,” singer said. 
+ she and lah have wondered if a longer human trial would make a difference — would there be reduced amyloid activity, for example. 
+ “so far, this is very preliminary, and we’re nowhere close to drawing conclusions about the clinical benefit of this treatment,” lah said. “but we now have some very good arguments for a larger, longer study with more people.” 
+ the study was funded by the national institute of neurological disorders and stroke at the national institutes of health (grant no. r01-ns109226-01s1), by the packard foundation, the friends and alumni of georgia tech, the lane family, the wright family, and cognito therapeutics. any findings, conclusions, and recommendations are those of the researchers and not necessarily of the sponsors. 
+ competing interests: annabelle singer owns shares in cognito therapeutics, which funded the human study at emory brain health center. cognito aims to develop gamma stimulation-related products. these conflicts are managed by georgia tech’s office of research integrity assurance. 
+ additional images 
+ related links 
+ “a feasibility trial of gamma sensory flicker for patients with prodromal alzhe… 
+ of mice and megahertz: qiliang he wins fellowship to study gamma wave stimulati… 
+ annabelle singer 
+ james lah 
+ contact 
+ writer: 
+ jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

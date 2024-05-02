@@ -1,0 +1,38 @@
+Georgia Tech researchers discover promising new treatment for dangerous thrombosis
+Georgia Tech bioengineers have discovered a promising new way to treat dangerous blood clots without the potentially harmful side effects of other clot-busting drugs.
+This groundbreaking research is driven by the need for a better thrombolytic agent – a safer, more efficient treatment for breaking down blood clots in the immediate wake of a catastrophic event.
+Apr 21, 2021
+— Atlanta, GA
+In a fortuitous case of mistaken chemical identity, a team of Georgia Tech bioengineers has discovered a promising new way to treat dangerous blood clots without the potentially harmful side effects of other clot-busting drugs.
+“It was a happy accident,” said
+David Ku , Regents’ professor in the George W. Woodruff School of Mechanical Engineering. “This is something we’ve been working on for the past four years, and we’re still sort of scratching our heads.”
+Ku and his collaborators explain their “happy accident” in the open-access journal
+PLOS One
+with their recently published paper,
+“Lysis of arterial thrombi by perfusion of N,N’-Diacetyl-L-cystine (DiNAC).”
+Their research is driven by the need for a better thrombolytic agent – a safer, more efficient treatment for breaking down clots in the immediate wake of a catastrophic event. When a clot develops in an artery – arterial thrombosis – it can stop the flow of blood to major organs, often leading to a stroke or heart attack. Depending on how it is formed, the clot can be composed of either primarily platelets and von Willebrand Factor (VWF, a glycoprotein that helps with platelet adhesion), or polymerized fibrin.
+The current clinical standard drug for treating a stroke is an intravenously delivered tissue plasminogen activator, or tPA, still the only FDA-approved thrombolytic agent in the United States. It does a fine job breaking down, or lysing, fibrin-rich coagulation clots, but is not the most efficacious treatment for ischemic strokes caused by VWF-platelet rich clots.  tPA also is known to cause bleeding complications, which can deter clinical use.
+“These two types of clots are composed of different things – coagulation clots, and platelet clots,” noted Ku, the corresponding author of the paper. Dongjune Kim, a PhD student in Ku’s lab, is the lead author. Susan Shea, a former PhD student in Ku’s lab, is a co-author.
+“Platelet clots are about 10 times stronger than coagulation clots,” Ku added. “They hold together under arterial high blood pressure conditions. If you have a coagulation clot, tPA dissolves it under the right conditions. But the clots that cause strokes and heart attacks are not coagulation clots. They’re made out of platelets.”
+He explained that VWF is strikingly similar to mucins – the stuff you cough up when you have too much junk in your lungs. Furthermore, researchers reasoned, they might be able to bust up a VWF clot using N-acetylcysteine, or NAC, a medication used to thin mucus in conditions such as asthma or cystic fibrosis. Would NAC, a supplement form of the naturally occurring amino acid cysteine, do the same thing to a VWF-platelet clot?
+Coincidentally, Ku’s team and a group in France were onto the same idea at the same time. While the Georgia Tech researchers conducted their experiments in a lab using glass tubes instead of arteries, the other team used mice. The results were dramatic. In both cases, the compound dissolved the clot quickly. But when a third group of researchers from Belgium tried to reproduce the results, they had no luck.
+“At that point, we were all wondering, ‘what gives?’ So, we tried again,” said Ku, who was disappointed to find that the compound didn’t work. “We were dumfounded. No one could get it to work again.”
+Shea, who presented her work at a conference, graduated from Tech and moved on. She is now junior faculty at the University of Washington in St. Louis.
+Kim said he tried to reproduce Shea’s work, “because it was interesting and important. But I couldn’t make NAC work.” He was using fresh NAC samples from the lab’s freezer. But then he found the old NAC sample that Shea had used the first time, when the clot dissolved. Curious, Kim tried that sample of the compound and it worked. So, they took the two different batches – the fresh NAC solutions and the old sample – to a chemistry lab for testing.
+“We gave them samples without telling them which is which – a blind test,” Kim said.
+Turns out, it wasn’t NAC that initially dissolved the clots. It was DiNAC, a disulfide dimer of NAC, a compound that has been studied for its anti-atherosclerotic effects. NAC, Ku explained, can spontaneously convert to DiNAC over time, under the right temperature conditions. So, his team acquired more DiNAC and tested it, and it worked repeatedly.
+“We think the French research group probably used some old NAC that was actually DiNAC, which is why their experiment worked, too,” said Ku. “No one could reproduce the results initially because we were all using fresh NAC when we did the study again. But the DiNAC works really well.”
+Video footage of the Ku lab’s experiment shows the introduction of DiNAC in a glass tube clearing up clotted pig’s blood (which is very similar to human blood) in 10 minutes or less. And they’re still not sure why.
+“DiNAC hasn’t been studied much as a thrombolytic agent, so we don’t know the mechanism behind it yet,” Kim said. “I was focusing on the efficacy of DiNAC. But the mechanism will definitely be an interesting future study.”
+Currently, the lab is testing the compound which, unlike tPA does not cause bleeding complications, in studies with mice. Their next paper will cover this, and Ku is hopeful.
+“Right now, we’re just putting this out there and saying DiNAC works,” Ku said. “This was serendipitous. I wish we had the whole answer, so we’re hoping the research community will help us find out. Although, I do think we’re getting close to a working hypothesis.”
+Citation:
+This research was funded through the Larry P. Huang Chair in the George W. Woodruff School of Mechanical Engineering.
+***
+The Georgia Institute of Technology, or Georgia Tech, is a top 10 public research university developing leaders who advance technology and improve the human condition.
+The Institute offers business, computing, design, engineering, liberal arts, and sciences degrees. Its nearly 40,000 students, representing 50 states and 149 countries, study at the main campus in Atlanta, at campuses in France and China, and through distance and online learning.
+As a leading technological university, Georgia Tech is an engine of economic development for Georgia, the Southeast, and the nation, conducting more than $1 billion dollars in research annually for government, industry, and society.
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,39 @@
+robot teaches itself how to dress people 
+ a robot at the georgia institute of technology is successfully sliding hospital gowns on people's arms 
+ left to right: zackory erickson, a pr2 robot, and charlie kemp 
+ may 14, 2018 
+ — atlanta, ga 
+ more than 1 million americans require daily physical assistance to get dressed because of injury, disease and advanced age. robots could potentially help, but cloth and the human body are complex. 
+ to help address this need, a robot at the georgia institute of technology is 
+ successfully sliding hospital gowns on people’s arms . the machine doesn’t use its eyes as it pulls the cloth. instead, it relies on the forces it feels as it guides the garment onto a person’s hand, around the elbow and onto the shoulder. 
+ the machine, a pr2, taught itself in one day, by analyzing nearly 11,000 simulated examples of a robot putting a gown onto a human arm. some of those attempts were flawless. others were spectacular failures — the simulated robot applied dangerous forces to the arm when the cloth would catch on the person’s hand or elbow. 
+ from these examples, the pr2’s neural network learned to estimate the forces applied to the human. in a sense, the simulations allowed the robot to learn what it feels like to be the human receiving assistance. 
+ “people learn new skills using trial and error. we gave the pr2 the same opportunity,” said zackory erickson, the lead georgia tech ph.d. student on the research team. “doing thousands of trials on a human would have been dangerous, let alone impossibly tedious. but in just one day, using simulations, the robot learned what a person may physically feel while getting dressed.” 
+ the robot also learned to predict the consequences of moving the gown in different ways. some motions made the gown taut, pulling hard against the person’s body. other movements slid the gown smoothly along the person’s arm. the robot uses these predictions to select motions that comfortably dress the arm. 
+ after success in simulation, the pr2 attempted to dress people. participants sat in front of the robot and watched as it held a gown and slid it onto their arms. rather than vision, the robot used its sense of touch to perform the task based on what it learned about forces during the simulations. 
+ “the key is that the robot is always thinking ahead,” said charlie kemp, an associate professor in the  wallace h. coulter department of biomedical engineering at georgia tech and emory university 
+ and the lead faculty member. “it asks itself, ‘if i pull the gown this way, will it cause more or less force on the person’s arm? what would happen if i go that way instead?’” 
+ the researchers varied the robot’s timing and allowed it to think as much as a fifth of a second into the future while strategizing about its next move. less than that caused the robot to fail more often. 
+ “the more robots can understand about us, the more they’ll be able to help us,” kemp said. “by predicting the physical implications of their actions, robots can provide assistance that is safer, more comfortable and more effective.” 
+ the robot is currently putting the gown on one arm. the entire process takes about 10 seconds. the team says fully dressing a person is something that is many steps away from this work. 
+ ph.d. student henry clever and professors karen liu and greg turk also contributed to the research. their paper, 
+ deep haptic model predictive control for robot-assisted dressing , will be presented may 21-25 in australia during the international conference on robotics and automation (icra). the work is part of a larger effort on robot-assisted dressing funded by the national science foundation (nsf) and led by liu. 
+ --- 
+ this work was supported in part by nsf award iis-1514258, aws cloud credits for research, and the nsf nrt traineeship dge-1545287. 
+ any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the 
+ sponsors. 
+ kemp is a cofounder, a board member, an equity holder, and the cto of hello robot inc., which is developing products related to this research. this research could affect his personal financial status. the terms of this arrangement have been reviewed and approved by georgia tech in accordance with its conflict of interest policies. 
+ additional images 
+ related links 
+ read the paper 
+ healthcare robotics lab 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

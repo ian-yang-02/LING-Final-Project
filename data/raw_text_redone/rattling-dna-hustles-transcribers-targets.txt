@@ -1,0 +1,69 @@
+rattling dna hustles transcribers to targets 
+ dna is the boss when it comes to the movement of molecules through its dense curls, beating out all other sources of motion. 
+ naturally occurring dna is in constant motion, researchers hypothesize, and transports large transcription factors (depicted in green) through its tangles until they reach sites where they bind and carry out their activity. here a still image from a very large, unique simulation. 
+ jun 12, 2017 
+ — atlanta, ga 
+ imagine if a dense thicket didn’t obstruct your path but instead picked you up and shuttled you through the forest. that’s what tightly packed dna might be doing with important life molecules to get them where they’re needed on time. 
+ new simulations of dna as a transport conduit could shatter the way scientists have thought about how large molecules called transcription factors diffuse on their way to carry out genetic missions, 
+ according to a study by researchers at the georgia institute of technology . the simulations add important brush strokes to our picture of elusive inner mechanics of cells. 
+ the simulations strongly support the hypothesis that, in a live cell, dna is in constant motion, making it the dominant mover of 
+ transcription factors , to their target sites on dna. there, the factors regulate the transcription of genetic code into life-sustaining action. 
+ dna gorilla cage 
+ how transcription factors travel through dna has been a mystery, because the protein molecules are so large, and natural dna is so tightly tangled. spaces inside the windings are usually much smaller than the transcription factors that need to pass through them. 
+ “if the thicket is so thick, and on top of that doesn’t move, then it should be impenetrable. so, how do you get stuff through to the right site?” asked 
+ jeffrey skolnick, a professor in georgia tech’s school of biological sciences . 
+ if dna were indeed immobile, the protein molecule would appear jammed into the dna thicket like a gorilla into a dog cage. 
+ dna watch springs 
+ but skolnick and collaborator 
+ edmond chow, a computer scientist specializing in algorithms that tackle very large scientific questions , believe the widely held assumption that naturally occurring dna is rigid like bars is false. their simulations turn the bars into wires, 
+ tense like watch springs , that flex and rattle around with snake-like motions. 
+ "the dna motion is far and away the dominant force moving molecules through its thicket," skolnick said. "dna is a bully." 
+ skolnick, who directs 
+ georgia tech’s center for the study of systems biology , and chow, an associate professor at 
+ georgia tech’s school of computational science and engineering , published a paper on their simulations on june 6 in 
+ biophysical journal . 
+ chow and skolnick modeled the simulation on a transcription factor called 
+ laci 
+ moving through the dna of an 
+ escherichia coli 
+ bacterial cell. 
+ laci 
+ is an inhibitory molecule 
+ that depends on lactose, but that function played no role in the study. the well-known transcription factor is a mainstay in many experimental studies on transcription factor movement. 
+ slide, hop, and hopscotch 
+ in the simulations, dna strands flex out of 
+ laci ’s path and also juggle the large molecule forward into the next pocket in the thicket, and so on. 
+ hypotheses based on rigid dna would leave transcription factors moving more slowly than they actually appear to. but chow and skolnick’s wiggly simulations square with rates of diffusion established in lab experiments and explain why they’re so fast. 
+ transcription factors have been known to slide along dna strands, like magnets down slippery wires, until they click into a specific groove where they fit perfectly, which is where they do their work. and they’ve been known to hop off the dna strand and then reattach. 
+ “but the sliding and hopping combined still don’t account for the speed of diffusion,” chow said. 
+ reattaching after a hop can actually reduce the transcription factor’s speed through the dna, by putting it back on a place on the strand where it’s been before. the simulated wobble of the dna thicket flicks transcribers to make them hopscotch more and farther, increasing their speed of diffusion. 
+ herculean computations 
+ the simulations will aid other researchers’ understanding of important cell processes and potentially help boost speed and accuracy in biological and medical research. the computation behind the simulated dynamics was herculean. 
+ “these simulations are unique to this problem because of their enormity and the advanced computing techniques used. very efficient algorithms ran in parallel on powerful computers, and, still, it took three weeks for the simulations to complete,” chow said. 
+ parallel 
+ computing 
+ chops a problem into pieces that can be run simultaneously, or in parallel, instead of in one long, time-consuming process. this allows programs to exploit many processors at the same time, multiplying the speed of computation. 
+ even with that power, to make the simulation computable at all, the researchers had to slim down the model of the dna and 
+ laci 
+ to reveal motion dynamics without dressing up all the details of cellular dna. “you have to choose which parts you ignore and which parts you put in,” skolnick said. “if you put everything in, you can’t do it, even with the fastest codes.” 
+ cellular toy land 
+ the researchers want to take on much tougher challenges that could, years from now, lead to a toy-like, simplified model of a complete cell. 
+ “the ultimate goal is to put a whole cell on a computer. let it live. let it divide, and understand the processes,” skolnick said. “maybe even let the cell mutate and evolve.” 
+ the computer science behind that would be aspirational. “when the size of a problem grows, the computing costs to solve it can grow disproportionately,” chow said. “you have to build algorithms that can run efficiently even when you scale up the problem size.” 
+ also read: instruction manual to repair dna 
+ also read: did rna evolve in puddles? 
+ also read: was the secret spice in primal gene soup a thickener? 
+ this research was supported by the national science foundation (grant aci-1147843). tadashi ando from the tokyo university of science contributed insights that aided in this research. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu) 
+ writer : ben brumfield 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,21 @@
+Major Philanthropic Grant Will Create New Center to Advance Open-Source Software
+Using a new philanthropic grant, Georgia Tech will hire software engineers to write scalable, reliable, and portable open-source software for scientific research.
+Jan 21, 2022
+— Atlanta, GA
+The Georgia Tech College of Computing has received an $11 million grant from Schmidt Futures to create one of the four software engineering centers within the newly launched Virtual Institute for Scientific Software (VISS). The new center will hire half-a-dozen software engineers to write scalable, reliable, and portable open-source software for scientific research.
+“Scientific research involves increasingly complex software, technologies, and platforms,” said  Alessandro Orso , the software engineer and professor of computer science who is heading up the project. “Also, platforms constantly evolve, and the complexity and amount of data involved is ever-growing.”
+The result is that these software systems are often developed as prototypes that are difficult to understand, maintain, and use, which limits their efficacy and ultimately hinders scientific progress.
+Software engineers are trained to address these kinds of issues and know how to build high-quality software, but their time is too expensive for a typical research project’s budget. In typical grants, software is often treated as a byproduct of research, meaning that limited funding is allocated for it.
+That’s where  Schmidt Futures  comes in. Schmidt Futures is a philanthropic initiative founded by  Eric  and  Wendy   Schmidt  that bets early on exceptional people making the world better. They are investing $40 million in VISS over five years at four universities: Georgia Tech, University of Washington, Johns Hopkins University, and University of Cambridge.
+“Schmidt Futures’ Virtual Institute for Scientific Software is a core part of our efforts to mobilize exceptional talent to solve specific hard problems in science and society,” said Executive Vice President  Elizabeth Young-McNally .
+At Georgia Tech, the funds will hire a software engineering lead, as well as three senior and two junior software engineers. A faculty director and an advisory board will help guide the group’s work, which will include collaborations with Georgia Tech scientists.
+"We are very proud to host one of the four inaugural Schmidt Futures Virtual Institute of Scientific Software centers,” said  Charles Isbell , Dean and John P. Imlay Jr. Chair of Computing.
+“Georgia Tech’s center will advance and support scientific research by applying modern software engineering practices, cutting-edge technologies, and modern tools to the development of scientific software. The center will also engage with students and researchers to train the next generation of software engineering leaders.”
+Additional Images
+Contact
+Ann Claycombe, Director of Communications claycombe@cc.gatech.edu
+Email
+claycombe@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

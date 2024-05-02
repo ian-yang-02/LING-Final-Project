@@ -1,0 +1,32 @@
+Piezoelectric Tiles Light the Way for Kennedy Space Center Visitors
+A lighted footpath powered partially by piezoelectric tiles will soon be operational at the Kennedy Space Center.
+Ilan Stern, a GTRI senior research scientist, shows piezoelectric tiles that will be used to create a lighted outdoor footpath at the NASA Kennedy Space Center’s Visitor Complex at Cape Canaveral, Florida. He’s holding the electronic components used in the tiles. (Credit: Branden Camp, Georgia Tech)
+Dec 13, 2017
+— Atlanta, GA
+New technology that could be used in self-powered smart cities of the future will soon be demonstrated at the NASA Kennedy Space Center’s Visitor Complex at Cape Canaveral, Florida. Ilan Stern, a senior research scientist with the
+Georgia Tech Research Institute , and colleagues, are collaborating on a $2 million project supported by NASA contractor Delaware North Corporation to build a 40,000-square-foot lighted outdoor footpath demonstrating applications of piezoelectricity for renewable energy.
+A small electrical charge is generated when a piezoelectric material is compressed, flexed, or vibrated. Harnessing this technology at the visitor complex, the researchers are using a thin, ceramic disk of lead zirconate titanate, which has the strongest piezoelectric response of any known material. “Just as a sponge squeezes out water,” said Stern, “the piezo element under pressure squeezes out electricity that can be harvested and stored.”
+For this unique project, the researchers designed floor cavities of very thin, ultra-high- performance concrete. To fit into each cavity, the Georgia Tech engineers designed a novel system of custom electronics: circuit boards, six mini solar panels, a battery, LEDs, a Bluetooth transmitter, a Wi-Fi transmitter, micro controllers, and the piezoelectric element—all of which are covered by a loadbearing glass tile top.
+The tiles operate on three power sources: piezoelectricity, solar panels, and a small rechargeable lithium battery for energy storage and use at night. The self-powered system, when triggered by a human footstep, produces a wireless signal that informs visitors about NASA space missions, piezoelectric technology as well as the STEM cooperation between NASA and Georgia Tech.
+“No one has made anything like this—an outdoor tile system using a piezoelectric element to trigger customized and off-the-shelf electronics and coupling them for human interactions,” said Stern. “When you step on the load-bearing glass tile, it compresses the piezoelectric element, creating an electrical charge that lights up the cavity’s 125 LEDs.” In the entire footpath, about one thousand glass tiles light up in various colors. Each glass tile is a pixel in the pathway’s mosaic imagery of Earth, Mars, the moon, and the International Space Station.
+“The piezoelectric element also powers a Wi-Fi or Bluetooth signal to visitors’ smartphones, which can play audio, providing information about their geolocation and for potential wayfinding,” said Stern. “The audio provides information such as how much energy is being generated throughout the park during the day.”
+Although a small amount of energy is produced per piezo element, per step, the aggregation of such systems in heavily trafficked areas can produce a significant amount of electricity to be stored for local onsite powering of street signs, lights, and other facilities. “The piezo element has a very long lifetime, but these are modular systems that could be easily updated over time,” he said. The glass lid can be removed so the piezo element and electronics system can be updated with newer technologies.”
+Many of the site’s engineering applications are based on fundamental research by the lab of Alper Erturk, an associate professor in Georgia Tech’s George W. Woodruff School of Mechanical Engineering. Erturk, Stern, and their graduate students, for instance, have utilized a method of vibrating a piezo element’s edge, called plucking, allowing for the coupling of the piezoelectric material’s inherently high resonant frequency, to the low frequency of human scale motion. This has various applications intended for biomechanical energy harvesting.
+In future smart cities applications, lattices of pressure-sensitive sensors underneath roadways could produce wireless, real-time signals distributing information about roadway conditions, temperature, or traffic. Roadway sensors and autonomous vehicles could share information, and vehicles could communicate with each other through the roadway’s wireless system. Indoor flooring systems powered by piezoelectricity could provide safety monitoring and sensing capabilities without being plugged into to the grid.
+“We need a more flexible use of the electric grid,” Stern said. “Our goal is to develop more self-powered, self-generating systems with added storage that will give us more choices in energy usage and minimize waste. As much as possible, we should convert wasted mechanical energy—human and vehicle movement—into usable energy generation and storage.”
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Assistance : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Tibbetts
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

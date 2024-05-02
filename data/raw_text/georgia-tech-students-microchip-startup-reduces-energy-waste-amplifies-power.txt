@@ -1,0 +1,48 @@
+Georgia Tech Student’s Microchip Startup Reduces Energy Waste, Amplifies Power Systems in 5G Space
+Startup technology leads to Silicon Valley investment
+Edgar Garay, a doctoral candidate at Georgia Tech's School of Electrical and Computer Engineering, reviews a set of filaments as part of a  review his microchip design for his startup, Falcomm. (Photo: Matt Hummel)
+Dec 17, 2021
+— Atlanta, GA
+In 2015,  Edgar Garay  sent an email to a Georgia Tech professor asking to join his lab.
+“I want to go to your lab because I want to improve the efficiency of power amplifiers,” Garay wrote in his email to Hua Wang, Garay’s advisor and director of the  Electronics and Micro-System Lab  in the  School of Electrical and Computer Engineering .
+That email set Garay, a Ph.D. candidate, on path of research and discovery that led him to launch his own startup,  Falcomm . Founded on his doctoral research in Wang’s lab, Garay’s company is a microchip design startup focused on improving energy efficiency. Its ultra-efficient, silicon-based power amplifiers and front-end modules (FEM will be used in 5G technology, the fifth-generation global wireless standard for machines, objects, and devices.
+Garay’s work specifically focuses on issues related to thermal management challenges in 5G millimeter wave (mmWave) technology, which refers to super-high frequency bands for transmission of data and information.
+"Our mission with our fabless semiconductor design is to provide the most energy efficient power amplifier products for hardware manufacturers in the 5G millimeter wave market," Garay said.
+“Last year alone, cell phone base station operators paid around $80 billion in electricity. Most of it is wasted in heat, because of the lack of efficiency in the hardware that they use,” Garay said. “We came up with this extremely novel power amplifier for the 5G mmWave.”
+Wireless carriers could cut that energy waste, boost the speed of data transmission, and how much data can be moved at any one time.
+“So, instead of your movie taking 30 seconds to download or a minute, now you can download it in half a second,” Garay said.
+It also means carriers can increase the number of users on their networks, he said. By moving to higher frequencies on the 5G mmWave, people in a packed stadium for a sporting event or concert, will be able to make phone calls or even stream at the same time.
+"The ultra-efficient, Dual-drive Power Amplifier technology system we created will allow people with mobile-connected devices to spend less time looking for chargers and allow large companies to lower their electricity bills by billions of dollars," Garay said.
+To get to this point, Garay worked with  VentureLab , a program that works with faculty and graduate students to help them commercialize Georgia Tech research and intellectual property.
+VentureLab along with  CREATE-X  are part of a broader Georgia Tech strategy to foster and encourage entrepreneurial confidence in students and faculty and expand the research-to-commercialized startup pipeline.
+CREATE-X works with undergraduate and graduate students launching their own startups that are typically not based on Georgia Tech intellectual property.
+While every student or faculty member won’t end up running their own startups, taking them through the entrepreneurial journey will help them regardless of what they in their professional careers, said  Raghupathy Sivakumar , Georgia Tech’s vice president of Commercialization and chief commercialization officer.
+The strategy also helps support another goal: boost the number of startups in the marketplace that are based on Georgia Tech research, he said.
+“Out of the 60 licenses we did last year, approximately 10% went to startups,” Sivakumar said. “We have good relationships with business and industry that license our technologies, but we have room to grow in our startup efforts.”
+Silicon Valley Interest
+Garay’s startup has now attracted interest and support from  Berkeley SkyDeck , a high-tech entrepreneurship startup accelerator at the University of California, Berkeley.
+The highly competitive SkyDeck program reviews thousands of applications from startup founders around the world but accepts only about 1% of those into its portfolio, said Chon Tang, founding partner of the UC Berkeley SkyDeck Fund.
+The Skydeck Accelerator is a bridge between technology in the lab and helping those founders get to a stage where their startups are attractive to investors in Silicon Valley, Tang said.
+“We’re looking for companies with a real, distinctive, technical edge,” he said, adding that while Falcomm is in the formation stage and on the early side of the companies SkyDeck accepts, Garay exhibited some compelling qualities.
+“With Edgar, he’s certainly someone who knew the technology very well,” Tang said, explaining that acceptance into SkyDeck also comes with a $105,000 investment in Falcomm. Being accepted into SkyDeck gives the company access to UC Berkeley’s vast network of alumni and mentors. The company also has free access to software licenses for a year needed to design the chips.
+Garay, who has a provisional patent and plans to file for a non-provisional patent, pitched and presented to potential investors in San Francisco, California as part of a SkyDeck demo day in September.
+That Falcomm is an early-stage startup and was accepted into SkyDeck, which typically takes later-stage companies, speaks to caliber of research being done at Tech, Sivakumar said.
+“We see SkyDeck as a super exclusive venture firm for later-stage companies, but we at CREATE-X and VentureLab see ourselves as acting as the initial spark to get faculty and students going,” Sivakumar said. “This speaks to why it’s a priority for us to help researchers pursue commercialization. I am not surprised that Edgar got in so easily at Skydeck; we just need to encourage and nurture more students and faculty to see commercialization as an option to pursue.”
+What made the impression with SkyDeck officials was Garay’s drive.
+“We were impressed by his attitude and his hustle,” Tang said. “Although he doesn’t have industry experience, he demonstrated enough energy and ability that we felt confident that he could move this to the next stage.”
+Beyond mobile devices, Garay said many industries can benefit from the technology.
+“It's applicable to any industry where everybody's trying to get more energy efficiency out of the hardware,” he said. That includes the cell phone market, the Internet of Things, and even automotive radar.
+“Six years ago, I decided to come here to Georgia Tech to work on chips and develop technology that I thought was really cool,” Garay said. “I've always been super passionate about developing cool technology that can make a real impact in the world.”
+That sentiment is exactly why Georgia Tech is so focused on encouraging entrepreneurial interest in students and faculty, Sivakumar said.
+“Edgar’s success is reflective of a broader change we are seeing in academia, where schools have moved from being purely teaching institutes to becoming discovery institutes,” Sivakumar said. “Now, we are impact centers of higher learning, creating impact through the knowledge and research that we do, and bringing it to the marketplace.”
+Additional Images
+Contact
+Story and Media Contact:
+Péralte C. Paul
+404.316.1210
+peralte.paul@comm.gatech.edu
+Email
+peralte.paul@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

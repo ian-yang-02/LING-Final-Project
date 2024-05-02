@@ -1,0 +1,52 @@
+from seafloor to space: new bacterial proteins shine light on climate and astrobiology 
+ georgia tech researchers have uncovered eco-friendly bacterial proteins that stabilize methane clathrates, offering a green solution to climate challenges and potential implications for astrobiology. 
+ sep 26, 2023 
+ gigatons of greenhouse gas are trapped under the seafloor, and that’s a good thing. around the coasts of the continents, where slopes sink down into the sea, tiny cages of ice trap methane gas, preventing it from escaping and bubbling up into the atmosphere. 
+ while rarely in the news, these ice cage formations, known as methane clathrates, have garnered attention because of their potential to affect climate change. during offshore drilling, methane ice can get stuck in pipes, causing them to freeze and burst. the 2010 deepwater horizon oil spill is thought to have been caused by a buildup of methane clathrates. 
+ but until now, the biological process behind how methane gas remains stable under the sea has been almost completely unknown. in a breakthrough study, a cross-disciplinary team of georgia tech researchers discovered a previously unknown class of bacterial proteins that play a crucial role in the formation and stability of methane clathrates. 
+ a team led by 
+ jennifer glass , associate professor in the 
+ school of earth and atmospheric sciences , and 
+ raquel lieberman , professor and sepcic-pfeil chair in the 
+ school of chemistry and biochemistry , showed that these novel bacterial proteins suppress the growth of methane clathrates as effectively as commercial chemicals currently used in drilling, but are non-toxic, eco-friendly, and scalable. their study, funded by nasa, informs the search for life in the solar system, and could also increase the safety of transporting natural gas. 
+ the research, 
+ published in the journal 
+ pnas nexus , underscores the importance of fundamental science in studying earth’s natural biological systems and highlights the benefits of collaboration across disciplines. 
+ “we wanted to understand how these formations were staying stable under the seafloor, and precisely what mechanisms were contributing to their stability,” glass said. “this is something no one has done before.” 
+ sifting through sediment 
+ the effort started with the team examining a sample of clay-like sediment that glass acquired from the seafloor off the coast of oregon. 
+ glass hypothesized that the sediment would contain proteins that influence the growth of methane clathrate, and that those proteins would resemble well-known antifreeze proteins in fish, which help them survive in cold environments. 
+ but to confirm her hypothesis, glass and her research team would first have to identify protein candidates out of millions of potential targets contained in the sediment. they would then need to make the proteins in the lab, though there was no understanding of how these proteins might behave. also, no one had worked with these proteins before. 
+ glass approached lieberman, whose lab studies the structure of proteins. the first step was to use dna sequencing paired with bioinformatics to identify the genes of the proteins contained in the sediment. 
+ dustin huard , a researcher in lieberman’s lab and first author of the paper, then prepared candidate proteins that could potentially bind to the methane clathrates. huard used x-ray crystallography to determine the structure of the proteins. 
+ creating seafloor conditions in the lab 
+ huard passed off the protein candidates to 
+ abigail johnson , a former ph.d. student in glass’ lab and co-first author on the paper, who is now a postdoctoral researcher at the university of georgia. to test the proteins, johnson formed methane clathrates herself by recreating the high pressure and low temperature of the seafloor in the lab. johnson worked with 
+ sheng dai , an associate professor in the 
+ school of civil and environmental engineering , to build a unique pressure chamber from scratch. 
+ johnson placed the proteins in the pressure vessel and adjusted the system to mimic the pressure and temperature conditions required for clathrate formation. by pressurizing the vessel with methane, johnson forced methane into the droplet, which caused a methane clathrate structure to form. 
+ she then measured the amount of gas that was consumed by the clathrate — an indicator of how quickly and how much clathrate formed — and did so in the presence of the proteins versus no proteins. johnson found that with the clathrate-binding proteins, less gas was consumed, and the clathrates melted at higher temperatures. 
+ once the team validated that the proteins affect the formation and stability of methane clathrates, they used huard's protein crystal structure to carry out molecular dynamics simulations with the help of 
+ james (jc) gumbart , professor in the 
+ school of physics . the simulations allowed the team to identify the specific site where the protein binds to the methane clathrate. 
+ a surprisingly novel system 
+ the study unveiled unexpected insights into the structure and function of the proteins. the researchers initially thought the part of the protein that was similar to fish antifreeze proteins would play a role in clathrate binding. surprisingly, that part of the protein did not play a role, and a wholly different mechanism directed the interactions. 
+ they found that the proteins do not bind to ice, but rather interact with the clathrate structure itself, directing its growth. specifically, the part of the protein that had similar characteristics to antifreeze proteins was buried in the protein structure, and instead played a role in stabilizing the protein. 
+ the researchers found that the proteins performed better at modifying methane clathrate than any of the antifreeze proteins that had been tested in the past. they also performed just as well as, if not better than, the toxic commercial clathrate inhibitors currently used in drilling that pose serious environmental threats. 
+ preventing clathrate formation in natural gas pipelines is a billion-dollar industry. if these biodegradable proteins could be used to prevent disastrous natural gas leaks, it would greatly reduce the risk of environmental damage. 
+ “we were so lucky that this actually worked, because even though we chose these proteins based on their similarity to antifreeze proteins, they are completely different,” johnson said. “they have a similar function in nature, but do so through a completely different biological system, and i think that really excites people.” 
+ methane clathrates likely exist throughout the solar system — on the subsurface of mars, for example, and on icy moons in the outer solar system, such as europa. the team’s findings indicate that if microbes exist on other planetary bodies, they might produce similar biomolecules to retain liquid water in channels in the clathrate that could sustain life. 
+ “we’re still learning so much about the basic systems on our planet,” huard said. “that’s one of the great things about georgia tech — different communities can come together to do really cool, unexpected science. i never thought i would be working on an astrobiology project, but here we are, and we’ve been very successful.” 
+ citation : dustin j e huard, et al. 
+ molecular basis for inhibition of methane clathrate growth by a deep subsurface bacterial protein ,  pnas nexus , volume 2, issue 8, august 2023. 
+ doi :  https: / / doi.org / 10.1093 / pnasnexus / pgad268 
+ funding : national aeronautics & space administration, national science foundation, national institutes of health, american chemical society petroleum research fund 
+ georgia tech co-authors included zixing fan, ph.d. student, and two undergraduates, lydia kenney (now a ph.d. student at northwestern university) and manlin xu (now a ph.d. student in the mit-woods hole oceanographic institution joint program). ran drori, associate professor of chemistry at yeshiva university, also contributed. 
+ additional media 
+ contact 
+ catherine barzler, senior research writer / editor 
+ institute communications 
+ catherine.barzler@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

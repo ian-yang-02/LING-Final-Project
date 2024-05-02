@@ -1,0 +1,21 @@
+new data security review process introduced in vendor contracts 
+ georgia tech recently implemented a new process for assessing supplier contracts in an effort to enhance data security. 
+ jul 26, 2022 
+ — atlanta, ga 
+ georgia tech recently implemented a new process for assessing supplier contracts in an effort to enhance data security. the process introduces a new assessment intake inform that satisfies requirements outlined within the university system of georgia’s (usg) business process manual (bpm). 
+ how the process works 
+ upon the creation of a new contract, amendment of an existing contract, or renewal of an existing contract, all usg institutions and organizations must ensure that suppliers (or other third parties) with access to usg data are adequately protecting that data. this protection must be at least the same level of protection provided by georgia tech and / or the usg and as required by policy, law, or regulation. 
+ georgia tech has created an usg approved process for review by both cyber security and procurement as required by the bpm. when data is shared with or can be accessed by the supplier, the departmental end user must complete the bpm 3.4.4 supplier contracts assessment intake form and the contract checklist in order to satisfy usg requirements. 
+ what does this mean for you? 
+ after august 1, 2022, requesters must complete a supplier contracts assessment intake form and contract checklist when attempting to create or renew a supplier contract. this form will assess the supplier’s access and utilization of any georgia tech or usg data and ensure that any access is adequately managed and protected. all requests will be reviewed by georgia tech cyber security prior to execution. this also includes zero ($0) dollar purchases. 
+ please note that this new process 
+ does not 
+ replace the existing ctr (campus technology request) process. however, the office of information technology is working with cyber security, procurement, and other offices to review and identify ways to optimize how technology is requested across the institute. 
+ this supplier contracts assessment intake form is located in servicenow: ( https: / / gatech.service-now.com / home / ?id=sc_cat_item&sys_id=cae57d8e1bdcc55829eba8e2b24bcb2b ). 
+ contact 
+ teresa holcomb 
+ purchasing manager – it & scientific 
+ procurement and business services 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

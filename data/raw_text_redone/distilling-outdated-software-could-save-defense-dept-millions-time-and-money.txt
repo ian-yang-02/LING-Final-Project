@@ -1,0 +1,26 @@
+‘distilling’ outdated software could save defense dept. millions in time and money 
+ brendan saltaformaggio leads a $10m darpa-funded effort to update critical defense software. 
+ brendan saltaformaggio, left, and amit sikder are working on a $10 million darpa project to unpack legacy software systems, incorporate updates, and redeploy them in weeks or months rather than years. (photo: candler hobbs) 
+ aug 16, 2023 
+ software updates are a ubiquitous part of our lives. 
+ that’s true at home and at work. and it’s true for the critical systems the u.s. department of defense relies on to protect the nation. 
+ think about all the highly sophisticated systems that power drones or fighter jets or even secure authentication programs. many of those systems are custom software developed at great expense. which means updating them isn’t as easy as downloading the latest software patch and clicking “install.” 
+ it often requires a time-consuming rewrite or reverse engineering process that costs even more time and money. but not if a team of georgia tech engineers and cybersecurity researchers are successful. they’re among the teams working to speed up the process with a 
+ $10 million defense advanced research projects agency (darpa)-funded effort 
+ to unpack these legacy systems, incorporate updates, and redeploy them in weeks or months rather than years. 
+ “the u.s. government has this tremendous problem where they put tons of research and development into cutting edge software, and then two years down the line, it needs to be updated or applied to a new platform or it needs patches. we can’t just go back to the drawing board and rewrite all of our software every few years,” said 
+ brendan saltaformaggio , an associate professor in the 
+ school of cybersecurity and privacy 
+ (scp) and the 
+ school of electrical and computer engineering 
+ (ece). 
+ read about the team's work on the college of engineering website. 
+ additional images 
+ contact 
+ joshua stewart 
+ college of engineering 
+ email 
+ jstewart@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

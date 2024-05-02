@@ -1,0 +1,37 @@
+Georgia Tech Produces Key Components for Governor’s Coronavirus Test Initiative
+Volunteer Georgia Tech researchers burn midnight oil to produce important enzymes that make coronavirus test kits work.
+Helping teleworkers stay safe.
+Apr 22, 2020
+— Atlanta, GA
+Gaps in the supply of coronavirus tests are propelling initiatives to fill them across the country. At the Georgia Institute of Technology, bioscience researchers are burning the midnight oil to produce key components for tests in the state of Georgia.
+The goal is to supply a broad  initiative by the governor’s office  involving multiple universities and partners to rapidly produce and administer more tests. At least 35 volunteers at Georgia Tech, while adhering to social distancing, are reorienting labs normally used for scientific discovery to do larger-scale production of biochemical components.
+“We are inventing new ways of doing things like an electronic buddy system so people can be alone – but not alone – while they work in the lab. The technical part is actually the easiest. The logistics of testing, data security, and regulatory considerations – those things are more challenging,” said Loren Williams, a  professor in Georgia Tech’s School of Chemistry and Biochemistry .
+Williams and the researchers are supporting Georgia Governor Brian Kemp’s COVID-19 State Lab Surge Capacity Task Force, which is a project managed through the Georgia Tech Research Institute (GTRI). GTRI is also leading the coordination and integration of data management across the lab surge effort.
+“We are providing technical and project management of the effort which is focused on increasing the state’s ability to expand testing beyond current limitations,” said Mike Shannon, GTRI’s lead in the project and a principal research engineer at GTRI.
+Exoplanets and coronavirus
+The science behind coronavirus testing is complementary to the researchers’ usual work. That includes understanding proteins associated with glaucoma, figuring out how RNA and DNA evolved in the first place, or whether ribosomes – lumps of RNA and protein key to translating genetic code into life – may exist on exoplanets.
+Williams’ research team studies the last topic, and some of their work is related to the core of coronavirus testing, a chemical reaction that amplifies the virus’ genetic fingerprint. It is called a reverse transcription polymerase chain reaction (RT-PCR), and it transcribes trace amounts of coronavirus’ RNA code into ample amounts of corresponding DNA in the lab for easy analysis.
+“His lab members are very familiar with RT-PCR, and when the lack of tests became apparent, they swung into action. The group grew from there, based on the technical needs for the project,” said Raquel Lieberman, another leading scientist in the effort and also a  professor in Georgia Tech’s School of Chemistry and Biochemistry .
+“Every day, very talented, hardworking people with perfect skill sets come out of the woodwork and ask to help,” Williams said.
+The group has teams that engineer the production of enzymes or other chemicals needed for RT-PCR to work: Two central enzymes are reverse transcriptase, which converts RNA to DNA and  Taq  polymerase , which rapidly replicates DNA. Another important component is ribonuclease inhibitor, which slows coronavirus RNA decay.
+Global COVID allies
+Other researchers develop processes for mass production or implementation of COVID-19 safety procedures; the list goes on. Some colleagues telework; others work in labs but spaced far from each other while they wear masks.
+“The group is planning to produce enough enzyme components for hundreds of tests per day,” said Vinayah Agarwal,  an assistant professor in Georgia Tech’s School of Chemistry and Biochemistry and School of Biological Sciences . “Using these components, we will also build cheaper and more robust testing kits going forward.”
+Instructions already exist for some of the ingredients for the test, but they are not readily available because the rights to them are exclusive.
+“Intellectual property and other proprietary issues hinder our effort,” Lieberman said. “But we have received help from scientists all over the world to piece together protocols on how to make what we need.”
+The state wants to increase current testing capacities by 3,000 more tests per day. The task force also includes teams from Augusta University Health System, Georgia State University, Emory University, University of Georgia, and the Georgia Public Health Laboratory. The task force lead is Captain Kevin Caspary who is with the Georgia National Guard.
+Raw footage and images as press handouts for journalists. (No commercial or personal use) :
+https://www.dropbox.com/sh/f2wc2i74lz1lffl/AADLJ8dQnZMr4uEDxAiIMusoa?dl=0
+Also read this:
+Interactive COVID-19 tool shows the importance of staying at home
+External News Coverage:
+NPR -  Sun Rays, Disinfectants And False Hopes: Misinformation Litters The Road To Reopening
+News-Medical.Net -  Georgia Tech researchers create key components for COVID-19 tests
+Georgia Tech News Center-  A New Normal: Researchers Across Georgia Tech Rally to Fight COVID-19
+Here's how to  subscribe to our free science and technology email newsletter
+Writer & Media Representative : Ben Brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

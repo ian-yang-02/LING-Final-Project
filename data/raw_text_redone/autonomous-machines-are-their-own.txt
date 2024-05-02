@@ -1,0 +1,14 @@
+autonomous machines are on their own 
+ georgia tech innovations are making unmanned aircraft, boats and submersibles smarter and more capable. 
+ gtri principal research engineer mick west, graduate student jacob buffo of the school of earth and atmospheric sciences, and undergraduate matthew meister of the school of mechanical engineering handle the 210-pound icefin at georgia tech’s underwater acoustics research laboratory. 
+ dec 01, 2015 
+ — atlanta, ga 
+ as a team of unmanned quadrotor aircraft hovers above, six small ground robots roll into an unfamiliar two-story structure. soon, the rotorcraft are darting about mapping the upper floor, while the ground vehicles chart the lower floor, process both teams’ data, and produce a full building plan for computers outside. notably absent are human beings and radio control devices. this little squadron is fully autonomous. in robotics, autonomy involves enabling unmanned vehicles to perform complex, unpredictable tasks without human guidance. today, in the early stages of the robotics revolution, it’s among the most critical areas of research. “the move to true autonomy has become highly important, and progress toward that goal is happening with increasing speed,” said henrik christensen, executive director of the institute for robotics and intelligent machines (irim) at georgia tech and a collaborator on the mapping experiment. “it won’t happen overnight, but the day is coming when you will simply say to a swarm of robots, ‘okay, go and perform this mission.’” traditionally, robotic devices have been pre-programmed to perform a set task: think of the factory robot arm that automatically performs a repetitive function like welding. but an autonomous vehicle must be fully independent, moving — without human intervention — in the air, on the ground, or in the water. well-known examples include the prototype self-driving vehicles currently being tested in some u.s. cities. link to full article 
+ additional images 
+ contact 
+ john toon research news jtoon@gatech.edu (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,25 @@
+Ovarian Cancer Cells Are More Aggressive On Soft Tissues
+A new study has found that ovarian cancer cells are more aggressive on soft tissues due to the mechanical properties of this environment.
+Professor Michelle Dawson and graduate student Daniel McGrail used traction force microscopy to measure the forces exerted by cancer cells on soft and stiff surfaces. Rob Felt, Georgia Institute of Technology
+May 08, 2014
+— Atlanta, GA
+When ovarian cancer spreads from the ovaries it almost always does so to a layer of fatty tissue that lines the gut. A new study has found that ovarian cancer cells are more aggressive on these soft tissues due to the mechanical properties of this environment. The finding is contrary to what is seen with other malignant cancer cells that seem to prefer stiffer tissues.
+“What we found is that there are some cancer cells that respond to softness as opposed to stiffness,” said
+Michelle Dawson , an assistant professor in the School of Chemical and Biomolecular Engineering at the Georgia Institute of Technology. “Ovarian cancer cells that are highly metastatic respond to soft environments by becoming more aggressive.” Ovarian cancer cells spread, or metastasize, by a different method than other cancer cells. Breast cancer cells, for example, break off from a solid tumor and flow through the blood until they arrest in small blood vessels. The cancer cells then penetrate the vessel surface to form a tumor. Because ovarian tumors are in the abdomen, these cancer cells are shed into the surrounding fluid and not distributed through the blood. They must be able to adhere directly to the fatty tissue that lines the gut, called the omentum, to begin forming a tumor. The new study discovered details about how ovarian cancer cells seem to prefer the mechanical properties of this soft tissue. The study was published in a recent advance online edition of the
+Journal of Cell Science
+and was sponsored by the National Science Foundation and the Georgia Tech and Emory Center for Regenerative Medicine.
+The research team, led by Daniel McGrail, a graduate student in the Dawson lab, found that ovarian cancer cells in vitro were more adherent to a layer of soft fat cells than a layer of stiffer bone cells, and that this behavior was also repeated using gels of similar rigidities.
+“All the behaviors that we associate with breast cancer cells on these more rigid environments are flipped for ovarian cancer cells,” Dawson said. After adhering to these soft surfaces, metastatic ovarian cancer cells became more aggressive. Their proliferation increased and they were less responsive to chemotherapeutics. The ovarian cancer cells were also more motile on soft surfaces, moving nearly twice as fast as on rigid surfaces. The team also found that less aggressive cells that do not metastasize do not exhibit any of these changes.
+The researchers used techniques that haven’t been traditionally used in the study of ovarian cancer. They measured the force exerted by the cells by tracking the displacement of beads in the environment around the cells. The researchers found that the metastatic cells increased their traction forces – used to generate motion – by three-fold on soft surfaces, but no such change was present in the less aggressive cells.
+“We think the behavior that metastatic ovarian cancer cells exert on these soft surfaces is representative of the mechanical tropism that they have for these softer tissues in the gut,” Dawson said. In future work, the researchers will investigate whether ovarian cancer cells have some natural inclination towards this uniquely more aggressive behavior in softer environments.
+“We’re trying to find out whether there is some internal programming that leads to this aggressive behavior,” Dawson said. This research is supported by the National Science Foundation under award number 1032527, and the Georgia Tech and Emory Center for Regenerative Medicine under award number 1411304. Any conclusions or opinions are those of the authors and do not necessarily represent the official views of the sponsoring agencies. CITATION : Daniel J. McGrail, et al., “The malignancy of metastatic ovarian cancer cells is increased on soft matrices through a mechanosensitive Rho-ROCK pathway.” ( Journal of Cell Science , 2014).
+http://dx.doi.org/10.1242/?jcs.144378
+Research News Georgia Institute of Technology 177 North Avenue Atlanta, Georgia 30332-0181 USA @GTResearchNews Media Relations Contacts : Brett Israel ( @btiatl ) (404-385-1933) ( brett.israel@comm.gatech.edu ) or John Toon (404-894-6986) ( jtoon@gatech.edu ) Writer : Brett Israel
+Additional Images
+Contact
+Brett Israel 404-385-1933
+Email
+brett.israel@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

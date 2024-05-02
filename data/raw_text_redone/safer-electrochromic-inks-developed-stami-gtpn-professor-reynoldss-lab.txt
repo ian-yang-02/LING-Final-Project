@@ -1,0 +1,64 @@
+safer electrochromic inks developed in stami-gtpn professor reynolds's lab 
+ electrochromic films synthesized in the labs of stami-gtpn and stami-cope professor john reynolds change their colors with the flick of a switch. now they can be applied more safely thanks to an innovation with water. 
+ electronic polymer inks in biphasic solutions of chloroform (bottom) and water (top). precursor polymers dissolve in organic solvents (like chloroform) but can be transitioned to a water soluble form. credit: georgia tech / rob felt 
+ apr 23, 2019 
+ — atlanta, ga 
+ anyone who has a rear-view mirror that automatically dims blue in reaction to annoying high-beam headlights glaring from behind has seen an electrochromic film in action. 
+ now, 
+ chemists at the georgia institute of technology 
+ have developed 
+ a new method to more safely and, by extension, easily produce these shear films , which change their color with the help of a tiny electric current. this could make them available to many industries that have not been able to feasibly use them before. 
+ in manufacturing, electrochromic films are often coated onto other materials, such as the surface of a mirror, as inks. they are usually based in solvents that are flammable and have toxic fumes, making them unsuitable for many work settings that rely on printing and spraying machinery to apply colors. 
+ georgia tech researchers have developed electrochromic film inks that are water-based, making them safer for diffuse application in settings where the kinds of safety precautions and protective equipment that are standard in handling volatile organic chemicals would be impractical. 
+ everyday environments 
+ “where people print is not always in chemically safe environments,” said 
+ john reynolds, 
+ a professor in georgia tech’s 
+ schools of chemistry and biochemistry 
+ and 
+ material science and engineering . so reynolds and the study’s first author brian schmatz, who came up with the water-based method, set out to make electrochromic film inks safer for everyday environments. 
+ there were some hurdles to pulling it off. the finished product had to electrically operate comparable to films that are applied in an organic solvent, and also be water-resistant in spite of the water-based production. schmatz’s method also needed to be logistically and financially realistic for producers to implement. 
+ the researchers published details on their solution and how it has met the criteria 
+ in the journal 
+ acs central science 
+ on august 16, 2017. 
+ should the chemical process progress to production, the future may see more windows, prescription glasses, or even textiles 
+ that switch between colors and shades of darkness with the click of a button 
+ or with the help of a light-detecting switch. 
+ that’s how many self-dimming rear-view mirrors work: the high-beams of the motorist behind you hit a light sensor that applies a mild electric field to the mirror, and that activates the color-changing, or electrochromic, film, which switches to a darker tint. 
+ electrochemical rainbow 
+ the reynolds lab’s electrochromic films are made with 
+ conjugated polymers , colorful and electroactive organic molecules. they easily let go of a few of their more loosely attached electrons, and when they do, their colors shift. 
+ if the colored films are on a clear surface, when the color vanishes, the surface becomes clear. the surface has to be conductive so that a small voltage (about 1 volt) can be applied to bump the electrons off the conjugated polymer or help them jump back on. 
+ the tints don’t have to be gray, blue, brown, or otherwise straight-laced. “we can make any color,” reynolds said. 
+ ‘toxic,’ ‘carcinogenic’ 
+ because of previous inks’ organic solvents, applying electrochromic films in the past has come with significant safety requirements. their costs could become prohibitive if the job is big, say, if a company wanted to cover the windows of an office building with an electrochromic film. 
+ “most research labs use chlorobenzene as a solvent. it’s pretty toxic. it’s carcinogenic, slightly volatile as well,” schmatz said. “so, it’s not something people want to work with at scale.” 
+ also, people may simply find the smell of an organic chemical in their workplace unpleasant. examples of organic solvent smells most everyone has experienced are kerosene, gasoline, or rubbing alcohol. 
+ organic then aqueous 
+ water as a solvent is much safer, but it can present other challenges. conjugated polymers are produced in organic solvents and do not inherently dissolve in water. also, films printed from water-based inks might wash out in the rain or smudge in high humidity. 
+ schmatz’s invention combines the best of both worlds by using an organic solvent and an aqueous solvent in phases. 
+ first, the conjugated polymer is produced in an organic solvent to assure quality material is made. that’s also aligned with chemical industry practices. 
+ “chemical companies really do a lot of this kind of processing, and it’s advantageous to keep this as it is, so the companies can keep doing what they’re doing and add this product more easily,” schmatz said. 
+ but then schmatz alters the conjugated polymer – the ink’s active ingredient, so to speak -- which is usually not water soluble, so that it will indeed dissolve in water. 
+ “we embed a chemical trigger within the polymer. it’s activated through a high ph water wash, and that transforms the organic soluble polymer into a water soluble polyelectrolyte,” he said. “the reason we want to do all of this is so we can produce the polymer in an organic solvent, but then print the polymer from a water-based ink.” 
+ ultraviolet cleaver 
+ to make sure that the film doesn’t smear or run after printing and that it functions well when it’s completed, schmatz cleaves off that added chemical trigger from the conjugated polymer by shining ultraviolet light on the electrochromic film. 
+ the water-soluble chemical chain then becomes a simple residue that can be wiped or rinsed off. what’s left is a robust, pure conjugated polymer film, which can no longer dissolve in water or organic solvents. 
+ reynolds envisions electrochromic films on various materials, including some other than glass or plastic. “you could apply this to camouflage, for example, with the right textiles, and have a sensor connected to a battery, and have it switch the colors to match the changing lightness or darkness of a soldier’s surroundings.” 
+ aside from electrochromics, these conjugated polymers are also being explored for printed transistors, solar cells, chemical and bio-sensors, light emitting displays and bioelectronics. reynold’s group has access to a number of delivery methods to test application of conjugated polymers. 
+ “georgia tech is a focused engineering university and has application capabilities you can find right here,” reynolds said. “the various methods of printing or spraying are here – airbrush, blade coater, ink jet. and if we don’t have something, we can build it here.” 
+ also read: rainbow of possibilities with electrochromic polymers 
+ georgia tech’s zhibo yuan, augustus lang, jeff hernandez and elsa reichmanis co-authored the study. research was funded by the office of naval research of the u.s. department of defense (grant n00014-16-1-2165), the national science foundation (grant dmr-1507205.) any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those agencies. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

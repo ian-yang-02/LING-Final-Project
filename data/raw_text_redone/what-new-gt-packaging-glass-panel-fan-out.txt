@@ -1,0 +1,40 @@
+what is new @ gt in packaging? glass panel fan-out 
+ georgia tech and its industry partners develop next generation glass panel fan-out 
+ first demonstration of glass fan-out (gfo) embedding in ultra-thin glass panels. 
+ oct 06, 2016 
+ — atlanta, ga 
+ georgia tech and its industry partners develop next generation of ultra-thin and ultra-high i / o density panel and wafer fan-out packaging to close the interconnect gap for digital applications, thickness or miniaturization gap for analog, power, rf and mm-wave applications, and power and thermal gap for high-power applications. 
+ all packages are fan-out packages with the exception of chip-scale or wafer-level packages. these fan-out packages fall into two categories: chip-first, also called embedded, and chip-last. both provide wiring or rdl to connect to ics at fine or coarse pitch. in the chip-first approach, rdl is deposited directly onto ics thus requiring no assembly; in contrast, in the chip-last process, two separate processes, one to form rdl with or without a substrate and second to assemble ics to the wiring layers. 
+ fan-out wafer-level packages (fo-wlp), as extension of wafer-level packages, provide rdl wiring and i / os beyond ics on the surface of molding compounds. these packages, therefore, are no longer limited by i / os and are thus poised to disrupt the entire semiconductor industry due to their benefits in performance, due to ultra-short interconnections, and wafer-based manufacturing infrastructure availability, compared to traditional flip-chip or wire bond packages. two sets of applications are driving the need for fan-out packages: 1) analog applications that include rf, mm-wave such as radar, and power for consumer electronics, using smaller and thinner devices to achieve thin packages with high component densities; and 2) digital applications to embed processors with larger ics at higher i / o densities. the scope of fo-wlp technology is being proposed and developed in recent years to include multi-component sip modules and integrated logic and 3d memory stacks to achieve high bandwidth. 
+ but wafer fan out, as practiced today, has three major limitations: high cost, small package size and low i / o density. cost and package size limitations are due to small 300 mm wafers from which these fan-out packages are produced and low i / o density due to molding compound-driven challenges. 
+ to address some of these concerns, panel-fanout packaging (fo plp) is beginning to emerge as a major new frontier. the economies of scale of panel-based processing may reduce fo-wlp cost by as much as 2-4x, depending on the package size, with the number of dies per package, the number of rdl layers and the panel size. fo plp technologies can be broadly classified into two categories: 1) pwb infrastructure-based panel fan-out such as imbera’s integrated module board (imb), at&s’s embedded components packaging (ecp), and ase’s advanced – embedded assembly solution integration (a-easi); amkor and j-devices wide strip panel fan-out package (wfop); and 2) lcd infrastructure-based panel fan-out that include pti’s molded fan-out using 370mm x 470mm panels, and most recently by samsung lsi, samsung display and semco by repurposing idled gen 3.25 (600mm x 720mm) and gen 4 (730mm x 920mm) lcd lines. 
+ thev next generation of panel fan-out evolution must address three barriers: 
+ interconnect gap for digital applications 
+ thickness or miniaturization gap for analog, power, rf and mm-wave, and 
+ thermal and power gap for high-power applications. 
+ georgia tech and its 50 industry partners are developing next generation of panel fan-out in both chip-first and chip-last approaches to address these barriers, not only for computing and communications applications, but also for high-temperature and high-power automotive applications. in contrast to the wafer fan-out with molding compounds and laminate-based panel fan-outs, both can generally be referred to as organic-based, georgia tech’s approach is based on inorganic panel fan-out, either with glass as gfo or poly-silicon fan-out as psfo. 
+ the georgia tech glass fan-out (gfo) approach addresses the interconnect gap with si beol-like wiring, currently at 20 µm pitch. in addition, gfo provides lower interconnect loss, and higher board-level reliability even with large package sizes. the silicon-like dimensional stability of glass in large-panel manufacturing brings an unparalleled combination of ultra-high i / o density, ultra-high electrical performance, ultra-high reliability at low and high-temperature and low cost, not possible in molding compound-based or laminate-based fan-out technologies. with the low-loss of glass, being a factor of ~2-3x better than molding compounds, georgia tech’s gfo approach is ideal for rf and mm-wave modules. unlike large high-density fan-out packages that require another package such as organic bga package to connect to boards, gfo packages are designed to be directly smt-attached to the board, enabled by the tailorability of the cte of the glass panels and compliant interconnections. lastly, the ultra-smooth surface and high dimensional stability of glass enables silicon-like rdl capability on large panels, for the first time, with less than 2µm critical dimensions (cd) for high density fan-out applications. 
+ the gfo project is part of georgia tech’s industry consortium, supported by a number of industry partners, including corning glass, asahi glass, and schott glass that supply ultra-thin glass panels with cavities; ushio that has placed a panel lithographic tool at georgia tech; atotech that provides the plating chemistry for advanced metallization; and disco that has placed a low-cost planarization tool at georgia tech. end user applications for gfo in the georgia tech consortium include 5g, automotive camera and radar modules, low- and high-power modules, and logic-to-3d memory modules. 
+ about the authors 
+ tailong shi is a phd student under the advisement of prof. rao tummala. his research focus is on design and demonstration of glass fan-out (gfo) packages for 77ghz automotive radar and camera modules. 
+ tshi@gatech.edu . 
+ dr. venky sundaram is a research professor and the associate director of industry programs at georgia tech prc. 
+ vs24@mail.gatech.edu . 
+ dr. fuhan liu is a research professor and an assistant program manager for the gfo program. 
+ fuhan.liu@ece.gatech.edu . 
+ dr. vanessa smet is a research professor and the program manager for the interconnections & assembly (i&a) and high-power program. 
+ vanessa.smet@prc.gatech.edu . 
+ prof. rao tummala is the joseph m. pettit chair professor in ece and mse, and the director of georgia tech’s 3d systems packaging research center (gt prc). 
+ rao.tummala@ece.gatech.edu . 
+ additional images 
+ contact 
+ karen may 
+ marketing & communications coordinator 
+ packaging research center 
+ karen.may@ece.gatech.edu 
+ (404) 385-1220 
+ email 
+ karen.may@ece.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,46 @@
+digital tool helps hospital make important coronavirus retest decisions 
+ the dearth of coronavirus tests and the many false negatives confront doctors with a difficult decision this new tool helps them make. 
+ coping with covid 
+ apr 13, 2020 
+ — atlanta, ga 
+ what-if questions can torment a doctor making coronavirus retest decisions: what if a patient’s initial negative test was a false negative, and he or she needs a second test? what if they don’t need it, and a retest would use up a scarce test kit and treatments that other patients need? 
+ such challenges led piedmont healthcare in atlanta to establish a paper-based decision tree for ordering covid-19 retests, and researchers at the georgia institute of technology turned it into an automated digital tool. piedmont further developed the tool and has now built it into the hospital’s electronic medical record, where it influences the ordering of retests. 
+ a user can answer their “ifs” by clicking through questions, and the “if-this-then-do-that” algorithm makes recommendations for best courses of action, ranging from immediately treating a patient for covid-19 to retesting to consulting a specialist. the final decision remains with the physician. 
+ the questions are deceptively simple, but the recommendations are not always obvious. that reflects the algorithm’s usefulness to fill gaps in thinking about the new sickness, which can confront clinicians with surprises. 
+ “if a patient has not had close contact with positive patients and the first test came back negative, a physician may think the patient does not need to be retested. but actually, the patient may need a second test because they are in intensive care and also have suspicious chest x-rays,” said georgia tech graduate research assistant april yu, who converted the decision tree into a digital tool. 
+ “one of our big worries in using a brand-new test like the coronavirus test is that it will miss real cases, and this tool helps prevent that,” said dr. bronwen garner, who helped develop the original decision tree and is an infectious disease specialist at piedmont healthcare. “it also helps reassure physicians when they get a negative result that it is probably a true negative.” 
+ suspenseful decision-making 
+ a physician’s reaction to an initial negative test can mean life or death because the physician not only decides on follow-up testing but also on treatment pathways and quarantine. 
+ “if you make a misstep in the thought process, it can lead to cascading impacts not only for the patient but also for healthcare professionals and family members, who may be exposed to the patient,” said pinar keskinocak, 
+ william w. george chair and professor in georgia tech’s stewart school of industrial and systems engineering . “this tool is meant to help doctors easily stay on the decision tree path.” 
+ michael o’toole, executive director of piedmont healthcare’s quality improvement department, originally pictured doctors getting an automated version of the decision tree to use on their phones. o’toole called keskinocak, and she tapped yu, a member of her research group. 
+ “literally within four hours they had it ready for us. it was incredible,” said o’toole, a georgia tech alumnus who studied industrial and systems engineering. 
+ “it was a very pleasant surprise,” said dr. garner, who is also a georgia tech graduate. “automated tools are better than a paper format because they’re in the same format as orders in our electronic system. we get notifications in real time instead of having to remember to check a piece of paper.” 
+ the tool is in place in the system where doctors order retests and is specific to piedmont’s workflow. it may not be directly transferable to other health care systems. 
+ piedmont healthcare simplified the logic even more, and the hospital built its own custom alerts to guide physicians on retesting. for cases that are more ambiguous, piedmont healthcare’s final version of the tool also gives physicians inside the hospital guidance to consult with their in-house infectious disease specialists. 
+ if-this-then-retest 
+ in her original version, yu had turned the decision tree criteria into a short panel of questions with yes and no answers. it took her six iterations to arrive at her final version. 
+ yu’s version asked whether the patient: 
+ has a relevant ailment 
+ previously tested positive for coronavirus 
+ is now in an intensive care unit 
+ has worsening lung conditions 
+ shows telltale lung damage in imaging 
+ has been diagnosed with a different ailment 
+ the patient has had contact with someone else who tested positive for coronavirus. 
+ on the back end, the algorithm guided the user through risks of coronavirus presence based on the answers. 
+ “the steps were easy to follow, and the answers were color-coded for urgency with white, yellow, and red,” said keskinocak, who also directs georgia tech’s center for health and humanitarian systems. 
+ one bright yellow answer read: “this patient needs re-testing 24 hours after the initial test!” and there were further recommendations on how to handle the case. 
+ here's how to  subscribe to our free science and technology newsletter 
+ also read:  advice on diy masks 
+ writer & media representative : ben brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ additional images 
+ contact 
+ ben brumfield 
+ institute communications 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

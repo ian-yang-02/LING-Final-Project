@@ -1,0 +1,32 @@
+venturelab works to commercialize liquid cooling system technology developed at georgia tech 
+ liquid cooling system lets microchips perform more operations per second, but at cooler temperatures than current commercial options. 
+ daniel lorenzini prepares to test a microchip as part of his liquid cooling system technology he developed at georgia tech. (photo: péralte c. paul) 
+ apr 29, 2019 
+ — atlanta, ga 
+ in the online world of computer gaming, overclocking is a common practice by which hyper-competitive gamers look to push as much processing power as possible for the slightest advantage and edge to win and enjoy the games they play. 
+ running these gaming systems’ graphics or central processing units at rates faster than they were designed for allows for higher performance, including rendering at higher frames per second with higher resolutions and texture details. but it also creates a lot more heat and that requires more cooling and care of those key microlectronic components. 
+ but daniel lorenzini has developed a liquid cooling system — on a micro scale — that allows for the microchips to be overclocked, or perform more operations per second, but at cooler temperatures than commercial thermal control hardware. 
+ lorenzini developed and refined the technology in the lab of yogendra joshi at the georgia institute of technology’s george w. woodruff school of mechanical engineering. 
+ under conventional liquid cooling methods, microchips are cooled by passing coolant liquids through a block over the chips’ casings, which include a metal lid called an integrated heat spreader (ihs) and a thermal interface material (tim), which is a gel-like substance. those components lead to heat resistance and therefore limit the system performance due to thermal throttling. 
+ but the liquid cooling system designed by lorenzini, who is slated to receive his doctorate in mechanical engineering from tech on may 3, 2019, allows for microchips to be cooled directly. 
+ “i’ve been looking at more direct or microfluidic cooling to the chips and by doing this, we are able to remove more heat,” he said. 
+ “it’s much more efficient and allows us to remove up to five times the power than that of conventional technologies,” lorenzini added, “because you can increase the voltage to the processors so it’s faster and stable, while running at a higher frequencies.” 
+ with the help of venturelab, the georgia tech program that works with institute faculty and students to commercialize their research, lorenzini is forming emcool, as the company being organized around the technology will be called. 
+ the breakthrough could be a significant one for the gaming industry, the first sector lorenzini identified as being ready-made for his micro cooling system. 
+ but it has potential for other industries, said jonathan goldman, a venturelab principal, whoevaluates tech-derived intellectual property and research for viability as commercialized and fundable technology startups. 
+ “what he’s done is a disruptive improvement to the challenge of cooling these chips,” goldman said, adding the technology has use in other high-performance computing applications such as data science, media, healthcare, manufacturing, and retail. 
+ through venturelab and his work with goldman, lorenzini was able to secure a $50,000 grant from the national science foundation innovation corps (i-corps) in 2018 and the emcool team participated in a six-week customer discovery boot camp to further define customer segments. 
+ that was followed by another $50,000 grant — with venturelab’s assistance — from the georgia research alliance for prototype development. 
+ and in the first quarter of 2019, lorenzini raised $100,000 in an angel round from investors in his native mexico. those funds will be received once emcool is formally incorporated, which is expected in june. 
+ the mexican government awarded lorenzini with its entrepreneurial ingenuity award in 2018 for his work as co-founder of cooling tree systems, one of the first companies in latin america to commercialize liquid cooling systems when such approaches began to replace air cooling solutions in the market. 
+ emcool, which already has a provisional patent on the technology lorenzini developed at georgia tech, expects to formally incorporate in may. 
+ “we’re guiding them through this process and getting them getting them ready to incorporate and assemble and sell their first systems,” goldman said. “we expect to have those commercially available by this fall.” 
+ additional images 
+ contact 
+ péralte c. paul 
+ 404.316.1210 
+ email 
+ peralte.paul@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

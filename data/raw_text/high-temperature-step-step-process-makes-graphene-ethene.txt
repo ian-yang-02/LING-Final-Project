@@ -1,0 +1,36 @@
+High Temperature Step-by-Step Process Makes Graphene from Ethene
+Researchers have developed a new way to produce single-layer graphene from a simple precursor: ethene.
+A sequence of images at rising temperatures shows through microscopy (top row) and modeling (bottom row) how ethene molecules adsorbed on a rhodium catalyst transform into graphene. (Figure credit: R. Schaub).
+May 04, 2017
+— Atlanta, GA
+An international team of scientists has developed a new way to produce single-layer graphene from a simple precursor: ethene – also known as ethylene – the smallest alkene molecule, which contains just two atoms of carbon.
+By heating the ethene in stages to a temperature of slightly more than 700 degrees Celsius -- hotter than had been attempted before – the researchers produced pure layers of graphene on a rhodium catalyst substrate. The stepwise heating and higher temperature overcame challenges seen in earlier efforts to produce graphene directly from hydrocarbon precursors.
+Because of its lower cost and simplicity, the technique could open new potential applications for graphene, which has attractive physical and electronic properties. The work also provides a novel mechanism for the self-evolution of carbon cluster precursors whose diffusional coalescence results in the formation of the graphene layers.
+The research, reported as the cover article in the May 4 issue of the
+Journal of Physical Chemistry C , was conducted by scientists at the Georgia Institute of Technology, Technische Universität München in Germany, and the University of St. Andrews in Scotland. In the United States, the research was supported by the U.S. Air Force Office of Scientific Research and the U.S. Department of Energy’s Office of Basic Energy Sciences.
+“Since graphene is made from carbon, we decided to start with the simplest type of carbon molecules and see if we could assemble them into graphene,” explained Uzi Landman, a Regents’ Professor and F.E. Callaway endowed chair in the Georgia Tech School of Physics who headed the theoretical component of the research. “From small molecules containing carbon, you end up with macroscopic pieces of graphene.”
+Graphene is now produced using a variety of methods including chemical vapor deposition, evaporation of silicon from silicon carbide – and simple exfoliation of graphene sheets from graphite. A number of earlier efforts to produce graphene from simple hydrocarbon precursors had proven largely unsuccessful, creating disordered soot rather than structured graphene.
+Guided by a theoretical approach, the researchers reasoned that the path from ethene to graphene would involve formation of a series of structures as hydrogen atoms leave the ethene molecules and carbon atoms self-assemble into the honeycomb pattern that characterizes graphene. To explore the nature of the thermally-induced rhodium surface-catalyzed transformations from ethene to graphene, experimental groups in Germany and Scotland raised the temperature of the material in steps under ultra-high vacuum. They used scanning-tunneling microscopy (STM), thermal programed desorption (TPD) and high-resolution electron energy loss (vibrational) spectroscopy (HREELS) to observe and characterize the structures that form at each step of the process.
+Upon heating, ethene adsorbed onto the rhodium catalyst evolves via coupling reactions to form segmented one-dimensional polyaromatic hydrocarbons (1D-PAH). Further heating leads to dimensionality crossover – one dimensional to two dimensional structures – and dynamical restructuring processes at the PAH chain ends with a subsequent activated detachment of size-selective carbon clusters, following a mechanism revealed through first-principles quantum mechanical  simulations.  Finally, rate-limiting diffusional coalescence of these dynamically self-evolved cluster-precursors leads to condensation into graphene with high purity.
+At the final stage before the formation of graphene, the researchers observed nearly round disk-like clusters containing 24 carbon atoms, which spread out to form the graphene lattice. “The temperature must be raised within windows of temperature ranges to allow the requisite structures to form before the next stage of heating,” Landman explained. “If you stop at certain temperatures, you are likely to end up with coking.”
+An important component is the dehydrogenation process which frees the carbon atoms to form intermediate shapes, but some of the hydrogen resides temporarily on, or near, the metal catalyst surface and it assists in subsequent bond-breaking process that lead to detachment of the 24-carbon cluster-precursors.  “All along the way, there is a loss of hydrogen from the clusters,” said Landman. “Bringing up the temperature essentially ‘boils’ the hydrogen out of the evolving metal-supported carbon structure, culminating in graphene.”
+The resulting graphene structure is adsorbed onto the catalyst. It may be useful attached to the metal, but for other applications, a way to remove it will have to be developed. Added Landman: “This is a new route to graphene, and the possible technological application is yet to be explored.”
+Beyond the theoretical research, carried out by Bokwon Yoon and Landman at the Georgia Tech Center for Computational Materials Science, the experimental work was done in the laboratory of Professor Renald Schaub at the University of St. Andrews and in the laboratory of Professor Ueli Heiz and Friedrich Esch at the Technische Universität München. Other co-authors included Bo Wang, Michael König, Catherine J. Bromley, Michael-John Treanor, José A. Garrido Torres, Marco Caffio, Federico Grillo, Herbert Frücht, and Neville V. Richardson.
+The work at the Georgia Institute of Technology was supported by the Air Force Office of Scientific Research through Grant FA9550-14-1-0005 and by the Office of Basic Energy Sciences of the U.S. Department of Energy through Grant FG05-86ER45234. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring organizations.
+CITATION : Bo Wang, et al., “Ethene to Graphene: Surface Catalyzed Chemical Pathways, Intermediates, and Assembly,” (Journal of Physical Chemistry C). http://dx.doi.org/10.1021/acs.jpcc.7b01999
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,56 @@
+urine test to evaluate immunotherapy success gets $1.8 million nih research grant 
+ immunotherapy can eradicate cancer or fall down trying, and this sensor monitors that success or failure. 
+ the activity sensor illustrated in reddish-pink with small, green attachments is shown here in its application to detect organ transplant rejection. t cells secrete the enzyme granzyme, here in gray, which kills cells but also severs the fluorescent green signal molecules from the activity sensing nanoparticle. the green signal molecules make their way into the urine, where they give off a fluorescent cue. credit: georgia tech / ellamaru studios work for hire / press handout 
+ apr 02, 2019 
+ — atlanta, ga 
+ new immunotherapies can dramatically defeat cancer. but more often, cancer evades them, and doctors need to know quickly when that happens, so they can adjust treatment. an experimental urine test to detect immunotherapy effectiveness very early has received a major funding boost. 
+ the national institutes of health has granted $1.8 million to a research project at the georgia institute of technology, where 
+ the lab of gabe kwong 
+ has already established a platform to detect complex disease and immune activity. kwong will use the new funding from the nih’s national cancer institute to advance the platform to evaluate immunotherapy progress. 
+ the platform uses an intravenous injection of “activity sensors,” nanoparticles that detect early enzyme activity of immune cells attacking cancer. the sensor confirms the attack with a fluorescent signal in the urine. 
+ shifty resistance 
+ cancer’s defenses are crafty and can thwart treatment from the start or disrupt initially successful treatment later on, so progress must be continually monitored, which kwong’s lab is engineering the particle to do. early resistance to therapy looks very different from later resistance. 
+ “we need to be able to classify different forms of resistance, so we can combat them better,” said kwong, an  assistant professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university . 
+ he plans to adapt the sensing technology to profile those subtleties. it is already engineered to have advantages over other tests that have recently entered the market, which look for signals that come later, such as dead cancer cells shedding their dna into the bloodstream. 
+ “these tests can be quite effective, but some issues limit them, particularly in early detection: you have five liters of blood. whatever the cells shed gets diluted significantly in your bloodstream,” kwong said. 
+ that makes these signals harder to detect in blood tests. 
+ enriched signals 
+ “our sensors’ signals get concentrated in the urine, so, not only are they not diluted in the blood, but we usually see a hundred- to thousandfold signal enrichment.” 
+ kwong’s lab has already developed the sensors, which are biocompatible nanoparticles, refined them as a reliable platform, and engineered variations that experimentally sense blood clots, liver fibrosis, 
+ organ transplant rejection , and cancer. kwong has 
+ published multiple papers 
+ on activity sensor urine test successes. 
+ kwong’s endgame ambitions: “in five to ten years, we want to expand the platform to detect most all major complex diseases and progress in treating them.” 
+ q & a 
+ what is the activity sensor and how does the urine test work? 
+ the sensors are nanoscale balls with bristles made of short amino acid strands that have fluorescent “reporter” molecules attached to their tips. the sensors tend to accumulate in compromised tissue like cancer. 
+ when immunotherapy -- which can be engineered t cells or the body’s own t cells aided by medication -- attack cancer cells, the t cells secrete an enzyme called granzyme that severs 
+ target amino acid strands 
+ in the cancer cells, triggering their death. the activity sensor’s bristles mimic those strands, so granzymes cut the bristles at the same time. 
+ “that releases the reporter molecules, which are so small that they easily make it through the kidney’s filtration and go into the urine,” said kwong who directs the laboratory for synthetic immunity in the coulter department. 
+ then the urine turns a fluorescent color that can be analyzed to determine the intensity of the immunotherapy’s attack on cancer. 
+ [thinking about grad school?  here's how to apply to georgia tech. ] 
+ is there a need for this kind of test? 
+ “many patients, especially those with solid tumors, are not responding to this treatment,” kwong said. “the non-responders need to be detected very quickly.” 
+ there are also diagnostic pitfalls the experimental sensor is devised to overcome: for example, a current measure of treatment success is tumor shrinkage, but when t cells initially cram into a tumor, it can swell. that sometimes leads doctors to believe that a therapy that is actually very effective is not working, and they may discontinue it. 
+ “this test does not measure size; it measures activity,” kwong. “if those swelling tumors are very high in granzyme activity, that’s a great sign, and we will be able to pick that up.” 
+ how is the dream of detecting most known complex diseases even feasible? 
+ quite conveniently, the human genome produces “only” 550 proteases, a particular type of enzyme relevant to detecting and combating disease. kwong believes researchers can adapt this platform to detect any of them and that there’s a need for that. 
+ “granzymes are also activated by other things like an infection, so detecting granzyme alone risks getting interference when you’re looking at cancer treatment effectiveness. we’re developing a panel of sensors that gives us the specificity of t cell activity in tumors over the possible activity of t cells fighting, say, a cold,” kwong said. 
+ “we want to build 550 different protease-detecting probes, and depending on what disease you have, they would expose a profile of the proteases in varying ratios.” 
+ the probes could be combined into a cocktail to detect budding cancer, immunotherapy effectiveness or infections, and machine learning would analyze their respective fingerprints in the urine signals. 
+ also read: 
+ mending a broken heart - 6 cardiac solutions currently in testing 
+ the grant was provided by the national cancer institute at the national institutes of health. the grant number is 1 r01 ca237210-01. 
+ the content is the sole responsibility of the authors and does not necessarily represent official views of the national institutes of health. 
+ media relations assistance / writer : ben brumfield 
+ (404) 660-1408 
+ ben.brumfield@comm.gatech.edu 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,45 @@
+Three ISyE Researchers Receive 2016 Golden Goose Award for the Honey Bee Algorithm
+John Bartholdi III, Craig Tovey, and John Vande Vate, all researchers who hail from Georgia Tech’s No. 1-ranked Stewart School of Industrial & Systems Engineering (ISyE) – are part of an interdisciplinary team that has been designated as recipients of the
+Sep 22, 2016
+— Atlanta, GA
+John Bartholdi III, Craig Tovey, and John Vande Vate, all researchers who hail from Georgia Tech’s No. 1-ranked Stewart School of Industrial & Systems Engineering (ISyE) – are part of an interdisciplinary team that has been designated as recipients of the 2016
+Golden Goose Award .
+The Golden Goose Award honors scientists whose federally funded work may have been considered silly, odd, or obscure when first conducted, but has resulted in significant benefits to society.
+Along with Cornell University professor Thomas Seeley and data scientist Sunil Nakrani (who received his M.S. in computer science in 1998 from Tech and also completed post-doctoral work with Tovey), the team studied honey bee foraging behavior and the development of the
+Honey Bee Algorithm
+to allocate shared webservers to internet traffic. The original honey bee research, funded by the National Science Foundation (NSF) and Office of Naval Research, unexpectedly led to the algorithm that major web-hosting companies now use to streamline internet services and increase revenues in a global market worth more than $50 billion.
+“The bees turned out to be even smarter than we thought,” said Tovey. The team developed a model for how the colonies’ decentralized foraging system works, which Tovey and Nakrani adapted over a decade later to develop the Honey Bee Algorithm for allocating shared web hosting servers to variable internet traffic. Their algorithm beats the competition by up to 20 percent in revenue generation for the web hosts and ensures servers are serving the applications internet clients need, when they need them.
+The team is being cited for their curiosity-driven research on how honey bee foragers are able to maximize nectar collection in ever-changing environments.
+“The ISyE faculty members who were recently presented with the Golden Goose Award deserve this recognition for not only their research, but for their vision and commitment to connect science with societal needs,” said Gary S. May, dean of Georgia Tech’s College of Engineering and Southern Company Chair. “It reaffirms the fact that engineers are creative problem-solvers who have the ingenuity to develop solutions. The impact of the Honey Bee Algorithm will increase as internet use continues to climb worldwide.”
+Bartholdi, Tovey, and Vande Vate were inspired to study honey bee foraging after Vande Vate heard Seeley describing his own honey bee research on National Public Radio. “I wonder if the bees would do any better if they hired us as consultants?” Vande Vate mused to his colleagues after hearing the program. The tongue-in-cheek question led to a years-long examination of the honey bees’ decentralized foraging patterns from a systems engineering perspective.
+Today, major web-hosting companies are using Tovey and Nakrani’s Honey Bee Algorithm and other similar biologically-inspired methods to boost revenues and more efficiently allocate their servers. Every internet user benefits when servers are ready in the right place and in the shortest time.
+“The internet is one of mankind’s greatest accomplishments, and these scientists studied one of the smallest parts of nature to make it better,” said Rep. Jim Cooper (D-TN), who had the original idea to create the Golden Goose Award. “Their ingenuity is the kind of talent that makes America’s scientific and research community the best in the world.”
+All five researchers who worked on the honey bee project -- Bartholdi, Nakrani, Seeley, Tovey, and Vande Vate -- accepted the award in a ceremony held at the Library of Congress in Washington, D.C. on September 22, 2016, with about 500 people in attendance. The ceremony included speeches by several congressional representatives, as well as the president of the American Association for the Advancement of Science, Geraldine L. Richmond. Official congratulations were read into the Congressional Record.
+About the ISyE Recipients of the Golden Goose Award
+John Bartholdi III
+is the Manhattan Associates/Dabbiere Chair in ISyE and the co-executive director of the Georgia Tech Panama Logistics Innovation & Research Center in Panama. Bartholdi teaches supply chain issues, primarily warehousing, at both the undergraduate and graduate levels and in SCL's professional education program. His research centers on problems in warehousing and distribution, but he reserves some time to pursue wider-ranging interests, including mechanics, politics, computer science, geography, and biology. He was named a Presidential Young Investigator by the NSF for 1984-1989.
+His research work has been supported by the Defense Logistics Agency, the Office of Naval Research, and the Air Force Office of Scientific Research, among others.
+Craig Tovey
+is a professor and Stewart Faculty Fellow in ISyE with a courtesy appointment in the College of Computing at Tech. He also co-directs CBID, the Georgia Tech Center for Biologically Inspired Design
+Tovey's principal research and teaching activities are in operations research and its interdisciplinary applications to social and natural systems, with emphasis on sustainability, the environment, and energy. His current research concerns inverse optimization for electric grid management, classical and biomimetic algorithms for robots and webhosting, the behavior of animal groups, sustainability measurement, and political polarization.
+He received a Presidential Young Investigator Award from the NSF in 1985 and the 1989 Jacob Wolfowitz Prize for research in heuristics. He was granted a Senior Research Associateship from the National Research Council in 1990, was named an Institute Fellow at Georgia Tech in 1994, and received the Georgia Tech Class of 1934 Outstanding Interdisciplinary Activity Award in 2011.
+John Vande Vate , a professor in ISyE, is the founder and executive director of Georgia Tech's Executive Master's in International Logistics and Supply Chain Strategy (EMIL-SCS) program. He held visiting professor positions at MIT Sloan School of Management, Carnegie Mellon Tepper School of Business, and the University of Pittsburgh’s Department of Economics, among others.
+During the past 30 years, he has consulted for a variety of companies on a range of management science applications. His research has been published in
+Econometrica ,
+Mathematics of Operations Research ,
+Operations Research ,
+Mathematical Programming ,
+Questa ,
+Journal of Theoretical Biology ,
+Mechanics of Structures and Machines , and other established journals.
+Vande Vate served on the board of the Supply Chain Council as the global treasurer and was named among Supply & Demand Chain Executive's Pros to Know in 2006.
+Additional Images
+Contact
+Shelley Wunder-Smith
+Stewart School of Industrial & Systems Engineering
+404.385.4645
+Email
+shelley.wunder-smith@isye.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

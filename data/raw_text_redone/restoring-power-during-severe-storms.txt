@@ -1,0 +1,27 @@
+restoring power during severe storms 
+ researchers studied how recovery, guided by common policies from fema and industry, varies with respect to the severity of disruptive events. 
+ power lines 
+ sep 22, 2021 
+ — atlanta, ga 
+ with severe weather and natural disasters becoming more intense in a changing climate, a group of georgia tech researchers studied how recovery, guided by common policies from fema and industry, varies with respect to the severity of disruptive events. the study, a collaboration with national grid, used large-scale data analytics to look at nine years of power failure data to gain insight on how quickly energy grids come back online for customers. 
+ the study found that 90 percent of customers experience 10 percent of a disruptive event’s total downtime during moderate to extreme storms. however, recovery degrades with the severity of the disruptions. large failures that cannot recover rapidly increase by 30% from the moderate to extreme events, while prolonged small failures dominate entire recovery processes. 
+ the study from georgia tech’s college of engineering looked at 169 weather-induced power failures at two service regions in the states of new york and massachusetts. the failures were induced by a wide range of disruptive events from hurricanes, nor’easters, and thunder and winter storms from 2011-2019, affecting nearly 12 million people. 
+ a feature article, “ large-scale data analytics for resilient recovery services from power failures ,” is published in joule: cell press. 
+ “our goal was to use large-scale data from the operational energy grid to better understand resiliency,” said lead author amir hossein afsharinejad, a ph.d. student in georgia tech’s school of 
+ electrical and computer engineering  (ece). “by using such a large dataset that covers nearly a decade, we sought to learn how recoveries respond to the severity of a wide range of weather-induced failure events.” 
+ the georgia tech analysis finds that the behavior of restoration services follows a “recovery scaling law.” this law restores service for the majority of affected customers at the cost of a small fraction of the total interruption time. this prioritization policy, however, becomes less efficient, shown by large power failures that can’t be prioritized. this results in customer interruption times that are 47 times longer from moderate to extreme failure events. 
+ the study found that the prioritization recovery doesn’t optimize restoration of small failures, which dominate delayed recovery during an entire evolution of an extreme event. 
+ “these findings tell us that the typical services governed by the prioritized recovery policy is at the cost of the disparity, and the cost is significant when failure events become severe and extreme,” said study co-author chuanyi ji, a georgia tech ece associate professor and afsharinejad’s thesis advisor. “our analysis shows both the capability and fundamental limitation of recovery under the prioritization policy, where rapid restoration does not sustain to severe and extreme failure events.” 
+ the research team also explored if other approaches would be more beneficial to speed up recovery from failures. one included distributed generation and storage. their initial study found the approach scales well, as expediting restoration of a small fraction of the large failures in the non-prioritized category can reverse the degraded recovery from the moderate to extreme events. 
+ the data used in the study are commonly available to most distribution grid operators in the u.s. and other parts of the world. the researchers hope their work, which took more than four years to analyze, demonstrates that energy service providers have the ability to adopt data science and turn their own data into new knowledge to improve both recovery and infrastructure enhancement. 
+ “we are moving in a direction where severe storms are becoming more costly,” said robert wilcox, a principal engineer from national grid who co-authored the paper. 
+ the team is enthusiastic about the future direction. “this is also an historic time as more consumers need data and machine learning to help enhance energy services and smart infrastructure,” wilcox added. “hopefully our study will motivate the industry to use data to better understand the problems we face today and in the decades to come.” 
+ about georgia tech 
+ the georgia institute of technology, or georgia tech, is a top 10 public research university developing leaders who advance technology and improve the human condition. the institute offers business, computing, design, engineering, liberal arts, and sciences degrees. its nearly 40,000 students, representing 50 states and 149 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ additional images 
+ contact 
+ jason maderer 
+ college of engineering maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

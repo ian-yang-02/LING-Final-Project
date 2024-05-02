@@ -1,0 +1,46 @@
+novel circuit design boosts wearable thermoelectric generators 
+ researchers have demonstrated proof-of-concept wearable thermoelectric generators that can harvest energy from body heat. 
+ akanksha menon, a ph.d. student in the woodruff school of mechanical engineering at the georgia institute of technology, measures electrical conductivity of a thermoelectric polymer film device. (credit: candler hobbs, georgia tech). 
+ oct 09, 2017 
+ — atlanta, ga 
+ using flexible conducting polymers and novel circuitry patterns printed on paper, researchers have demonstrated proof-of-concept wearable thermoelectric generators that can harvest energy from body heat to power simple biosensors for measuring heart rate, respiration or other factors. 
+ because of their symmetrical fractal wiring patterns, the devices can be cut to the size needed to provide the voltage and power requirements for specific applications. the modular generators could be inkjet printed on flexible substrates, including fabric, and manufactured using inexpensive roll-to-roll techniques. 
+ “the attraction of thermoelectric generators is that there is heat all around us,” said akanksha menon, a ph.d. student in the 
+ woodruff school of mechanical engineering 
+ at the georgia institute of technology. “if we can harness a little bit of that heat and turn it into electricity inexpensively, there is great value. we are working on how to produce electricity with heat from the body.” 
+ the research, supported by pepsico, inc. and the air force office of scientific research, was reported online in the 
+ journal of applied physics 
+ on september 28th. 
+ thermoelectric generators, which convert thermal energy directly into electricity, have been available for decades, but standard designs use inflexible inorganic materials that are too toxic for use in wearable devices. power output depends on the temperature differential that can be created between two sides of the generators, which makes depending on body heat challenging. getting enough thermal energy from a small contact area on the skin increases the challenge, and internal resistance in the device ultimately limits the power output. 
+ to overcome that, menon and collaborators in the laboratory of assistant professor 
+ shannon yee 
+ designed a device with thousands of dots composed of alternating p-type and n-type polymers in a closely-packed layout. their pattern converts more heat per unit area due to large packing densities enabled by inkjet printers. by placing the polymer dots closer together, the interconnect length decreases, which in turn lowers the total resistance and results in a higher power output from the device. 
+ “instead of connecting the polymer dots with a traditional serpentine wiring pattern, we are using wiring patterns based on space filling curves, such as the hilbert pattern – a continuous space-filling curve,” said kiarash gordiz, a co-author who worked on the project while he was a ph.d. student at georgia tech. “the advantage here is that hilbert patterns allow for surface conformation and self-localization, which provides a more uniform temperature across the device.” 
+ the new circuit design also has another benefit: its fractally symmetric design allows the modules to be cut along boundaries between symmetric areas to provide exactly the voltage and power needed for a specific application. that eliminates the need for power converters that add complexity and take power away from the system. 
+ “this is valuable in the context of wearables, where you want as few components as possible,” said menon. “we think this could be a really interesting way to expand the use of thermoelectrics for wearable devices.” 
+ so far, the devices have been printed on ordinary paper, but the researchers have begun exploring the use of fabrics. both paper and fabric are flexible, but the fabric could be easily integrated into clothing. 
+ “we want to integrate our device into the commercial textiles that people wear every day,” said menon. “people would feel comfortable wearing these fabrics, but they would be able to power something with just the heat from their bodies.” 
+ with the novel design, the researchers expect to get enough electricity to power small sensors, in the range of microwatts to milliwatts. that would be enough for simple heart rate sensors, but not more complex devices like fitness trackers or smartphones. the generators might also be useful to supplement batteries, allowing devices to operate for longer periods of time. 
+ among the challenges ahead are protecting the generators from moisture and determining just how close they should be to the skin to transfer thermal energy – while remaining comfortable for wearers. 
+ the researchers use commercially-available p-type materials, and are working with chemists at georgia tech to develop better n-type polymers for future generations of devices that can operate with small temperature differentials at room temperatures. body heat produces differentials as small as five degrees, compared to a hundred degrees for generators used as part of piping and steam lines. 
+ “one future benefit of this class of polymer material is the potential for a low-cost and abundant thermoelectric material that would have an inherently low thermal conductivity,” said yee, who directs the lab as part of the woodruff school of mechanical engineering. “the organic electronics community has made tremendous advances in understanding electronic and optical properties of polymer-based materials. we are building upon that knowledge to understand thermal and thermoelectric transport in these polymers to enable new device functionality.” 
+ among the other prospects for the materials being developed are localized cooling devices that reverse the process, using electricity to move thermal energy from one side of a device to another. cooling just parts of the body could provide the perception of comfort without the cost of large-space air conditioning, yee said. 
+ this research was supported by the air force office of scientific research (afosr) under award no. fa9550-15-1-0145 and by pepsico, inc. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ citation : kiarash gordiz, akanksha k. menon, shannon k. yee, “interconnect patterns for printed organic thermoelectric devices with large fill factors, (journal of applied physics, 2017). 
+ http: / / dx.doi.org / 10.1063 / 1.4989589 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

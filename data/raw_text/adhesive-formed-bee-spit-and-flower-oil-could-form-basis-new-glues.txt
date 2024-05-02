@@ -1,0 +1,33 @@
+Adhesive Formed From Bee Spit and Flower Oil Could Form Basis of New Glues
+Researchers at Georgia Institute of Technology are looking at that mixture of ingredients as a model for a bioinspired glue because of its unique adhesive properties and ability to remain sticky through a range of conditions.
+Honeybee near the Student Center. Photo by Yumiko Sakurai
+Mar 27, 2019
+— Atlanta, GA
+Honey bees spend hours each day collecting pollen and packing it into tidy bundles attached to their hind legs.
+But all of that hard work could instantly be undone during a sudden rainstorm were it not for two substances the insect uses to keep the pollen firmly stuck in place: bee spit and flower oil.
+Now researchers at Georgia Institute of Technology are looking at that mixture of ingredients as a model for a bioinspired glue because of its unique adhesive properties and ability to remain sticky through a range of conditions.
+“A bee encounters not just wet and humid environments but windy and dry surroundings as well, so its pollen pellet must counteract those variations in humidity while remaining adhered,” said J. Carson Meredith, a professor in Georgia Tech’s School of Chemical and Biomolecular Engineering. “Being able to withstand those kinds of changes in humidity is still a challenge for synthetic adhesives.”
+In a study published March 26 in the journal
+Nature Communications
+and sponsored by the Air Force Office of Scientific Research, the researchers described how those two natural liquids work together to protect the bee’s bounty as it travels back to its hive.
+The first component of the glue is the bee’s own salivary secretions, which coat the pollen grains and allow them to stick together. The bees produce those sugary secretions, the main ingredient in honey, from nectar they drink from the flowers.
+The second ingredient is a plant-based oil that coats the pollen grains called pollenkitt, which helps stabilize the adhesive properties of the nectar and protect it from the impact of too much or too little humidity.
+“It works similarly to a layer of cooking oil covering a pool of syrup,” Meredith said. “The oil separates the syrup from the air and slows down drying considerably.”
+The researchers tested the adhesive properties of the bee’s glue by separating the oil-based component from the sugar-based component and evaluating how sticky the nectar remained under various humidity conditions. As expected, as humidity increased and the nectar absorbed more water, its adhesive properties diminished. The same effect was true when humidity decreased and the nectar dried out. Meanwhile, under similar conditions, nectar coated with the pollenkitt oil remained sticky despite changes in humidity.
+“We believe you could take the essential concepts of this material and develop a novel adhesive with a water-barrier external oil layer that could better resist humidity changes in the same way,” Meredith said.  “Or potentially this concept would apply to controlling the working time of an adhesive, such as its ability to flow and time to dry or cure.”
+The research team, which included Victor Breedveld, an associate professor in the School of Chemical and Biomolecular Engineering, also examined dynamics of the bee adhesive.
+“We wanted to know, if the pollen can stay so firmly attached to the bee’s hind legs, how do the bees manage to remove it when they return to the hive,” Meredith said.
+The answer may lie in the adhesive’s a rate-sensitive response. In other words, the faster the force attempting to remove it, the more it would resist.
+“This is a property of capillary adhesion, which we believe could be harnessed and tailored for specific applications, such as controlling motion in microscopic or nanoscale devices, in fields ranging from construction to medicine,” Meredith said.
+This work was supported by the Air Force Office of Scientific Research under grant No. FA9550-10-1-0555. Any conclusions or recommendations are those of the authors and do not necessarily represent the official views of the sponsoring organizations.
+CITATION:
+Donglee Shin, Won Tae Choi, Haisheng Lin, Zihao Qu, Victor Breedveld, and J. Carson Meredith, “Humidity-tolerant rate-dependent capillary viscous adhesion of bee-collected pollen fluids,” (Nature Communications, March 2019). https://doi.org/10.1038/s41467-019-09372-x
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,58 @@
+when physics gives evolution a leg up by breaking one 
+ with no biological program to drive it, physics forces multicellular clusters to reproduce and evolve. 
+ physicist peter yunker and evolutionary biologist will ratcliff in yunker's lab at georgia tech. yunker holds a sample of nascent multicellular yeast clusters used in the experiments. credit: georgia tech / rob felt 
+ nov 27, 2017 
+ — atlanta, ga 
+ genetic mutation may drive evolution, but not all by itself. physics can be a powerful co-pilot, sometimes even setting the course. 
+ in 
+ a new study , physicists and evolutionary biologists at the georgia institute of technology have shown how physical stress may have significantly advanced the evolutionary path from single-cell to multicellular organisms. in experiments with clusters of yeast cells called snowflake yeast, forces in the clusters’ physical structures pushed the snowflakes to evolve. 
+ “the evolution of multicellularity is as much a matter of physics as it is biology,” said biologist  will ratcliff, an assistant professor in georgia tech’s school of biological sciences . 
+ the bigger they are… 
+ like the first ancestors of multicellular organisms, in this study the snowflake yeast found itself in a conundrum: as it got bigger, physical stresses tore it into smaller pieces. so, how to sustain the growth needed to evolve into a complex multicellular organism? 
+ in the lab, those shear forces played right into evolution’s hands, laying down a track to direct yeast evolution toward bigger, tougher snowflakes. 
+ “in just eight weeks, the snowflake yeast evolved larger, more robust bodies by figuring out  soft matter physics  that took humans hundreds of years to learn,” said  peter yunker, an assistant professor in georgia tech’s school of physics . he and ratcliff collaborated on the research that documented the evolution and measured the physical properties of mutated snowflake yeast. 
+ they 
+ published their results on november 27, 2017, in the journal  nature physics . the work was funded by the nasa exobiology program, the national science foundation, and a  packard foundation fellowship to ratcliff . 
+ questions and answers 
+ here are some questions and answers to illuminate the study and its significance. 
+ but first, some background: baker’s yeast, which was used in these experiments, is usually a single-cell organism. yeast cells  with a well-known mutation stick together  in groups called snowflakes. 
+ that was not the focus of the experiments, but the yeast snowflakes were the starting point in this study on the evolution of multicellularity. 
+ why is this study significant? 
+ such a cell cluster like a yeast snowflake is not a well-integrated multicellular organism yet. to make it  to even simple multicellularity  like that of some algae is a very long evolutionary haul. 
+ “it’s a journey of a thousand steps,” ratcliff said. “the key change is for this group of cells not to evolve as a gang of single cells but as one multicellular individual.” 
+ in this work, the researchers showed how snowflake yeast took first steps in that direction by evolving more resilient multicellular bodies that sustained growth. the process was mainly driven by physical forces, as the simple snowflakes did not have complex inner biological workings that were capable of being the main drivers. 
+ “this is an amazing example of multicellular adaptation around physical constraints well before the evolution of a cellular developmental program,” yunker said. 
+ how does this evolution via physical stress work? 
+ “yeast snowflakes grew by adding cells end to end to form branches kind of like those of a bush,” yunker said. “but the branches crowded each other, and the stresses that result made some break off.” 
+ the breakage chopped down the size of individual yeast snowflakes, but after multiple generations, the snowflakes evolved to reduce the crowding of branches by elongating its individual cells. 
+ as a result, the overall snowflakes were less stressed and could grow larger and more robust. 
+ in addition, georgia tech researchers discovered that physics made the snowflakes basically have babies. specifically, the pieces that broke off became  propagules  that grew into snowflakes of their own. 
+ this reproduction was created by physical force and not by a biological program. ratcliff published a separate study about the reproduction aspect on october 23, 2017, in the journal  philosophical transactions of the royal society b . 
+ “physics does a lot for multicellularity,” ratcliff said. “it also gives it a lifecycle.” lifecycle refers to birth, growth, reproduction, and death. 
+ “a consensus is forming that for something to really evolve to multicellularity, very early on, a multicellular lifecycle has to develop.” 
+ also read: evolution, what was the primordial stew? 
+ how did the experiments select for these specific adaptations? 
+ ratcliff and yunker streamlined evolution in the lab by creating a consistent selection regime for the yeast snowflakes to evolve in. in this case, they  selected for snowflakes that were best at sinking . 
+ the snowflakes that sank better were heavier, because they grew larger than others in the manner described above, giving them more mass. “the clusters that evolved to grow bigger were therefore also heavier,” ratcliff said. 
+ this experimental selection setup befitted natural evolution, which also had to select for size to arrive at complex multicellular bodies, which are much, much larger than single cells. 
+ mutation of branches is genetic. is physics really so important here? 
+ that’s correct: random genetic mutations resulted in the better, longer branches in some yeast snowflakes giving them a cumulative weight advantage. 
+ but the propagation of the superior snowflake mutations was the result of physical stresses not breaking the snowflakes until they had grown larger. 
+ the pieces that eventually did break off, due purely to physical force, were the propagules. some of them carried mutations forward that made the new snowflakes even better at sinking. 
+ and that was a critical step in the multicellular evolution. 
+ how was stress corroborated as the cause of snowflakes splitting apart? 
+ the researchers put the material properties of the snowflakes to the test under an  atomic force microscope . “we squished the clusters and measured how much force and energy you needed to break them,” yunker said. 
+ “the physical measurement indicated closely the size the clusters would attain before they broke off a branch due to stress,” ratcliff said. 
+ also read: 'cavemen' had better mental health genes? 
+ coauthors of this study were shane jacobeen, jennifer pentz, elyes graba, and colin g. brandys of georgia tech. the research was funded by the nasa exobiology program (grant # nnx15ar33g), the national science foundation (grant # ios-1656549), and a packard foundation fellowship.  any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those sponsors. 
+ additional images 
+ contact 
+ writer and media relations contact : ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

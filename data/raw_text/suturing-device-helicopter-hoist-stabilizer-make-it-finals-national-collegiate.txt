@@ -1,0 +1,40 @@
+Suturing Device, Helicopter Hoist Stabilizer Make it to Finals of National Collegiate Inventors Competition
+One invention keeps patients safe during emergency airlifts. The other simplifies prostate-removal surgery.
+A prototype of the Stabilizing Aerial Loads Utility System, SALUS. The team of Georgia Tech students who invented the device are finalists in the 2019 Collegiate Inventors Competition. (Photo Courtesy: Mahdi Al-Husseini)
+Sep 19, 2019
+— Atlanta, GA
+One started as a capstone design project to simplify a surgical procedure. The other grew out of experience with one of the trickiest parts of military medical airlifts.
+Now both are among the
+10 finalists in the Collegiate Inventors Competition
+organized by the National Inventors Hall of Fame. Two teams of Georgia Tech students and recent graduates will present their ideas in October to a panel of Hall of Fame inductees and officials from the United States Patent and Trademark Office.
+One will detail a medical device that automatically ties 12 sutures during a prostatectomy. The other is a stabilizer to make emergency medical airlifts safer for patients and helicopter crews.
+“Competitions like this are incredible learning opportunities for us, and the Collegiate Inventors Competition, in particular, constitutes an unmatched opportunity to receive feedback about both the design of our device and how to successfully take it to market,” said Rachel Mann, who finished her Georgia Tech biomedical engineering degree in May and helped create the SecURO suturing device. “We take great pride in representing Georgia Tech and the Coulter Department of Biomedical Engineering on a national stage.”
+Simplifying Sutures
+Mann and Fall 2018 graduate Bailey (Klee) Eaton worked with fourth-year undergraduate Jared Brown to develop a device that standardizes the sutures doctors use when they remove a patient’s prostate. With the simple pull of a trigger, the device automatically rotates and stitches together two tube-like structures to reconnect the bladder and urethra.
+The device, which helps reduce postoperative complications, started as Eaton and Mann’s senior design project a year ago.
+“We were sponsored by the Mayo Clinic, and they asked us to improve the prostatectomy surgery, specifically the part of the procedure that requires meticulous suturing around the urethra,” Eaton said. “SecURO is a rotational suturing device that does just that.”
+The team continues to refine their design and currently is working to scale down and optimize their prototype for mass production. And they’re no strangers to invention competitions: They
+won the advanced health care track at the Johns Hopkins Healthcare Design Competition
+a few months ago.
+“The preparation for these competitions helped us refine our pitch, and, by now, we know it frontwards, backwards, and sideways,” Brown said. “Seeing other student projects and startups has also helped us iterate on our pitch over time because we have seen what works and what doesn’t.”
+Hoisting Help
+Computer science master’s student Mahdi Al-Husseini brought both parts of his life together for the other Georgia Tech invention in the finals.
+Alongside his first-year roommates Joshua Barnett and Anthony Chen, Al-Husseini developed a stabilization system for helicopter hoist operations — the rescue or medical evacuation procedures that usually happen under the worst of circumstances.
+“Patients often must be evacuated over water, above sloping terrain, and in hostile territory,” said Al-Husseini, a U.S. Army officer and helicopter pilot who flies medical evacuation missions. “Helicopter hoist operations are some of the most dangerous work Army aviation crews perform.”
+Usually, aircrews must lower a stretcher-like basket called a litter to carry the patient. Then the patient is lifted through the air to the helicopter cabin. But it’s no simple task.
+“The rotor blades of a hovering helicopter force a turbulent downwind deflection of air known as downwash. Downwash, in conjunction with low-wind conditions and poor helicopter control, can cause a hoisted load to rotate quickly — up to several full revolutions per second,” Al-Husseini said. “In addition to psychological trauma and disorientation, uncontrolled spin like that can result in physical injury or even death.”
+The team’s solution is the Stabilizing Aerial Loads Utility System, or SALUS (pronounced SAL-us, and derived from the Latin word for safety), a reaction-wheel stabilizer that stops the litter from spinning out of control. They’re close to signing a research and development agreement with the military for a battery of tests, including on a live UH-60 Blackhawk helicopter.
+The team has been working from opposite sides of the continent since they all finished their bachelor’s degrees at Georgia Tech in 2018. Barnett and Chen are pursuing doctorates at Stanford University while Al-Husseini, who earned bachelor’s degrees in biomedical engineering and public policy, works full-time in the Army and finishes his master’s degree in Atlanta. No matter; they’ve developed a proof of concept and five ever-more-advanced prototypes in a year.
+“We developed SALUS to allow hoist operators to focus their efforts on the already risky process of extracting a patient,” Al-Husseini said. “Soldiers complete their missions with valor knowing that, should they be wounded, medical evacuation crews will expedite their treatment and facilitate their return home. SALUS seeks to support those efforts as seamlessly as possible.”
+Additional Images
+Related links
+Collegiate Inventors Competition
+Georgia Tech Capstone Design
+Contact
+Joshua Stewart
+404.894.6016
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

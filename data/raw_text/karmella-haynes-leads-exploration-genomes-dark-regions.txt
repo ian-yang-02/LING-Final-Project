@@ -1,0 +1,27 @@
+Karmella Haynes Leads Exploration of the Genome’s Dark Regions
+National Science Foundation supporting research into the mysteries and mechanisms of noncoding RNA
+Aug 28, 2023
+By Jerry Grillo
+Karmella Haynes  wants to shine some light on the “dark matter” of the genome, and the National Science Foundation (NSF) is helping her flip the switch.
+Haynes, assistant professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University, is leading a team of multi-disciplinary investigators who were awarded a four-year,  $2.1 million grant from NSF  to explore this dark matter and illuminate how the genome controls living systems in all their diversity and complexity.
+It’s large space to explore. Only two percent of the human genome is known to provide instructions to build proteins, a process essential to higher functioning life. This leaves 98 percent of the genome as a biological frontier known as dark matter – these segments do not encode for protein, like the other two percent.
+“A lot of progress has been made in studying this part of the genome, but what we don’t know yet can be very useful,” said Haynes,  whose lab  works on the front line of synthetic biology, and is typically dedicated to protein engineering, including the investigation and design of chromatin-based systems for controlling gene expression in cancer and other cells.
+For this project, funded through February 2027, Haynes is expanding her focus to include RNA engineering, noting that some of those dark regions of the genome can produce long noncoding RNAs (lncRNAs). Usually found in very small amounts within a cell, lncRNAs have nonetheless been found to have an impact on biological processes like cell growth and survival, cell identity and environmental interactions, and various human and animal diseases.
+“The next step would be to tap into the biomedical and biotechnology potential of these RNAs,” said Haynes, who is principal investigator on the multi-institutional project. Her co-principal investigators are  Alisha Jones , assistant professor of chemistry at New York University, and  Keriayn Smith , assistant professor of genetics at the University of North Carolina-Chapel Hill. Joining them are Emory biochemist  Anita Corbett ;  Tian Hong , a computational biologist at the University of Tennessee; and  Aaron Johnson , a molecular geneticist at the University of Colorado.
+Together, they’ll delve into the mysteries and mechanisms of lncRNA.
+Investigators, Assemble!
+Haynes met her collaborators at an NSF Ideas Lab gathering in the summer of 2022. The program had an acronym that sounds like something borrowed from  Star Wars , D2R2, which actually stands for  Dark Dimensions of the RNA Regulome .
+Ideas Labs are intensive workshops facilitated by NSF with the intention of finding innovative solutions to grand challenges. D2R2 brought together engineers, chemists, mathematicians, computer scientists, and others with a goal of developing new theories and models for understanding non-coding RNAs, and new approaches for manipulating and controlling non-coding RNA activity.
+“We all received a crash course on what the scientific community understands about all of this, then we got to work,” said Haynes. Her two co-PIs, Jones and Smith, help comprise what Haynes believes is a unique leadership trifecta. “I rarely hear of a large multi-institutional grant that is led by three black women. I think that is significant.”
+Also significant, she added, is the project’s emphasis on outreach. Haynes and her team are working with students from  Project ENGAGES  at Georgia Tech – a high school science education program in partnership with minority-serving public schools in Atlanta. The plan is to provide the students a focus presentation on RNA technology.
+Ultimately, Haynes hopes the NSF project will yield innovations that would enhance our ability to predict and mitigate the effects of changing environments on organisms and ecosystems – in other words, epigenetic control. If they can engineer lncRNAs to fine tune their activity, researchers should be able to generate beneficial biomolecules for biomedical applications.
+“We expect at minimum to push the boundaries of knowledge by trying to build functional RNAs,” Haynes said. “But if we could develop an effective tool for this kind of epigenetic control, that would be remarkable. This could have some exciting implications for bioengineering.”
+Additional Images
+Contact
+Writer:
+Jerry Grillo
+Email
+jerry.grillo@ibb.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

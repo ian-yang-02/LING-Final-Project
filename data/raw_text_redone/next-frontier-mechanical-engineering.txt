@@ -1,0 +1,32 @@
+the next frontier in mechanical engineering 
+ drones are being designed, built and programmed to link up and carry larger, heavier objects as a unit. 
+ jonathan rogers with an autonomous flying quadcopter that could, in the future, lift a soldier. 
+ feb 26, 2018 
+ — atlanta, ga 
+ drone technology is quickly evolving –no longer just for military use, these flying robots now have a place within commercial enterprise. also known as unmanned aerial vehicles, drones today have practical applications, like delivering packages for amazon or allowing realtors to take aerial video to show off a sale property. 
+ to date, there is usually a weight limit on how much a drone can carry, restricting its usefulness. but jonathan rogers, assistant professor at the george w. woodruff school of mechanical engineering, is trying to change that. he is designing, building and programming robotic drones that can link up and carry larger, heavier objects as a unit 
+ “in my lab, we are working with multiple drones that lift and fly packages together,” said rogers. “this involves distributing heavy lift capabilities into a number of small drone units that can then organize themselves to pick the object up.” 
+ with exceptional portability, unobtrusive size and remote control, drones are ideal for situations that are dangerous for humans. rogers has designed the world’s first heavy lift small drones – robots that can work together to lift and evacuate wounded soldiers from the battlefield or civilians from a disaster area. theoretically, three to four man-portable robots fly out together, connect to the person, and lift them 500 yards out of harm’s way. 
+ each drone has eight large propellers and can fold up into a backpack for portability. the drone can lift a 65 pound object, and with three or four drones working together, a human can be lifted. rogers explains that it’s all about thrust density, a term he invented. 
+ “determining how much thrust you can pack into a small area is important when you are using multiple vehicles to lift a specific object,” said rogers. “when you pack a large amount of thrust into a small object, the laws of physics work against you, so you need more power. that’s why we only fly the soldiers about 500 yards away after they are lifted from the battlefield.” 
+ the drones rogers works on are part of a new field called cooperative flight control, where multiple drones connect to an object that they know very little about and move it in a stable way. rogers has named these drones “modular vertical lift robots,” and they also have useful implications for package delivery. 
+ currently, rogers and his team are working on a funded project with the georgia tech research institute (gtri) to test multiple vertical lift robots that connect up to deliver supplies. the robots are programed to take into account flexible logistics by connecting to the object (payload) and determining its weight and size and how to move it in a stable way. the small robots work together as a team, known as multi agent control. 
+ “right now we are most concerned with ensuring the robots fly in a stable way once they analyze the payload and mass center,” said rogers. “we are calling this autonomous flightworthiness determination (afwd), and it’s a topic in the field that no one else has explored.” 
+ a major challenge for afwd and cooperative flight control is determining how the drones are going to attach to the payload. rogers has developed a docking apparatus, so the robot vehicles can attach to the object. when a flexible payload, like a human, doesn’t have docks, rogers is looking into using manipulators with soft gripper technology on the robots. then the robots will have a flexible way of grasping the human. 
+ in the next 20 to 30 years, rogers predicts that mobile robots moving together will be employed in everyday situations. but a key hurdle remains – normalizing the technology to ensure it is compatible with and trusted by humans. 
+ “i am really invested in creating new mechanisms and autonomy algorithms that allow robots to serve a beneficial purpose in society,” said rogers. “the modular vehicle lift robot that can operate during disaster situations is a great example of the type of technology that can benefit people. also, the drone docks we are designing will be a key piece of equipment that hundreds of companies can use to do their jobs better. making an impact on society is really our goal.” 
+ rogers hopes to start lifting objects this summer. 
+ additional images 
+ related links 
+ tarzan robot: the future of farming 
+ jonathan rogers' lab 
+ contact 
+ georgia parmelee 
+ college of engineering 
+ 404-385-0181 
+ georgia.parmelee@coe.gatech.edu 
+ email 
+ georgia.parmelee@coe.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

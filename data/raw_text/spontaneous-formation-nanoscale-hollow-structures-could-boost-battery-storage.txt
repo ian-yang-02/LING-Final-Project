@@ -1,0 +1,43 @@
+Spontaneous Formation of Nanoscale Hollow Structures Could Boost Battery Storage
+The spontaneous formation of hollow structures in nanometer-scale antimony crystals could make them useful in lithium-ion batteries.
+Conventional lithium-ion batteries are used in a broad range of applications. (Credit: Matthew McDowell, Georgia Tech)
+Jun 13, 2020
+— Atlanta, GA
+An unexpected property of nanometer-scale antimony crystals — the spontaneous formation of hollow structures — could help give the next generation of lithium ion batteries higher energy density without reducing battery lifetime. The reversibly hollowing structures could allow lithium ion batteries to hold more energy and therefore provide more power between charges.
+Flow of lithium ions into and out of alloy battery anodes has long been a limiting factor in how much energy batteries could hold using conventional materials. Too much ion flow causes anode materials to swell and then shrink during charge-discharge cycles, causing mechanical degradation that shortens battery life. To address that issue, researchers have previously developed hollow “yolk-shell” nanoparticles that accommodate the volume change caused by ion flow, but fabricating them has been complex and costly.
+Now, a research team has discovered that particles a thousand times smaller than the width of a human hair spontaneously form hollow structures during the charge-discharge cycle without changing size, allowing more ion flow without damaging the anodes. The research was reported June 1 in the journal
+Nature Nanotechnology .
+“Intentionally engineering hollow nanomaterials has been done for a while now, and it is a promising approach for improving the lifetime and stability of batteries with high energy density,” said
+Matthew McDowell , assistant professor in the
+George W. Woodruff School of Mechanical Engineering
+and the
+School of Materials Science and Engineering
+at the Georgia Institute of Technology. “The problem has been that directly synthesizing these hollow nanostructures at the large scales needed for commercial applications is challenging and expensive. Our discovery could offer an easier, streamlined process that could lead to improved performance in a way that is similar to the intentionally engineered hollow structures.”
+The researchers made their discovery using a high-resolution electron microscope that allowed them to directly visualize battery reactions as they occur at the nanoscale. “This is a tricky type of experiment, but if you are patient and do the experiments right, you can learn really important things about how the materials behave in batteries,” McDowell said.
+The team, which included researchers from ETH Zürich and Oak Ridge National Laboratory, also used modeling to create a theoretical framework for understanding why the nanoparticles spontaneously hollow — instead of shrinking — during removal of lithium from the battery.
+The ability to form and reversibly fill hollow particles during battery cycling occurs only in oxide-coated antimony nanocrystals that are less than approximately 30 nanometers in diameter. The research team found that the behavior arises from a resilient native oxide layer that allows for initial expansion during lithiation — flow of ions into the anode — but mechanically prevents shrinkage as antimony forms voids during the removal of ions, a process known as delithiation.
+The finding was a bit of a surprise because earlier work on related materials had been performed on larger particles, which expand and shrink instead of forming hollow structures. “When we first observed the distinctive hollowing behavior, it was very exciting and we immediately knew this could have important implications for battery performance,” McDowell said.
+Antimony is relatively expensive and not currently used in commercial battery electrodes. But McDowell believes the spontaneous hollowing may also occur in less costly related materials such as tin. Next steps would include testing other materials and mapping a pathway to commercial scale-up.
+“It would be interesting to test other materials to see if they transform according to a similar hollowing mechanism,” he said. “This could expand the range of materials available for use in batteries. The small test batteries we fabricated showed promising charge-discharge performance, so we would like to evaluate the materials in larger batteries.”
+Though they may be costly, the self-hollowing antimony nanocrystals have another interesting property: they could also be used in sodium-ion and potassium-ion batteries, emerging systems for which much more research must be done.
+“This work advances our understanding of how this type of material evolves inside batteries,” McDowell said. “This information will be critical for implementing the material or related materials in the next generation of lithium-ion batteries, which will be able to store more energy and be just as durable as the batteries we have today.”
+In addition to McDowell, the paper’s authors include Matthew Boebinger from Georgia Tech; Olesya Yarema, Maksym Yarema, and Vanessa Wood from the Department of Information Technology and Electrical Engineering at ETH Zürich , and Kinga Unocic and Raymond Unocic from the Center for Nanophase Materials Science at Oak Ridge National Laboratory.
+This work was performed at the Georgia Tech Materials Characterization Facility and the Institute for Electronics and Nanotechnology, a member of the National Nanotechnology Coordinated Infrastructure, which is supported by the National Science Foundation (Grant ECCS-1542174). Support also came from the Department of Energy Office of Science Graduate Student Research Program for research performed at Oak Ridge National Laboratory. A portion of this research was conducted at the Center for Nanophase Materials Sciences, which is a DOE Office of Science User Facility. Support was also provided by a Sloan Research Fellowship in Chemistry from the Alfred P. Sloan Foundation and by the Swiss National Science foundation via an Ambizione Fellowship (no. 161249). The content is solely the responsibility of the authors and does not necessarily represent the official views of the sponsoring organizations.
+CITATION : Matthew G. Boebinger, et al., “Spontaneous and reversible hollowing of alloy anode nanocrystals for stable battery cycling” (Nature Nanotechnology, 2020).
+https://doi.org/10.1038/s41565-020-0690-9
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) ( jtoon@gatech.edu ).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

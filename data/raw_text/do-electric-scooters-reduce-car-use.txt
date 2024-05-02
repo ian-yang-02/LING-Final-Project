@@ -1,0 +1,34 @@
+Do Electric Scooters Reduce Car Use?
+Banning scooters may reduce sidewalk congestion and keep would-be riders and pedestrians safer, but it comes at a cost.
+Nov 03, 2022
+— Atlanta, GA
+Banning scooters may reduce sidewalk congestion and keep would-be riders and pedestrians safer, but it comes at a cost, according to new research from Georgia Tech’s  School of Public Policy .
+In  a study  examining the impact of Atlanta's 2019 ban on e-scooters and e-bikes in the city, researchers found that average commute times increased by about 10%. Travel to stadium events such as soccer games increased by almost 12 minutes per trip or 37% increase in travel times while the ban was in effect.
+For Atlantans, that adds up to 784,000 extra hours sitting in traffic each year — and that’s just between 9 p.m. and 4 a.m. when the ban was in effect. A moratorium during peak rush hour would cause even more congestion, the study’s principal investigator, Omar Asensio confirmed. Expanding the scope of their study, Asensio and his team in Georgia Tech’s  Data Science and Policy Lab  estimate that e-scooters, e-bikes, and other micro-mobility options can save an average of 17.4% in travel time for drivers nationally.
+“These are fairly significant congestion effects that most travelers will feel and as an unintended consequence of the safety regulation,” said Asensio.
+New data settle an old debate
+The study, conducted in Georgia Tech’s  Data Science and Policy Lab  and published in  Nature Energy , is the first to definitively show that investing in micro-mobility infrastructure such as e-bikes, e-scooters, and bike lanes can reduce traffic congestion and carbon emissions in cities. The research accounted for the rise in popularity of ride-sharing services and other sources of traffic.
+Previous studies on micromobility were controversial and contradictory because they relied on travel surveys, which can be unreliable and are subject to biases resulting from self-reported data, Asensio said. This motivated his search for a more rigorous, data-driven approach to answering the question.
+The opportunity arose when Atlanta banned scooters with a geo-fencing policy in 2019. The ban was done with a remote shutdown on all scooters within a certain perimeter, which ensured compliance across the city. Previous moratoriums in other places relied on people to choose to cooperate and follow the rules, so this 100% compliance rate was unique to Atlanta.
+“I thought, okay, that's interesting because now we have near-perfect behavioral compliance in response to a policy intervention, which turns out to be extremely rare,” Asensio said. “All of a sudden, if you're without the use of the scooter, what do you do? This created a great natural experiment, to be able to precisely measure the traffic times before and after this policy intervention and in doing so, test behavioral theories of mode substitution.”
+In addition, Asensio and his team received early access to the then-new Uber Movement Dataset, which gave them detailed information about commute times across the city that previously had to be collected by surveys as well. In short, the stars aligned in 2019 for the debate over the true impact of micro-mobility on city traffic to finally be settled.
+Mary Feeney, program director for the Science of Science Program at the  National Science Foundation , which supported the research, said “Asensio and his team are using newly available ‘big data’ sources to tackle practical questions with real policy implications. Bringing the appropriate data and analytical approaches to these problems helps empower decision-makers to enact evidence-based policy.”
+Public safety vs. congestion and emissions
+The regulation in Atlanta was one of many that U.S. cities put in place in response to increased accidents and hospitalizations from micro-mobility devices.
+Reducing congestion also reduces emissions, noted Camila Apablaza, who worked on Asensio’s team along with Savannah Horner, Cade Lawson, and Edward Chen. “I thought this was an important question because the impact of certain modes of transportation, such as scooters, is sometimes overlooked,” she said. “We know that electric mobility will be the main contributor to decarbonizing the passenger transportation sector, therefore we need to understand the interactions between different modes of electric transportation.”
+But, “the point of this paper is to present the idea that it’s not just as simple as ‘we should ban the scooters,’ right?” said Chen. “We have found that there are, in fact, trade-offs between banning them for public safety versus allowing them to relieve traffic congestion, and whether or not city governments make the decision does ultimately have an impact on people's daily lives.”
+Economic impact
+The researchers found that e-scooters and e-bikes do, in fact, reduce congestion on the road by substituting some personal vehicle or ridesharing use rather than only public transit or walking. When the estimated saved time for drivers nationwide is translated into monetary value, Asensio approximates that it adds up to $536 million a year.
+“This is also just a personal thing,” Chen added. “I’ve lived around here my whole life. I start seeing these scooters around, and this kind of answers that fundamental question: are people actually using these, and are these actually replacing trips and inherently reducing all these carbon emissions?”
+What’s Next?
+The Data Science and Policy Lab partners with the private sector and city governments on data innovations in policy analysis and impact evaluation. Follow-up research to this project could dig deeper into the specific transit substitutions people choose and why, Asensio said.
+“I think modeling the emissions impacts for those will continue to be an ongoing kind of investigation,” he said. “When it comes to electrification, micro-mobility is just one of many strategies that are aggressively being invested in by both the public and the private sector. It's a really exciting opportunity to meaningfully reduce emissions and to benefit from the public health co-benefit of reduced air pollution.”
+The paper, “Impacts of Micromobility on Car Displacement With Evidence From a Natural Experiment and Geofencing Policy” was funded by Asensio’s 2020 NSF Faculty Early Career Development Program (CAREER) (Award No.  1945532 ). It is available at https://doi.org/10.1038/s41560-022-01135-1.
+Additional Images
+Contact
+Di Minardi, Communications Officer I - School of Economics, School of History & Sociology
+Email
+dminardi3@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

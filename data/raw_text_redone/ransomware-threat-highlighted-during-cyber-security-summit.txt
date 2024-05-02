@@ -1,0 +1,31 @@
+ransomware threat highlighted during cyber security summit 
+ georgia tech experts detail the threat presented by ransomware. 
+ sep 29, 2016 
+ — atlanta, ga 
+ as part of the 14 th 
+ annual 
+ georgia tech cyber security summit 
+ held wednesday, college of computing ph.d. student 
+ evan downing , alongside gtri cyber technology and information security lab division chief 
+ chris smoak , presented a seminar on ransomware. 
+ in a presentation titled, “ransomware: how to respond,” the two speakers discussed distinctions between ransomware and typical malware, the goal of those producing ransomware, and how to prevent it and respond to it. 
+ ransomware is essentially just malware that holds data for ransom, demanding money in exchange for decrypting critical files. it can affect both individuals and larger networks utilized by entire companies. 
+ many individuals opt to pay the ransom, but both smoak and downing recommend the opposite. paying, they said, encourages more of this type of malware and, in addition, the user may not get their files back. 
+ “ransomware authors want to give their victims incentive to pay. this is their business model,” said downing, who is in his third year pursuing his ph.d. in computer science. 
+ “they want to be able to be reliable and trustworthy to decrypt their victims' files so that word will spread to other victims that they should just simply pay the ransom to get their data back. if the ransomware actors did not do this, then they wouldn't be giving their victims any incentive to pay the ransom. the victims would just simply wipe their hard drives, reinstall their operating systems, and continue about their day." 
+ downing, a self-described "unrealistic conservative" when it comes to the safety of online networks, said the decision whether to pay or not all comes down to a personal cost-benefit analysis. 
+ “you want to decide what you’re willing to pay for, literally and figuratively,” he said. “what data can your business stand to lose? how quickly can your business recover from losing this data? how much money will an attack cost your company from the lack of the service your company provides? is this all worth the risk of paying the ransom and possibly not getting your data back?” 
+ downing warns that regardless of your personal decision, it is never wise to pay the ransom. 
+ “either you get your data back and you've aided a criminal financially, encouraging them to continue attacking others, or worse, you don't get your data back at all and you've still financially aided the criminal,” downing said. “there's an obvious common denominator here." 
+ both smoak and downing recommended a few things to prevent against such an attack in the future. aside from an extreme solution (simply utilizing old, unconnected technology), they advised frequent backups of data and avoiding continual connection of backup volumes, training users on use of email and visiting websites, and classifying data according to its importance (giving backup priority to the most vital information). 
+ georgia tech’s 
+ institute for information security and privacy presents the cyber security summit 
+ annually. this year’s event was held at the global learning center. 
+ additional images 
+ contact 
+ ben snedeker, communications manager 
+ email 
+ albert.snedeker@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

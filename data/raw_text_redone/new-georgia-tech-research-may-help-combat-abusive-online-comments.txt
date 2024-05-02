@@ -1,0 +1,38 @@
+new georgia tech research may help combat abusive online comments 
+ researchers at georgia tech have found a more cost-effective way for internet communities to moderate abusive content. 
+ may 09, 2017 
+ — atlanta, ga 
+ researchers at the georgia institute of technology’s 
+ school of interactive computing 
+ have come up with a novel computational approach that could provide a more cost- and resource-effective way for internet communities to moderate abusive content. 
+ they call it the 
+ bag of communities 
+ (boc), a technique that leverages large-scale, preexisting data from other internet communities to train an algorithm to identify abusive behavior within a separate target community. 
+ specifically, they identified nine different communities. five, such as the free-for-all of internet communities 4chan, are rife with abusive behavior from commenters; four, like the heavily moderated metafilter, are helpful, positive, and supportive. 
+ using linguistic characteristics from these two types of communities, researchers built an algorithm that can learn from the comments and, when a new post is generated within a target community, it can make a prediction of whether or not it is abusive. 
+ “metafilter is known around the internet as a good, helpful, supportive community,” said 
+ eric gilbert , an associate professor in the school of interactive computing and a member of the team of researchers on the project. “that’s an example of how, if your post is closer to that, it’s more likely that it should stay on the site. conversely, if your post is closer to 4chan, then maybe it should come off.” 
+ the researchers provide two algorithms. one is a static model, off the shelf with no training examples from the target community, and can achieve roughly 75 percent accuracy. in other words, with access only to posts from the other nine communities, the algorithm can accurately predict abusive posts in the target community roughly three quarters of the time. 
+ “a new community that does not have enough resources to actually build automated algorithms to detect abusive content could use the static model,” said georgia tech doctoral student 
+ eshwar chandrasekharan , who led the team. 
+ a dynamic model, one that mimics scenarios in which newly moderated data arrives in batches, learns over time and can achieve 91.18 percent accuracy after seeing 100,000 human-moderated posts. 
+ “over time, as new moderator labels come in, when it has seen examples of things that have been moderated from the site, it can learn more site-specific information,” chandrasekharan said. “it can learn the type of comments that get moderated, and if there is a level of tolerance that is different from what you see in the static model, it could learn that over time.” 
+ both the static and dynamic models outperformed a solely in-domain model from a major internet community. 
+ anyone who has managed an online community has encountered problems with abusive content from users. from social media to message boards to comments sections in online news publications, regulating what is and isn’t allowed has become overly costly and taxing on existing human moderators. 
+ founders at social media startup yik yak spent months of their early time removing hate speech, and twitter has stated publicly that dealing with abusive behavior remains its most pressing challenge. a number of major news agencies are buried under the demands of strict moderation, and many have shut down comments sections altogether. 
+ prior research into abuse detection and online content moderation has focused on in-domain methods – using data collected from within your own community – but those face challenges in obtaining enough data to build and evaluate algorithms. in a boc-based method, algorithms would leverage out-of-domain data from other existing online communities. 
+ gilbert said that the applications from such a model could be widespread. 
+ “this is a core internet problem,” he said. “so many places struggle with this, and many are shutting comments off because they just don’t want to deal with the trouble they cause.” 
+ this research is presented in a paper ( the bag of communities: identifying abusive behavior online with preexisting internet data ) at the 
+ association for computing machinery chi conference on human factors in computing systems 2017 . 
+ additional images 
+ related links 
+ georgia tech @ chi 2017 
+ contact 
+ david mitchell 
+ communications officer 
+ email 
+ david.mitchell@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

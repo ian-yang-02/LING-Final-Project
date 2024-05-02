@@ -1,0 +1,50 @@
+a popular tool to trace earth’s oxygen history can give false positives 
+ a system to determine the presence of ancient oxygen by testing rock layers may need to be taken with a grain of salt. 
+ it's relatively simple to take a chromium isotope reading on a rock sample. first, crush the sample. georgia tech / christopher moore 
+ nov 17, 2017 
+ — atlanta, ga 
+ for researchers pursuing the primordial history of oxygen in earth’s atmosphere, a new study might sour some “eureka!” moments. a contemporary tool used to trace oxygen by examining ancient rock strata  can produce false positives, according to the study , and the wayward results can mask as exhilarating discoveries. 
+ common molecules called  ligands  can bias the results of a popular chemical tracer called the chromium (cr) isotope system, which is used to test sedimentary rock layers for clues about atmospheric oxygen levels during the epoch when the rock formed. researchers at the georgia institute of technology have demonstrated in the lab that many ligands could have created a signal very similar to that of molecular oxygen. 
+ “there are some geographical locations and ancient situations where measurable signals could have been generated that had nothing to do with how much oxygen was around,” said  chris reinhard , one of the study’s lead authors. though the new research may impact how some recent findings are assessed, that doesn’t mean the tool isn’t useful overall. 
+ rock record tool 
+ “we’re not trying to revolutionize the way the tool is viewed,” said  yuanzhi tang , who co-led the study. “this is about understanding its possible limitations to make discerning use of it in particular cases.” 
+ tang and reinhard, both assistant professors of biogeochemistry in georgia tech’s school of earth and atmospheric sciences,  published their team’s results in a study on november 17, 2017, in the journal  nature communications . their work was funded by the nasa astrobiology institute, the nasa exobiology program, and the agouron institute. 
+ “on a global level, the chromium isotope system is still a great indicator of atmospheric oxygen levels through the ages,” tang said. “the issue we exposed in the lab is more local with isolated samples, especially during eras when there wasn’t much atmospheric oxygen.” 
+ leaping ligands 
+ without a dominant oxygen presence,  ligands  likely made a great reactive substitute, as the researchers demonstrated in reactions with chromium. like oxygen, ligands strongly attract electron pairs, which is what characterizes them as a chemical group. 
+ and like reactions with oxygen, reactions with ligands enable metals like chromium to move around more easily in the world. in this case, the researchers were interested in organic ligands, ligands that contain carbon. 
+ they were more apt to match oxygen’s mobility effect on chromium that made it end up as the signals in sedimentary rock that scientists, today, look for as a sign of  ancient atmospheric oxygen . 
+ here’s roughly how the chromium isotope system works, followed by how organic ligands could make for false positives. 
+ chromium rollercoaster 
+ the earth is an enormous chemical laboratory performing reactions in conditions varying from arctic cold to volcanic heat, and from crushing ocean depths to no-pressure upper atmospheres. winds and waves sweep around materials like turbulent conveyor belts, depositing some in sediments that later turn to stone. 
+ chromium’s ticket for the rollercoaster ride into sedimentary rock was usually an oxidizing agent that made it more soluble and better able to float, and  atmospheric oxygen was an ideal oxidizer . the chemical reaction,  which can be found in the study  and involved manganese oxide handing off oxygens to chromium, would be a little like adding pontoons to chromium compounds. 
+ for billions of years, earth’s atmosphere was nearly devoid of o 2 , but after oxygen began increasing, especially  in the last 800 million years ,  it became the domineering oxidizer. and characteristics of chromium deposits in ancient layers of rock became a great indicator of how much o 2  was in the atmosphere. 
+ today, researchers test deep rock layer samples for the relation between two chromium isotopes,  52 cr, by far the most common cr isotope, and  53 cr, to get a read on oxygen presence  across geological eras . 
+ “you powder the rock up; you dissolve it with acid, and then you measure the ratio of  53 cr to  52 cr in the material by using mass spectrometry,” reinhard said. “it’s the ratio that matters, and it will be controlled by a range of complex processes, but generally speaking, elevated  53 cr in ocean sediment rock tends to indicate oxygen in the atmosphere.” 
+ by the way, these cr isotopes are stable and don’t undergo radioactive decay, thus the system does not work the way  radiocarbon dating does, which relies on the decay of carbon 14. 
+ chemical imposter 
+ in the lab, with a small assortment of organic ligands, tang’s group showed that reactions of chromium with ligands led to  53 cr / 52 cr signals that closely mimicked those stemming from oxygen-chromium reactions. 
+ “ligands have the capability to mobilize chromium as well,” tang said. “in fact, ligands might be a significant factor in controlling chromium isotope signals in certain rock records.” 
+ organic ligands were probably around long before earth’s atmosphere filled up with o 2 . and today, hundreds of millions of years after the reactions occurred, it’s basically impossible to find out if oxygen or ligands were at work. 
+ little discrepancies 
+ if not accounted for, ligand reactions can distort small details in rock records about atmospheric oxygen, and they may have already. 
+ like paleontologists, who catalog ancient animal bones and other fossils, geologists keep  massive, digitized archives of rock that they study to learn more about earth’s ancient geological history . scientists began testing physical samples of them with the cr isotope system around 2009 and adding the results to the records. 
+ “since then, some discrepancies have turned up,” reinhard said. “ancient soil layers were showing evidence of oxygen when it probably shouldn’t have been there. other samples from the same period weren’t showing that signal.” 
+ but some researchers confronted with odd cr signals have thought they had perhaps stumbled upon a radical find, and they developed explanations for how o 2  may have been surprisingly bountiful on the lonesome spot where a particular rock layer formed, while molecular oxygen was scant on the rest of the globe. others puzzled that atmospheric o 2  levels may have risen much earlier than overwhelmingly broad evidence has indicated. 
+ “a lot of that could be chalked up to other chemical processes and not to interactions with oxygen,” reinhard said. 
+ the study may serve as a cautionary tale about how to view cr isotope data, especially when they leap off the page. 
+ also read: before animals, evolution 
+ waited 
+ eons to inhale 
+ the study was co-authored by emily saad from georgia tech, and noah planavsky and xiangli wang of yale university. research was funded by the nasa astrobiology institute (grant number  nna15bb03a, the nasa exobiology program nnx16al06g, and an agouron institute postdoctoral fellowship.   any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those sponsors. 
+ additional images 
+ contact 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ writer and media relations contact : ben brumfield (404-660-1408) 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

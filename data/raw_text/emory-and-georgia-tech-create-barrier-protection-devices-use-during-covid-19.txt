@@ -1,0 +1,47 @@
+Emory and Georgia Tech Create Barrier Protection Devices for Use During COVID-19
+Two Atlanta universities have created barrier protection devices designed to contain the droplet spray and aerosol produced during certain medical procedures.
+The barrier protection devices can be folded for easy portability and storage at healthcare facilities. (Credit: Georgia Tech)
+May 13, 2020
+— Atlanta, GA
+Medical staff treating patients on the front lines of the COVID-19 pandemic come face to face daily with the risk of exposure to the virus. Among the riskiest moments are inserting and removing breathing tubes, procedures that create a spray of respiratory droplets.
+Now, two Atlanta universities have created barrier protection devices designed to contain that droplet spray and aerosol with a goal of reducing the risk of disease transmission.
+Made of clear polycarbonate material, the four-sided box is placed on a bed over the patient’s head and shoulders. Protected hand openings allow physicians or other health care personnel to reach into the box to perform procedures such as intubating a patient who needs to be placed on a ventilator.
+“Intubation and extubation require a physician to work in extremely close proximity to a patient while simultaneously performing procedures known to generate a large amount of potentially infectious droplets,” said Cinnamon Sullivan, M.D., assistant professor of anesthesiology, Emory University School of Medicine and the director of Global Health Anesthesiology at Emory University Hospital. “The goal of this box is to block, to a large extent, the amount of droplets being aerosolized and serve as one more layer of protection in addition to our personal protective equipment (PPE).”
+For more coverage of Georgia Tech’s response to the coronavirus pandemic, please visit our  Responding to COVID-19  page.
+In recent weeks, a cross-disciplinary team that included anesthesiologists and other physician specialists from Emory University and engineers from the Georgia Institute of Technology has worked quickly prototyping several devices, which were adapted from a basic design distributed widely throughout the medical community as the COVID-19 outbreak grew.
+Two primary designs emerged from the effort. One of these devices is a fold-flat box, and the other device is a C-shaped frame. Both provide similar functionalities and are designed for dynamic hospital environments, such as in the emergency department.
+The box that can be folded flat when not in use also has a handle to enable easier transportation and includes more safety measures designed to protect clinicians from aerosols escaping through the access holes. These new features were critical to achieving a box that could be used without taking up as much space.
+“The medical team that performs intubations moves from unit to unit where we’re needed, so the portability of this design is essential to making it work in actual patient care situations,” said Jeremy Collins, MBChB, FRCA, associate professor of anesthesiology and executive vice chair of anesthesia at Emory. “As well as protecting the anesthesia team, containment of aerosol and droplets generated can minimize contamination to the whole operating room and surrounding corridors.”
+The overall goal of the project is to improve protection for medical staff as they work closely with COVID-19 patients, explained Christopher Saldana, associate professor in Georgia Tech’s
+George W. Woodruff School of Mechanical Engineering . “The goal is to shroud the patient and allow the clinicians to do the necessary procedures while adding an additional barrier from potential exposure,” he said.
+The box also helps shield personal protective equipment (PPE) from contamination, potentially helping to maintain supplies.
+“A need for such a box was identified during daily meetings with leaders of Emory departments responding to the COVID-19 emergency,” said
+Susan Margulies , chair of the
+Wallace H. Coulter Department of Biomedical Engineering
+that is shared by Georgia Tech and Emory. From the meeting, Margulies identified problems that might be addressed by Georgia Tech researchers.
+“My role is to think about how the expertise at Georgia Tech can be brought to bear on the needs of the medical community,” she said. “As a department truly embedded on both campuses, this collaboration gives us the opportunity to create a direct relationship between the problems and the solutions.”
+Margulies brought the aerosol containment issue to
+Sam Graham , chair of the Woodruff School of Mechanical Engineering, and Saldana, whose research focuses on manufacturing and materials. Saldana listened to the problem and worked with Margulies to quickly develop a concept that could be evaluated, based on a design used in Asia.
+Based on the initial concept, Saldana and graduate student Kentez Craig quickly built two prototypes and sent them to Emory for Sullivan, Collins and others to inspect and check whether the size of the box would work in an operating room environment. “Emory told us they really needed them,” Saldana said. “They showed us how this design would be used in practice and we talked about iterations.”
+Sullivan and Collins immediately identified the need to make the devices more portable, as well as address how the access holes could be better closed off to prevent aerosols from escaping during use.
+Since these developments, a team of graduate students, including Jaime Berez and Maxwell Praniewicz, quickly designed the final prototypes of the fold-flat box and the C-shaped frame. Review and testing of the C-shaped frame was completed with Russell Gore, M.D., an adjunct associate professor in the Wallace H. Coulter Department of Biomedical Engineering, Adam Klein, M.D., a professor in the Department of Otolaryngology at Emory University and David Wright, M.D., a professor and chair of the Department of Emergency Medicine at Emory University. To produce these designs, Siemens Corporation joined the team to lead the production of prototypes; Barry Powell and James Washburn at Siemens implemented an industrial manual assembly process with additional support from Georgia Tech’s Montgomery Machining Mall and the Georgia Tech Research Institute’s Machine Services.
+The boxes and frames are made from polycarbonate, a clear rigid material. The material was cut in Georgia Tech’s Flowers Invention Studio with a water-jet machine. A laser device was used to cut the hand holes. “You might need some specialized equipment, but most people could use general shop equipment to produce these,” Saldana said.
+People who’ve worked in a research laboratory will recognize the concept behind the devices. “This is a lot like a glovebox that is used in many laboratories to separate laboratory technician from hazardous materials or environments inside the box or frame,” Saldana said. “The technician places their hands and arms into the gloves, allowing them to work separate from what’s inside.”
+Unlike the face shields and respirators that are in such high demand, the barrier protection devices will be needed only in small quantities to shield clinicians during the specific procedure. Saldana says hospitals potentially could find it useful in emergency departments, intensive care units and operating rooms.
+“We hope these barrier protection devices have utility beyond this outbreak,” Sullivan said. “They may be able to be used for any aerosolized disease, and with the modifications we are making, it could be taken to areas with fewer PPE resources both here in the U.S. and overseas.”
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : Georgia Tech – John Toon (jtoon@gatech.edu); Emory Healthcare – Josh Brown (joshua.g.brown@emoryhealthcare.org).
+Writer : Joshua Brown
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

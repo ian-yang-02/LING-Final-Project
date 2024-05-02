@@ -1,0 +1,40 @@
+while promoting diseases like cancer, these enzymes also cannibalize each other 
+ finding a drug to inhibit cathepsins could treat a litany of diseases. this study is a new beginning to understanding them. 
+ manu platt stands outside his lab at georgia tech. platt, an associate professor, researches cathepsins in the context of multiple diseases, including cancer, atherosclerosis, and sickle cell disease. credit: georgia tech / allison carter 
+ jan 21, 2020 
+ — atlanta, ga 
+ like motley bandits, certain enzymes implicated in cancer and other diseases also annihilate each other. a new study reveals details of their mutual foils in the hopes that these behaviors can be leveraged to fight the enzymes’ disease potential. 
+ the bandits are cathepsins, enzymes that normally dispose of unneeded protein in our cells. but in unhealthy scenarios, cathepsins can promote illnesses like cancer, atherosclerosis, and sickle cell disease. many experimental drugs that inhibit them, while effective, have failed due to side effects that could not be well explained, so researchers at the georgia institute of technology abandoned the common focus on single cathepsins to model three key cathepsins as a system. 
+ the researchers found that the cathepsins, denoted by the letters k, l, and s, not only degrade extracellular structures – proteins outside of cells that support cells – but also cannibalize, distract, and deactivate each other. cathepsins are proteases, enzymes that degrade proteins, and since the cathepsins are themselves proteins, they can degrade each other, too. 
+ cathepsin  three stooges 
+ “auto-digestion is my personal favorite. think about it: you take a group of cathepsin ks, and they eat each other. why? because they’re just closer to each other than to what they would otherwise eat,” said the study’s principal investigator manu platt,  an associate professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university . 
+ in disease, cathepsins appear to be like  the   three stooges  in a porcelain shop, tearing the shop down while they torment each other. as a result, early on, when the georgia tech researchers tried to influence a single cathepsin in the group, outcomes were puzzling, and the researchers felt they might be onto something relevant to past mysterious drug failures. 
+ through lab experiments and mathematical calculations, they arrived at a computational model that showed how single influences ripple through the system. they published the  model as a tool online  that other researchers can use to jigger the three cathepsins in group settings, their levels of available targets, and inhibitor chemicals. the tool contrasts cathepsin bungling with cathepsin effectiveness. 
+ the researchers publish their research results in the journal the  proceedings of the national academy of sciences  in the week of january 20, 2020. the research, which took a systems biology approach, was funded by the national science foundation and the national institutes of health. 
+ q&a 
+ how do cathepsins go wrong? 
+ the three cathepsins in this study are best known for their activity in cell organelles called lysosomes under healthy conditions, where they work like molecular woodchippers to cut protein down to amino acids. 
+ “they also serve functions in specific cell types, such as  cathepsin s  helping the immune system to recognize what to attack and what not to,” platt said. 
+ “problems happen when cathepsins get overexpressed and end up in the wrong places. they’re crazy powerful and degrade the structural proteins elastin and collagen that make up arteries, tendons, the endometrium, and many tissue structures.” 
+ “in healthy settings,  cathepsin k  breaks down old bone to recycle calcium. but when breast cancer comes, those cancerous cells make cathepsin k to destroy collagen around the tumor. and that allows the cells to escape and metastasize to the bone,” platt said. 
+ [ready for graduate school?  here's how to apply to georgia tech. ] 
+ how is this research relevant to drug development? 
+ “i study cathepsins in illnesses like tendinopathy, endometriosis, atherosclerosis, cancer, and sickle cell disease,” platt said. “so, having a drug on the market to handle cathepsins would be a big deal.” 
+ “many cathepsin inhibitor drugs that have failed clinical trials were very finely targeted but caused big side effects, and some of those cathepsin inhibitor drugs did not even cross-react with other cathepsins they were not targeting – which is usually a good thing – so the cause of the side effects was a mystery,” platt said. “by modeling a system of cathepsins, we think we have a good start toward uncovering that mystery.” 
+ “if we don’t know how these cathepsins are working with and against each other in complex systems, similar to how they exist in our bodies, then we are going to have a hard time getting anything into the medicine cabinet to inhibit them.” 
+ the study floats ideas on new approaches to drug research. for example, cathepsin s could be strategically boosted in situations where it is not the culprit to break down cathepsins k and l. 
+ what can other researchers expect from the online model? 
+ “they can set up their own experiments and make predictions, including what inhibitors will do, so they can test inhibitors at varying strengths in this system,” platt said. “they can ask questions that they can’t answer yet experimentally then test the model’s predictions in the lab.” 
+ the model processes varying inputs into resulting changes in cathepsin levels and outcomes of degradation and indicates whether they have been deactivated or demolished. scenarios can be exported as a report and a data spreadsheet. 
+ also read:  chemical octopus catches sneaky cancer clues, trace glycoproteins 
+ like this article?  get our email newsletter here. 
+ these researchers coauthored the study: meghan ferrall-fairbanks, a former graduate research assistant in platt’s lab; and chris kieslich, a former research engineer in platt’s lab. the research was funded by the national science foundation through the science and technology center emergent behaviors of integrated cellular systems (ebics) (grant cbet-576 0939511) and new innovator grant (1dp2od007433-01) from the office the director, national institutes of health. any findings, conclusions, or recommendations are those of the authors and not necessarily of the sponsors. 
+ writer & media representative : ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email:  ben.brumfield@comm.gatech.edu 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

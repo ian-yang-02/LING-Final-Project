@@ -1,0 +1,16 @@
+Innovation Addresses Rising Thermal Challenges in Mobile Devices, Computers and Data Centers
+At Georgia Tech, researchers are addressing thermal challenges for electronic equipment in broad and bold ways.
+Georgia Tech’s data center simulator uses lasers, wireless sensors, and other equipment to study air flow and cooling in server racks. Shown is Yogendra Joshi, a professor in Georgia Tech’s School of Mechanical Engineering. (Credit: Rob Felt, Georgia Tech)
+Apr 17, 2016
+— Atlanta, GA
+In the struggle to improve the performance of mobile devices such as smartphones, extending battery life is just one part of the effort. System designers must increasingly worry about removing heat, an unwanted byproduct of watching a YouTube video, shooting a selfie, or updating a Facebook page. In the same way that physical limits on the size of transistors may throttle the performance growth promised by Moore’s Law (the expectation that computer processing power will double about every two years), the challenge of removing heat from ever-smaller transistors also poses a threat to continued efficiency improvements. The resulting tradeoffs will affect everything that relies on integrated circuits – from mobile phones and tablets all the way up to high-performance computers and data centers the size of football fields. At Georgia Tech, researchers are addressing these thermal challenges in broad and bold ways. Their efforts include designing chips that operate with less power, providing new forms of cooling, and optimizing data center operations. “The challenges on the small scale are very different from the challenges at the large scale,” said Yogendra Joshi, a professor in Georgia Tech’s George W. Woodruff School of Mechanical Engineering, whose research group studies thermal challenges in a comprehensive way. “Everyone wants more capabilities in the devices they are using, but there are tradeoffs to be made at each level.” Read the
+complete feature
+on the Research Horizons website
+Additional Images
+Contact
+John Toon Research News jtoon@gatech.edu (404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

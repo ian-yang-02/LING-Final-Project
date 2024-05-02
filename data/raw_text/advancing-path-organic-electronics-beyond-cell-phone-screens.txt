@@ -1,0 +1,46 @@
+Advancing the Path to Organic Electronics Beyond Cell Phone Screens
+N-doping achieved with the help of ultraviolet light, improving organic semiconductor conductivity.
+Researchers used ultraviolet light to excite molecules in a semiconductor, triggering reactions that split up and activated a dopant. Credit: Princeton University / Jing Wang and Xin Lin
+Nov 20, 2017
+— Atlanta, GA
+A discovery by an international team of researchers from Princeton University, the Georgia Institute of Technology and Humboldt University in Berlin points the way to more widespread use of an advanced technology generally known as organic electronics.
+The research,
+published
+November 13, 2017, in the journal
+Nature Materials , focused on organic semiconductors, a class of materials prized for their applications in emerging technologies such as flexible electronics, solar energy conversion, and high-quality color displays for smartphones and televisions. In the short term, the advancement could particularly help with organic light-emitting diodes that operate at high energy to emit colors such as green and blue.
+“Organic semiconductors are ideal materials for the fabrication of mechanically flexible devices with energy-saving, low-temperature processes,” said Xin Lin, a doctoral student and a member of the Princeton research team. “One of their major disadvantages has been their relatively poor electrical conductivity. In some applications, this can lead to difficulties and inefficient devices. We are working to improve the electrical properties of organic semiconductors.”
+Semiconductors, typically made of silicon, are the foundation of modern electronics because engineers can take advantage of their unique properties to control electrical currents. Among many applications, semiconductor devices are used for computing, signal amplification, and switching. They are used in energy-saving devices such as light-emitting diodes and devices that convert energy such as solar cells.
+Essential to these functionalities is a process called doping, in which the semiconductor’s chemical makeup is modified by adding a small amount of chemicals or impurities. By carefully choosing the type and amount of dopant, researchers can alter semiconductors’ electronic structure and electrical behavior in a variety of ways.
+In their
+Nature Materials
+paper, the researchers have described a new approach for greatly increasing the conductivity of organic semiconductors, formed of carbon-based molecules rather than silicon atoms. The dopant, a ruthenium-containing compound, was a reducing agent, which means it added electrons to the organic semiconductor as part of the doping process. The addition of the electrons was the key to increasing the semiconductor’s conductivity. The compound belongs to a newly-introduced class of dopants called dimeric organometallic dopants. Unlike many other powerful reducing agents, these dopants are stable when exposed to air but still work as strong electron donors both in solution and solid state.
+Georgia Tech’s
+Seth Marder , a Regents Professor in the School of Chemistry and Biochemistry, and Stephen Barlow, a research scientist in the school, led the development of the new dopant. They called the ruthenium compound a “hyper-reducing dopant.”
+They said it was unusual, not only in its combination of electron donation strength and air stability but also in its ability to work with a class of organic semiconductors that have previously been very difficult to dope. In studies conducted at Princeton, the researchers found that the new dopant increased the conductivity of these semiconductors by about a million times.
+The ruthenium compound was a dimer, meaning it consisted of two identical molecules, or monomers, connected by a chemical bond.  As is, the compound proved relatively stable and, when added to these difficult-to-dope semiconductors, it did not react and remained in its equilibrium state. That posed a problem because to increase the conductivity of the organic semiconductor, the ruthenium dimer needed to split and release its two identical monomers.
+Princeton’s Lin, the study’s lead author, said the researchers looked for different ways to break up the ruthenium dimer and activate the doping. Eventually, he and Berthold Wegner, a visiting graduate student from the group of Norbert Koch at Humboldt University, took a hint from how photosynthetic systems work. They irradiated the system with ultraviolet light, which excited molecules in the semiconductor and initiated the reaction. Under exposure to the light, the dimers were able to dope the semiconductor, leading to a roughly 100,000 times increase in the conductivity.
+After that, the researchers made an interesting observation.
+“Once the light was turned off, one might naively expect the reverse reaction to occur and the increased conductivity to disappear,” said Georgia Tech’s Marder, who is also associate director of the Center for Organic Photonics and Electronics ( COPE ) at Georgia Tech. “However, this was not the case.”
+The researchers found that the ruthenium monomers remained isolated in the semiconductor, increasing conductivity, even though thermodynamics should have returned the molecules to their original configuration as dimers. Antoine Kahn, a Princeton professor who led the research team, said the physical layout of the molecules inside the doped semiconductor provides a likely answer to this puzzle. The hypothesis is that the monomers are scattered in the semiconductor in such a way that it was very difficult for them to return to their original configuration and re-form the ruthenium dimer. To recombine, he said, the monomers would have to have faced in the correct orientation, but in the mixture, they remained askew. So, even though thermodynamics showed that dimers should reform, most never snapped back together.
+“The question is why aren’t these things moving back together into equilibrium,” said
+Kahn , who is Stephen C. Macaleer '63 Professor in Engineering and Applied Science. “The answer is they are kinetically trapped.”
+In fact, the researchers observed the doped semiconductor for over a year and found very little decrease in the electrical conductivity. Also, by observing the material in light-emitting diodes fabricated by the group of Barry Rand, an
+assistant professor
+of electrical engineering at Princeton and the Andlinger Center for Energy and the Environment, the researchers discovered that doping was continuously re-activated by the light produced by the device.
+“The light activates the system more, which leads to more light production and more activation until the system is fully activated, said Marder, who is Georgia Power Chair in Energy Efficiency. “This alone is a novel and surprising observation.”
+The paper was co-authored by Kyung Min Lee, Michael A. Fusella, and Fengyu Zhang, of Princeton, and Karttikay Moudgil of Georgia Tech.
+Research was funded by the
+National Science Foundation (grants DMR-1506097, DMR-1305247), the Department of Energy’s Energy Efficiency & Renewable Energy Solid-State Lighting program (award DE-EE0006672) and the DoE’s Office of Basic Energy Sciences, Division of Materials Sciences and Engineering (award DE-SC0012458), the Deutsche Forschungsgemeinschaft (project SFB 951) and the Helmholtz Energy-Alliance Hybrid Photovoltaics project.
+Additional Images
+Contact
+Writer: John Sullivan
+John Sullivan, media representative, Princeton University
+Mobile: 609-439-2310
+Ben Brumfield, media representative, Georgia Institute of Technology
+Mobile: 404-660-1408
+ben.brumfield@comm.gatech.edu
+Email
+js29@princeton.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

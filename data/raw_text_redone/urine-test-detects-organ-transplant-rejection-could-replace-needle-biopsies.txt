@@ -1,0 +1,46 @@
+urine test detects organ transplant rejection, could replace needle biopsies 
+ new nanoparticle makes urine glow as soon as t cells initiate an attack on transplanted organs 
+ a t cell, here in purple, makes contact with a transplant organ cell, here in reddish brown. the t cell secretes the enzyme granzyme b, here in gray, which attacks the organ cell. but granzyme b also severs fluorescent signal molecules, in green, from the rejection detecting nanoparticle, in light pink. the signal molecules make their way into the urine, where they give off a fluorescent cue. georgia tech  / ellamaru studio (work for hire, all rights gt, free for distribution). 
+ feb 19, 2019 
+ — atlanta, ga 
+ too often, it’s only after a transplanted organ is seriously damaged that a biopsy reveals the organ is in rejection. a new screening method using sensor particles and a urine test could catch rejection much earlier, more comprehensively, and without a biopsy needle. 
+ when the body’s immune system has just begun attacking cells of a transplanted organ, the new method’s particles send a fluorescent signal into the urine. in a  new study , researchers at the georgia institute of technology and emory university validated the method in a mouse model, and they have engineered the sensor with highly biocompatible components, which could make the path to potential future trials easier. 
+ a patient may feel fine, and a biopsy may look deceptively clean when t cells have already begun attacking a transplanted organ. the sensor particle, a  nanoparticle , detects a t cell weapon, an enzyme called granzyme b, that pushes a transplanted organ’s cells into the self-destruction process called  apoptosis . 
+ earliest detection 
+ “before any organ damage can happen, t cells have to produce  granzyme b , which is why this is an early detection method,” said gabe kwong, a co-principal investigator in the study and an  assistant professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university . 
+ “this is sensitive enough to possibly detect budding rejection before you see significant injury to the transplanted organ and that could help clinicians treat early to prevent damage,” said dr. andrew adams, co-principal investigator and  an associate professor of surgery at emory university school  of medicine. “right now, most tests are aimed at organ dysfunction, and sometimes they don’t signal there is a problem until organ function is below 50 percent.” 
+ kwong and adams published the study’s results  in the journal  nature biomedical engineering  on february 18, 2019 . the research was funded by the national institutes of health, the national science foundation and the burroughs wellcome fund. 
+ bristly nanoball 
+ the nanoparticles are put together with iron oxide in the middle like a ball. it is double-coated with  dextran , a sugar, and  polyethylene glycol , a common ingredient in laxatives, to keep the body from disposing of it too quickly. 
+ bristles made of amino acids stick out from the iron ball with fluorescent “reporter” molecules attached to their tips. 
+ the particles are injected intravenously. they are too big to accumulate in native tissue or to pass through the kidneys and out of the body but small enough to accumulate in the tissue of struggling transplanted organs, where they keep a lookout for rejection. 
+ exploiting rejection 
+ once t cells start secreting granzyme b, it severs amino acid strands in the transplanted organ’s cells, triggering the cells to unravel and die. 
+ “the nanoparticles’ bristles mimic granzyme’s  amino acid targets  in the cells, so the enzyme cuts the bristles on the nanoparticle at the same time,” said kwong who directs the laboratory for synthetic immunity in the coulter department. “that releases the reporter molecules, which are so small that they easily make it through the kidney’s filtration and go into the urine.” 
+ in the experiment, the animals’ urine glowed and could be seen in their bladders in near-infrared images. 
+ [ready for graduate school? 
+ here's how to apply to georgia tech. ] 
+ comprehensive method 
+ the researchers plan to augment their new sensor to detect the other major cause of transplant rejection,  attacks by antibodies , which are not living cells but proteins the body creates to neutralize foreign entities. 
+ “antibodies kill their target cells through similar types of enzymes. in the future, we envision a single sensor to detect both types of rejection,” kwong said. but there is even more potential. 
+ “this method could be adapted to tease out multiple problems like rejection, infection or injury to the transplanted organ,” adams said. “the treatments for all of those are different, so we could select the proper treatment or combination of treatments and also use the test to measure how effective treatment is.” 
+ outdoing biopsies 
+ biopsies are currently the gold standard in detection but they can go wrong, and the wide, long  needle  can damage tissue. 
+ “the biggest risk of a biopsy is bleeding and injury to the transplanted organ,” adams said. “then there’s the possibility of infection. you’re also just taking a tiny fraction of the transplanted organ to determine what’s going on with the whole organ, and you may miss rejection or misdiagnose it because the needle didn’t hit the right spot. ” 
+ the urine test gets a more global reading on the whole organ, and it has other advantages over biopsies. 
+ “the biopsy is not predictive. it’s a static snapshot. it’s like looking at a photo of people in mid-jump. you don’t know if they’re on their way up or on their way down. with a biopsy, you don’t know whether rejection is progressing or regressing,” kwong said. 
+ “our method measures biological activity rates, and that tells us where things are going.” 
+ immunosuppressant medications 
+ that could also allow clinicians to carefully dose powerful  immunosuppressant medications  that the vast majority of transplant patients receive. 
+ “adjusting the dose is very difficult but very important because heavy immunosuppression increases occurrence of infections and patients who receive it also get cancer more often,” kwong said. 
+ for this experiment, the researchers used small skin grafts on mice and got a very clear, timely signal from the nanoparticle sensor. since organ transplants represent a lot more tissue, the researchers believe that any occurrence of organ rejection would trigger a much larger signal from the sensor. 
+ [also read: ' demolition handshakes' kill precursor t cells that pose an autoimmune threat ] 
+ these authors contributed to this research: co-first authors quoc mac of the coulter department and dave mathews of the emory transplant center; justin kahla, claire stoffers, olivia delmas, and brandon alexander holt of the coulter department. the research was funded by the burroughs wellcome fund, the national institutes of health (awards dp2hd091793, 5t32eb006343, and dk109665) and its national institute of allergy and infectious diseases (grant u01ai132904); the national science foundation (grant dge-1650044). any findings, conclusions or recommendations are those of the authors and do not necessarily reflect those of the funding agencies. 
+ writer & media representative : ben brumfield (404-660-1408), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

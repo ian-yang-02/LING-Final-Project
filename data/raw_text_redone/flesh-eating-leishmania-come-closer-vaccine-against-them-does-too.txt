@@ -1,0 +1,108 @@
+as 'flesh-eating' leishmania come closer, a vaccine against them does, too 
+ a potentially deadly parasite that can ulcerate skin, nose, mouth and organs could someday meet its match in an experimental vaccine that has now worked in lab tests on humanized mice. 
+ there are some 30 species of leishmania parasites, which take on two different forms in their life cycle. illustrated here are promastigotes (top) and amastigotes (bottom) with a typical boil caused by a leishmaniasis infection. rights: istock / getty / purchased / not transferable 
+ sep 13, 2017 
+ — atlanta, ga 
+ parasites that ulcerate the skin, can disfigure the face, and can fatally mutilate internal organs are creeping closer to the southern edges of the united states. 
+ no vaccine is available against  leishmania  yet, but researchers have now come closer to changing that. a new experimental vaccine, made with a proprietary biological particle developed at the georgia institute of technology, has immunized laboratory mice that were genetically altered to mimic the human immune system. 
+ the vaccine exploits a weakness in 
+ leishmania ’s tricky chemical camouflage, which normally hides it from the victim’s disease-fighting cells, to trigger 
+ a forceful immune response against the parasite, according to a new study. 
+ second-deadliest parasite 
+ leishmania 
+ are 
+ the second-deadliest parasite s 
+ in the world, topped only by malaria, according to the world health organization. there are some 30 strains of 
+ leishmania . 
+ they are transmitted mainly through the bite of a 
+ phlebotomine sand fly , which feeds on blood, and global warming is expanding the insect’s potential habitat northward from latin america. the outbreak regions closest to the united states of 
+ leishmaniasis, the disease caused by the parasite , have come within roughly 300 miles of the border. 
+ as with many diseases, many people who contract 
+ leishmania, 
+ the parasite, may develop leishmaniasis, the disease, with varying symptoms, or perhaps even show no outward signs of the disease. but when it breaks out, it can cause large skin boils, and some forms severely eat away at the nose and lips, even removing parts of them. 
+ if another form of the parasite gets into the bloodstream, it can damage the liver and spleen in a deadly form of the disease called visceral leishmaniasis, also known as black fever. 
+ “if you don’t treat it, within 20 to 40 days visceral leishmaniasis very often kills the victim,” said alexandre marques, a professor in the parasitology department of the universidade federal de minas gerais in brazil, and one of the lead researchers on the new experimental vaccine. conventional treatment, though mostly effective, can leave behind small numbers of the parasite, which can lead the patient to relapse or act as a carrier, in a similar manner as malaria. 
+ a vaccine could be better at halting or averting outbreaks. 
+ long-awaited vaccine 
+ leishmania , which are single-cell organisms about the size of large bacteria, have been a scourge in about 90 countries in south america, africa, the middle east, asia and southern europe. for decades, researchers have worked to find a vaccine against them and similar parasites without success. 
+ “in comparison to viruses and bacteria, these are much more complex organisms and more difficult to crack,” said m. g. finn, who also led work on the new vaccine. finn is a 
+ professor in georgia tech’s school of biological sciences 
+ and in 
+ the school of chemistry and biochemistry, which he also chairs . 
+ the new vaccine leverages intimate knowledge that marques’s team has gained living and working on the edge of leishmaniasis outbreak regions. “alex’s (marques’s) students collect the sand flies, then they extract the parasites in the lab and do complex mass spectrometry and other tests to study their molecular makeup in impressive detail,” finn said. 
+ the team has uncovered minute details on the outer surface of 
+ leishmania 
+ that make it vulnerable to a human immune reaction. the potential new vaccine, invented at georgia tech, employs a fake virus as bait to attract major immune system forces to these weaknesses to attack them. 
+ the fake virus, or virus-like particle, is not infectious, and the body destroys it after use. finn’s lab has developed many variations of such particles in recent years, and other products containing it have already been through phase ii human clinical trials. 
+ marques and finn 
+ published the results of their vaccination development and testing on september 13, 2017, in the journal acs central science. 
+ the research was funded by the national institutes of health, children’s healthcare of atlanta, and brazil’s national council for scientific and technological development. 
+ leishmaniasis vaccine q & a 
+ here are some questions and answers to help readers better understand how the vaccine would leverage 
+ leishmania ’s chemical camouflage. 
+ what’s so tricky about 
+ leishmania ’s chemical camouflage? 
+ the parasites cover themselves in carbohydrates, which look like food and also cover all other cells in the body. so, to the body, the 
+ leishmania 
+ cells look inoffensive, and the immune system mostly leaves them alone. 
+ what’s the chink in the camouflage? 
+ some of those carbohydrates do actually trigger a mild human immune response. it’s not strong enough to really battle leishmaniasis, but it gives marques and finn’s vaccine a foot in the door. 
+ it’s lucky that humans, and some other primates, have this particular immune reaction, because other mammals don’t, so this vaccine wouldn’t work on them. incidentally, that’s why, to test the new vaccine, the laboratory mice have to be genetically altered to make their immune systems react to the carbohydrates the way ours does. 
+ how does the fake virus work? 
+ “we use the virus-like particle to highlight a 
+ key carbohydrate 
+ on the surface of 
+ leishmania 
+ clearly to the body. this coaxes its immune system into reacting strongly against it as a foreign structure,” finn said. 
+ the immune system goes after the fake virus like guard dogs after an invader. the researchers attach the odd carbohydrate to the fake virus, and that makes the immune system recognize that carbohydrate as a serious threat. immune cells then hunt it down, and, in the process, destroy the parasite that produces it. 
+ when could a vaccine be on the market? 
+ it’s too early to stoke hopes because a lot has to happen before any drug or vaccine can hit the market. but the researchers have some interesting arguments for moving on to human testing. 
+ “normally, in medical testing, you would test next in rabbits or infected cats or dogs,” finn said. “but they don’t have the right immune system. the only other possibilities are genetically altered pigs, or certain primates, or humans.” 
+ as mentioned, the fake virus is a biological nanoparticle that has been tested in humans before without showing toxicity. also, the researchers want to add some more kinds of 
+ leishmania 
+ camouflage carbohydrates to the fake virus to give the vaccine even more punch. 
+ isn’t leishmaniasis limited to poverty regions with poor hygiene? 
+ absolutely not. 
+ it can take hold anywhere people and animals live in high density and certain species of sand flies, and some other insects, can thrive. the insects like warmer weather, which is why climate change is causing the sand fly’s habitat to spread north. 
+ “people in developed countries in climates that were cooler will have to start caring about this, as global warming encourages this to spread to them,” marques said. 
+ another potentially deadly 
+ insect-borne tropical disease called chagas disease 
+ has already made it to three southern u.s. states, and the same researchers are working on a vaccine against it, too. 
+ highly cited chemist 
+ m. g. finn is a highly cited award-winning chemist. the 
+ thompson reuters news agency included finn in its 2013 predictions of possible winners of that year’s nobel prize in chemistry . (that year’s prize went to different well-deserving researchers and their achievements.) 
+ finn is most widely known for his research on click chemistry. a famous study in partnership with 
+ nobel prize winning chemist karl barry sharpless , and harmuth kolb, " click chemistry: diverse chemical function from a few good reactions ," has been cited more than 10,000 times, 
+ according to google scholar . 
+ finn also holds the james a. carlos family chair for pediatric technology at georgia tech. 
+ co-authors of this study were ana p. venuto, 
+ luiza c. b. santos, 
+ carlos ramon nascimento brito, 
+ edward valencia, 
+ caroline junqueira, 
+ adalberto a. p. filho, 
+ mauricio r. v. sant'anna, 
+ nelder f. gontijo, 
+ daniella c. bartholomeu, 
+ ricardo t. fujiwara, 
+ ricardo t. gazzinelli from the 
+ universidade federal de minas gerais , and craig s. mckay and carlos a. sanhueza from georgia tech. funders of the research were: t he conselho nacional de 
+ desenvolvimento científico e tecnológico (cnpq) brazil, the 
+ national institute of general medical sciences at the national institutes of 
+ health ( grant number 
+ r01 gm101421), and 
+ children’s healthcare of atlanta. 
+ any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those sponsors. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) 
+ writer : ben brumfield 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

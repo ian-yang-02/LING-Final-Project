@@ -1,0 +1,48 @@
+new study reveals racial, ethnic disparities in use of increasingly popular prostate cancer test 
+ the study found that black men were at least 23.6% less likely than their white counterparts to receive an mri exam following an elevated prostate-specific antigen blood test. 
+ nov 08, 2021 
+ — atlanta, ga 
+ black, hispanic, and asian men whose results on a common prostate cancer screening test indicated a need for additional testing were less likely than their white counterparts to receive an increasingly used follow-up test that can eliminate the need for an invasive biopsy, according to researchers in the 
+ health economics and analytics lab 
+ (heal) at georgia tech’s school of economics. 
+ their 
+ study , published nov. 8, 2021, in 
+ jama network open, 
+ found that black men were at least 23.6% less likely than their white counterparts to receive an mri exam following a prostate-specific antigen (psa) blood test, a common initial screening for men between the ages of 55 and 69. the study also found that hispanic and asian men with elevated psa results were significantly less likely to be referred for mri evaluation. 
+ while biopsies have long been the next treatment step for some men with elevated psa results, prostate mris are increasingly being used to reduce the need for that invasive procedure. 
+ while the reason for the disparities is beyond the scope of the paper, the results are nevertheless concerning, particularly in light of previous research that has shown disparities in how physicians treat patients of color when compared to their white patients, said 
+ danny hughes , professor in the ivan allen college of liberal arts 
+ school of economics . 
+ “we can’t say definitively if the reason black, hispanic, and asian men did not receive this particular test is that physicians did not refer them for it, or if the patients opted themselves out of further testing,” hughes said. “regardless, these disparities do highlight the need to understand what is happening and how to ensure patients of all races and ethnicities receive the best possible care.” 
+ the findings are particularly troubling in light of the 
+ elevated risk 
+ black men face from prostate cancer — previous studies have found black men are 
+ more likely 
+ to get prostate cancer, often get the disease earlier in life, and are more likely to die from it. 
+ black, asian, hispanic men from 23.6% to 67.6% less likely to receive mris 
+ the study was conducted as part of a long-term heal research collaboration between hughes and dr. richard duszak, a professor at emory university’s school of medicine. former heal postdoctoral researcher nino abashidze, now of the university of wyoming, chad stecher of arizona state university, and dr. andrew b. rosenkrantz of the nyu langone medical center also collaborated on the project. 
+ hughes’ lab, heal, uses big-data analytics to reveal emerging patterns in healthcare utilization with the aim of benefitting patients and providers. such work is an increasing emphasis in the 
+ ivan allen college of liberal arts , of which the 
+ school of economics i s a unit. 
+ for the study, the authors examined anonymous health insurance claims data covering 50 u.s. states looking for men who took psa blood tests. they identified 794,809 psa tests that had laboratory results available. they then looked for matching records indicating whether or not the men received a follow-on mri based on varying levels of psa identified in each man’s blood. higher levels are associated with potential cancer. 
+ although medical standards for the use of prostate mris continue to emerge, studies have revealed thresholds that warrant further investigation, and those are the levels the heal study examined. they are 4 ng / ml, historically considered the threshold for recommending prostate biopsy; 2.5 ng / ml, a more recently recognized threshold for the early detection of prostate cancer; and 10 ng / ml, a level that has been associated with higher rates of biopsies and cancer diagnoses. 
+ the researchers found that: 
+ black patients between the ages of 40 and 54 with a psa above 4 ng / ml were 39.8% less likely to get a prostate mri than white patients. black men between 65 and 74 whose psa results were above 4 ng / ml were 23.6% less likely to get a follow-up mri. those above 10 ng / ml were 43.9% less likely. 
+ black men between the ages of 65 and 74 with results above the 4 ng / ml threshold were 23.6% less likely to get an mri when compared to white patients. men in this age group with scores above 10 ng / ml were 43.9% less likely to get the mri exam. 
+ asian patients between 55 and 64 with results above 2.5 ng / ml were 57.3 percent less likely to receive a prostate mri as compared to white patients. asian men with scores above 4 ng / ml were 62.9% less likely. 
+ hispanic men from 55 to 64 with psa results above 10ng / ml — the level most closely associated with biopsies and cancer diagnoses — were 67.6% less likely to get the mri test. 
+ understanding the cause of the disparities 
+ hughes and his colleagues are now turning their attention to understanding the cause of the disparities. the data used in the study do not reveal the reasons men did, or did not, receive referrals for mris. 
+ it could be that patients who did not get the mris opted out of the tests, including some who may have instead been referred to receive the invasive biopsy test, despite the problems that can be associated with those tests. or, hughes said, the results may be further confirmation of previous studies that have shown significant biases among physicians in how they care for black, hispanic, and asian patients compared to their white patients. 
+ previous studies have shown, for instance, that doctors are less likely to discuss treatment options and side effects with black patients when compared to their white counterparts. 
+ “we need to understand more about the role of decision-making biases in physicians, as well as other potential factors in the health care system that could account for the disparities we are seeing in this study,” hughes said. 
+ the study, “racial / ethnic disparities in the use of prostate mri following an elevated prostate-specific antigen test,” was published nov. 8, 2021. it is available at http: / / doi.org / 10.1001 / jamanetworkopen.2021.32388. 
+ additional images 
+ contact 
+ michael pearson 
+ michael.pearson@iac.gatech.edu 
+ email 
+ michael.pearson@iac.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

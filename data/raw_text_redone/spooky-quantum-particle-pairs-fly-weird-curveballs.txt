@@ -1,0 +1,69 @@
+spooky quantum particle pairs fly like weird curveballs 
+ it's well-known that quantum particles are just plain weird, but some now appear much weirder than previously thought. 
+ an artist's depiction of a nasa ultracold matter experiment that is to run on the international space station in 2018. the image does not show anything done in the study at georgia tech but serves to illustrate to the reader how intersecting lasers are used to trap atoms. combined with other methods, the lasers also slow the atoms to a near stop, cooling them to temperatures near absolute zero, the coldest possible temperature in the universe. that cold, matter's wave characteristics become very visible. 
+ jun 01, 2018 
+ — atlanta, ga 
+ curvy baseball pitches have surprising things in common with quantum particles described in a 
+ new physics study , though the latter fly much more weirdly. 
+ in fact, ultracold paired particles called 
+ fermions 
+ must behave even weirder than physicists previously thought, according to theoretical physicists from the georgia institute of technology, who mathematically studied their flight patterns. the researchers even predicted that the particles can act like different quantum balls called bosons to mimic the manner that photons, or particles of light, fly. 
+ already, flying quantum particles were renowned for their weirdness. to understand why, start with similarities to a baseball then add significant differences. 
+ a pitcher imparts spin, momentum, and energy to a baseball when throwing a curveball, a change-up, or a slider. fermions’ funny flights are likewise carved by spins, momenta, and energies, but also by powerful quantum eccentricities like entanglement, which albert einstein once called “spooky action at a distance” between quantum particles. 
+ a simplified explanation of these ultracold paired particles and their odd flights is below. 
+ light-matter modeling 
+ those influences all combine to give fermions a trajectory repertoire much odder than that of any master baseball pitcher, and the new study maps it out and opens new ways to observe it experimentally. the georgia tech team took the offbeat approach of adding quantum optical -- or light-like – ideas to their predictive calculations of these specks of matter and arrived at eyebrow-raising, insightful results. 
+ “the particle behavior we predicted is just schizophrenic,” said 
+ uzi landman, regents’ and institute professor and f.e. callaway endowed chair 
+ in georgia tech’s school of physics. 
+ mathematical and theoretical details can be found in the study  in the journal 
+ physical review a , which landman, first author benedikt brandt, who is a graduate research assistant, and senior scientist constantine yannouleas published on may 4, 2018. their research was 
+ funded by the air force office of scientific research . 
+ flying fermions explained 
+ tracing quantum curveballs is counterintuitive by nature with concepts like fermions, bosons, spins, spooky entanglement, and particle-wave duality. so, let’s go step-by-step to understand them and the study’s insights. 
+ this ballgame revolves around fermion pairs. fermions can be subatomic particles or whole atoms. in this case, the physicists modeled using atoms. 
+ the term fermion refers to quantum-statistical properties that the particle has as opposed the properties of its counterpart particle called a boson, in particular, the particle’s spin, which is called half-integer for fermions and full-integer for bosons. (these spins aren’t exactly like those on a ball. for more, see: 
+ fermions and bosons for dummies .) 
+ "photons and higgs bosons are examples of bosons," landman said. "bosons are gregarious: two or more bosons can share the exact same space. this allows many of them to be superimposed onto each other on the same tiny spot." 
+ "fermions, on the other hand, are standoffish. they lay claim to their own space, and don't share it with other particles. fermions can be stacked upon each other but do not occupy the same space." 
+ electrons, protons, neutrons, and many atoms are common examples of fermions. 
+ laser-tweezing baseballs 
+ the theoretical study envisions two fermionic atoms starting out carefully held next to each other by two pairs of “tweezers” made of intersecting laser beams, as is actually done in applicable physics experiments. in the study's theoretical setup, lasers and special magnetic fields would also be used to slow the fermions to a near halt, making them “ultracold” at 0.000000001 degrees kelvin, or -273.15 degrees celsius (-459.67 degrees fahrenheit). 
+ that’s a sliver above absolute zero, the lowest possible temperature in the universe, and particles that cold do strange things. 
+ “a particle’s motion is usually frantic, but the cooling slows it down almost to a stand-still,” said landman, who is also director of the 
+ georgia tech center for computational materials science . “and these particles also have wave properties, and at that temperature, the wavelength grows enormously long.” 
+ “the waves become microns in size. that would be like a pebble growing to be a third of the size of this country. when that happens, the atom actually becomes visible under an optical microscope.” 
+ the inflated size makes it easier for researchers to know the two particles’ starting locations. when they turn the laser tweezers off, the fermions fly away. the particles’ wave properties also have a lot to do with their weird flights. 
+ “a particle in motion will act as a projectile under certain circumstances. but in others, it will behave like a wave,” landman said. “we call it the quantum world duality.” 
+ together or apart 
+ “if you set up two detectors at different positions but the same distance from the particle pair, how often the two fly into the same detector or how often they fly into separate ones says a lot about those particles,” landman said. “and that’s where our weird findings come in.” 
+ fermions are expected to fly differently from bosons, but the theoretical physicists’ study on fermions revises this idea. depending on the degree of quantum entanglement between the two fermions before they’re released and depending on their energy level, they can act like fermions 
+ or 
+ act like bosons. 
+ “this adds new weirdness to the already established schizophrenic particle-wave duality,” landman said. 
+ “a pair of photons (which are bosons) fly to the same place. they stay as a pair,” landman said. “they’re social animals, and you find them either both in the one detector or both in the other. we call this phenomenon ‘bunching.’” 
+ weirdo flight paths 
+ fermions are often expected to do the opposite, referred to as anti-bunching, but according to the study, how they fly depends on whether or not they have spooky interaction and, if so, whether the interaction is attractive or repulsive. 
+ “if they’re interacting, and depending on the starting energy level, we predict that they may do strange things when they fly,” landman said. “that’s new.” 
+ “at the base energy level, called ground state, our two fermions that interact with ultra-strong repulsion behave fermionically, meaning they avoid each other. now, if they interact with strong attraction, they aggregate the way bosons do,” landman said. “so far, all as expected.” 
+ but bumping up the trapped particles’ level of energy, or excitation, via an additional laser or a magnetic field, would appear to heighten the particles’ weirdness. the excitation levels can twist the rules of what interactions do to a fermion’s flight, according to the theoretical study. 
+ for example, the above mentioned fermionic behavior usually connected with strong repulsive interaction could turn bosonic, according to the physicists’ calculations. in other words, the two particles would fly to the same detector the way bosons do. 
+ orderly quantum schizophrenia 
+ “as crazy as all this looks, there appears to be strong reliability in these behaviors that could even be predictably and practically manipulated,” landman said. 
+ as with a pitcher who finesses a screwball’s path, physicists could determine a fermion’s weird flight using  quantum mechanical formulation , advanced computational simulation, and experimentation, the study said. 
+ “it looks like you may even be able to engineer what this quantum weirdness does,” landman said. "if you know particle states reliably, you may be able to use them as a resource for quantum computations and information storage and retrieval." 
+ like this article?  get our email newsletter here. 
+ the research was funded by the air force office of scientific research (award # fa9550-418 15-1-0519). findings and opinions are those of the authors and not necessarily of the sponsoring agency. georgia tech's brice zimmerman contributed baseball background to this report. 
+ writer & contact : ben brumfield (404-660-1408) 
+ email:  ben.brumfield@comm.gatech.edu 
+ additional images 
+ contact 
+ writer & media representative : ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

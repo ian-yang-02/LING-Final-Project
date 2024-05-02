@@ -1,0 +1,63 @@
+Georgia Tech Receives $2.2M in Toyota Research Institute Robotics Funding
+Georgia Tech researchers will collaborate with TRI on two research projects: the first to advance autonomous vehicle testing and the second,
+to improve the way robots assist older adults with daily living tasks.
+Georgia Tech is building on its AutoRally platform to further self-driving vehicle research. (Photo credit: Rob Felt, Georgia Tech)
+Mar 08, 2021
+— Atlanta, GA
+The Georgia Institute of Technology is one of 16 academic institutions selected for
+Toyota Research Institute’s (TRI)
+collaborative research program.
+Founded in 2015 and now in its second wave of investment with top universities, TRI will invest more than $75 million over the next five years. The university partners will focus on breakthroughs around tough technological challenges in key research priority areas of automated driving, robotics, and machine-assisted cognition.
+“Georgia Tech is honored to work closely with TRI to advance robotics in key fields. It’s an exciting start to what we hope will be a longer-term collaboration,” said
+Seth Hutchinson , executive director of Georgia Tech’s
+Institute for Robotics and Intelligent Machines
+and professor and KUKA Chair for Robotics in the
+School of Interactive Computing .
+"This new phase of university research is about pushing even further and doing so with a broader, more diverse set of stakeholders. To get to the best ideas, collaboration is critical. And we sought out universities like Georgia Tech that share our vision of using AI for human amplification and societal good. The funded projects will contribute to two TRI focus areas: automated driving and home robotics," said Eric Krotkov, TRI chief science officer.
+The two Georgia Tech projects total $2.2M over the next three years. Under the agreement, each team will be paired with TRI researchers, who will serve as co-investigators.
+An Outdoor MiniCity to Test Autonomous Driving
+The first research project aims to make it easier for universities to test autonomous vehicles, building on Georgia Tech’s
+AutoRally
+platform. Georgia Tech researchers use this small-scale autonomous dirt track to test aggressive driving. The car can control turns and calculate for on-course obstacles at speeds approaching 20 miles per hour. The software and simulation environment could help make future self-driving cars safer under similar hazardous road conditions. Georgia Tech researchers will build on this platform to develop a scale-model MiniCity environment to develop and test autonomy algorithms.
+Current autonomous vehicle testing is done by industry using full-size vehicles on city streets – an expensive proposition not viable for the broader academic research community.
+“There’s a barrier to entry for the science in the field,” said principal investigator
+James Rehg , a professor in the
+School of Interactive Computing . “Our platform uses a one-fifth scale vehicle, freeing us to do research at lower cost and without taking any risks – we can crash our car and it’s inexpensive to repair and nobody gets hurt.”
+The autonomous cars will navigate the MiniCity and avoid hazards while obeying speed and traffic rules. Sensors will enable the cars to sense obstacles and make decisions on how fast to drive or how to steer. “We are addressing the issue of reproducibility of autonomous driving in a test environment,” Rehg said.
+Massachusetts Institute of Technology (MIT), one of TRI’s three original funded universities, is leading the research project. MIT operates an indoor autonomous driving track that simulates paved city streets. With Georgia Tech’s outdoor track, researchers can then see how autonomous cars perform over gravel, dirt, and other more realistic driving conditions.
+According to Rehg, autonomy testing presents unique challenges. “There’s a reason you get a driver’s test — you have to understand the variety of situations that can arise in driving and the rules, and you must understand how the context can change and make all the right decisions for safety.”
+With the MiniCity, Rehg and fellow investigator Evangelos Theodorou, an associate professor in the Daniel Guggenheim School of Aerospace Engineering, hope to develop a standardized testbed and protocol for testing and then invite academic teams to compete and measure the driving performance of their vehicles.
+Human-assist Robots to Help People Age in Place
+Georgia Tech’s other TRI research project involves robotics that can assist older adults. It reflects Toyota and TRI’s priority to help older adults age in place.
+“It’s really a powerful thing to have independence and be able to do things for yourself,” said the project’s principal investigator,
+Charlie Kemp , associate professor in the
+Wallace H. Coulter Department of Biomedical Engineering
+and adjunct associate professor in the
+School of Interactive Computing . Kemp also is a co-founder and the chief technology officer of Hello Robot Inc., a company that has commercialized robotic assistance technologies initially developed in his lab.
+Looking at the aging issue, Kemp and co-PI Hutchinson will examine how to take advantage of complementary characteristics that can lead to better physical collaboration between an individual and a robot.
+“We are asking, ‘How can an individual and a particular robot best work together?’ ‘How do we individualize the robot to the person to give them a better quality of life?’” Kemp said.
+They plan to take a modeling approach initially using physics simulations and, later, conducting studies with young able-bodied participants, healthy older adults, and older adults with impairments.
+The researchers will use sensing technology – including pressure sensors on beds that pinpoint a person’s body position and movement, as well as capacitive sensors that help the robot to better perceive a person’s body position up close. Such information can help with activities like dressing.
+“It’s a very intimate interaction between the robot and the human,” Hutchinson said.
+Both investigators share TRI’s view that robotics that can assist older adults with daily living could make a major impact in the well-being of an increasingly graying population. In fact, during the next three decades, the global population over the age of 65 is projected to more than double. Japan, headquarters for Toyota, has the highest proportion of older citizens of any country in the world, with one in four people over 65.
+“We have talked about robots helping older adults for decades and we’re still not there,” said Kemp. “There’s a real opportunity to help people. As I get older, I’d love for this technology to be there for me and for my loved ones. While we still have a long way to go, the research can get us closer,” he added.
+Hutchinson acknowledged that it will take time before people see robotic assistive technologies in hospitals or people’s homes, but the potential is there.
+“What is most exciting about the TRI project is it has the potential to show up in people’s homes because TRI is invested in getting it there. And that means our research could really make an impact on a broad scale instead of only touching research journals or elite practitioners in the field,” he said.
+Robotics Success Takes a Village
+The investigators agree that Georgia Tech’s multidisciplinary focus within robotics is a strength that will serve them well in their work with TRI, and especially in the future when autonomy goes mainstream.
+“If you think about what it’s going to take for autonomous vehicles to really exist in the world on a large scale and deliver passengers in high volumes, it’s going to require all those things – engineering, science policy, law, and ethics – all those disciplines coming together,” said Rehg.
+Kemp agreed, noting that since founding his
+Healthcare Robotics Lab
+in 2007, he’s attracted students from across engineering disciplines — from mechanical and computing to electrical, aerospace, and biomedical.
+“It's definitely something that's distinctive about Georgia Tech — it's a real strength,” he said.
+Charlie Kemp owns equity in Hello Robot and is an inventor of Georgia Tech intellectual property (IP) licensed by Hello Robot. Consequently, he benefits from increases in the value of Hello Robot and receives royalties via Georgia Tech for sales made by Hello Robot. The terms of this arrangement have been reviewed and approved by Georgia Tech in accordance with its conflict-of-interest policies.
+Additional Images
+Contact
+Anne Wainscott-Sargent
+Research News
+(404-435-5784)
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

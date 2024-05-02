@@ -1,0 +1,59 @@
+machine learning advances materials for separations, adsorption, and catalysis 
+ machine learning is helping accelerate the development of highly tunable materials known as metal-organic frameworks. 
+ the vial shown contains a blue powder, hkust-1, a metal-organic framework (mof) material. (credit, tania evans, georgia tech) 
+ nov 09, 2020 
+ — atlanta, ga 
+ an artificial intelligence technique — machine learning — is helping accelerate the development of highly tunable materials known as metal-organic frameworks (mofs) that have important applications in chemical separations, adsorption, catalysis, and sensing. 
+ utilizing data about the properties of more than 200 existing mofs, the machine learning platform was trained to help guide the development of new materials by predicting an often-essential property: water stability. using guidance from the model, researchers can avoid the time-consuming task of synthesizing and then experimentally testing new candidate mofs for their aqueous stability. already, researchers are expanding the model to predict other important mof properties. 
+ supported by the office of science’s basic energy sciences program within the u.s. department of energy (doe), the research was reported nov. 9 in the journal 
+ nature machine intelligence . the research was conducted in the 
+ center for understanding and control of acid gas-induced evolution of materials for energy 
+ (uncage-me), a doe energy frontier research center located at the georgia institute of technology. 
+ “the issue of water stability with mofs has existed in this field for a long time, with no easy way to predict it,” said 
+ krista walton , professor and robert "bud" moeller faculty fellow in georgia tech’s 
+ school of chemical and biomolecular engineering . “rather than having to do the synthesis and experimentation to figure this out for each candidate mof, this machine learning model now provides a way to predict water stability given a set of desired features. this will really speed up the process of identifying new materials for specific applications.” 
+ mofs are a class of porous and crystalline materials that are synthesized from inorganic metal ions or clusters connected to organic ligands. they are known for their easily tunable components that can be customized for specific applications, but the large number of potential combinations makes it difficult to choose mofs with the desired properties. that’s where artificial intelligence can help. 
+ machine learning is playing an increasingly important role in materials science, said 
+ rampi ramprasad , professor and michael e. tennenbaum family chair in the georgia tech school of 
+ materials science and engineering 
+ and 
+ georgia research alliance 
+ eminent scholar in energy sustainability. 
+ “when materials scientists plan the next set of experiments, we use the intuition and insights that we have accumulated from the past,” ramprasad said. “machine learning allows us to fully tap into this past knowledge in the most efficient and effective manner. if 200 experiments have already been done, machine learning allows us to exploit all that has been learned from them as we plan the 201st experiment.” 
+ beyond experimental data, machine learning can also use the results of physics-based simulations. and unlike simulations, the results from machine learning models can be instantaneous. the machine learning algorithm improves as it receives more information, he noted, and both negative and positive results are useful. 
+ “great discoveries are as important as not-so-exciting discoveries — failed experiments — because machine learning uses both ends of the spectrum to get better at what it does,” ramprasad said. 
+ the machine learning model used information walton and her research team had gathered on hundreds of existing mof materials, both from compounds developed in her own lab and those reported by other researchers. to prepare the information for the model to learn from, she categorized each mof according to four measures of water stability. 
+ “the couple hundred data points used to build the model represented years of experiments,” walton said. “i spent basically the first half of my career working to understand this water stability problem with mofs, so it’s something we have studied extensively.” 
+ using the model, researchers who are developing new adsorbents and other porous materials for specific applications can now check their proposed formulas to determine the likelihood that a new mof would be stable in the presence of water. that could be particularly helpful for researchers who don’t have this particular expertise or who don’t have easy access to experimental methods for examining stability. 
+ “the mof community is diverse, with a variety of subfields. not everyone has the chemical intuition about which materials’ features lead to good framework stability, and experimental evaluation often requires specialty equipment that many labs may not have or wouldn’t otherwise need for their specific subfield. however, with good predictive models, they wouldn’t necessarily need to develop it to choose a material for a specific application,” walton said. “this capability potentially opens up this field to a broader group of researchers that could accelerate application development.” 
+ while screening for water stability is important, ramprasad says it’s just the beginning of the potential benefits from the project. the machine learning model can be trained to predict other properties as long as a sufficient amount of data exists. for instance, the team is already teaching their model about factors affecting methane absorption under varying levels of pressure. in that case, simulations will provide much of the data from which the model will learn. 
+ “we will have a very strong predictor that will tell us if a new mof would be stable under aqueous conditions and a good candidate for methane uptake,” he said. “what we are doing is creating a universal and scalable machine learning platform that can be trained on new properties. as long as the data is available, the model can learn from it, and make predictions for new cases.” 
+ in addition to those already mentioned, recent georgia tech postdoctoral fellow rohit batra and georgia tech graduate students carmen chen and tania g. evans were also coauthors on the 
+ nature machine intelligence 
+ paper. 
+ ramprasad has experience with machine learning techniques applied to other materials and application spaces, and recently coauthored a review article, “emerging materials intelligence ecosystems propelled by machine learning,” about a range of artificial intelligence applications in materials science and engineering. intended to demystify machine learning and to review success stories in the materials development space, it was published, also on nov. 9, 2020, in the journal 
+ nature reviews materials . 
+ in addition to ramprasad, coauthors on the 
+ nature review materials 
+ paper included batra and le song, associate professor in the georgia tech college of computing. 
+ this work was supported as part of the center for understanding and control of acid gas-induced evolution of materials for energy (uncage-me), an energy frontier research center funded by the u.s. department of energy, office of science, basic energy sciences under award no. de-sc0012577. 
+ citation : rohit batra, carmen chen, tania g. evans, krista s. walton, and rampi ramprasad, “prediction of water stability in metal–organic frameworks using machine learning.” ( nature machine intelligence , 2020) 
+ https: / / doi.org / 10.1038 / s42256-020-00249-z 
+ citation : rohit batra, le song, and rampi ramprasad, “emerging materials intelligence ecosystems propelled by machine learning.” ( nature reviews materials , 2020) 
+ https: / / www.nature.com / articles / s41578-020-00255-y. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

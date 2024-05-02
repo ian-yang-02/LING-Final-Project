@@ -1,0 +1,86 @@
+Turning Ideas into Successful Startups
+The 20 teams participating in this year’s Startup Summer programs will demonstrate their products Tuesday at the Fox Theatre
+Aug 22, 2016
+— Atlanta, GA
+Instead of interning at established companies this summer, a group of Georgia Tech students launched their own startups.
+The 20 teams who participated in
+Startup Summer
+will demonstrate their products and services Tuesday starting at 4:30pm in the Egyptian Ballroom of the Fox Theatre.
+Startup Summer is one of three main programs under the umbrella of CREATE-X, a Georgia Tech initiative to enhance and support entrepreneurship programs for undergraduate students. It is just one way the Institute is preparing the nation’s next entrepreneurs.
+This is the third cohort of teams to go through the 12-week Startup Summer program. If the past is any indication, many of the teams will continue to succeed long after the program ends.
+Three program graduates – FIXD, Gimme Vending and TEQ Charging – were among 10 emerging companies selected to participate in The Bridge:Atlanta, a startup commercialization program established by Coca-Cola to foster connections and create mentorships between entrepreneurs and established corporations.
+Others Startup Summer graduates joined Georgia Tech’s
+Advanced Technology Development Center , a statewide technology incubator.
+Here’s a look at five past Startup Summer teams:
+Keeping Cars ‘FIXD’
+Drivers tense up when the check engine light come on. They wonder if the car is OK to drive or if it will be expensive to fix.
+FIXD
+helps drivers quickly understand what’s wrong with their cars.
+The FIXD sensor is plugged into a car’s diagnostics port, located just underneath the steering wheel. It relays problems to an app via Bluetooth. It provides a simple definition of what is wrong, explains the severity of the issue and warns of the consequences of driving without repairs. The device will also keep track of the vehicle’s diagnostics and let owners know when their car is due for maintenance.
+The company was part of the inaugural Startup Summer class in 2014. Since then they’ve completed a successful Kickstarter campaign and are selling the FIXD sensor through their website and on Amazon.
+The startup isn’t just targeting individual drivers. John Gattuso, the company’s CEO and a graduate of the George W. Woodruff School of Mechanical Engineering, said the device also benefits dealership service departments and auto repair shops.
+For example, FIXD enables dealership service departments to monitor customers' vehicles through a dashboard. The dealership's dashboard allows for the service departments to communicate with customers via the FIXD app on their smartphones.
+Repair shops can give it to their customers so they can can easily schedule repairs and maintenance.
+FIXD is currently working with Kuhn Volkswagen of Marietta, Georgia, and RPM Automotive, a repair shop in Jacksonville, Florida, with 10 stores.
+“Startup Summer helped us lay an amazing foundation for FIXD and gave us the confidence to pursue our startup full-time,” said Gattuso, who graduated with a degree in mechanical engineering. “Even though we have graduated from Tech, we still rely heavily on the mentors and advisors that we met during our time in Startup Summer."
+Revolutionizing Vending Machines
+Cory Hewett knew from experience the problems vending machine companies face.
+By the time he graduated high school, Hewett had owned and managed more than 25 gumball and vending machines.
+It was during his time at Georgia Tech that Hewett co-founded a solution to allow vending machine operators to track what is happening in the field in real-time.
+Gimme Vending
+developed a hardware and software solution that allows companies to replace their handhelds and easily monitor the status of their cash and inventory.
+The devices work with the existing vending management software. The Gimme Key is installed into each vending machine’s DEX board and left there. It installs in seconds, with no tools or pairing. Data is communicated wirelessly from the key to the Gimme Drive app via Bluetooth. The data instantaneously uploads from the app to the Gimme Vending cloud and can be immediately accessible to executives. This provides operators faster service and fewer returns, and streamlines inventory.
+Hewett, who studied electrical engineering, was also part of the first group of teams to go through Startup Summer.
+Since then the startup has won $50,000 at the Technology Association of Georgia's Business Launch Competition and received $450,000 in seed funding.
+In April the company won the Automatic Merchandiser 2016 Readers' Choice New Product of the Year Award.
+Also in April, the company received its first invention patent -- for its method of wirelessly communicating data from vending machines even when there is no network connection.
+“Gimme has made a significant impact on the vending industry in a short period of time, and is staged to further disrupt the industry in a positive way,” Hewett said. “We provide our customers with the data they need to operate more efficiently and profitably.”
+Let Them Eat Bugs
+As students at Georgia Tech, cousins Sean Warner and Patrick Pittaluga transformed the laundry room inside their apartment into a nursery for 700 larvae of black soldier flies.
+It marked the beginning of
+Grubbly Farms , a startup company that breeds and sells the larvae as a sustainable source of protein for chicken, pigs and farmed seafood.
+The country produces more than 30 million tons of food waste that is dumped into landfills and releases greenhouse gases that damage the environment. But Grubbly Farms is collecting the organic waste and feeding it to the black soldier fly larvae.
+As the larvae eat, they excrete a nutrient-rich fertilizer that benefits gardeners and farmers. The larvae are later used as feed for fish and poultry farms.
+Warner and Pittaluga knew that famers in Europe and Africa use black soldier fly larvae as a protein in livestock feed and wondered if famers in the U.S. would be willing to do the same. So as part of last year’s Startup Summer they travelled around the state and country to talk with chicken and fish famers to better understand the needs of the market and potential customers.
+“We had the idea but CREATE-X gave us the skills and ability to launch our startup,” said Pittaluga, who graduate with a degree in business.
+Warner graduated with a degree in building construction.
+Shortly after Startup Summer ended they attended the 2015 Kairos Global Summit, which highlighted 50 innovative startups from around the world.
+Last year the company partnered with Kennesaw State University to conduct research and development in a greenhouse on the university’s farm.
+They recently moved into a 5,500-square-foot facility in Doraville and are getting ready to hire their first employee.
+Grow Your Own Food
+Ruwan Subasinghe grew tired of his produce and herbs going bad before he could eat it all. He wanted fresh food but didn’t have the time or space for a garden.
+Instead he co-invented a machine to let people grow their own fresh produce right in their kitchens.
+Together with Alex Weiss they launched
+Replantable , the startup behind the Nanofarm, a tiny modular farm that fits on a kitchen countertop. It grows vegetables, herbs and salad greens.
+The Nanofarm cabinet includes a water tray, LED grow lights and a plant pad. The plant pads are soil-free, pre-seeded paper and fabric pads that contain the plant nutrients. The pads go on top of a water-filled growing tray, where they wick up water during the growing cycle. A built-in ventilation system pumps carbon dioxide to the plants and vents oxygen into the home.
+Unlike other products to come out of Startup Summer this one doesn’t require an app or depend on a smartphone or computer to work.
+The Nanofarm’s frame is built from powder-coated steel and natural wood. The door is
+made of tinted glass and the door handle and hinge are made of marine-grade aluminum. It has three dials: one selects the length of the growing period, another starts the unit and a final light is lit when it’s time to harvest.
+Subasinghe described the device as “set it and forget it.”
+“There is no seeding or watering or adding nutrients and you don’t have to adjust the light,” he said. “After you hit start it will do all the work and let you know when it’s time to harvest.”
+A group of beta testers spent about seven months using the device. The startup is planning to officially launch the Nanofarm this week on Kickstarter.
+How to Charge EVs
+While in different classes at Georgia Tech, Dorrier Coleman, Josh Lieberman and Isaac Wittenstein experimented with electric vehicles and their growing market.
+They quickly identified a main source of frustration for drivers and owners of these vehicles: seeing one car plugged in to a charger all day while other drivers wait their turn.
+The three pooled their knowledge and created a power management system for electric vehicle chargers.
+TEQ Charging
+aims to make charging easy and hassle free by allowing multiple drivers to plug their cars into a charging queue.
+The company’s name is short for The Electric Queue and pays tribute to Georgia Tech.
+A software system queues the power from one car to the next throughout the day. Although every car may be plugged into the charger, the company’s patent-pending algorithms place each connected car in a queue. Each charger turns on and off in the most efficient order to maximize the number of cars that can be charged during a specific period of time.
+Meanwhile the TEQ app helps vehicle owners find open chargers.
+They went through Startup Summer last year and began live testing the system in June at the Newberger Andes Offices offices, located on Roswell Road and I-285.
+Results from beta testing will allow the company to further develop the technology. Wittenstein said they plan to talk with users to get their thoughts on the charging system and learn what improvements and changes they’d like to see.
+“Georgia Tech gave us the opportunity to be where we are right now,” said Lieberman, the CEO of TEQ. “Without all the support and programs, we would not have been able to define and develop our business.”
+Additional Images
+Related links
+CREATE-X
+Contact
+Laura Diamond
+Media Relations
+404-894-6016
+@LauraRDiamond
+Email
+laura.diamond@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

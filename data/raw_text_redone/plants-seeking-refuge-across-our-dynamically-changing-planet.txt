@@ -1,0 +1,39 @@
+the plants seeking refuge across our dynamically changing planet 
+ researchers investigate how trees have moved across geography over time, where they’re heading, and why it’s important. 
+ along the highest peaks in north carolina, an isolated spruce-fir boreal forest stands as a relict of the pleistocene, contrasting with deciduous trees on the southern appalachians. (photo: mount mitchell state park by jess hunt-ralston, georgia tech) 
+ feb 06, 2023 
+ — atlanta, ga 
+ plants, like animals and people, seek refuge from climate change. and when they move, they take entire ecosystems with them. to understand why and how plants have trekked across landscapes throughout time, researchers at the forefront of conservation are calling for a new framework. the key to protecting biodiversity in the future may be through understanding the past. 
+ jenny mcguire , assistant professor in the 
+ schools of biological sciences 
+ and 
+ earth and atmospheric sciences 
+ at georgia tech, spearheaded a special feature on the topic of biodiversity in 
+ the proceedings of the national academy of sciences 
+ along with colleagues in texas, norway, and argentina . 
+ in the special feature, “ the past as a lens for biodiversity conservation on a dynamically changing planet ,” mcguire and her collaborators highlight the outstanding questions that must be addressed for successful future conservation efforts. the feature brings together conservation research that illuminates the complex and constantly evolving dynamics brought on by climate change and the ever-shifting ways humans use land. these factors, mcguire said, interact over time to create dynamic changes and illustrate the need to incorporate temporal perspectives into conservation strategies by looking deep into the past. 
+ one example of this work highlighted in the journal is mcguire’s 
+ research about plants in north america , which investigates how and why they’ve moved across geography over time, where they’re heading, and why it’s important. 
+ “plants are shifting their geographic ranges, and this is happening whether we realize it or not,” mcguire said. “as seeds fall or are transported to distant places, the likelihood that the plant’s seed is going to be able to survive and grow is changing as climates are changing. studying plants’ niche dynamics over thousands of years can help us understand how species adapt to climate change and can teach us how to protect and maintain biodiversity in the face of rapid climate change to come.” 
+ climate fidelity: a new metric for understanding vulnerability 
+ the first step is to understand which type of plants exhibit what mcguire terms “climate fidelity,” and which do not. if a plant has climate fidelity, it means that the plant stays loyal to its preferred climatic niche, often migrating across geographies over thousands of years to keep up with its ideal habitat. plants that don’t exhibit climate fidelity tend to adapt locally in the face of climate change. being loyal to one’s climate, it turns out, doesn’t necessarily mean being loyal to a particular place. 
+ to investigate the case of trees, mcguire and former georgia tech postdoctoral scholar yue wang (associate professor in the school of ecology at sun yat-sen university in china) studied pollen data from the neotoma paleoecology database, which contains pollen fossil data from sediment cores across north america. each sediment core is sampled, layer by layer, producing a series of pollen data from different times throughout history. the data also contains breakdowns of the relative abundance of different types of plants represented by the pollen types – pine versus oak versus grass, for example – painting a picture of what types of plants were present in that location and when. 
+ mcguire and wang looked at data from 13,240 fossil pollen samples taken from 337 locations across the entirety of north america. for each of the 16 major plant taxa in north america, they divided the pollen data into six distinct chunks or “bins” of time of 4,000 years, starting from 18,000 years ago up to the present day. wang used the data to identify all climate sites containing fossil pollen for any individual type of tree – such as oak, for example – for each period. then, wang looked at how each tree’s climate changed from one period to the next. wang did this by comparing the locations of pollen types between adjacent time periods, which enabled the team to identify how and why each type of tree’s climate changed over time. 
+ “this process allowed us to see the climate fidelity of these different plant taxa, showing that certain plants maintain very consistent climatic niches, even when climate is changing rapidly,” wang said. 
+ for example, their findings showed that when north american glaciers were retreating 18,000 years ago, spruce and alder trees moved northward to maintain the cool temperatures of their habitats. 
+ crucially, mcguire and wang found that most plant species in north america have exhibited long-term climate fidelity over the past 18,000 years. they also found that plants that migrated farther did a better job of tracking climate during periods of change. 
+ but some plants fared better than others. for example, the small seeds of willow trees can fly over long distances – enabling them to track their preferred climates very effectively. but the large seeds of ash trees, for example, can only be dispersed short distances from parent trees, hindering their ability to track climate. habitat disruptions from humans could make it even more difficult for ash trees to be able to take hold in new regions. if there are no adjacent habitats for ash trees, their seeds are under pressure to move even farther – a particular challenge for ash, which slows their migration movements even more. 
+ protecting the fabric of life 
+ on the bright side, by identifying which plants have historically been most sensitive to changing climates, mcguire and wang’s research can help conservation organizations like the nature conservancy prioritize land where biodiversity is most vulnerable to climate change. 
+ as a final step, mcguire and wang identified “climate fidelity hotspots,” regions that have historically exhibited strong climate fidelity whose plants will most urgently need to move as their climates change. they compared these hotspots to climate-resilient regions identified by the nature conservancy that could serve as refuge areas for those plants. while plants in these resilient regions can initially adapt to impending climate change by shifting their distributions locally, the plants will likely face major challenges when a region’s climate change capacity is exceeded due to lack of connectivity and habitat disruptions from humans. refining these priorities helps stakeholders identify efficient strategies for allowing the fabric of life to thrive. 
+ “i think that understanding climate fidelity, while a new and different idea, will be very important going forward, especially when thinking about how to prioritize protecting different plants in the face of climate change,” mcguire said. “it is important to be able to see that some plants and animals are more vulnerable to climate change, and this information can help build stronger strategies for protecting the biodiversity on the planet.” 
+ citation : yue wang, silvia pineda-munoz, and jenny l. mcguire, "plants maintain climate fidelity in the face of dynamic climate change."  pnas  (2023). 
+ doi : doi.org / 10.1073 / pnas.2201946119 
+ additional images 
+ contact 
+ catherine barzler, senior research writer / editor 
+ email 
+ catherine.barzler@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

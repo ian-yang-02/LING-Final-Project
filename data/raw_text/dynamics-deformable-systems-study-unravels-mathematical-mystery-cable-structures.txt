@@ -1,0 +1,54 @@
+The Dynamics of Deformable Systems: Study Unravels Mathematical Mystery of Cable-like Structures
+A new theory allows researchers to create easy-to-solve mathematical models using cables, a previously challenging mathematical problem.
+Feb 09, 2024
+Are our bodies solid or liquid? We all know the convention
+—
+that solids maintain their shapes, while liquids fill the containers they’re in. But often in the real world, those lines are blurred. Imagine walking on a beach. Sometimes the sand gives way under feet, deforming like a liquid, but when enough sand grains pack together, they can support weight like a solid surface.
+Modeling these kinds of systems is notoriously difficult — but
+Zeb Rocklin , an assistant professor in the
+School of Physics
+at Georgia Tech, has written a new paper doing just that.
+Rocklin’s study, “ Rigidity percolation in a random tensegrity via analytic graph theory ,” is published in the journal
+Proceedings of the National Academy of Sciences (PNAS) . The results have the potential to impact fields spanning biology to engineering and nanotechnology, showing that these types of deformable solids offer a rare combination of durability and flexibility.
+"I'm very proud of our team, especially Will and Vishal, the two Georgia Tech undergraduates who co-led the study,”
+Rocklin says.
+The lead author,
+William Stephenson,
+and co-author
+Vishal Sudhakar
+both completed their undergraduate studies at the Institute during the time of this research. Stephenson is now a first-year grad student at the University of Michigan, Ann Arbor, and Sudhakar has been admitted to Georgia Tech as a graduate student. Additionally, co-author
+Michael Czajkowski
+is a post-doctoral researcher in the School of Physics, and co-author
+James McInerney
+completed his graduate studies in the School of Physics under Rocklin. McInerney is now a postdoctoral researcher at the University of Michigan.
+Connecting the dots… with cables
+Imagine building molecules in chemistry class
+—
+large wooden spheres connected with sticks or rods. While many models use rods, including mathematical models, biological systems in real life are constructed of polymers, which function more like stretchy strings.
+Likewise, when creating mathematical or biological models, researchers frequently treat all the elements as rods as opposed to treating some of them as cables, or strings. But, “there are tradeoffs between how mathematically tractable a model is and how physically plausible it is,” Rocklin says. “Physicists can have some beautiful mathematical theories, but they aren’t always realistic.”  For example, a model using connective rods might not capture the dynamics that connective strings provide. “With a string you can stretch it, and it'll fight you, but when you compress it, it collapses.”
+“But, in this study, we’ve extended the current theories,” he says, adding cable-like elements. “And that actually turns out to be incredibly difficult, because these theories use mathematical equations.
+In contrast, the distance between the two ends of a cable is represented by an inequality, which is not an equation at all. So how do you create a mathematical theory when you aren't starting from equations? ” While a rod has a certain length in a mathematical equation, the ends of the string have to be represented as less than or equal to a certain length.
+In this situation “all the usual analytic theories completely break,” Rocklin says. “It becomes very difficult for physicists or for mathematicians.”
+“The trick was to notice that these physical systems were logically equivalent to something called a directed graph,” Rocklin adds, “where different modes of deformation are linked to each other in specific ways. This allows us to take a relatively complicated system and massively compress
+it to a much smaller system. And when we did that, we were able to turn it into something that becomes extremely easy for the computer to do.”
+From biology to engineering
+Rocklin’s team found that when modeling with cables and springs, the target range changed — becoming softer, with a wider margin for error. “That could be really important for something like a biological system, because a biological system is trying to stay close to that critical point,” says Rocklin. “Our model shows that the region around the critical point is actually much broader than what models that only used rods previously showed.”
+Rocklin also points out applications for engineers. For example, since Rocklin's new theory suggests that even disordered cable structures can be strong and flexible, it may help engineers leverage cables as building materials to create safer, more durable bridges. The theory also provides a way to easily model these cable-based structures, to ensure their safety before they are built, and provide a way for engineers to iterate on designs.
+Rocklin also notes potential applications in nanotechnology. “In nanotechnology, you must accept an increasing amount of disorder, because you can't just have a skilled worker actually go in and put segments there, and you can't have a conventional factory machine put segments there,” Rocklin says.
+But biology has known how to lay down effective, but disordered, rod and cable structures for hundreds of millions of years. “This is going to tell us what sorts of machines we can make with those disordered structures when we're getting to the point of being able to do what biology can do. And that's a possible future design principle for the engineers to explore, at very small scales, where we can't choose exactly where each cable goes,” Rocklin says.
+“Our theory shows that with cables, we can maintain a combination of flexibility and strength with much less precision than you might otherwise need.”
+Funding:
+This research was funded by the Army Research Office through the MURI program (#W911NF2210219).
+DOI:
+https://doi.org/10.1073/pnas.2302536120
+Figure caption:
+Systems of rigid rods acquire rigidity via the addition of random additional rods and cables, as captured via a graph theory. The research team's main object of study, shown here, is structures that consist of large numbers of pores — arranged in columns and rows with cables and rods added at random.
+Contact
+Written by Selena Langner
+Editor and Contact:
+Jess Hunt-Ralston
+Email
+jess.hunt@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

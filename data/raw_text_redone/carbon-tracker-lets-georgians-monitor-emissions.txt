@@ -1,0 +1,31 @@
+carbon tracker lets georgians monitor emissions 
+ georgians can now track where greenhouse gas emissions come from thanks to a tool that estimates those emissions at the state and county level. 
+ apr 15, 2022 
+ — atlanta, ga 
+ georgians can now track where greenhouse gas emissions come from thanks to a 
+ tool 
+ that estimates those emissions at the state and county level. 
+ developed by georgia tech professors, the interactive map allows users to filter publicly available greenhouse gas estimates by county, month, year, and energy sector. users can specify whether the emissions come from transportation, agriculture, commercial, forestry, residential, or industrial sources and counter with how much carbon is absorbed by trees and soils. 
+ “the purpose of the tracker is to bring technology to bear on climate solutions,” said 
+ william drummond , an associate professor in the 
+ school of city & regional planning 
+ and the lead behind the tracker. “this is the first time there has been effort to downscale emissions to the local level in a dynamic way we can update every month.” 
+ the initiative is part of a trifold effort in 
+ drawdown georgia , a ray c. anderson foundation–funded project across state universities to decrease reliance on carbon inspired by the national program project drawdown. as the first stage, the tracker enables georgians to understand how the state contributes to emissions. next, the 
+ scheller college of business 
+ will develop a business compact study to assess the economic impact of less carbon, and then the 
+ school of public policy 
+ will lead solutions activation. the tracker ties everything together by letting researchers measure how effective all the efforts are combined. 
+ ultimately, the researchers hope to inspire everyday georgians to get involved in combatting climate change. with the public’s familiarity with covid-19 case trackers, drummond believes the tracker is accessible to most users, from regular citizens unsure how to help the environment to high school science students. 
+ “this tracker is designed to be a catalyst for a climate movement across the state of georgia, so it's important that we include ordinary citizens, advocacy groups, and businesses as partners in working toward climate solutions in georgia,” drummond said. 
+ the researchers expect the carbon tracker will grow beyond georgia. the tool is written in the common coding language r, so other states can replicate it. they also hope to track many other climate elements in the next few years. 
+ “we'll progress as the technologies and markets evolve, and will soon turn to where the solutions are — not just where are the emissions are,” said 
+ marilyn brown , a regents' and brook byers professor of sustainable systems in the school of public policy. “we’re going to tie it all together, and it's all going to be facilitated by this geospatial tracking.” 
+ additional images 
+ contact 
+ tess malone, research writer / editor 
+ email 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

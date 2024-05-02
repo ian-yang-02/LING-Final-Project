@@ -1,0 +1,36 @@
+Brake Dust May Cause More Problems Than Blackened Wheel Covers
+Though tailpipe emissions could fall in the years ahead as more zero-emission vehicles hit the streets, one major source of highway air pollution shows no signs of abating: brake and tire dust.
+Rush hour traffic on the downtown connector in Atlanta. (Credit: Josh Brown)
+Mar 02, 2017
+— Atlanta, GA
+Though tailpipe emissions could fall in the years ahead as more zero-emission vehicles hit the streets, one major source of highway air pollution shows no signs of abating: brake and tire dust.
+Metals from brakes and other automotive systems are emitted into the air as fine particles, lingering over busy roadways. Now, researchers at Georgia Institute of Technology have shown how that cloud of tiny metal particles could wreak havoc on respiratory health.
+In a study published January 31 in the journal
+Environmental Science & Technology , the researchers described how vehicle-emitted metals such as copper, iron and manganese interact with acidic sulfate-rich particles already in the air to produce a toxic aerosol.
+“There’s a chain reaction happening in the air above busy highways,” said Rodney Weber, a professor in Georgia Tech’s School of Earth & Atmospheric Sciences. “Acidic sulfate in the atmosphere comes into contact with those metals emitted from traffic and changes their solubility, making them more likely to cause oxidative stress when inhaled.”
+The study, which was sponsored by the National Science Foundation and the U.S. Environmental Protection Agency, showed how the metals are emitted mainly in an insoluble form but slowly become soluble after mixing with sulfate.
+“Sulfate has long been associated with adverse health impacts,” said Athanasios Nenes, a professor and Georgia Power Scholar in the School of Earth & Atmospheric Sciences and the School of Chemical & Biomolecular Engineering. “The old hypothesis was that the acidic sulfate burns your lung lining, which in turn leads the bad health effects. But there is not enough acid in the air alone to really have that impact.”
+But sulfate plays a key role in making metals soluble before they are inhaled, which could explain the association of sulfate with adverse health impacts, the researchers said.
+The researchers collected samples of ambient particulate matter in two locations in Atlanta – one near a major interstate highway and another urban site 420 meters away from the roadway. They analyzed the chemical content, size distribution and acidity of the samples.
+A significant amount of the ambient sulfate found was similar in size to the metal particles, suggesting that the ambient sulfate and metals were mixed within individual particles, which over hours or days would allow the acidic sulfate to convert the metal into a soluble form.
+To quantify just how dangerous the aerosol could be, the researchers developed a high throughput analytical system for a chemical assay – called oxidative potential – that simulates the toxic response that such a mix would have on cellular organisms. This instrument was used to generate large data sets on ambient aerosol oxidative potential, which when utilized in an earlier epidemiological study, researchers at Georgia Tech and Emory University found that the chemical assay was statistically associated with hospital admissions in Atlanta for asthma and wheezing.
+In the new study, the researchers observed that the peak toxicity indicated by the assay was closely correlated to those particles that contained the largest amount of soluble metals, which occurred only when metallic particles mixed with highly acidic sulfate.
+“That’s the smoking gun,” Nenes said. “The sulfate essentially dissolves those metals; when you breathe in those particles, the metals could be absorbed directly into the blood stream and cause problems throughout the body. For the first time, a mechanism emerges to explain why small amounts of acidic sulfate can adversely affect health.”
+While the sample taken from the testing site located farther away from the highway had less particulate metal, there was still enough to cause an increase in the oxidative potential, showing that roadway pollution could travel through the air and potentially cause problems in surrounding areas as well.
+Dust from brakes and tires isn’t the only source of metals in the air. Incinerators and other forms of combustion also produce mineral dust and metallic particles, which could mix with sulfate to trigger a similar reaction.
+The researchers noted that while the amount of particulate sulfate in the southeastern United States has decreased during the past 15 years as sulfur dioxide emissions from power plants have fallen, there’s still enough acidic sulfate in the air to keep the pH of particles very low, in the range of 0 to 2, transforming insoluble ambient metals to a soluble form.
+“Vehicle tailpipe emissions are going down, but these kinds of emissions from braking will remain to some extent, even if you drive an electric car,” Weber said. “Therefore, this kind of process will continue to play out in the future and will be an important consideration when we look at the health effects of particulate matter.”
+This material is based upon work supported by the National Science Foundation under Grant No.
+1360730
+and the U.S. Environmental Protection Agency under Grant No. RD834799. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation or the U.S. Environmental Protection Agency.
+CITATION : Ting Fang, Hongyu Guo, Linghan Zeng, Vishal Verma, Athanasios Nenes and Rodney J. Weber, “Highly acidic ambient particles, soluble metals and oxidative potential: A link between sulfate and aerosol toxicity,” (Environmental Science & Technology, 2017).
+http://dx.doi.org/10.1021/acs.est.6b06151 .
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

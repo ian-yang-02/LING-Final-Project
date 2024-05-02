@@ -1,0 +1,34 @@
+Spiral Wave Teleportation Theory Offers New Path to Defibrillate Hearts, Terminate Arrhythmias
+Researchers from the Georgia Institute of Technology offer a new method to disrupt spiral waves that uses less energy and that may be less painful than traditional defibrillation.
+Jun 23, 2022
+— Atlanta, GA
+A spiral wave of electrical activity in the heart can cause catastrophic consequences. One spiral wave creates tachycardia — a heart rate that’s too fast — and multiple spirals cause a state of disorganized contraction known as fibrillation. Researchers from the Georgia Institute of Technology offer a new method to disrupt spiral waves that uses less energy and that may be less painful than traditional defibrillation.
+This research has been ongoing in
+School of Physics
+Professor
+Flavio Fenton’s
+lab with his student Noah DeTal and research scientist Abouzar Kaboudian. Their latest findings are published in the paper, “ Terminating Spiral Waves with a Single Designed Stimulus: Teleportation as the Mechanism for Defibrillation,”
+in the journal
+Proceedings of the National Academy of Science .
+The Problem with Spiral Waves
+Electrical waves enable the heart to contract and send blood throughout the body. When a wave becomes a spiral, its rotation is faster than the heart’s natural pacemaker and suppresses normal cardiac function. Instead, one spiral wave can spawn more spirals until the heart is overtaken by multiple spiral waves, leading to disorganized contraction, and preventing the heart from supplying the body with blood.
+For years, scientists and doctors have worked to find the best way to stop spiral waves before they get out of control. Yet for over half a century the best method has been a single strong electric shock. The 300 joules of energy required for defibrillation excites not just the heart cells, but the entire body, making it very painful for the patient.
+Over the years researchers have experimented with using weaker shocks to reorganize arrythmias.
+“We still did not have a clear understanding of how defibrillation worked,” said Fenton. “This research explains the minimum energy required to actually terminate an arrhythmia and I believe it clarifies the mechanism for defibrillation.”
+The Symmetrical Solution
+The researchers determined that because spiral waves develop in pairs, they must also be terminated in pairs. Every spiral wave is connected to another spiral going in the opposite direction. Bringing the spiral waves together through an electric shock instantly eliminates both waves.
+The researchers used a mathematical method to identify the key regions for electrical shock stimulation to target spiral waves. They determined that a stimulus delivered to the tissue areas a spiral wave just left and were able sustain a new wave could defibrillate the heart.
+In the process of terminating the spiral waves, the researchers were actually moving them, as well, through a concept they named “teleportation.”
+“We call it teleportation because it’s very similar to what you see in science fiction where something is moved instantaneously from one place to another,” Fenton said.
+Spiral waves can be teleported anywhere in the heart using this approach. In particular, spiral waves can be moved so that they collide with their partners, which extinguishes them. Fenton explained that for successful defibrillation to occur, all pairs of spiral waves must be eliminated in this manner.
+The researchers plan to further test this concept using two-dimensional cultures of heart cells.
+“The next step is to is to prove experimentally that what we did numerically is possible,” Fenton said.
+Eventually, Fenton added, they want to develop methods that could be used clinically, and are partnering with cardiologists at Emory University on this work.
+doi:  https://doi.org/10.1073/pnas.2117568119
+Contact
+Tess Malone, Research Writer/Editor
+Email
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,45 @@
+ultrafast compression offers new way to get macromolecules into cells 
+ researchers have found a new way to get drugs and genes through cell membranes. 
+ researchers have developed a potentially new way to introduce macromolecules and therapeutic genes into human cells. shown is national science foundation graduate research fellow anna liu. (credit: rob felt, georgia tech) 
+ apr 30, 2018 
+ — atlanta, ga 
+ by treating living cells like tiny absorbent sponges, researchers have developed a potentially new way to introduce molecules and therapeutic genes into human cells. 
+ the technique first compresses cells in a microfluidic device by rapidly flowing them through a series of tiny “speed bumps” built into the micro-channels, which compresses out small amounts of fluid – known as cytosol – from inside the cells. the cells then naturally recover and refill themselves, sucking up surrounding fluid and pulling in macromolecules or genes mixed into it. though the abrupt collisions can reduce cell volume by as much as 30 percent, the cells rapidly rebound and less than five percent of cells experience viability loss. 
+ the new technique is known as cell volume exchange for convective transfer, or cell vect. it is believed to be the first compression process to prompt highly transient cell volume exchange by utilizing the ability of cells to lose and rapidly recover their cytosol. the research, which was supported by the national science foundation, national institutes of health and wallace h. coulter foundation, was reported online april 17 by the journal 
+ materials today . 
+ “we are taking advantage of an intrinsic mechanical property of cells,” said anna liu, a ph.d. candidate in the laboratory of associate professor 
+ todd sulchek 
+ in georgia tech’s 
+ woodruff school of mechanical engineering . “when cells are compressed suddenly over a period of microseconds, they lose some of their volume. the cells are exchanging volume with the fluid around them, and that’s what allows them to convectively take up macromolecules from their environment.” 
+ the technique could be useful for cell transfection, in which a target gene is introduced into human cells to cause behavior that the cells wouldn’t ordinarily exhibit, such as expression of a protein. there are a number of existing techniques for introducing genetic material into living cells, including the use of specially-designed viruses, but existing techniques have significant disadvantages. 
+ a broad range of therapeutic and diagnostic applications could benefit from introduction of large molecules, which could also be used as markers for quality control purposes in cell manufacturing. “there are a lot of reasons to want to deliver molecules to the interior of cells, but there are not a lot of good ways to do it,” said liu, who is a national science foundation graduate research fellow. 
+ the researchers discovered the compression and volume change phenomena while developing techniques for sorting cells according to their mechanical properties. in their microfluidic devices, compression forced softer cells to move in one direction, while stiffer cells took a different path. though the research focused on cancer detection, it also produced a new understanding of what happens to cells when they are compressed rapidly. 
+ “our technique doesn’t depend at all on the properties of macromolecules to do the work,” liu explained. “the activity is all caused by the convective influx of fluid volume back into the cells. the molecules in the fluid are just along for the ride, which allows us to transfer molecules without regard to their size or properties.” 
+ speed of compression is critical. if cells undergo compression over longer periods of time, they can deform gradually and maintain their volume. the entire cell vect compression and relaxation process takes milliseconds, causing the cells to deform suddenly without conserving volume. yet the process has little to no effect on cell viability. “we have done a variety of tests to see if cell viability, function and gene expression are altered, and we haven’t seen any significant differences,” liu said. 
+ the researchers have studied a wide range of human cell types, from prostate cancer to leukemia cells, and even primary t cells. they began with delivering a polysaccharide, dextran, and followed up with proteins, rna and plasmids. to explore the limits of the technique, they used cell vect to move 100-nanometer particles into cells. 
+ beyond transferring therapeutic and diagnostic macromolecules that are now difficult to introduce into cells, the technique could allow larger macromolecules to be delivered to cells, opening new possibilities for cell engineering and therapies. 
+ “cell vect means we are no longer limited by the size of the cargo that a virus can carry,” said 
+ alexander alexeev , an associate professor in the woodruff school of mechanical engineering and a collaborator on the research. “this may open a new way for researchers to engineer living cells using more complex molecules. cargo size would no longer be a critical issue.” 
+ by introducing labeling molecules into cells, the cell vect technique could also provide a reliable and reproducible quality control technique for manufacturing processes that generate therapeutic cells, sulchek noted. 
+ in future work, the researchers plan to develop a better understanding of how the technique works, study the parameters of the process – and observe cells over long periods of time to make sure there are no ill effects. 
+ “there is still a basic science understanding that we need to develop,” sulchek said. “we’d like to characterize what leaves the cells, and under what conditions they leave. we want to know how fast things return, what are the limitations of that return, and where they go in the cell when they do return.” 
+ in addition to those already mentioned, the research included muhymin islam, nicholas stone, vikram varadarajan, jenny jeong, samuel bowie and peng qiu of georgia tech and edmund k. waller of emory university. 
+ this work was supported by the nsf stem cell biomanufacturing igert, the wallace h. coulter translational partnership research award, the achievement rewards for college scientists (arcs) scholars award, nih award 1r21ca191243-01a1, and the nsf graduate research fellowship under grant no. dge-1650044. 
+ citation : anna liu, et al., “microfluidic generation of transient cell volume exchange for convectively driven intracellular delivery of large macromolecules,” (materials today, 2018). 
+ https: / / doi.org / 10.1016 / j.mattod.2018.03.002 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

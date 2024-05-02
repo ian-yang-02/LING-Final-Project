@@ -1,0 +1,22 @@
+Sensor Fabric, Big Data Could Help End Pressure Injuries for Wheelchair Users
+MSE researchers are using a Catalyst Award from the National Academy of Medicine to develop a pressure-relieving sensor system that could also be used in hospital beds.
+Sundaresan Jayaraman (left) looks at pressure data from fabric sensors he developed with Sungmee Park, who is seated in their prototype wheelchair system. (Photo: Candler Hobbs)
+Nov 29, 2023
+At least half of veterans with spinal cord injuries will develop sores on their skin from the unrelieved pressure of sitting for long periods of time in a wheelchair. It’s a constant worry, because these skin ulcers can greatly limit patients’ mobility.
+“Pressure injuries directly impact the veteran’s quality of life, because the medical provider will order the veteran to bed rest for weeks and potentially months,” said Kim House, a physician and medical director of the Spinal Cord Injury Clinic at the Atlanta Veterans Administration Healthcare System. “At every clinic visit, I provide education for pressure injury prevention.”
+House could one day have a new tool to offer her patients, thanks to researchers in the Georgia Tech College of Engineering, and wheelchair-bound veterans are just the beginning.
+Materials engineers are developing new fabric sensors and a customized wheelchair system that assesses and automatically eases pressure at contact points to prevent injuries from developing in the first place.
+“We have three key issues happening: First, continuous pressure. Second, moisture, because when you're sitting in the same spot, you tend to sweat and generate moisture. And third is shear. When you try to move somebody, the skin shears. That perfect combination is what causes pressure injuries,” said
+Sundaresan Jayaraman , professor in the
+School of Materials Science and Engineering
+(MSE). “We believe we have a solution to the perfect storm of pressure, moisture and shear, which means the user’s quality of life is going to get better.”
+Get the full story on the College of Engineering website.
+Additional Images
+Contact
+Joshua Stewart
+College of Engineering
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

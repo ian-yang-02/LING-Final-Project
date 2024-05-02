@@ -1,0 +1,47 @@
+Hydrogel Could Open New Path for Glaucoma Treatment Without Drugs or Surgery
+Researchers have developed a potential new treatment for the eye disease glaucoma that could replace daily eye drops and surgery.
+Researchers have developed a potential new treatment for the eye disease glaucoma that could replace daily eye drops and surgery with a twice-a-year injection to control the buildup of pressure in the eye. (Credit: Rob Felt, Georgia Tech)
+Dec 07, 2020
+— Atlanta, GA
+Researchers have developed a potential new treatment for the eye disease glaucoma that could replace daily eyedrops and surgery with a twice-a-year injection to control the buildup of pressure in the eye. The researchers envision the injection being done as an office procedure that could be part of regular patient visits.
+The possible treatment, which could become the first non-drug, non-surgical, long-acting therapy for glaucoma, uses the injection of a natural and biodegradable material to create a viscous hydrogel — a water-absorbing crosslinked polymer structure — that opens an alternate pathway for excess fluid to leave the eye.
+“The holy grail for glaucoma is an efficient way to lower the pressure that doesn’t rely on the patient putting drops in their eyes every day, doesn’t require a complicated surgery, has minimal side effects, and has a good safety profile,” said
+Ross Ethier , professor and Georgia Research Alliance Lawrence L. Gellerstedt Jr. Eminent Scholar in Bioengineering in the
+Wallace H. Coulter Department of Biomedical Engineering
+at Georgia Tech and Emory University. “I am excited about this technique, which could be a game-changer for the treatment of glaucoma.”
+The research, which was supported by the National Eye Institute and the
+Georgia Research Alliance , was published Dec. 7 in the journal
+Advanced Science . The research was conducted in animals, and shows that the approach significantly lowered the intraocular pressure.
+As many as 75 million people worldwide have glaucoma, which is the leading cause of irreversible blindness. Glaucoma damage is caused by excess pressure in the eye that injures the optic nerve. Current treatments attempt to reduce this intraocular pressure through the daily application of eyedrops, or through surgery or implantation of medical devices, but these treatments are often unsuccessful.
+To provide an alternative, Ethier teamed up with
+Mark Prausnitz , professor and J. Erskine Love Jr. Chair in the
+School of Chemical and Biomolecular Engineering
+at Georgia Tech, to use a tiny hollow needle to inject a polymer preparation into a structure just below the surface of the eye called the suprachoroidal space (SCS). Inside the eye, the material chemically crosslinks to form the hydrogel, which holds open a channel in the SCS that allows aqueous humor from within the eye to drain out of the eye through the alternative pathway.
+There are normally two pathways for the aqueous humor fluid to leave the eye. The dominant path is through a structure known as the trabecular meshwork, which is located at the front of the eye. The lesser pathway is through the SCS, which normally has only a very small gap. In glaucoma, the dominant pathway is blocked, so to lessen pressure, treatments are created to open the lesser pathway enough to let the aqueous humor flow out.
+In this research, the hydrogel props open the SCS path. A hollow microneedle less than a millimeter long is used to inject a droplet (about 50 microliters) of the hydrogel-precursor material. That gel structure can keep the SCS pathway open for a period of months.
+“We inject a viscous material and keep it at the site of the injection at the interface between the back of the eye and the front of the eye where the suprachoroidal space begins,” Prausnitz said. “By opening up that space, we tap a pathway that would not otherwise be utilized efficiently to remove liquid from the eye.”
+The injection would take just a few minutes, and would involve a doctor making a small injection just below the surface of the eye in combination with numbing and cleaning the injection site. In the study, the researchers, including veterinary ophthalmologist and first author J. Jeremy Chae, did not observe significant inflammation resulting from the procedure.
+The pressure reduction was sustained for four months. The researchers are now working to extend that time by modifying the polymer material — hyaluronic acid — with a goal of providing treatment benefits for at least six months. That would coincide with the office visit schedule of many patients.
+“If we can get to a twice-a-year treatment, we would not disrupt the current clinical process,” Prausnitz said. “We believe the injection could be done as an office procedure during routine exams that the patients are already getting. Patients may not need to do anything to treat their glaucoma until their next office visit.”
+Beyond extending the time between treatments, the researchers will need to demonstrate that the injection can be repeated without harming the eye. The procedure will also have to be tested in other animals before moving into human trials.
+“The idea of having a ‘one-and-done’ treatment that lasts for six months would be particularly helpful for those whose access to healthcare is non-optimal,” Ethier said. “Having a long-acting therapy would have an additional advantage during times of pandemic or other disruption when access to healthcare is more difficult.”
+This research was supported by a grant from the National Eye Institute (R01 EY025286) and by the Georgia Research Alliance. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding agencies.
+Mark Prausnitz serves as a consultant to companies, is a founding shareholder of companies, and is an inventor on patents licensed to companies developing microneedle-based products (Clearside Biomedical). These potential conflicts of interest have been disclosed and are being managed by Georgia Tech. J. Jeremy Chae, Jae Hwan Jung, Ethier, and Prausnitz are listed as co-inventors on an IP filing related to this study.
+CITATION : J. Jeremy Chae, et al., “Drug-free, Non-surgical Reduction of Intraocular Pressure for Four Months After Suprachoroidal Injection of Hyaluronic Acid Hydrogel.” ( Advanced Science , 2020)
+https://doi.org/10.1002/advs.202001908
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

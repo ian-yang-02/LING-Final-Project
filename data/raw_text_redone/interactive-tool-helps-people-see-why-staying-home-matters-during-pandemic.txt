@@ -1,0 +1,32 @@
+interactive tool helps people see why staying home matters during a pandemic 
+ a new interactive modeling tool can help people understand why social distancing is so important. 
+ an artificial intelligence application known as vera can be used to model the impact of social distancing on the expected transmission of the coronavirus. 
+ apr 21, 2020 
+ — atlanta, ga 
+ social distancing has become one of the most impactful strategies in the battle to contain the spread of covid-19, and a new interactive modeling tool can help people understand why it is so important to “flatten the curve.” known as vera, the artificial intelligence (ai) application was developed by researchers at the georgia institute of technology to raise awareness about why it matters that individuals distance themselves during an infectious disease outbreak. 
+ led by college of computing faculty members ashok goel and spencer rugaber, and design & intelligence laboratory graduate researchers william broniec and sungeun an, the vera epidemiology project uses ai techniques to empower users to build their own visual models that simulate the impact of social distancing. the project evolved from earlier national science foundation-supported research on a virtual ecological research assistant that enables researchers to explore “what if” experiments about complex ecological phenomena. 
+ the beauty of vera is that users do not need a background in complex mathematical equations or computer programming to explore it. a high school student interested in finding out what it looks like to “flatten the curve” can log in to vera and investigate. a parent handling middle school science lessons from home can log in to vera and demonstrate the reason that it is important that they do lessons from home during the covid-19 outbreak. 
+ for example, a user can input 16 people as the “average contacts per day per person” and see a simulation of the possible outcomes. then, the user can lower the number of “average contacts per day per person” to 12, a reduction in social contact but not a substantial one. upon running the simulation again, users see a marked difference in “peak cases” of 7,000 rather than 8,000, and healthcare capacity being exceeded after 20 days, rather than the original 15. users can continue to adjust these numbers to see the impact of social distancing transform possible health outcomes before their eyes. 
+ “think of vera as a virtual laboratory that anyone can use,” said ashok goel, a professor in the school of interactive computing and the chief scientist for georgia tech’s center for 21st century universities. “the user can jump into our program and conduct ‘what if’ experiments by adjusting simulation parameters. we see education as an essential component of ‘flattening the curve’ and this is our way of providing an accessible and informal learning tool that can educate citizens about social distancing data.” 
+ a key component of georgia tech’s strategic vision for the future of education is an “inclusive and impactful education that serves the public good.” tools like vera provide inclusive resources that help the global community gain a greater understanding of the real-world impact of our actions during a crisis like covid-19. 
+ are you interested in trying vera? anyone can create an account through 
+ epi.vera.cc.gatech.edu 
+ the vera project website also includes a brief user guide as well as a step-by-step tutorial about vera. they are available at 
+ http: / / epi.vera.cc.gatech.edu / docs / exercise 
+ you can also read the new white paper about this work, “using vera to explain the impact of social distancing on the spread of covid-19,” on the vera website. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : brittany aiello 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

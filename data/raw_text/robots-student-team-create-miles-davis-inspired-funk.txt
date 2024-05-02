@@ -1,0 +1,18 @@
+Robots, student team up to create Miles Davis-inspired funk
+A student and team of robots collaborate on an original, Miles Davis-inspired composition.
+Ph.D. candidate Mason Bretan and team of robots collaborate on an original, Miles Davis-inspired composition.
+Jan 16, 2015
+— Atlanta, GA
+A Georgia Tech student has surrounded himself with a team of dancing robots and an improvising, marimba-playing bot to collaborate on an original, Miles Davis-inspired composition. Mason Bretan, a Ph.D. candidate in music technology, plays the drums, guitar and keyboard. A robot named Shimon listens to the sounds, then generates music on a marimba using its computational knowledge of jazz theory and improvisation. At the same time, a trio of Shimi robots autonomously generates dance choreographies based on a joint analysis of the music and a self-awareness of their physical constraints and abilities. The Shimis also play their own complementing music, based on a combination of Bretan's original compositions and improvisational algorithms.
+The six-minute, high-energy funk piece
+is called “What You Say” and is based on Davis’ “What I Say.” It’s the latest project from the lab of Gil Weinberg, Bretan’s advisor and director of Georgia Tech’s Center for Music Technology. Bretan created the composition after listening to Davis’ 1971 Live Evil album. “The brilliance of the musicians on that album is an inspiration to me and my own musical and instrumental aspirations,” said Bretan. “They also set the standard for the level of musicianship that I hope machines will one day achieve. And through the power of artificial intelligence, signal processing and engineering, I firmly believe it is possible for machines to be artistic, creative and inspirational.” The project was created during a span of several months at Georgia Tech. The Shimi robots analyze the music offline and generate a sequence of movements and musical phrases that can then be performed live. Shimon, is given the chord progression prior to the performance, then figures out how to improvise with Bretan. The student will spend the next few months fine-tuning the process to allow real-time analysis and composing.
+Additional Images
+Related links
+Additional Information
+Contact
+Jason Maderer National Media Relations maderer@gatech.edu 404-385-2966
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,21 @@
+Robotic Process Automation to Drive Efficiencies in Paying Invoices
+This week, Procurement and Business Services will begin deploying a bot to help reduce the number of supplier invoices that go unpaid due to missing receipts.
+Feb 07, 2023
+— Atlanta, GA
+Since the start of 2022, several offices in Finance and Planning, including Grants and Contracts Accounting and Procurement and Business Services, have been exploring the possibilities of deploying robotic process automation (RPA) technology, commonly called bots, to help drive efficiencies in processing routine transactions like the receiving of goods and services.
+This week, Procurement and Business Services will begin deploying a bot to help reduce the number of supplier invoices that go unpaid due to missing receipts. The Procurement Receipt Bot will create receipts for these invoices and route the receipt to the Requisition Requester for approval. Since any employee can initiate a requisition, the Procurement Receipt Bot has the potential to reduce the administrative burden for anyone involved in making purchases.
+“We are excited about the potential of technology, like RPA, to automate manual and repetitive processes in our day-to-day business activities,” said Ajay Patel, executive director of Procurement and Business Services. “The Procurement Receipt Bot will enable us to process and pay Georgia Tech’s invoices in a timelier manner while reducing the administrative burden on employees — it creates a win-win outcome.”
+It is important to note that the Procurement Receipt Bot is not intended to replace the existing receipt process. It will only assist with creating receipts to pay invoices that have missing receipts, which accounts for approximately 300 to 400 invoices in the daily queue. As a reminder, it is best practice for users to create receipts as items are delivered to Georgia Tech as opposed to waiting for the invoice.
+Once operational, the Procurement Receipt Bot will run daily and initiate receipts for purchase orders where an invoice has been submitted and a receipt has not been created. Requisition Requesters will receive Workday inbox notifications alerting them to approve the automated receipts. Once approved, the invoice will be routed for payment.
+Resources:
+A
+guide for Requisition Requesters
+to use when reviewing and approving these receipts.
+If you have additional questions on how to enter a receipt, please review the ServiceNow article
+Creating a Receipt in Workday .
+Questions and comments can be submitted via
+ServiceNow .
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

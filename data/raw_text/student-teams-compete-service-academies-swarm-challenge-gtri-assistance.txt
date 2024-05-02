@@ -1,0 +1,66 @@
+Student Teams Compete in Service Academies Swarm Challenge – with GTRI Assistance
+The Georgia Tech Research Institute supported the DARPA Service Academies Swarm Challenge.
+Warren Lee, branch head for GTRI’s Unmanned Flight Operations, connects electronics in a Zephyr fixed-wing aircraft of the type used in the competition. (Credit: John Toon, Georgia Tech)
+Nov 06, 2017
+— Atlanta, GA
+What does the future of air-to-air combat sound like? At this point, it could sound very much like a swarm of angry bees.
+That's how researcher Michael Day described the recent DARPA Service Academies Swarm Challenge, which pitted mixed groups of up to 25 highly autonomous unmanned aerial vehicles (UAVs) on a side against one another in a next-generation version of the traditional "capture the flag" game. The friendly live-fly competition involved student teams from the U.S. Air Force Academy, the U.S. Military Academy, and the U.S. Naval Academy, with each team developing and testing their own innovative offensive and defensive tactics to conduct mock swarm-on-swarm battles.
+Day, a research scientist at the
+Georgia Tech Research Institute
+(GTRI), co-led the support efforts required to stage the competition, working with the teams to help them operate the swarms, which included fixed-wing, propeller-driven Marcus UAV Zephyr aircraft and DJI Flame Wheel quadcopters. GTRI coached the teams and shared its simulation software to help the competitors develop tactics for both protecting their own space and invading another team’s base. Warren Lee, branch head for GTRI’s Unmanned Flight Operations, co-led the project with Day.
+The competition was sponsored by the
+Defense Advanced Research Projects Agency
+(DARPA), which has a history of fostering competition to help advance cutting-edge technology. In addition to GTRI, the event was supported by the Naval Postgraduate School (NPS) and the Space and Naval Warfare Systems Command (SPAWAR). It was held in April 2017 at Camp Roberts, a California Army National Guard facility.
+The vehicles were adapted from foam-wing radio-control hobbyist aircraft and rotorcraft designed to carry cameras. But these aerial vehicles were modified with computers that contained sophisticated autopilots, as well as separate computers that helped them coordinate with swarm teammates, locate opponents, and conduct offensive and defensive maneuvers — including aerial dogfights.
+But the tactics weren’t the only thing tested at the competition.
+“A big challenge for us was logistical,” said Day. “Getting this many aircraft ready to fly and launched safely in the brief window of time we had required a lot of preparation.”
+The competition was built on lessons learned from an earlier event that pitted GTRI researchers against colleagues from the Naval Postgraduate School. That competition involved swarms composed of ten highly autonomous unmanned aircraft — all of them the same type — on each team.
+Building the Aircraft
+Starting in August 2016, GTRI researchers began building and testing the aircraft slated for use in the competition. They built them in batches, assembling the basic vehicles, installing the electronics and then testing them. Each of the fixed-wing aircraft had an autopilot, flight computer, two radios, a GPS receiver, and avionics to operate the flight controls.
+GTRI has years of experience incorporating autonomy into unmanned air vehicles, having conducted swarm research projects for agencies that include DARPA and the Office of Naval Research.
+“Our operators and integrators are experienced, and we’ve gone through the highs and lows in terms of successes and failures,” said Lee. “We felt extra pressure in this program to make sure that each and every aircraft was ready to fly so the teams could fully trust them and focus their efforts on the competition.”
+In all, Lee’s group, which included senior research engineer Gary Gray and research engineer Evan Hammac, built 144 aircraft, a mix of the foam-wing and quadcopter models. They were delivered to the service academies in time for students to become familiar with the aircraft operation. Members of GTRI’s UAV team visited each of the academies twice to work with the cadets and midshipmen.
+“It was exciting and very rewarding to be able to work with the students on this project,” said Day. “They have a lot of demands on their time from their studies, so it was really hands-on and ambitious.”
+In addition to building and testing the aircraft and working with the students, GTRI also built seven NPS-designed launchers for the Zephyrs, which have a 54-inch wingspan. The launchers get the aircraft up to flight speed, accelerating the launch process — which was part of the overall competition.
+“To get them all into the air, you can’t spend more than about 30 seconds with each aircraft,” noted Day, who was part of the GTRI group that supported the competition on the ground at Camp Roberts.
+“When you have 30 aircraft in the sky, it’s very different from when you only have five or 10,” he said. “There’s a higher level of stress because there are a lot more tasks to manage. We had a lot of lessons from our flight operations that we were able to share with the students.”
+Earlier, Lee’s team built 65 Skywalker aircraft for the Low-Cost UAV Swarming Technology (LOCUST) program supported by the Office of Naval Research (ONR).
+Flying in Simulation
+In developing swarm tactics, GTRI relies heavily on simulation to prepare for actual flight tests. Computer time to run simulations is much less expensive than flying time, and allows for hundreds or thousands of test runs in the time that would be required for a single flight test.
+“We can do testing in our laboratory using a variety of simulation tools and have the ability to run thousands of different scenarios, look at the results of different types of engagements, and then use machine learning techniques to hone in on new swarm-versus-swarm tactics,” said Don Davis, division chief of GTRI’s Robotics and Autonomous Systems Division. “In many cases, the simulation leads us to ideas we wouldn’t have thought of if we had been bound by human experience in this area.”
+Among the tools used by the service academy teams was SCRIMMAGE (Simulating Collaborative Robots in a Massive Multi-Agent Game Environment), developed by GTRI researchers led by senior research engineer Kevin DeMarco. SCRIMMAGE allows the interactions of tens, hundreds, or even thousands of air vehicles to be studied simultaneously. The system’s interface was designed to be familiar to anyone who has played video games.
+“We can run the simulations faster than real time, so we can apply modern techniques that require much more data,” said DeMarco. “We developed SCRIMMAGE to allow users to see exactly how a new algorithm is affecting an aircraft’s flight maneuvers. We can run it on high-performance computing clusters to conduct millions of simulations and then have our machine-learning algorithms process that data to improve the algorithms.”
+The simulator doesn’t run on the real aircraft, but does use the aircraft control software as part of its testing.
+One of the combat tactics developed on SCRIMMAGE and used by the Service Academies Swarm Challenge aircraft is called “Greedy Shooter.” Each UAV equipped with the software can locate the nearest enemy and go after it. The algorithm doesn’t rely on collaboration among air vehicles, so multiple aircraft might attack the same enemy.
+“In SCRIMMAGE, we have shown that you get a 50 percent success rate with this,” said DeMarco.
+But another algorithm developed by senior research scientist Charles Pippin allows the air vehicles to allocate tasks, much as a human team may divide up the work that needs to be done on a project. “The vehicles can negotiate among themselves and decide who will be assigned to each target. There is no specific leader, but in a decentralized way, the aircraft make those decisions,” DeMarco explained.
+In the Swarm Challenge, each of the vehicles had information about all of the other vehicles, but in real combat situations, that wouldn’t be the case. SCRIMMAGE is helping GTRI researchers determine how much information is needed to gain improvements from the task allocation model.
+GTRI researchers are also comparing the swarm strategies against a legacy system — the old-fashioned “wingman” approach in which two aircraft work as a team. That simple approach has advantages over more complicated algorithms even when computers are tracking all the air vehicles.
+“Lots of agents running simple algorithms can make swarms look more intelligent than they actually are,” DeMarco said. “Our hypothesis is that by being able to solve the two-versus-two challenge, we may be able to extend what we learn to a swarm.”
+The Competition and Outcome
+At the three-day competition, service academy teams faced off against each other inside a “Battle Cube,” a three-dimensional airspace 500 meters on a side and 78 meters above the ground. Each team was given 20 fixed-wing UAVs and 20 quadcopters and, under the Challenge rules, could select a mix of 25 vehicles (with five in reserve, for a total of 30) for each of two 30-minute battle rounds.
+Each team had to defend its flag — a large, inflatable ground target — while trying to score the most points. Points could be awarded in three ways: physically landing a UAV on the opponent’s flag, simulated firing on an opponent’s UAV, and launching as many aircraft as possible.
+The U.S. Naval Academy was declared the winner of the competition. (Full information about the event is available at
+www.darpa.mil/news-events/2017-05-11 ).
+In addition to helping advance swarm tactics, the competition also helped the next generation of Air Force, Army, and Navy leaders get a head start on future swarm technology.
+“This competition wasn’t as much about who won and who lost as it was about offering hands-on insights about this quickly evolving and increasingly important technology,” said Davis. “GTRI is pleased to help train and equip the next generation of warfighters. Together, we showed that it is possible to get swarms of vehicles in the air and into mock combat against each other.”
+Among the lessons learned was the importance of rapidly launching the aircraft. Davis said the team able to get into the air first had an advantage over others. The competition also stretched the wireless networks used to communicate among the aircraft, and that will need improvement in the future.
+“The biggest surprise to me was how well everything worked and how well the swarms operated,” Davis said. “This is another step in developing the knowledge and experience required to use UAV swarms in the field. There’s a lot more that needs to be done, but we’re making progress.”
+In the future, highly autonomous vehicles could ultimately find uses throughout the military.
+“UAVs will be extending the capabilities of the warfighter,” Davis said. “I don’t think we should expect swarms of UAVs to primarily just replace people. I think it’s appropriate to think of UAVs as tools that warfighters can use to address a threat.”
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

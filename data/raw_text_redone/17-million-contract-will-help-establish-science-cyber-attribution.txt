@@ -1,0 +1,41 @@
+$17 million contract will help establish science of cyber attribution 
+ georgia tech has been awarded $17.3 million to help establish new science of attribution. 
+ georgia tech has been awarded $17.3 million to help establish new science around the ability to quickly, objectively and positively identify the virtual actors responsible for cyberattacks. 
+ nov 29, 2016 
+ — atlanta 
+ the georgia institute of technology has been awarded a $17.3 million cyber security research contract to help establish new science around the ability to quickly, objectively and positively identify the virtual actors responsible for cyberattacks, a technique known as "attribution." 
+ while the tools and techniques to be developed during the four-and-a-half year effort won't point directly to the individuals responsible, the initiative will provide proof of involvement by specific groups, identifiable by their methods of attack, consistent errors and other unique characteristics. such attribution could support potential sanctions and policy decisions – and discourage attacks by providing transparency for activities that are normally hidden. 
+ the research, sponsored by the u.s. department of defense, will be led by researchers at the georgia institute of technology, in collaboration with other academic institutions and companies. the project is expected to create an attribution framework dubbed rhamnousia – in greek mythology, the goddess of rhamnous and the spirit of divine retribution. 
+ "we should know who our friends are and who our enemies are in the cyber domain,” said manos antonakakis, an assistant professor in georgia tech's school of electrical and computer engineering and the project's principal investigator. "we owe it to the people of this country to objectively reason about the actors attacking systems, stealing intellectual property and tampering with our data. we want to take away the potential deniability that these attack groups now have." 
+ attributing attacks to specific groups or individuals could be partially achieved today, but it is largely a manual process that requires highly skilled investigators and weeks or months to complete. rhamnousia will accelerate that process and provide both scientific reasoning and hard evidence about the guilty parties. 
+ "we have a limited number of people working in cybersecurity and attacks occur every day, so we need to be able to optimize the forensic analysis that would lead to attribution," antonakakis said. "in this project, we will use machine learning and algorithms to scale up the attribution process to help companies and the government protect against those bad actors. we will provide a systematic and scientific way to deal with the attacks." 
+ michael farrell, chief scientist of the cyber technology and information security laboratory at the georgia tech research institute (gtri), is familiar with the issues the u.s. government faces due to an inability to identify those who are attacking u.s. interests in cyberspace. “deterrence is virtually impossible if you’re unable to identify the adversary,” he noted. “attribution is the linchpin for deterrence in cyberspace, and the u.s. government is in need of a repeatable and releasable way forward.” 
+ farrell also serves as the associate director of the institute for information security & privacy (iisp), and coordinates georgia tech’s broad interests in attribution across campus. “there is a policy and strategy component to attribution that is deeply intertwined with the technical solution,” he added. “georgia tech is well positioned to engage the broad spectrum of constituents who have an important role to play in this space: industry, academia, government, technology, policy, practitioners and decision-makers.” 
+ the new research effort will use data science and engineering techniques to sift through existing and new data sets to find relevant information. 
+ “using a variety of data sets and analytical techniques, we can distill the information that will be useful to identifying the virtual cyber actors," antonakakis said. “these bad actors have to use the network and computer systems, and they have to interact with sources. they are leaving crumbs behind, and we can leverage those.” 
+ rapid identification is important to companies and government organizations because the motives of the intruders suggest the kind of information they are seeking, the damage they can do and what the victims may use to stop the attack and minimize impacts. 
+ “for a business, it's very important to know whether you are being targeted by a commodity-type threat, a run-of-the-mill threat, or if you are being targeted by a specific group that may have ties to a government or to a competitor," antonakakis said. "the type of threat would affect business decisions." 
+ ultimately, the researchers hope to combine intrusion detection with attribution, allowing a quicker response – and helping victims cut off attackers more quickly. 
+ from a technology standpoint, the project’s goals include development of three specific areas: 
+ efficient algorithmic attribution methods able to convert the research team’s experience with manual attack attribution to novel, tensor-based learning methods. the algorithms will allow expansion of existing efforts to create a science of attribution and traceback; 
+ actionable attribution, in which the application of the algorithms will produce attribution reports to be shared with the attribution community; 
+ historic public attack datasets brought together into a single distributed environment. 
+ at georgia tech, the project will tap the expertise of researchers from the school of electrical and computer engineering, college of computing and gtri. in addition to antonakakis, the research team will include dave dagon, doug blough and raheem beyah from the school of electrical and computer engineering and mustaque ahamad from the college of computing. 
+ georgia tech researchers have been involved in attribution research in support of cybersecurity efforts for many years. researchers helped organize the mariposa working group that helped identify the organizers of the mariposa botnet. 
+ “historically, attribution has been done primarily for law enforcement so they could put people behind bars and use that as a deterrent for others who might engage in these activities,” said antonakakis. “we want to make sure that the people doing these attacks know that there is a very good chance that they will get caught and publicly attributed.” 
+ the institute for information security & privacy (iisp) at georgia tech connects government, industry, and academia to solve the grand challenges of cybersecurity. as a coordinating body for nine information security labs dedicated to academic and solution-oriented applied research, the iisp leverages intellectual capital from across georgia tech and its external partners to address vital solutions for national security, economic continuity and individual safety. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

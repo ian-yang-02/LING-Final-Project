@@ -1,0 +1,46 @@
+Shape-Shifting Robot Built from “Smarticles” Shows New Locomotion Strategy
+Researchers have built a robot entirely from smaller robots known as "smarticles."
+Close-up of a smarticle – smart active particle – showing the two 3D-printed arms, light sensor, and motor. (Georgia Tech Photo: Rob Felt)
+Sep 18, 2019
+— Atlanta, GA
+Building conventional robots typically requires carefully combining components like motors, batteries, actuators, body segments, legs and wheels. Now, researchers have taken a new approach, building a robot entirely from smaller robots known as “smarticles” to unlock the principles of a potentially new locomotion technique.
+The 3D-printed smarticles — short for smart active particles — can do just one thing: flap their two arms. But when five of these smarticles are confined in a circle, they begin to nudge one another, forming a robophysical system known as a “supersmarticle” that can move by itself. Adding a light or sound sensor allows the supersmarticle to move in response to the stimulus — and even be controlled well enough to navigate a maze.
+Though rudimentary now, the notion of making robots from smaller robots — and taking advantage of the group capabilities that arise by combining individuals — could provide mechanically based control over very small robots. Ultimately, the emergent behavior of the group could provide a new locomotion and control approach for small robots that could potentially change shapes.
+“These are very rudimentary robots whose behavior is dominated by mechanics and the laws of physics,” said
+Dan Goldman , a Dunn Family Professor in the
+School of Physics
+at the Georgia Institute of Technology. “We are not looking to put sophisticated control, sensing, and computation on them all. As robots become smaller and smaller, we’ll have to use mechanics and physics principles to control them because they won’t have the level of computation and sensing we would need for conventional control.”
+The research, which was supported by the Army Research Office and the National Science Foundation, was reported September 18 in the journal
+Science Robotics . Researchers from Northwestern University also contributed to the project.
+The foundation for the research came from an unlikely source: a study of construction staples. By pouring these heavy-duty staples into a container with removable sides, former Ph.D. student Nick Gravish — now a faculty member at the University of California San Diego — created structures that would stand by themselves after the container’s walls were removed.
+Shaking the staple towers eventually caused them to collapse, but the observations led to a realization that simple entangling of mechanical objects could create structures with capabilities well beyond those of the individual components.
+“A robot made of other rudimentary robots became the vision,” Goldman said. “You could imagine making a robot in which you would tweak its geometric parameters a bit and what emerges is qualitatively new behaviors.”
+To explore the concept, graduate research assistant Will Savoie used a 3D printer to create battery-powered smarticles, which have motors, simple sensors, and limited computing power. The devices can change their location only when they interact with other devices while enclosed by a ring.
+“Even though no individual robot could move on its own, the cloud composed of multiple robots could move as it pushed itself apart and shrink as it pulled itself together,” Goldman explained. “If you put a ring around the cloud of little robots, they start kicking each other around, and the larger ring — what we call a supersmarticle — moves around randomly.”
+The researchers noticed that if one small robot stopped moving, perhaps because its battery died, the group of smarticles would begin moving in the direction of that stalled robot. Graduate student Ross Warkentin learned he could control the movement by adding photo sensors to the robots that halt the arm flapping when a strong beam of light hits one of them.
+“If you angle the flashlight just right, you can highlight the robot you want to be inactive, and that causes the ring to lurch toward or away from it, even though no robots are programmed to move toward the light,” Goldman said. “That allowed steering of the ensemble in a very rudimentary, stochastic way.”
+School of Physics Professor Kurt Wiesenfeld and graduate student Zack Jackson modeled the movement of the these smarticles and supersmarticles to understand how the nudges and mass of the ring affected overall movement. Researchers from Northwestern University studied how the interactions between the smarticles provided directional control.
+"For many robots, we have electrical current move motors that generate forces on parts that collectively move a robot reliably,” said
+Todd Murphey , a professor of mechanical engineering who worked with Northwestern graduate students Thomas Berrueta and Ana Pervan. “We learned that although individual smarticles interact with each other through a chaos of wiggling impacts that are each unpredictable, the whole robot composed of those smarticles moves predictably and in a way that we can exploit in software."
+In future work, Goldman envisions more complex interactions that utilize the simple sensing and movement capabilities of the smarticles. “People have been interested in making a certain kind of swarm robots that are composed of other robots,” he said. “These structures could be reconfigured on demand to meet specific needs by tweaking their geometry.”
+The project is of interest to the U.S. Army because it could lead to new robotic systems capable of changing their shapes, modalities and functions, said Sam Stanton. He is program manager of complex dynamics and systems at the Army Research Office, an element of U.S. Army Combat Capabilities Development Command’s Army Research Laboratory.
+“Future Army unmanned systems and networks of systems are imagined to be capable of transforming their shape, modality, and function. For example, a robotic swarm may someday be capable of moving to a river and then autonomously forming a structure to span the gap,” Stanton said. “Dan Goldman's research is identifying physical principles that may prove essential for engineering emergent behavior in future robot collectives as well as new understanding of fundamental tradeoffs in system performance, responsiveness, uncertainty, resiliency, and adaptivity.”
+In addition to those already mentioned, the research also included Georgia Tech graduate student Shengkai Li.
+This material is based upon work supported by the Army Research Office under award W911NF-13-1-0347 and by the National Science Foundation under grants PoLS-0957659, PHY-1205878, DMR-1551095, PHY-1205878. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring agencies.
+CITATION : William Savoie, et al., “A robot made of robots: emergent transport and control of a smarticle ensemble,” (Science Robotics 2019).
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Assistance : John Toon (404-894-6986) ( jtoon@gatech.edu ).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,65 @@
+Making the Oxygen We Breathe, a Photosynthesis Mechanism Exposed
+Life on Earth as we know it never would have existed without oxygen photosynthesis, and researchers have cracked a new part of its code.
+We can all breath because of oxygen photosynthesis. Here, a diagram of a key O2 catalyst, the metal cluster in photosystem II, one of two O2 photosynthesis mechanisms. On top of it, a tyrosine molecule flips back and forth chemically and physically to speed up electron transfer in the oxygen-producing part of photosynthesis. Credit: Georgia Tech / Ben Brumfield / Barry Lab
+Jun 11, 2018
+— Atlanta, GA
+Arguably, the greatest fueler of life on our planet is photosynthesis, but understanding its labyrinthine chemistry, powered by sunlight, is challenging. Researchers recently illuminated some new steps inside the molecular factory that makes the oxygen we breathe.
+Though chlorophyll is the best-known part, for the vivid green it colors nature, many compounds work together in photosynthesis. And Georgia Tech chemists devised clever experiments to inspect a small metal catalyst and an amino acid intimately involved in the release of O 2
+from water in what's known as photosystem II (PSII).
+PSII is a complex protein structure found in plants and algae. It has a counterpart called photosystem I, an equally complex light-powered producer of oxygen and biomaterials.
+Photosynthesis Q & A
+Some questions and answers below will help elucidate the researchers’ findings about O 2
+production inside PSII.
+“Photosynthesis in plants and algae can be compared to an artificial solar cell,” said principal investigator
+Bridgette Barry , who is a
+professor in Georgia Tech’s School of Chemistry and Biochemistry . “But, in photosynthesis, light energy fuels the production of food (carbohydrates) instead of charging a battery. O 2
+is released from water as a byproduct.”
+Barry, first author Zhanjun Guo, and researcher Jiayuan He
+published their research on May 11, 2018, in the journal
+Proceedings of the National Academy of Sciences . Their work was funded by the National Science Foundation.
+How does photosynthesis II release oxygen from water?
+Many details are still unknown, but here are some basic workings that were already well-established going into this new study.
+PS II is a biochemical complex made mostly of large amino acid corkscrew cylinders and some smaller such cylinders strung together with amino acid strands. The reaction cycle that extracts the O 2
+from H 2 O occurs at a tiny spot, which the study focused on.
+For scale, if PSII were a fairly tall, very wide building, the spot might be the size of a large door in about the lower center of the building, and the metal cluster would be located there. Intertwined in the proteins would be sprawling molecules that include beta-carotene and chlorophyll, a great natural photoelectric semiconductor.
+“Photons from sunlight bombard photosystem II and displace electrons in the chlorophyll,” Barry said. “That creates moving negative charges.”
+What is the metal catalyst?
+The metal catalyst acts like a
+capacitor , building up charge that it uses to expedite four chemical reactions that release the O 2
+by removing four electrons, one-by-one, from two water molecules. In the process, water also spins off four H+ ions, i.e. protons, from two H 2 O molecules.
+An additional highly reactive compound near the metal cluster acts as a "switch" to drive the electron movement in each step of the reaction cycle. It's a common amino acid called tyrosine, a little building block on that mammoth protein building.
+What does the ‘switch’ do?
+This is where the new study’s insights come in to describe details of what's going on between the tyrosine and the cluster.
+The light reactions remove one electron from tyrosine, making it what’s called an unstable
+radical , and the radical version of tyrosine strongly attracts a new electron.
+It very quickly gets that new electron from the metal cluster. As PSII absorbs photons, the taking of an electron from tyrosine and its radical’s grabbing of a new one from the cluster repeats rapidly, making the tyrosine a kind of flickering switch.
+“The tyrosine radical drives the cycle around, and what they (Guo and He) did in the lab was to develop a way of seeing the radical reaction in the presence of the metal cluster,” Barry said.
+Guo and He also found that the calcium atom in the cluster has key interactions with tyrosine.
+How did they observe that single chemical component in a living system?
+Figuring out how to make the reactions observable was painstaking. The researchers isolated some PSII from spinach, and they slowed it way down by cooling it in the dark.
+Then they gave it a burst of red light to prepare one step in the reaction cycle, then a green flash to take the electron from tyrosine. Then the electrons slowly returned to the tyrosine.
+The researchers observed the processes via
+vibrational spectroscopy , which revealed qualities of tyrosine’s chemical bonds. The researchers also examined the calcium and discovered a special interaction between it and tyrosine.
+“A new thing we saw was that the calcium ion made the tyrosine twist a certain way,” Barry said. “It turns out that the tyrosine may be a very flexible switch.”
+The researchers also swapped out calcium for other metals and found that the calcium fulfills this role quite optimally.
+So, why is understanding photosynthesis important?
+“Oxygen photosynthesis really is the great fueler life on our planet,” Barry said.
+About two billion years ago, the photosynthesis that generates O 2
+exploded, and as breathable oxygen filled Earth’s oceans and atmosphere, life began evolving into the complex variety we have today. There are also pragmatic reasons for studying photosynthesis.
+“You could work with it to make crops more productive,” Barry said. “We may have to repair and adapt the photosynthesis process someday, too.”
+Environmental stresses could possibly weaken photosynthesis in the future, calling for biochemical tweaks. Also, natural photosynthesis is an exceptionally good model for photoelectric semiconductors like those used in emerging energy systems.
+Like this article?  Get our email newsletter here.
+The research was funded by the National Science Foundation (grant MCB-14-11734). Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect views of the National Science Foundation.
+Media Relations Contact : Ben Brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu).
+Writer : Ben Brumfield
+Additional Images
+Contact
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

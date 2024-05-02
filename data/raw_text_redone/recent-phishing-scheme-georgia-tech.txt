@@ -1,0 +1,13 @@
+recent phishing scheme at georgia tech 
+ the office of information technology recently discovered an email phishing scheme that was sent to some members of our campus community. 
+ apr 19, 2024 
+ phishing attempts often involve malicious emails to trick a recipient into revealing passwords and other sensitive information. “bad actors” may attempt to make the email look legitimate by using an organization’s logo and even its email domain, such as “@gatech.edu.” the office of information technology (oit) recently discovered an email phishing scheme that was sent to some members of our campus community. these emails appeared to come from legitimate georgia tech email addresses. oit’s cyber security office quickly took measures to prevent these accounts from sending further emails. oit believes these emails were sent beginning april 12, and have the following characteristics: the subject may begin with, “it-desk: mailbox is full,” and may contain an “incident number.” the subject may also include a disclaimer stating, “new messages may return.” the email may state the recipient has exceeded their inbox “quota limit,” and direct them to an attachment to “avoid restrictions and lose incoming messages.” the email or attachment may direct users to what appears to be the georgia tech single-sign-on (sso) page. the email may appear to be a job advertisement. the email signature may contain the interlocking gt logo. the email may be signed, “office of information technology, georgia institute of technology, © 2024." if you have received a similar email, or if you ever receive an email that you find suspicious, forward it immediately to 
+ phishing@gatech.edu . it is important that you do not reply to the sender. do not visit any links within the email and do not forward the email to others. if you ever believe that your georgia tech accounts may have been compromised, contact oit’s security operations center immediately at 
+ soc@gatech.edu . 
+ related links 
+ office of information technology 
+ email 
+ soc@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

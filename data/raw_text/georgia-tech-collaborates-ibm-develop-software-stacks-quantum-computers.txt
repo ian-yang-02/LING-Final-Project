@@ -1,0 +1,30 @@
+Georgia Tech Collaborates with IBM to Develop Software Stacks for Quantum Computers
+Georgia Tech has agreed to join the IBM Q Hub at the Oak Ridge National Laboratory.
+Georgia Tech has announced an agreement to join the IBM Q Hub at the Oak Ridge National Laboratory to advance the fundamental research and use of quantum computing. (IBM photo)
+Jan 08, 2020
+— Atlanta, GA
+The Georgia Institute of Technology has announced its agreement to join the IBM Q Hub at the Oak Ridge National Laboratory (ORNL) to help advance the fundamental research and use of quantum computing in building software infrastructure and developing specialized error mitigation techniques. Georgia Tech will have cloud access, via the Oak Ridge Hub, to the world’s largest fleet of universal quantum computing systems for commercial use case exploration and fundamental research.
+“Access to IBM machines will allow Georgia Tech to build software infrastructure to make it easier to operate quantum machines, create specialized error mitigation techniques in software – thereby mitigating some of the hardware errors – and develop algorithms and applications for the emerging noisy intermediate-scale quantum (NISQ) computing paradigm,” said
+Moinuddin Qureshi , a professor in Georgia Tech’s
+School of Electrical and Computer Engineering . “Access will also allow Georgia Tech researchers to better understand the error patterns in existing quantum computers, which can help with developing the architecture for future machines.”
+As part of the ORNL hub, Georgia Tech will join a community of Fortune 500 companies, startups, academic institutions and research labs working to advance quantum computing and explore practical applications. Georgia Tech will leverage IBM’s quantum expertise and resources, Qiskit software and developer tools, and will have cloud-based access to IBM’s Quantum Computation Center. IBM makes available through the cloud 15 of the most-advanced universal quantum computing systems available, including a 53-qubit system – the most qubits of a universal quantum computer commercially available in the industry.
+Since the IBM Q Network’s launch in 2017 it has grown to more than 100 organizations, collaborating with IBM and one another to advance fundamental quantum computing research, and the development of practical applications for business and science.
+Research is being conducted worldwide to develop a new type of computational device known as a quantum computer, based on the principles of quantum physics. Quantum computers could tackle specialized computational problems such as integer factorization, understanding materials properties or optimization challenges much faster than conventional digital computers. Quantum computers will use one of a number of possible approaches to create quantum bits – units known as qubits – to compute and store data, giving them unique advantages over computers based on silicon transistors.
+While the machines have great promise, there are difficult challenges in operating such machines and in writing software that will take advantage of their power, Qureshi said.
+The agreement will give Georgia Tech access to IBM’s premium systems, including the 53-qubit quantum computer. “In the regime between 50 and 60 qubits is where quantum machines can potentially do computations that are beyond the capabilities of existing conventional computers,” Qureshi said.
+About the Georgia Institute of Technology
+The Georgia Institute of Technology, also known as Georgia Tech, is one of the leading public research universities in the United States. Georgia Tech provides a technologically focused education to more than 36,000 undergraduate and graduate students in fields ranging from engineering, computing, and sciences, to business, design, and liberal arts. Research, economic development and other sponsored activities at Georgia Tech passed a significant milestone during the fiscal year that concluded on June 30, 2019, recording more than a billion dollars in new grants, contracts and other awards.
+About IBM Q
+IBM Q is an industry-first initiative to build commercial universal quantum systems for business and science applications. For more information about IBM's quantum computing efforts, please visit www.ibm.com/ibmq. IBM Q Network™ and IBM Q™ are trademarks of International Business Machines Corporation.
+-
+Written in collaboration with IBM.
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

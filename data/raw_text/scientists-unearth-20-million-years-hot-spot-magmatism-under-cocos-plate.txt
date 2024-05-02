@@ -1,0 +1,77 @@
+Scientists Unearth 20 Million Years of ‘Hot Spot’ Magmatism Under Cocos Plate
+A team of scientists led by Georgia Tech have observed past episodic intraplate magmatism and corroborated the existence of a partial melt channel at the base of the Cocos Plate.
+Jun 20, 2023
+Ten years ago,
+Samer Naif
+made an unexpected discovery in Earth’s mantle: a narrow pocket, proposed to be filled with magma, hidden some 60 kilometers beneath the seafloor of the Cocos Plate.
+Mantle melts are buoyant and typically float toward the surface — think underwater volcanoes that erupt to form strings of islands. But Naif’s imaging instead showed a clear slice of semi-molten rock:
+low-degree partial melts , still sandwiched at the base of the plate some 37 miles beneath the ocean floor.
+Then, the observation
+provided an explanation
+for how tectonic plates can gradually slide, lubricated by partial melting. The study also “raised several questions about
+why
+magma is stored in a thin channel — and where the magma originated from,” says Naif, an assistant professor in the
+School of Earth and Atmospheric Sciences
+at
+Georgia Institute of Technology .
+Fellow researchers went on to share competing interpretations for the cause of the channel — including studies that argued against magma being needed to explain the observation.
+So Naif went straight to the source.
+“I basically went on a multiyear hunt, akin to a Sherlock Holmes detective story, looking for clues of mantle magmas that we first observed in the
+2013
+Nature
+study ,” he says. “This involved piecing together evidence from several independent sources, including geophysical, geochemical, and geological (direct seafloor sampling) data.”
+Now, the results of that search are detailed in a new
+Science Advances
+article,
+“Episodic intraplate magmatism fed by a long-lived melt channel of distal plume origin” , authored by Naif and researchers from the U.S. Geological Survey at Woods Hole Coastal and Marine Science Center, Northern Arizona University, Lamont-Doherty Earth Observatory of Columbia University, the Department of Geology and Geophysics at Woods Hole Oceanographic Institution, and GNS Science of Lower Hutt, New Zealand.
+Zeroing in
+A relatively young oceanic plate — some 23 million years old — the Cocos Plate traces down the western coast of Central America, veering west to the Pacific Plate, then north to meet the North American Plate off the Pacific coast of Mexico.
+Sliding between these two plates caused the devastating 1985 Mexico City earthquake and the 2017 Chiapas earthquake, while similar subduction between the Cocos and Caribbean plates resulted in the 1992 Nicaragua tsunami and earthquake, and the 2001 El Salvador earthquakes.
+Scientists study the edges of these oceanic plates to understand the history and formation of volcanic chains — and to help researchers and agencies better prepare for future earthquakes and volcanic activity.
+It’s in this active area that Naif and fellow researchers recently set out to document a series of magmatic intrusions just beneath the seafloor, in the same area that the team first detected the channel of magma back in 2013.
+Plumbing the depths
+For the new study, the team combined geophysical, geochemical, and seafloor drilling results with seismic reflection data, a technique used to image layers of sediments and rocks below the surface. “It helps us to see the geology where we cannot see it with our own eyes,” Naif explains.
+First, the researchers observed an abundance of widespread intraplate magmatism. “Volcanism where it is not expected,” Naif says, “basically away from plate boundaries: subduction zones and mid-ocean ridges.”
+Think Hawaii, where “a mantle plume of hot, rising material melts during its ascent, and then forms the Hawaii volcanic chain in the middle of the Pacific Ocean,” just as with the Cocos Plate, where the team imaged the volcanism fed by magma at the lithosphere-asthenosphere boundary — the base of the sliding tectonic plates.
+“Below it is the convecting mantle,” Naif adds. “The tectonic plates are moving around on Earth's surface because they are sliding on the asthenosphere below them.”
+The researchers also found that this channel below the lithosphere is regionally extensive — over 100,000 square kilometers — and is a “long-lived feature that originated from the Galápagos Plume,” a mantle plume that formed the volcanic Galápagos islands, supplying melt for a series of volcanic events across the past 20 million years, and persisting today.
+Importantly, the new study also suggests that these plume-fed melt channels may be widespread and long-lived sources for intraplate magmatism itself — as well as for
+mantle metasomatism , which happens when Earth’s mantle reacts with fluids to form a suite of minerals from the original rocks.
+Connecting the (hot spot) dots
+“This confirms that magma was there in the past — and some of it leaked through the mantle and erupted near the seafloor,” Naif says, “in the form of sill intrusions and seamounts: basically volcanoes located on the seafloor.”
+The work also provides compelling supporting evidence that magma could still be stored in the channel. “More surprising is that the erupted magma has a chemical fingerprint that links its source to the Galápagos mantle plume.”
+“We learned that the magma channel has been around for at least 20 million years, and on occasion some of that magma leaks to the seafloor where it erupts volcanically,” Naif adds.
+The team’s identified source of the magma, the Galápagos Plume, “is more than 1,000 kilometers away from where we detected this volcanism. It is not clear how magma can stay around in the mantle for such a long time, only to leak out episodically.”
+Plume hunters wanted
+The evidence that the team compiled is “really quite subtle and requires a detailed and careful study of a suite of seafloor observations to connect the dots,” Naif says. “Basically, the signs of such volcanism, while they are quite clear here, also require high resolution data and several different types of data to be able to detect such subtle seafloor features.”
+So, “if we can see such subtle clues of volcanism here,” Naif explains, “it means a similar, careful analysis of high resolution data in other parts of the seafloor may lead to similar discoveries of volcanism elsewhere, caused by other mantle plumes.”
+“There are numerous mantle plumes dotted across the planet. There are also numerous seamounts — at least 100,000 of them! — covering the seafloor, and it is anyone’s guess how many of them formed in the middle of the tectonic plates because of magma sourced from distant mantle plumes that leaked to the surface.”
+Naif looks forward to continuing that search, from seafloor to asthenosphere.
+###
+Funding:
+National Science Foundation : OCE-0625178, U.S. Science Support Program
+Citation:
+DOI: 10.1126/sciadv.add3761
+About Georgia Tech
+The
+Georgia Institute of Technology,
+or
+Georgia Tech,
+is one of the top public research universities in the U.S., developing leaders who advance technology and improve the human condition.
+The Institute offers  business, computing, design, engineering, liberal arts, and sciences
+degrees. Its more than 45,000 undergraduate and graduate students, representing 50 states and more than 148 countries, study at the main campus in Atlanta, at campuses in France and China, and through distance and online learning.
+As a leading technological university, Georgia Tech is an engine of economic development for Georgia, the Southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society.
+Additional Media
+Related links
+Plumes of Hot Material Near Earth's Core Grease Way for Moving Slabs of Earth
+Surfacing New Clues: Water’s Impact in Undersea Earthquakes
+Contact
+Writer:
+Jess Hunt-Ralston
+Director of Communications
+College of Sciences at Georgia Tech
+Email
+jess@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

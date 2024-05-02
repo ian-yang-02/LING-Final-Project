@@ -1,0 +1,45 @@
+Making Martian Rocket BioFuel on Mars
+Researchers have developed a concept that would make Martian rocket fuel, on Mars, that could be used to launch future astronauts back to Earth.
+Oct 25, 2021
+Researchers at the Georgia Institute of Technology have developed a concept that would make Martian rocket fuel, on Mars, that could be used to launch future astronauts back to Earth.
+The bioproduction process would use three resources native to the red planet: carbon dioxide, sunlight, and frozen water. It would also include transporting two microbes to Mars. The first would be cyanobacteria (algae), which would take CO2 from the Martian atmosphere and use sunlight to create sugars. An engineered E. coli, which would be shipped from Earth, would convert those sugars into a Mars-specific propellant for rockets and other propulsion devices. The Martian propellant, which is called 2,3-butanediol, is currently in existence, can be created by E. coli, and, on Earth, is used to make polymers for production of rubber.
+The process is outlined in a paper, “ Designing the bioproduction of Martian rocket propellant via a biotechnology-enabled in situ resource utilization strategy ,” published in the journal
+Nature Communications .
+Rocket engines departing Mars are currently planned to be fueled by methane and liquid oxygen (LOX). Neither exist on the red planet, which means they would need to be transported from Earth to power a return spacecraft into Martian orbit. That transportation is expensive: ferrying the needed 30 tons of methane and LOX is estimated to cost around $8 billion. To reduce this cost, NASA has proposed using chemical catalysis to convert Martian carbon dioxide into LOX, though this still requires methane to be transported from Earth.
+As an alternative, Georgia Tech researchers propose a biotechnology based in situ resource utilization (bio-ISRU) strategy that can produce both the propellant and LOX from CO2. The researchers say making the propellant on Mars using Martian resources could help reduce mission cost. Additionally, the bio-ISRU process generates 44 tons of excess clean oxygen that could be set aside to use for other purposes, such as supporting human colonization.
+“Carbon dioxide is one of the only resources available on Mars. Knowing that biology is especially good at converting CO2 into useful products makes it a good fit for creating rocket fuel,” said Nick Kruyer, first author of the study and a recent Ph.D. recipient from Georgia Tech’s
+School of Chemical and Biomolecular Engineering (ChBE) .
+The paper outlines the process, which begins by ferrying plastic materials to Mars that would be assembled into photobioreactors occupying the size of four football fields. Cyanobacteria would grow in the reactors via photosynthesis (which requires carbon dioxide). Enzymes in a separate reactor would break down the cyanobacteria into sugars, which could be fed to the E. coli to produce the rocket propellant. The propellant would be separated from the E. coli fermentation broth using advanced separation methods.
+The team’s research finds that the bio-ISRU strategy uses 32% less power (but weighs three times more) than the proposed chemically enabled strategy of shipping methane from Earth and producing oxygen via chemical catalysis.
+Because the gravity on Mars is only a one-third of what is felt on Earth, the researchers were able to be creative as they thought of potential fuels.
+“You need a lot less energy for lift-off on Mars, which gave us the flexibility to consider different chemicals that aren’t designed for rocket launch on Earth,” said
+Pamela Peralta-Yahya , a corresponding author of the study and an associate professor in the
+School of Chemistry & Biochemistry
+and ChBE who engineers microbes for the production of chemicals. “We started to consider ways to take advantage of the planet’s lower gravity and lack of oxygen to create solutions that aren’t relevant for Earth launches.”
+“2,3-butanediol has been around for a long time, but we never thought about using it as a propellant. After analysis and preliminary experimental study, we realized that it is actually a good candidate,” said
+Wenting Sun , associate professor in the
+Daniel Guggenheim School of Aerospace Engineering , who works on fuels.
+The Georgia Tech team spans campus. Chemists, chemical, mechanical, and aerospace engineers came together to develop the idea and process to create a viable Martian fuel. In addition to Kruyer, Peralta-Yahya, and Sun, the group included
+Caroline Genzale , a combustion expert and associate professor in the
+George W. Woodruff School of Mechanical Engineering , and
+Matthew Realff , professor and David Wang Sr. Fellow in ChBE, who is an expert in process synthesis and design.
+The team is now looking to perform the biological and materials optimization identified to reduce the weight of the bio-ISRU process and make it lighter than the proposed chemical process. For example, improving the speed at which cyanobacteria grows on Mars will reduce the size of the photobioreactor, significantly lowering the payload required to transport the equipment from Earth.
+“We also need to perform experiments to demonstrate that cyanobacteria can be grown in Martian conditions,” said Realff, who works on algae-based process analysis. “We need to consider the difference in the solar spectrum on Mars both due to the distance from the Sun and lack of atmospheric filtering of the sunlight. High ultraviolet levels could damage the cyanobacteria.”
+The Georgia Tech team emphasizes that acknowledging the differences between the two planets is pivotal to developing efficient technologies for the ISRU production of fuel, food, and chemicals on Mars. It’s why they’re addressing the biological and materials challenges in the study in an effort to contribute to goal of future human presence beyond Earth.
+“The Peralta-Yahya lab excels at finding new and exciting applications for synthetic biology and biotechnology, tackling exciting problems in sustainability,” added Kruyer. “Application of biotechnology on Mars is a perfect way to make use of limited available resources with minimal starting materials.”
+The research was supported by a NASA Innovative Advanced Concepts (NIAC) Award.
+Citation: Kruyer, et al. “ Designing the bioproduction of Martian rocket propellant via a biotechnology-enabled in situ resource utilization strategy” Nature Communications.  10.1038/s41467-021-26393-7 .
+About Georgia Tech
+The Georgia Institute of Technology, or Georgia Tech, is a top 10 public research university developing leaders who advance technology and improve the human condition. The Institute offers business, computing, design, engineering, liberal arts, and sciences degrees. Its nearly 40,000 students, representing 50 states and 149 countries, study at the main campus in Atlanta, at campuses in France and China, and through distance and online learning. As a leading technological university, Georgia Tech is an engine of economic development for Georgia, the Southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society.
+Additional Media
+Related links
+Read the Paper
+Contact
+Jason Maderer
+College of Engineering
+maderer@gatech.edu
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

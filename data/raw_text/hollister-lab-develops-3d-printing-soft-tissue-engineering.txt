@@ -1,0 +1,34 @@
+Hollister Lab Develops 3D Printing for Soft Tissue Engineering
+Researchers use architected auxetics to achieve 300 times more flexibility in new 3D printing design.
+Research scientist JeongHun Park
+Nov 30, 2023
+There are young children celebrating the holidays this year with their families, thanks to the 3D-printed medical devices created in the lab of  Georgia Tech researcher Scott Hollister . For more than 10 years, Hollister and his collaborators have developed lifesaving, patient-specific airway splints for babies with rare birth defects.
+These personalized Airway Support Devices are made of a biocompatible polyester called polycaprolactone (PCL), which has the advantage of being approved by the Food and Drug Administration. Researchers use selective laser sintering to heat the powdered polyester, which binds together as a solid structure. Devices made of PCL have a great safety record when implanted into patients.
+Unfortunately, PCL has the disadvantage of having relatively stiff and linear mechanical properties, which means this promising biomaterial has yet to be applied functionally to some other critical biomedical needs, such as soft tissue engineering. How do you make a firm thermoplastic into something flexible, and possibly capable of growing with the patient? Hollister’s lab has figured out how.
+“3D auxetic design,” said Jeong Hun Park, a research scientist in Hollister’s lab who led the team’s recent study demonstrating the successful  3D printing of PCL for soft tissue engineering . An auxetic material, unlike typical common elastics, has a negative Poisson’s ratio. That means if you stretch an auxetic material longitudinally it will also expand in the lateral direction, whereas most materials will get thinner laterally (because they have a positive Poisson’s ratio).
+So, an auxetic structure can expand in both directions, which is useful when considering biomedical applications for humans, whose bodies and parts can change in size and shape over time and comprise many different textures and densities. Hollister’s team set out to give usually firm PCL some new auxetic properties.
+“Although the mechanical properties and behavior of the 3D structure depend on the inherent properties of the base material — in this case, PCL — it can also be significantly tuned through internal architecture design,” explained Park.
+Park guided the design of 3D-printed structures made up of tiny struts, arranged at right angles — imagine the bones of very tiny skyscrapers. The team began by creating cube-shaped structures first, to test the auxetic design’s flexibility, strength, and permeability.
+Flexible Behavior
+Basically, an auxetic material is a network structure designed by assembling unit cells. These unit cells consist of struts and their intersecting joints, which are an important aspect of an auxetic device’s behavior. The rotation of those intersecting joints within the network, under compression or extension, causes negative Poisson’s behavior. It also enables advanced performance for a printed device, including impact energy absorption, indentation resistance, and high flexibility.
+“When you look at the numbers, based on Jeong Hun’s work, the new structure is about 300 times more flexible than the typical solid structure we make out of PCL in our lab,” said Hollister, professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University, where he also holds the Patsy and Alan Dorris Chair in Pediatric Technology and serves as the department’s associate chair for translational research.
+The combination of flexibility and strength in a device is particularly important here, Park said, because the ultimate goal of the research is to “apply this structure to develop a breast reconstruction implant that has comparable biomechanical properties to native breast tissue. Currently, we don’t have a biodegradable breast implantation option in the clinical setting.”
+He explained that these biodegradable breast reconstruction implants serve as a kind of scaffold. The idea is, the biocompatible material (PCL) eventually degrades and is absorbed into the body, while maintaining similar mechanical properties to native breast tissue.
+“We expect that native tissue will be first infiltrated into the pores of the biodegradable implant,” Park said. “Tissue volume will then increase within the implant as it degrades and eventually the device itself is replaced with the tissue after complete degradation of the implant.”
+Expanding the Cellular Network
+Essentially, the 3D-printed breast implant is designed to provide reconstructive support while also facilitating the growth of new tissue.
+The space between those tiny struts makes all the difference for the larger device, giving it a softness and pliability that would have been impossible otherwise. Those spaces eventually can be filled with hydrogel that will help foster cell and tissue growth.
+The team’s architected auxetics also include the design of inner voids and spaces inside the struts, creating a kind of microporosity that enables the mass transport of oxygen, nutrients, and metabolites to nurture the expansion and growth of a cellular network.
+Park is working with Emory surgeon  Angela Cheng  in submitting a grant for further research and testing of the breast implant. And the team already is adapting the technology for other applications. One of the collaborators in this research, for example, is  Mike Davis , whose lab at Emory is focused on cardiac regeneration.
+“Because of the great flexibility, they’re using it to reconstruct infarcted or necrotic myocardial tissue,” Hollister said.
+And Park has developed an auxetic version of the pediatric tracheal splint. “The advantage there is, with this design, it can expand in two directions,” he said. “So, as young patients grow, the new device will grow with them.”
+Video Demonstration of Auxetic Compression
+Additional Images
+Contact
+Writer:
+Jerry Grillo
+Email
+jerry.grillo@ibb.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

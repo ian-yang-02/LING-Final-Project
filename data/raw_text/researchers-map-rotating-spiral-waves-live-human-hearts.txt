@@ -1,0 +1,38 @@
+Researchers Map Rotating Spiral Waves in Live Human Hearts
+Researchers at Georgia Tech and clinicians at the Emory University School of Medicine are bringing a new understanding to these complicated conditions with the first high-resolution visualizations of stable spiral waves in human ventricles.
+Sep 07, 2022
+— Atlanta, GA
+Electrical signals tell the heart to contract, but when the signals form spiral waves, they can lead to dangerous cardiac events like tachycardia and fibrillation. Researchers at the Georgia Institute of Technology and clinicians at
+Emory University School of Medicine
+are bringing a new understanding to these complicated conditions with the first high-resolution visualizations of stable spiral waves in human ventricles.
+“Clinicians have known for decades that spiral waves of electrical activity can occur in the heart, and researchers have done experiments in animal and human hearts before,” said
+School of Physics
+Professor
+Flavio Fenton . “However, this is the first time the evolution of relatively stable spiral waves of voltage and calcium in the ventricles of human hearts have been mapped at very high spatial and temporal resolution.”
+Studying live hearts from heart transplant patients gives a rare window into the detailed behavior of the heart during conditions that are difficult to treat like fibrillation. As a result, doctors can gain a better understanding of how spiral waves begin and are sustained, which can lead to new therapies.
+The present work has been part of a decade-long collaboration between the Georgia Tech School of Physics and the Emory School of Medicine. The researchers published their latest findings, “ Direct observation of a stable spiral wave reentry in ventricles of a whole human heart using optical mapping for voltage and calcium ” and “ Spiral wave breakup: Optical mapping in an explanted human heart shows the transition from ventricular tachycardia to ventricular fibrillation and self-termination ,” in the journal
+Heart Rhythm .
+Mapping the Heart
+To generate the conditions for spiral waves, the researchers applied timed electric shocks to the heart. Then, to visualize and record the spiral waves, they injected florescent dyes for voltage and calcium into the blood substitute that keeps the heart alive. The changes in light intensity enable them to record signals across the heart tissue, a technique known as optical mapping.
+“In this way we can visualize simultaneously the calcium and electrical waves in the heart by measuring the changes in light intensity as direct changes in calcium and voltage in the cardiac cells,” said
+Ilija Uzelac , a physics research scientist at Georgia Tech. “The amazing thing about this technique is that by using a high-resolution camera, we can obtain measurements of voltage and calcium at very high spatial and temporal resolutions that could not be possible even using thousands of recording electrodes around the heart.”
+Each heart has a slightly different condition leading to the need for a transplant, so the researchers can investigate the dynamics of spiral waves with different types and severities of disease.
+Collaborating with Clinicians
+Fenton’s group has been studying spiral waves in hearts for more than two decades. Spiral waves are a good candidate for the physics field of nonlinear dynamics, where systems that appear to be unpredictable are not random but chaotic. Methods can be developed to control and terminate spiral waves to stop fibrillation with little energy, as Fenton’s group
+demonstrated theoretically
+earlier this year.
+Previously, the group has worked with fish, reptiles, amphibians, and some mammalian hearts. However, thanks to the partnership with Emory, they have been able to study 10 human hearts from transplant patients who have received a new heart in the past year.
+“We're very fortunate to have this strong collaboration between Emory and Georgia Tech to perform these experiments,” Fenton said. “There are very few physicians that, in addition to treating patients, want to partner with physicists to investigate arrhythmias.”
+The research has also been eye-opening from a medical standpoint.
+“I had a simplistic view of ventricular fibrillation based on what I see in the clinic and what I have read, but actually looking at ventricular fibrillation directly through these experiments gives a different perspective of the complexity and of what's going on with their dynamics,” said Shahriar Iravanian, an Emory cardiologist in the group.
+“Mapping electrical and chemical waves simultaneously in the isolated human heart offers a unique possibility to investigate mechanisms of sudden cardiac death at a new functional level and to associate the dynamic electrical changes characterizing malignant arrhythmias to the specific and individual pathology of patients,” Said Dr. André G. Kléber, Professor of Pathology in the Disease Biophysics Group at the A. Paulson School of Engineering and Applied Sciences, Harvard University.
+The researchers are continuing to study explanted hearts and hope to tailor the experiments not only for basic science but improving treatments. For example, most arrythmias are treated through ablation, by burning the substrate of faulty circuits, or electric shocks, and this research could make such treatments more targeted and even personalized.  Such advances could have enormous implications for the future of the treatment of cardiac arrhythmias, a major cause of death in the U.S.
+"It is difficult to map ventricular fibrillation because of patient instability and complexity of signals," said Neal Bhatia, an assistant professor of medicine at Emory and member of the collaboration. "This research has potential significant clinical complications. By detailed mapping of spiral wave dynamics, we can better understand their evolution and ultimately identify if and how the heart can be treated with better catheter ablation strategies."
+Additional Images
+Contact
+Tess Malone, Research Writer/Editor
+Email
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

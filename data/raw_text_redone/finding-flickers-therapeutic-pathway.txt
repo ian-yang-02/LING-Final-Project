@@ -1,0 +1,40 @@
+finding flicker’s therapeutic pathway 
+ researchers probe the mechanisms underlying the rhythmic dance that recruits the brain’s immune system 
+ left to right: levi wood, annabelle singer, and dieter jaeger 
+ aug 30, 2023 
+ annabelle singer 
+ was a postdoctoral researcher at the massachusetts institute of technology when she helped develop a light and sound therapeutic system that opened the door to a hopeful future of non-invasive treatments for neurodegenerative diseases. 
+ singer, now a faculty researcher at georgia tech, has since demonstrated dramatic success in treating mouse models of alzheimer’s disease with flickering lights and buzzing sounds. two years ago she and her team completed the 
+ first human feasibility study 
+ of this “flicker” treatment, delivered to patients via goggles and headphones. 
+ “and there’s a long list of clinical trials going on right now using flicker stimulation – people are using the technology in a variety of different contexts,” said singer, associate professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university. “but the mechanism underlying all of this is a major mystery. as scientists, we want to nail down the one key question: what is actually happening?” 
+ she’s been piecing the flicker mystery together for years, along the way building a novel way to manipulate the neuroimmune system and prevent alzheimer’s damage. 
+ her prior work 
+ focused on using flickering light and sound set to a frequency of 40 hertz (40 times per second) to stimulate gamma waves, which play a main role in functions such as perception and memory, and which are deficient in alzheimer’s disease. singer’s flicker treatment set neurons on a rhythmic dance that recruit microglia, the brain’s primary immune cells, which engulf pathogens and secrete cytokines – small proteins that alert other immune cells to the cause. 
+ now singer and a team of multidisciplinary researchers from georgia tech and emory are providing answers to that one key question – what is going on to make all of this happen? – and they shared 
+ their research this month in the journal 
+ science advances . 
+ studying rhythm in a healthy brain 
+ singer’s collaborators include fellow faculty researchers levi wood, associate professor in the george w. woodruff school of mechanical engineering at georgia tech, and dieter jaeger, professor in emory’s department of biology, where his work focuses on the rhythmic motor patterns generated and modulated in the central nervous system.  both jaeger and wood have appointments in the coulter department. the lead authors are ashley prichard, postdoctoral researcher in singer’s lab and kristie garza, former graduate researcher in the lab. 
+ for this study, singer took a different approach. 
+ “in the past, our focus was on the diseased state. it was important for this research that we focus on brain rhythms in the healthy brain, to see the effects of sensory stimulation outside the context of alzheimer’s pathology,” singer said. 
+ also, this time the team used flicker stimulation to induce electrical activity at two different frequencies in mice: 40hz, corresponding to gamma brain waves; and 20hz, corresponding to beta wave.  these brain rhythms occur naturally in the brain during everyday life and in response to flickering lights and sounds. with jaeger’s lab, the team first showed flicker lights and sounds drive these brain rhythms using cutting edge imaging of electrical signals across the brain surface. 
+ “we compared different frequencies, so we’d have a better idea of the effects on the rhythmic activity of neurons,” said singer. “that’s important because different frequencies of activity have distinct effects on microglia and cytokines.” 
+ previously, the team noted the effects of different frequencies on cytokine protein expression – for example, 20hz flicker could induce neural activity, but led to lower cytokine expression, which can be a good thing. cytokines are necessary for a healthy immune system, but in the right amounts – cytokines run amok can lead to harmful inflammation. 
+ according to wood, “although cytokines often come from immune cells, like microglia, we thought the cytokines might come from other kinds of brain cells. to help sort out the sources, we isolated the nuclei from different cells in the brain and looked at the genes affected by 40hz flicker. we found that 40hz stimulates immune genes in neurons that may regulate production of cytokines. we also found changed genes in microglia, but they were mainly involved in controlling cell shape or morphology.”  singer added “to see that such a simple thing, flickering lights and sounds at different frequencies, lead to differences in immune genes was really cool.” 
+ indeed, the team saw the effects that different frequencies can have on the microglia, dramatically altering its morphology – its shape and function. “forty hertz and twenty hertz were both different from no stimulation at all, and in opposite directions,” singer said. 
+ different shapes, different functions 
+ at 20hz, microglia assumed their ramified, surveillance mode – lots of branches, or dendrites, reaching out from the cell body. at 40hz, they look more like amoeba, an amorphous blob that eats, or engulfs, pathogens. so, microglia do a different dance based on the rhythm. 
+ furthermore, their research revealed an underlying mechanism allowing all of this to happen. it’s a protein complex called nuclear factor kappa b, or nfkb. this signaling mechanism, which regulates immune function, is the pathway that links flicker stimulation to inspire the brain rhythms and the resulting immune response. 
+ singer, who is a mother, compared these different effects to a toddler making his way in the world. “when microglia surveil their environment, they stretch out to the things around them, like a toddler touching ever dirty thing they can get their hands on,” she said. “and when microglia enter their engulfing state, it’s like a toddler sticking everything in their mouth.” 
+ she added, “the important thing is, in some disease contexts, you want the surveillance state – you want to turn down the immune response. in others, you want the more active, engulfing state that we see at the higher frequency.” 
+ so, a different kind of stimulation for a different disease state? or a new, non-invasive way to maintain an already healthy brain? possibly both, eventually. 
+ “the potential is, we can non-invasively manipulate the brain’s immune system in either direction, turning it up or turning it down, depending on the stimulation,” singer said. “that has important implications for using this technology in a lot of different ways, in the presence of disease, or as way to boost this function or that function.” 
+ additional images 
+ contact 
+ jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

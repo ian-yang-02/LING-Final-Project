@@ -1,0 +1,56 @@
+genomics technique could accelerate detection of foodborne bacterial outbreaks 
+ a new testing methodology could accelerate the diagnosis of foodborne bacterial outbreaks. 
+ a microbiologist uses next-generation sequencing technology to identify a bacterial dna fingerprint. (credit: centers for disease control and prevention). 
+ nov 30, 2016 
+ — atlanta, ga 
+ a new testing methodology based on metagenomics could accelerate the diagnosis of foodborne bacterial outbreaks, allowing public health officials to identify the microbial culprits in less than a day. the methodology could also identify co-infections with secondary microbes, determine the specific variant of the pathogen, and help alert health officials to the presence of new or unusual pathogens. 
+ researchers from the georgia institute of technology and the u.s. centers for disease control and prevention (cdc) recently compared the new methodology against traditional culture-based methods with samples from two severe outbreaks of 
+ salmonella , a common foodborne pathogen. the metagenomics approach – which relies on dna sequencing and bioinformatics analysis of the resulting sequencing data -- not only correctly identified the bacterial culprit, but also found a possible coinfection with a second important pathogen, 
+ staphylococcus . 
+ widespread use of the new shotgun metagenomics methodology could improve real-time disease surveillance, provide a better quantitative picture of pathogen abundance and help scientists and doctors understand the response of the body’s natural microbiome. supported by the cdc and the national science foundation, the research was reported november 23 in the journal 
+ applied and environmental microbiology . 
+ “when we receive the samples, we can move directly to characterizing them by sequencing the genomes of the microbes that are in the sample without waiting for conventional culturing techniques,” explained 
+ kostas konstantinidis , the carlton wilder associate professor in the georgia tech 
+ school of civil and environmental engineering . “using computational analysis, we can then say what the pathogen is and identify the variant, its virulence factors, even what antibiotic might be effective against it. that can usually be done in a single day.” 
+ conventional techniques used for identifying foodborne bacteria involve culturing the microbes to increase the numbers necessary for detection. this takes time, as long as two or three days, and some bacteria don’t grow on traditional culture media and could be missed. polymerase chain reaction (pcr) can also be used to identify pathogenic bacteria, but it also relies on isolating the unknown microbes from a culture. 
+ metagenomics technology has already been used to analyze the microbial content of everything from lake ecosystems to drinking water in pipes. the evaluation of samples from separate bacterial outbreaks in alabama and colorado is one of the very first applications of the methodology for diagnosing foodborne bacteria. 
+ “stool samples are very complex and contain lots of different dna from humans, healthy bacteria, and the food you ate,” explained andrew huang, ph.d., a microbiologist / bioinformatician in 
+ cdc’s enteric diseases laboratory branch . “the process of generating the dna fingerprint of the bacteria directly from a sick patient’s stool is like finding a needle in a haystack of all kinds of dna. because of this, the use of metagenomics for disease detection is in the early stages of research and development. however, this study shows the potential to use stools from healthy and sick people directly to determine who is involved in an outbreak, which will revolutionize the way we detect and monitor for foodborne disease in the future.” 
+ metagenomics identifies the microbes present by sequencing all of the dna present in a sample and comparing the genomic data to a database of known microbes. in addition to identifying the bacteria present in the samples, the methodology can also measure the relative abundance of each microbial species and their virulence potential, among other things. 
+ “currently, the most advanced dna fingerprinting method, whole genome sequencing, requires first pulling out, or isolating in a pure culture, the bacteria that made a person sick to generate a fingerprint,” said huang, who co-leads a group working on culture independent and metagenomics subtyping. “metagenomics differs from whole genome sequencing because it could allow us to sequence all the dna in a patient’s sample. it could allow us to skip the isolation steps and go directly from a stool sample to a highly detailed dna fingerprint of the bacteria that made you sick. this method saves time and provides more detail that could be helpful for diagnosing a patient and identifying an outbreak.” 
+ in the two 2013 outbreaks investigated, the traditional diagnostic technique and the metagenomics methodology arrived at the same answers, but the metagenomics data provided specific information about the bacterial phenotype involved and identified a secondary 
+ staphylococcus aureus 
+ pathogen present in two of the samples tested. knowing the specific phenotype can help in pinpointing the origins of an outbreak, while information about the secondary infection may help explain related factors such as the severity of the infection. 
+ scientists were also able to rule out one species – 
+ escherichia coli 
+ (or 
+ e. coli ) – because the variant present was not of a virulent type. variants of this bacteria are present naturally in the gut microbiome (called "commensal 
+ e. coli ") while other variants are notorious enteric pathogens. metagenomics showed the abundant 
+ e. coli 
+ population in the outbreak samples was probably commensal, and its growth may have been accelerated when conditions became more favorable during the 
+ salmonella 
+ infection. in the two cases evaluated, scientists were able to determine that although the symptoms were similar, the outbreaks were caused by different variants of 
+ salmonella 
+ and therefore were probably not connected. 
+ as many as half of foodborne disease outbreaks are never attributed to a source. those outbreaks may be caused by new infectious agents, or by microbes not commonly seen in food. the metagenomic methodology could help identify unknown microbes, potentially providing advance warning of new outbreaks. 
+ “without going through culture methods, we are able to see all of the microbes that are in the sample,” konstantinidis said. “we can get this information in a day or so, which is quite important in selecting the right antibiotic to combat the infection, controlling the outbreak and working with food producers to recall items that caused the outbreak. the sooner we have the answer, the better.” 
+ though the study confirmed the benefits expected, two challenges must be addressed before the new approach can go into widespread use, konstantinidis said. 
+ the first is the cost, which can be significantly higher than traditional approaches, suggesting the metagenomics test might be used first in complicated cases. the second challenge is in removing human dna from the samples. all dna must be sequenced, but the human dna can account for as much as 99 percent of the genomic data, so removing it from consideration could accelerate the analysis. 
+ citation : andrew d. huang, chengwei luo, angela pena-gonzalez, michael r. weigand, cheryl tarr, and konstantinos t. konstantinidis, “metagenomics of two severe foodborne outbreaks provides diagnostic signatures and signs of coinfection not attainable by traditional methods," (applied and environmental microbiology, 2016) 
+ http: / / dx.doi.org / doi:10.1128 / aem.02577-16 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

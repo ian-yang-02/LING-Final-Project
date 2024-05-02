@@ -1,0 +1,30 @@
+the mechanics of pellet-carrying honey bees 
+ honey bees have developed a way to transform pollen particles into a viscoelastic pellet. 
+ a honey bee carries a pollen pellet on its leg 
+ aug 30, 2021 
+ — atlanta, ga 
+ new research led by georgia tech’s college of engineering finds that honey bees have developed a way to transform pollen particles into a viscoelastic pellet, allowing them to transport pollen efficiently, quickly, and reliably to their hive. the study also suggests the insects remove pollen from their bodies at speeds 2-10 times slower than their typical grooming speeds. 
+ to collect and transport pollen, honey bees mix pollen particles with regurgitated nectar and form it into a pellet, which clings to each of their hind legs. the honey bees then deposit the pellets into a cell within the hive by carefully scraping them off using their other legs. 
+ the study, from the lab of  george w. woodruff school of mechanical engineering  professor  david hu , sought to better understand the mechanics of this process which could inspire new ways to manufacture and manipulate soft materials. hu holds a joint appointment in the  school of biological sciences . 
+ the paper, “ biomechanics of pollen removal by the honey bee ,” is published in the journal of the royal society interface. 
+ “we measured the viscoelastic material properties of a pollen pellet,” said marguerite matherne, a recent georgia tech mechanical engineering ph.d. graduate who now teaches at northeastern university. “we found that the pellets have a really long relaxation time, which means they remain mostly in a solid form during the transport process. this is good because it keeps the pellet from melting or falling apart from vibration during flight.” 
+ matherne and the georgia tech research team also tried to replicate how honey bees remove the pellets from their hind legs in the lab. they built a device that scraped adhered pollen pellets from bee legs. the invention produced two discoveries. the first was that the honey bees were much more efficient in removing the pellet than the scraping device they built (the device left much more pollen residue on the leg). they also found that slower removal speeds reduce the force and work required to remove pellets under shear stress. 
+ “if you remove it slowly, you can avoid applying the excessive force required to remove it quickly,” said hu, matherne’s former georgia tech advisor. “removing a pollen pellet is like the opposite of ripping off a band-aid.” 
+ matherne said that there are two key components to the efficiency of the honey bees transporting these pellets. first, the pellets are gooey, allowing them to stick to the hind legs. but, she said, the bees also have a special structure on their legs called the corbicula. it’s fringed with long, curved hairs and becomes embedded into the pellet, allowing for adhesion. 
+ in addition, honey bees can collect pollen particles in various shapes and sizes, while also developing a way to transport them. this is different from other species of bees, which only collect and carry specific types of pollen that are similar in size. they also use different transport techniques. 
+ “honey bees collect from flowers miles and miles away,” said hu. “the pollen can change in size by a factor of 10. they must collect all these individual particles and bring it back to one place. and they must do a dozen foraging trips each day, all while keeping their bodies clean. they solve it all by this special method they created to exploit the pellet’s soft material properties.” 
+ the research team believes further studies could lead to new developments in medical patches or fastener applications for soft materials. 
+ “it’s kind of like smart gooey velcro for soft materials,” said hu. “it could be a fastener and it knows when you’re trying to remove it so that you don’t have to use an excessive amount of force.” 
+ matherne suggests that it’s also important to understand the pollinating process since 35% of the world’s crop production depends on pollinators. 
+ “honey bees are really important pollinators,” said matherne. “if we want to create a world where we can keep up our pollinators, i think it’s important to understand exactly what they’re doing.” 
+ citation: matherne, m., et.al., "biomechanics of pollen pellet removal by the honey bee." (journal of the royal society interface)  https: / / doi.org / 10.1098 / rsif.2021.0549 
+ additional images 
+ contact 
+ candler hobbs 
+ college of enigneering 
+ candler.hobbs@coe.gatech.edu 
+ email 
+ candler.hobbs@coe.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

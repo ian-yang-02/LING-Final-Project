@@ -1,0 +1,58 @@
+multimillion-dollar center for math, biology 
+ project consists of three centers, including the southeast center for mathematics and biology at georgia tech. 
+ may 25, 2018 
+ — atlanta, ga 
+ a new national project, which includes the georgia institute of technology, aims to convey the benefits of physics’ age-old intertwining with math upon biology, a science historically less connected with it. the national science foundation and the simons foundation have launched four centers to do this, funded with $40 million, one of which is headquartered at georgia tech and will receive a fourth of the funding. 
+ for centuries, together mathematics and physics have shifted paradigms in science and rattled human perception by predicting planetary orbits, theorizing relativity or explaining how one particle can be in two places at the same time. can theoretical math and biosystems team up to similarly shake the foundations of knowledge? 
+ “we certainly think it’s possible,” said christine heitsch,  a professor in georgia tech’s school of mathematics  who leads the new regional center. “but our immediate goals are more realistic,” she said. “our first step is getting more mathematicians and bioscience researchers working together in research collaborations." 
+ bio-math synergy 
+ on an everyday basis, that means the southeast center for mathematics and biology (scmb) headquartered at georgia tech will tackle open questions in biology using novel math. 
+ “math can potentially change the way we do our experiments,” said hang lu,  a professor in georgia tech’s school of chemical and biomolecular engineering  who co-leads of the center. “if you model your data with topology (a field of mathematics) you see that your data can have a shape,” lu said. “and that can make you go look for different kinds of data.” 
+ “it will be a two-way street,” heitsch said. “math always benefits when it’s challenged by reality.” 
+ over time, the math-bio spiral could lead to eureka moments. 
+ “biological systems can look overwhelmingly complex, and that just means we haven’t found the right way of looking at them yet,” heitsch said. 
+ nsf vision 
+ the scmb is one of three nsf-simons research centers for mathematics of complex biological systems. the other two are based at harvard university and at the university of california, irvine. together, they will not only advance the math-biosciences synergy but also spread their knowledge to hundreds of undergraduate and k-12 students throughout the region through educational outreaches. 
+ the scmb comprises 14 researchers, including collaborators throughout the southeastern united states. tulane university, the university of florida, the university of south florida, clemson university, and the oak ridge national laboratory are each contributing a mathematician, and one bioscientist is based at duke university. 
+ “this project has visionary potential to shake up the way we view biological systems, and also expand mathematics,” said  julia kubanek, associate dean of research in georgia tech’s college of sciences . “the national science foundation and the simons foundation have shown tremendous foresight in creating these three centers, and i think headquartering one at georgia tech is a great fit because cross-connecting research disciplines is already one of our core missions.” 
+ biosciences enigmas 
+ to understand the particular value of combining math with biosciences, it’s important to not conflate the latter with physics. 
+ a graphic depiction of canalization. the path of the ball represents the development toward a phenotype, which may start with varying genetic foundations but roll out to secure phenotypical outcomes. but canalization can also lead to more than one possible phenotypical outcome from one set of genes. 
+ for example, in relativity, near-light speeds change an object’s mass, its length, and its passage through time. those warped phenomena and their equations aren’t so applicable in the world of experimental biosciences, which live in a more newtonian reality, but one with intricate enigmas for math to demystify. 
+ take the phenomenon called  canalization , which saves living things from the little genetic snafus inside of us all by making sure that proper physical traits usually get produced in spite of mutations. 
+ clone contradictions 
+ canalization shatters a stubborn popular notion that genes determine how an organism is built. 
+ “genes are not deterministic,” said lu, who is love family professor. she studies the intricate pathways that lead from genetic foundations to measurable physical or behavioral traits, or phenotypes, in  c.  elegans  roundworms. “you often have two individuals with identical genotypes (specific sets of genes) that have different sets of phenotypes.” 
+ that means that canalization may not offer just one but two options -- or more -- to form a trait based on a single set of genes. “what fascinates me is that you can have ( c.  elegans ) clones that are genetically identical but exhibit different behavior,” heitsch said. 
+ canalization is not new; it dates to 1942. but its labyrinthine mechanisms and how they “chose” one phenotypical pathway over the other still contain many mysteries. “maybe math can help us find answers,” lu said. 
+ labyrinthine intricacies 
+ algebra has already taken up canalization  but at the scmb, more maths will join in.  topology , computation, stochastics (principles of randomness), and geometry may enlighten canalization’s myriad interworkings of dna, rna, enzymes, protein folding, and just plain randomness. 
+ other questions scmb bioscientists and mathematicians are pursuing: 
+ how do stem cells know whether to become a neuron or a skin cell? 
+ how does one cell transport molecules to others? 
+ what exactly does rna do to help repair dna damage? 
+ heitsch, for example, specializes in a field of mathematics called  combinatorics , and she applies it to the way molecules of rna fold. 
+ historical divergence 
+ biology is no stranger to stochastics or computation in the analysis of its data, but it has been much less connected than other sciences to the aerial acrobatics of theoretical mathematics. 
+ “there is enormous unrealized potential in applying more theoretical areas of math like algebra, topology, and geometry,” heitsch said. “that’s new territory, which also means new risks. but we’ve hedged our bets with mathematics already more used in biology to get guaranteed returns.” 
+ biology and theoretical math have not interfaced much in the past for a couple of reasons. 
+ the endless intricacies of biology, from hundreds of thousands of species to countless biomolecular structures, has made it a gathering and cataloging science for centuries with data that is tough to unify. also, much data has had to wait for technology to be invented to collect it. 
+ “biology hasn’t had the measurement tools until just recently, like mass spectrometry and high-end microscopy, to get the hard data needed for math to work with,” lu said. “now is a great time for biology and math to come together,” she said. 
+ cultural exchange 
+ also, history has separated the disciplines. for centuries, physicists were also mathematicians and vice versa. “and they were engineers,” lu said. but biologists? 
+ “darwin was assuredly not a mathematician,” heitsch said. “he said he didn’t understand as much math as he would have liked to.” 
+ not many mathematicians have been biologists either. 
+ the nsf-simons foundation centers are building the bridge to join them, and the scmb at georgia tech makes for a good pillar. most of its bioscience researchers already know engineering or physics math, and its mathematicians are already delving into life sciences. 
+ editor's note: this article is a slightly modified clone of the 
+ feature story by ben brumfield published on may 24, 2018 in research horizons online . 
+ this article was corrected on may 30, 2018, to reflect corrections in the original story about the number of centers (four), total funding ($40 m), and the georgia tech's share (one-fourth). 
+ additional images 
+ contact 
+ writer & media representative : ben brumfield (404-660-1408)  georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

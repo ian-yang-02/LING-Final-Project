@@ -1,0 +1,32 @@
+atomic-level imaging could offer roadmap to metals with new properties 
+ a team of researchers at the georgia institute of technology has developed a new process that could help gain new insights into individual high-entropy alloys. 
+ this schematic illustration of the new palladium-containing high entropy allow shows how new alloy contains large palladium clusters (blue atoms). 
+ oct 09, 2019 
+ — atlanta, ga 
+ high-entropy alloys, which are made from nearly equal parts of several primary metals, could hold great potential for creating materials with superior mechanical properties. 
+ but with a practically unlimited number of possible combinations, one challenge for metallurgists is figuring out where to focus their research efforts in a vast, unexplored world of metallic mixtures. 
+ a team of researchers at the georgia institute of technology has developed a new process that could help guide such efforts. their approach involves building an atomic resolution chemical map to help gain new insights into individual high-entropy alloys and help characterize their properties. 
+ in a study published oct. 9 in the journal  nature , the researchers described using energy-dispersive x-ray spectroscopy to create maps of individual metals in two high-entropy alloys. this spectroscopy technique, used in conjunction with transmission electron microscopy, detects x-rays emitted from a sample during bombardment by an electron beam to characterize the elemental composition of an analyzed sample. the maps show how individual atoms arrange themselves within the alloy, allowing researchers to look for patterns that could help them design alloys emphasizing individual properties. 
+ for example, the maps could give researchers clues to understand why substituting one metal for another could make an alloy stronger or weaker, or why one metal outperforms others in extremely cold environments. 
+ "most alloys used in engineering applications have only one primary metal, such as iron in steel or nickel in nickel-based super alloys, with relatively small amounts of other metals," said ting zhu, a professor in the george w. woodruff school of mechanical engineering at georgia tech. "these new alloys that have relatively high concentrations of five or more metals open up the possibility of unconventional alloys that may have unprecedented properties. but this is a new compositional space that has not been explored, and we still have a very limited understanding of this class of materials." 
+ the name "high entropy" refers to the lack of uniformity in the mixture of metals as well as how many different and somewhat random ways the atoms from the metals can be arranged as they are combined. 
+ the new maps could help researchers determine whether there are any unconventional atomic structures that such alloys take that could be leveraged for engineering applications, and how much control researchers could have over the mixtures in order to "tune" them for specific traits, zhu said. 
+ to test the new imaging approach, the research team compared two high-entropy alloys containing five metals. one was a mixture of chromium, iron, cobalt, nickel, and manganese, a combination commonly referred to as a "cantor" alloy. the other was similar but substituted palladium for the manganese. that one substitution resulted in much different behavior in how the atoms arranged themselves in the mixture. 
+ "in the cantor alloy, the distribution of all five elements is consistently random," zhu said. "but with the new alloy containing palladium, the elements show significant aggregations due to the much different atomic size of palladium atoms as well as their difference in electronegativity compared to the other elements." 
+ in the new alloy with palladium, the mapping showed that palladium tended to form large clusters while cobalt seemed to collect in places where iron was in low concentrations. 
+ those aggregations, with their sizes and spacings in the range of a few nanometers, provide strong deformation resistance and could explain the differences in mechanical properties from one high-entropy alloy to another. in straining tests, the alloy with palladium showed higher yield strength while keeping similar strain hardening and tensile ductility as the cantor alloy. 
+ "the atomic scale modulation of element distribution produces the fluctuation of lattice resistance, which strongly tunes dislocation behaviors," said qian yu, a coauthor of the paper and a professor in zhejiang university. "such modulation occurs at a scale that is finer than precipitation hardening and is larger than that of traditional solid solution strengthening. and it provides understanding for the intrinsic character of high-entropy alloys." 
+ the findings could enable researchers to custom design alloys in the future, leveraging one property or another. 
+ “we believe that this work is really important, as local chemical ordering in these extremely high profile, high-entropy alloys is critical to dictating their properties.” said robert ritchie, another coauthor and a professor at the university of california, berkeley. ”indeed, this presents a way to tailor these materials to attain optimal properties by atomic design.” 
+ the team also included researchers from the university of tennessee, knoxville; tsinghua university; and the chinese academy of sciences. 
+ this research was supported by the national science foundation through grant no. dmr-1810720, the department of energy through contract no. de-ac02-05ch11231, the national natural science foundation of china through grant no. b16042, and the state key program for basic research in china under grant no. 2015cb659300. the content reflects the views of the authors and does not necessarily represent the official views of the sponsoring agencies. 
+ citation : qingqing ding, yin zhang, xiao chen, xiaoqian fu, dengke chen, sijing chen, lin gu, fei wei, hongbin bei, yanfei gao, minru wen, jixue li, ze zhang, ting zhu, robert ritchie, and qian yu, "tuning element distribution, structure and properties by composition in high-entropy alloys," ( nature , october 2019).  http: / / dx.doi.org / 10.1038 / s41586-019-1617-1 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

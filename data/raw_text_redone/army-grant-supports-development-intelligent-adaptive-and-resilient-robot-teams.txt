@@ -1,0 +1,40 @@
+army grant supports development of intelligent, adaptive and resilient robot teams 
+ the u.s. army research laboratory has awarded a $27 million grant to develop new methods of creating robot teams. 
+ sonia chernova, an assistant professor in the school of interactive computing, is part of a research group working on a new army research laboratory grant aimed at developing resilient robot teams. (credit: rob felt, georgia tech) 
+ oct 16, 2017 
+ — atlanta, ga 
+ the 
+ u.s. army research laboratory 
+ has awarded an alliance headed by the university of pennsylvania a five-year, $27 million grant to develop new methods of creating autonomous, intelligent and resilient teams of robots. 
+ these teams, consisting of multiple types of robots and sensors with varying abilities, are designed to assist humans in a wide range of missions in dynamically changing, harsh and contested environments. these include search and rescue of hostages, information gathering after terrorist attacks or natural disasters, and humanitarian missions. 
+ the award is part of arl’s distributed and collaborative intelligent systems and technology (dcist) collaborative research alliance. penn engineering will lead this alliance in collaboration with the army research laboratory, massachusetts institute of technology’s aeronautics and astronautics department, and the georgia institute of technology. the consortium also includes faculty from university of california san diego, university of california berkeley and university of southern california. 
+ dcist involves imbuing teams of heterogeneous robots and sensors with the intelligence to learn and adapt to different settings and perform new tasks along with humans. key to this vision is building resilience to disruption. 
+ teams of robots and human first responders might eventually be used to survey a disaster site for victims, but unpredictable environments and ongoing hazards could damage or destroy some of the robots, or disrupt communications between them. if each robot were just preprogrammed and given specific instructions, that could lead to gaps in their search. but if the team were able to reconfigure itself in response to damage, the remaining robots could collaboratively decide how to reorganize and work with human partners to complete the mission. 
+ “we want to have teams of robots that know how to work together, but can figure out how to keep working even if some of their teammates crash or fail, if gps signal is unavailable, or if cloud services are disrupted,” said vijay kumar, penn engineering’s nemirovsky family dean and director for the dcist program. “this means designing networks with loose, flexible connections that can change on the fly. that way, a single event can’t bring down the entire network. more importantly, we want them to learn to perform tasks they may have never performed and work alongside humans that they may never have worked with.” 
+ the three important research focus areas are distributed intelligence and learning; creating a cohesive team of autonomous robots, sensors, computational resources and human experts; and building resiliency in group behaviors. 
+ “through this exciting project, georgia tech will help develop novel tools and techniques that enable human operators to work effectively and safely in teams together with autonomous robots,” said 
+ magnus egerstedt , executive director of georgia tech’s 
+ institute for robotics and intelligent machines 
+ and julian t. hightower chair in systems and controls. “these types of questions connect well with our expertise in the areas of human-robot interactions, distributed decision making and learning, and swarm robotics.” 
+ beyond egerstedt, the georgia tech researchers affiliated with this multidisciplinary project are 
+ sonia chernova , assistant professor in the school of interactive computing; 
+ panagiotis tsiotras , dean’s professor in the school of aerospace engineering; and 
+ justin romberg , associate chair for research and schlumberger professor in the school of electrical and computer engineering. 
+ with multiple types of assets collectively assessing a complex, continuously changing scenario and determining how best to assign their individual skills to a broadly defined problem, such human-robot teams of the future would be ideal first-responders to dangerous situations. 
+ “the technology we’re working will better allow humans to respond by projecting their intelligence without directly coming in harm’s way,” kumar said. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181 usa 
+ media relations contacts : georgia tech – john toon (404-894-6986) (jtoon@gatech.edu); upenn – evan lerner (215-573-6604) (elerner@upenn.edu). 
+ provided by army research laboratory 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

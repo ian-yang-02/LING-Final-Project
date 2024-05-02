@@ -1,0 +1,38 @@
+pettrack lets owners know exactly where their dog is 
+ pettrack uses a combination of sensors to give the accurate, real-time indoor location of an animal. 
+ aug 30, 2022 
+ — atlanta, ga 
+ the pandemic gave people a lot more time with their dogs and cats, but  return to the office has disrupted that connection. pet cameras can help but are needed in every room and don’t really tell owners what their furry friend has been up to without reviewing all footage. now, researchers at the georgia institute of technology have created a new device that can put pet owners at ease. 
+ pettrack uses a combination of sensors to give the accurate, real-time indoor location of an animal. ultra-wideband (uwb) radio wireless sensors locate the pet and accelerometers determine if it’s sitting or moving regardless of objects or walls in the way, giving owners more detail on what their pet is doing than a camera or gps. all of this is located on a small sensor that can be put on a collar for minimal invasiveness and can be viewed via a compatible smartphone app. 
+ “pettrack comprises two things: one is knowing the pet’s indoor location and second is trying to understand their activity,” said 
+ ashutosh dhekne , an assistant professor in the 
+ school of computer science (scs). 
+ dhekne and his students presented the research in the paper “ pettrack: tracking pet location and activity indoors ” at bodysys 2022 in july, a workshop on body-centric computing systems that was part of 
+ mobisys 2022 
+ in portland, oregon. 
+ how pettrack works 
+ pettrack’s innovative combination of sensors makes it unique compared to other pet-monitoring devices. the uwb radio wireless signal locates where the pet is in the home from up to 100 feet away, while the accelerometer acts as an inertial sensor that can track the pet’s pose. this means owners can learn whether their pet is standing, sitting, or even lying down. 
+ unlike with cameras, owners can always know where their pet is because the uwb network is accessible through walls, furniture, doors, or anything else a cat or dog can hide behind. the uwb network is plug-and-play and doesn’t interfere with existing wifi but should be connected to a home wifi network to give the owner smartphone updates. location data takes up far less bandwidth than images and doesn’t burden the owner’s wifi. multiple uwb sensors and a central anchor data collection module help determine the location via multilateration, or individual distance measurements from different anchors,keeping it accurate. 
+ “together, combining where the pet is and what the orientation of the pet is, we can create a summary map of where the pet has been during the day and what activity the pet was doing,” dhekne said. 
+ this could reassure owners who are concerned about pets getting into forbidden places or comfort owners worried about their sick or elderly animals. 
+ pettrack privacy 
+ privacy is another major advantage of pettrack. just like a router, pettrack has at least one central anchor device in the home or backyard, making it less invasive than a camera in every room. it also doesn’t take up the entire room because the device is small enough to hide behind a lampshade . one set of anchor devices can track up to four pets with updates every second. pettrack functions even when only a few anchor devices are reachable, albeit with lower location accuracy. 
+ pettrack’s local focus also keeps it safer. whereas hackers can take over cameras and compromise privacy for owners, pettrack’s network only functions in the area it’s in. this means it doesn’t have the same vulnerabilities cameras do such as enabling a hacker to watch owners or locate expensive objects or valuables in the house. 
+ pettrack’s future possibilities 
+ currently pettrack is designed just to monitor an animal’s location and position, but it has a lot of potential. pet daycares could use the technology, so owners have a sense of how their dog is doing away from home. it could also become a training tool where a buzzer could sound if a pet were in an area they were not meant to be. 
+ pettrack could not only be the future of animal-monitoring technology but could provide a whole new way for owners to connect with their dogs or cats. 
+ “overall, the idea is to connect better with your pet, using pettrack,” dhekne said. “you could detect changing pet behaviors and interact with the pet using location-aware robotic toys.” 
+ other researchers think pettrack could improve the pet training process. neeraj alavala, the lead scs master’s student on the project,  shared the feedback other researches provided at bodysys. 
+ “one good piece of feedback that we got was that we could use our existing setup to also track when pets make accidents in the house during potty training,” alavala said. “we already have the technology to track when and where these accidents happen and can ensure that those areas get cleaned up. as an extension, we can also give the pet feedback like a buzzer to train the pet to not go in the house.” 
+ whatever its applications, pettrack could make the bond people have with their pets even stronger. 
+ citation: alavala, n., chen, h., singhal, r., dhekne, a. pettrack: tracking pet location and activity indoors. 
+ bodysys 
+ (2022). https: / / doi.org / 10.1145 / 3539489.3539587 
+ additional images 
+ contact 
+ tess malone, research writer / editor 
+ email 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

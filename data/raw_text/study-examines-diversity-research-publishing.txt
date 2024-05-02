@@ -1,0 +1,32 @@
+Study Examines Diversity in Research Publishing
+Analysis of more than 5 million scholarly articles strengthens the case for diversifying research
+This graphic shows the representation of various racial, ethnic, and gender groups as published authors in various fields. It shows that Latino, Black, and white women are significantly underrepresented as authors in engineering and technology, mathematics, and physics publications and are heavily overrepresented in health fields. (Courtesy Diego Kozlowski/University of Luxembourg)
+Jan 10, 2022
+— Atlanta, GA
+Science is often seen as a meritocracy, where the best work rises to the top along with the researchers who shepherd those advances. A new study co-authored by School of Public Policy Chair Cassidy R. Sugimoto tests that premise at the intersection of race and gender and finds cracks in that façade.
+According to the study’s bibliometric analysis of more than 5 million articles published between 2008 and 2019 — primarily by U.S.-based researchers — white and Asian male authors exert an outsized influence on the selection of research topics, publish on the broadest range of issues, and are more often listed as first authors. On the other hand, Black, Latino, and women authors are underrepresented in many STEM fields and often appear as authors only in less-cited fields.
+“The compound effect of different citation rates of topics and unequal distribution in topics by race and gender leads to negative effects for marginalized groups and for science itself, as some topics become systematically less studied,” the researchers wrote in their
+paper , which was published Jan. 2, 2022, in the
+Proceedings of the National Academy of Sciences (PNAS).
+In fact, the researchers assert that, had the distribution of authors matched the U.S. population over the last four decades, researchers would have produced 29% more articles on public health, 26% more on gender-based violence, 25% more on gynecology and gerontology, 20% more on immigrants and minorities, and 18% more on mental health.
+“This study highlights the importance of not only expanding gender and racial diversity among researchers in high-impact areas of study, but also promoting research in historically underrepresented areas through increased funding,” said
+Sugimoto , the Tom and Marie Patton Chair in the
+School of Public Policy .
+The research is the start of a line of work examining how the scientific enterprise affects — and is affected by — researchers of color, said Thema Monroe-White, an assistant professor at Berry College, a School of Public Policy alumna, and the study’s corresponding author.
+“Our research suggests that for minoritized scholars, what we study is framed by our racialized and gendered identities” said Monroe-White. “This finding pushes against idealized notions of meritocracy in science. Institutions and individual disciplines should take action by amplifying research produced by minoritized scholars, particularly on topics for which they have greater representation yet whose impact remains marginalized.”
+The authors drew the study’s data from articles indexed in the Web of Science database. Papers with more than 1.6 million first authors were part of the analysis.
+The researchers used data on the prevalence of last names in various racial and ethnic groups to determine the racial makeup of authors. Instead of assigning author names to the most probable racial or ethnic group, the researchers assigned the names to such groups fractionally. This was done to prevent issues with underestimating the number of Black authors that have cropped up in previous research.
+They found that while papers with white first authors had the broadest range of topics, those authored by Black, Latino, and women authors were frequently more specialized. For instance, leading topics for black women researchers were “black women violation,” “equality promotion,” and “social identity.” Latino authors were more likely to publish on “racial disparities” and “English-Spanish.”
+“The ubiquity of white men in science and across topics implies that this demographic group has a wider range of possible strategies to follow and an advantage in the way their scientific capital can be invested, reinforcing inequalities in scholarly outcomes,” the authors wrote in the paper.
+The article, “Intersectional Inequalities in Science,” is available at
+https://doi.org/10.1073/pnas.2113067119 .
+The School of Public Policy is a unit of the Ivan Allen College of Liberal Arts.
+Additional Images
+Contact
+Michael Pearson
+michael.pearson@iac.gatech.edu
+Email
+michael.pearson@iac.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

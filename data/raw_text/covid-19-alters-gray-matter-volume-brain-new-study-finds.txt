@@ -1,0 +1,40 @@
+Covid-19 Alters Gray Matter Volume in the Brain, New Study Finds
+A study from researchers at Georgia Tech and Georgia State University finds that Covid-19 patients experience a higher level of disability caused by lower gray matter volume in the front region of the brain.
+Researchers Kuaikuai Duan and Vince Calhoun have found that neurological complications of Covid-19 patients may be linked to lower gray matter volume in the front region of the brain even six months after hospital discharge. (Photo credit: Vince Calhoun, Georgia Tech)
+May 11, 2021
+— Atlanta, GA
+Covid-19 patients who receive oxygen therapy or experience fever show reduced gray matter volume in the frontal-temporal network of the brain, according to a new study led by researchers at Georgia State University and the Georgia Institute of Technology.
+The study found lower gray matter volume in this brain region was associated with a higher level of disability among Covid-19 patients, even six months after hospital discharge.
+Gray matter is vital for processing information in the brain and gray matter abnormality may affect how well neurons function and communicate. The study, published in the May 2021 issue of
+Neurobiology of Stress , indicates gray matter in the frontal network could represent a core region for brain involvement in Covid-19, even beyond damage related to clinical manifestations of the disease, such as stroke.
+The researchers, who are affiliated with the
+Center for Translational Research in Neuroimaging and Data Science (TReNDS) , analyzed computed tomography scans in 120 neurological patients, including 58 with acute Covid-19 and 62 without Covid-19, matched for age, gender and disease.  The work was done jointly with Enrico Premi and his colleagues at the University of Brescia in Italy, who provided the data for the study. They used source-based morphometry analysis, which boosts the statistical power for studies with a moderate sample size.
+“Science has shown that the brain’s structure affects its function, and abnormal brain imaging has emerged as a major feature of Covid?19,” said Kuaikuai Duan, the study’s first author, a graduate research assistant at TReNDS and Ph.D. student in Georgia Tech’s School of Electrical and Computer Engineering. “Previous studies have examined how the brain is affected by Covid-19 using a univariate approach, but ours is the first to use a multivariate, data-driven approach to link these changes to specific Covid-19 characteristics (for example fever and lack of oxygen) and outcome (disability level).”
+The analysis showed patients with higher levels of disability had lower gray matter volume in the superior, medial and middle frontal gyri at discharge and six months later, even when controlling for cerebrovascular diseases. Gray matter volume in this region was also significantly reduced in patients receiving oxygen therapy compared to patients not receiving oxygen therapy. Patients with fever had a significant reduction in gray matter volume in the inferior and middle temporal gyri and the fusiform gyrus compared to patients without fever. The results suggest Covid-19 may affect the frontal-temporal network through fever or lack of oxygen.
+Reduced gray matter in the superior, medial and middle frontal gyri was also present in patients with agitation compared to patients without agitation. This implies that gray matter changes in the frontal region of the brain may underlie the mood disturbances commonly exhibited by Covid-19 patients.
+“Neurological complications are increasingly documented for patients with Covid-19,” said
+Vince Calhoun , senior author of the study and director of TReNDS. Calhoun is Distinguished University Professor of Psychology at Georgia State and holds appointments in the School of Electrical and Computer Engineering at Georgia Tech and in neurology and psychiatry at Emory University. “A reduction of gray matter has also been shown to be present in other mood disorders such as schizophrenia and is likely related to the way that gray matter influences neuron function.”
+The study’s findings demonstrate changes to the frontal-temporal network could be used as a biomarker to determine the likely prognosis of Covid-19 or evaluate treatment options for the disease. Next, the researchers hope to replicate the study on a larger sample size that includes many types of brain scans and different populations of Covid-19 patients.
+TReNDS is a partnership among Georgia State, Georgia Tech and Emory University and is focused on improving our understanding of the human brain using advanced analytic approaches. The center uses large-scale data sharing and multi-modal data fusion techniques, including deep learning, genomics, brain mapping and artificial intelligence.
+CITATION:
+K. Duan, et. al., “Alterations of frontal-temporal gray matter volume associate with clinical measures of older adults with COVID-19.” ( Neurobiology of Stress , May 2021)
+https://doi.org/10.1016/j.ynstr.2021.100326
+***
+Georgia State University is an enterprising urban public research institution in Atlanta, the leading cultural and economic center of the Southeast. Georgia’s largest university and a national leader in graduating students from diverse backgrounds, Georgia State is changing the way more than 54,000 students experience college across six campuses in metro Atlanta. The university’s world-class faculty scientists oversee a wide-ranging research portfolio that is generating new insights and new discoveries in health, sustainability, data science, cybersecurity and more.
+The Georgia Institute of Technology, or Georgia Tech, is a top 10 public research university developing leaders who advance technology and improve the human condition.
+The Institute offers business, computing, design, engineering, liberal arts, and sciences degrees. Its nearly 40,000 students, representing 50 states and 149 countries, study at the main campus in Atlanta, at campuses in France and China, and through distance and online learning. As a leading technological university, Georgia Tech is an engine of economic development for Georgia, the Southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society.
+Additional Images
+Contact
+Jennifer Rainey Marquez
+Associate Director, Communications and PR
+Georgia State University
+(404-413-4007)
+(jmarquez@gsu.edu)
+Anne Wainscott-Sargent
+Research News, Georgia Tech
+(404-435-5784)
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

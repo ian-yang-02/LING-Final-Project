@@ -1,0 +1,34 @@
+Civic Data Analysis Finds New Opportunity for Federal Energy Efficiency Initiatives
+A new study from the School of Public Policy finds that federal housing policies accelerate energy efficiency participation among low and moderate-income households — even when those policies don’t directly address energy efficiency.
+Omar Asensio, GT Energy Research Faculty and HBS visiting fellow, Institute for the Study of Business in Global Society
+Mar 18, 2024
+A new study by Associate Professor
+Omar Isaac Asensio
+and a team of students in Georgia Tech’s School of Public Policy finds that federal housing policies accelerate energy efficiency participation among low- and moderate-income households — even when those policies don’t directly address energy efficiency.
+The research , published in
+Nature Sustainability , shows how community development block grants from the U.S. Department of Housing and Urban Development (HUD) generated an average of 5% to 11% energy savings in economically burdened households in Albany. The savings equate to the cost of roughly two months of groceries per household per year.
+"These housing participants who didn't come in thinking about energy efficiency saved anywhere from $75 to $482 per year in energy bills," Asensio said. "Those are meaningful savings that really impact people. So, we ended up finding very significant hidden social benefits from these policies that were previously unknown."
+https://youtu.be/eWqOFj9qRxw
+The findings are surprising because HUD grants do not specifically target energy efficiency or sustainability measures in exchange for governmental assistance. Instead, they are given at the discretion of the local government to residents facing housing emergencies such as deteriorating roofs or broken HVAC systems in the hot summer. Because of the high amount of deferred maintenance in these homes, the fixes have a spillover effect of significantly reducing energy use — for example, by adopting more efficient technologies and bringing structures up to building codes — and saving money for people who receive them.
+The multidisciplinary research team in Asensio’s
+Data Science & Policy Lab,
+including current and former Public Policy students Olga Churkina and Becky D. Rafter and industrial engineering alumna Kira E. O'Hare, also found that the cost-effectiveness of housing-based interventions rivals standalone energy efficiency policies, offering a promising alternative for reaching marginalized communities.
+"For decades, we’ve struggled to get meaningful participation with conventional policies in these lower and moderate-income communities, including among renters and people in multi-family homes,” Asensio said. "Using housing block grants as an entry strategy to drive efficiency is an important policy innovation.”
+With support from the National Science Foundation, ESRI, Inc., and the Georgia Smart Communities Challenge, Asensio and his co-authors spent nearly four years collecting, cleaning, and combining Albany's previously siloed city data into one community analytics repository. They linked records for 5.9 million utility bills per month from 2004 to 2019, allowing them to see long-run impacts of policy intervention, energy consumption, and payments by household — an uncommonly granular level of data.
+"Overall, HUD-funded block grants in Albany reduced electricity use by 4.72 million kilowatt hours over the study period versus the control group," the researchers wrote. "The reduction in non-baseload emissions is equivalent to 3.70 million pounds of coal not being burned or the carbon sequestered by 3,695 acres of forest."
+Asensio's research is timely because the Southeast has some of the country's highest energy-burdened households. In the U.S., spending over 6% of net income on energy is considered a burden. In Albany, renters' and homeowners' energy costs can surpass ten or even 20% of household budgets, Asensio said, and many housing applicants are elderly and on fixed incomes.
+Unlike conventional energy initiatives that are reliant on self-selection, housing programs can provide a more equitable and localized strategy. That's because "most of the standalone policies for energy efficiency have two main outcomes," Asensio said. "First, the programs generally attract more affluent and informed homeowners, in which case, questions arise as to whether this might be a good use of public funds. Second, when these policies are restricted to certain income eligibility limits, we don't get enough participation from lower-income residents for a long list of reasons. So, reaching low- and moderate-income households has become a fundamental challenge."
+In contrast, housing block grants naturally target a broader range of residents with high energy burdens and help circumvent the problem of low participation. Rather than trying to market an energy-saving offer to people who aren't interested or are distrustful of the government, HUD grants have long waiting lists.
+"There are thousands and thousands of communities that look very much like Albany within and outside of major metro areas,” Asensio said. "This is a relatively untapped opportunity for driving energy efficiency within households who may not necessarily have an awareness of or interest in energy efficiency measures.”
+The paper, “Housing Policies and Energy Efficiency Spillovers in Low and Moderate Income Communities,” was published online in
+Nature Sustainability
+on March 18. It is available at
+https://doi.org/10.1038/s41893-024-01314-w . This work was partially supported by awards from the National Science Foundation (Award No. 1945332), ESRI, Inc., the Georgia Smart Communities Challenge, and the Institute for the Study of Business in Global Society at Harvard Business School.
+Contact
+Di Minardi
+Ivan Allen College of Liberal Arts
+Email
+dminardi3@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,45 @@
+researchers help close security hole in popular encryption software 
+ cybersecurity researchers have helped close a side channel security vulnerability in popular encryption software. 
+ analysis of the am-modulated signal showing the portion relevant to the security of the encryption software. 
+ aug 09, 2018 
+ — atlanta, ga 
+ cybersecurity researchers at the georgia institute of technology have helped close a security vulnerability that could have allowed hackers to steal encryption keys from a popular security package by briefly listening in on unintended “side channel” signals from smartphones. 
+ the attack, which was reported to software developers before it was publicized, took advantage of programming that was, ironically, designed to provide better security. the attack used intercepted electromagnetic signals from the phones that could have been analyzed using a small portable device costing less than a thousand dollars. unlike earlier intercept attempts that required analyzing many logins, the “one & done” attack was carried out by eavesdropping on just one decryption cycle. 
+ “this is something that could be done at an airport to steal people’s information without arousing suspicion and makes the so-called ‘coffee shop attack’ much more realistic,” said 
+ milos prvulovic , associate chair of georgia tech’s 
+ school of computer science . “the designers of encryption software now have another issue that they need to take into account because continuous snooping over long periods of time would no longer be required to steal this information.” 
+ the side channel attack is believed to be the first to retrieve the secret exponent of an encryption key in a modern version of openssl without relying on the cache organization and / or timing. openssl is a popular encryption program used for secure interactions on websites and for signature authentication. the attack showed that a single recording of a cryptography key trace was sufficient to break 2048 bits of a private rsa key. 
+ results of the research, which was supported in part by the national science foundation, the defense advanced research projects agency (darpa), and the air force research laboratory (afrl) will be presented at the 27th usenix security symposium august 16th in baltimore. 
+ after successfully attacking the phones and an embedded system board – which all used arm processors – the researchers proposed a fix for the vulnerability, which was adopted in versions of the software made available in may. 
+ side channel attacks extract sensitive information from signals created by electronic activity within computing devices during normal operation. the signals include electromagnetic emanations created by current flows within the devices computational and power-delivery circuitry, variation in power consumption, and also sound, temperature and chassis potential variation. these emanations are very different from communications signals the devices are designed to produce. 
+ in their demonstration, prvulovic and collaborator 
+ alenka zajic 
+ listened in on two different android phones using probes located near, but not touching the devices. in a real attack, signals could be received from phones or other mobile devices by antennas located beneath tables or hidden in nearby furniture. 
+ the “one & done” attack analyzed signals in a relatively narrow (40 mhz wide) band around the phones’ processor clock frequencies, which are close to 1 ghz (1,000 mhz). the researchers took advantage of a uniformity in programming that had been designed to overcome earlier vulnerabilities involving variations in how the programs operate. 
+ “any variation is essentially leaking information about what the program is doing, but the constancy allowed us to pinpoint where we needed to look,” said prvulovic. “once we got the attack to work, we were able to suggest a fix for it fairly quickly. programmers need to understand that portions of the code that are working on secret bits need to be written in a very particular way to avoid having them leak.” 
+ the researchers are now looking at other software that may have similar vulnerabilities, and expect to develop a program that would allow automated analysis of security vulnerabilities. 
+ “our goal is to automate this process so it can be used on any code,” said zajic, an associate professor in georgia tech’s 
+ school of electrical and computer engineering . “we’d like to be able to identify portions of code that could be leaky and require a fix. right now, finding these portions requires considerable expertise and manual examination.” 
+ side channel attacks are still relatively rare, but prvulovic says the success of “one & done” demonstrates an unexpected vulnerability. the availability of low-cost signal processing devices small enough to use in coffee shops or airports could make the attacks more practical. 
+ “we now have relatively cheap and compact devices – smaller than a usb drive – that are capable of analyzing these signals,” said prvulovic. “ten years ago, the analysis of this signal would have taken days. now it takes just seconds, and can be done anywhere – not just in a lab setting.” 
+ producers of mobile devices are becoming more aware of the need to protect electromagnetic signals of phones, tablets and laptops from interception by shielding their side channel emissions. improving the software running on the devices is also important, but prvulovic suggests that users of mobile devices must also play a security role. 
+ “this is something that needs to be addressed at all levels,” he said. “a combination of factors – better hardware, better software and cautious computer hygiene – make you safer. you should not be paranoid about using your devices in public locations, but you should be cautious about accessing banking systems or plugging your device into unprotected usb chargers.” 
+ in addition to those already mentioned, the research involved monjur m. alam, haider a. khan, moumita dey, nishith sinha and robert callen, all of georgia tech. 
+ this work has been supported, in part, by the national science foundation under grant 1563991 and by the air force research laboratory and darpa lads under contract fa8650-16-c-7620. the views and findings in this paper are those of the authors and do not necessarily reflect the official views of nsf, darpa or the afrl. 
+ citation : monjur m. alam, et. al., “one&done: a single-decryption em-based attack on openssl’s constant-time blinded rsa,” proceedings of the 27th usenix security symposium. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

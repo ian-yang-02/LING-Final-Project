@@ -1,0 +1,42 @@
+What is New @ GT in Packaging? 5G and mm-wave Packaging
+Georgia Tech and its industry partners are developing 5G and mm-wave packaging using ultra-thin Glass panel Fan-out technology
+Printed mm-wave antenna arrays at Georgia Tech.
+Oct 17, 2016
+— Atlanta, GA
+Georgia Tech and its industry partners are developing 5G and mm-wave packaging using ultra-thin Glass panel Fan-out technology with 10-100X improvement in bandwidth for consumer, computer, communication and automotive applications.
+The explosive growth of data traffic from increasing number of digital and sensor devices, connected to the network, and the escalating demand for self-driving cars requiring both long-range vehicle-to-network and short-range vehicle-to-vehicle connectivity, has created a need for 10-100X increase in wireless data communication rates beyond current 4G LTE connectivity. This extreme traffic density requires high-frequency mobile bands, much beyond WLAN at 6 GHz, requiring mm-wave (e.g., 28-39 GHz and above) communications. Many challenges in achieving these goals such as those associated with system-level design, materials, processes, antennas and module integration must be addressed.
+Traditional mm-wave packages are based on ceramic substrates. The high cost and low-integration limitations of ceramics have led to the evolution of organic packages. A fully-integrated antenna-in-package (AiP) for W-band phased-array system, with 64 dual-polarization antennas embedded in a multi-layer organic substrate, with SiGe transceiver dies that are flipchip-attached has been demonstrated by IBM. In addition, ultra-low loss organic substrates using Teflon and LCPs were explored with high gains and high bandwidth. The evolution of embedded and fan-out wafer level ball grid array package technology (eWLB) further enhanced the performance of mm-wave packages by eliminating the wirebonds, as demonstrated by Infineon technologies, with SiGe-BiCMOS technology. However, organic laminates and molding-compound based fan-outs are limited by the precision and tolerance of circuitry for mm-wave components.
+In contrast to the above approaches for 5G and beyond, Georgia Tech and its industry partners are pioneering ultra-thin, panel-based glass fan-out (GFO) embedded technology. GFO offers many advantages such as low electrical loss, superior dimensional stability for precision circuitry, stability to high temperature and humidity, matched CTE to Si and other devices and availability in thin and large glass panels processed with Cu-through vias, similar in dimensions to TSVs and RDL wiring layers, and similar to BEOL on Si. The Georgia Tech approach leads to major design, material, process and 3D package architecture innovations.
+Some of the key research innovations of the Georgia Tech 5G and beyond program include:
+Low-loss transmission with innovative waveguide structures on glass substrates with insertion losses approaching 0.05 dB/mm.
+Formation of precision circuitry enabled by high dimensional stability and surface smoothness of glass resulting in further lowering of the losses.
+Miniaturized and high bandwidth, high gain antenna arrays enabled by glass, in combination with ultra-low loss thinfilm polymers with initial results indicating that the bandwidth can be improved by 20% with a gain of 10 dBi than those on organic substrates.
+Formation of via arrays in glass with double-side interconnections enabling compact passive elements such as couplers and filters.
+Integrated power amplifiers with thermal management using large copper through-via structures in glass thus eliminating the hotspots and reliability issues with embedded high-power dies.
+Feasibility of transparent RF electronics enabled by transparent glass substrates, transparent dielectrics and conductors in automotive windshields and windows.
+Innovative materials and processes such as 3D printing on flex substrates being pioneered by Georgia Tech for low-cost IoT applications.
+Innovative module integration of passives and actives with ultra-short interconnection length and ultra-small-vias in glass, resulting in very low via inductance, less than 50 pH and via-related transition losses, to less than 0.03 dB.
+The 5G project is currently active in collaboration with many industry partners, including glass companies such as Corning Glass, Asahi Glass, and Schott Glass, supplying the ultra-thin glass panels; low-loss dielectric material suppliers such as Rogers; tool companies such as Ushio for precision lithography; Disco for planarization and dicing; Atotech for supplying the plating chemistry for advanced metallization processes; and end-users like Qualcomm.
+About the Authors
+Atom Watanabe is a PhD student under the advisement of Prof. Rao Tummala. His research focus is on EMI shielding and mm-wave module integration;
+atom@gatech.edu .
+Prof. Manos Tentzeris, Ken Byers Professor in ECE Department, Georgia Tech, is the faculty lead for the mm-wave program;
+etentze@ece.gatech.edu .
+Prof. Rao Tummala is the Joseph M. Pettit Chair Professor in ECE and MSE, and the Director of Georgia Tech’s 3D Systems Packaging Research Center (GT PRC);
+rao.tummala@ece.gatech.edu .
+Dr. Raj Pulugurtha is a Research Professor and the Program Manager of Power and RF Module Programs;
+pm86@mail.gatech.edu .
+Dr. Venky Sundaram is a Research Professor and the Program Manager of Glass Substrate Program;
+vs24@mail.gatech.edu .
+Additional Images
+Contact
+Karen May
+Marketing & Communications Coordinator
+Packaging Research Center
+karen.may@ece.gatech.edu
+(404) 385-1220
+Email
+karen.may@ece.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

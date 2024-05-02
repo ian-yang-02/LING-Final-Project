@@ -1,0 +1,45 @@
+GTRI Works to Enhance EV Battery Reuse and Recycling in Georgia
+The Georgia Tech Research Institute (GTRI) is working to optimize Georgia’s EV battery supply chain by developing cost-and energy-efficient methods that pose fewer environmental risks.
+GTRI's EV battery recycling efforts are crucial because many of the key minerals found in lithium-ion batteries are sourced from geopolitically sensitive regions across the globe (Photo Credit: iStock).&nbsp;
+Jun 07, 2023
+Amid the surge in demand for lithium-ion batteries, which power everything from smartphones to electric vehicles (EVs), there is a greater need to properly recycle them. The Georgia Tech Research Institute (GTRI) is working to optimize Georgia’s EV battery supply chain by developing cost- and energy-efficient methods to recover materials from spent batteries so that more of them can be reused – and pose fewer environmental risks.
+Georgia is quickly emerging as a hub for the electronic transportation industry. According to
+data
+from the Georgia Department of Economic Development, since 2018, 35 EV-related projects have contributed $23 billion in investments in the state.
+South Korea-based Hyundai Motor Group recently broke ground on its first fully dedicated EV manufacturing facility in Savannah’s Bryan County. The company has also teamed up with LG Energy Solution to invest $4.3 billion in building an EV battery cell manufacturing plant at the same location.
+EV manufacturer and automotive technology company Rivian, which is based on Irvine, Calif., has announced a $5 billion investment in its second U.S. plant located east of Atlanta in Morgan and Walton Counties.
+Hyundai’s new facility is expected to reach full production capacity at the end of 2025, with 30 gigawatt hours (GWh) of energy anticipated to support the production of 300,000 EVs. Rivian, meanwhile, anticipates its Georgia plant will employ over 7,500 workers while producing up to 400,000 vehicles each year.
+“This level of industry engagement in Georgia is unprecedented,” said Kevin Caravati, a GTRI principal research scientist, who is supporting this project. “The Hyundai plant, for example, could create tens of thousands of jobs in a very rural part of Georgia, which would be a step in the right direction for the entire state.”
+The lithium-ion batteries that power EVs are seen as desirable over other battery technologies because of their high energy density, which allows electric cars to travel longer distances on a single charge. These types of batteries also have a low self-discharge rate, which means that the stored energy remains available for an extended period of time even when the vehicle is not in use.
+However, these batteries
+can easily turn into fire hazards – especially at the end of their life cycle. Very few batteries ever end up being recycled and those that do get recycled are often mishandled.
+“Currently, there are no recycling standards in place, which poses challenges for the entire supply chain,” said Milad Navaei, a GTRI senior research engineer, who is leading this project. “ Our goal is to create circular economy for batteries in Georgia where we can reduce our dependence on raw materials that often come from overseas and can be very expensive.”
+Lithium-ion batteries use metals including lithium, nickel, manganese, and cobalt that are mined in locations such as Africa’s Democratic Republic of the Congo, Chile and Argentina. During the production process, the metals are combined with other materials to form the two key components of a battery cell – the cathode and the anode. Inside a battery, the cathode, which has a negative charge, and anode, which has a positive charge, interact to generate electrons that power the electronic device. Most lithium-ion batteries are currently made in China.
+Navaei noted that geopolitical sensitivities and lingering supply chain challenges in many of these regions makes GTRI’s work all the more crucial.
+GTRI’s research consists of two parts: One, develop more advanced analytics capabilities for fleet management companies to monitor the health and performance of EV batteries, and two, optimize the recovery of raw materials from batteries at the end of their useful life.
+“The battery is the most important part of an EV, and it’s critical to know the battery’s state of health (SoH), which is the ratio of the present capacity to the initial capacity,” said Navaei. “Our goal is to utilize technologies such as the Internet of Things (IoT) to monitor the SoH of these batteries and estimate the life cycle, which heavily depends on the usage and the type of battery for its safe and reliable implementation in the next life application.”
+GTRI aims to integrate these technologies into companies’ existing inventory management systems to streamline process management and reporting.
+For the second part of the research, GTRI is utilizing a statistical technique known as parametric modeling to aggregate data about known behaviors and characteristics of EV batteries to help companies make more informed decisions about properly depowering them and repurposing their raw materials with minimal environmental impact.
+“Developing a robust system-modeling approach to support our energy research is a primary focus of ours,” said GTRI Principal Research Scientist Ilan Stern, who is also supporting the project. “Since our ultimate goal is to utilize domestic sources in our supply chain, really the only way to do that is by building out strong recycling models to account for the fact that these companies are working with finite materials and many of them are coming from conflict zones.”
+GTRI is working with a number of industry partners on this project, including many companies that participated in
+Georgia Tech Battery Day
+earlier this year. At the event, over 230 energy researchers and industry participants convened to discuss emerging opportunities in energy storage research. Some of the companies represented at the event included Hyundai Kia, Delta Airlines, Cox Automotive and Panasonic.
+Writer: Anna Akins
+Photo Credit: iStock
+GTRI Communications
+Georgia Tech Research Institute
+Atlanta, Georgia
+The  Georgia Tech Research Institute (GTRI)  is the nonprofit, applied research division of the Georgia Institute of Technology (Georgia Tech). Founded in 1934 as the Engineering Experiment Station, GTRI has grown to more than 2,900 employees, supporting eight laboratories in over 20 locations around the country and performing more than $800 million of problem-solving research annually for government and industry. GTRI's renowned researchers combine science, engineering, economics, policy, and technical expertise to solve complex problems for the U.S. federal government, state, and industry.
+Additional Images
+Related links
+Hybrid Ceramic-Polymer Batteries Offer Safety, High-Performance Potential
+Contact
+(Interim) Director of Communications
+Michelle Gowdy
+Michelle.Gowdy@gtri.gatech.edu
+404-407-8060
+Email
+michelle.gowdy@gtri.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,76 @@
+interdisciplinary senior design teams create low-cost infant incubator 
+ the low-cost neonatal incubator project has been championed by three passionate interdisciplinary senior design teams for consecutive semesters. 
+ interdisciplinary senior design teams create a low-cost infant incubator 
+ aug 18, 2021 
+ — atlanta, ga 
+ ghana has one of the highest neonatal mortality rates in west africa largely due to preterm birth complications. many of these deaths could be prevented with access to incubators to regulate infants’ body temperatures. unfortunately, contemporary western incubators are expensive and difficult to repair and maintain. this challenge and a chance meeting between a ghanaian doctor and a faculty member in the georgia tech school of electrical and computer engineering (ece) has resulted in a multi-semester senior design project that has inspired students in multiple majors. 
+ the low-cost neonatal incubator project has been championed by three passionate interdisciplinary senior design teams for consecutive semesters. the project was identified during the autumn of 2019 when dr. william okyere-frempong, a physician and superintendent of a hospital in accra, ghana, visited atlanta during the 2019-2020 academic year as a participant in the hubert h. humphrey fellowship program locally hosted through emory university. 
+ dr. whit smith of the school of ece met the doctor at his church. when taking dr. okyere-frempong out to dinner shortly following, smith asked him if he needed anything during his stay. 
+ “i was thinking of groceries or recommendations of things to do in atlanta,” said smith. 
+ dr. okyere-frempong quickly began listing a variety of requests for his hospital. one of the most critical needs was for incubators used to maintain infants’ body temperatures. many african medical facilities have acquired a variety of contemporary western incubators over the years, but once they failed, they were permanently unavailable. these fancy, high-end incubators with a multitude of features and a price tag to match, were abandoned in warehouses either because replacement parts were too expensive, or technicians did not have the ability to repair them. 
+ at the time, the hospital had no working incubators at all. the medical staff was forced to use the traditional solution of wrapping babies in blankets and holding them tightly for warmth. what was needed, dr. okyere-frempong explained, was a device that could be inexpensively manufactured and maintained in ghana. the incubators need not be elaborate. they simply needed to do one thing and do it well—as the doctor said in their initial discussion, “keep the baby warm.” 
+ smith recognized that this would be a perfect project for the students in the ece and interdisciplinary senior design courses he helps orchestrate. ece senior design is a course sequence satisfying the capstone design requirement for electrical and computer engineering majors and provides senior students with the opportunity to address and solve open-ended design problems. working in teams, students complete a project requiring an accepted and formal written proposal including demonstrable technical specifications, public presentations, and appropriate documentation. projects must include knowledge and skills acquired in earlier coursework and incorporate appropriate engineering standards and multiple realistic constraints. every engineering program at georgia tech requires senior design which provides ample opportunities for interdisciplinary teams to form and bring their individual skills and interests to a project. 
+ the project progressed over three semesters: spring 2020, fall 2021, and spring 2021. four different majors were represented: biomedical, computer, electrical, and mechanical engineering. noah daugherty, an electrical engineering major, was one of five students on the first senior design team in spring 2020. 
+ “we all fell in love with the project because we had the opportunity to make a huge humanitarian impact. because we were such a well-rounded interdisciplinary team, we had the confidence that we could come up with a solution,” said daugherty. 
+ daugherty especially appreciated the opportunity to work directly with clinical practitioners. regular video calls with dr. okyere-frempong and his team of ghanaian fabricators and engineers gave students the opportunity to adjust their design based on end-user feedback. 
+ in addition to safely regulating the baby’s body temperature and being manufactured and maintained in ghana, students identified other customer requirements. these were ranked based on constraints and customer needs to identify a set of detailed engineering design specifications. additional specifications that the team incorporated included mandatory sterilization of the incubator and its components, clear visibility of and easy access to the baby, an inclined bed for acid reflux, an analog heating system with built-in safety shut-off, an intuitive user interface which facilitated monitoring the baby’s vital signs, and the ability to work with a backup power source. 
+ to reduce costs and enable local fabrication, the teams identified generic automotive and desktop computer components commonly available in ghana including fuses, relays, power supplies, fans, and motors. although an embedded computer which consisted of an open-source raspberry pi running open-source python (both available and familiar to the ghanaian technical communities) was included to make a display monitor and future expansion possible, a primary design constraint was that the thermal regulation function did not require a working computer and be repairable with only a simple voltmeter using intuitive and open documentation. 
+ each team built on the previous team’s work. the spring 2020 group set the groundwork with customer interviews and a thorough understanding of the challenge at hand. their final deliverables included an analysis of the thermal subsystem, a mechanical design in cad, a plan for the electrical control system, and a model of their design. the fall 2020 team conducted thermal analysis experiments and physical tests on the structure. 
+ so many students wanted to work on the project by the spring 2021 semester, smith allowed a total of 18 students divided into three subgroups to participate—two ece teams and one mechanical engineering team. each subgroup handled different aspects of the project (e.g., electronics, mechanical, power) and collaborated to integrate their parts into the whole. using the previous semesters’ prototypes and thermal tests as a start, the spring 2021 team built and tested a full system prototype including documentation. 
+ throughout all three semesters, dr. okyere-frempong’s simple request “to keep the baby warm” became a catchphrase of sorts and a mantra that students repeated through the project milestones. 
+ computer engineering major alton stovall, who worked on the project this past fall, recalls how the teams had to shift their mindsets to accomplish their goals. 
+ “as engineering students, we are trained to make things smaller, faster, cheaper, more powerful, and with tons of features. with this project it was the complete opposite. we had to break it down to the simplest components,” said stovall. 
+ whenever someone strayed from the key criteria for the project or said, “wouldn’t it be neat if we added this?” they were quickly reminded to dial it back by someone else who replied, “just keep the baby warm!” 
+ even with strong interdisciplinary credentials and a healthy dose of passion, the teams could not have prepared for one major roadblock: covid-19. the pandemic threw each of the teams a significant curve ball and impacted them in different ways. 
+ sourcing acrylic (plexiglas), a major component of the incubator design, became a challenge as the world ramped up their health and safety protocols and began using this material as a barrier in public spaces. the major structural components of the incubator design went from affordable and readily available to expensive and difficult to find. 
+ the logistics of working with interdisciplinary teams on a device created for a client on another continent became even more complex as the world quickly began shutting down in the middle of march 2020. daugherty recalls going home for spring break and receiving an email from georgia tech instructing him not to come back to campus. his team of five had to figure out how to keep progressing on the project remotely. 
+ “the end goal had to change significantly. the project turned into a feasibility study and a rough prototype,” said daugherty. 
+ the stakes were even higher for the spring 2021 team. during the semester, one of the team members tested positive for covid-19. all the teammates who had direct contact with that person went into quarantine. during an already hectic point in the project, the team had to come together in crisis mode and figure out a plan in a matter of hours. 
+ “that’s where we really began to see the strength of the team. people who were done with their part said, ‘hey, i can solder this. i can wire this.’ those teammates who weren’t in quarantine picked up the slack and worked into the night to help us all pull it off,” said stovall. 
+ most students heave a sigh of relief after finishing their senior design project. it symbolizes the culmination of their undergraduate career and is a notoriously stressful finale to their last week of classes. but for many students, the incubator project became much more than one last hurdle before graduation. in fact, some members of the spring 2021 team are choosing to continue working on the project for special problems credit during fall 2021 along with new senior design students. 
+ one of those continuing students is electrical engineering major breanna ivey, a co-lead on the analog subsystem this past fall and who was also responsible for documentation, photography, and the final project video. 
+ “yes, georgia tech has me for one more semester,” said ivey. “i’m really grateful to dr. smith for letting so many students work on this project. the fact that he is creating a course for those of us who are still students and don’t want to stop is amazing.” 
+ for those continuing with the project, considered tasks include making the mechanical enclosure sturdier and more attractive; redesigning the heating system with a blower and circuit board that is easier to manufacture in ghana; and making more complete documentation including assembly, user, and troubleshooting manuals.  and facing the temptation of “feature creep”, the students will not forget the most important goal, to “keep the baby warm.” 
+ 2020 spring team 
+ alyssa beyler, mechanical engineer 
+ noah daugherty, electrical engineer 
+ andres rodriguez, computer engineer 
+ elisa schrader, biomedical engineer 
+ malvika upadhyaya, mechanical engineer 
+ 2020 fall team 
+ colin elliott, mechanical engineer 
+ martha hildren, mechanical engineer 
+ vicente blat, biomedical engineer 
+ tobias niebur, electrical engineer 
+ molly emig, electrical engineer 
+ dong he, electrical engineer 
+ 2021 spring team 
+ me team: 
+ karinne bernanke, mechanical engineer 
+ zachary byrd, mechanical engineer 
+ srijan duggal, mechanical engineer 
+ cassidy fountain, mechanical engineer 
+ paige gohr, mechanical engineer 
+ kyle heiss, mechanical engineer 
+ ece team 1: 
+ ismael dondasse, electrical engineer 
+ huy hoang, electrical engineer 
+ benjamin leverett, electrical engineer 
+ hussain miyaziwala, computer engineer 
+ ruth pavoor, computer engineer 
+ michelle ray, electrical engineer 
+ ece team 2: 
+ dorsey beckles, computer engineer 
+ jacques crawford, electrical engineer 
+ hunter ellison, electrical engineer 
+ breanna ivey, electrical engineer 
+ joel mathew, electrical engineer 
+ alton stovall, computer engineer 
+ additional images 
+ contact 
+ ashlee gardner ashlee.gardner@ece.gatech.edu 
+ email 
+ ashlee.gardner@ece.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

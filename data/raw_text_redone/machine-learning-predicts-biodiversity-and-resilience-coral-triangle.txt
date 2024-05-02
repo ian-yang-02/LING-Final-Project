@@ -1,0 +1,38 @@
+machine learning predicts biodiversity and resilience in the coral triangle 
+ the team's new methodology offers hope for better coral connectivity monitoring and protection in the future. 
+ feb 09, 2023 
+ coral reef conservation is a steppingstone to protect marine biodiversity and life in the ocean as we know it. the health of coral also has huge societal implications: reef ecosystems provide sustenance and livelihoods for millions of people around the world. conserving biodiversity in reef areas is both a social issue and a marine biodiversity priority. 
+ in the face of climate change, 
+ annalisa bracco , professor in the 
+ school of earth and atmospheric sciences 
+ at georgia institute of technology, and lyuba novi, a postdoctoral researcher, offer a new methodology that could revolutionize how conservationists monitor coral. the researchers applied machine learning tools to study how climate impacts connectivity and biodiversity in the pacific ocean’s coral triangle — the most diverse and biologically complex marine ecosystem on the planet. 
+ their research , recently published in 
+ nature communications biology , overcomes time and resource barriers to contextualize the biodiversity of the coral triangle, while offering hope for better monitoring and protection in the future. 
+ “we saw that the biodiversity of the coral triangle is incredibly dynamic,” bracco said. “for a long time, it has been postulated that this is due to sea level change and distribution of land masses, but we are now starting to understand that there is more to the story.” 
+ connectivity refers to the conditions that allow different ecosystems to exchange genetic material such as eggs, larvae, or the young. ocean currents spread genetic material and also create the dynamics that allow a body of water — and thus ecosystems — to maintain consistent chemical, biological, and physical properties. if coral larvae are spread to an ecoregion where the conditions are very similar to the original location, the larvae can start a new coral. 
+ bracco wanted to see how climate, and specifically the el niño southern oscillation (enso) in its phases — el niño, la niña, and neutral conditions — impacts connectivity in the coral triangle. climate events that move large masses of warm water in the pacific ocean bring enormous changes and have been known to exacerbate coral bleaching, in which corals turn white due to environmental stressors and become vulnerable to disease. 
+ “biologists collect data 
+ in situ , which is extremely important,” bracco said. “but it’s not possible to monitor enormous regions 
+ in situ 
+ for many years — that would require a constant presence of scuba divers. so, figuring out how different ocean regions and large marine ecosystems are connected over time, especially in terms of foundational species, becomes important.” 
+ machine learning for discovering connectivity 
+ years ago, bracco and collaborators developed a tool, delta maps, that uses machine learning to identify “domains,” or regions within any kind of system that share the same dynamic. bracco initially used it to analyze domains of climate variability in models but also suspected it could be used to study ecoregions in the ocean. 
+ for this study, they used the tool to map out domains of connectivity in the coral triangle using 30 years of sea surface temperature data. sea surface temperatures change in response to ocean currents over scales of weeks and months and across distances of tens of kilometers. these changes are relevant to coral connectivity, so the researchers built their machine learning tool based on this observation, using changes in surface ocean temperature to identify regions connected by currents. they also separated the time periods that they were considering into three categories: el niño events, la niña events, and neutral or “normal” times, painting a picture of how connectivity was impacted during major climate events in particular ecoregions. 
+ novi then applied a ranking system to the different ecoregions they identified. she used rank page centrality, a machine learning tool that was invented to rank webpages on the internet, on top of delta maps to identify which coral ecoregions were most strongly connected and able to receive the most coral larvae from other regions. those regions would be the ones most likely sustain and survive through a bleaching event. 
+ climate dynamics and biodiversity 
+ bracco and novi found that climate dynamics have contributed to biodiversity because of the way climate introduces variability to the currents in the equatorial pacific ocean. the researchers realized that alternation of el niño and la niña events has allowed for enormous genetic exchanges between the indian and pacific oceans and enabled the ecosystems to survive through a variety of different climate situations. 
+ “there is never an identical connection between ecoregions in all enso phases,” bracco said. “in other parts of the world ocean, coral reefs are connected through a fixed, often small, number of ecoregions, and if you eliminate this fixed number of connections by bleaching all connected reefs, you will not be able to rebuild the corals in any of them. but in the pacific the connections are changing all the time and are so dynamic that soon enough the bleached reef will receive larvae from completely different ecoregions in a different enso phase.” 
+ they also concluded that, because of the coral triangle’s dynamic climate component, there is more possibility for rebuilding biodiversity there than anywhere else on the planet. and that the evolution of biodiversity in the coral triangle is not only linked to landmasses or sea levels but also to the evolution of enso through geological times. the researchers found that though enso causes coral bleaching, it has helped the coral triangle become so rich in biodiversity. 
+ better monitoring opportunities 
+ because coral reef survival has been designated a priority by the united nations sustainable development goals, bracco and novi’s research is poised to have broad applications. the researchers’ method identified which ecoregions conservationists should try hardest to protect and also the regions that conservationists could expect to have the most luck with protection measures. their methodology can also help to identify which regions should be monitored more and the ones that could be considered lower priority for now due to the ways they are currently thriving. 
+ “this research opens a lot of possibilities for better monitoring strategies, and especially how to monitor given a limited amount of resources and money,” bracco said. “as of now, coral monitoring often happens when groups have a limited amount of funding to apply to a very specific localized region. we hope our method can be used to create a better monitoring over larger scales of time and space.” 
+ citation: novi, l., bracco, a. “machine learning prediction of connectivity, biodiversity and resilience in the coral triangle.”  commun biol   5 , 1359 (2022). 
+ doi: 
+ https: / / doi.org / 10.1038 / s42003-022-04330-8 
+ contact 
+ catherine barzler, senior research writer / editor 
+ email 
+ catherine.barzler@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

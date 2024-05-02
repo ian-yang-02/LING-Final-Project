@@ -1,0 +1,37 @@
+Bathroom Scale Could Monitor Millions with Heart Failure
+This scale could help keep heart failure patients out of the hospital.
+Purchased Getty Images photo of a bathroom scale. Not for reuse or redistribution outside of Georgia Tech.
+Sep 20, 2019
+— Atlanta, GA
+“Good morning. Bill. Please. Step onto the scale. Touch the metal pads.” The device records an electrocardiogram from Bill’s fingers and - more importantly – circulation pulsing that makes his body subtly bob up and down on the scale. Machine learning tools compute that Bill’s heart failure symptoms have worsened.
+This is how researchers at the Georgia Institute of Technology envision their experimental device reaching patients someday, and  in a new study , they reported proof-of-concept success in recording and processing data from 43 patients with heart failure. A future marketable version of the medical monitoring scale would ideally notify a doctor, who would call Bill to adjust his medication at home, hopefully sparing him a long hospital stay and needless suffering.
+The pulsing and bobbing signal is called a  ballistocardiogram  (BCG), a measurement researchers took more commonly about 100 years ago but gave up on as imaging technology far surpassed it. The researchers are making it useful again with modern computation.
+“Our work is the first time that BCGs have been used to classify the status of heart failure patients,” said Omer Inan, the study’s principal investigator and  an associate professor in Georgia Tech’s School of Electrical and Computer Engineering .
+Healthcare crisis
+Heart failure  affects 6.5 million Americans and is a slow-progressing disease, in which the heart works less and less effectively. Many people know it as congestive heart failure because a major symptom is fluid buildup, which can overwhelm the lungs, impeding breathing and possibly causing death.
+Patients endure repeat hospitalizations to adjust medications when their condition dips, or “decompensates,” making heart failure a major driver of hospital admissions and healthcare costs. Home monitoring reduces hospitalizations but currently requires an invasive procedure.
+Georgia Tech research was behind the launch  of such an implantable  heart failure home monitoring device  in 2011. But this new solution would potentially dispense with the procedure, cost much less, and be much simpler to use – lowering patients’ resistance to home monitoring.
+Given its early stage, the study’s BCG-EKG scale performed well in hospital tests but also in in-home tests, which was promising, since the solution principally targets eventual home use.
+The research team, which included collaborators from the University of California, San Francisco, and Northwestern University,  published their results in August 2019, in the journal  IEEE Transactions on Biomedical Engineering . The research was funded by the National Heart, Lung and Blood Institute at the National Institutes of Health.
+Ballisto scribble
+The EKG part of the experimental scale is not new nor its great diagnostic information, but it alone does not say enough about heart failure. The BCG part is mostly new, and it appears valuable to heart failure monitoring but also challenging to record and interpret.
+“The ECG (EKG) has characteristic waves that clinicians have understood for 100 years, and now, computers read it a lot of the time,” Inan said. “Elements of the BCG signal aren’t really known well yet, and they haven’t been measured in patients with heart failure very much at all.”
+The EKG is electrical; the body conducts its signals well, and the recordings are clear.
+The BCG is a mechanical signal; body fat dampens it, and it faces a lot of interference in the body like tissue variations and muscle movement. BCGs are also noisier in people with cardiovascular disease.
+Patients with heart failure tend to be feebler, and initially, the researchers worried they would wobble on scales during home tests, adding even more noise to the BCGs. But the recordings were very productive.
+Though a BCG read-out is scribble compared to an EKG’s near-uniform etchings, BCGs have some patterns that parallel an EKG’s. For example, the big upward spike in an EKG is followed by the BCG’s big "J-wave."
+Inconsistent throbbing
+The researchers processed BCGs with three machine learning algorithms, revealing patterns that differ when a patient’s heart failure is compensated, that is, healthier, from when it is decompensated.
+“In someone with decompensated heart failure, the cardiovascular system can no longer  compensate for the reduced heart function , and then the flow of blood through the arteries is more disorderly, and we see it in the mechanical signal of the BCG,” Inan said. “That difference does not show up in the ECG because it’s an electrical signal.”
+“The most important characteristic was the degree to which the BCG is variable, which would mean inconsistent blood flow. If you chop up the recording into 20-second intervals and the individual segments differ from each other a lot, that’s a good marker of decompensation,” Inan said.
+Also READ:
+Six important cardiac solutions in preclinical, clinical and other human testing
+These researchers coauthored the study: James Rehg,  Burak Aydemir, Supriya Nagesh, and Mobashir Hasan Shandhi from Georgia Tech; Joanna Fan and Liviu Klein from the University of California, San Francisco; Mozziyar Etemadi and Alex Heller from Northwestern University. The research was funded by the  Heart, Lung and Blood Institute of the National Institutes of Health (grant R01HL130619). Any findings, conclusions or recommendations are those of the authors and not necessarily of the NIH.
+Writer & Media Representative : Ben Brumfield (404-660-1408), email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

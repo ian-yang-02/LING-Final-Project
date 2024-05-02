@@ -1,0 +1,79 @@
+GTRI Graduate Student Fellowship Expands
+In its second year, the fellowship is expanding to include all colleges across Georgia Tech.
+Mar 22, 2022
+— Atlanta, GA
+The Georgia Tech Research Institute (GTRI) solves the most pressing national security problems, from spacecraft innovations to artificial forensics, and has historically sought to partner with Georgia Tech faculty to enhance those solutions. Seeking to further enhance the benefit of research collaborations with academic faculty, last year GTRI
+started
+the Graduate Student Fellowship Program to catalyze long-term research collaborations between their scientists and researchers and GT academic faculty.
+The first eight projects in the inaugural cohort from the College of Engineering have been a great success, and in the second year the fellowship is expanding to include all the colleges across Georgia Tech.
+“We really want connectivity to manifest through research collaborations, and it’s advantageous for us to reach into the broad wealth of and depth of talent across the academic schools,” said Mark Whorton, GTRI’s chief technology officer. “From the theoretical research done on campus into the applied research we do at GTRI, we're seeking to take those great capabilities and bring applications into the national security space.”
+The competitive, fully funded fellowship picks projects that align with GTRI strategic research priorities. This year’s projects will lead to innovations in everything from side-channel security to maximizing the potential of heterogenous hardware.
+What the researchers are most excited about is the collaboration.
+“I have been collaborating with GTRI on seedling concepts recently,” Muhannad Bakir, a Dan Fielder professor in the
+School of Electric and Computer Engineering . “This fellowship program allows us to accelerate and scale these ideas and generate the results necessary to attract new collaborators from the government and private industry.”
+Faculty Research Pairs and Proposals
+Across the seven selected fellowship awards, researchers from GTRI labs will co-advise students along with a Georgia Tech faculty member.
+What:
+Electronic and Photonic Integrated Circuit Heterogeneous Integration Who:
+Muhannad Bakir ,
+Paul Jo ,
+Benjamin Yang Unit:
+School of Electrical and Computer Engineering ,
+SEAL Why It Matters:
+This project will develop techniques to seamlessly combine integrated circuits (ICs) from different domains (photonics, radio frequency, and digital) into a single package.
+“The fellowship will support high-risk, high-payoff research in advanced packaging and heterogeneous integration of electronics and photonics chiplets,” said Bakir. “The ability to heterogeneously integrate these unique chiplet functions will enable high-performance scalable digital and radio frequency systems. Specifically, we are exploring the co-packaging of silicon photonics and electronics using 2.5D and 3D interconnect technologies to enable seamless, low-loss, high-performance, and compact integration.”
+What:
+Side-channel Attack Resistant Integrated Circuits Who:
+Saibal Mukhopadhyay , Christopher Clark Unit:
+School of Electrical and Computer Engineering ,
+CIPHER Why It Matters:
+Application Specific Integrated Circuits (ASICs) are deployed in many applications critical for national security. Power and electromagnetic emission-based side-channel attacks provide a physical channel to reveal secrets contained in an application specific integrated circuit (ASIC) and have emerged as a key threat to security of ASICs used in commercial and Department of Defense applications.
+“Software-based security methods are inadequate for inhibiting SCA,” said Mukhopadhyay. “The proposed research will develop and demonstrate design methods and circuit techniques to build side-channel attack-resistant ASICs.
+What:
+Developing Techniques for IPv6 Internet-Wide Scanning Who:
+Frank Li,
+Adonis Bovell Unit:
+School of Cybersecurity & Policy ,
+CIPHER Why It Matters:
+The internet consists of two core network protocols: IPv4 and the relatively new but widespread IPv6. Internet scanning allows researchers to assess security, but the techniques used for IPv4 do not work for IPv6. This research will systematically develop novel techniques and systems for IPv6 Internet-wide scanning.
+“Far too often we hear about new vulnerabilities affecting widely used internet-facing software,” said Bovell. “Ideally, system administrators would patch or remediate these vulnerabilities as they are discovered. This research helps to provide us with an independent way of verifying how quickly we do these remediations and when we fall short.”
+What:
+Epigraphene Edge State Terahertz Micro Antennas Who:
+Walt de Heer , John Hankinson Units:
+School of Physics ,
+ATAS Why It Matters:
+Epigraphene on silicon carbide is one of the best platforms for high-performance graphene electronics. This project will leverage the exceptional transport properties of these epigraphene ribbons to develop on-chip Terahertz (THz) frequency graphene antennas. THz wireless transmission allows for a significant increase in data throughput.
+“We believe that epigraphene micro-antennas will offer greatly improved efficiency, output power, and transmission rates compared to micro-antennas made from other materials or even other forms of graphene that do not have the protected edge state of epigraphene,” said Hankinson. “The fellowship will allow us to bring together experts in fundamental transport physics with experts in electronic systems engineering, which is critical for this effort.”
+What:
+Creative use of Georgia Tech's Shock Tube Facility for Miscellaneous Hypersonic Flow Tests Who:
+Devesh Ranjan ,
+Krish Ahuja Units:
+School of Mechanical Engineering ,
+ATAS Why It Matters:
+Hypersonic speeds are the future of jet and missile propulsion and potentially transporting cargo and passengers. This project will explore innovative use of an existing shock tube to produce flows approaching hypersonic conditions for conducting a range of tests on university-scale test models, including characterizing and controlling high-temperature, high-speed jet flows and their noise, cavity flows, and energy harvesting. New sensors and high temperature materials can also be tested.
+“We want to stay in the hypersonic game and develop things that differentiate Georgia Tech from other universities,” said Ahuja. “This fellowship is to do something disruptive that aligns with current interests in national security.”
+What:
+Analog Computation for Low-power, Adaptive, and Reconfigurable Embedded Edge Classification and Learning Who:
+Jennifer Hasler ,
+Nelson Lourenco Units:
+School of Electrical and Computer Engineering ,
+ACL Why It Matters:  Modern radio frequency (RF) systems are facing two major design challenges: mission expansion with constrained size, weight, and power (SWaP), and spectrum density. The first challenge has led to a substantial push in converged RF systems that can perform a plurality of functions with a single set of reconfigurable hardware. The second challenge leads to a need for spectrum reuse, with hardware advances that can increase capacity within a single frequency band. Custom integrated circuits and adaptive algorithms are enabling technologies for these broadband and dynamically reconfigurable RF systems.
+“ Professor Hasler’s team is recognized as experts in the areas of programmable analog integrated circuits and signal processing algorithms — research areas that are directly applicable to converged RF systems,” said Lourenco. “The developments from this partnership will be highly relevant to multiple research initiatives at GTRI, allowing the Institute to secure larger investments from our government and industry sponsors.”
+Who:
+JC Gumbart ,
+Ryan Westafer What:
+Predicting Encoded Electromagnetic Responses of DNA (PEER DNA) Units:
+School of Physics ,
+ACL Why it matters:
+DNA can serve as a building block of biological and synthetic materials, such as bacterial biofilms or DNA origami. This project will use electric fields to manipulate DNA to make controlling and detecting it easier.
+“From nanoscale self-assembly to electromagnetics and communications, there is an immense amount to learn and apply from biology,” said Westafer. "We are excited to collaborate with the Simbac group in the School of Physics.”
+About the GTRI Graduate Student Research Fellowship Program
+The GTRI Graduate Student Fellowship Program is a competitive program for high-caliber Georgia Tech graduate students working in GTRI strategic research areas. The program works to create collaborative relationships between academic units across campus and GTRI research labs. Graduate students will be chosen to work on research that is aligned to GTRI strategic technology priorities. The Program will foster and cultivate long-term relationships between academic faulty and GTRI researchers to fulfill on the mission of creating leaders who advance technology and improve the human condition.  Find out more about the labs at GTRI.
+Additional Images
+Contact
+Tess Malone, Research Writer/Editor
+Email
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,37 @@
+Mathematics, Physics Use Moths and Origami Structures for Innovative Defense Research
+Georgia Tech has received two Department of Defense (DoD) 2022 Multidisciplinary University Research Initiative (MURI) awards totaling almost $14 million.
+Hawkmoth on hand
+Apr 18, 2022
+— Atlanta, GA
+Georgia Tech has received two Department of Defense (DoD)
+2022 Multidisciplinary University Research Initiative (MURI) awards
+totaling almost $14 million. The highly competitive government program supports interdisciplinary teams of investigators developing innovative solutions in DoD interest areas. This year, the DoD awarded $195 million to 28 research teams across the country.
+Georgia Tech’s MURIs are both primarily within the
+School of Physics . First,
+Simon Sponberg , a Dunn Family Associate Professor of Physics and Biological Sciences, leads a team discovering how animals strategically use sensing and cognition to make decisions in complex environments. The project,
+Fast, Lexicographic Agile Perception Integrates Decision and Control in a Spike-Resolved, Sensorimotor Program (FLAP),
+specifically addresses the  core DoD topic area of understanding neural systems integration for competent autonomy in decision and control.
+“We have all these great, sophisticated algorithms for processing big data, but an animal doesn't have time to process a million samples of its environment and then figure out what’s a predator,” said Sponberg.
+Studying moths for their agile, sophisticated flying and complex sensing abilities, the team will record electrical activity in the brain to determine how the moths make decisions and use natural language processing techniques to see how a moth derives meaning from sensory cues and movements. The goal is to develop an information processing framework that enables quick, flexible decision-making that could facilitate the next generation of autonomous bio-inspired systems and better integrate living systems with engineered technologies
+The interdisciplinary nature of the team makes complex research possible. Half the team is made of experimentalists: Sponberg specializes in sensors connected to motor systems with precisely timed signals; Jeff Riffell, a professor at the University of Washington, studies how the nervous system processes sensory signals to control behavior; and as a vision neuroscientist at Florida International University, Jamie Theobald, determines how animals parse complex environments. The other half of the team will build the framework: Duke Professor Vahid Tarokh models complex datasets, Georgia Tech
+School of Mathematics
+Assistant Professor
+Hannah Choi
+focuses on neural networks, and Cornell Professor Silvia Ferrari ties it all together as a control theorist embedding control in neural structures.
+“MURIs were originally training grants for the DoD to develop the next generation of scientists who would make progress,” said Sponberg. “This funding will allow us to have postdocs and graduate students across all six labs and disciplines working together tightly and creating a community.”
+For the second MURI,
+Programming Multistable Origami and Kirigami Structures via Topological Design,
+Georgia Tech Assistant Professor
+Zeb Rocklin
+is part of a team exploring a new class of origami- and kirigami-inspired flexible, lightweight structures capable of transitioning between many stable shapes to perform different tasks or adapt to changing environmental conditions. These structures could be used in a range of applications, from multifunctional robots and collapsible antennae to rapidly assembled bridges and temporary structures, and force protection elements like origami-inspired bulletproof shields.
+The team combines experts in mathematics, physics, material science, mechanics, robotics, numerical modeling, and computation, including Harvard University Professors Katie Betoldi, Jennifer Lewis, L. Mahadevan, and Robert Wood, as well as University of Pennsylvania Associate Professor Eleni Katifori
+The researchers will develop mathematical models to characterize and design the complex mechanical behavior of multi-stable origami and kirigami structures; new scale-spanning manufacturing processes that efficiently integrate actuation and sensing; and experimental test beds to serve as a platform for evaluation and optimization of design concepts.
+"This project benefits from Georgia Tech's ability to develop tight, powerful connections between engineering advanced technologies and developing universal, mathematically rigorous physical theories,” Rocklin said. “We'll be starting from concepts that anyone can get a sense of by looking at or feeling a piece of origami and using robotics and multifunctional 3D printing to create complex, flexible and robust dynamical structures that can do things nobody has ever seen before."
+Additional Images
+Contact
+Tess Malone, Research writer/editor
+Email
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

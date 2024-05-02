@@ -1,0 +1,54 @@
+home for the holidays: know the travel risks before you go 
+ researchers have developed a tool that shows the risk someone with covid-19 will be present at gatherings from 10 to 5,000 people anywhere in the u.s. 
+ illustration: jessie brandon 
+ nov 18, 2020 
+ — atlanta, ga 
+ as covid-19 outbreaks surge in several states, the choice to see family this holiday season gets more complicated by the day. thankfully, there’s a tool — developed by georgia tech faculty, scientists, gis specialists, and graduate students — that can help estimate the potential risk of exposure involved with a trip home for a turkey dinner. 
+ joshua s. weitz , patton distinguished professor in the 
+ school of biological sciences , and 
+ clio andris , assistant professor in the schools of  city and regional planning  and  interactive computing , created the “ covid-19 event risk assessment planning tool .” 
+ they launched the tool in july, and since then it has generated more than 2 million unique visitors, been featured in national and international media, and spurred the development of related sites in spanish and italian. a multi-authored scientific article describing the tool was published in 
+ nature human behaviour 
+ on nov. 9. 
+ “we are starting to see the traffic ramp up again as people plan for the holidays,” andris said. 
+ a useful spatial tool 
+ the tool breaks down the risk of attending events, no matter the size, based on county-level covid-19 case reports in the u.s. and parts of europe. users can select the county they are interested in and the size of the event they wish to attend. 
+ weitz, the founding director of tech’s quantitative biosciences graduate program, and an ardent atlanta united fan, was having trouble deciding whether or not to go to a home game when mercedes-benz stadium in atlanta reopened after the covid-19 lockdown. 
+ he developed a statistical model based on the odds of encountering one infected individual amongst many. weitz quickly realized that the model would also be useful in the form of an interactive map. 
+ “i reached out to clio, given her expertise in spatial visualization and analysis,” he said. 
+ “clio and i were already collaborating on modeling covid-19 epidemic spread in georgia. i knew she would be an ideal partner, particularly given the strong visualization background of her team of 
+ master of science in geographic information science and technology 
+ students.” 
+ andris’ 
+ friendly cities lab 
+ works on a number of covid-19 projects meant to assist cities and the people that live in them. 
+ “at that point in the summer, and even now, the covid-19 case rates change based on location,” she said. “early on, people only had national-level data, and we wanted to drill down to the county level. this allows people to decide whether to attend an event based on the risk level in their locality.” 
+ while the interactive tool works well for large-scale events, users can also select smaller event sizes like 10 or 15 people — the size of many family gatherings during the holidays. 
+ what comes next? 
+ the friendly cities lab plans to analyze gps trace movement data from 
+ safegraph 
+ over the thanksgiving holiday from 2019. 
+ they’ll gain insight into the network backbone and compare the data to 2020. andris said the lab should be able to show risk assessment tool users how covid-19 may spread throughout late november and visualize predictions about december travel. 
+ creating a model with that kind of predictive power can get tricky when not properly interpreted. andris stressed that accurate predictions require collaboration with experts on epidemic dynamics — like weitz — and that it takes some circulation time before large spreading events register as a major outbreak. 
+ “we might not see and understand the impacts of thanksgiving travel until january, and by then we’ll be settled in for the impacts of december travel as well,” she said. 
+ “think of our research and the risk assessment tool like a weather map. we aren’t telling you to get your umbrella or to stay inside, but we are telling you that outside it is raining." 
+ the friendly cities lab and covid-19 
+ during the first wave of the pandemic the friendly cities lab mapped out icu beds, ventilators, and hospital capacity for the state of georgia. these maps were shared with the georgia municipal association. 
+ “it allowed the municipalities to put the pandemic into context for their specific counties,” andris said. 
+ the lab also did a number of 
+ mobility studies . these studies analyzed how people moved around during the early stages of the pandemic. they identified which jobs led to high mobility, such as manufacturing and agriculture. in counties with a greater incidence of high mobility jobs, employees were more likely to interact with people outside their households, and possibly spread the virus. 
+ another useful tool the lab built for cities is the 
+ excess deaths associated with covid-19: county level map . it calculates the number of excess deaths in 2020 per county. 
+ “in a small county, knowing that there are ‘26 excess deaths’ requires context,” andris said. “for example, if that is 50 percent more deaths than we can typically expect in a year in that location, it points to an extreme detriment to the community and potential strains on both health care systems and the death care industry.” 
+ in october, andris received a fellowship from the geospatial software institute (gsi) conceptualization project. the fellowship is for tackling covid-19 challenges using geospatial software and advanced capabilities in cyberinfrastructure and data science. her fellowship involves a covid-19 tracing project with emergency management services in the new york city fire department. 
+ additional images 
+ related links 
+ covid-19 event risk assessment planning tool 
+ contact 
+ zoe kafkes 
+ 404.894.2354 
+ email 
+ zoe.kafkes@design.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

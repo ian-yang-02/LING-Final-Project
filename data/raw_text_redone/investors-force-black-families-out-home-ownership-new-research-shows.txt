@@ -1,0 +1,34 @@
+investors force black families out of home ownership, new research shows 
+ new research from the georgia institute of technology shows investors are most likely to push out black, middle-class homeowners from neighborhoods. 
+ large corporate investment concentration 2013 
+ aug 07, 2023 
+ investors have been buying houses at a steady rate since the last recession, but how much does it affect availability in the housing market? new research from the georgia institute of technology shows investors are most likely to push out black, middle-class homeowners from neighborhoods. 
+ data from 
+ 800 neighborhoods in the atlanta metropolitan area between 2007 and 2016 
+ revealed that major investors bought homes in majority-minority neighborhoods far from downtowns and in lower-income areas. these homes were often undervalued because of their minority populations, but they remained desirable and offered good market value. 
+ the neighborhoods where investors bought up real estate were predominantly black, effectively cutting black families out of home ownership. collectively, black people lost more than $4 billion in home equity over a 10-year period because of investors, according to the research. 
+ “that $4 billion refers to the home values that would have gone to individual homebuyers if these large institutional investment firms hadn’t purchased those properties,” said 
+ brian an , assistant professor in the 
+ school of public policy . “this is a very conservative, lower estimate than what the actual effect probably is.” 
+ an presented his findings in the paper, “ the influence of institutional single-family rental investors on homeownership: who gets targeted and pushed out of the local market? , ” published in the 
+ journal of planning education and research 
+ in june. 
+ the shrinking homebuyer market 
+ owning a home is one of the main ways for the american middle class to accumulate wealth. despite this, home ownership declined by 5.5.% between 2007 and 2016. who owns these homes is even more divided based on race. 
+ from 2015 to 2019, homeownership among black families in the u.s. was 41.7% and for white families 71.7%. 
+ simultaneously, large private investment firms started buying single-family homes often to flip the houses and rent them at higher rates. although smaller investment groups often buy homes, the major impact on the market comes from large private institutions. 
+ analyzing the data 
+ investors have long been suspected of buying up substantial portions of the housing market, but determining just how many has been challenging. an used transaction data like buyer names and mailing addresses to determine who property owners were. with a natural language processing tool called openrefine that cleans and clusters messy textual data, he combed through millions of observations. 
+ an then analyzed the data with the herfindahl–hirschman index (hhi), a measure of market concentration that can determine the diversity of buyers. 
+ “it means how many properties they are purchasing in one neighborhood,” an said. “for example, let's say there were 500 purchases in the year for single-family houses, then essentially, how many are these large investment firms collectively purchasing? if it’s 500, that is low hhi, meaning a lower market concentration. if it’s only two firms, that’s an extremely high market concentration.” 
+ using these methods and measures, an showed that, on average, neighborhoods experienced an increase of large investor purchases from nearly 0% in 2007 to over 12% in the peak year, 2013. investors acquired up to 76% of for-sale, single-family homes in some neighborhoods. 
+ institutional investments primarily affected black families, according to one of an’s models. results indicated this negative effect is much worse for black homeownership and totally absent for white homeownership. whether this is because investment firms mostly purchase in black neighborhoods or if black homeowners are specifically targeted is unclear. regardless of the reasoning, large investors decrease homeownership for anyone in areas they buy out, but especially for black people. 
+ “real estate industry stakeholders say these big firms own no more than 3% of total single-family housing stock in the united states, so there is no way that they can suppress home ownership more,” an said. “but if you look at the neighborhood dynamics, there is a lot more concentration in certain neighborhoods that really drives down home ownership.” 
+ an, b.y. (2023). the influence of institutional single-family rental investors on homeownership: who gets targeted and pushed out of the local market?  journal of planning education and research ,  0 (0).  https: / / doi.org / 10.1177 / 0739456x231176072 
+ additional images 
+ contact 
+ tess malone, senior research writer / editor 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

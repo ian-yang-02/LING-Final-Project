@@ -1,0 +1,35 @@
+pilot project will use campus wastewater to grow vegetables 
+ $5 million grant funds project to test sustainable hydroponic farming in urban areas. 
+ post-doctoral fellow bopeng zhang, professor yongsheng chen and graduate research assistant thomas igou from the school of civil and environmental engineering will pilot a project to use wastewater nutrients to grow lettuce, tomatoes and other fruits and vegetables. 
+ oct 30, 2018 
+ — atlanta, ga 
+ even if you do your best to eat local, chances are most of the fruits and vegetables you consume come from far away -- especially if you live in a big city. water and land for growing crops are hard to come by in urban areas. finding more sustainable methods for growing produce in urban areas would have enormous benefits. a pilot project by georgia tech’s 
+ yongsheng chen, 
+ a professor in the 
+ school of civil and environmental engineering , aims to use wastewater from the campus to do just that. 
+ “the overarching goal is trying to figure out a way to use wastewater nutrients to grow produce in urban areas so we can decentralize vegetable production,” chen said. a grant provides $5 million over five years from the u.s. department of agriculture’s national institute of food and agriculture (nifa) to create and operate a hydroponic growing system using domestic wastewater extracted from the georgia tech campus sewer system. it is the largest usda award georgia tech has received. 
+ “currently we treat wastewater by taking all the nutrients from it,” said chen. “then we have to use an energy-intensive process to synthesize and add fertilizer to the food production process.” 
+ the proposed anaerobic membrane biological treatment process will transfer organic contaminants into biogas and remove pathogens such as e. coli to ensure food safety, but the nutrients (nitrogen, phosphorus and potassium, for example) will remain. by using a smart membrane or nanomaterials to extract trace contaminants like endocrine disruptors, heavy metals and pharmaceuticals, the nutrients that are left can be pumped through a vertical hydroponic system to grow produce without adding fertilizer. the project will monitor water and produce quality and measure contamination from chemicals and microbes continuously. 
+ the overall goal, said chen, is to show that using the nutrients and water resources from domestic wastewater (dww) in an urban controlled environment agriculture system (ceas) is socially, environmentally and financially sustainable and can easily be replicated in other cities. the project will closely track nutrient requirements, energy needed to produce, handle and transport the fruits and vegetables, and water needs to determine what resources are needed to support this kind of cea system (dww-ceas). 
+ ecological network analysis for dww-cea coupling will track material and energy flows across components that produce, consume and recycle food. using a geodesign approach, chen’s team will then compare data from traditional agriculture and dww-ceas to see how the system performs and how it could be designed to perform better in terms of water, energy and nutrient needs. 
+ “our model will have options to calculate energy consumption for the system, water consumption, water balance and nutrient balance,” said chen. “we’ll conduct a life-cycle analysis and techno-economic analysis to evaluate whether this type of system will be commercially feasible or profitable in different locations, not just atlanta.” 
+ chen will use machine learning in the controlled growing environment to seek a “recipe” for each plant type: the ideal amount of nutrients, growing temperature and humidity needed for lettuce, for example, so that each head of greens will taste the same. the project also provides an opportunity to test a number of other technologies, such as using solar power for cooling or biogas extracted from the wastewater and discarded food to power a micro chiller. 
+ of course, showing that such a dww-cea system is feasible and profitable is one hurdle – another is getting consumers on board with the way the produce is produced. “if we are going to decentralize this system, what are the implications for policy related issues?” chen asked. “will people buy products produced by wastewater?” the project will involve working with a number of collaborators at georgia tech and in atlanta, including kaye husbands fealing, professor and chair of the school of public policy at georgia tech, and the mayor’s office of sustainability. 
+ “we want to change the current wastewater treatment practice, step back a little bit and think outside the box,” chen said. “this could have a big impact locally, regionally or even nationally and internationally.” 
+ this research is supported by the u.s. department of agriculture’s (usda) national institute of food and agriculture (nifa), agriculture and food research initiative (afri) water for food production systems (grant 2018-68011-28371). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact:  john toon (404-894-6986) (john.toon@comm.gatech.edu). 
+ writer : kenna simmons 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ 404-894-6986 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

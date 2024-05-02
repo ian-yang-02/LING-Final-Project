@@ -1,0 +1,48 @@
+immunity of recovered covid-19 patients could cut risk of expanding economic activity 
+ the presumed immunity of those who have recovered from the coronavirus infection could allow them to substitute for susceptible people. 
+ this simplified schematic shows intervention serology via shield immunity. the presumed immunity of those who have recovered from the infection could allow them to safely substitute for susceptible people in certain high-contact occupations such as healthcare. 
+ may 07, 2020 
+ — atlanta, ga 
+ while attention remains focused on the number of covid-19 deaths and new cases, a separate statistic – the number of recovered patients – may be equally important to the goal of minimizing the pandemic’s infection rate as shelter-in-place orders are lifted. 
+ the presumed immunity of those who have recovered from the infection could allow them to safely substitute for susceptible people in certain high-contact occupations such as healthcare. dubbed “shield immunity,” the anticipated protection against short-term reinfection could allow recovered patients to expand their interactions with infected and susceptible people, potentially reducing overall transmission rates when interactions are permitted to expand. 
+ new modeling of the virus’ behavior suggests that an intervention strategy based on shield immunity could reduce the risk of allowing the higher levels of human interaction needed to support expanded economic activity. the number of americans infected by the novel coronavirus is likely much higher than what has been officially reported, and that could be good news for efforts to utilize their presumed immunity to protect the larger community. 
+ however, there are two important caveats to the strategy. the first is that the duration of immunity to reinfection by sars-cov-2 remains unknown; however, individuals who survived infections by related viral infections, like sars, had persistent antibodies for approximately two years – and those who survived infection to mers had evidence of immunity for approximately three years. the second issue is that determining on a broad scale who has antibodies that may protect them from the coronavirus will require a level of reliable serological testing not yet available in the united states. 
+ “our model describes ways in which serological tests used to identify individuals who have been infected by and recovered from covid-19 could help both reduce future transmission and foster increased economic engagement,” said 
+ joshua weitz , professor in the 
+ school of biological sciences 
+ and founding director of the interdisciplinary ph.d. in quantitative biosciences at the georgia institute of technology. “the idea is to think in advance about how identifying recovered individuals could help serve the collective good, using information collected on neutralizing antibodies in new ways.” 
+ a 
+ paper describing the modeling behind the concept of shield immunity 
+ was published may 7 in the journal 
+ nature medicine 
+ by a team of researchers from georgia tech, princeton university and mcmaster university. the researchers studied the potential impacts of presumed immunity among recovered persons using a computational model of covid-19 epidemiological dynamics, building upon a seir (susceptible-exposed-infectious-recovered) framework. 
+ in a population of 10 million citizens, for example, the model predicts that in a worst-case transmission scenario, implementation of an intermediate shielding strategy could help reduce deaths from 71,000 to 58,000, while an enhanced shielding plan could cut deaths from 71,000 to 20,000. the model also suggests that shielding could enhance the effects of social distancing strategies that may remain in place once higher levels of economic activity resume. 
+ identification of individuals who have protective antibodies against the novel coronavirus has begun only recently. antibody tests are not 100% specific, implying that tests can lead to false positives. however, targeted use of antibody testing in groups with elevated exposure will lead to increases in positive predictive value, even with imperfect tests. the serological antibody test differs from widespread polymerase chain reaction (pcr) testing being done to determine whether people are actively infected with the virus. 
+ among healthcare professionals, serological testing could identify recovered individuals who might then be able to interact with patients with reduced concern for infection. other recovered individuals could be used to help reduce transmission risk in nursing homes, the food service industry, emergency medical services, grocery stores, retailing and other essential operations. across society, the relatively small number of individuals with immunity could substitute for people whose immunity status isn’t known; reducing transmission risk both for recovered individuals and those who remain immunologically naive. 
+ “we want to think about serology as an intervention,” weitz said. “finding out who is immune to the coronavirus could make a big difference in trying to reduce the risk to people who would be vulnerable by interacting with someone who could pass on the disease.” 
+ serological testing to identify those with immunity might begin with healthcare workers, who may be more likely to have been infected by the coronavirus because of their exposure to infected persons, weitz said. because so many infections do not produce the distinctive covid-19 symptoms, it’s likely that many people have recovered from the illness without knowing they’ve had had it, potentially expanding the pool of recovered persons. 
+ “there may be a deeper pool of individuals who can help within their own fields and other fields of specialization to reduce transmission,” weitz said. “the reality is that people within high-contact jobs probably are likely to have a higher incidence of infection than other groups.” 
+ but using antibody information about individuals would create potential privacy issues, and require that those individuals make informed decisions about accepting additional risks for the greater good of the community. 
+ “what this model says is that if we could identify individuals who are immune, there is a chance that some individuals would not have to reduce their level of interaction with others because that interaction would be less risky,” he added. “rather than trying to keep reducing interactions, which is helpful for reducing transmission but bad for what it does for the economy, we might be able to maintain interactions while reducing the risk, combined with other mitigation approaches.” 
+ ultimately, addressing the pandemic will require development and mass production of a vaccine that could boost immunity levels beyond 60 percent in the general population. until that is available, weitz believes that shield immunity could become part of the approach to the challenge. 
+ “we don’t have a silver bullet,” he said. “until we have a vaccine, we will have to use a combination of strategies to control covid-19, and shield immunity is potentially one of them.” 
+ in addition to weitz, co-authors of the paper included dr. stephen j. beckett, ashley r. coenen, dr. david demory, marian dominguez-mirazo, dr. chung-yin leung, guanlin li, andreea magalie, rogelio rodriguez-gonzalez, shashwat shivam, and conan zhao, all from georgia tech; prof. jonathan dushoff of mcmaster university, and sang woo park of princeton university. 
+ this research was supported by the simons foundation (scope award id 329108), the army research office (w911nf1910384), national institutes of health (1r01ai46592-01), and national science foundation (1806606 and 1829636). any findings, conclusions, and recommendations are those of the authors and not necessarily of the sponsoring agencies. 
+ citation : joshua s. weitz, et al., “intervention serology and interaction substitution: modeling the role of `shield immunity' in reducing covid-19 epidemic spread.” (nature medicine, 2020) 
+ http: / / dx.doi.org / 10.1038 / s41591-020-0895-3 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

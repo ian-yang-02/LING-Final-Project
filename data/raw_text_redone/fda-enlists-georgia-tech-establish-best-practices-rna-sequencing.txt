@@ -1,0 +1,35 @@
+fda enlists georgia tech to establish best practices for rna-sequencing 
+ georgia tech researchers have helped select the right rna-seq data analysis tools. 
+ may dongmei wang is a professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university. (credit: christopher moore, georgia tech) 
+ dec 14, 2020 
+ — atlanta, ga 
+ next-generation sequencing (ngs) has emerged as an important high throughput technology in biomedical research and translation for its ability to accurately capture genetic information. but choosing proper analysis methods for identifying biomarkers from high throughput data remains a critical challenge for most users. 
+ for instance, rna-sequencing (rna-seq) is an ngs technology that examines the presence and quantity of rna in biological samples, and it requires bioinformatics analysis to make sense of it all. however, there are hundreds of bioinformatics tools with different data analysis pipelines that result in various results for the same dataset. this can significantly hinder the ability to reliably reproduce rna-seq related research and applications, especially for the regulatory approval process by the u.s. food and drug administration (fda). 
+ choosing the right analysis model and tool to do the proper job for high throughput data analysis remains a great challenge. so the fda invited a team of researchers at the georgia institute of technology to conduct a comprehensive investigation of rna-seq data analysis pipelines for gene expression estimation to recommend best practices. 
+ “no common standard for selecting high throughput rna-seq data analysis tools has been established yet. this has been a huge challenge for studying hundreds of tools that form tens of thousands of analysis pipelines,” noted 
+ may dongmei wang , a professor in the 
+ wallace h. coulter department of biomedical engineering 
+ at georgia tech and emory university who led the investigation. 
+ wang and her colleagues presented their results in the journal 
+ nature scientific reports . in their study, the researchers developed three metrics – accuracy, precision, and reliability – and systematically evaluated 278 representative ngs rna-seq pipelines. 
+ “we demonstrate that those rna-seq pipelines performing well in gene expression estimation will lead to the improved downstream prediction of disease outcome. this is an important discovery,” said wang, corresponding author of the paper, “ impact of rna-seq data analysis algorithms on gene expression estimation and downstream prediction .” 
+ she added, “because the fda is a regulatory agency for approving novel medical devices for ngs-genomics to be utilized in daily clinical practices for personalized and precision medicine and health, it is critical to see whether gene expression generated from rna-seq acquisition and analysis pipeline are reproducible and reliable.” 
+ the team’s comprehensive investigation revealed that the high throughput rna-seq data quantification modules – mapping, quantification, and normalization – jointly impacted the accuracy, precision, and reliability of gene expression estimation, which in turn affected the downstream clinical outcome prediction (as shown in two cancer case studies of neuroblastoma and lung adenocarcinoma). 
+ “clinicians and biomedical researchers can use our findings to select rna-seq pipelines for their clinical practice or research,” wang said. “and bioinformaticians can use these benchmark datasets, results, and metrics to develop and evaluate new rna-seq tools and pipelines.” 
+ but one size does not fit every need, as in any machine learning paradigm, wang noted. 
+ “the machine learning and algorithms are heavily dependent on goals,” she said. “thus, based on our extensive experience in biomedical big data analytics and ai for almost two decades, we suggested that the fda identify top goals for clinical genomics applications first. based on different needs, different rna-seq pipelines will be selected to achieve the optimal performance.” 
+ in addition to wang, the research team included lead author li tong, po-yen wu, john h. phan, hamid r. hassazadeh, weida tong, and members of the fda’s sequencing quality control project (wendell d. jones, leming shi, matthias fischer, christopher e. mason, sheng li, joshua xu, wei shi, jian wang, jean thierry-mieg, danielle thierry-mieg, falk hertwig, frank berthold, barbara hero, yang liao, gordon k. smyth, david kreil, pawel p. tabaj, dalila megherbi, gary schroth, and hong fang). 
+ this work was supported by grants from the national institutes of health (u54ca119338, r01ca163256, and ul1tr000454), the national science foundation (eager award nsf1651360), children's healthcare of atlanta and georgia tech partnership grant, giglio breast cancer research fund, the centers for disease control and prevention (cdc), and the carol ann and david d. flanagan faculty fellow research fund. 
+ citation : li tong, et al., “impact of rna-seq data analysis algorithms on gene expression estimation and downstream prediction.” ( nature scientific reports 
+ 2020) 
+ writer: jerry grillo 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

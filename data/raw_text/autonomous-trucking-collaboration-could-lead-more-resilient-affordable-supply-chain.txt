@@ -1,0 +1,38 @@
+Autonomous Trucking Collaboration Could Lead to a More Resilient, Affordable Supply Chain
+A. Russell Chandler III Chair and Professor Pascal Van Hentenryck and his team look at transportation through a different lens
+Nov 02, 2021
+— Atlanta, GA
+A. Russell Chandler III Chair and Professor
+Pascal Van Hentenryck
+is collaborating with
+Ryder System, Inc.
+on the
+industry’s first data-driven study of the potential impact of autonomous trucking .
+Van Hentenryck and his team have spent years developing an
+On-Demand Multimodal Transit System (ODMTS)
+to address the first- and last-mile problems in public transportation and provide equitable, efficient, and low-cost public transportation options. The multimodal approach uses small on-demand vehicles to take riders to and from their locations to high-frequency bus and rail hubs. Increasing the use of public transit will not only decrease reliance on personal vehicles and reduce traffic congestion and greenhouse gas emissions; it will also increase accessibility to jobs, healthcare, education, and fresh food.
+However, when executives from Ryder, a leading logistics and transportation company with more than 235,000 vehicles and 8,600 professional truck drivers, reached out to Van Hentenryck about a collaboration, the research team began to look at the model through a different lens.
+“We have been focusing on people mobility and had not looked at other types of transportation,” said Van Hentenryck. “So when Ryder came to us, we were very interested to see if the techniques that we were using for people could apply more generally to freight. In this project specifically, we are looking at how adding autonomous vehicles could unlock additional value.”
+Van Hentenryck, who also serves as associate chair for innovation and entrepreneurship and leads the
+Socially Aware Mobility (SAM) Lab
+in the H. Milton Stewart School of Industrial and Systems Engineering (ISyE), and his team met with Ryder to better understand the company’s goals and to determine if this multimodal approach could be applied to another system. Working with a company like Ryder gave the team access to large amounts of data and to logistics experts who understand the industry’s current and future challenges.
+“There is a lot of back-and-forth between researchers and company representatives in a project like this,” explained Van Hentenryck. “Sometimes the solutions we come up with in the lab will not work in the field, and so you have this iterative process in transforming the research idea into something that is applicable in the field.”
+Ryder operates a network of dedicated fleets for its customers, and even with high levels of performance, inflexible transportation lanes and schedules often lead to inefficiencies.
+“We learned that sometimes these trucks are traveling many miles completely empty, which is not cost effective,” Van Hentenryck said. “We started looking at how we can avoid these ‘empty miles.’”
+To meet customer needs, Ryder must execute a large number of freight movements across the country. The team realized that by breaking each trip into three sections — origin-to-hub, hub-to-hub, and hub-to-destination — it could organize a network using both regular and autonomous trucks. The first and last segments would rely on smaller human-operated vehicles, since these will typically occur in more densely populated locations. Connections between hubs would rely solely on autonomous trucks (those without a human driver), generally in sparsely populated, controlled environments like highways and exit ramps.
+“Safety is especially important to our researchers and to Ryder, and we take it very seriously,” said Van Hentenryck. “Keeping the autonomous trucks on the longer-haul middle leg, and human drivers in the first and final legs, schedules autonomy on lengthy, often overnight trips, and places drivers in dense environments where there are many other variables at play like left-hand turns, stop signs, pedestrians, etc.”
+The autonomous hub-to-hub aspect allows Van Hentenryck’s model to be optimized in a whole new way because it doesn’t depend on having drivers available — autonomous trucks are extremely flexible. This can deliver significant projected savings for Ryder if the model is implemented.
+“The whole team was stunned by the projected savings from this project,” said Van Hentenryck. “I have worked on many different transportation problems during my career, and 1% improvement is magical. In this case, improvement goes from 29% to 40%, depending on the price of autonomous trucks and the cost of operating them. Also, the flexibility to move these autonomous trucks around gave us the ability to optimize the business model in ways people didn’t even consider before.”
+The agility of the new model also provides better reactions to supply chain disruptions, because it can adapt more quickly to a new situation.
+“Autonomous driving technology is poised to be incredibly disruptive to our industry in safety, service, and cost. As such, it was clear to us that this was not something we could wait to figure out or be handed a playbook. This collaboration with Georgia Tech was an advancement in our commitment to becoming a leader in fostering innovation and bringing it to our customers,” said Michael Plasencia, group director of new product strategy at Ryder.
+“We are designing a much more resilient supply chain logistics system, and that is because we are thinking differently,” Van Hentenryck added. “This technology provides more resilience, more flexibility, and is more affordable.
+“This project is only a first step. The whole field of transportation, logistics, and supply chains is being transformed by technology, automation, and the changes in attitudes and expectations that emerged during Covid-19. We are looking forward to working with Ryder on many of these.”
+View Ryder’s press release
+The Impact of Autonomous Trucking: A Case Study if Ryder's Dedicated Transportation Network
+Additional Images
+Contact
+Laurie Haigh
+Communications Manager
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

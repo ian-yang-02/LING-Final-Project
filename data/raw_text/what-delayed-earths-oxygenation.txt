@@ -1,0 +1,28 @@
+What Delayed Earth’s Oxygenation?
+Photosynthesizers using water, which releases oxygen, could not compete with those using iron.
+Jul 11, 2019
+— Atlanta, GA
+Powering a massive biosphere on Earth, photosynthesis is the light-mediated reaction that converts carbon dioxide and water to carbohydrates and oxygen. About 2.3 billion years ago, this reaction led to a dramatic oxygenation of Earth’s atmosphere.
+Evidence exists for oxygen-releasing photosynthesis evolving much earlier – perhaps as early as 3 billion years ago. However, the oxygen-rich atmosphere we take for granted today has existed for only about 10% of Earth’s 4.5-billion-year history. Why did oxygenation of the atmosphere occur so much later than the evolution of oxygen-releasing photosynthesis?
+“The striking lag has remained an enduring puzzle in the fields of Earth history and planetary science,” says Christopher Reinhard, an assistant professor in the School of Earth and Atmospheric Sciences (EAS).
+Reinhard, former EAS postdoctoral researcher Kazumi Ozaki, and collaborators have proposed a solution to the puzzle. Their findings,
+published in
+Nature Communications , suggest that in the oceans of early Earth, oxygen-releasing photosynthesizers could not compete effectively with their primitive counterparts.
+Modern photosynthesizers consume water and release oxygen. Primitive ones instead consume dissolved iron ions – which would have been abundant in the oceans of early Earth. They produce rust as a byproduct instead of oxygen.
+Using experimental microbiology, genomics, and large-scale biogeochemical modeling, “we found that photosynthetic bacteria that use iron instead of water are fierce competitors for light and nutrients,” says Ozaki, the paper’s first author and now an assistant professor in the Department of Environmental Science at Toho University, in Japan. “We propose that their ability to outcompete oxygen-producing photosynthesizers is an important component of Earth’s global oxygen cycle.”
+The study is part of Reinhard’s research goal to understand how the evolution of the photosynthetic biosphere controlled the composition of Earth’s atmosphere. “We want to understand the timing of major biological innovations and their impact on the chemistry of Earth’s oceans and atmosphere. We consider these principles to be central in understanding our own evolutionary origins and the search for life beyond our solar system.”
+“Our results contribute to a deeper knowledge of the biological factors controlling the long-term evolution of Earth’s atmosphere,” Ozaki says. “They offer a better mechanistic understanding of the factors that promote oxygenation of the atmospheres of Earth-like planets beyond our solar system.” The results “yield an entirely new vantage from which to build theoretical models of Earth’s biogeochemical oxygen cycle,” Reinhard adds.
+Other authors of the study are Katharine Thompson, Rachel Simister, and Sean Crowe of the University of British Columbia.
+Reinhard acknowledges support from the NASA Astrobiology Institute, the NASA Postdoctoral Program, the Alfred P. Sloan Foundation, and the NASA Nexus for Exoplanet System Science (NExSS).
+Additional Images
+Related links
+Early Earth Struggled to Make Oxygen for Complex Life
+Contact
+A. Maureen Rouhi, Ph.D.
+Director of Communications
+College of Sciences
+Email
+maureen.rouhi@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

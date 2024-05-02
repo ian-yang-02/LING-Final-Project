@@ -1,0 +1,43 @@
+nsf invests another $750k in student startup firehud 
+ firehud's reimagined platform monitors physiological data in real-time to guard against overexertion. 
+ firehud's biotrac body-worn sensor, which collects real-time physiological data to monitor for overexertion. (photo courtesy: firehud) 
+ dec 02, 2019 
+ — atlanta, ga 
+ during the weekslong battle against wildfires in california this fall, thousands of firefighters worked around the clock to save lives and property. 
+ it’s not hard to imagine those crews toiling past the point of exhaustion. many likely did. 
+ that’s exactly the kind of scenario the creators of 
+ firehud 
+ want to prevent. the georgia tech graduates have developed a wearable device that helps commanders keep track of firefighters’ vital signs while they work. it’s an idea with enough merit to have won two new grants this fall, 
+ including a second round of seed funding from the national science foundation (nsf). 
+ the 
+ phase ii small business innovation research grant 
+ means alumni zack braun, tyler sisk, and joe boettcher have $750,000 to continue refining their biotrac platform, and it’s a big vote of confidence in the platform’s technical and commercial viability. that brings the total investment from the nsf to nearly a million dollars. 
+ “with our phase i grant from nsf, we learned a lot very quickly,” said braun, a 2016 computer science graduate and co-founder of firehud. 
+ those lessons included realizing that their initial concept — a heads-up display of environmental and biometric data for firefighters — wasn’t what they actually needed. 
+ “based on feedback from the first responders, we learned that firefighters themselves are focused on the job at hand and too busy to use a heads-up display. really, the commander needs the [biometric] data so that they can best decide how to allocate their resources.” 
+ braun said the team learned fire chiefs needed a system that was easy to use, passive, and rugged. as a result, their product has evolved into a 
+ body-worn band, a long-range radio transceiver, and a real-time software dashboard . it allows on-scene commanders to make sure their crews aren’t overexerting themselves while they battle a blaze. 
+ braun called it the first commercially viable physiological monitoring platform tailored to first responders. 
+ braun and sisk won the 
+ 2016 inventure prize 
+ for the original firehud idea. they also participated in 
+ create-x , an initiative to support entrepreneurship among georgia tech students. sisk finished his bachelor’s in electrical engineering in 2016, and he and braun went to work full-time on the concept. they subsequently brought in boettcher, another electrical engineering graduate from tech, as chief development officer. 
+ “user feedback has been crucial to the evolution of our system,” he said. “that is something that has been instilled in our company since the beginning of the create-x program at georgia tech.” 
+ meanwhile, the trio also has received $750,000 to outfit a u.s. air force base with the system they developed with the first round of nsf funding. 
+ “the platform will be used to monitor the health of all their recruits in real time as well as show the overall fitness trends of the recruits while they are at the air force base,” braun said. 
+ through the nsf seed funding program, boettcher, braun, and sisk will continue to receive mentoring, feedback from experts, and time to scale their product. braun said they’re already in conversations with a manufacturer in georgia to produce more of their devices, which they’ll market to first responders, the military, and industrial facilities. 
+ additional images 
+ related links 
+ firehud 
+ firehud's biotrac platform 
+ small business innovation research grants 
+ create-x 
+ inventure prize 
+ contact 
+ joshua stewart 
+ 404.894.6016 
+ email 
+ jstewart@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

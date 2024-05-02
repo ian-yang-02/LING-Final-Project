@@ -1,0 +1,36 @@
+Learning Morse Code without Trying
+Researchers have developed a system that teaches people Morse code within four hours using a series of vibrations felt near the ear
+Oct 27, 2016
+— Atlanta, GA
+It’s not exactly beating something into someone’s head. More like tapping it into the side.
+Researchers at the Georgia Institute of Technology have developed a system that teaches people Morse code within four hours using a series of vibrations felt near the ear. Participants wearing Google Glass learned it without paying attention to the signals —they played games while feeling the taps and hearing the corresponding letters. After those few hours, they were 94 percent accurate keying a sentence that included every letter of the alphabet and 98 percent accurate writing codes for every letter.
+This is the latest chapter of passive haptic learning (PHL) studies at Georgia Tech. The same method — using vibrations while participants aren’t paying attention —
+has taught people braille ,
+how to play the piano
+and
+improved hand sensation for those with partial spinal cord injury.
+The PHL projects are all led by Georgia Tech Professor Thad Starner and his Ph.D. student Caitlyn Seim. The team decided to use Glass for this study because it has both a built-in speaker and tapper (Glass’s bone-conduction transducer).
+In the study, participants played a game while feeling vibration taps between their temple and ear. The taps represented the dots and dashes of Morse code and passively “taught” users through their tactile senses — even while they were distracted by the game.
+The taps were created when researchers sent a very low-frequency signal to Glass’s speaker system. At less than 15 Hz, the signal was below hearing range but, because it was played very slowly, the sound was felt as a vibration.
+Half of the participants in the study felt the vibration taps and heads a voice prompt for each corresponding letter. The other half — the control group — felt no taps to help them learn.
+Participants were tested throughout the study on their knowledge of Morse code and their ability to type it.  After less than four hours of feeling every letter, everyone was challenged to type the alphabet in Morse code in a final test.
+The control group was accurate only half the time.  Those who felt the passive cues were nearly perfect.
+The research was recently presented in Germany at the 20 th
+International Symposium on Wearable Computers.
+“Does this new study mean that people will rush out to learn Morse code? Probably not,” said Starner. “It shows that PHL lowers the barrier to learn text-entry methods — something we need for smartwatches and any text-entry that doesn’t require you to look at your device or keyboard.”
+Previous research on PHL used custom hardware to provide the tactile stimuli, but here researchers use an existing wearable device.
+“This research also shows that other common devices with an actuator could be used for passive haptic learning,” he says. “Your smartwatch, Bluetooth headset, fitness tracker or phone.”
+“In our Braille and piano PHL studies, people felt vibrations on their fingers, then used their fingers for the task,” said Seim. “This study was different and surprising. People were tapped on their heads, but the skill they learned was using their finger.”
+Seim’s next study will go a step further, investigating whether PHL can teach people how to type on the trusted QWERTY keyboard. That would mean several letters assigned to the same finger, rather than using only one finger like Morse code.
+The work is supported in part by the National Science Foundation (Grant Number 1217473). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors.
+Additional Images
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

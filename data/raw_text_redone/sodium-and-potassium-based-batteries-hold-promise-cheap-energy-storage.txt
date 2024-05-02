@@ -1,0 +1,33 @@
+sodium- and potassium-based batteries hold promise for cheap energy storage 
+ researchers at the georgia institute of technology have found new evidence suggesting that batteries based on sodium and potassium hold promise as a potential alternative to lithium-based batteries. 
+ matthew boebinger, a graduate student at georgia tech, and matthew mcdowell, an assistant professor in the george w. woodruff school of mechanical engineering and the school of materials science and engineering, used an electron microscope to observe chemical reactions. (credit: rob felt) 
+ jun 19, 2018 
+ — atlanta, ga 
+ from electric cars that travel hundreds of miles on a single charge to chainsaws as mighty as gas-powered versions, new products hit the market each year that take advantage of recent advances in battery technology. 
+ but that growth has led to concerns that the world’s supply of lithium, the metal at the heart of many of the new rechargeable batteries, may eventually be depleted. 
+ now researchers at the georgia institute of technology have found new evidence suggesting that batteries based on sodium and potassium hold promise as a potential alternative to lithium-based batteries. 
+ “one of the biggest obstacles for sodium- and potassium-ion batteries has been that they tend to decay and degrade faster and hold less energy than alternatives,” said matthew mcdowell, an assistant professor in the george w. woodruff school of mechanical engineering and the school of materials science and engineering. 
+ “but we’ve found that’s not always the case,” he added. 
+ for the study, which was published june 19 in the journal 
+ joule 
+ and was sponsored by the national science foundation and the u.s. department of energy, the research team looked at how three different ions – lithium, sodium, and potassium – reacted with particles of iron sulfide, also called pyrite and fool’s gold. 
+ as batteries charge and discharge, ions are constantly reacting with and penetrating the particles that make up the battery electrode. this reaction process causes large volume changes in the electrode’s particles, often breaking them up into small pieces. because sodium and potassium ions are larger than lithium, it’s traditionally been thought that they cause more significant degradation when reacting with particles. 
+ in their experiments, the reactions that occur inside a battery were directly observed inside an electron microscope, with the iron sulfide particles playing the role of a battery electrode. the researchers found that iron sulfide was more stable during reaction with sodium and potassium than with lithium, indicating that such a battery based on sodium or potassium could have a much longer life than expected. 
+ the difference between how the different ions reacted was stark visually. when exposed to lithium, iron sulfide particles appeared to almost explode under the electron microscope. on the contrary, the iron sulfide expanded like a balloon when exposed to the sodium and potassium. 
+ “we saw a very robust reaction with no fracture – something that suggests that this material and other materials like it could be used in these novel batteries with greater stability over time,” said matthew boebinger, a graduate student at georgia tech. 
+ the study also casts doubt on the notion that large volume changes that occur during the electrochemical reaction are always a precursor to particle fracture, which causes electrode failure leading to battery degradation. 
+ the researchers suggested that one possible reason for the difference in how the different ions reacted with the iron sulfide is that the lithium was more likely to concentrate its reaction along the particle’s sharp cube-like edges, whereas the reaction with sodium and potassium was more diffuse along all of the surface of the iron sulfide particle. as a result, the iron sulfide particle when reacting with sodium and potassium developed a more oval shape with rounded edges. 
+ while there’s still more work to be done, the new research findings could help scientists design battery systems that use these types of novel materials. 
+ “lithium batteries are still the most attractive right now because they have the most energy density – you can pack a lot of energy in that space,” mcdowell said. “sodium and potassium batteries at this point don’t have more density, but they are based on elements a thousand times more abundant in the earth’s crust than lithium. so they could be much cheaper in the future, which is important for large scale energy storage – backup power for homes or the energy grid of the future.” 
+ this material is based upon work supported by the national science foundation under grant nos. dmr-1652471, dmr-1410936, cmmi-1554393 and eccs-1542174, as well as the u.s. department of energy under contract no. de-sc0012704. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ citation: 
+ matthew g. boebinger, david yeh, michael xu, b. casey miles, baolin wang, marc papakyriakou, john a. lewis, neha p. kondekar, francisco javier quintero cortes, sooyeon hwang, xiahan sang, dong su, raymond r. unocic, shuman xia, ting zhu, and matthew t. mcdowell, “avoiding fracture in a conversion battery material through reaction with larger ions,” (joule, june 2018). https: / / doi.org / 10.1016 / j.joule.2018.05.015 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

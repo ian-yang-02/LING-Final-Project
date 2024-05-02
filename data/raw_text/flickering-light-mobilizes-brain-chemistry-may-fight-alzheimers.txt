@@ -1,0 +1,47 @@
+Flickering Light Mobilizes Brain Chemistry That May Fight Alzheimer’s
+The hope of flickering light to treat Alzheimer's takes another step forward in this new study, which reveals stark biochemical mechanisms.
+Researcher Annabelle Singer models an experimental visor and earphones that play 40 Hertz light and sound. The current study was performed on mice. The pictured device is in human testing as a possible Alzheimer's treatment. Results from those tests are to be published in later studies separate from the current study in mice. Credit: Georgia Tech / Allison Carter
+Feb 03, 2020
+— Atlanta, GA
+For over a century, Alzheimer’s disease has confounded all attempts to treat it. But in recent years, perplexing experiments using flickering light have shown promise.
+Now, researchers have tapped into how the flicker may work. They discovered in the lab that the exposure to light pulsing at 40 hertz – 40 beats per second – causes brains to release a surge of signaling chemicals that may help fight the disease.
+Though conducted on healthy mice,  this new study  is directly connected to human trials, in which Alzheimer’s patients are exposed to 40 Hz light and sound. Insights gained in mice at the Georgia Institute of Technology are informing the human trials in collaboration with Emory University.
+“I’ll be running samples from mice in the lab, and around the same time, a colleague will be doing a strikingly similar analysis on patient fluid samples,” said Kristie Garza, the study’s first author. Garza is a graduate research assistant in the lab of Annabelle Singer at Georgia Tech and also a member of Emory’s neuroscience program.
+One of the surging signaling molecules in the new study on mice is strongly associated with the activation of brain immune cells called microglia, which purge an Alzheimer’s hallmark – amyloid beta plaque, junk protein that accumulates between brain cells.
+Immune signaling
+In 2016, researchers discovered that light flickering at 40 Hz mobilized microglia in mice afflicted with Alzheimer’s to clean up that junk.  The new study looked for brain chemistry that connects the flicker with microglial and other immune activation in mice and exposed a surge of 20 cytokines – small proteins secreted externally by cells and which signal to other cells. Accompanying the cytokine release, internal cell chemistry – the activation of proteins by phosphate groups – left behind a strong calling card.
+“The phosphoproteins showed up first. It looked as though they were leading, and our hypothesis is that they triggered the release of the cytokines,” said Singer, who co-led the new study and is an  assistant professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory .
+“Beyond cytokines that may be signaling to microglia, a number of factors that we identified have the potential to support neural health,” said Levi Wood, who co-led the study with Singer and is an  assistant professor in Georgia Tech’s George W. Woodruff School of Mechanical Engineering .
+The team published its findings  in the  Journal of Neuroscience  on February 5, 2020 . The research was funded by the National Institute of Neurological Disorders and Stroke at the National Institutes of Health, and by the Packard Foundation.
+Singer was co-first author on  the original 2016 study at the Massachusetts Institute of Technology , in which the therapeutic effects of 40 Hz were first discovered in mice.
+Sci-fi surrealness
+Alzheimer’s strikes, with few exceptions, late in life. It  destroys up to 30% of a brain’s mass , carving out ravines and depositing piles of amyloid plaque, which builds up outside of neurons. Inside neurons, phosphorylated  tau protein  forms similar junk known as  neurofibrillary tangles  suspected of destroying mental functions and neurons.
+After many decades of failed Alzheimer’s drug trials costing billions, flickering light as a potentially successful Alzheimer’s therapy seems surreal even to the researchers.
+“Sometimes it does feel like science fiction,” Singer said.
+The 40 Hz frequency stems from the observation that brains of Alzheimer’s patients suffer early on from a lack of what is called gamma, moments of gentle, constant brain waves acting like a dance beat for neuron activity. Its most common frequency is right around 40 Hz, and exposing mice to light flickering at that frequency restored gamma and also appears to have prevented heavy Alzheimer’s brain damage.
+Adding to the surrealness, gamma has also been associated with esoteric mind expansion practices, in which practitioners perform light and sound meditation. Then, in 2016, research connected gamma to working memory, a function key to train of thought.
+Cytokine bonanza
+In the current study, the surging cytokines hinted at a connection with microglial activity, and in particular, the cytokine  Macrophage Colony-Stimulating Factor  (M-CSF).
+“M-CSF was the thing that yelled, ‘Microglia activation!’” Singer said.
+The researchers will look for a causal connection to microglia activation in an upcoming study, but the overall surge of cytokines was a good sign in general, they said.
+“The vast majority of cytokines went up, some anti-inflammatory and some inflammatory, and it was a transient response,” Wood said. “Often, a transient inflammatory response can promote pathogen clearance; it can promote repair.”
+“Generally, you think of an inflammatory response as being bad if it’s chronic, and this was rapid and then dropped off, so we think that was probably beneficial,” Singer added.
+Chemical timing
+The 40 Hz stimulation did not need long to trigger the cytokine surge.
+“We found an increase in cytokines after an hour of stimulation,” Garza said. “We saw phosphoprotein signals after about 15 minutes of flickering.”
+Perhaps about 15 minutes was enough to start processes inside of cells and about 45 more minutes were needed for the cells to secrete cytokines. It is too early to know.
+20 Hz bombshell
+As controls, the researchers applied three additional light stimuli, and to their astonishment, all three had some effect on cytokines. But stimulating with 20 Hz stole the show.
+“At 20 Hz, cytokine levels were way down. That could be useful, too. There may be circumstances where you want to suppress cytokines,” Singer said. “We’re thinking different kinds of stimulation could potentially become a platform of tools in a variety of contexts like Parkinson’s or schizophrenia. Many neurological disorders are associated with immune response.”
+The research team warns against people improvising light therapies on their own, since more data is needed to thoroughly establish effects on humans, and getting frequencies wrong could possibly even do damage.
+Also read:
+A family coping with Alzheimer’s leads you through our fight against it
+Also read:
+Why Alzheimer’s research probably needs to shift focus
+Lu Zhang and Ben Borron  from the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University co-authored the study. The research was funded by the  National Institute of Neurological Disorders and Stroke at the National Institutes of Health (grants NIH R01-NS109226 and R01-NS109226-01S1), by the Packard Foundation, the Friends and Alumni of Georgia Tech, and by the Lane family. Any findings, conclusions, and recommendations are those of the authors and not necessarily of the sponsors.
+Writer & Media Representative : Ben Brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

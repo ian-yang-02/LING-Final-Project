@@ -1,0 +1,40 @@
+New Research Embodies Queer History Through Artifacts
+New research from the Georgia Institute of Technology offers a unique framework for understanding queer communities and their histories.
+Feb 28, 2023
+— Atlanta, GA
+“Gay power.” “I Love You Susan B. Anthony.” “ERA Yes.” These are just a few buttons in the
+Georgia State University Library LGBTQ Collection , an archive of the Georgia queer community. The buttons represent the politics, identities, causes, and humor of the 1970s Atlanta LGBTQ communities — in short, a snapshot of history.
+But how do you archive and convey queer history? It’s a complex question for historians and LGBTQ people, who have been on the margins and often resist categorization. New research from the Georgia Institute of Technology offers a unique framework for understanding queer communities and their histories.
+The buttons are from the personal collections of two local queer activists, Lorraine Fontana and Maria Helena Dolan. The researchers created replicas of the historic buttons and paired them with oral history recordings of Fontana and Dolan also in the archive. Participants of the study were encouraged to interact with the buttons through a wearable audio player — touching them, putting them on, and hearing these histories in the activists’ own words. The experience created a tangible connection to queer history and invited the participant into the narrative.
+“Buttons are important because not only are they signals of political and social causes, but they're also identity signifiers,” said researcher
+Alexandra Teixeira Riggs,
+a
+digital media
+Ph.D. student. “When you're putting one on, you're signaling something that you believe in or some part of your identity to another person, and  this has historically been central to queer communities.”
+Riggs co-wrote “ Button Portraits: Embodying Queer History With Interactive Wearable Artifacts ” with advisor
+Anne Sullivan
+and
+Noura Howell,
+both digital media assistant professors. The paper was published in
+Interactive Storytelling
+in December 2022.
+Bringing Tangible Narratives to the Archive
+Riggs created a  tangible narrative — an experience that uses objects embedded with digital capabilities — to tell these stories. In this case, each button interacted with an audio player containing a Raspberry Pi, or small computer, with a near field communication (NFC) reader in it. When a participant placed the button on the NFC reader, it activated a fragment of Dolan or Fontana’s oral history related to that button. This direct engagement with the button effectively enables the participant to imagine themselves in the narrative and reflect on their connection to that history.
+Buttons were the ideal object for tangible narrative because participants could pick them up and pin them on their clothes, creating a sense of intimacy. The button is no longer just a historical artifact, but a part of the participant. The archive’s buttons offered a direct connection to 1970s feminism and queer activism with their political slogans, identity markers, location-specific designs, and other areas that clearly place participants in the historical narrative. Buttons themselves are also often seen as ephemera, or objects usually not preserved in history.
+“There's this sense that some materials exist outside of the archive solely in personal collections of communities that don't necessarily consider their materials or stories to be worthy of a collection with a capital C,” Riggs said.
+The researchers paired each button with clips from Fontana and Dolan’s oral histories that  corresponded to the buttons’ themes through keywords or contextual meanings. However, the researchers didn’t impose a linear narrative or any type of organization on the buttons. Participants were encouraged to explore the buttons on their own without guidance and experienced the fluidity of queer stories.
+Queering the Archive
+The design of a nonlinear experience of the buttons is an application of queer theory to the creation of tangible narratives. The theory suggests that queer physical spaces are multidimensional — blurring the lines between past and present, historical figure and participant, and object and body. Tangible narrative invites the participant’s own experience, body, and identity into history and further complicates the idea of the archive.
+It also challenges how archives are inherently organized. By inviting the participant to interact with the buttons on their own and without any discernible order, it effectively queers the experience of the archive or questions how archives are traditionally used and viewed as historic, canonical records fully in the past.
+Riggs hopes to expand the research to queer and trans communities of color and other marginalized groups in the future.
+“What I want to do with this project is to allow for a way of expressing design through queer means,” Riggs said. “I want there to be a way for us to relate to archives in a more embodied way than we would in a typical museum setting. Hopefully that leads to more accessibility of these stories and dialogue within queer communities about how we reflect on this history.”
+CITATION: Riggs, A.T., Howell, N., Sullivan, A. (2022). Button Portraits: Embodying Queer History with Interactive Wearable Artifacts. In: Vosmeer, M., Holloway-Attaway, L. (eds) Interactive Storytelling. ICIDS 2022. Lecture Notes in Computer Science, vol 13762. Springer, Cham.
+https://doi.org/10.1007/978-3-031-22298-6_2
+Additional Images
+Contact
+Tess Malone, Senior Research Writer/Editor
+Email
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

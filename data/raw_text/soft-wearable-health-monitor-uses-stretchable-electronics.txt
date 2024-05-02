@@ -1,0 +1,50 @@
+Soft Wearable Health Monitor Uses Stretchable Electronics
+A wireless, wearable monitor built with stretchable electronics could allow comfortable, long-term health monitoring of adults, babies and small children.
+A wireless, wearable monitor built with stretchable electronics could allow comfortable, long-term health monitoring of adults, babies and small children. (Photo: John Toon, Georgia Tech)
+Jul 30, 2019
+— Atlanta, GA
+A wireless, wearable monitor built with stretchable electronics could allow comfortable, long-term health monitoring of adults, babies and small children without concern for skin injury or allergic reactions caused by conventional adhesive sensors with conductive gels.
+The soft and conformable monitor can broadcast electrocardiogram (ECG), heart rate, respiratory rate and motion activity data as much as 15 meters to a portable recording device such as a smartphone or tablet computer. The electronics are mounted on a stretchable substrate and connected to gold, skin-like electrodes through printed connectors that can stretch with the medical film in which they are embedded.
+“This health monitor has a key advantage for young children who are always moving, since the soft conformal device can accommodate that activity with a gentle integration onto the skin,” said
+Woon-Hong Yeo , an assistant professor in the
+George W. Woodruff School of Mechanical Engineering
+and
+Wallace H. Coulter Department of Biomedical Engineering at the Georgia Institute of Technology . “This is designed to meet the electronic health monitoring needs of people whose sensitive skin may be harmed by conventional monitors.”
+Details of the monitor were reported July 24 in the journal
+Advanced Science . The research was supported by the Imlay Innovation Fund at Children’s Healthcare of Atlanta, NextFlex (Flexible Hybrid Electronics Manufacturing Institute), and by a seed grant from the Institute for Electronics and Nanotechnology at Georgia Tech. The monitor has been studied on both animal models and humans.
+Because the device conforms to the skin, it avoids signal issues that can be created by the motion of the typical metal-gel electrodes across the skin. The device can even obtain accurate signals from a person who is walking, running or climbing stairs.
+“When you put a conventional electrode on the chest, movement from sitting up or walking creates motion artifacts that are challenging to separate from the signals you want to measure,” he said. “Because our device is soft and conformal, it moves with the skin and provides information that cannot be seen with the motion artifacts of conventional sensors.”
+Continuous evaluation with a wireless health monitor could improve the assessment of children and help clinicians identify trends earlier, potentially facilitating intervention before a condition progresses, said Dr. Kevin Maher, a pediatric cardiologist at
+Children’s Healthcare of Atlanta .
+“The generation of continuous data from the respiratory and cardiovascular systems could allow for the application of advanced diagnostics to detect changes in clinical status, response to therapies and implementation of early intervention,” Maher said. “A device to literally follow every breath a child takes could allow for early recognition and intervention prior to a more severe presentation of a disease.”
+Used in the home, a wearable monitor might detect changes that might not otherwise be apparent, he said. In clinical settings, the wireless device could allow children to feel less “tethered” to equipment. “I see this device as a significant change in pediatric health care and am excited to partner with Georgia Tech on the project,” Maher added.
+The monitor uses three gold electrodes embedded in the film that also contains the electronic processing equipment. The entire health monitor is just three inches in diameter, and a more advanced version under development will be half that size. The wireless monitor is now powered by a small rechargeable battery, but future versions may replace the battery with an external radio-frequency charging system.
+Yeo and his collaborators, including first author and postdoctoral fellow Yun-Soung Kim, are focusing on pediatric applications because of the need for ambulatory monitoring in children. However, they envision that the health monitor could also be used for other patient groups, including older adults who may also have sensitive skin. For adults, there would be additional advantages.
+“The monitor could be worn for multiple days, perhaps for as long as two weeks,” Yeo said. “The membrane is waterproof, so an adult could take a shower while wearing it. After use, the electronic components can be recycled.”
+Two versions of the monitor have been developed. One is based on medical tape and designed for short-term use in a hospital or other care facility, while the other uses a soft elastomer medical film approved for use in wound care. The latter can remain on the skin longer.
+“The devices are completely dry and do not require a gel to pick up signals from the skin,” Yeo explained. “There is nothing between the skin and the ultrathin sensor, so it is comfortable to wear.”
+Because the monitor can be worn for long periods of time, it can provide a long-term record of ECG data helpful to understanding potential heart problems. “We use deep learning to monitor the signals while comparing them to data from a larger group of patients,” Yeo said. “If an abnormality is detected, it can be reported wirelessly through a smartphone or other connected device.”
+Fabrication of the monitor’s circuitry uses thin-film, mesh-like patterns of copper that can flex with the soft substrate. The chips are the only part not flexible, but they are mounted on the strain-isolated soft substrate instead of a traditional plastic circuit board.
+As next steps, Yeo plans to reduce the size of the device and add features to measure other health-related parameters such as temperature, blood oxygen and blood pressure. A major milestone would be a clinical trial to evaluate performance against conventional health monitors.
+For Yeo, who specializes in nano- and micro-engineering, the prospect of seeing the device in clinical trials – and ultimately used in children’s hospitals – is a powerful incentive.
+“It will be a dream come true for me to see something we have developed be helpful to someone who is suffering,” he said. “We all want to see developments in science and engineering translated into improved patient care.”
+In addition to those already mentioned, paper coauthors included Robert Herbert, Shinjae Kwon, and Musa Mahmood from Georgia Tech; Yongkuk Lee from Wichita State University; Nam Kyun Kim and Hee Cheol Cho from Emory University; and Donghyun Kim from Yonsei University Wonju College of Medicine in South Korea.
+This research was supported by a grant from the Imlay Innovation Fund at Children’s Healthcare of Atlanta, NextFlex (Flexible Hybrid Electronics Manufacturing Institute), and the Georgia Tech Institute for Electronics and Nanotechnology, a member of the National Nanotechnology Coordinated Infrastructure, which is supported by the National Science Foundation through award ECCS-1542174.
+CITATION : Yun-Soung Kim, et al., “All-in-One, Wireless, Stretchable Hybrid Electronics for Smart, Connected, and Ambulatory Physiological Monitoring” (Advanced Science, 2019)
+https://doi.org/10.1002/advs.201900939
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia 30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

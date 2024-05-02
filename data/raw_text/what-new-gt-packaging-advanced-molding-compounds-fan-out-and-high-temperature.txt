@@ -1,0 +1,35 @@
+What is New @ GT in Packaging? Advanced Molding Compounds for Fan-out and High-temperature Automotive Electronics
+Georgia Tech and its industry partners are developing a new class of molding compounds with superior thermal stability and reliability up to 250°C
+Nov 17, 2016
+— Atlanta, GA
+Georgia Tech and its industry partners are developing a new class of molding compounds with superior thermal stability and reliability up to 250°C for a variety of applications, including high-power automotive electronics, and wafer and panel fan-out packages.
+High-temperature performance of molding compounds is becoming a key bottleneck for least three reasons: 1) integrated power modules with wide-bandgap (WBG) switches, gate drivers and controllers with ultra-high power densities, leading to escalating package temperatures; 2) under-the-hood automotive electronics; and 3) improvements in molded wafer and panel fan-out packages to address die drift, shrinkage and warpage issues.
+Traditional molding compounds are limited to temperatures below 175°C. Although a number of polymer materials such as polyimide, cyanate ester, and benzocyclobutene (BCB) polymers offer high-temperature stability, epoxies are still the preferred choice because of several advantages that include excellent interfacial adhesion, low moisture absorption, excellent molding processibility and low cost. Recent advances include incorporation of multi-aromatic structures in the epoxy resin to enhance thermal stability of the cured composite. However, undesirable changes in material properties such as resin decomposition and the loss of volatile species become inevitable. Loss in mechanical toughness and oxidative-degradation still remain as the other major limitations with epoxies.
+The Georgia Tech team, which includes polymer chemists, package processing and reliability experts, is developing higher temperature molding compounds with higher thermal stability stability, higher thermal conductivity, enhanced fracture toughness, and improved resistance to oxidative-degradation. Thermal stability of epoxies is being enhanced by incorporating thermally-stable functionalities derived from cyanate esters. The thermal conductivity of molding compounds is being enhanced with functionalized boron nitride fillers, while the fracture toughness of molding compounds is being enhanced with rubber-coated silica fillers that serve as crack-energy absorbers. The simultaneous synergy of enhancing the thermal stability, thermal conductivity and crack resistance provides unique opportunities to develop high-performance epoxy molding compounds to address some of the limitations of current wafer and panel fan-out packages as well as emerging high-power automotive electronics.
+In addition to synthesizing the high-temperature molding compounds, the ongoing project will also focus on thermo-mechanical reliability including fracture characterization at various material interfaces up to 250°C. Thermo-mechanical models are also being used to determine stress/strain distribution as well as energy available for crack propagation in packages that use high-temperature mold compounds. Such models will be used to obtain design guidelines for high-temperature applications.
+This project is part of Georgia Tech industry consortium in System Scaling which includes about 40 end-user and supply chain companies.
+About the Authors
+Chia-Chi Tuan is a PhD student under the advisement of Prof. CP Wong. Her research focus is on epoxy-based polymer composites.
+chiachituan@gatech.edu .
+Dr. Jack Moon is a Research Engineer at the School of Materials Science and Engineering at Georgia Tech.
+jack.moon@gatech.edu .
+Prof. CP Wong is the Regents' Professor and Smithgall Institute Endowed Chair at the School of Materials Science and Engineering at Georgia Tech.
+cp.wong@mse.gatech.edu .
+Prof. Suresh Sitaraman is Morris M. Bryan Jr. Professor with George W. Woodruff School of Mechanical Engineering at Georgia Tech.
+suresh.sitaraman@me.gatech.edu .
+Dr. Raj Pulugurtha is a Research Professor and Program Manager of RF, Power and High-Temperature Materials at GT PRC.
+raj.pulugurtha@ece.gatech.edu .
+Prof. Rao Tummala is Joseph. M. Pettit Chair Professor in ECE and MSE and Director of Georgia Tech’s Packaging Research Center.
+rao.tummala@ece.gatech.edu .
+Additional Images
+Contact
+Karen May
+Marketing & Communications Coordinator
+Packaging Research Center
+karen.may@ece.gatech.edu
+(404) 385-1220
+Email
+karen.may@ece.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

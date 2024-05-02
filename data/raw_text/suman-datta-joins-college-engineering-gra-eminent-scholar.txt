@@ -1,0 +1,32 @@
+Suman Datta Joins College of Engineering as GRA Eminent Scholar
+Suman Datta, one of the nation’s top researchers in semiconductor and nanoelectronic device research, is joining Georgia Tech.
+Suman Datta, Joseph M. Pettit Chair and a Georgia Research Alliance (GRA) Eminent Scholar
+Feb 10, 2022
+— Atlanta, GA
+Suman Datta, one of the nation’s top researchers in semiconductor and nanoelectronic device research, is joining Georgia Tech’s
+School of Electrical and Computer Engineering (ECE)
+as Joseph M. Pettit Chair and a
+Georgia Research Alliance (GRA) Eminent Scholar . He will also have a joint appointment with the
+School of Materials Science and Engineering (MSE) . Datta is currently serving as a Georgia Tech adjunct professor while at the University of Notre Dame and will transition full time to Georgia Tech in the fall.
+Datta is the Stinson Professor of Nanotechnology in Notre Dame’s Department of Electrical Engineering. He is the director of
+ASCENT (Applications and Systems-Driven Center for Energy-Efficient Integrated NanoTechnologies) , a $40 million microelectronics research center funded by the Semiconductor Research Corporation (SRC) and the Defense Advanced Research Projects Agency (DARPA). The center's mission is to provide breakthrough advances in foundational semiconductor materials, devices, and heterogenous integration technologies. ASCENT includes Notre Dame and 13 partner universities.
+Datta’s research involves high-performance, heterogenous computing, brain-inspired computing, and collective state computing using advanced CMOS (complementary metal–oxide–semiconductor) and beyond-CMOS devices. He also focuses on the development of semiconductor technologies for other types of computing, including intermittent computing, cryogenic computing, and harsh environment computing.
+“Suman is a leader in the fields of semiconductors and nanoelectronic device research. His addition to the faculty is a tremendous benefit for our students, research community, and the state of Georgia,” said Raheem Beyah, dean of the
+College of Engineering
+and Southern Company Chair. “I welcome him to Georgia Tech and am excited to see him continue to define the future of computing.”
+From 2016-2021, Datta served as director of the six-university
+Center for Extremely Energy Efficient Collective Electronics (EXCEL),
+which is funded by the SRC and National Science Foundation (NSF). EXCEL explores the demonstration of an alternate computing platform that leverages continuous-time dynamics of emerging devices to execute optimization, learning, and inference tasks in a collective, cooperative, and scalable way to transcend the current energy efficiency wall by many orders of magnitude.
+Georgia Tech ECE faculty members have played technical roles in both EXCEL and ASCENT and many have collaborated with Datta in recent years.
+“I have been fortunate to pursue a career in semiconductor science and technology, a field inherently multi-disciplinary that touches many areas of physical sciences. Looking ahead, with new paradigms of computing, communication, and information storage on the horizon, I see traditional boundaries between computing and physical sciences blurring,” said Datta. “This is why I’m thrilled to join the Georgia Tech family in ECE and MSE. Additionally, as a new member of the Georgia Research Alliance, I look forward to bringing my technology development experience in the private sector and contributing to the larger tech transfer and commercialization ecosystem in the state of Georgia.”
+Datta has been at the forefront of logic transistor research for the past two decades. While at Intel from 1999-2007, two of his most impactful contributions in high-k/metal gate CMOS and Tri-gate CMOS research and development led to commercially successful technologies that allowed transistor scaling from 45nm node to 14nm node and beyond. Datta’s recent research has driven advances in embedded high-performance memory space such as single transistor Ferroelectric transistor memory and capacitorless gain cell (or floating body DRAM) suitable for compute-in-memory (CIM) accelerators. His recent work on using continuous time dynamics of coupled oscillators to solve optimization problems is galvanizing interest in the alterative compute paradigm of “let physics do the computing.”
+“Suman Datta is one of the nation’s leaders in semiconductor research,” said GRA President
+Susan Shows . “He is a strong collaborator and will continue to make advances in this growing, important industry for Georgia. GRA is pleased to welcome him to its Academy.”
+Prior to Notre Dame, Datta was a professor of electrical engineering at The Pennsylvania State University, University Park, from 2007-2015. Datta has co-authored 11 book chapters and more than 400 refereed journal and conference proceedings papers.
+In 2013, Datta was named Fellow of the Institute of Electrical and Electronics Engineers (IEEE) for his contributions to high-performance advanced silicon and compound semiconductor transistor technologies. Datta holds 185 U.S. patents. In 2016, he was named Fellow of the National Academy of Inventors (NAI) in recognition of his inventions that have made a tangible impact on quality of life, economic development and the welfare of society.
+Additional Images
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

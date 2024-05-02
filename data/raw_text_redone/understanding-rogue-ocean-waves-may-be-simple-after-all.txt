@@ -1,0 +1,42 @@
+understanding rogue ocean waves may be simple after all 
+ a team of scientists has developed a relatively simple mathematical explanation for the rogue ocean waves that can develop seemingly out of nowhere. 
+ a 60-foot rogue wave hits the overseas chicago tanker as it was headed south from valdez, alaska in 1993. the ship was running in 25-foot seas when the monster wave hit it on the starboard side. (credit: captain roger wilson courtesy of noaa) 
+ jun 21, 2016 
+ — atlanta, ga 
+ an international team of scientists has developed a relatively simple mathematical explanation for the rogue ocean waves that can develop seemingly out of nowhere to sink ships and overwhelm oil platforms with walls of water as much as 25 meters high. 
+ the waves stem from a combination of constructive interference – a known wave phenomenon – and nonlinear effects specific to the complex dynamics of ocean waves. an improved understanding of how rogue waves originate could lead to improved techniques for identifying ocean areas likely to spawn them, allowing shipping companies to avoid dangerous seas. furthermore, new insights into the unsolved problem of wave breaking and into the wave manifestation of light are to be gained, according to the researchers. 
+ based on an analysis of the two famous real world andrea and draupner rogue waves observed at different oil platforms in the north sea over the course of a decade, and the recently observed killard rogue wave at a site for marine renewable energy off the coast of ireland, the research was reported this week in the journal 
+ scientific reports . the work was done by researchers at the georgia institute of technology, university college dublin, and the institut femto-st cnrs-université de franche-comté. 
+ “we saw similar wave behaviors at all three rogue wave sites,” said 
+ francesco fedele , a professor in the georgia tech 
+ school of civil and environmental engineering . “we found that the main mechanism responsible for generating these waves is the constructive interference of elementary waves due to directional dispersive focusing enhanced by second-order bound nonlinearities.” 
+ rogue waves have been observed in oceans around the world. they typically last only 20 seconds or so before disappearing, and are different from tsunami waves that can travel great distances after being created by underwater earthquakes or landslides. 
+ earlier research had suggested a phenomenon known as “modulational instability” to explain the rogue waves. that theory had been demonstrated in laboratories, but didn’t adequately explain the complex three-dimensional waves that were being measured in the open ocean without boundaries to constrain them. as a result, energy is not ‘trapped’ as in a long unidirectional channel. instead, it is free to flow and spread directionally diminishing any exchange mechanisms between neighboring waves, fedele said. 
+ though ocean waves have a predominant direction, in the open ocean, waveforms from other directions can arrive. in rare conditions, those waves arrive in an organized way or almost in phase, leading to an unusual case of constructive interference that can double the height of the resulting wave. 
+ but this doubled height still cannot explain the size of the rogue waves observed in the north sea – and elsewhere. that difference can be accounted for by the nonlinear nature of the waves, which are not sinusoidal – but instead have rounded troughs, along with sharp peaks that result from the water being pushed upward against the pull of gravity. 
+ “you have to account for the nonlinearity of the ocean, which is manifested in the lack of symmetry between the crests and the troughs,” said fedele, who also has an appointment in georgia tech’s school of electrical and computer engineering. “these nonlinear effects can produce an enhancement of 15 to 20 percent in wave height, which adds onto the effects of constructive interference.” 
+ using advanced mathematical techniques, the researchers modeled how waves could combine in very unusual circumstances to produce the draupner and andrea rogue waves measured at two different oil platforms in the north sea in 1995 and 2007 and the killard rogue wave observed in 2014 off the coast of ireland. their model’s predictions match the waves measured. 
+ “we describe the complex energy flow of a wave field by what we call its directional spectra,” said frédéric dias, a professor at university college dublin. “what we have shown is that by combining knowledge of this spectra and using mathematics that accounts for second-order nonlinearities, we can reproduce the measured rogue waves almost exactly.” 
+ while ocean waves can differ from other waveforms, the research team gained important insights from the optical community and the study of how light waves interact. 
+ “these are fascinating results,” said john dudley, a professor at the institut femto-st cnrs-université de franche-comté. “there are many different effects that can cause wave amplification, but it is essential as a scientist to keep an open mind and to keep looking for new possible explanations. it is not for us to tell nature how to work – we must follow where it leads us, even if it means changing our ideas.” 
+ the research has been the basis for a new rogue wave model that could be used to identify ocean areas where nonlinear effects could give rise to the waves and to provide new insights into the unsolved problem of wave breaking. that could give shipping companies and others as much as an hour’s warning to avoid those areas. 
+ in the end, fedele said, the formation of the rogue wave is simply chance: the rare combination of waves in what turns out to be a bad place for ships or oil platforms. “it’s just a bad day at the ocean,” he added. 
+ in future work, fedele hopes to apply the model to optical waves. 
+ “what we would like to do next is show that there are wave groups in the ocean and in optics that behave in the same way,” he said. “there is an underlying physical entity which is the wave group. we see a wave packet, a travelling group of waves that grows in amplitude to reach a maximum before it decays.” 
+ in addition to those already mentioned, the research team included graduate student joseph brennan and postdoctoral researcher sonia ponce de leon. 
+ citation : francesco fedele, et al., “real world ocean rogue waves explained without the modulational instability,” (scientific reports, 2016). 
+ http: / / dx.doi.org / 10.1038 / srep27715 
+ research news georgia institute of technology 177 north avenue atlanta, georgia 30332-0181 usa 
+ media relation contacts : john toon (404-894-6986) ( jtoon@gatech.edu ) or ben brumfield (404-385-1933) ( ben.brumfield@comm.gatech.edu ). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ jtoon@gatech.edu 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,37 @@
+georgia tech procurement assistance center’s new instructional video and template help defense contractors comply with cybersecurity guidelines 
+ changes in u.s. department of defense cybersecurity regulations prompt creation of multimedia training package for nationwide use. 
+ to meet the government’s cybersecurity standards as cybercrimminals seek ways to hack into critically sensitive systems, contractors must assess their information systems, develop a security plan, and create an action plan. 
+ jan 18, 2018 
+ — atlanta, ga 
+ the georgia tech procurement assistance center (gtpac) has produced and released an 
+ instructional video 
+ designed to help contractors comply with u.s. department of defense (dod) cybersecurity requirements. 
+ gtpac, which works with georgia businesses to help them identify, compete for, and win government contracts, is a program of the enterprise innovation institute (ei 2 ), georgia tech’s economic development arm. the video will serve as an instructional tool for procurement technical assistance centers (ptacs) across the country. gtpac is scheduling a series of briefings for its clients statewide and is sharing the complete training package with all ptacs nationwide. 
+ accompanying the video is a 127-page template gtpac developed for contractors to use to create a security assessment report, a system security plan, and a plan of action for those cybersecurity requirements. 
+ the video and template were funded through a cooperative agreement with the defense logistics agency, and created with the support of the georgia institute of technology. 
+ gtpac presented an idea for a multimedia training package to the dod for its defense federal acquisition regulation supplement (dfars) clause 252.204-7012. this clause, revised in 2016 and which the dod is including in many of its contracts, mandates that contractors implement adequate security on all applicable contractor information systems and investigate and report on any compromises to those systems. 
+ specifically, the dfars clause requires that contractors: 
+ isolate malicious software. 
+ preserve and protect all media involved in a cyber incident. 
+ provide dod with access to information or equipment for purposes of forensic analysis. 
+ assess damage as a result of a cyber incident. 
+ “flow down” the clause in any subcontracts involving information covered by the requirements. 
+ to meet the government’s cybersecurity standards, contractors must assess their information systems, develop a security plan, and create an action plan. gtpac’s template — available for download as a word document on the same webpage where the video appears (gtpac.org / cybersecurity-training-video) — provides a step-by-step process by which each of these tasks can be completed and documentation can be compiled. 
+ “understanding and incorporating these cybersecurity regulations are critical for dod contractors. that’s especially so for small businesses, both primary contractors and subcontractors,” said joe beaulieu, gtpac’s program manager. 
+ “while numerous briefings have been held in recent months about the requirements, there had not been a comprehensive briefing package to help contractors understand the new regulations,” he noted. “our multimedia training package for gtpac and procurement assistance center clients across the country comprehensively addresses the requirements and presents a practical, solutions-based approach to the challenge to small businesses that the requirements represent.” 
+ georgia contractors seeking assistance in complying with dod’s cybersecurity requirements are encouraged to contact a gtpac procurement counselor. a list of counselors, their locations, and contact information can be found at  gtpac.org / team-directory . 
+ companies located outside of georgia may contact their nearest procurement technical assistance center for assistance. ptacs are located in all 50 states, washington, d.c., and the u.s. territories of guam and puerto rico. for a directory of ptacs, please visit  aptac-us.org / find-a-ptac . 
+ additional images 
+ related links 
+ georgia tech procurement assistance center 
+ gtpac cybersecurity training video 
+ contact 
+ for inquiries about the georgia tech procurement assistance center, contact: 
+ péralte c. paul 
+ 404.894.8727 
+ peralte.paul@comm.gatech.edu 
+ email 
+ peralte.paul@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

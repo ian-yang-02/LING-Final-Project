@@ -1,0 +1,53 @@
+BBQ Lighter, Combined With Microneedles, Sparks Breakthrough in Covid-19 Vaccine Delivery
+Georgia Tech researchers have developed and tested an innovative method that may simplify the complexity of delivering Covid-19 and other vaccines through a handheld electroporator
+Georgia Tech researchers Saad Bhamla (left) and Mark Prausnitz (right) study the ePatch in the laboratory. (Photo credit: Candler Hobbs, Georgia Tech)
+Oct 20, 2021
+— Atlanta, GA
+Future vaccine delivery may rely on everyday items like BBQ lighters and microneedles, thanks to the ingenuity of a team of Georgia Institute of Technology and Emory University researchers.
+The researchers, led by Georgia Tech’s School of Chemical and Biomolecular Engineering, have developed and tested an innovative method that may simplify the complexity of delivering Covid-19 and other vaccines through a handheld electroporator.
+While electroporation is commonly employed in the research lab using short electric pulses to drive molecules into cells, the technique currently requires large, complex, and costly equipment, severely limiting its use for vaccine delivery. Georgia Tech’s approach does the job using a novel pen-size device that requires no batteries and can be mass produced at low cost.
+The team’s
+findings
+are reported in the Oct. 20 issue of the
+Proceedings of the National Academy of Sciences.
+The Aha Moment
+The inspiration for their breakthrough came from an everyday device that people use to start a grill: the electronic barbecue lighter.
+“My lab figured out that you could use something all of us are familiar with on the Fourth of July when we do a barbecue — a barbecue lighter,” recalled Saad Bhamla, assistant professor in the School of Chemical and Biomolecular Engineering, explaining that every time one clicks the lighter, it generates a brief pulse of electricity to ignite the flame.
+His team took the innards of a lighter and reengineered them into a tiny spring-latch mechanism.  The device creates the same electric field in the skin as the large bulky electroporation machines already in use, but using widely available, low-cost components that require no battery to operate.
+“Our aha moment was the fact that it doesn't have a battery or plug into the wall, unlike conventional electroporation equipment,” he explained. “And these lighter components cost just pennies, while currently available electroporators cost thousands of dollars each.”
+Pairing the reimagined lighter device with microneedle technology from Georgia Tech’s Laboratory for Drug Delivery has resulted in a new ultra-low-cost electroporation system, or “ePatch.”
+Closer Electrode Spacing, Lower Voltages
+Besides the lighter, a key innovation involved tightly spacing the electrodes and using extremely short microneedles. While commonly used in cosmetics to rejuvenate skin and for potential medical applications, microneedles are not generally used as electrodes. Coupling the tiny electroporation pulser with microneedle electrodes made an effective electrical interface with the skin and further reduced the ePatch’s cost and complexity.
+According to Mark Prausnitz, Regents' Professor and the J. Erskine Love Jr. Chair in Chemical and Biomolecular Engineering, their microneedle-based system uses voltages similar to conventional electroporation but with pulses that are 10,000 times shorter and using electrodes that penetrate just .01 inch into the skin surface.
+“The close spacing of the microneedles allows us to use microsecond pulses rather than the millisecond pulses applied in conventional electroporation. This shorter pulse, plus the shallow location of the microneedle electrodes, minimizes nerve and muscle stimulation, which can avoid pain and twitching, both common side effects of conventional electroporation,” he said.
+“Our goal was to design a method for Covid-19 vaccination that uses a device that is simple, low-cost and manufacturable,” said Dengning Xia, lead author on the study while working as a research scientist at Georgia Tech and currently an associate professor at Sun Yat-sen University in China.
+“The ePatch is a handheld device the size of a pen, weighing less than two ounces, and requiring no battery or power sources. It operates by simply pushing a button, which makes it very simple to use,” he said.
+Testing for an Immune Response
+But could their system be used with a vaccine to generate an immune response?
+To find out, the researchers teamed with Chinglai Yang, associate professor in the Department of Microbiology and Immunology at Emory University School of Medicine, to test the delivery system first using a florescent protein to ensure it worked, and to deliver an actual Covid-19 vaccine. They selected an experimental DNA vaccine for Covid-19 as their model.
+“In the beginning, I wasn't sure that it would be successful when Georgia Tech asked me to collaborate on this project,” Yang said. “Surprisingly, even in the first try, it went far beyond my expectations. Using this method with the same amount of vaccine, the ePatch induced an almost tenfold improved immune response over intramuscular immunization or intradermal injection without electroporation. It also showed no lasting effects to the mice’s skin. What this means is that it is easier to achieve protection,” he said.
+Simplifying Electroporation
+The researchers say the ePatch should also work for mRNA vaccination, which they are currently studying.
+But devising a simpler, cost-effective electroporator that works with the DNA vaccine could dramatically reduce the cost and complexity of vaccinations since it doesn’t require deep-freeze storage of mRNA vaccines, which need frigid temperatures because they contain lipid nanoparticles.
+“We think the key to making DNA vaccination work is to make electroporation simple, low-cost, and scalable,” Prausnitz said.
+The ePatch is generating excitement among health experts, including Nadine Rouphael, professor of medicine and executive director of the Hope Clinic at the Emory Vaccine Center. She notes that today’s genetic vaccines, whether mRNA or DNA, remain expensive as a global solution because they either require a complicated cold chain and costly manufacturing due to the formulation of lipid nanoparticles for mRNA delivery or they need a sophisticated electroporation device for DNA vaccine delivery.
+A Vaccine Delivery Breakthrough
+“The Georgia Tech portable and affordable electroporation ePatch can overcome these limitations and can be a potential game changer in the vaccine delivery arena,” Rouphael predicted.
+The researchers are already looking at ways to refine their system, examining how to optimize the immune response on the skin site and integrating the device into one unit.
+“That would revolutionize the vaccination process,” Yang said.
+The team must meet multiple milestones before human trials. Prausnitz anticipates it will be more than five years before their invention could complete clinical study and be ready for widespread use. He envisioned the ePatch following a more traditional device approval process than the accelerated vaccine approvals that happened during the pandemic.
+All four researchers echo Rouphael’s enthusiasm for the potential of their ePatch to democratize access to vaccinations. Bhamla explained that vaccines work for those who can afford them and have access to healthcare resources, but that is not feasible for large segments of the developing world.
+“We know that Covid-19 won’t be the last pandemic,” Bhamla said. “We need to think from a cost as well as design perspective about how to simplify and scale up our hardware so these modern interventions can be more equitably dispersed — to reach more underserved and more under-resourced areas of the world.”
+The research team also included Gaurav Byagathvalli, Huan Yu, and Chao-Yi Lu from Georgia Tech and Rui Jin and Ling Ye from Emory University.
+Mark Prausnitz is an inventor of patents licensed to companies, is a paid advisor to companies, and is a founder/shareholder of companies developing microneedle-based products. This potential conflict of interest has been disclosed and is managed by Georgia Tech .
+CITATION:
+Dengning Xia, et al., “An ultra-low-cost electroporator with microneedle electrodes (ePatch) for SARS-CoV-2 vaccination” ( Proceedings of the National Academy of Sciences , 2021).
+https://www.pnas.org/content/118/45/e2110817118
+Additional Images
+Contact
+Anne Wainscott-Sargent
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,57 @@
+What Do Electric Vehicle Drivers Think of the Charging Network They Use?
+A new study provides insight into the attitudes of electric vehicle drivers about charging stations.
+Drivers of electric vehicles look for signs like this one to indicate the location of charging stations.
+Jun 09, 2020
+— Atlanta, GA
+With electric vehicles making their way into the mainstream, building out the nationwide network of charging stations to keep them going will be increasingly important.
+A new study from the Georgia Institute of Technology
+School of Public Policy
+harnesses machine learning techniques to provide the best insight yet into the attitudes of electric vehicle (EV) drivers about the existing charger network. The findings could help policymakers focus their efforts.
+In the paper, published in the June 2020 issue the journal
+Nature Sustainability , a team led by Assistant Professor
+Omar Isaac Asensio
+describes training a machine learning algorithm to analyze unstructured consumer data from 12,270 electric vehicle charging stations across the U.S.
+The study demonstrates how machine learning tools can be used to quickly analyze streaming data for policy evaluation in near-real time. Streaming data refers to data that comes in a continuous feed, such as user reviews from an app. The study also revealed surprising findings about how EV drivers feel about charging stations.
+For instance, the conventional wisdom that drivers prefer private stations to public ones appears to be wrong. The study also finds potential problems with charging stations in larger cities, presaging challenges yet to come in creating a robust charging system that meets all drivers' needs.
+“Based on evidence from consumer data, we argue that it is not enough to just invest money into increasing the quantity of stations, it is also important to invest in the quality of the charging experience,” Asensio wrote.
+Perceived Lack of Charging Stations a Barrier to Adoption
+Electric vehicles are considered a crucial part of the solution to climate change: transportation is now the leading contributor of climate-warming emissions. But one major barrier to broader adoption of electric vehicles is the perception of a lack of charging stations, and the attending “range anxiety” that makes many drivers nervous about buying an EV.
+While that infrastructure has grown considerably in recent years, the work hasn’t taken into account what consumers actually want, Asensio said.
+“In the early years of EV infrastructure development, most policies were geared to using incentives to increase the quantity of charging stations,” Asensio said. “We haven’t had enough focus on building out reliable infrastructure that can give confidence to users.”
+This study helps rectify that shortcoming by offering evidence-based, national analysis of actual consumer sentiment, as opposed to indirect travel surveys or simulated data used in many analyses.
+Asensio directed the study with a team of five students in public policy, engineering, and computing. Two were from Georgia Tech: Catharina Hollauer, a recent graduate of the H. Milton School of Industrial and Systems Engineering, and Sooji Ha, a dual Ph.D. student in the School of Civil and Environmental Engineering and the School of Computational Science and Engineering.
+The other three were participants in the 2018 Georgia Tech Civic Data Science Fellows program, which draws talented students from around the country to the Georgia Tech campus for a summer of research and learning. They are Kevin Alvarez of North Carolina State University, Arielle Dror of Smith College, and Emerson Wenzel of Tufts University.
+EV Charging Sore Spots Revealed
+Asensio’s team used deep learning text classification algorithms to analyze data from a popular EV users smartphone app. It would have taken most of a year using conventional methods. But the team’s approach cut the task down to minutes while classifying sentiment with accuracy similar to that of human experts.
+The study found that workplace and mixed-use residential stations get low ratings, with frequent complaints about lack of accessibility and signage. Fee-based charging stations tend to get more poor reviews than free charging stations. But it is stations in dense urban centers that really draw complaints, according to the study.
+When researchers controlled for location and other characteristics, stations in dense urban areas showed a 12 – 15% increase in negative sentiment compared to nonurban locations.
+This could indicate a broad range of service quality issues in the largest EV markets, including things like malfunctioning equipment and an insufficient number of chargers, Asensio said.
+The highest rated stations are often located at hotels, restaurants, and convenience stores, a finding that may support incentive-based management practices in which chargers are installed to draw customers. Stations at public parks and recreation facilities, RV parks, and visitor centers also do well, according to the study.
+But, contrary to theories predicting that private stations should provide more efficient services, the study found no statistically significant difference in user preferences when it comes to public versus private chargers.
+That finding could be an inducement to invest in public charging infrastructure to meet future growth, Asensio said. Such a network was cited in a study by the National Research Council as key to helping overcome barriers to EV adoption.
+Improving Policy Evaluation Beyond EV’s
+Overall, Asensio said the study points to the need to prioritize consumer data when considering how to build out infrastructure, especially when it comes to requirements for charging stations in new buildings.
+But EV policy is not the only way the study’s deep learning techniques can be used to analyze this kind of material. They could be adapted to a broad range of energy and transportation issues, allowing researchers to deliver rapid analysis with just minutes of computation, compared to time lags measured sometimes in months or years using more traditional methods.
+“The follow-on potential for energy policy is to move toward automated forms of infrastructure management powered by machine learning, particularly for critical linkages between energy and transportation systems and smart cities,” Asensio said.
+The article, “Real-time Data from Mobile Platforms to Evaluate Sustainable Transportation Infrastructure,” was published in
+Nature Sustainability
+on June 1. The article is available at
+https://doi.org/10.1038/s41893-020-0533-6 .
+The research was supported by National Science Foundation Award No. 1931980, the Civic Data Science REU program at Georgia Tech (NSF Award No. IIS-1659757), the Anthony and Jeanne Pritzker Family Foundation, and the Sustainable LA Grand Challenge.
+The School of Public Policy is a unit of the Ivan Allen College of Liberal Arts.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : Michael Pearson
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

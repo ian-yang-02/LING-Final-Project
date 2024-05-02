@@ -1,0 +1,28 @@
+researchers pioneer process to stack micro-leds 
+ georgia tech-europe and mit researchers are using emerging technology to demonstrate a process that will enable more immersive and realistic virtual and augmented reality displays with the world’s smallest and thinnest micro-leds. 
+ illustration of stacked leds (credit: younghee lee) 
+ feb 09, 2023 
+ — metz, france 
+ put on a virtual reality headset and, chances are, it will look like you are viewing the world through a screen door. current flat panel displays use pixels that are visible to the naked eye, along with small bits of unlit dark space between each pixel that can appear as a black, mesh-like grid. 
+ now, researchers from the georgia institute of technology, in collaboration with researchers from the massachusetts institute of technology (mit), have developed a new process based on 2d materials to create led displays with smaller and thinner pixels. enabled by two-dimensional, materials-based layer transfer technology, the innovation promises a future of clearer and more realistic led displays. 
+ the team published a paper in the journal 
+ nature 
+ in february titled, “ vertical full-colour micro-leds via 2d materials-based layer transfer .” co-authors also include researchers from sejong university in korea, and from additional institutions in the u.s. and south korea. 
+ georgia tech-europe professor abdallah ougazzaden and research scientist suresh sundaram (who both also hold appointments in georgia tech’s 
+ school of electrical and computer engineering ) collaborated with researchers from mit to turn the conventional led manufacturing process on its head — literally. instead of using prevailing processes based on laying red, green, and blue (rgb) leds side by side, which limits pixel density, the team vertically stacked freestanding, ultrathin rgb led membranes, achieving an array density of 5,100 pixels per inch — the smallest pixel size reported to date (4 microns) and the smallest-ever stack height — all while delivering a full commercial range of colors. this ultra-small vertical stack was achieved via the technology of van der waals epitaxy on 2d boron nitride developed at the georgia tech-europe lab and the technology of remote epitaxy on graphene developed at mit. 
+ the study showed that the world’s thinnest and smallest pixeled displays can be enabled by an active layer separation technology using 2d materials such as graphene and boron to enable high array density micro-leds resulting in full-color realization of micro-led displays. 
+ one unique facet of the two-dimensional, material-based layer transfer (2dlt) technique is that it allows the reuse of epitaxial wafers. reusing this costly substrate could significantly lower the cost for manufacturing smaller, thinner, and more realistic displays. 
+ “we have now demonstrated that this advanced 2d, materials-based growth and transfer technology can surpass conventional growth and transfer technology in specific domains, such as in virtual and augmented reality displays,” said ougazzaden, the lead researcher for the georgia tech team. 
+ these advanced techniques were developed in metalorganic chemical vapor deposition (mocvd) reactors, the key tool for led production at the wafer scale. the 2dlt technique can be replicated on an industrial scale with high throughput yield. the technology has the potential to bring the field of virtual and augmented reality to the next level, enabling the next generation of immersive, realistic micro-led displays. 
+ “this emerging technology has a tremendous potential for flexible electronics and the heterogenous integration in opto-electronics, which we believe will develop new functionalities and attract industry to develop commercial products from smartphone screens to medical devices,” ougazzaden said. 
+ citation: shin, j., kim, h., sundaram, s.  et al.  vertical full-colour micro-leds via 2d materials-based layer transfer.  nature   614 , 81–87 (2023). 
+ doi: 
+ https: / / doi.org / 10.1038 / s41586-022-05612-1 
+ additional images 
+ contact 
+ andrea gappell , communications program manager for gt-europe 
+ email 
+ andrea.gappell@europe.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

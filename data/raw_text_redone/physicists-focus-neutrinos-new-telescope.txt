@@ -1,0 +1,47 @@
+physicists focus on neutrinos with new telescope 
+ physics professor nepomuk otte and students have developed the trinity demonstrator to search for sources of high-energy neutrinos that contain clues to the early universe. 
+ the trinity demonstrator team, graduate scholar jordan bogdan, postdoctoral scholar mariia fedkevych, graduate scholar sofia stepanoff, and professor nepomuk otte. 
+ nov 16, 2023 
+ georgia tech scientists will soon have another way to search for neutrinos, those hard-to-detect, high-energy particles speeding through the cosmos that hold clues to massive particle accelerators in the universe — if researchers can find them. 
+ “the detection of a neutrino source or even a single neutrino at the highest energies is like finding a holy grail,” says professor 
+ nepomuk otte , the principal investigator for the trinity demonstrator telescope that was recently built by his group and collaborators, and was designed to detect neutrinos after they get stopped within the earth. 
+ the 
+ national science foundation 
+ (nsf)-funded effort will eventually create “the world’s most sensitive ultra-high energy neutrino telescope.” the trinity demonstrator is the first step toward an array of 18 telescopes located at three sites, each on top of a high mountain. 
+ earlier in the year, otte’s group flew a neutrino telescope tethered to a massive nasa-funded balloon — though a leak brought the telescope down earlier than planned. the effort was part of the euso-spb2 collaboration, which wants to study cosmic-particle accelerators with detectors in space. 
+ “this was the first time our group had built an instrument for a balloon mission,” otte says. “and the big question was if it would work at the boundary to space at -40f and in a vacuum. even though we only flew 37 hours (of a 50-hour mission), we could show that our instrument worked as expected. we even accomplished some key measurements, like making a measurement of the background light, which no one has done before.” 
+ the search for neutrinos 
+ otte is the second georgia tech physicist to lead a search for neutrinos. professor 
+ ignacio taboada 
+ is the spokesperson for 
+ icecube, an nsf neutrino observatory 
+ located at the south pole. icecube uses thousands of sensors buried in the ice to detect neutrinos. 
+ meanwhile, trinity telescopes will be especially sensitive to higher-energy neutrinos. “with trinity, we can potentially open a new, entirely unexplored window in astronomy,” otte says. “icecube gives us a couple of good pointers on what to observe. that is also why we modified the building of the trinity demonstrator to point toward the only two high-energy neutrino sources” already identified by icecube scientists. 
+ ‘cherenkov lights’ illuminate ‘air showers’ 
+ the trinity demonstrator telescope is not your typical astronomy telescope. instead of looking into the sky, it is looking at the horizon, waiting for a flash of light to happen that only lasts tens of billionths of a second. 
+ that flash is at the end of a chain of events that happens when a high-energy neutrino enters the earth under a shallow angle. upon penetrating earth and traveling along a straight line for a hundred miles, the neutrino eventually interacts inside the earth, producing a tau particle, which is like a short-lived massive electron. 
+ the tau continues to travel through the earth, and when it bounces out of the ground, it decays into millions of electrons and positrons, which zip through the air. because the electrons and positrons travel faster than the speed of light in the air, they emit cherenkov light, the short flash of light the trinity demonstrator telescope detects. using computer algorithms, the recorded cherenkov flashes are analyzed to reconstruct the energy and arrival direction of the neutrino. 
+ otte and his team of georgia tech postdoctoral and graduate scholars developed and built the trinity demonstrator. undergraduate students have also had significant responsibilities in designing its optics. “it is good for the students because they are involved in all aspects of the experiment. in big collaborations, you are an expert on one aspect only,” otte says. 
+ the largest collaboration otte is currently involved with is the 
+ cherenkov telescope array , which involves more than 2,000 researchers. that planned international project will involve 60 next-generation gamma-ray telescopes in chile and on the canary island of la palma. 
+ next year, otte says he and his researchers will apply for funding to build a much bigger telescope, which will be the foundation for the nsf 18-telescope array. for now, the team is busy observing with the trinity demonstrator atop frisco peak in utah. 
+ “with a bit of luck, we will detect the first neutrino source at these energies,” otte said. 
+ funding: 
+ national science foundation (nsf) 
+ additional images 
+ related links 
+ icecube neutrinos give us first glimpse into the inner depths of an active gala… 
+ icecube detects high-energy neutrino emission from milky way 
+ ignacio taboada elected spokesperson for icecube south pole neutrino observatory 
+ john wise named director of the center for relativistic astrophysics at georgia… 
+ contact 
+ writer: renay san miguel 
+ communications officer ii / science writer 
+ college of sciences 
+ 404-894-5209 
+ editor: jess hunt-ralston 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

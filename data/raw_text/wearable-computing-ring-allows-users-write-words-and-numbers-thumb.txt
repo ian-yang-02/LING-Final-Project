@@ -1,0 +1,36 @@
+Wearable Computing Ring Allows Users to Write Words and Numbers with Thumb
+Technology allows people to trace letters and numbers on their fingers and see the figures appear on a nearby computer screen.
+FingerSound uses wearable ring technology to detect numbers and letters drawn on fingers.
+Nov 29, 2017
+— Atlanta, GA
+With the whirl of a thumb, Georgia Tech researchers have created technology that allows people to trace letters and numbers on their fingers and see the figures appear on a nearby computer screen. The system is triggered by a thumb ring outfitted with a gyroscope and tiny microphone. As wearers strum their thumb across the fingers, the hardware detects the movement.
+In a
+video demonstration , the “written” figures appear on an adjacent screen. In the future, the researchers say the technology could be used to send phone calls to voicemail or answer text messages — all without the wearer reaching for their phone or even looking at it.
+“When a person grabs their phone during a meeting, even if trying to silence it, the gesture can infringe on the conversation or be distracting,” said Thad Starner, the Georgia Tech School of Interactive Computing professor leading the project. “But if they can simply send the call to voicemail, perhaps by writing an ‘x’ on their hand below the table, there isn’t an interruption.”
+Starner also says the technology could be used in virtual reality, replacing the need to take off a head-mounted device in order to input commands via a mouse or keyboard.
+The research team wanted to build a system that would always be available and easy to use.
+“A ring augments the fingers in a way that is fairly non-obstructive during daily activities. A ring is also socially acceptable, unlike other wearable input devices,” said Cheng Zhang, the Georgia Tech graduate student who created the technology.
+The system is called Fingersound. While other gesture-based systems require the user to perform gestures in the air, Fingersound uses the fingers as a canvas. This allows the system to clearly recognize the beginning and end of an intended gesture by using the microphone and gyroscope to detect the signal. In addition to helping recognize the start and end of a gesture, it also provides tactile feedback while performing the gestures. This feedback is crucial for user experience and is missing on other in-air gestures
+“Our system uses sound and movement to identify intended gestures, which improves the accuracy compared to a system just looking for movements,” said Zhang. “For instance, to a gyroscope, random finger movements during walking may look very similar to the thumb gestures. But based on our investigation, the sounds caused by these daily activities are quite different from each other.”
+Fingersound sends the sound captured by the contact microphone and motion data captured by the gyroscope sensor through multiple filtering mechanisms. The system then analyzes it to determine whether a gesture was performed or whether it was simply noise from other finger-related activity.
+The research was presented earlier this year at Ubicomp and the ACM International Symposium on Wearable Computing along with two other papers that feature ring-based gesture technology.
+FingOrbits
+allows the wearer to control apps on a smartwatch or head-mounted display by rubbing their thumb on their hand. With
+SoundTrak , people can write words or 3-D doodles in the air by localizing the absolute position of the finger in 3-D space, then see the results simultaneously on a computer screen.
+The new technologies were developed by the same team that created a technique that
+allowed smartwatch wearers to control their device by tapping its sides .
+Additional Images
+Related links
+Previous Research with Smartwatches
+School of Interactive Computing
+Meet Thad Starner
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

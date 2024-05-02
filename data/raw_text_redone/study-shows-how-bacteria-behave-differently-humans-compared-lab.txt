@@ -1,0 +1,46 @@
+study shows how bacteria behave differently in humans compared to the lab 
+ study shows how bacteria behave differently in humans versus the lab. 
+ image shows a rendered confocal laser scanning micrograph of a mixed species bacterial biofilm observed in a chronic wound model of infection. staphylococcus aureus (yellow) and pseudomonas aeruginosa (purple), organize themselves in small, dense clusters of cells called aggregates. (credit: sophie darch, whiteley lab and rumbaugh lab at texas tech university health sciences center.) 
+ may 22, 2018 
+ — atlanta, ga 
+ most of what we know today about deadly bacteria such as 
+ pseudomonas aeruginosa 
+ was obtained from studies done in laboratory settings. research reported may 14 in the journal 
+ proceedings of the national academy of sciences 
+ shows that this laboratory-based information may have important limits for predicting how these bugs behave once they’ve invaded humans. 
+ among the differences are increased expression of genes responsible for antibiotic resistance, the bane of drugs currently used to treat a wide range of infections. the new research could help scientists understand how to draw more accurate conclusions from their laboratory work – and provide doctors with better information on treating bacterial infections. 
+ “bacteria in human infections are often tolerant of antibiotics, but when we culture them outside the human they are highly susceptible,” said 
+ marvin whiteley , a professor in the 
+ school of biological sciences 
+ at the georgia institute of technology and co-director of the emory-children’s cystic fibrosis center. “in this paper, we show that several genes important for antibiotic tolerance are highly induced in humans compared to our laboratory and mouse modeling systems. there appears to be something unique in the human that is promoting resistance.” 
+ what might be causing that difference remains a mystery, though bacteria are known to be affected by their environment. understanding how bacterial genes and their expression levels differ in humans could allow researchers to search for laboratory conditions that better mimic the human conditions – and provide better guidance for the use of antibiotics. 
+ “understanding which antibiotic resistance genes are highly expressed in humans may inform our therapeutic decisions on antibiotic usage,” said whiteley, who holds the bennie h. & nelson d. abell chair in molecular and cellular biology at georgia tech and is a 
+ georgia research alliance 
+ eminent scholar. “for instance, one might predict antibiotic resistance of an infecting community from gene expression data without the need for culturing microbes in the clinical lab.” 
+ the study was supported by the national institutes of health, the cystic fibrosis foundation, and the lundbeck foundation. in addition to the georgia tech researchers, the research team included scientists at the texas tech university health sciences center, the university of mississippi medical center, the university of california, and several clinical and research organizations in denmark. 
+ pseudomonas aeruginosa is an important pathogen that threatens immunocompromised people, including those with cystic fibrosis, diabetes and obesity. it is a major hospital-acquired infection, and the centers for disease control and prevention characterizes multi-drug resistant strains of the bacteria as a serious threat. 
+ in their research, the scientists analyzed rna sequencing data from both human clinical infections and laboratory experiments. the human samples were obtained from collaborating clinicians, who took the samples directly from patients and put them into a chemical that preserved their rna for later processing. the laboratory experiments studied different strains of the bacterium under a variety of growth conditions, from antibiotic treatment to competition with other bacteria. 
+ the researchers also included previously published in vitro and mouse experiment data from the whiteley laboratory and other research teams. data analysis techniques included a machine learning approach known as support vector machines, which was used to distinguish between gene expression profiles of samples taken from human and in vitro sources. 
+ “we saw high expression in several genes notorious for antibiotic resistance, including genes that encode efflux pumps that extrude antibiotics from the cell as well as an enzyme that degrades certain antibiotics, such as ampicillin,” said daniel cornforth, a research scientist in whiteley’s laboratory and the paper’s first author. “there were also less studied antibiotic resistance genes, including three related to zinc transport that our previous work has identified as critical antibiotic resistance determinants that were also highly expressed in the human patients.” 
+ though the research focused only on a single troublesome pathogen, whiteley believes the results could have broader implications. “we actually know very little about bacteria behaviors during human infection and most model systems cannot replicate most aspects of human infection. i expect that this work would be generalizable to other bacteria.” 
+ by identifying how bacteria behave differently in humans compared to standard laboratory settings, the work could provide a foundation for additional study with more samples and different types of infection. 
+ “the key takeaway from this work is that now microbiologists can perform transcriptomics on bacterial populations in a range of human infections, so we can better understand what bacteria are actually doing in these clinical infections,” said cornforth. “we can also determine where our laboratory models succeed and where they fail in mimicking these infection environments.” 
+ this study was funded by national institutes of health grant r01gm116547-01a1, a human frontiers science grant, cystic fibrosis foundation grant whitel16g0, lundbeck foundation grant r204-2015-4205 and lundbeck foundation grant r105-a9791, and by cystic fibrosis postdoctoral fellowships cornfo15f0 and ibbers16f0. 
+ citation : daniel cornforth, et al., “pseudomonas aeruginosa transcriptome during human infection,” (proceedings of the national academy of sciences, 2018). https: / / doi.org / 10.1073 / pnas.1717525115 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact: 
+ john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

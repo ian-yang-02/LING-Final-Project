@@ -1,0 +1,51 @@
+flies and mosquitoes beware, here comes the slingshot spider 
+ researchers have done what may be the first kinematic study of the slingshot spider, which catapults its web to catch insects. 
+ georgia tech researchers studied slingshot spiders in the amazon rain forest of peru. shown are jaime navarro, a peruvian field guide; johanna johnson, a peruvian student and project volunteer; and symone alexander, a georgia tech postdoctoral researcher. (credit: geoff gallice) 
+ aug 17, 2020 
+ — atlanta, ga 
+ running into an unseen spiderweb in the woods can be scary enough, but what if you had to worry about a spiderweb – and the spider – being catapulted at you? that’s what happens to insects in the amazon rain forests of peru, where a tiny slingshot spider launches a web – and itself – to catch unsuspecting flies and mosquitoes. 
+ researchers at the georgia institute of technology have produced what may be the first kinematic study of how this amazing arachnid stores enough energy to produce acceleration of 1,300 meters / second 2 
+ – 100 times the acceleration of a cheetah. that acceleration produces velocities of 4 meters per second and subjects the spider to forces of approximately 130 gs, more than 10 times what fighter pilots can withstand without blacking out. 
+ the peruvian spider and its cousins stand out among arachnids for their ability to make external tools – in this case, their webs – and use them as springs to create ultrafast motion. their ability to hold a ready-to-launch spring for hours while waiting for an approaching mosquito suggests yet another amazing tool: a latch mechanism to release the spring. 
+ “unlike frogs, crickets, or grasshoppers, the slingshot spider is not relying on its muscles to jump really quickly,” said 
+ saad bhamla , an assistant professor in georgia tech’s 
+ school of chemical and biomolecular engineering 
+ who studies ultrafast organisms. “when it weaves a new web every night, the spider creates a complex, three-dimensional spring. if you compare this natural silk spring to carbon nanotubes or other human-made materials in terms of power density or energy density, it is orders of magnitude more powerful.” 
+ the study, supported by the national science foundation and national geographic society foundation, was published august 17 in the journal 
+ current biology . 
+ understanding how web silk stores energy could potentially provide new sources of power for tiny robots and other devices, and lead to new applications for the robust material, the researchers say. 
+ slingshot spiders, known by the scientific genus name 
+ theridiosomatid , build three-dimensional conical webs with a tension line attached to the center. the peruvian member of that spider family, which is about 1 millimeter in length, pulls the tension line with its front legs to stretch the structure while holding on to the web with its rear legs. when it senses a meal within range, the spider launches the web and itself toward a fly or mosquito. 
+ if the launch is successful, the spider quickly wraps its meal in silk. if the spider misses, it simply pulls the tension line to reset the web for the next opportunity. 
+ “we think this approach probably gives the spider the advantage of speed and surprise, and perhaps even the effect of stunning the prey,” noted symone alexander, a postdoctoral researcher in bhamla’s lab. “the spiders are tiny, and they are going after fast-flying insects that are larger than they are. to catch one, you must be much, much faster than they are.” 
+ slingshot spiders were described in a 1932 publication, and more recently by jonathan coddington, now a senior research entomologist at the smithsonian institution. bhamla has an interest in fast-moving but small organisms, so he and alexander arranged a trip to study the catapulting creature using ultrafast cameras to measure and record the movement. 
+ “we wanted to understand these ultrafast movements because they can force our perspective to change from thinking about cheetahs and falcons as the only fast animals,” bhamla said. “there are many very small invertebrates that can achieve fast movement through unusual structures. we really wanted to understand how these spiders achieve that amazing acceleration.” 
+ the researchers traveled six hours by boat from puerto maldonado to the tambopata research center. there is no electricity in the area, so nights are very dark. “we looked up and saw a tiny red dot,” bhamla recalled. “we were so far away from the nearest light that the dot turned out to be the planet mars. we could also see the milky way so clearly.” 
+ the intense darkness raises the question of how the spider senses its prey and determines where to aim itself. bhamla believes it must be using an acoustic sensing technique, a theory supported by the way the researchers tricked the spider into launching its web: they simply snapped their fingers. 
+ beyond sensing in the dark, the researchers also wondered how the spider triggers release of the web. “if an insect gets within range, the spider releases a small bundle of silk that it has created by crawling along the tension line,” alexander said. “releasing the bundle controls how far the web flies. both the spider and web are moving backward.” 
+ another mystery is how the spider patiently holds the web while waiting for food to fly by. alexander and bhamla estimated that stretching the web requires at least 200 dynes, a tremendous amount of energy for a tiny spider to generate. holding that for hours could waste a lot of energy. 
+ “generating 200 dynes would produce tremendous forces on the tiny legs of the spider,” bhamla said. “if the reward is a mosquito at the end of three hours, is that worth it? we think the spider must be using some kind of trick to lock its muscles like a latch so it doesn’t need to consume energy while waiting for hours.” 
+ beyond curiosity, why travel to peru to study the creature? “the slingshot spider offers an example of active hunting instead of the passive, wait for an insect to collide into the web strategy, revealing a further new functionality of spider silk,” bhamla said. “before this, we hadn’t thought about using silk as a really powerful spring.” 
+ another unintended benefit is changing attitudes toward spiders. prior to the study, alexander admits she had a fear of spiders. being surrounded by slingshot spiders in the peruvian jungle – and seeing the amazing things they do – changed that. 
+ “in the rainforest at night, if you shine your flashlight, you quickly see that you are completely surrounded by spiders,” she said. “in my house, we don’t kill spiders anymore. if they happen to be scary and in in the wrong place, we safely move them to another location.” 
+ alexander and bhamla had hoped to return to peru this summer, but those plans were cut short by the coronavirus. they’re eager to continue learning from the spider. 
+ “nature does a lot of things better than humans can do, and nature has been doing them for much longer,” she said. “being out in the field gives you a different perspective, not only about what nature is doing, but also why that is necessary.” 
+ this research was supported by the national science foundation (nsf) through award 1817334 and career 1941933, by the national geographic foundation through ngs-57996r-19, and by the eckert postdoctoral research fellowship from the georgia tech school of chemical and biomolecular engineering. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding organizations. 
+ citation : symone l.m. alexander and m. saad bhamla, “ultrafast launch of slingshot spiders using conical silk webs” ( current biology , 2020). 
+ https: / / doi.org / 10.1016 / j.cub.2020.06.076 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

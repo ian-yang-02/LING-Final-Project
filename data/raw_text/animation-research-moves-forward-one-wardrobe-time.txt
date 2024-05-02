@@ -1,0 +1,13 @@
+Animation Research Moves Forward, One Wardrobe at a Time
+The goal of new animation technology is to allow robots to assist humans.
+Aug 11, 2015
+— Atlanta, GA
+Animated characters can mimic human behavior extremely well. They can perform jaw-dropping feats of life and death. But there's one trick that digital denizens haven’t quite yet mastered: getting dressed and putting their pants on one leg at a time. Research from the Georgia Institute of Technology has produced a systematic tool that allows animators to create realistic motion for virtual humans who are getting dressed. The new algorithm enables virtual characters to intelligently manipulate simulated cloth to achieve the task of dressing with different dressing styles for various types of garment and fabric. The discovery will help today's computer animators create scenes similar to live-action movies with iconic clothing, such as the “jacket on, jacket off” drill in 2010’s “The Karate Kid” or Spiderman pulling his mask over his head for the first time. Such dressing scenes are noticeably absent in computer animated films due to the difficulty of manipulating simulated cloth.  The research team’s long-term goal is to develop assistive technologies that would enable robots of the future to help disabled or elderly adults with self care, such as getting dressed. “Dressing is one of the activities of daily living that the health care community has identified as being important for independent living,” says Karen Liu, researcher on the paper and associate professor in the School of Interactive Computing. “The challenge of learning to dress at a young age or for some older adults and those with disabilities is mainly due to the combined difficulty in coordinating different body parts and manipulating soft and deformable objects.” “ Animating Human Dressing ” is a technical paper at SIGGRAPH 2015, the ACM conference on Computer Graphics and Interactive Techniques, Aug. 9-13 in Los Angeles.
+Contact
+Joshua Preston
+Communications Officer GVU Center 678-231-0787
+Email
+jpreston@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

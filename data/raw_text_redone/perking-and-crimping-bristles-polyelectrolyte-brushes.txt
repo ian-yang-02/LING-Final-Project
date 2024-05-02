@@ -1,0 +1,60 @@
+perking up and crimping the ‘bristles’ of polyelectrolyte brushes 
+ a micron scale "shoe brush" can have great potential uses for industry and medicine -- but only if it works right. 
+ polyelectrolyte brushes illustration: in the foreground, powerful ions in solution, shown as spheres, cause the brush's bristles to collapse like sticky spaghetti. in the background, gentler ions in solution cause the bristles to stand back straight. credit: peter allen university of california santa barbara for this study 
+ dec 12, 2017 
+ — atlanta, ga 
+ if the bristles of a brush abruptly collapsed into wads of noodles, the brush would, of course, become useless. when it’s a micron-scale brush called a “polyelectrolyte brush,” that collapse can put a promising experimental drug or lubricant out of commission. 
+ but now 
+ a new study reveals, in fine detail , things that make these special bristles collapse -- and also recover. the research increases understanding of these chemical brushes that have many potential uses. 
+ what are polyelectrolyte brushes? 
+ polyelectrolyte brushes look a bit like soft bushes, such as shoeshine brushes, but they are on the scale of large molecules and the “bristles” are made of 
+ polymer chains . polyelectrolyte brushes have a backing, or substrate, and the polymer chains tethered to the backing like soft bristles have chemical properties that make the brush potentially interesting for many practical uses. 
+ but polymers are stringy and tend to get tangled or clumped, and keeping them straightened out, like soft bristles, is vital to the function of these micron brushes. researchers at the georgia institute of technology, the university of chicago, and the argonne national laboratory devised experiments that caused polyelectrolyte brush bristles to collapse and then recover from the collapse. 
+ they imaged the processes in detail with highly sensitive 
+ atomic force microscopy , and they constructed simulations that closely matched their observations. principal investigator blair brettmann from georgia tech and the study’s first authors jing yu and nicholas jackson from the university of chicago 
+ published their results on december 8, 2017, in the journal 
+ science advances . 
+ their research was supported by the u.s. department of energy, the national science foundation, and the argonne national laboratory. 
+ from faux dna to lubricants 
+ the potential future payoff for the researchers’ work spans industrial materials to medicine. 
+ for example, polyelectrolyte brushes make for surfaces that have their own built-in lubrication. “if you attach the brushes to opposing surfaces, and the bristles rub against each other, then they have really low friction and excellent lubrication properties,” said blair brettmann, who led the study and recently joined georgia tech from the university of chicago. 
+ polyelectrolyte brushes could also one day find medical applications. their bristles have been shown to simulate dna and encode simple proteins. other brushes could be engineered to repel bacteria from surfaces. some polyelectrolyte brushes already exist in the body on the surface of some cells. 
+ polyelectrolyte brushes can do so many different things because they can be engineered in so many variations. 
+ “when you build the brushes, you have a lot of control,” said brettmann, who is an 
+ assistant professor in georgia tech’s school of materials science and engineering . “you can control on the nanoscale how far apart the polymer chains (the bristles) are spaced on the substrate and how long they are.” 
+ they’re intricate and sensitive 
+ for all their great potential, polyelectrolyte brushes are also complex and sensitive, and a lot of research is needed to understand how to optimize them. 
+ the polymer chains have positive and negative ionic, or electrolytic, charges alternating along their lengths, thus the name “polyelectrolyte.” chemists can string the polymers together using various chemical building blocks, or monomers, and design nuanced charge patterns up and down the chain. 
+ there’s more complexity: backing and bristles are not all that make up polyelectrolyte brushes. they’re bathed in solutions containing gentle electrolytes, which create a balanced ionic pull from all sides that props the bristles up instead of letting them collapse or entangle. 
+ “often these mixtures have a bunch of other stuff in them, so the complexity of this makes it really hard to understand fundamentally,” brettmann said, “and thus hard to be able to predict behavior in real applications.” 
+ invading impurities 
+ when other chemicals enter into these well-balanced systems that make up polyelectrolyte brushes, they can make the bristles collapse. for example, the addition of very powerful electrolytes can act like a flock of wrecking balls. 
+ in their experiment, brettmann and her colleagues used a powerful ionic compound built around yttrium, a rare earth metal with a strong charge. (the ion was trivalent, or had a valence of 3.) the ionic forces from just a low dose of the yttrium electrolyte made the polymer bristles curl up like clumps of sticky spaghetti. 
+ then the researchers increased the concentration of the gentler ions, which restored support, propping the bristles back up. atomic force microscope imaging revealed highly regular patterns of collapse and re-extension. 
+ these patterns were reflected well in the simulations; the reliability of the effects of the ions on collapse and recovery even more so. the ability to build such an accurate simulation reflects the strong consistency of the chemistry, which is good news for potential future research and practical applications. 
+ useless becomes useful 
+ for all the dysfunction that bristle collapses can cause, the ability to collapse them on purpose can be useful. “if you could collapse and reactivate the bristles systematically, you could adjust the degree of lubrication, for example, or turn lubrication on and off,” brettmann said. 
+ the brushes also could regulate chemical reactions involving micro- and nanoparticles by extending and collapsing the bristles. 
+ “coatings and films are often made by carefully combining engineered particles, and you can use these brushes to keep these particles suspended and separate until you’re ready to let them meet, bond, and form the product,” brettmann said. 
+ when the polyelectrolyte brush’s bristles are extended, they act as a barrier to hold the particles apart. collapse the bristles out of the way on purpose, and the particles can come together. 
+ it’s a nasty world 
+ the experiments were performed with very clean, robust, and uniform compounds unlike the jumble of chemicals that can exist in natural or even industrial systems. 
+ “the bristles we used were polystyrene sulfonate, which is a very strong polyelectrolyte, not sensitive to ph or much else,” brettmann said. “biopolymers like polysaccharides, for example, are a lot more sensitive.” 
+ like many experiments, this one was a departure from real-world conditions. but by creating a foundation for understanding how these systems work, brettmann wants eventually to be able to move on to sensitive scenarios to realize more of polyelectrolyte brushes’ practical potential. 
+ also read: paper-based supercapacitor 
+ the study was co-authored by xin xu, marina ruths, juan de pablo and matthew tirrell. the research was funded by the u.s. department of energy office of science, program in basic energy sciences, materials sciences and engineering division, the national science foundation’s division of civil, mechanical, and manufacturing innovation (grants 1562876 and 1161475), the argonne national laboratory maria goeppert mayer named aq41fellowship. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those sponsors. 
+ additional images 
+ related links 
+ polymer electrolyte brushes 
+ contact 
+ writer and media representative : ben brumfield 
+ mobile: 
+ (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

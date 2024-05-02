@@ -1,0 +1,27 @@
+The Health Informatics Revolution
+Georgia Tech is advancing health informatics in ways that will affect the future of health care.
+With support from the Centers for Disease Control and Prevention (CDC), Georgia Tech is examining death certificate data to determine what can be learned from these records. Shown are May Dongmei Wang, a professor in the Department of Biomedical Engineering at Georgia Tech and Emory University, and the School of Electrical and Computer Engineering; Paula Braun, entrepreneur-in-residence at the CDC; and Mark Braunstein, M.D., a professor of the practice in Georgia Tech’s College of Computing. (Credit: Rob
+Dec 09, 2016
+— Atlanta
+When your doctor diagnoses a condition and recommends a course of treatment, she relies on her extensive training, guidelines from professional medical organizations, and previous experience with thousands of other patients.
+But what if your diagnosis and treatment could be further informed by the experience of millions of other patients, including those who not only had similar symptoms, but perhaps also were your age, gender, ethnicity — and with similar medical history? That’s among the benefits coming soon from health analytics and informatics.
+Using massive data sets, machine learning, and high-performance computing, health analytics and informatics is drawing us closer to the holy grail of health care: precision medicine, which promises diagnosis and treatment tailored to individual patients. The information, including findings from the latest peer-reviewed studies, will arrive on the desktops and mobile devices of clinicians in health care facilities large and small through a new generation of decision-support systems.
+“There are massive implications over the coming decade for how informatics will change the way care is delivered, and probably more so for how care is experienced by patients,” said Jon Duke, M.D., director of Georgia Tech’s Center for Health Analytics and Informatics. “By providing data both behind the scenes and as part of efforts to change behavior, informatics is facilitating our ability to understand patients at smaller population levels. This will allow us to focus our diagnostic paths and treatments much better than we could before.”
+At Georgia Tech, health informatics researchers are partnering with both public- and private-sector organizations to develop and apply transformative technology that will connect incompatible systems and analyze vast data sets. This technology also will help clinicians track the latest research, potentially shortening the time required to move health care advances into practice.
+“Our goal is to be directly involved with that health care transformation and to be one of the contributors focusing on what technology can do well,” said Steve Rushing, senior strategic advisor for health extension services at Georgia Tech. “Technology has to be leveraged in a way that will meet the goals of improving the quality of care, bettering the patient experience, and addressing the rising cost of health care.”
+Georgia Tech’s health informatics effort combines academic researchers in computing and the biosciences, practitioners familiar with the challenges of the medical community, extension personnel who understand the issues private companies face, and engineers and data scientists with expertise in building and operating secure networks tapping massive databases.
+“It takes all of these components to really make a difference in an area as complex as health informatics,” said Margaret Wagner Dahl, Georgia Tech’s associate vice president for information technology and analytics. “This integrated approach allows us to add value to collaborators as diverse as pharmaceutical companies, health care providers, large private employers, and federal agencies.”
+See the complete article
+from
+Research Horizons
+magazine.
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

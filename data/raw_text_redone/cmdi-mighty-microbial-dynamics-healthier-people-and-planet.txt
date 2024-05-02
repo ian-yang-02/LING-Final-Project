@@ -1,0 +1,151 @@
+cmdi: mighty microbial dynamics for a healthier people and planet 
+ cmdi merges disciplines, aggressively recruiting microbiologist ‘superstars’ to take back the high ground from antibiotic-resistant pathogens and emerging diseases — and to harness microbes for new medicines, cleaner environments, and climate solutions. 
+ aug 05, 2021 
+ shaping the shared future of microbes and human health is the mission for georgia tech’s 
+ center for microbial dynamics and infection (cmdi) . 
+ yes, there are similar academic-based centers studying infectious diseases and the microbes that cause them, but to understand what makes georgia tech’s center different, 
+ sam brown , cmdi co-director and a professor in the 
+ school of biological sciences , says to concentrate on that third letter in the center's name. 
+ “focus on dynamics,” says brown. “that’s basically how microbes are changing over time and space as well as how they’re changing 
+ systems 
+ in time. this notion of dynamics operates on different scales. it operates, as i see it, on a behavioral scale — individual bugs making decisions and changing their behavior in time.” 
+ ecological dynamics are “how populations are changing with time, and how they’re interacting with other communities — for example in biofilms,” brown adds, referring to the name for communities of microorganisms that stick to surfaces and create their own “neighborhoods.” 
+ there are also evolutionary dynamics, which are worrying to brown and other researchers, as they can mean bacteria increase resistance to antibiotics. and then there are epidemiological dynamics. 
+ “we’re all glued to our screens watching the epidemiological dynamics of covid-19 play out in real time,” he explains. 
+ all of this involves the study of some of the natural world’s tiniest troublemakers — and helpers. humans are pathetically outnumbered by microbes. they live in, on, and around all of us. they are at both ends of the human food chain, helping farmers grow food, and then assisting us in digesting our meals. 
+ “you have trillions of bacteria in your gut,” points out 
+ marvin whiteley , cmdi’s founding co-director who serves as a professor in the school of biological sciences, georgia tech bennie h. and nelson d. abell chair in molecular and cellular biology, georgia research alliance eminent scholar and co-director for emory-children’s cf center. so, in the spectrum of these tiny communities, there are helpful and harmful microbes alike — and the latter can often make us very sick. that’s where cmdi experts step in. 
+ “cmdi is working to transform how we study microbes in an environmental context, and ultimately find new microbial strategies to improve human and environmental health,” brown says. 
+ cmdi’s science is conducted in an interdisciplinary manner, like many other research centers at georgia tech, with research that reaches into a number of other disciplines — microbial ecology, microbiome dynamics, biogeochemistry, microbial biophysics, socio-microbiology, infection dynamics, host-pathogen interactions, marine and aquatic microbiology, microbial evolution, viral ecology, spatial imaging, and math / computational modeling. 
+ the center is fairly new, beginning operations in 2018. yet it’s already closing in on 100 researchers — faculty, graduate students, and postdoctoral students — and is aggressively recruiting early career scientists from around the world to research at cmdi. 
+ “we are a unique interdisciplinary research center since our expertise spans such broad subjects from coral reef ecosystems, to antibiotic resistant bacteria, to new infectious diseases therapies,” explains 
+ maria avdonina , cmdi manager. 
+ building cmdi’s foundation, and using it to attack 
+ p. aeruginosa 
+ “how does a pathogen do what it does at the molecular level?” marvin whiteley asks. 
+ it is a question that he began asking at the university of texas at austin, where he founded another center to study infectious disease before coming to georgia tech in 2017. back then, whiteley was looking for the kind of interdisciplinary mix of researchers that can be found widely across the institute, so he moved to atlanta and built that into the cmdi’s mission as its founding co-director. 
+ “it’s the idea of not just working with pure microbiologists, but working with those interested in how things change, and their dynamic aspects, even daily changes in the microbiome,” he says, referring to the term used to describe all the microorganisms that live in a particular environment, whether it’s a human body or a body of land or water. “it requires modelers — people used to looking at big data sets — and people who think about evolutionary biology. it’s a unique kind of expertise that i don’t have in my lab, but the folks who work for me in the lab can take advantage of it within cmdi.” 
+ whiteley’s research interests include the study of cystic fibrosis (cf), a genetic disease that results in bacteria chronically attacking the lungs of its patients. to combat disease, whiteley is focusing research on pseudomonas aeruginosa ( p. aeruginosa ), a particularly dangerous bacteria that’s often found in cf patients’ lungs. he notes that the 
+ centers for disease control 
+ (cdc) lists it as one of the primary pathogens that is cause for clinical concern. 
+ “it lives in nature, but we published a paper showing it’s not everywhere. it’s located near human activity, so wherever we are, it seems to grow and do really well. it’s in a lot of different diseases — and cf is one of them.” 
+ p. aeruginosa 
+ is also “a really important cause of wound infections,” whiteley adds, citing a cdc estimate that by 2050, about 20 percent of the entire u.s. healthcare budget could be spent treating chronic wound infections. 
+ “the biggest problem in environments where it’s problematic is hospitals,” he says. “it’s very tolerant of antimicrobials, and it acquires resistance fairly quickly. that causes it to enrich in its environment.” 
+ taking on covid-19 
+ joshua weitz , who is a cmdi faculty member, professor and tom and marie patton chair in biological sciences, and founding director of the interdisciplinary ph.d. in quantitative biosciences program, is a key scientist behind georgia tech’s covid-19 surveillance testing efforts, along with covid-19 event risk and population immunity modeling research around nation and beyond. 
+ weitz has led a series of concurrent efforts to estimate epidemiological characteristics of sars-cov-2, develop novel approaches to use large-scale testing as an intervention, and leverage mathematical models and real-time datasets to inform the public of ongoing transmission risk. 
+ weitz recently received a best paper award 
+ from the georgia tech chapter of sigma xi 
+ for his work on the 
+ covid-19 event risk assessment planning tool , which calculates the odds of being exposed to an infected individual in groups of different sizes; it has received more than 8 million unique visitors who have generated more than 40 million risk estimates since the planning tool’s launch in july 2020. 
+ weitz also joined fellow faculty and staff in sharing an 
+ institute research award 
+ and institute service award in recognition of collective efforts to design, develop, implement, deploy an asymptomatic sars-cov-2 saliva-based testing program to address the coronavirus pandemic across campus. “we’re very proud of what joshua has done,” sam brown says, “both in the context of covid-19 and also in exploring new therapeutic angles for bacterial infections, by harnessing the viral natural enemies of bacteria: phages.” 
+ the search for new antibiotics — and how best to use them 
+ while covid-19 is a virus that has dominated headlines since early 2020, bacterial resistance to antibiotics 
+ has been a problem 
+ for decades. penicillin was first available as an antibiotic in 1941. 
+ staphylococcus aureus 
+ was found to be resistant to it as early as 1942. 
+ cmdi faculty member 
+ julia kubanek , a professor of in the school of biological sciences and school of chemistry and biochemistry, former associate dean for research in the college of sciences and newly appointed 
+ vice president for interdisciplinary research (vpir) 
+ for all of georgia tech, has spent the past 17 years diving into the waters near fiji and the solomon islands, looking for natural marine products that could fill that widening gap in resistance-free drugs. 
+ “it’s been a long time since entirely new classes of antibiotics were brought to market,” kubanek explains. “pharmaceutical companies have reduced their investments in antibiotic drug discovery, despite the continuing rise of antimicrobial resistance among existing drugs. more resistant strains of infectious bacteria and fungi are evolving constantly and present severe threats to public health.” 
+ the covid-19 pandemic is a related example. it has revealed that science’s arsenal of antiviral drugs is inadequate, she notes. 
+ kubanek and cmdi faculty colleague 
+ mark hay , regents professor and harry and linda teasley chair in the school of biological sciences, are both part of georgia tech’s drug discovery program, which looks at small molecule natural products from marine organisms as sources for potential future medicines against infectious diseases. 
+ a partnership with 
+ emory university school of medicine 
+ helps researchers screen georgia tech’s natural product library — what kubanek and her research team found on those south pacific trips — for potential drug candidates has resulted in encouraging news for viruses like sars-cov-2, the specific coronavirus that causes covid-19. 
+ “we’re currently following three promising classes of natural products from marine algae and sponges that show preliminary activity against this coronavirus,” kubanek says. those molecules are distinct from currently marketed antivirals and antibiotics, and that could mean more weapons in science’s arsenal for fighting infectious diseases. 
+ cmdi researchers also approach the antibiotic resistance crisis through an epidemiological and evolutionary lens. for example, recent work from the brown lab has identified new strategies to slow or even reverse the increase in drug-resistant strains, by changing how doctors dose their drugs, and how they make use of diagnostic information. 
+ microbes, climate, and environmental health 
+ beyond human infections and pathogen control, cmdi also focuses on the significant impacts that microbes have on human and environmental health. cmdi faculty member 
+ joel kostka , professor and associate chair of research in the school of biological sciences who also serves as a professor in the school of earth and atmospheric sciences, is a leading researcher in environmental microbiology, bringing the power of “omics” technologies to discover the role of environmental microbes in shaping key aspects of our shared world, from bioremediation to climate change. 
+ kostka’s work 
+ led to the discovery of key marine microbes 
+ that played an important role in cleaning up the oil spilled during the 2010 deepwater horizon disaster — microbes that turned out to be abundant in oil-contaminated soils around the world. 
+ kostka’s work in this space “revealed a natural capacity for rare microbes in the gulf of mexico to catalyze the bioremediation, or natural cleanup, of petroleum hydrocarbons,” he explains. “these microbes show promise as biological indicators to direct emergency response efforts, as well as to elucidate the 
+ impacts of oil exposure on ecosystem health during oil spills 
+ and other environmental disasters,” he adds. 
+ the kostka lab has also long characterized the role of the environment in shaping microbial communities that limit the release of greenhouse gases like carbon dioxide and methane into the atmosphere. 
+ in a large scale climate change experiment that’s being conducted in northern minnesota with funding by the u.s. department of energy, kostka’s research recently 
+ showed that warming accelerates the production of greenhouse gases from soil microbial respiration 
+ — and that microbial activity “was fueled by the release of plant metabolites, suggesting that enhanced greenhouse gas production is likely to persist and result in amplified climate feedbacks.” 
+ “joel is our key player in this space,” brown says. “he’s done incredible research on how the environment can dictate microbial species abundance and their behavioral contributions to the functioning of earth’s ecosystems. he’s shown that different ‘taxa’, or groups of organisms, become metabolically active or ‘switched on’ depending on environmental factors like temperature. his research contributes to building better climate models as well as to develop new geoengineering strategies to adapt to climate change. he’s doing beautiful work.” 
+ cmdi’s global call to early career microbiologists 
+ cmdi’s research is funded by grants from agencies like the 
+ national science foundation 
+ and 
+ national institutes of health 
+ to individual labs run by faculty — and by money distributed directly to the center from across georgia tech, including the college of sciences and its office of the dean and 
+ sutherland dean's chair . 
+ these sources “are getting healthier by the minute, and that’s a testament to the scientists at the center,” brown points out — so much so that two new positions have recently been created: a senior research scientist who will assist postdoctoral and graduate students with grant and fellowship applications, and a cmdi early career award fellowship that seeks out “superstars, people who are going to go on to be faculty success stories.” 
+ “we want to get them early,” brown says. “we’re interviewing some great candidates just out of their ph.d.s. we’ll give them maximum independence, their own space, their own office, their own pot of money. they’ll be sitting at the intersection of our research interests but can run their own lab and their own research program.” 
+ this allows postdoctoral students to focus on research projects, julia kubanek says. “because postdocs generally don’t enroll in formal courses, nor are they generally expected to teach in the classroom, they get to immerse themselves in research in collaboration with faculty, students, and other postdocs. the cmdi is rapidly growing as a collaborative environment, where postdocs can try out their best ideas and learn from others how to tackle the most pressing scientific questions in microbial dynamics, microbial communication, ecosystem health, and infectious disease.” kubanek adds that a related fellowship program “will augment postdoctoral salaries to attract the very best candidates, enabling grant dollars to stretch further, leading to new discoveries.” 
+ the center is also ratcheting up outreach, including what it calls its "research envoys program." the intitiative features graduate students giving seminars at local institutions throughout the atlanta area, including at historically black colleges and universities (hbcus). although it’s mostly on pause right now due to the pandemic, two ph.d. students and a postdoctoral student working with cmdi faculty member 
+ brian hammer 
+ — a professor in the school of biological sciences who is also chair of the institute undergraduate curriculum committee, and co-director of the aquatic chemical ecology research experiences for undergraduates (reu) program — recently gave remote seminars at spelman college and kennesaw state university. 
+ “our trainees get practice in speaking, and it opens doors to folks seeing georgia tech as an option,” brown explains. the cmdi is also working with georgia tech’s 
+ institute diversity, equity, and inclusion 
+ and the 
+ southern regional education board 
+ to continue to increase the number of underrepresented minorities at all levels of recruitment. 
+ “we’re really interested in educating the next generation of scientists in biology,” whiteley adds. “everybody says that — but we’re actually developing programs to recruit the best talent in the world.” 
+ cmdi research areas and faculty: 
+ sam brown 
+ virulence, microbiomes, biofilms, cystic fibrosis 
+ steve diggle 
+ biofilms, virulence 
+ neha garg 
+ cystic fibrosis, coral reef microbial disease 
+ brian hammer 
+ vibrio cholerae (cholera), microbial interactions 
+ mark hay 
+ marine ecology / coral reefs 
+ joel kostka 
+ environmental microbiology, biogeochemistry, microbiomes, wetlands, bioremediation 
+ julia kubanek 
+ natural product drug discovery, marine chemical ecology 
+ william ratcliff 
+ multicellular evolution, biofilm dynamics 
+ frank rosenzweig 
+ cellular genomics and evolution 
+ peter yunker 
+ soft matter physics, biofilms, multicellular evolution 
+ joshua weitz 
+ viruses / viral modeling, bacteriophages, microbial ecology / evolution 
+ marvin whiteley 
+ microbial ecology / virulence, pseudomonas aeruginosa, cystic fibrosis 
+ learn more about each faculty member’s area of research on the cmdi website. 
+ writer : renay san miguel 
+ editors and contributors: 
+ jess hunt-ralston, joel kostka, joshua weitz, julia kubanek, maria avdonina, marvin whiteley, sam brown 
+ additional media 
+ related links 
+ center for microbial dynamics and infection (cmdi) 
+ 12 proposals to achieve college of sciences strategic goals funded by sutherlan… 
+ researchers team up for microbial dynamics and infection 
+ a problematic pathogen develops antibiotic tolerance — without previous exposure 
+ bacterial conversations in cystic fibrosis 
+ study shows how bacteria behave differently in humans compared to the lab 
+ small things considered at suddath symposium 
+ covid-19 event risk assessment planning tool 
+ georgia tech science forum spotlights coronavirus outbreak 
+ temperate glimpse into a warming world: spruce 
+ the microbial legacy of the deepwater horizon disaster 
+ deepwater horizon and the rise of the omics: a decade of breakthroughs in micro… 
+ when coral species vanish, their absence can imperil surviving corals 
+ georgia tech leading in the quest for ocean solutions 
+ contact 
+ renay san miguel 
+ communications officer ii / science writer 
+ college of sciences 
+ 404-894-5209 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,60 @@
+Researchers Create Light-Powered Yeast, Providing Insights Into Evolution, Biofuels, Cellular Aging
+Georgia Tech researchers have engineered one of the world’s first yeast cells able to harness energy from light, expanding our understanding of the evolution of this trait — and paving the way for advancements in biofuel production and cellular aging.
+Jan 12, 2024
+You may be familiar with yeast as the organism content to turn carbs into products like bread and beer when left to ferment in the dark. In these cases, exposure to light can hinder or even spoil the process.
+In a
+new study
+published in
+Current Biology , researchers in Georgia Tech’s
+School of Biological Sciences
+have engineered one of the world’s first strains of yeast that may be happier with the lights on.
+“We were frankly shocked by how simple it was to turn the yeast into phototrophs (organisms that can harness and use energy from light),” says
+Anthony Burnetti , a research scientist working in Associate Professor
+William Ratcliff ’s laboratory and corresponding author of the study. “All we needed to do was move a single gene, and they grew 2% faster in the light than in the dark. Without any fine-tuning or careful coaxing, it just worked.”
+Easily equipping the yeast with such an evolutionarily important trait could mean big things for our understanding of how this trait originated — and how it can be used to study things like biofuel production, evolution, and cellular aging.
+Looking for an energy boost
+The research was inspired by the group’s past work investigating the evolution of multicellular life. The group published their first report on their
+Multicellularity Long-Term Evolution Experiment
+(MuLTEE) in
+Nature
+last year, uncovering how their single-celled model organism, “snowflake yeast,” was able to evolve multicellularity over 3,000 generations.
+Throughout these evolution experiments, one major limitation for multicellular evolution appeared: energy.
+“Oxygen has a hard time diffusing deep into tissues, and you get tissues without the ability to get energy as a result,” says Burnetti. “I was looking for ways to get around this oxygen-based energy limitation.”
+One way to give organisms an energy boost without using oxygen is through light. But the ability to turn light into usable energy can be complicated from an evolutionary standpoint. For example, the molecular machinery that allows plants to use light for energy involves a host of genes and proteins that are hard to synthesize and transfer to other organisms — both in the lab and naturally through evolution.
+Luckily, plants are not the only organisms that can convert light to energy.
+Keeping it simple
+A simpler way for organisms to use light is with rhodopsins: proteins that can convert light into energy without additional cellular machinery.
+“Rhodopsins are found all over the tree of life and apparently are acquired by organisms obtaining genes from each other over evolutionary time,” says
+Autumn Peterson , a biology Ph.D. student working with Ratcliff and lead author of the study.
+This type of genetic exchange is called horizontal gene transfer and involves sharing genetic information between organisms that aren’t closely related. Horizontal gene transfer can cause seemingly big evolutionary jumps in a short time, like how bacteria are quickly able to develop resistance to certain antibiotics. This can happen with all kinds of genetic information and is particularly common with rhodopsin proteins.
+“In the process of figuring out a way to get rhodopsins into multi-celled yeast,” explains Burnetti, “we found we could learn about horizontal transfer of rhodopsins that has occurred across evolution in the past by transferring it into regular, single-celled yeast where it has never been before.”
+To see if they could outfit a single-celled organism with solar-powered rhodopsin, researchers added a rhodopsin gene synthesized from a parasitic fungus to common baker’s yeast. This specific gene is coded for a form of rhodopsin that would be inserted into the cell’s vacuole, a part of the cell that, like mitochondria, can turn chemical gradients made by proteins like rhodopsin into energy.
+Equipped with vacuolar rhodopsin, the yeast grew roughly 2% faster when lit — a huge benefit in terms of evolution.
+“Here we have a single gene, and we're just yanking it across contexts into a lineage that's never been a phototroph before, and it just works,” says Burnetti. “This says that it really is that easy for this kind of a system, at least sometimes, to do its job in a new organism.”
+This simplicity provides key evolutionary insights and says a lot about “the ease with which rhodopsins have been able to spread across so many lineages and why that may be so,” explains Peterson, who Peterson
+recently received
+a Howard Hughes Medical Institute (HHMI) Gilliam Fellowship for her work.
+Carina Baskett , grant writer for Georgia Tech’s
+Center for Microbial Dynamics and Infection , also worked on the study.
+Because vacuolar function may contribute to cellular aging, the group has also initiated collaborations to study how rhodopsins may be able to reduce aging effects in the yeast. Other researchers are already starting to use similar new, solar-powered yeast to study advancing bioproduction, which could mark big improvements for things like synthesizing biofuels.
+Ratcliff and his group, however, are mostly keen to explore how this added benefit could impact the single-celled yeast’s journey to a multicellular organism.
+“We have this beautiful model system of simple multicellularity,” says Burnetti, referring to the long-running
+Multicellularity Long-Term Evolution Experiment (MuLTEE) . “We want to give it phototrophy and see how it changes its evolution.”
+Citation:
+Peterson et al., 2024, Current Biology 34, 1–7.
+DOI:
+https://doi.org/10.1016/j.cub.2023.12.044
+Additional Media
+Related links
+A Journey to the Origins of Multicellular Life: Long-Term Experimental Evolutio…
+Graduate Student and Advisor Pair Awarded HHMI Gilliam Fellowship
+Sciences Scholars Named University Center of Exemplary Mentoring Program Fellows
+Contact
+Audra Davidson
+Communications Officer II, College of Sciences
+davidson.audra@gatech.edu
+Email
+davidson.audra@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

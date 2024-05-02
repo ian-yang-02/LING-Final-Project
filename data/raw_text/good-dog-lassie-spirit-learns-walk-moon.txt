@@ -1,0 +1,59 @@
+Good Dog: LASSIE Spirit Learns to Walk on the Moon
+Researchers at Georgia Tech have teamed up with NASA and five peer institutions to teach dog-like robots to navigate craters of the moon and other challenging planetary surfaces.
+Apr 03, 2024
+This story by Landon Hall was first published in the
+USC Viterbi School of Engineering newsroom .
+Georgia Tech alumna
+Feifei Qian
+(M.S. PHYS 2011, Ph.D. ECE 2015), an assistant professor of electrical and computer engineering at the USC Viterbi School of Engineering and School of Advanced Computing, leads the NASA LASSIE project alongside co-investigator
+Frances Rivera-Hernández , an assistant professor in the School of Earth and Atmospheric Sciences at Georgia Tech.
+Sharissa Thompson , a graduate student at Georgia Tech, is a student intern on the NASA Curiosity Rover project.
+The Palmer Glacier on Oregon’s Mount Hood isn’t the moon, but it’s a good place to practice.
+Some 6,000 feet up the snow-capped mountain, located about 70 miles east of Portland, a multidisciplinary team from the University of Southern California, Texas A&M University, Georgia Institute of Technology, Oregon State University, Temple University, the University of Pennsylvania, and NASA gathered to turn loose a four-legged robot named Spirit into the wild.
+The team that included engineers, cognitive scientists, geoscientists, and planetary scientists field-tested Spirit as part of the LASSIE Project: Legged Autonomous Surface Science in Analog Environments. Spirit covered a variety of challenging terrains, using his spindly metal legs to amble over, across, and over around shifting dirt, slushy snow, and boulders during five days of testing in summer 2023. Sometimes he expertly traversed the hillside, while at other moments he teetered and fell over — all part of the process to better understand the substrate properties and learn to better walk on these extreme terrains. The practice time Spirit logged produced data that will be used to train future robots for use on intergalactic surfaces, like Earth’s moon and perhaps planets in our solar system.
+“A legged robot needs to be able to detect what is happening when it interacts with the ground underneath, and rapidly adjust its locomotion strategies accordingly,” says
+Feifei Qian , an assistant professor of electrical and computer engineering at the USC Viterbi School of Engineering and School of Advanced Computing, which is leading the project funded by NASA. “When the robot leg slips on ice or sinks into soft snow, it inspires us to look for new principles and strategies that can push the boundary of human knowledge and enable new technology. We learn and improve from the observed failures.”
+Watch this
+5-minute video
+produced for the team by documentary filmmaker Sean Grasso.
+Spirit learns from every step.
+“Similar to the way that when we walk on uneven surfaces as humans, we can sort of detect how the ground is shifting beneath our feet, a legged robot is capable of the exact same thing,” says
+Cristina Wilson , a cognitive scientist at Oregon State University.
+The more machines the merrier
+Qian’s group doesn’t intend to stop at just one robot, wandering the wilderness alone. She and her former colleagues at Penn,
+Cynthia Sung ,
+Mark Yim ,
+Daniel Koditschek , and
+Douglas Jerolmack , received a two-year, $2 million grant from NASA they’re calling the TRUSSES Project: Temporarily, Robots Unite to Surmount Sandy Entrapments, Then Separate. They want to help the space agency put teams of robots on the Moon and have them work together on tasks. They would take the knowledge they came in with, and the data they collect on the mission, and communicate those details to each other.
+“They would sense how the ground conditions are,” Qian says, “and then exchange that information with one another, and collectively form a map of locomotion risk estimation. The team of robots can then use this traversal risk map to inform their planetary explorations: ‘There is an extremely soft sand patch that might be high-risk for wheeled rovers. Come over here, this might be a safer area.’ ”
+The robots in mind for this kind of work would be more than just Spirit: There would be a wheeled rover (great for payload and long distances), a Hexapedal robot (intermediate payload but better mobility than the wheeled), and dog-like ones like the rugged version of Spirit (highest mobility, shorter distances). And here’s the coolest part of that research, the part that sounds like something the Transformers would do. Or at least a team of castaways on
+Survivor : If one got in a jam, made immovable by loose dirt or a rock or a ravine, his bot-mates would arrive and link together and form a bridge, or a pyramid, to hoist their pal to safety. And then back to work.
+“When they plan for the strategy to pull the robot up, they’ll decide what force to exert and what position the robot should go to, while also compiling the terrain information,” Qian says. “That’s the key idea of how to use these capabilities: to both prevent and recover from locomotion failures in extreme terrain.”
+Back to Mount Hood
+Spirit gets around a variety of natural environments, to learn how to better move on challenging terrains. Qian has let him off his leash on Southern California beaches, and the multi-university team has field-tested him in the soft granules of White Sands National Park in New Mexico. But
+the video
+shot at Mount Hood shows just how otherworldly that landscape can be in these planetary-analog environments. This provides Spirit with plenty of opportunities to learn on earth, before potentially exploring other planets.
+“You look around us, it would be very hard to drive up this,”
+Ryan Ewing , a geologist from NASA Johnson Space Center,
+shares . “But as a legged being, as humans, we can step around it easily. A dog could walk around it easily. So this project is the proving ground that we can enable new science and new mobility on environments that are like other planets.”
+In fact, a dog is indeed frisking about: Howard, Wilson’s German shepherd, wandered about, with the kind of agility Spirit could only dream of.
+“We are going to observe how Howard moves in different types of snow and ice conditions,” Qian
+says . “What exactly, out of those combined motions, allows him to succeed on challenging terrain?”
+The LASSIE Project calls for two more trips for Spirit: to Mount Hood this summer, and to White Sands next year. The TRUSSES team, from USC and Penn, also plans to visit White Sands next year with Spirit and the other, new, multitasking robots. Imagine WALL-E with friends.
+—
+The NASA PSTAR (Planetary Science and Technology Through Analog Research) number for this project is 80NSSC22K1313.
+Additional Media
+Related links
+Frances Rivera-Hernández Lands NASA and Scialog Grants for Planetary Research, …
+Teaching robots to walk on the moon, and maybe rescue one another
+Practice Makes Perfect: Teaching Robots To Walk On The Moon
+NASA LASSIE: Legged Autonomous Surface Science In Analogue Environments
+Contact
+Jess Hunt-Ralston
+Director of Communications
+College of Sciences at Georgia Tech
+Email
+jess@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

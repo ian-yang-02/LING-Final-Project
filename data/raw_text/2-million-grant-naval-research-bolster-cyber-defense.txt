@@ -1,0 +1,23 @@
+$2 Million Grant for Naval Research to Bolster Cyber Defense
+Naval grants earmarked to help improve national security and automotive or industrial control systems.
+Jun 24, 2015
+— Atlanta, GA
+Researchers from the College of Computing at
+Georgia Institute of Technology
+in Atlanta have been awarded nearly $2 million from the Department of the Navy,
+Office of Naval Research
+(ONR) and the Assistant Secretary of Defense for Research and Engineering (ASD R&E) to fund projects that will bolster defense and other large-scale systems against cyber attack. Their work can help improve national security and also the functional safety and resiliency of automotive or industrial control systems, which are increasingly connected to the wider world through personal devices or other means. The first project, titled
+“BFT++: Attack Tolerance in Hard Real-Time Systems,”
+will develop the foundations, principles and techniques for building attack-tolerant cyber physical systems. “Many intrusion tolerance techniques slow down the control system, which is undesirable and may be life-threatening in a weapons system,” said primary investigator Taesoo Kim, assistant professor in the School of Computer Science at Georgia Tech. “We will develop the techniques to detect failure due to an attack, replace the compromised node with a back-up, and reconstitute it – all within the hard, real-time requirement. In addition, we will develop software and system diversification techniques to ensure that an attack is detected early.” More specifically, the techniques will eliminate common software vulnerabilities in different nodes of a networked group and distribute a security protection into multiple – but not all – nodes of the group, so that protection strength remains undiluted without reducing total performance overhead. The second project, titled
+“Embedasploit: a Pen-test in a Box for Industrial Control Systems,”
+will create a system to fingerprint an industrial control network, catalog its known flaws, emulate the whole system for simulation and outline a model that prevents hackers from listening to system activity, injecting malicious traffic or obtaining binary code. The research will be tested on engine control units in a modern car. “Assessing the security of industrial control systems today often takes the form of a ‘penetration test’ that requires someone familiar with security practices, reverse engineering, real-world exploitation and the intricacies of a particular industrial domain,” says primary investigator Wenke Lee, director of the Georgia Tech Information Security Center in the School of Computer Science. “All of that is rare in a single team or person, so we propose an end-to-end system that can automatically detect, and adapt inside new systems and networks.” Each is a three-year project. Additional researchers include Tielei Wang at Georgia Tech, Salvatore Stolfo at Columbia University, and Brendan Dolan-Gavitt at New York University Polytechnic School of Engineering, along with graduate students at Georgia Tech, Columbia and NYU Poly. Results – including technical papers, teaching materials, software prototypes and experiment data (when appropriate) – will be made available via the
+project’s web page
+maintained at the Georgia Institute of Technology [http://gtisc.gatech.edu].
+Additional Images
+Contact
+Jason Maderer National Media Relations maderer@gatech.edu 404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

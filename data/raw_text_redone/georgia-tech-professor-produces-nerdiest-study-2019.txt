@@ -1,0 +1,36 @@
+georgia tech professor produces 'the nerdiest study of 2019' 
+ prof. joseph h. saleh uses his engineering perspective to decode political history 
+ prof. joseph h. saleh 
+ jan 08, 2020 
+ — atlanta, ga 
+ if american politics sometimes 
+ seem 
+ like a bloodsport, they do not, 
+ in fact , risk the lives of our office holders. 
+ not so, in ancient rome. 
+ this, according to georgia tech professor 
+ joseph h. saleh , 
+ author of 
+ "statistical reliability analysis for a most dangerous occupation: roman emperor," 
+ published last month by palgrave communications, a division of the journal 
+ nature . 
+ "popular culture associates the lives of roman emperors with luxury, cruelty,and debauchery, sometimes rightfully so," writes saleh, a respected risk analysis expert who teaches in the daniel guggenheim school of aerospace engineering. 
+ "one missing attribute in this list is, surprisingly, that this mighty office was most dangerous for its holder. of the 69 rulers of the unified roman empire, from augustus (d. 14 ce) to theodosius (d. 395 ce), 62 percent suffered violent death." 
+ dubbed  "the nerdiest study of 2019" by 
+ fast company 
+ magazine, saleh's piece was reported on by dozens of mainstream publications around the globe. praise from saleh's colleagues in academia was likewise generous. 
+ "this paper has the potential to lead to important interdisciplinary work on a central question in roman history," wrote one palgrave communications reviewer. 
+ "[this] has the potential to change how roman historians think about this topic by showing that unique historical cases can be modeled as instances of a stochastic process," wrote another reviewer. 
+ the fact that so many roman emperors faced violent deaths is a matter of public record, saleh notes. his analysis focuses more on the length of their individual tenures. absent term limits, impeachments, and democratic elections, what factors influenced the length of their reigns? would they be hastened or delayed by their leadership style or by a fault of the particular system of government? 
+ saleh dug into those question by borrowing from the parlance of reliability engineering, which would look at a system's "time-to-failure" profile. instead, he developed each emperor's "time-to-violent-death"  profile to gain insight. 
+ "we examined whether there is some structure of underlying randomness in the process [of regicide]." he notes. 
+ among other things, saleh found that two-thirds of all roman emperors died violently in the first year of their rule. of those who survived at least seven years, many were able to hold onto their thrones for another five years. 
+ "a fundamental engine of the spectacle of regicide was not structural in nature, nor within the legions or the flawed system of government of the empire, but intrinsic to the actors themselves,"  he writes. "the individuals should not be neglected in future work. it was the mutual interactions between the motivations and ambitions of individuals on the one hand, and the social, political, and military factors on the other hand that led to spectacle of regicide of roman emperors. the whole was subject to historical contingencies and some level of randomness in the timing and alignment of factors." 
+ saleh's scientific analysis of the process leaves room for a robust debate involving history, politics, and even human behavior. ever the seeker, saleh welcomes the discussion. 
+ "i undertook this work mostly for the pleasure of writing, and the pleasure of exploring and sharing something on this topic," said saleh, who holds a doctorate in aerospace engineering from mit and a master's in history from harvard. "it was an incredibly enjoyable experience, and i hoped anyone who reads this would get a bit of this pleasure out of it. i did not expect nor considered there would anything utilitarian in this work." 
+ additional images 
+ related links 
+ statistical reliability analysis for a most dangerous occupation: roman emperor 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

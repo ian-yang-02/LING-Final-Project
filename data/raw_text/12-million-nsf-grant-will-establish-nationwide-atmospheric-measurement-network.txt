@@ -1,0 +1,48 @@
+$12 Million NSF Grant Will Establish Nationwide Atmospheric Measurement Network
+A multi-state network will measure aerosols to gain a better understanding of climate and public health.
+Yellowstone National Park's Avalanche Peak, July 2021
+Oct 07, 2021
+— Atlanta, GA
+Georgia Institute of Technology Professor
+Nga Lee “Sally” Ng
+has earned a $12 million
+grant from the National Science Foundation (NSF)
+Mid-Scale Research Infrastructure program to
+provide high time-resolution (every 1 to 15 minutes), long-term measurements
+of the properties of atmospheric particulates known as aerosols, which have significant effects on health and climate change.
+The award will establish a
+network of 12 sites around the United States , including locations in national parks and some of the country’s largest cities. Each will be outfitted with state-of-the-art instruments for characterizing the properties of aerosols. These sites will form what is officially called the Atmospheric Science and mEasurement NeTwork (ASCENT).
+Data from ASCENT will allow researchers to address a variety of questions about how the composition and abundance of aerosols are changing, such as how the modernization of electrical production (coal to natural gas to renewable) and transportation (gasoline to electric vehicles) affect air pollution and climate-relevant variables.
+“This is an incredibly exciting opportunity,” said Ng, a professor in Georgia Tech’s
+School of Chemical and Biomolecular Engineering
+and
+School of Earth and Atmospheric Sciences . “ASCENT represents a key advancement in atmospheric measurement infrastructure in the U.S. For the first time, we will be able to acquire comprehensive, high time-resolution, long-term characterization of aerosols over a wide range of geographical regions. ASCENT will provide the critical, fundamental knowledge for informing science-based decisions on climate change, air quality, and minimizing inequalities in air pollution exposure.”
+ASCENT will also advance understanding of the adverse health impacts of PM 2.5
+(particulate matter with a diameter smaller than 2.5 micrometers). Exposure to PM 2.5
+has been associated with cardiopulmonary diseases and millions of deaths per year.
+“ASCENT's long-term, advanced chemical composition and particle size measurements will facilitate transformative studies to unravel specific aerosol types and properties responsible for their adverse health effects,” Ng said. “This will contribute to building a foundation to define future regulations in the U.S. for protecting public health, as aerosol sources and properties continue to evolve in a changing world.”
+Aerosols impact climate by changing the Earth’s energy balance via direct absorption or scattering of solar radiation and altering the albedo (surface reflection), formation of clouds, and precipitation. The Intergovernmental Panel on Climate Change assessment established that the aerosol effects represent the single largest source of uncertainty in understanding climate change.
+According to NSF, ASCENT will also allow U.S. researchers to remain competitive in a global research environment. The 2016 National Academies report on
+The Future of Atmospheric Chemistry Research
+emphasized the critical need for long-term atmospheric chemistry measurements, recommending that the NSF take the lead to establish synergies with existing sites.
+Currently, several aerosol monitoring networks exist in the United States, but none have the capability of measuring aerosol chemical and physical properties at high time-resolution (highly regular intervals of measurement, in the order of minutes).
+The ASCENT network’s 12 sites across the United States are strategically located in rural, urban, and remote sites that have pre-existing infrastructure for atmospheric monitoring. Five ASCENT sites are in the National Core Network (NCore), which is a subset of the Chemical Speciation Network (CSN). Four rural sites are in the Interagency Monitoring of PROtected Visual Environment (IMPROVE) network. Other ASCENT sites are located in NSF’s National Ecological Observatory Network (NEON), the South Coast Air Quality Management District (AQMD) in California, and the Houston Network of Environmental Towers (HNET) in Texas.
+Each site will be equipped with four advanced instruments: an Aerosol Chemical Speciation Monitor (ACSM, non-refractory aerosols), Xact (trace metals), Aethalometer (black/brown carbon), and Scanning Mobility Particle Sizer (SMPS, aerosol number size distribution and concentration).
+The sites include: Delta Junction, Alaska; Cheeka Peak/Makah, Washington; Los Angeles/Pico Rivera, California; Rubidoux, California; Joshua Tree National Park, California; Yellowstone National Park, Wyoming; Denver, Colorado; Houston, Texas; Pittsburgh, Pennsylvania; New York City; Atlanta, Georgia; and Great Smoky Mountain National Park, Tennessee.
+On the education and outreach side of the project, ASCENT has specific recruitment, mentoring, training, and career development plans for graduate and undergraduate students, with an emphasis on underrepresented groups. One of the ASCENT locations is on tribal land and the project will train tribal air quality staff and perform outreach to interested tribal members. ASCENT will also provide training and educational opportunities for the state agency and National Park Service site operators.
+In collaboration with the National Center for Atmospheric Research, a comprehensive database and web interface will be developed to provide research communities, educators, policy makers, the public, etc. with free and open access to all ASCENT data.
+In addition to lead principal investigator (PI) Ng, co-PIs on the ASCENT project include Professor
+Armistead Russell
+of Georgia Tech’s
+School of Civil and Environmental Engineering , Professor Roya Bahreini of the University of California-Riverside, and Professor Ann Dillner of the University of California-Davis, with Senior Research Scientist Christina Higgins of the
+Georgia Tech Research Institute
+serving as project manager.
+Other ASCENT partner institutions and academics include the University of Alaska Fairbanks (Professor Jingqiu Mao), University of Washington (Professor Joel Thornton), California Institute of Technology (Professor John Seinfeld), Harvey Mudd College (Professor Lelia Hawkins), University of Wyoming (Professor Shane Murphy), University of Colorado Boulder (Professor Jose Jimenez), Roger Williams University (Professor Robert Griffin), University of Houston (Professor James Flynn), Carnegie Mellon University (Professors Allen Robinson and Albert Presto), Yale University (Professor Drew Gentner), University of North Carolina at Chapel Hill (Professor Jason Surratt), and the National Center for Atmospheric Research (Jeff de La Beaujardiere and Eric Nienhouse).
+Ng said: “I look forward to working with the team and the greater atmospheric community to build this amazing network and all the new and exciting research opportunities that ASCENT will enable for the many years to come.”
+Additional Images
+Contact
+Brad Dixon
+School of Chemical and Biomolecular Engineering braddixon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,55 @@
+Identifying Cells to Better Understand Healthy and Diseased Behavior
+Georgia Tech neuroscientists have found a way to identify cells in the brain by focusing on their relationship to other cells.
+Georgia Tech researchers use a graphical model framework to uncover a better way to identify cells and understand neural activities in the brain. (Photo credit: Christopher Moore, Georgia Tech)
+Mar 17, 2021
+— Atlanta, GA
+In researching the causes and potential treatments for degenerative conditions such as Alzheimer’s or Parkinson’s disease, neuroscientists frequently struggle to accurately identify cells needed to understand brain activity that gives rise to behavior changes such as declining memory or impaired balance and tremors.
+A multidisciplinary team of Georgia Institute of Technology neuroscience researchers, borrowing from existing tools such as graphical models, have uncovered a better way to identify cells and understand the mechanisms of the diseases, potentially leading to better understanding, diagnosis, and treatment.
+Their research findings were reported Feb. 24 in the journal
+eLife . The research was supported by the National Institutes of Health and the National Science Foundation.
+The field of neuroscience studies how the nervous system functions, and how genes and environment influence behavior. By using new technologies to understand natural and dysfunctional states of biological systems, neuroscientists hope to ultimately bring cures to diseases. Before that can happen, neuroscientists first must understand which cells in the brain are driving behavior but mapping the brain activity cell by cell isn’t as simple as it appears.
+No Two Brain Cells Are Alike
+Traditionally, scientists established a coordinate system to map each cell location by comparing images to an atlas, but the notion in literature that “all brains look the same is absolutely not true,” said
+Hang Lu , the Love Family Professor of Chemical and Biomolecular Engineering in Georgia Tech’s
+School of Chemical and Biomolecular Engineering .
+Taking a coordinate approach presents two main challenges: first, the sheer number of cells in which none look that distinct; second, cells vary from individual to individual.
+“This is a current huge bottleneck – you can record neuron activities all you want but if you don’t understand which cells are doing what, it’s difficult to compare between brains or conditions and draw meaningful conclusions,” Lu said.
+According to graduate researcher Shivesh Chaudhary, there are also noises in data that make establishing correspondence between two different regions of the brain difficult.
+“Some deformations may exist in data or some portions of the shape may be missing,” he said.
+Focusing on Cell Relationships, Not Just Geography
+To overcome these challenges, the Georgia Tech researchers borrowed from two disciplines – graphical models in machine learning and metric geometry approach to shape matching in mathematics – and built a computational method to identify cells in their model organism, the nematode
+C.elegans .
+The team used frameworks from other fields such as natural language processing to build their own modeling software. In natural language processing, the computer can determine what sentences mean by capturing dependencies between words in a statement.
+The researchers embraced a similar model but instead of capturing dependencies among the words, “We captured them among the neurons to identify cells,” Chaudhary said, noting that this approach limits error propagation as compared to other methods that examine the geographic location of each cell.
+“Using relationships among the cells was actually more useful in defining a cell’s identity,” Lu said. “If you define one, you will have the implications of the identity of the other cells.”
+The approach, say the research team, is significantly more accurate than the current method of identification. The algorithm, while not perfect, performs significantly better in the face of imperfect data, and “gets less rattled” by noise or errors, Lu said.
+The algorithm has huge implications for many developmental diseases, since once scientists can understand the mechanism of a disease, they can find interventions.
+“You can use this to do drug and genetic screens to assess genetic risks. You can take someone’s genetic background and examine how this background makes cells behave differently from the standard reference genetic background,” Lu said.
+“One cool thing about this approach is that it is data driven, and therefore, it captures the variations among individual worms. This method has a high potential to be applicable to a wide range of studies on development and function under normal as well as disease-like conditions,” said Yun Zhang, professor, Department of Organismic and Evolutionary Biology, Center for Brain Science at Harvard University.
+Faster Data Analysis
+The algorithm greatly accelerates the speed of analyzing whole-brain data. The researchers explained that before this advance, their lab might take 20 minutes to record a set of data, but it would take them weeks to identify cells and analyze data. With the algorithm, the analysis takes “overnight at most on a desktop,” said Chaudhary.
+The technique also supports crowdsourcing, collaborative online platforms that open up the algorithm to a larger community, which can test the algorithm and build atlases.
+“Every researcher working on the same problem could do recordings and contribute to further building these atlases that will be widely usable in all contexts,” Lu said.
+The researchers credit the success of the project to being able to draw upon multiple disciplines across physics, biology, math, and chemistry. Chaudhary, who has an undergraduate degree in chemical engineering, took advantage of developments in computer science and math to solve this particular neuroscience problem.
+“In our labs, we have a physicist working on building microscopes, we have biologists, we have people like me who are inclined more towards computer science. We also collaborate with a pure mathematician,” he explained. “The neuroscience field has everything. You can go any direction that you want to.”
+In addition to Lu and Chaudhary, other Georgia Tech researchers contributing to this work were Sol Ah Lee, Yueyi Li, and Dhaval S. Patel.
+This research was supported by the National Institutes of Health through awards R21DC015652, R01NS096581, R01GM108962, and R01GM088333 and the National Science Foundation under awards 1764406 and 1707401. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies.
+CITATION : S. Chaudhary, et al., “Graphical-Model Framework for Automated Annotation of Cell Identities in Dense Cellular Images.” ( eLife,
+2021)
+doi.org/10.1101/2020.03.10.986356 .
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact:
+Anne Wainscott-Sargent (404-435-5784)  (asargent7@gatech.edu)
+Additional Images
+Contact
+Anne Wainscott-Sargent
+Research News
+(404-435-5784)
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

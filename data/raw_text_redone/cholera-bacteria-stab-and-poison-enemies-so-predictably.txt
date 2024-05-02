@@ -1,0 +1,66 @@
+cholera bacteria stab and poison enemies so predictably 
+ the actions of bacteria locked in battle are nearly as calculable as a chemical reaction. 
+ physicist peter yunker applies mathematical equations to enemy colonies of dueling cholera bacteria to accurately predict the speed dynamics of their phase separation into divided territories, a process similar to the separation of oil and water. the equations were originally used to describe phase separate in materials, namely mixed metals (model a equations). credit: georgia tech / rob felt 
+ feb 06, 2017 
+ — atlanta, ga 
+ the enemies were thrown together, so the killing began. 
+ brandishing harpoon-like appendages covered in poison, two armies of cholera bacteria stabbed each other, rupturing victims like water balloons. scientists at the georgia institute of technology tracked the battle over sustenance and turf mathematically to gain insights that could, someday, lead to new, targeted therapies to fight infections. 
+ but dueling bacteria would not be the infectors in that scenario; they’d be the remedy. 
+ conceivably, specially engineered assassin bacteria friendly to humans could kill harmful bacteria while sparing hordes of microbes that keep people healthy. by contrast, the antibiotics we use today vanquish harmful and helpful bacteria alike. 
+ “if you could target harmful bacteria in the human gut, you could use engineered bacteria as a living antibiotic,” said brian hammer, an 
+ associate professor at georgia tech’s school of biological sciences . he cautioned, “we’re not anywhere near that right now.” 
+ calculating bacteria 
+ but to harness bacteria for use in medicine or industry, or just to better understand how they thrive and spread, it’s helpful to determine the consistency of their actions over time. that’s where the math comes in. 
+ georgia tech researchers applied to the bacteria existing physics equations developed to precisely describe the interactions of atoms and molecules. they found that those calculations could also precisely predict that two cholera armies would separate from each other into phases, like oil and water, when they met on the battlefield. 
+ “the models predicted pretty much exactly when the phase separation would occur, and then we observed it happening just like the math said it would,” hammer said. the predictive models were based what's called a “model a” equation. 
+ "empirically, it's been used to describe metals that undergo phase separation,” hammer said. “the type of curve we observed describing our results had never been used to describe living systems before.” 
+ hammer and georgia tech biologists 
+ will ratcliff, an assistant professor , and 
+ samuel brown, an associate professor , teamed up with peter yunker, an 
+ assistant professor in georgia tech’s school of physics 
+ for the research. they published their results in 
+ the journal nature communications 
+ on monday, february 6, 2017. 
+ first authors were hammer’s former graduate student 
+ biologist eryn bernardy , and brown’s former postdoctoral assistant 
+ luke mcnally . their research was funded by the national science foundation, the nasa exobiology program, the gordon and betty moore foundation, the wellcome trust and the human frontier science program. 
+ rotting crab shells 
+ cholera bacteria are commonly found in water attached with other microbes to the shells of crabs and tiny krill, and 
+ people who drink that water can die 
+ within hours due to the severe vomiting and diarrhea the germs cause. the impetus for doing math on dueling cholera came from how they wage turf war on crab shells, which contain a material called chitin that switches on the harpoon function in 
+ vibrio cholerae . no chitin, no stabbing. 
+ “i was studying this amazing biological system,” hammer said, “and i was looking for a way to visualize it.” ratcliff and yunker had been applying microscopy and mathematics to study the dynamics of yeast evolution and suggested hammer give the method a try. 
+ but before getting to the math itself, it’s important to understand a few things about 
+ vibrio cholerae . first of all, most microbiologists think cholera bacteria use the harpoons to kill competing bacteria and not to destroy human cells. 
+ the poisonous weapon is called a type vi secretion system (t6ss), and is common. “this harpoon system is in about one quarter of gram-negative bacteria,” hammer said. “so, this bacterial dueling is going on all around you.” 
+ gram-negative bacteria have thinner walls, which can be punctured more easily. gram-positive bacteria have thicker walls less susceptible to the harpoons, and human cells may be even more difficult to penetrate. 
+ and the stabbing mechanism is not limited to pathogens like cholera. many harmless bacteria use it, too. but more is known about the mechanism in pathogens, because harmful bacteria are more often the focus of scientific study than harmless bacteria, hammer said. 
+ armed and generous 
+ harpooning cholera stab randomly at all bacteria they come into contact with, including each other, but 
+ vibrio cholerae 
+ of the same strain are immune to each other’s stabs. so, they kill their enemies but not their own kind. 
+ the killing also appears to go hand in hand with cooperative social behavior. the researchers found that bacteria that are good at killing together are also good at sharing with each other and building a community. 
+ it starts with creating a common pool of food. “bacteria do a lot of their digestion outside their cells,” hammer said. but having all that food lying around is risky. 
+ “you need a strategy for ensuring that all the effort of chewing up and digesting food benefits you and your relatives, and not someone else who comes and plunders it.” when a strain of bacteria kills invaders, it preserves the fruits of its labor, and multiplies, passing on its genes. 
+ brown’s postdoctoral researcher luke mcnally examined the genomes of many types of bacteria (in addition to cholera) that use poison harpoons. some strains had six or seven harpoons, and some harpoons had multiple poisons. and there appeared to be a correlation between weapons and cooperation. 
+ “we found that the more weaponry a bacteria strain had in its genome, the more it looked like it was apt to share,” hammer said. 
+ purple, red, blue 
+ under the microscope, the battling bacteria strains actually did look a little like beads of oil and water separating out on a flat surface. they were stained two different colors like red and blue, so they could be told apart. 
+ “we start with two strains well mixed,” hammer said. “we jokingly call this the salad dressing model, because you shake oil and water, and they’re well mixed, and you let it sit, and they phase separate.” 
+ when they’re well mixed, the two strains of cholera appear as one purple mass, but as they kill each other and conquer separate territories, they divide into red blotches and blue blotches. 
+ there are significant differences between how chemical and living systems operate. for example, the bacteria also reproduce and multiply; molecules don’t. but the basic math that worked for materials also worked for the bacteria. 
+ future applications? 
+ “in your gut, a lot of useful bacteria are gram-positive,” hammer said. “but there might be a small number of gram-negative bacteria messing up your gut community, and perhaps engineered bacteria with spears could get rid of just those gram-negative.” 
+ also, an external material like chitin, which switches the harpoon function on in cholera bacteria, could be given along with assassin bacteria to trigger their weaponry, and then deactivate it when the chitin is gone. 
+ arben 
+ kalziqi 
+ and jennifer pentz, and jacob thomas all of georgia tech, also co-authored the research paper. the work was funded by the national science foundation (grants deb-1456652, mcb-1149925), the nasa exobiology program (grant nnx15ar33g), the gordon and betty moore foundation (grant 4308.07), the wellcome trust (grant wt095831) and the human frontier science program (grant rgp0011 / 2014). findings and opinions are those of the authors and do not necessarily reflect the official views of the funding agencies. 
+ additional images 
+ contact 
+ writer and media contact: ben brumfield 
+ 404-660-1408 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,30 @@
+Teaching AI to Dance
+The project will culminate in a dance performance with students from Kennesaw State University
+Professor Brian Magerko
+Aug 27, 2021
+— Atlanta, GA
+Brian Magerko, professor in the School of Literature, Media, and Communication, has received a $573,561-grant from the National Science Foundation to further his work at the intersection of cognition, performance, and artificial intelligence.
+The grant ( NSF 2123597 ) will fund “research to develop a computational architecture (called PACE) to model embodied and co-creative behavior between humans and embodied intelligent machines,” according to the NSF award.
+The research team will study human dancers and develop artificial intelligence agents to “co-create” with humans. The work will culminate in a live AI dance performance with the Kennesaw State University School of Dance faculty and students.
+The goal is to “develop a co-creative AI that approaches expert-level participatory sensemaking in contemporary dance and train this agent to create a curated improvisational partner,” according to the NSF award.
+One inspiration for the project is
+LuminAI , a dance installation created by
+Magerko
+and his team that allows people to dance with an AI dancer via their shadows.
+LuminAI uses Microsoft Kinect videogame devices to capture the movements of a human dance partner and projects them as a silhouette onto a screen. The computer then uses artificial intelligence based on a theory of dance and movement called Viewpoints to determine how to match the human partner’s moves.
+“We’ll be using different technologies and in a performance setting, so that will open up some new possibilities, like dancers performing with AI both on stage and in a virtual space via motion capture suits,” Magerko said. “The show is a long way off, and there is a lot of science and technology development that needs to happen first.”
+The project, scheduled to run three years, is expected to lay the groundwork for the development of other applications that could benefit from such improvisational abilities, including physical therapy, design brainstorming, or future experiences with robots in the home.
+Magerko is also co-founder of
+EarSketch , an innovative educational platform created by Magerko and Jason Freeman, the chair of the School of Music. With it, students learn to code in Python or JavaScript through music and creative discovery.
+In 2018, the NSF
+awarded
+Magerko and Freeman $2.1 million to explore adding an AI co-creative to that program. That work is currently in the testing phase in high school computer science classrooms in Georgia and Florida, Magerko said.
+LMC
+is a unit of the Ivan Allen College of Liberal Arts.
+Additional Images
+Contact
+Michael Pearson
+michael.pearson@iac.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

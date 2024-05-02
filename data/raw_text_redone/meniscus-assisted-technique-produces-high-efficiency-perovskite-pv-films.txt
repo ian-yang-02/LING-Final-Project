@@ -1,0 +1,42 @@
+meniscus-assisted technique produces high efficiency perovskite pv films 
+ a new technique produces perovskite photovoltaic materials at low temperature. 
+ optical micrograph of perovskite crystal grains crafted by meniscus-assisted solution printing. (image courtesy of ming he, georgia tech) 
+ jul 07, 2017 
+ — atlanta, ga 
+ a new low-temperature solution printing technique allows fabrication of high-efficiency perovskite solar cells with large crystals intended to minimize current-robbing grain boundaries. the meniscus-assisted solution printing (masp) technique boosts power conversion efficiencies to nearly 20 percent by controlling crystal size and orientation. 
+ the process, which uses parallel plates to create a meniscus of ink containing the metal halide perovskite precursors, could be scaled up to rapidly generate large areas of dense crystalline film on a variety of substrates, including flexible polymers. operating parameters for the fabrication process were chosen by using a detailed kinetics study of perovskite crystals observed throughout their formation and growth cycle. 
+ “we used a meniscus-assisted solution printing technique at low temperature to craft high quality perovskite films with much improved optoelectronic performance,” said 
+ zhiqun lin , a professor in the 
+ school of materials science and engineerin g at the georgia institute of technology. “we began by developing a detailed understanding of crystal growth kinetics that allowed us to know how the preparative parameters should be tuned to optimize fabrication of the films.” 
+ the new technique is reported july 7 in the journal 
+ nature communications . the research has been supported by the air force office of scientific research (afosr) and the national science foundation (nsf). 
+ perovskites offer an attractive alternative to traditional materials for capturing electricity from light, but existing fabrication techniques typically produce small crystalline grains whose boundaries can trap the electrons produced when photons strike the materials. existing production techniques for preparing large-grained perovskite films typically require higher temperatures, which is not favorable for polymer materials used as substrates – which could help lower the fabrication costs and enable flexible perovskite solar cells. 
+ so lin, research scientist ming he and colleagues decided to try a new approach that relies on capillary action to draw perovskite ink into a meniscus formed between two nearly parallel plates approximately 300 microns apart. the bottom plate moves continuously, allowing solvent to evaporate at the meniscus edge to form crystalline perovskite. as the crystals form, fresh ink is drawn into the meniscus using the same physical process that forms a coffee ring on an absorbent surface such as paper. 
+ “because solvent evaporation triggers the transport of precursors from the inside to the outside, perovskite precursors accumulate at the edge of the meniscus and form a saturated phase,” lin explained. “this saturated phase leads to the nucleation and growth of crystals. over a large area, we see a flat and uniform film having high crystallinity and dense growth of large crystals.” 
+ to establish the optimal rate for moving the plates, the distance between plates and the temperature applied to the lower plate, the researchers studied the growth of perovskite crystals during masp. using movies taken through an optical microscope to monitor the grains, they discovered that the crystals first grow at a quadratic rate, but slow to a linear rate when they began to impinge on their neighbors. 
+ “when the crystals run into their neighbors, that affects their growth,” noted he. “we found that all of the grains we studied followed similar growth dynamics and grew into a continuous film on the substrate.” 
+ the masp process generates relatively large crystals – 20 to 80 microns in diameter – that cover the substrate surface. having a dense structure with fewer crystals minimizes the gaps that can interrupt the current flow, and reduces the number of boundaries that can trap electrons and holes and allow them to recombine. 
+ using films produced with the masp process, the researchers have built solar cells that have power conversion efficiencies averaging 18 percent – with some as high as 20 percent. the cells have been tested with more than 100 hours of operation without encapsulation. “the stability of our masp film is improved because of the high quality of the crystals,” lin said. 
+ doctor-blading is one of the conventional perovskite fabrication techniques in which higher temperatures are used to evaporate the solvent. lin and his colleagues heated their substrate to only about 60 degrees celsius, which would be potentially compatible with polymer substrate materials. 
+ so far, the researchers have produced centimeter-scale samples, but they believe the process could be scaled up and applied to flexible substrates, potentially facilitating roll-to-roll continuous processing of the perovskite materials. that could help lower the cost of producing solar cells and other optoelectronic devices. 
+ “the meniscus-assisted solution printing technique would have advantages for flexible solar cells and other applications requiring a low-temperature continuous fabrication process,” lin added. “we expect the process could be scaled up to produce high throughput, large-scale perovskite films.” 
+ among the next steps are fabricating the films on polymer substrates, and evaluating other unique properties (e.g., thermal and piezotronic) of the material. 
+ this research was supported by the air force office of scientific research (muri fa9550-14-1-0037; fa9550-16-1-0187) and national science foundation (cmmi-1562075). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ citation : ming he, bo li, xun cui, beibei jiang, yanjie he, yihuang chen, daniel o’neil, paul szymanski, mostafa a. ei-sayed, jinsong huang and zhiqun lin, “meniscus-assisted solution printing of large-grained perovskite films for high-efficiency solar cells,” (nature communications, 2017). 
+ http: / / dx.doi.org / 10.1038 / ncomms16045 . 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

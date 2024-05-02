@@ -1,0 +1,38 @@
+controlling a robot is now as simple as point and click 
+ new technique allows users to control a remote robot by pointing and clicking on a screen. 
+ sonia chernova is the catherine m. and james e. allchin early-career assistant professor in the school of interactive computing. 
+ apr 24, 2017 
+ — atlanta, ga 
+ the traditional interface for remotely operating robots works just fine for roboticists. they use a computer screen and mouse to independently control six degrees of freedom, turning three virtual rings and adjusting arrows to get the robot into position to grab items or perform a specific task. 
+ but for someone who isn’t an expert, the ring-and-arrow system is cumbersome and error-prone. it’s not ideal, for example, for older people trying to control assistive robots at home. 
+ a new interface designed by georgia institute of technology researchers is much simpler, more efficient and doesn’t require significant training time. the user simply points and clicks on an item, then chooses a grasp. the robot does the rest of the work. 
+ “instead of a series of rotations, lowering and raising arrows, adjusting the grip and guessing the correct depth of field, we’ve shortened the process to just two clicks,” said sonia chernova, the catherine m. and james e. allchin early-career assistant professor in the 
+ school of interactive computing 
+ who advised the research effort. 
+ her team tested college students on both systems, and found that the point-and-click method resulted in significantly fewer errors, allowing participants to perform tasks more quickly and reliably than using the traditional method. 
+ “roboticists design machines for specific tasks, then often turn them over to people who know less about how to control them,” said david kent, the georgia tech ph.d. robotics student who led the project. “most people would have a hard time turning virtual dials if they needed a robot to grab their medicine. but pointing and clicking on the bottle? that’s much easier.” 
+ the traditional ring-and-arrow-system is a split-screen method. the first screen shows the robot and the scene; the second is a 3-d, interactive view where the user adjusts the virtual gripper and tells the robot exactly where to go and grab. this technique makes no use of scene information, giving operators a maximum level of control and flexibility. but this freedom and the size of the workspace can become a burden and increase the number of errors. 
+ the point-and-click format doesn’t include 3-d mapping. it only provides the camera view, resulting in a simpler interface for the user. after a person clicks on a region of an item, the robot’s perception algorithm analyzes the object’s 3-d surface geometry to determine where the gripper should be placed. it’s similar to what we do when we put our fingers in the correct locations to grab something. the computer then suggests a few grasps. the user decides, putting the robot to work. 
+ “the robot can analyze the geometry of shapes, including making assumptions about small regions where the camera can’t see, such as the back of a bottle,” said chernova. “our brains do this on their own — we correctly predict that the back of a bottle cap is as round as what we can see in the front. in this work, we are leveraging the robot’s ability to do the same thing to make it possible to simply tell the robot which object you want to be picked up.” 
+ by analyzing data and recommending where to place the gripper, the burden shifts from the user to the algorithm, which reduces mistakes. during a study, college students performed a task about two minutes faster using the new method vs. the traditional interface. the point-and-click method also resulted in approximately one mistake per task, compared to nearly four for the ring-and-arrow technique. 
+ in addition to assistive robots in homes, the researchers see applications in search-and-rescue operations and space exploration. the 
+ interface has been released 
+ as 
+ open-source software 
+ and was presented in vienna, austria, march 6-9 at the 
+ 2017 conference on human-robot 
+ interaction (hri2017). 
+ the study is partially supported by national science foundation fellowship ( iis 13-17775 ) and and the office of naval research (n000141410795). any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ additional images 
+ related links 
+ creating the next in robotics 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

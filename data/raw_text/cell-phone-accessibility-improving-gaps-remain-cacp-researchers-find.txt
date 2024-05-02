@@ -1,0 +1,38 @@
+Cell Phone Accessibility: Improving, but Gaps Remain, CACP Researchers Find
+Researchers from the Center for Advanced Communications Policy recently released their 2022 accessibility report for mobile phones.
+Researchers from the Center for Advanced Communications Policy recently released their 2022 accessibility report for mobile phones.
+Sep 29, 2022
+— Atlanta, GA
+Cell phones are becoming more accessible, but gaps remain — including fewer features for people with cognitive disabilities, emerging issues such as vehicle connectivity, and surprising roadblocks such as poor battery life, according to the latest biennial analysis of cell phone accessibility by Georgia Tech’s Center for Advanced Communications Policy (CACP).
+“Not all cell phones are created equal as far as accessibility, especially when it comes to a specific disability,” said Research Scientist
+Salimah LaForce , who wrote the
+report
+(pdf) with CACP Research Associate Dara Bright. “For instance, people with vision disabilities typically have a wide range of phones that will accommodate their access needs. But for other disabilities, such as cognitive disabilities, features are less common, and sales representatives are often less knowledgeable about those that do exist.”
+Battery life is particularly an issue for people who are deaf, the researchers note. They often rely on brightly lit, battery-draining phone screens to communicate using sign language or text. Lack of WEA support can be a serious safety issue by itself. But phones that lack such support also frequently lack other up-to-date accessibility features, said Research Scientist  Salimah LaForce , who wrote the  report  (pdf) with CACP Research Associate Dara Bright.
+CACP’s Research Goes to the FCC
+CACP conducts the biennial review for submission to the FCC as part of the federal agency’s mandated review of tech accessibility under the Twenty-First Century Communication and Video Accessibility Act (CVAA) of 2010. The Center may be the only objective, university-based research organization to broadly review cell phone accessibility across a range of disabilities and report its findings to the FCC, LaForce said. The work helps influence regulatory policy and ultimately may help lead to broader adoption of features that benefit people with disabilities — and those without them. It’s work that fits squarely into Georgia Tech’s focus of making a positive impact on people’s lives.
+For their most recent review, researchers looked for 54 accessibility features on 153 phones and found that:
+More than 95% of reviewed phones evaluated had headphone jacks, Bluetooth, speaker capabilities, GPS, adjustable font, and alternative biometrics to unlock phones.
+Fewer than one-third of the phones had accessibility features such as a physical keyboard, Braille display support, audible clues, or eye tracking. Four in ten had easily replaceable batteries.
+While features such as real-time text, car connectivity, and simple displays increased by 49 percentage points or more among reviewed models, the presence of configurable audio and two-way video fell since CACP’s 2020 review.
+Phones provided under the government-subsidized Lifeline program also showed improved accessibility across a range of features, including screen magnifiers, simple displays, car connectivity, and Braille access.
+WEA Support a Predictor of Accessibility
+The survey found that more and more cell phones — 92% in the most recent review — can receive Wireless Emergency Alert (WEA) messages. That’s an increase of 18% from 2020. WEA access is an essential capability in its own right, helping keep users safe when severe weather or other disasters strike. But, according to researchers, it’s also a key predictor for other accessibility features. That’s likely because WEA-capable phones are often newer models, LaForce says.
+And while most phones now offer the most up-to-date WEA 3.0 standard, many of those that only support earlier WEA versions — with their shorter messages, fewer supported languages, and less precise geo-targeting — are subsidized Lifeline phones. According to the report, this inequity can hit people with disabilities especially hard as they often rely on the subsidized phones and services.
+The review also identified emerging accessibility issues on the road, citing potential issues with disabled motorists attempting to access the plethora of mobile-phone-powered services cell and auto manufacturers are jointly building into cars.
+“Systems that require motorists to push buttons or perform other physical tasks to connect their phone to their car are not accessible,” LaForce said.
+More Transparency Needed
+Another significant issue is lack of transparency, said Bright. Few cell phones come with manuals anymore, and there’s little standardization among phone makers when it comes to giving names to features or describing how they work.
+“Users shouldn’t have to dig or rely on secondary sources to find this information, which is crucial for people with disabilities trying to find a phone that meets their needs,” Bright said. “This is something we strongly urge the FCC to address.”
+Ultimately, LaForce and Bright see the issue as one of civil rights.
+“When I came into this space, that became very apparent to me,” LaForce said. “Having accessible communications matters. It matters in their work. It matters in their education. It matters in their safety. And it matters in their daily lives, being able to get things done and keep in touch with those they care about.”
+Visit CACP’s
+website
+to learn more about the Center’s inclusive approach to technology design.
+Additional Images
+Contact
+Michael Pearson
+Ivan Allen College of Liberal Arts
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

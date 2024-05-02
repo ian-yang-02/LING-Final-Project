@@ -1,0 +1,45 @@
+transfer technique produces wearable gallium nitride gas sensors 
+ a new technique allows gallium nitride gas sensors to be grown on a standard substrate and then transferred to a different support. 
+ abdallah ougazzaden, director of georgia tech lorraine in metz, france and chris bishop, a researcher at institut lafayette, example a sample being processed in a lab at georgia tech lorraine. (credit: rob felt, georgia tech). 
+ nov 09, 2017 
+ — atlanta, ga 
+ a transfer technique based on thin sacrificial layers of boron nitride could allow high-performance gallium nitride gas sensors to be grown on sapphire substrates and then transferred to metallic or flexible polymer support materials. the technique could facilitate the production of low-cost wearable, mobile and disposable sensing devices for a wide range of environmental applications. 
+ transferring the gallium nitride sensors to metallic foils and flexible polymers doubles their sensitivity to nitrogen dioxide gas, and boosts response time by a factor of six. the simple production steps, based on metal organic vapor phase epitaxy (movpe), could also lower the cost of producing the sensors and other optoelectronic devices. 
+ sensors produced with the new process can detect ammonia at parts-per-billion levels and differentiate between nitrogen-containing gases. the gas sensor fabrication technique was reported november 9 in the journal 
+ scientific reports . 
+ “mechanically, we just peel the devices off the substrate, like peeling the layers of an onion,” explained 
+ abdallah ougazzaden , director of georgia tech lorraine in metz, france and a professor in georgia tech’s 
+ school of electrical and computer engineering 
+ (ece). “we can put the layer on another support that could be flexible, metallic or plastic. this technique really opens up a lot of opportunity for new functionality, new devices – and commercializing them.” 
+ the researchers begin the process by growing monolayers of boron nitride on two-inch sapphire wafers using an movpe process at approximately 1,300 degrees celsius. the boron nitride surface coating is only a few nanometers thick, and produces crystalline structures that have strong planar surface connections, but weak vertical connections. 
+ aluminum gallium nitride (algan / gan) devices are then grown atop the monolayers at a temperature of about 1,100 degrees celsius, also using an movpe process. because of the boron nitride crystalline properties, the devices are attached to the substrate only by weak van der waals forces, which can be overcome mechanically. the devices can be transferred to other substrates without inducing cracks or other defects. the sapphire wafers can be reused for additional device growth. 
+ “this approach for engineering gan-based sensors is a key step in the pathway towards economically viable, flexible sensors with improved performances that could be integrated into wearable applications,” the authors wrote in their paper. 
+ so far, the researchers have transferred the sensors to copper foil, aluminum foil and polymeric materials. in operation, the devices can differentiate between nitrogen oxide, nitrogen dioxide, and ammonia. because the devices are approximately 100 by 100 microns, sensors for multiple gases can be produced on a single integrated device. 
+ “not only can we differentiate between these gases, but because the sensor is very small, we can detect them all at the same time with an array of sensors,” said ougazzaden, who expects that the devices could be modified to also detect ozone, carbon dioxide and other gases. 
+ the gallium nitride sensors could have a wide range of applications from industry to vehicle engines – and for wearable sensing devices. the devices are attractive because of their advantageous materials properties, which include high thermal and chemical stability. 
+ “the devices are small and flexible, which will allow us to put them onto many different types of support,” said ougazzaden, who also directs the international joint research lab at georgia tech cnrs. 
+ to assess the effects of transferring the devices to a different substrate, the researchers measured device performance on the original sapphire wafer and compared that to performance on the new metallic and polymer substrates. they were surprised to see a doubling of the sensor sensitivity and a six-fold increase in response time, changes beyond what could be expected by a simple thermal change in the devices. 
+ “not only can we have flexibility in the substrate, but we can also improve the performance of the devices just by moving them to a different support with appropriate properties,” he said. “properties of the substrate alone makes the different in the performance.” 
+ in future work, the researchers hope to boost the quality of the devices and demonstrate other sensing applications. “one of the challenges ahead is to improve the quality of the materials so we can extend this to other applications that are very sensitive to the substrates, such as high-performance electronics.” 
+ the georgia tech researchers have previously used a similar technique to produce light-emitting diodes and ultraviolet detectors that were transferred to different substrates, and they believe the process could also be used to produce high-power electronics. for those applications, transferring the devices from sapphire to substrates with better thermal conductivity could provide a significant advantage in device operation. 
+ ougazzaden and his research team have been working on boron-based semiconductors since 2005. their work has attracted visits from several industrial companies interested in exploring the technology, he said. 
+ “i am very excited and lucky to work on such hot topic and top-notch technology at gt-lorraine,” said taha ayari, a ph.d. student in the georgia tech school of ece and the paper’s first author. 
+ in addition to ougazzaden, the research team includes georgia tech ph.d. students taha ayari, matthew jordan, xin li and saiful alam; chris bishop and youssef elgmili, researchers at institut lafayette; suresh sundaram, a researcher at georgia tech lorraine; gilles patriarche, a researcher at the centre de nanosciences et de nanotechnologies (c2n) at cnrs; paul voss, an associate professor in the georgia tech school of ece; and jean paul salvestrini, a professor at georgia tech lorraine and adjunct professor in the georgia tech school of ece. 
+ the research was supported by anr (agence nationale de recherche), the national agency of research in france through the “ganex” project. 
+ citation : taha ayari, et al., “gas sensors boosted by two-dimensional h-bn enabled transfer on thin substrate foils: towards wearable and portable applications,” (scientific reports, 2017). http: / / dx.doi.org / 10.1038 / s41598-017-15065-6 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

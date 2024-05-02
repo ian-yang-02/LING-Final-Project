@@ -1,0 +1,44 @@
+empathy from the sick may be critical to halting disease outbreaks 
+ a little empathy can go a long way toward ending infectious disease outbreaks. 
+ empathy of infected individuals is necessary to halt a disease outbreak by preventing infection of susceptible persons. here, a cdc image shows the effects of a sneeze. (credit: centers for disease control and prevention) 
+ mar 15, 2017 
+ — atlanta, ga 
+ a little empathy can go a long way toward ending infectious disease outbreaks. 
+ that’s a conclusion from researchers at the georgia institute of technology in collaboration with a researcher from kaust, who used a networked variation of game theory to study how individual behavior during an outbreak of influenza – or other illness – affects the progress of the disease, including how rapidly the outbreak dies out. 
+ the research study pitted the self-interests of susceptible individuals against those of infected persons, and found that only if sick persons took precautions to avoid infecting others could the illness be eradicated. healthy people attempting to protect themselves couldn’t, by themselves, stop the disease from spreading. among the key factors was empathy of infected persons. 
+ “we wanted to understand disease dynamics from an individual’s perspective,” said ceyhun eksin, a postdoctoral fellow in the laboratory of georgia tech 
+ school of biological sciences 
+ professor 
+ joshua s. weitz . “in particular, we wanted to know what role individual behavior plays in disease spread and how behavior might affect forecasting and consequences in the long run when there is an outbreak.” 
+ the research, reported march 14 in the journal 
+ scientific reports , was sponsored by the u.s. army research office. the work used mathematical models that took into account how infectious diseases spread and the effects of measures taken to control them. 
+ public health initiatives against seasonal diseases like influenza tend to initially focus on immunization programs, which move individuals out of the “susceptible” category. once an outbreak begins, health campaigns focus on encouraging susceptible persons to take precautions such as hand-washing and avoiding infected people. 
+ the success of those measures may depend on individual perceptions of how great the risk of infection might be, eksin noted. the more awareness individuals have of infected persons around them, the more likely they are to protect themselves. perception can also affect the behavior of infected individuals, who may be more likely to stay home from work or cover their cough, for instance, if they believe their presence could infect a significant number of people. 
+ “if an infected person really wants to attend a meeting at work, it’s one thing if only one other person could be at risk,” he said. “it may be a different thing if they could affect a whole office of susceptible people.” 
+ the empathy of sick persons becomes especially important toward the end of an outbreak, when the number of infected persons may be low, but still enough to sustain the illness. when the number of sick people is low, risk perception falls, leading susceptible people to reduce their precautions – and sick people to feel less concern about infecting others. 
+ if those sick persons then decide to head off to work despite their illness, they may infect unsuspecting susceptible people, causing the outbreak to continue. “the behavior of the infected individuals can be more important than the behavior of the susceptible individuals in eradicating the disease,” said eksin. “a little bit of empathy can be crucial at this point.” 
+ while the research examined the results of individual actions during an outbreak, those individual decisions were actually related because individuals are part of networks of contacts. 
+ “in a connected network, everyone’s activities can affect you in one way or another,” eksin said. “if your sick neighbors decide to isolate themselves, then you don’t need to take any action to protect yourself against them. but you don’t necessarily know what your neighbors are doing, and their actions may well be affected by what others are doing. the effect can cascade.” 
+ while calculating such interactions could be intractable from a computing standpoint, the authors introduced an algorithm based on game theoretic concepts that allows a logical resolution. “our analysis provides a principled response to recent calls to integrate game theory with disease dynamics to understand how individuals should act in response to disease development.” 
+ the results of the work may improve the ability to predict individual behavior such as risk aversion or empathy. that would allow better forecasting of outbreaks and facilitate more efficient use of resources such as vaccines and public health awareness advertising. but additional information may be required to effectively make such predictions, eksin said. 
+ changing individual behavior in response to risk perception may point toward the importance of adjusting communication campaigns as disease fluctuates. and the importance of self-isolating for infected individuals may suggest more awareness initiatives aimed specifically at that group rather than susceptible persons. 
+ “when we studied individual behavior, empathy trumped risk aversion in disease eradication, which was counterintuitive for us,” eksin added. “we need to champion the benefits of empathy by sick individuals to eradicate disease in the community.” 
+ this research is supported by the army research office under grant w911nf-14-1-0402, and in part by kaust. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organization. 
+ citation : ceyhun eksin, jeff s. shamma, and joshua s. weitz, “disease dynamics in a stochastic network game: a little empathy goes a long way in averting outbreaks,” (scientific reports, 2017). 
+ http: / / dx.doi.org / 10.1038 / srep44122 . 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

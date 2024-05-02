@@ -1,0 +1,28 @@
+tiny magnetic particles enable new material to bend, twist, and grab 
+ a team of researchers from the georgia institute of technology and the ohio state university has developed a soft polymer material, called magnetic shape memory polymer, that uses magnetic fields to transform into a variety of shapes. 
+ an assortment of objects made from magnetic shape-memory polymers. (credit: shuai wu, the ohio state university) 
+ dec 10, 2019 
+ — atlanta, ga 
+ a team of researchers from the georgia institute of technology and the ohio state university has developed a soft polymer material, called magnetic shape memory polymer, that uses magnetic fields to transform into a variety of shapes. the material could enable a range of new applications from antennas that change frequencies on the fly to gripper arms for delicate or heavy objects. 
+ the material is a mixture of three different ingredients, all with unique characteristics: two types of magnetic particles, one for inductive heat and one with strong magnetic attraction, and shape-memory polymers to help lock various shape changes into place. 
+ “this is the first material that combines the strengths of all of these individual components into a single system capable of rapid and reprogrammable shape changes that are lockable and reversible,” said jerry qi, a professor in the george w. woodruff school of mechanical engineering at georgia tech. 
+ the research, which was reported dec. 9 in the journal  advanced materials , was sponsored by the national foundation of science, the air force office of scientific research, and the department of energy. 
+ to make the material, the researchers began by distributing particles of neodymium iron boron (ndfeb) and iron oxide into a mixture of shape memory polymers. once the particles were fully incorporated, the researchers then molded that mixture into various objects designed to evaluate how the material performed in a series of applications. 
+ for example, the team made a gripper claw from a t-shaped mold of the magnetic shape memory polymer mixture. applying a high-frequency, oscillating magnetic field to the object caused the iron oxide particles to heat up through induction and warm the entire gripper. that temperature rise, in turn, caused the shape memory polymer matrix to soften and become pliable. a second magnetic field was then applied to the gripper, causing its claws to open and close. once the shape memory polymers cool back down, they remain locked in that position. 
+ the shape-changing process takes only a few seconds from start to finish, and the strength of the material at its locked state allowed the gripper to lift objects up to 1,000 times its own weight. 
+ “we envision this material being useful for situations where a robotic arm would need to lift a very delicate object without damaging it, such as in the food industry or for chemical or biomedical applications,” qi said. 
+ the new material builds on earlier research that outlined actuation mechanisms for soft robotics and active materials and evaluated the limitations in current technologies. 
+ “the degree of freedom is limited in conventional robotics” said ruike (renee) zhao, an assistant professor in the department of mechanical and aerospace engineering at ohio state. “with soft materials, that degree of freedom is unlimited.” 
+ the researchers also tested other applications, where coil-shaped objects made from the new material expanded and retracted – simulating how an antenna could potentially change frequencies when actuated by the magnetic fields. 
+ “this process requires us to use of magnetic fields only during the actuation phase,” zhao said. “so, once an object has reached its new shape, it can be locked there without constantly consuming energy.” 
+ this research was supported by   the ohio state university materials research seed grant program, funded by the national science foundation’s center for emergent materials under grant no. dmr-1420451. the project was also supported by the center for exploration of novel complex materials, the institute for materials research, the air force office of scientific research under grant no. fa9550-19-1-0151, the u.s. department of energy under grant no. de-sc0001304, and by grants from the haythornthwaite foundation. the content is the responsibility of the authors and does not necessarily represent the official views of the sponsoring agencies. 
+ citation :  qiji ze, xiao kuang, shuai wu, janet wong, s. macrae montgomery, rundong zhang, joshua m. kovitz, fengyuan yang, h. jerry qi, and ruike zhao, “magnetic shape memory polymers with integrated multifunctional shape manipulations” ( advanced materials , 2019). http: / / dx.doi.org / 10.1002 / adma.201906657 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

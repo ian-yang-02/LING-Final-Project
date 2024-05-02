@@ -1,0 +1,53 @@
+new chip measures multiple cellular responses to speed drug discovery 
+ nano-electric technology may improve the drug development process. 
+ cmos multi-modal cellular interface array chip in operation in a standard biology lab. 
+ oct 24, 2018 
+ — atlanta, ga 
+ finding ways to improve the drug development process – which is currently costly, time-consuming and has an astronomically high failure rate – could have far-reaching benefits for health care and the economy. researchers from the georgia institute of technology have designed a cellular interfacing array using low-cost electronics that measures multiple cellular properties and responses in real time. this could enable many more potential drugs to be comprehensively tested for efficacy and toxic effects much faster. that’s why hua wang, associate professor in the 
+ school of electrical and computer engineering 
+ at georgia tech, describes it as “helping us find the golden needle in the haystack.” 
+ pharmaceutical companies use cell-based assays, a combination of living cells and sensor electronics, to measure physiological changes in the cells. that data is used for high-throughput screening (hts) during drug discovery. in this early phase of drug development, the goal is to identify target pathways and promising chemical compounds that could be developed further – and to eliminate those that are ineffective or toxic – by measuring the physiological responses of the cells to each compound. 
+ phenotypic testing of thousands of candidate compounds, with the majority “failing early,” allows only the most promising ones to be further developed into drugs and maybe eventually to undergo clinical trials, where drug failure is much more costly. but most existing cell-based assays use electronic sensors that can only measure one physiological property at a time and cannot obtain holistic cellular responses. 
+ that’s where the new cellular sensing platform comes in. “the innovation of our technology is that we are able to leverage the advance of nano-electronic technologies to create cellular interfacing platforms with massively parallel pixels,” said wang. “and within each pixel we can detect multiple physiological parameters from the same group of cells at the same time.” the experimental quad-modality chip features extracellular or intracellular potential recording, optical detection, cellular impedance measurement, and biphasic current stimulation. 
+ wang said the new technology offers four advantages over existing platforms: 
+ multimodal sensing: 
+ the chip’s ability to record multiple parameters on the same cellular sample gives researchers the ability to comprehensively monitor complex cellular responses, uncover the correlations among those parameters and investigate how they may respond together when exposed to drugs. “living cells are small but highly complex systems. drug administration often results in multiple physiological changes, but this cannot be detected using conventional single-modal sensing,” said wang. 
+ large field of view: 
+ the platform allows researchers to examine the behavior of cells in a large aggregate to see how they respond collectively at the tissue level. 
+ small spatial resolution: 
+ not only can researchers look at cells at the tissue level, they could also examine them at single-cell or even sub-cellular resolution. 
+ low-cost platform: 
+ the new array platform is built on standard complementary metal oxide semiconductor (cmos) technologies, which is also used to build computer chips, and can be easily scaled up for mass production. 
+ wang’s team worked closely with hee cheol cho, associate professor and the urowsky-sahr scholar in pediatric bioengineering, whose heart regeneration lab is part of the 
+ wallace coulter department of biomedical engineering 
+ at georgia tech and emory university. they used neonatal rat ventricular myocytes and cardiac fibroblasts to illustrate the multi-parametric cell profiling ability of the array for drug screening. 
+ the recent results 
+ were published in the royal society of chemistry’s journal 
+ lab on a chip 
+ on august 31, 2018. 
+ monitoring cellular responses in multi-physical domains and holistic multi-parametric cellular profiling should also prove beneficial in screening out chemical compounds that could have harmful effects on certain organs, said jong seok park, a post-doctoral fellow in wang’s lab and a leading author of the study. many drugs have been withdrawn from the market after discoveries that they had toxic effects on the heart or liver, for example. this platform should enable researchers to comprehensively test for organ toxicity and other side effects at the initial phases of drug discovery. 
+ the experimental chip may be useful for other applications, including personalized medicine – for example, testing cancer cells from a particular patient. “patient to patient variation is huge, even with the same type of drug,” said wang. the cellular interface array could be used to see which combination of existing drugs would give the best response and to find the optimum dose that is most effective with minimum toxicity to healthy cells. 
+ the chip is capable of actuation as well as sensing. in the future, wang said that cellular data from the chip could be uploaded and processed, and based on that, commands for new actuation or data acquisition could be sent to the chip automatically and wirelessly. he envisions rooms and rooms containing culture chambers with millions of such chips in fully automated facilities, “just automatically doing new drug selection for us,” he said. 
+ beyond these applications, wang noted the scientific value of the research itself. integrated circuits and nanoelectronics are some of the most sophisticated technology platforms created by humans. living cells, on the other hand, are complex products produced through billions of years of natural selection and evolution. 
+ “the central theme of our research is how we can leverage the best platform created by nature with the best platform created by humans,” he said. “can we let them work together to create hybrid systems that achieve capabilities beyond biology only or electronics only systems? the fundamental scientific question we are addressing is how we can let inorganic electronics better interface with organic living cells.” 
+ these researchers also participated in the related studies: doohwan jung, adam wang, taiyun chi, sensen li and moez k. aziz from the school of electrical and computer engineering at georgia tech; and sandra i. grijalva and michael n. sayegh from the department of biomedical engineering at emory university. the research was funded in part by the national science foundation career award and eccs ccss program, national science foundation graduate research fellowship grant numbers dge-1148903 and dge-1650044, office of naval research, and semiconductor research corporation ssb roadmap consortium. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding agencies. 
+ citation: 
+ jong seok park, et al., “multi-parametric cell profiling with a cmos quad-modality cellular interfacing array for label-free fully automated drug screening,” ( lab chip 
+ 2018). 
+ doi: 10.1039 / c8lc00156a 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact:  john toon (404-894-6986) (john.toon@comm.gatech.edu). 
+ writer : kenna simmons 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ 404-894-6986 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

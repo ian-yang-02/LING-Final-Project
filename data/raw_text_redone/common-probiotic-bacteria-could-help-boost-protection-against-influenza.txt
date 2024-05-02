@@ -1,0 +1,55 @@
+common probiotic bacteria could help boost protection against influenza 
+ a newly funded research project might one day lead to the development of a pill or capsule able to boost the effectiveness of traditional vaccines against influenza 
+ this illustration depicts a 3d computer-generated rendering of a whole influenza (flu) virus, rendered in semi-transparent blue, atop a black background. the transparent area in the center of the image, revealed the viral ribonucleoproteins (rnps) inside. (credit: cdc / douglas jordan) 
+ sep 06, 2023 
+ researchers at the georgia institute of technology (georgia tech) have received funding to study the concept of using modified strains of probiotic bacteria – that are already part of the human gut microbiome – to stimulate the formation of antibodies against the flu virus in the body’s mucosal membranes. respiratory viruses like influenza infect the body through mucosal membranes, and the proof-of-concept project will help evaluate whether snippets of influenza proteins – tiny fragments of the virus – could be added to two common bacterial strains to create the antibody response. antibodies in the mucosal membranes might then complement those created by traditional intramuscular injections to head off flu infection. 
+ the research, supported by the 
+ air force research laboratory 
+ (afrl), will study whether or not the harmless bacteria can be successfully modified to carry snippets of a viral coat protein that could stimulate the desired response in mucosal membranes lining the gut. beyond reducing influenza infection in the general population, improved protection against the flu could have a significant impact on the u.s. military, which wants to provide the best possible protection for its warfighters to reduce possible impacts on readiness and training from influenza outbreaks. 
+ at georgia tech, the project is a collaboration between researchers at the georgia tech research institute (gtri) and the georgia tech 
+ school of biological sciences . all of the research at georgia tech will be done using bsl-2 facilities designed for this type of study. the award does not include research on animals or humans. 
+ “ultimately, this could one day make vaccination programs much more effective,” said michael farrell, a gtri principal research scientist. “this isn’t going to be a replacement for flu vaccines as they currently exist, but it could act as an adjuvant – something that’s done in addition to vaccination to increase the overall immune response. to benefit from it, you might take a pill like you do with probiotics now.” 
+ using common probiotic bacteria as vehicles 
+ the project will focus on two common probiotic bacteria: 
+ escherichia coli 
+ – a gram-negative bacterium better known as 
+ e. coli 
+ – and 
+ lactococcus lactis , a gram-positive bacterium found in cheese, buttermilk, and other dairy food items. the researchers will attempt to coax the bacteria to express the influenza virus’ hemagglutinin (ha) receptor protein on their outer cell surface. there, the protein would stimulate an antibody response in the gut mucosal membrane as it passes through the body’s gastrointestinal tract. 
+ “we’re using some well-established probiotic bacteria that have been utilized for dozens of years, are well vetted and safe for humans,” said 
+ brian hammer , an associate professor in the school of biological sciences who specializes in bacterial genetics. “ultimately, the idea is to use these bacteria as a chassis to create living vaccines, since the body already tolerates them both well.” 
+ researchers at afrl and georgia tech envision that a single pill or capsule would carry the bacteria into the gastrointestinal tract to provide the necessary antibody stimulation. the bacteria would be modified so they could not reproduce, preventing them from becoming part of the body’s gut microbiome – a diverse collection of bacteria that live in the body and help carry out specific functions, including metabolizing food and modulating the immune system. 
+ “we know the human microbiome is intimately involved in human health and disease, influencing processes in ways that have both positive and negative outcomes for us,” said richard agans, senior research biological scientist at the u.s. air force school of aerospace medicine (usafsam). “recently, we have started to better understand how the microbiome communicates with our bodies and how we can identify, target, and promote the beneficial aspects. currently, we are working to determine how to utilize these microbial communities to better protect our warfighters as well as the general public.” 
+ overcoming challenges of manipulating bacteria 
+ hammer’s lab specializes in manipulating proteins of organisms such as bacteria and viruses to create novel fusions. among the techniques available is the new crispr-cas, the gene-editing technology that was the subject of a nobel prize in 2020, but other more traditional techniques may also be used to get the influenza surface protein where the researchers want it to be. 
+ among the challenges ahead is that adding a new component to bacterial organisms can be difficult. 
+ “in general, bacteria have evolved with the genetic components they need to survive,” farrell explained. “if you add something else, they may just kick it out. it’s very hard to find a neutral location in the bacterial genome where we can stably add new functionality. this is especially true for this effort, in which there will be no cointroduction of antimicrobial resistance markers.” 
+ in addition, the probiotic bacteria strains that are widely used in research as model organisms, or “lab rats,” are adapted to living in laboratory conditions. this project, however, will use natural commensal strains that co-exist in humans. that approach may make it even more challenging to add the appropriate material for expressing the viral proteins on the bacteria cell surfaces, hammer said. 
+ “we used to perceive that genes could be shuffled around in the bacteria without much effect on them, but we’re learning now that location really matters,” he said. “one of the concerns is that tools that work on the ‘lab rat’ versions of these bacteria will not be as readily accepted by these commensals.” 
+ as part of the project, the researchers will have to show that the addition of the protein doesn’t cause instability in the bacteria, and that the modified bacteria generate the correct response when exposed to human immune cells in culture. 
+ proof of concept could lead to broader vaccine therapies 
+ beyond its importance to the military, influenza was chosen to study this adjuvant approach because a number of vaccines exist for this virus, and they have been well studied over the years. if this approach works with influenza, the combination of pill and injection might be useful for vaccines against other respiratory viruses. 
+ “if this is ultimately successful, it could be the first foray into showing that these vehicles, these probiotics, could potentially be scaled up for lots of different therapeutic uses,” said hammer. “by customizing the cargo, this approach could be rapidly adapted to address new and emerging threats that may arise in the future.” 
+ project provides student opportunity 
+ the two-year project life was chosen because of the expected difficulty – and because another of its goals is to train a master’s degree student in the bacterial modification techniques being utilized. 
+ the georgia tech researchers have chosen an underrepresented minority student who holds an undergraduate degree in biology from kennesaw state university and has worked in a commercial dna laboratory. katrina lancaster will begin work on this project during fall semester, collaborating with both hammer and farrell – and the students and other researchers in their labs. 
+ “this student will have excellent opportunities, not only to learn the skills in the lab and take the coursework, but also to develop a rich network of connections, both in the school of biological sciences and at gtri, that will be helpful in moving forward and advancing their career,” hammer said. “it’s a really beautiful combination of components for this project.” 
+ the project is funded through the afrl’s minority leaders research collaboration program (ml-rcp). 
+ “partnering with academic institutions, such as gtri, presents great opportunities for our team to interact and work with top minds in these fields to develop better outcomes for everyone,” agans said. “we are especially grateful for the opportunity to mentor and provide opportunities for underrepresented students with stem aspirations. we are excited to work with gtri in this endeavor and envision this being just the first step.” 
+ usafsam is part of the air force research laboratory’s 711th human performance wing. 
+ writer: john toon (john.toon@gtri.gatech.edu) 
+ gtri communications 
+ georgia tech research institute 
+ atlanta, georgia 
+ this story first appeared in the 
+ gtri newsroom . 
+ additional images 
+ contact 
+ jess hunt-ralston 
+ director of communications 
+ college of sciences at georgia tech 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

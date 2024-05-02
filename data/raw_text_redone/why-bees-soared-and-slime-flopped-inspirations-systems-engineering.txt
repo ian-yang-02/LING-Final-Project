@@ -1,0 +1,45 @@
+why bees soared and slime flopped as inspirations for systems engineering 
+ nature can serve as a wonderful model for engineering, but it can also flop. 
+ feb 19, 2018 
+ — atlanta, ga 
+ bees? great. ants? hit or miss. slime mold amoebas? fail. though nature offers excellent design inspirations in some information technology systems, in other systems, it can bomb. 
+ known for his work on  the honey bee algorithm , which tamed web traffic instabilities on servers by mimicking the behavior of bee colonies, systems researcher craig tovey has seen plenty of nature-inspired technological feats, but also foibles. he shared them in a talk on february 18 at the annual meeting of the american association for the advancement of science in austin, texas. 
+ in 2016, the bee-inspired algorithm garnered tovey and his collaborators  a golden goose award , which commends curiosity-driven research as it blossoms to palpably benefit society. the honey bee algorithm, for example, has saved significant web hosting costs. 
+ “we lucked out with the bees and web hosting,” said tovey, who hopes that along with practical takeaways on naturally inspired technology, his audience will also share in his own awe and affection for nature’s solutions. 
+ when algorithms are eternal 
+ “when you study swarming bees, you discover truths that are lasting. the algorithms that guide them evolved over millions of years, and will hopefully still be there for millions of years to come,” said tovey, a co-director of  georgia tech’s center for biologically inspired design . “compare that with when you design a new microcircuit. three years later it’s gone, forever lost; replaced by new designs.” 
+ whether mimicking nature is prudent in a particular engineering job depends a lot on the problem to be solved. often, it’s just better to use something off the shelf or adapt it. 
+ “when the real-life problem is static and well-defined with predictable data, then the nature-inspired methods are usually much weaker, much worse than classical optimization methods,” tovey said. 
+ when boring is better 
+ the “traveling salesman problem” is a typical example. a researcher tries to compute the best pathways a proverbial salesperson should travel, and in which order, to visit hundreds, thousands, or tens of thousands of proverbial cities on a map. 
+ the goal is to travel the shortest possible total distance. 
+ “nature-inspired approaches will find good solutions for 100 or so cities, but not optimal ones,” said tovey, who is also  a professor and stewart faculty fellow in georgia tech’s stewart school of industrial and systems engineering . “by contrast, the top researchers can solve 20,000 or 50,000 locations optimally with a classical algorithm, and do it really quickly.” 
+ when ants miss and hit 
+ “people have imitated ants to find the optimal pathways through a static system, and when you compare that method with classical optimization methods, then the classical methods are about 10 billion times better.” 
+ but life is fickle, which can make it a great teacher in science and engineering. “every living creature is very good at solving a number of different problems, otherwise it would have gone extinct,” tovey said. 
+ toss unpredictability into an engineering problem, and natural algorithms that direct the movements of ants or bees can be better equipped to cope than classical solutions. 
+ “in the traveling salesman problem, the cities don’t move around. but when you’re chasing a moving target, and your data isn’t perfectly complete, then you can have great success by imitating insect swarms. you can get real-time control on data that’s quite literally on the fly,” tovey said. 
+ when bees know best 
+ that counts for a lot in a pinch. when a hurricane looms, people check their weather apps much more frequently as the tempest encroaches. when markets tank, people sell off stocks, and data surges in and out of financial servers. 
+ “if the patterns of user demand on the web never changed, and the requests to a server always stayed the same, all would be well without imitating honeybees,” tovey said. “but that notion is ridiculous, as we all know.” 
+ “bees have evolved to deal with flower patches that have changing characteristics. a patch that is great to visit at 10 o’clock in the morning may have its flowers closed-up at one o’clock in the afternoon, or it may be raining.” 
+ algorithms steering bee behavior make the insect swarms adjust to supply and demand fluxes similar to those that confront a web server. the honeybees handed tovey and his fellow researchers valuable insights for their web hosting algorithm. 
+ when slime flops but amazes 
+ though classic algorithms beat nature in simple situations, watching natural algorithms in even the simplest organisms can be awe-inspiring. take slime mold, a non-cellular organism related to amoebas. 
+ “if you put down lumps of food near it, the slime mold will extend to reach the lumps and connect them with each other.” 
+ the mold makes very efficient connections that adapt well to differing constellations of food dabs. 
+ “some researchers placed food sources in spots corresponding to the locations of cities in japan that were connected by rail lines, and sure enough, the slime mold eventually settled on a configuration connecting the spots that nearly perfectly matched the rail network that actually connected the cities,” tovey said. 
+ again here, classic algorithms do the job better, but still, that slime is just amazing. 
+ for all his awe of bees, tovey has had to avoid making their acquaintance in person and leave the bee-handling to his collaborators. “i and my whole family are all extremely allergic to bee stings,” tovey said. “we keep epipens around the house.” 
+ the honey bee algorithm team that received the 2016 golden goose was comprised of: tovey, john hagood vande vate, john bartholdi iii, and sunil nakrani of georgia tech, and thomas seeley of cornell university. the research was funded by the national science foundation and the office of naval research. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ additional images 
+ contact 
+ writer & media representative : ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

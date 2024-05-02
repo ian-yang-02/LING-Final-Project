@@ -1,0 +1,43 @@
+COVID-19 Info Dashboards Come to the CDC With Georgia Tech Help
+New dashboards at the Centers for Disease Control and Prevention (CDC) are sorting public health data to make it more productive, with the help of researchers from the Georgia Tech Research Institute (GTRI).
+Transmission electron microscopic image from the first U.S. case of COVID-19. The spherical viral particles, colorized blue, contain cross-section through the viral genome, seen as black dots. (Credit: Centers for Disease Control and Prevention)
+Jul 21, 2020
+— Atlanta, GA
+The maelstrom of a pandemic can generate messy data, especially in the beginning. But new dashboards at the Centers for Disease Control and Prevention (CDC) are sorting public health data to make it more productive, with the help of researchers from the
+Georgia Tech Research Institute
+(GTRI).
+One of the dashboards
+was recently made accessible to the public.
+“The main value of that dashboard is tracking the relationship between human mobility – whether it’s people going to stores or for entertainment or to workplaces – and the COVID-19 case counts and death counts,” said Jason Poovey, head of the High-Performance Computing and Data Analytics branch at GTRI.
+The dashboard’s main pane displays total numbers of confirmed infections and deaths for the nation and also breaks them down for individual states and counties. On other pages, graphs trace people’s presence at places such as shopping malls, restaurants, and transit stations – using data from Google and other sources – and display this together with graphs of COVID-19 data. On another page, trend lines for infection and death rates appear alongside trends for coronavirus testing.
+“Understanding the timing and potential impact of stay-at-home or shelter-in-place policies on human mobility and COVID-19 transmission patterns can assist state and local public health partners in modifying these orders over the course of the COVID-19 pandemic,” said Macarena Garcia, CDC’s chief data scientist for the CDC COVID-19 Response. “In addition, dashboards increase the understanding of when and how to fully implement these strategies in future outbreaks where community mitigation may be required.”
+Internal dashboards
+In addition, COVID-19 responders and researchers at the CDC are using about a dozen internally facing dashboards built by the GTRI team to move data from CDC reports and presentations to a visualization platform. This allows the team to regularly update the data and make it widely accessible. Each dashboard is tailored to individual task force needs.
+“There are different aspects to the COVID-19 response and each group is handling a different part of it, so they each have different needs. One group might be cross-referencing data with outbreak hotspots. Another group may want to track mobility versus new infections by segments of the population,” Poovey said.
+“Some groups are directly doing COVID-19 response on the ground; others are doing studies using existing data, and we support both sides,” said Charity Hilton, a health data analytics research scientist at GTRI and lead of the COVID-19 task group with the CDC. “We will also be working with the CDC’s international task force on COVID-19 to help them collect and analyze global data.”
+“We have worked closely with GTRI on the design and operationalization of data analytic tools and products to inform CDC response activities across many task forces,” said CDC’s Garcia. “Our focused collaboration with GTRI on meeting emerging analytic needs across the response has resulted in quicker and more efficient tracking of localized outbreaks in the United States.”
+COVID-19 pivot
+When COVID-19 hit, GTRI engineers were already in place due to other collaborations with the CDC.
+“We have had a series of projects with CDC since October 2019 to get health data into useful platforms. We were able to pivot very quickly to COVID-19 work,” said Jon Duke, a medical doctor and health informatics expert who leads the Center for Health Analytics and Informatics at GTRI.
+The COVID-19 case and testing data are taken mainly from USAfacts.org, a public information outlet that publishes data compiled by government agencies. Testing and case numbers are updated on the public-facing CDC COVID-19 dashboard every day.
+Data on how people move about in their daily lives comes from various anonymized mobile phone sources. They include Google mobility reports at the county level, anonymous GPS data from mobile carriers, and a mobile data service called Cuebiq Mobility, which provides median distances cell phone users travel over time.
+Distancing data
+The group will create more custom dashboards to meet CDC COVID-19 groups’ needs and expand many of the existing dashboards, including the public one.
+“We just added news report scouring, so the public can get a daily list of news from hotspot counties, and people can see corresponding reports of outbreaks maybe at a meatpacking plant or in a nursing home. Or they can see where there has been a boost in testing,” Hilton said.
+The public dashboard also provides easy access to data that is usually harder to find, such as local stay-at-home orders, travel restrictions, and public health laws. The GTRI team is also working to help Georgia Tech pandemic researchers who are modeling the development of COVID-19 in the state of Georgia by organizing data reflecting the population’s degree of adherence to social distancing.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : Ben Brumfield
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

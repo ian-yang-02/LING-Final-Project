@@ -1,0 +1,39 @@
+How Protein Misfolding May Kickstart Chemical Evolution
+Abnormal folding of proteins may help explain the emergence of life.
+Researchers from Emory University and Georgia Tech have demonstrated the connection between abnormal folding of proteins and the emergence of life. Shown are Martha Grover, a professor in the Georgia Tech School of Chemical &amp; Biomolecular Engineering and graduate research assistant Ming-Chien Hsieh. (Credit: Rob Felt, Georgia Tech)
+Feb 27, 2017
+— Atlanta, GA
+Alzheimer’s disease, and other neurodegenerative conditions involving abnormal folding of proteins, may help explain the emergence of life – and how to create it.
+Researchers at Emory University and Georgia Tech demonstrated this connection in two new papers published by
+Nature Chemistry : “Design of multi-phase dynamic chemical networks” and “Catalytic diversity in self-propagating peptide assemblies.”
+“In the first paper we showed that you can create tension between a chemical and physical system to give rise to more complex systems. And in the second paper, we showed that these complex systems can have remarkable and unexpected functions,” said
+David Lynn , a systems chemist at Emory who led the research. “The work was inspired by our current understanding of Darwinian selection of protein misfolding in neurodegenerative diseases.”
+The
+Lynn lab
+is exploring ways to potentially control and direct the processes of these proteins – known as prions – adding to knowledge that might one day help to prevent disease, as well as open new realms of synthetic biology. For the current papers, Emory collaborated with the research group of
+Martha Grover , a professor in the Georgia Tech
+School of Chemical & Biomolecular Engineering , to develop molecular models for the processes.
+Darwin’s theory of evolution by natural selection is well-established – organisms adapt over time in response to environmental changes. But theories about how life emerges – the movement through a pre-Darwinian world to the Darwinian threshold – remain murkier.
+The researchers started with single peptides and engineered in the capacity to spontaneously form small proteins, or short polymers. “These protein polymers can fold into a seemingly endless array of forms, and sometimes behave like origami,” Lynn explained. “They can stack into assemblies that carry new functions, like prions that move from cell-to-cell, causing disease.”
+This protein misfolding provided the model for how physical changes could carry information with function, a critical component for evolution. To try to kickstart that evolution, the researchers engineered a chemical system of peptides and coupled it to the physical system of protein misfolding. The combination results in a system that generates step-by-step, progressive changes, through self-driven environmental changes.
+“The folding events, or phase changes, drive the chemistry and the chemistry drives the replication of the protein molecules,” Lynn said. “The simple system we designed requires only the initial intervention from us to achieve progressive growth in molecular order. The challenge now becomes the discovery of positive feedback mechanisms that allow the system to continue to grow.”
+The researchers used mathematical modeling to help guide the experimental work.
+“Modeling requires us to formulate our hypotheses in the language of mathematics, and then we use the models to design further experiments to test the hypotheses,” said Grover. “In this project, the hypotheses were sometimes invalidated by these further experiments, but ultimately this led us to a better understanding of the underlying chemical and physical events and their interactions."
+The research was funded by the McDonnell Foundation, the National Science Foundation’s Materials Science Directorate, Emory University’s Alzheimer’s Disease Research Center, the National Science Foundation’s Center for Chemical Evolution and the Office of Basic Energy Sciences of the U.S. Department of Energy.
+Additional co-authors of the papers include: Toluople Omosun, Seth Childers, Dibyendu Das and Anil Mehta (Emory Departments of Chemistry and Biology); Ming-Chien Hsieh (Georgia Tech School of Chemical & Biomolecular Engineering); and Neil Anthony and Keith Berland (Emory Department of Physics).
+- Written by Carol Clark, Emory University
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact s: John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu).
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

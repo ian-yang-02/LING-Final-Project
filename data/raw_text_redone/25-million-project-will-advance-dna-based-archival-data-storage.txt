@@ -1,0 +1,39 @@
+$25 million project will advance dna-based archival data storage 
+ a new research initiative is using dna as an efficient and robust archival storage medium. 
+ gtri researchers brooke beckert, nicholas guise, alexa harter and adam meier are shown outside the cleanroom of the institute for electronics and nanotechnology at the georgia institute of technology. device fabrication for the dna data storage project will be done in the facility behind them. (credit: branden camp, georgia tech) 
+ jan 16, 2020 
+ — atlanta, ga 
+ the demand for archival data storage has been skyrocketing, and if a new research initiative reaches its goals, that need could be met by taking advantage of an efficient and robust information storage medium that has proven itself through the centuries: the biopolymer dna. 
+ the intelligence advanced research projects activity’s (iarpa) molecular information storage (mist) program has awarded a multi-phase contract worth up to $25 million to develop scalable dna-based molecular storage techniques. the goal of the project, which will be led by the 
+ georgia tech research institute 
+ (gtri), is to use dna as the basis for deployable storage technologies that can eventually scale into the exabyte regime and beyond with reduced physical footprint, power and cost requirements relative to conventional storage technologies. 
+ the technology already exists for storing and reading information into dna — which also encodes the genetic blueprint for living organisms — but significant advances will be needed to make it commercially practical and cost competitive with established magnetic tape and optical disk memory. while current archival storage has a limited lifetime, information stored in dna could last for hundreds of years. 
+ “the goal is to significantly reduce the size, weight and power required for archival data storage,” said alexa harter, director of gtri’s cybersecurity, information protection, and hardware evaluation research (cipher) laboratory. “what would take acres in a data farm today could be kept in a device the size of the tabletop. we want to significantly improve all kinds of metrics for long-term data storage.” 
+ the scalable molecular archival software and hardware (smash) project resulted from a proposal prepared by gtri, san francisco-based twist bioscience, san diego-based roswell biotechnologies, and the university of washington in collaboration with microsoft. 
+ in the project plans, twist will engineer a dna synthesis platform on silicon that “writes” the dna strands that carry the data. roswell will provide dna sequencing, or "reading" technology, and the university of washington – in collaboration with microsoft – will bring system architecture, data analysis and coding expertise to the project. at georgia tech, the project will involve fabrication facilities at the institute for electronics and nanotechnology and researchers in such specialties as chemistry and information theory, who will also draw from four of gtri’s eight laboratories. 
+ “the reason people are looking at dna for storage is that it has evolved over the ages as a very compact and reliable means of information storage,” said nicholas guise, a gtri senior research scientist. “it’s so compact that a practical dna archive could store an exabyte of data—equivalent to a million terabyte hard drives—in a volume about the size of a sugar cube. scientists have been able to read dna from animals that died centuries ago, so the data lasts essentially forever under the right conditions.” 
+ technology for encoding and decoding dna works at small scales today, but to be useful for commercial archival purposes, researchers will have to scale up the production of synthetic dna, reliably connect it to established computing systems and improve the speed of the data writing and reading process. the project goal would be to encode and decode terabytes of data in a day at costs and rates more than 100 times better than current technologies. 
+ dna data storage won’t initially replace server farms for information that must be accessed quickly and often. because of the time required for reading and decoding, the technique would be useful for information that must be kept indefinitely, but accessed infrequently. 
+ part of the technical challenge is interfacing the dna with standard cmos electronic technologies. the researchers plan to build hybrid chips in which the dna grows above layers containing the electronics. the overall project will leverage the efficiencies of current semiconductor technologies, said brooke beckert, a gtri research engineer. 
+ “we’ll be working with commercial foundries, so when we get the processing right, it should be much easier to transition the technology over to them,” she said. “connecting to the existing technology infrastructure is a critical part of this project, but we’ll have to custom-make most of the components in the first stage.” 
+ among the challenges will be managing the tradeoffs between speed and error, said guise. “the issue is how far down we can scale this without introducing too many errors,” he said. “the basic synthesis is proven at a scale of hundreds of microns. we want to shrink that by a factor of 100, which leads us to worry about such issues as crosstalk between different dna strands in adjacent locations on the chips.” 
+ current technology uses modified inkjet printing to produce the dna strands, but the smash project plans to grow the biopolymer more rapidly and in larger quantities using parallelized synthesis on the hybrid chips. 
+ to achieve the major advances in reading cost and speed required, the program will rely on the molecular electronic dna reader chips under development at roswell. the data will be read from dna strands using a molecular electronic sensor array chip, on which single molecules are drawn through nanoscale current meters that measure electrical signatures of each letter in the sequence.  for biomedical applications, the sequencing industry has been focused on a goal of achieving a $1,000 human genome. the dna reading goals of this program amount to delivering a $10 genome, and that will require a major technology disruption. 
+ the researchers acknowledge the challenges ahead in bringing their devices to commercial scale. 
+ “we don’t see any killers ahead for this technology,” said adam meier, a gtri senior research scientist. “there is a lot of emerging technology and doing this commercially will require many orders of magnitude improvement. magnetic tape for archival storage has been improving steadily for 60 years, and this investment from iarpa will power the advancements needed to make dna storage competitive with that." 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

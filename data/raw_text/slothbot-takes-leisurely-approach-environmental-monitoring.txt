@@ -1,0 +1,42 @@
+Slothbot Takes a Leisurely Approach to Environmental Monitoring
+Slow and energy-efficient SlothBot will handle environmental monitoring and other tasks.
+Graduate Research Assistant Gennaro Notomista shows the components of SlothBot on a cable in a Georgia Tech lab. The robot is designed to be slow and energy efficient for applications such as environmental monitoring. (Photo: Allison Carter, Georgia Tech)
+May 30, 2019
+— Atlanta, GA
+For environmental monitoring, precision agriculture, infrastructure maintenance and certain security applications, slow and energy efficient can be better than fast and always needing a recharge. That’s where “SlothBot” comes in.
+Powered by a pair of photovoltaic panels and designed to linger in the forest canopy continuously for months, SlothBot moves only when it must to measure environmental changes – such as weather and chemical factors in the environment – that can be observed only with a long-term presence. The proof-of-concept hyper-efficient robot, described May 21 at the International Conference on Robotics and Automation (ICRA) in Montreal, may soon be hanging out among treetop cables in the Atlanta Botanical Garden.
+“In robotics, it seems we are always pushing for faster, more agile and more extreme robots,” said
+Magnus Egerstedt , the Steve W. Chaddick School Chair of the School of Electrical and Computer Engineering at the Georgia Institute of Technology and principal investigator for Slothbot. “But there are many applications where there is no need to be fast. You just have to be out there persistently over long periods of time, observing what’s going on.”
+Based on what Egerstedt called the “theory of slowness,” Graduate Research Assistant Gennaro Notomista designed SlothBot together with his colleague, Yousef Emam, using 3D-printed parts for the gearing and wire-switching mechanisms needed to crawl through a network of wires in the trees. The greatest challenge for a wire-crawling robot is switching from one cable to another without falling, Notomista said.
+“The challenge is smoothly holding onto one wire while grabbing another,” he said. “It’s a tricky maneuver and you have to do it right to provide a fail-safe transition. Making sure the switches work well over long periods of time is really the biggest challenge.”
+Mechanically, SlothBot consists of two bodies connected by an actuated hinge. Each body houses a driving motor connected to a rim on which a tire is mounted. The use of wheels for locomotion is simple, energy efficient and safer than other types of wire-based locomotion, the researchers say.
+SlothBot has so far operated in a network of cables on the Georgia Tech campus. Next, a new 3D-printed shell – that makes the robot look more like a sloth – will protect the motors, gears, actuators, cameras, computer and other components from the rain and wind. That will set the stage for longer-term studies in the tree canopy at the Atlanta Botanical Garden, where Egerstedt hopes visitors will see a SlothBot monitoring conditions as early as this fall.
+The name SlothBot is not a coincidence. Real-life sloths are small mammals that live in jungle canopies of South and Central America. Making their living by eating tree leaves, the animals can survive on the daily caloric equivalent of a small potato. With their slow metabolism, sloths rest as much 22 hours a day and seldom descend from the trees where they can spend their entire lives.
+“The life of a sloth is pretty slow-moving and there’s not a lot of excitement on a day-to-day level,” said Jonathan Pauli, an associate professor in the Department of Forest & Wildlife Ecology at the University of Wisconsin-Madison, who has consulted with the Georgia Tech team on the project. “The nice thing about a very slow life history is that you don’t really need a lot of energy input. You can have a long duration and persistence in a limited area with very little energy inputs over a long period of time.”
+That’s exactly what the researchers expect from SlothBot, whose development has been funded by the U.S. Office of Naval Research.
+“There is a lot we don’t know about what actually happens under dense tree-covered areas,” Egerstedt said. “Most of the time SlothBot will be just hanging out there, and every now and then it will move into a sunny spot to recharge the battery.”
+The researchers also hope to test SlothBot in a cacao plantation in Costa Rica that is already home to real sloths. “The cables used to move cacao have become a sloth superhighway because the animals find them useful to move around,” Egerstedt said. “If all goes well, we will deploy SlothBots along the cables to monitor the sloths.”
+Egerstedt is known for algorithms that drive swarms of small wheeled or flying robots. But during a visit to Costa Rica, he became interested in sloths and began developing what he calls “a theory of slowness” together with Professor Ron Arkin in Georgia Tech’s School of Interactive Computing. The theory leverages the benefits of energy efficiency.
+“If you are doing things like environmental monitoring, you want to be out in the forest for months,” Egerstedt said. “That changes the way you think about control systems at a high level.”
+Flying robots are already used for environmental monitoring, but their high energy needs mean they cannot linger for long. Wheeled robots can get by with less energy, but they can get stuck in mud or be hampered by tree roots, and cannot get a big picture view from the ground.
+“The thing that costs energy more than anything else is movement,” Egerstedt said. “Moving is much more expensive than sensing or thinking. For environmental robots, you should only move when you absolutely have to. We had to think about what that would be like.”
+For Pauli, who studies a variety of wildlife, working with Egerstedt to help SlothBot come to life has been gratifying.
+“It is great to see a robot inspired by the biology of sloths,” he said. “It has been fun to share how sloths and other organisms that live in these ecosystems for long periods of time live their lives. It will be interesting to see robots mirroring what we see in natural ecological communities.”
+This research was sponsored by the U.S. Office of Naval Research through Grant N00014-15-2115. The content is solely the responsibility of the authors and does not necessarily represent the official views of the ONR.
+CITATION : "The SlothBot: A Novel Design for a Wire-Traversing Robot," IEEE Robotics and Automation Letters, (Volume 4, Issue 2, April 2019)   https://ieeexplore.ieee.org/document/8642808
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

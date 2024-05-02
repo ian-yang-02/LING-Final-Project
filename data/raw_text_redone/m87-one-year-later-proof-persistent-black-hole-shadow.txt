@@ -1,0 +1,83 @@
+m87* one year later: proof of a persistent black hole shadow 
+ the event horizon telescope (eht) collaboration has released new images of m87*, the supermassive black hole at the center of the galaxy messier 87, using data from observations taken in april 2018. 
+ jan 18, 2024 
+ this press release is 
+ shared jointly 
+ with the event horizon telescope newsroom. 
+ the event horizon telescope (eht) collaboration has released new images of m87*, the supermassive black hole at the center of the galaxy messier 87, using data from observations taken in april 2018. 
+ with the participation of the newly commissioned greenland telescope and a dramatically improved recording rate across the array, the 2018 observations give researchers a view of the source independent from the first observations in 2017. 
+ “this persistence is a remarkable confirmation of our earlier interpretation that the eht images do reveal the shadow of the black hole — and strengthens the tests of einstein’s theories that we have performed,” says 
+ dimitrios psaltis , professor in the 
+ school of physics 
+ at the 
+ georgia institute of technology 
+ who served as eht project scientist at the time of the 2019 announcement. 
+ psaltis and georgia tech school of physics chair 
+ feryal özel 
+ are members of the eht collaboration, and are the scientists who developed many of the theoretical tools to analyze and interpret the images. 
+ “modeling the image features of this black hole across observations that span many years — and comparing them to the images of the black hole in the center of our milky way — already provide powerful checks on our plasma models” says özel, who led the 2022 announcement of the image of the milky way black hole. 
+ new era of black hole imaging 
+ a 
+ recent paper 
+ published in the journal 
+ astronomy & astrophysics 
+ presents the team’s new images from the 2018 data that reveal a familiar ring the same size as the one observed in 2017. this bright ring surrounds a deep central depression, “the shadow of the black hole,” as predicted by general relativity. excitingly, the brightness peak of the ring has shifted by about 30º compared to the images from 2017, which is consistent with our theoretical understanding of variability from turbulent material around black holes. 
+ “a fundamental requirement of science is to be able to reproduce results,” says 
+ keiichi asada , an associate research fellow at academia sinica institute for astronomy and astrophysics in taiwan. “confirmation of the ring in a completely new data set is a huge milestone for our collaboration and a strong indication that we 
+ are looking at a black hole shadow and the material orbiting around it.” 
+ in 2017, the eht took the first image of a black hole. this object, m87*, is the beating heart of the giant elliptical galaxy messier 87 and lives 55 million light years away from earth. the image of the black hole revealed a bright circular ring, brighter in the southern part of the ring. further analysis of the data also revealed the structure of m87* in polarized light, giving us greater insight into the geometry of the magnetic field and the nature of the plasma around the black hole. 
+ the new era of black hole direct imaging, spearheaded by the extensive analysis of the 2017 observations of m87*, opened a new window that let researchers investigate black hole astrophysics and allow them to test the theory of general relativity at a fundamental level. 
+ “our theoretical models tell us that the state of the material around m87* should be uncorrelated between 2017 and 2018,” eht researchers 
+ explain . “thus, multiple observations of m87* will help us place independent constraints on the plasma and magnetic field structure around the black hole and help us disentangle the complicated astrophysics from the effects of general relativity.” 
+ greenland telescope 
+ to help accomplish new and exciting science, the eht is under continuous development. the greenland telescope joined the eht for the first time in 2018, just five months after its construction was completed far above the arctic circle. this new telescope significantly improved the image fidelity of the eht array, improving the coverage, particularly in the north-south direction. the large millimeter telescope also participated for the first time with its full 50 m surface, greatly improving its sensitivity. the eht array was also upgraded to observe in four frequency bands around 230 ghz, compared to only two bands in 2017. 
+ repeated observations with an improved array are essential to demonstrate the robustness of our findings and strengthen our confidence in our results.  in addition to the groundbreaking science, the eht also serves as a technology testbed for cutting-edge developments in high-frequency radio interferometry. 
+ "advancing scientific endeavors requires continuous enhancement in data quality and analysis techniques," says 
+ rohan dahale , a ph.d. candidate at the 
+ instituto de astrofísica de andalucía 
+ (iaa-csic) in spain. "the inclusion of the greenland telescope in our array filled critical gaps in our earth-sized telescope. the 2021, 2022, and the forthcoming 2024 observations witness improvements to the array, fueling our enthusiasm to push the frontiers of black hole astrophysics." 
+ remarkably similar 
+ the analysis of the 2018 data features eight independent imaging and modeling techniques, including methods used in the previous 2017 analysis of m87* and new ones developed from the collaboration’s experience analyzing sgr a*. 
+ the eht team explains that the image of m87* taken in 2018 is remarkably similar to what they saw in 2017. “we see a bright ring of the same size, with a dark central region and one side of the ring brighter than the other. the mass and distance of m87* will not appreciably increase throughout a human lifetime, so general relativity predicts that the ring diameter should stay the same from year to year. the stability of the measured diameter in the images from 2017 to 2018 robustly supports the conclusion that m87* is well described by general relativity.” 
+ mass matters, brightness peak 
+ “one of the remarkable properties of a black hole is that its radius is strongly dependent on only one quantity: its mass,” says 
+ nitika yadlapalli yurk , a former graduate student at the california institute of technology (caltech), now a postdoctoral fellow at the nasa jet propulsion laboratory (jpl) in california. “since m87* is not accreting material (which would increase its mass) at a rapid rate, general relativity tells us that its radius will remain fairly unchanged over human history. it’s pretty exciting to see that our data confirm this prediction.” 
+ while the size of the black hole shadow did not change between 2017 and 2018, the location of the brightest region around the ring did change significantly, the team adds. the bright region rotated about 30º counterclockwise to settle in the bottom right part of the ring at about the 5 o’clock position. 
+ historical observations of m87* with a less sensitive array and fewer telescopes also indicated that the shadow structure changes yearly (wielgus 2020, apj, 
+ 901 , 
+ 67 ) but with less precision. while the 2018 eht array still cannot observe the jet emerging from m87*, the black hole spin axis predicted from the location of the brightest region around the ring is more consistent with the jet axis seen at other wavelengths. 
+ “the biggest change, that the brightness peak shifted around the ring, is actually something we predicted when we published the first results in 2019,” says 
+ britt jeter , a postdoctoral fellow at academia sinica institute for astronomy and astrophysics in taiwan. “while general relativity says the ring size should stay pretty fixed, the emission from the turbulent, messy accretion disk around the black hole will cause the brightest part of the ring to wobble around a common center. the amount of wobble we see over time is something we can use to test our theories for the magnetic field and plasma environment around the black hole.” 
+ 2024 and beyond 
+ “while all the eht papers published so far have featured an analysis of our first observations in 2017,” the research team adds, “this result represents the first efforts to explore the many additional years of data the eht collaboration has collected.” in addition to 2017 and 2018, the eht conducted successful observations in 2021 and 2022 and is scheduled to observe in the first half of 2024. each year, the eht array has improved in some way, either through the addition of new telescopes, better hardware, or additional observing frequencies. “within the collaboration, we are working very hard to analyze all this data and are excited to show you more results in the future.” 
+ # # # 
+ doi: 
+ https: / / doi.org / 10.1051 / 0004-6361 / 202347932 
+ about eht 
+ the eht collaboration involves more than 300 researchers from africa, asia, europe, and north and south america. the international collaboration is working to capture the most detailed black hole images ever obtained by creating a virtual earth-sized telescope. supported by considerable international investment, the eht links existing telescopes using novel systems, creating a fundamentally new instrument with the highest angular resolving power that has yet been achieved. 
+ the individual telescopes involved are alma, apex, the iram 30-meter telescope, the iram noema observatory, the james clerk maxwell telescope (jcmt), the large millimeter telescope (lmt), the submillimeter array (sma), the submillimeter telescope (smt), the south pole telescope (spt), the kitt peak telescope, and the greenland telescope (glt).  data were correlated at the max-planck-institut für radioastronomie (mpifr) and mit haystack observatory.  the postprocessing was done within the collaboration by an international team at different institutions. 
+ the eht consortium consists of 13 stakeholder institutes: the academia sinica institute of astronomy and astrophysics, the university of arizona, the university of chicago, the east asian observatory, goethe-universitaet frankfurt, institut de radioastronomie millimétrique, large millimeter telescope, max planck institute for radio astronomy, mit haystack observatory, national astronomical observatory of japan, perimeter institute for theoretical physics, radboud university, and the smithsonian astrophysical observatory. 
+ about georgia tech 
+ the 
+ georgia institute of technology, 
+ or 
+ georgia tech, 
+ is one of the top public research universities in the u.s., developing leaders who advance technology and improve the human condition. 
+ the institute offers  business, computing, design, engineering, liberal arts, and sciences 
+ degrees. its more than 45,000 undergraduate and graduate students, representing 50 states and more than 148 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. 
+ as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ image: 
+ the event horizon telescope collaboration has released new images of m87* from observations taken in april 2018, one year after the first observations in april 2017. the new observations in 2018, which feature the first participation of the greenland telescope, reveal a familiar, bright ring of emission of the same size as we found in 2017.  this bright ring surrounds a dark central shadow, and the brightest part of the ring in 2018 has shifted by about 30º relative from 2017 to now lie in the 5 o’clock position. (credit: eht collaboration) 
+ additional media 
+ related links 
+ a sharper look at the m87 black hole 
+ contact 
+ jess hunt-ralston 
+ director of communications 
+ college of sciences at georgia tech 
+ eht contacts 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

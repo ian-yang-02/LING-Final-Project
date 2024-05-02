@@ -1,0 +1,45 @@
+creative destruction: williams lab probes the evolution of proteins 
+ georgia tech researchers apply an economics theory to study the building blocks of biological evolution 
+ mar 06, 2023 
+ proteins have been around a lot longer than we have – as building blocks of biological evolution, our existence depends on them. and now, researchers at the georgia institute of technology are applying a 20 th -century theoretical concept to study how proteins evolve, and it might lead to the answer of one of humanity’s oldest questions: how did we become us? 
+ inside a typical human cell are tens of thousands of proteins. we need so many because proteins are the skilled laborers of the cell with each one performing a specific job. some lend firmness to muscle cells or neurons. others bind to specific, targeted molecules, ferrying them to new locations. and there are others that activate the process of cell division and growth. 
+ a protein’s specific function depends on its shape, and to achieve its functional shape – it’s native state – a protein folds.  a protein begins its life as a long chain of amino acids, called a polypeptide. the sequence of amino acids determines how the protein chain will fold and form a complex, 3d structure that allow the protein to perform an intended task. 
+ in the 
+ lab of loren williams , researchers are using “creative destruction” as a model for protein fold evolution and innovation. the term, coined by austrian economist and political scientist joseph schumpeter in the 1940s, describes the deliberate dismantling of an established thing, like the wired telephone, to develop a new thing, like the smart phone. 
+ “we have protein structures that have evolved over almost four billion years, and we don’t really understand where they came from or how they came to be what they are,” said claudia alvarez-carreño, a postdoctoral researcher in the williams lab, which is called the 
+ center for the origin of life, or cool. 
+ “it’s a very complex process forming these structures, and there are many hypotheses on how they could have emerged in early evolution.” 
+ out with the old, in with the new 
+ alvarez-carreño is the lead author of the paper, 
+ “creative destruction: new protein folds from old,” 
+ published recently in the journal 
+ proceedings of the national academy of sciences , or 
+ pnas . she and her co-authors (williams, rohan gupta, and anton petrov) excavated the deepest evolutionary history found within the translation machinery – which resides within all cells in the ribosome and is the birthplace of all proteins. 
+ the researchers provide evidence supporting the common origins of some of the simplest, oldest, and most common protein folds. it suggests a form of creative destruction at work, explaining how simple protein folds spawn more complex folds. 
+ they discovered that once a protein can fold and achieve its 3d structure, when it is combined with another protein which has folded into a different 3d structure, that combination can easily become a new structure. “so maybe it’s not as difficult as we thought to go from one structure to another,” said williams, professor in the 
+ school of chemistry and biochemistry . “and maybe this can explain the diversity of protein structures that we see today.” 
+ in schumpter’s creative destruction model, developing “daughter products” involves the destruction of ancestral products. “daughter products can inherit features of ancestors but can in essence be different from them,” they write in the paper. in the smart phone example ancestral wired phones, computers, cameras, global positioning, and other technologies that are merged to create a daughter, i.e. the smart phone. 
+ the daughter inherits many features of the ancestors. these features, which interact in specific ways in the daughter, create new functional niches that were not accessible, or even possible, in the ancestors. 
+ “so, the creative destruction of protein folds might account for a lot of the diversity we see,” williams said. 
+ molecular mergers 
+ ever since the simplest and most ancient protein folds emerged on earth billions of years ago, the number of folds has expanded to form the universe of protein function we see in modern biology. 
+ but the origins of protein folds and the evolutionary mechanisms at play pose central questions in biology that williams and his team considered. for instance, how did protein folds arise, and what led to the diverse set of protein folds in contemporary biological systems, and why did nearly four billion years of fold evolution produce fewer than 2,000 distinct folds? 
+ the researchers believe that creative destruction can be generalized to explain a lot of this. 
+ in creative destruction, they explain, one open reading frame – the span of dna sequence that encodes a protein  – merges with another to produce a fused polypeptide. the merger forces these two ancestors into a new structure. the resulting polypeptide can achieve a form that was inaccessible to either of the independent ancestors, before the merger. but these new folds are not totally independent of the old. that is, a daughter fold inherits some things from the ancestral fold. 
+ this, broadly speaking, is what williams and his team observed, and they think their creative destruction model has some application in studying disease – proteins that fold improperly can impact the health of the cells and the human comprised of those cells. 
+ “for example, we think this process is important in the biology of cancer – there are many, many proteins that have fused and, we believe have refolded, in cancers,” said williams. “and there’s the world of protein aggregation diseases, like parkinson’s or alzheimers, and proteins that have not folded correctly, or have refolded.” 
+ but right now, williams and his team are most interested in how their creative destruction model helps them understand some of the deepest questions of our evolution. 
+ “like, where did we come from,” williams said. “creative destruction could help us understand where the proteins in our body came and how we came to be what we are.” 
+ citation: 
+ claudia alvarez-carreño, rohan j. gupta, anton s. petrov and loren dean williams. “creative destruction: new protein folds from old.” 
+ pnas journal . 
+ https: / / doi.org / 10.1073 / pnas.2207897119 
+ additional images 
+ contact 
+ writer: 
+ jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

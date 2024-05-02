@@ -1,0 +1,39 @@
+New Research in Origami Metamaterials Promises Wide Implications
+New research expands the understanding of origami structures, opening possibilities for mechanical metamaterials to be used in soft robotics and medical devices.
+Scaling of zipper tubes, which are the basic geometric elements of the zipper metamaterial. (Credit: Allison Carter, Georgia Tech)
+Jul 27, 2020
+— Atlanta, GA
+The simplicity and elegance of origami, an ancient Japanese art form, has motivated researchers to explore its application in the world of materials.
+New research from an interdisciplinary team, including Northwestern University’s
+Horacio Espinosa
+and
+Sridhar Krishnaswamy
+and the Georgia Institute of Technology’s
+Glaucio Paulino , aims to advance the creation and understanding of such folded structures for applications ranging from soft robotics to medical devices to energy harvesters.
+Inspired by origami, mechanical metamaterials — artificial structures with mechanical properties defined by their structure rather than their composition — have gained considerable attention because of their potential to yield deployable and highly tunable structures and materials.
+What wasn’t known was which structures integrate shape recoverability, pronounced directional mechanical properties, and reversible auxeticity — meaning their lateral dimensions can increase and then decrease when progressively squeezed. Though some 3D origami structures have been produced through additive manufacturing, achieving the folding properties displayed in ideal paper origami remained a challenge.
+Using nanoscale effects for an origami design, the team of researchers from Northwestern’s McCormick School of Engineering and Georgia Tech's School of Civil and Environmental Engineering sought to answer that question. They produced small, 3D, origami-built metamaterials, successfully retaining the best properties without resorting to artifacts to enable folding.
+“The created structures constitute the smallest fabricated origami architected metamaterials exhibiting an unprecedented combination of mechanical properties,” said Espinosa, the James and Nancy J. Farley Professor of Manufacturing and Entrepreneurship and professor of mechanical engineering and (by courtesy) biomedical engineering and civil and environmental engineering.
+“Our work demonstrated that rational design of metamaterials, with a large degree of shape recoverability and direction-dependent stiffness and deformation, is possible using origami designs, and that origami foldability enables a state where the material initially expands and subsequently contracts laterally (reversible auxeticity),” added Espinosa, who serves as director of Northwestern’s theoretical and applied mechanics graduate program. “Such properties promise to influence a number of applications across a wide range of fields encompassing the nano-, micro-, and macro-scales, leveraging the intrinsic scalability of origami assemblies.”
+“Guided by geometry, the scaling and miniaturization of the origami metamaterial are exciting in itself and by the unprecedented multifunctionality that it naturally enables,” said Paulino, the Raymond Allen Jones Chair in Georgia Tech’s School of Civil and Environmental Engineering.
+“Only an interdisciplinary effort combining origami design, 3D laser printing with nanoscale resolution, and in situ electron microscopy mechanical testing could reveal the unprecedented combination of properties our work demonstrated and their potential impact on future applications,” added Paulino, who contributed to establishing the National Science Foundation Emerging Frontiers in Research and Innovation program named ODISSEI (Origami Design for Integration of Self-assembling Systems for Engineering Innovation).
+“Just like nature has architected a wide range of structures using just a few material systems, origami allows us to engineer resilient structural components with distinct physical properties along different directions,” said Krishnaswamy, professor of mechanical engineering.
+“We can envision origami-based soft microrobots that are stiff along some directions to carry payloads while maintaining other degrees of flexibility for motion. Origami-metamaterials that exploit reversible auxeticity and large deformation can lead to multifunctional applications ranging from deployable microsurgical instruments and medical devices to energy steering and harvesting,” added Krishnaswamy, the director of Northwestern’s Center for Smart Structures and Materials.
+The study
+presents new avenues to be explored long term, Espinosa said.
+“There are a number of possibilities,” he said. “One is the fabrication of origami structures with ceramic and metallic materials, while preserving nanoscale dimensions, to exploit size effects in the mechanical response of the structures leading to superior energy dissipation per unit volume and mass. Another is the use of piezoelectric polymers, which can result in energy harvesters that can drive sensing modalities or power microsurgical tools.”
+The research, “ Folding at the Microscale: Enabling Multifunctional 3D Origami-Architected Metamaterials ” was published in the journal
+Small
+on July 27. Along with Espinosa, Krishnaswamy, and Paulino, coauthors include Northwestern’s Nicolas A. Alderete, Zhaowen Lin, and Heming Wei, and Larissa S. Novelino from Georgia Tech.
+The research was supported by the Army Research Office (award W911NF1220022), a Multi-University Research Initiative through the Air Force Office of Scientific Research (AFOSR-FA9550-15-1-0009), the Office of Naval Research (grants N00014-15-1-2935 and N00014-16-1-3021), and the National Science Foundation (grant No. 1538830). Nicolas Alderete received a fellowship from the Argentinian Roberto Rocca Education Program and Larisa Novelino from the Brazilian National Council for Scientific and Technological Development (project 235104/2014-0).
+Writer : Brian Sandalow, Northwestern University
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

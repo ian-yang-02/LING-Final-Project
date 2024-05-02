@@ -1,0 +1,33 @@
+Spontaneous Robot Dances Highlight a New Kind of Order in Active Matter
+Researchers have proposed a new principle by which active matter systems can spontaneously order, without need for higher level instructions.
+When a swarm of smarticles is made to interact in a confined space, they form stunningly symmetric dances whose choreography emerges spontaneously from the physics of low rattling. (Credit: Thomas A. Berrueta)
+Dec 31, 2020
+— Atlanta, GA
+Predicting when and how collections of particles, robots, or animals become orderly remains a challenge across science and engineering.
+In the 19th century, scientists and engineers developed the discipline of statistical mechanics, which predicts how groups of simple particles transition between order and disorder, as when a collection of randomly colliding atoms freezes to form a uniform crystal lattice.
+More challenging to predict are the collective behaviors that can be achieved when the particles become more complicated, such that they can move under their own power. This type of system — observed in bird flocks, bacterial colonies, and robot swarms — goes by the name "active matter.”
+As reported in the January 1, 2021 issue of the journal
+Science , a team of physicists and engineers have proposed a new principle by which active matter systems can spontaneously order, without need for higher level instructions or even programmed interaction among the agents. And they have demonstrated this principle in a variety of systems, including groups of periodically shape-changing robots called "smarticles" — smart, active particles.
+The theory, developed by Postdoctoral Researcher Pavel Chvykov at the Massachusetts Institute of Technology while a student of Prof. Jeremy England, who is now a researcher in the
+School of Physics
+at Georgia Institute of Technology, posits that certain types of active matter with sufficiently messy dynamics will spontaneously find what the researchers refer to as "low rattling" states.
+“Rattling is when matter takes energy flowing into it and turns it into random motion,” England said. “Rattling can be greater either when the motion is more violent, or more random. Conversely, low rattling is either very slight or highly organized — or both. So, the idea is that if your matter and energy source allow for the possibility of a low rattling state, the system will randomly rearrange until it finds that state and then gets stuck there. If you supply energy through forces with a particular pattern, this means the selected state will discover a way for the matter to move that finely matches that pattern.”
+To develop their theory, England and Chvykov took inspiration from a phenomenon — dubbed thermophoresis — discovered by the Swiss physicist Charles Soret in the late 19th century. In Soret's experiments, he discovered that subjecting an initially uniform salt solution in a tube to a difference in temperature would spontaneously lead to an increase in salt concentration in the colder region — which corresponds to an increase in order of the solution.
+Chvykov and England developed numerous mathematical models to demonstrate the low rattling principle, but it wasn't until they connected with
+Daniel Goldman , Dunn Family Professor of Physics at the Georgia Institute of Technology, that they were able to test their predictions.
+Said Goldman, "A few years back, I saw England give a seminar and thought that some of our smarticle robots might prove valuable to test this theory." Working with Chvykov, who visited Goldman's lab, Ph.D. students William Savoie and Akash Vardhan used three flapping smarticles enclosed in a ring to compare experiments to theory. The students observed that instead of displaying complicated dynamics and exploring the container completely, the robots would spontaneously self-organize into a few dances — for example, one dance consists of three robots slapping each other's arms in sequence. These dances could persist for hundreds of flaps, but suddenly lose stability and be replaced by a dance of a different pattern.
+After first demonstrating that these simple dances were indeed low rattling states, Chvykov worked with engineers at Northwestern University, Prof. Todd Murphey and Ph.D. student Thomas Berrueta, who developed more refined and better controlled smarticles. The improved smarticles allowed the researchers to test the limits of the theory, including how the types and number of dances varied for different arm flapping patterns, as well as how these dances could be controlled. "By controlling sequences of low rattling states, we were able to make the system reach configurations that do useful work," Berrueta said. The Northwestern University researchers say that these findings may have broad practical implications for micro-robotic swarms, active matter, and metamaterials.
+As England noted: “For robot swarms, it’s about getting many adaptive and smart group behaviors that you can design to be realized in a single swarm, even though the individual robots are relatively cheap and computationally simple. For living cells and novel materials, it might be about understanding what the ‘swarm’ of atoms or proteins can get you, as far as new material or computational properties.”
+The study’s Georgia Tech-based team includes Jeremy L. England, a Physics of Living Systems scientist who researches with the School of Physics; Dunn Family Professor Daniel Goldman; professor Kurt Wiesenfeld, and graduate students Akash Vardhan (Quantitative Biosciences) and William Savoie (School of Physics). They join Pavel Chvykov (Massachusetts Institute of Technology), along with professor Todd D. Murphey and graduate students Thomas A. Berrueta and Alexander Samland of Northwestern University.
+This material is based on work supported by the Army Research Office under awards from ARO W911NF-18-1-0101, ARO MURI Award W911NF-19-1-0233, ARO W911NF-13-1-0347, by the National Science Foundation under grants PoLS-0957659, PHY-1205878, PHY-1205878, PHY-1205878, and DMR-1551095, NSF CBET-1637764, by the James S. McDonnell Foundation Scholar Grant 220020476, and the Georgia Institute of Technology Dunn Family Professorship. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies.
+CITATION : Chvykov & Berrueta, et al., “Low rattling: A predictive principle for self-organization in active collectives,” (Science 2021).  https://science.sciencemag.org/content/371/6524/90/tab-pdf
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

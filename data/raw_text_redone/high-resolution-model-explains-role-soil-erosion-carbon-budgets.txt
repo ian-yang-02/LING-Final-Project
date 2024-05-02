@@ -1,0 +1,41 @@
+high-resolution model explains role of soil erosion in carbon budgets 
+ a high-resolution model explains how soil erosion can affect carbon cycles 
+ landscape of the calhoun critical zone observatory in south carolina in 1950, showing soil erosion resulting from intense agricultural practices. (credit: u.s. forest service) 
+ jun 07, 2016 
+ — atlanta, ga 
+ a high-resolution model of how soil erosion impacts the carbon cycle of a small south carolina watershed may help explain an apparent imbalance in the world’s carbon budget. explaining that apparent imbalance is necessary for understanding and predicting the course of global climate change. 
+ researchers from four u.s. universities have created a high-resolution model that shows how localized soil erosion transfers and buries soil organic carbon in streams and other deposition sites. 
+ “recent attempts to estimate global carbon budgets have identified a missing sink of significant size,” said yannis dialynas, a hydrology ph.d. student in the school of civil and environmental engineering at the georgia institute of technology. “we believe this can be partly explained by the erosion of soil and the burial of organic matter in streams and rivers.” 
+ in a project sponsored by the national science foundation (nsf), researchers from georgia tech, duke university, the university of georgia and the university of kansas studied soil eroding from the holcombe’s branch watershed, a 4.3-square-kilometer area that is part of the nsf’s calhoun critical zone observatory in south carolina. the watershed has suffered dramatic land degradation caused by intense agricultural practices over the past century. 
+ based on a detailed study of hydrologic, geomorphic and biogeochemical processes in the watershed, the researchers developed a high-resolution computer model of the mechanisms responsible for carbon transport. the triangulated irregular network-based real-time integrated basin-simulator-erosion and carbon oxidation (tribs-eco) model, allowed the researchers to quantify key features governing the soil-atmosphere carbon exchange, including the fate of eroded carbon at the watershed scale and the replacement rate of eroded carbon by atmospheric carbon sequestration. 
+ “this is the first model that couples physics-based formations of hydrologic, geomorphic and biogeochemical processes into a spatially-explicit model,” said dialynas, who is a member of the research team of rafael l. bras, georgia tech provost and professor in the schools of civil and environmental engineering and earth and atmospheric sciences. “the model systematically accounts for dynamic feedbacks among linked processes. we have validated the performance of the model based on observations and measurements of organic material from diverse soil profiles.” 
+ the research was reported may 11 in the journal 
+ global biogeochemical cycles , which is published by the american geophysical union. 
+ atmospheric carbon dioxide is transferred to plants and then to soils in the form of soil organic carbon. part of organic matter at eroding soils is decomposed by microbial processes, leading to carbon release into the atmosphere. erosion-induced carbon fluxes depend on human impacts, including the use of fertilizers during agricultural operations. soil erosion can transfer and bury upland soil organic carbon in depositional sites, where it can be protected from decomposition. 
+ “soils can act as a net carbon source or a carbon sink, and we have shown that land management practices have a significant influence on the landscape’s capacity to serve as a net carbon sink or a source. this may change over time depending on agricultural practices and forest cover,” dialynas said. 
+ the model accounts for topographic gradients in the complex morphology of a watershed, and considers how specific episodes – such as heavy rains – drive the erosion process. earlier models were not able to systematically account for these factors, and most of them considered erosion a continuous process. 
+ among the conclusions from this research: 
+ land management practices exert strong control on the landscape’s capacity to serve as a net carbon sink or carbon source in response to geomorphic and other perturbations. 
+ erosion-induced carbon fluxes exhibit significant topographic variation at relatively small – tens of meters – spatial scales, which cannot be ignored in carbon budgets. 
+ accounting for small-scale heterogeneity in topography and episodic erosion rates can influence model projections of carbon exchange with the atmosphere. 
+ while the model was developed to explain carbon dynamics on gullied south carolina farmland, the researchers suggest that it can also be used to assess the impact of soil management and soil erosion at other locations. among future steps, the researchers plan to apply tribs-eco to sites where erosion has been accelerated by human activity, and in areas where intense hydro-meteorological phenomena and geomorphic gradients have the potential to induce significant sediment transport and carbon cycling. 
+ “soils have the potential to act as significant sinks of carbon dioxide,” dialynas said. “by accounting for the effects of erosion on the net soil-atmospheric carbon exchange, we may be able to better understand future challenges posed by climate change. what we are seeing in south carolina could be extrapolated to other areas with disturbed soils and human impacts.” 
+ in addition to those already mentioned, the research team included satish bastola, sharon a. billings, daniel markewitz and daniel deb. richter. 
+ this material is based upon work supported by the national science foundation under grant ear1331846. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the national science foundation. 
+ citation : yannis g. dialynas, et al., “topographic variability and the influence of soil erosion on the carbon cycle,” (global biogeochemical cycles, 2016). 
+ http: / / dx.doi.org / 10.1002 / 2015gb005302 
+ research news georgia institute of technology 177 north avenue atlanta, georgia 30332-0181 usa 
+ media relations contacts : john toon ( jtoon@gatech.edu ) (404-894-6986) or ben brumfield ( ben.brumfield@comm.gatech.edu ) (404-385-1933). 
+ writer: 
+ john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ jtoon@gatech.edu 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

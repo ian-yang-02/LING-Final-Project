@@ -1,0 +1,43 @@
+grappling with uncertainty amid cyberattacks 
+ even minor cyberattacks can cause a fearful reaction from the public. 
+ apr 16, 2024 
+ “what i’ve repeatedly found is that people are terrified of cyberattacks, because, frankly, cyberattacks are scary,” said ryan shandler, assistant professor of political science in georgia tech’s 
+ school of cybersecurity and privacy , where his research focuses on how people react to cyberattacks. “people don’t fully understand them. they don’t know who’s behind them.” 
+ shandler’s 
+ latest study 
+ looks at the effect this uncertainty has on public opinion after a cyber incident. 
+ “when faced with the unknown, people conjure visions of doom, where one bad guy in his mom’s basement clicks a button and takes over the world.” 
+ according to shandler, even a minor cyberattack can generate the kind of fear that “changes world views or causes people to vote a certain way, sacrificing their civil liberties for security and surveillance, regardless of how intrusive.” by way of example, shandler refers to a digital mishap hyperbolically reported as a major cyberattack on a florida water plant that actually resulted from an employee mistake. 
+ “these reactions from the general public, even when they don’t know who is behind an attack, can have strong political and societal consequences,” he said. 
+ shifting the focus 
+ sometimes he refers to this uncertainty as “a shadow of ambiguity.” shandler and his collaborators have added a new element to the body of cyber-conflict literature, most of which deals with ambiguity from an operational or strategic perspective. his team has written an article for a 
+ special issue 
+ of the 
+ journal of peace research 
+ that focuses on the uncertainty surrounding cybersecurity incidents. shandler also co-edited the issue. 
+ the researchers surveyed 2,025 participants, who were asked to evaluate potential cyber threat scenarios and decide on various retaliatory measures. 
+ a typical question presented two scenarios positing a cyberattack on the u.s. in one, intelligence sources might be 70% certain that china was the perpetrator; in the other, intelligence might be 40% certain it was caused by the united kingdom. other options in the scenario included the proposed means of retaliation and the chance of conflict escalation. participants were asked which strategic course they preferred — whether to retaliate and, if so, against whom. 
+ “as the government’s certainty percentage goes down, the level of support for retaliation goes down, which is unsurprising,” said shandler, whose collaborators on the study were nathaniel porter of virginia tech and eric jardine of cybersecurity firm chainalysis. “but when we dig a little deeper, we can see that it depends on who the other country is. if we’re 50% sure china is behind it, we tend to lean more toward retaliation than if we’re 50% sure that england is behind it.” 
+ mental shortcuts 
+ faced with the complexities of cyberspace and the potential threats inhabiting it, most people will fall back on mental shortcuts when forced to decide in the face of uncertainty, the researchers assert. as such, perceptions of countries as adversaries or allies play a role in decision-making. 
+ political partisanship also played a role in how people responded to the scenarios. for republicans, the perception of another country as an ally or rival mattered more than it did for democrats. this also wasn’t particularly astonishing to the researchers. 
+ “we didn’t want to guess — we wanted to find out how people react when faced with the ambiguity of a cyberattack,” shandler said. he and his colleagues hoped to identify what they called a “certainty threshold.” 
+ that is, they wanted to answer a basic question: how sure do authorities need to be about the perpetrator to gain public support for economic, diplomatic, or military responses?  after gathering and crunching the numbers, the researchers put the threshold at 60% certainty, though it shifts depending on the identity of the presumed attacker. 
+ shandler’s colleagues in the school of cybersecurity and privacy are mostly computer scientists who work in bits, bytes, and rational logic — everything is mapped out and orderly, unlike human beings, who aren’t logical or rational. 
+ “people are not computer code. we’re messy, emotional, and use mental shortcuts to make decisions,” shandler said. “so, we thought a human analysis of the uncertainty that is so much a part of cyberspace would be a good idea.” 
+ ultimately, shandler hopes his research will force policymakers and national security officials to pay more attention to the way the public experiences cyber threats, because voters won’t write a blank check and support retaliation in response to every attack. 
+ “when states volley cyberattacks back and forth, the public gets caught in the crossfire, and they need to be a stakeholder in decisions about how to react,” he said. 
+ authorities should be more open with the public, he added. that would go a long way toward demystifying cyberattacks and avoiding the potential of a mass panic. 
+ “in my experience, mystifying the situation is how we get to the theories of cyber doom and armageddon and 
+ mission impossible 
+ and the robots coming to get us,” shandler said. “i think what people are imagining is much worse than the reality. it’s the lack of information that scares them.” 
+ citation: 
+ eric jardine, nathaniel porter, ryan shandler. "cyberattacks and public opinion – the effect of uncertainty in guiding preferences," 
+ journal of peace research .  doi.org / 10.1177 / 0022343323121 
+ contact 
+ jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

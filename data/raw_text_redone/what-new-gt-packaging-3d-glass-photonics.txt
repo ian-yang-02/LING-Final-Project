@@ -1,0 +1,31 @@
+what is new @ gt in packaging? 3d glass photonics 
+ georgia tech and its industry partners demonstrate 3d glass photonics for ultra-high bandwidth, low cost and low power. 
+ 400 gbps optical transceiver test vehicles based on 3d glass photonics technology using low-cost processes and co-designed for optimum optical, electrical, and thermal interfaces. 
+ sep 29, 2016 
+ — atlanta, ga 
+ georgia tech and its industry partners demonstrate 3d glass photonics for ultra-high bandwidth, low cost and low power. 
+ the proliferation of mobile devices, feeding the data to the cloud, has resulted in an unprecedented increase in global data traffic; projected to double to about six exabytes (10 18 ) per day by 2020. electrical interconnects are limited for many reasons including device leakage, propagation delay, signal-to-signal crosstalk, reflection and others. optical interconnects are immune to these and being photonic-based, are capable of meeting the above high bandwidth requirements. unlike in long-distance telecommunications, short-distance bandwidth requires careful balance between performance, power and cost. 
+ silicon photonics and board-level optoelectronics are being intensely explored by the industry. silicon photonics promises the highest potential by combining photonics and electronics onto a single die, using cmos-compatible processes. board-level optoelectronics, on the other hand, utilize low-cost board substrate process technologies to create optical printed circuit boards (o-pcb). 
+ in contrast to these above approaches, georgia tech proposed and developed a very innovative 3d glass photonics (3dgp) technology, not at device or board-level, as with silicon and board-level photonics, but at package-level. it is a lower cost and low power alternative to silicon photonics and board-level optoelectronics. in addition, it is a 3d concept using glass with an ultra-short photonic via interconnection. glass offers a unique combination of optical, electrical, thermo-mechanical and dimensional-stability properties for precision alignments, and large-area panel processability for low cost, unmatched by other materials. optically, the refractive index of glass can match that of glass optical fibers to enable low-loss light coupling. electrically, the low-loss tangent of glass is far superior to that of silicon. mechanically, the coefficient of thermal expansion (cte) of glass matches silicon and other devices, thus improving the system-level reliability. the low surface roughness and high dimensional stability of glass is capable of 1µm and below features similar to back end of line (beol) silicon processes, for high interconnect density and precise coupling to optical fibers. lastly, glass has the potential for low cost by virtue of large panel manufacturing 
+ recently, georgia tech’s 3dgp program demonstrated a 400 gbps optical transceiver module. this test vehicle featured optimized electrical interconnects at < 0.1 db / mm insertion loss, thermal interconnects to keep laser temperature under 80ºc, and novel optical interconnections comprising of planar optical waveguides, 3d vertical optical vias, 45º turning mirrors, and fiber alignment grooves in glass. these novel optical interconnections resulted in < 2 db coupling loss with high-density out-of-plane turning, and alignment tolerance on par with fiber-to-fiber coupling. 
+ the georgia tech industry consortium is unique in the academic world. it involves partnership with end-user and supply chain companies, resulting in accelerated 3dgp technology development. the end-users include te connectivity and ciena corp.; and supply chain companies include corning glass, asahi glass, and schott glass for supplying the ultra-thin glass panels with vias or cavities; dow-chemical for polymers; ushio for placing a lithographic tool at georgia tech to enable micro-mirror formation; atotech for supplying the chemistry for advanced metallization processes; microchem for supplying optical polymers; and disco for placing a dicing tool at georgia tech to enable fiber alignment groove formation. 
+ about the authors 
+ bruce chou, is graduating in fall 2016 with his phd under the advisement of prof. rao tummala. his research focus is on design and demonstration of 3d glass photonics. 
+ cchou36@gatech.edu . 
+ prof. rao tummala is joseph. m. pettit chair professor in ece and mse and director of georgia tech’s packaging research center. 
+ rao.tummala@ece.gatech.edu . 
+ dr. fuhan liu is a research professor and program manager of glass photonics program at gt prc  fuhan.liu@ece.gatech.edu . 
+ dr. venky sundaram is a research professor and associate director of industry programs at gt prc 
+ vs24@mail.gatech.edu . 
+ additional images 
+ contact 
+ karen may 
+ marketing & communications coordinator 
+ packaging research center 
+ karen.may@ece.gatech.edu 
+ (404) 385-1220 
+ email 
+ karen.may@ece.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

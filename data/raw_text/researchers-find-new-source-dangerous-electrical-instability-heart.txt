@@ -1,0 +1,44 @@
+Researchers Find New Source of Dangerous Electrical Instability in the Heart
+Researchers have discovered a fundamentally new source of electrical instability in the heart that can lead to dangerous rhythms.
+Image produced by Richard Gray and Pras Pathmanathan at the FDA shows simulated fibrillation in a rabbit heart. (Credit: FDA)
+May 03, 2017
+— Atlanta, GA
+Sudden cardiac death resulting from fibrillation – erratic heartbeat due to electrical instability – is one of the leading causes of death in the United States. Now, researchers have discovered a fundamentally new source of that electrical instability, a development that could potentially lead to new methods for predicting and preventing life-threatening cardiac fibrillation.
+A steady heartbeat is maintained by electrical signals that originate deep within the heart and travel through the muscular organ in regular waves that stimulate the coordinated contraction of muscle fibers. But when those waves are interrupted by blockages in electrical conduction – such as scar tissue from a heart attack – the signals can be disrupted, creating chaotic spiral-shaped electrical waves that interfere with one another. The resulting electrical turbulence causes the heart to beat ineffectively, quickly leading to death.
+Scientists have known that instabilities at the cellular level, especially variation in the duration of each electrical signal – known as an action potential – are of primary importance in creating chaotic fibrillation. By analyzing electrical signals in the hearts of an animal model, researchers from the Georgia Institute of Technology and the U.S. Food and Drug Administration have found an additional factor – the varying amplitude of the action potential – that may also cause dangerous electrical turbulence within the heart.
+The research, supported by the National Science Foundation, was reported April 20 in the journal
+Physical Review Letters .
+“Mathematically, we can now understand some of these life-threatening instabilities and how they develop in the heart,” said
+Flavio Fenton , a professor in Georgia Tech’s
+School of Physics.
+“We have proposed a new mechanism that explains when fibrillation will occur, and we have a theory that can predict, depending on physiological parameters, when this will happen.”
+The voltage signal that governs the electrically-driven heartbeat is mapped by doctors from the body surface using electrocardiogram technology, which is characterized by five main segments (P-QRS-T), each representing different activations in the heart. T waves occur at the end of each heartbeat, and indicate the back portion of each wave. Researchers have known that abnormalities in the T wave can signal an increased risk of a potentially life-threatening heart rhythm.
+Fenton and his collaborators studied the cellular action potential amplitude, which is controlled by sodium ion channels that are part of the heart’s natural regulatory system. Sodium ions flowing into the cells boost the concentration of cations – which carry a positive charge – leading to a phenomena known as depolarization, in which the action potential of the cell rises above its resting level. The sodium channels then close at the peak of the action potential.
+While variations in the duration of the action potential indicate problems with the heart’s electrical system, the researchers have now associated dynamic variations in the amplitude of the action potential with conduction block and the onset of fibrillation.
+“We have shown for the first time that a fundamentally different instability related to amplitude may underlie or additionally affect the risk of cardiac instabilities leading to fibrillation,” said Richard Gray, one of the study’s co-authors and a biomedical engineer in the Office of Science and Engineering Laboratories in the U.S. Food and Drug Administration.
+The mathematical analysis provides a simple explanation.
+“You can have one wave with a long amplitude followed by one wave with a short amplitude, and if the short one becomes too short, the next wave will not be able to propagate,” said Diana Chen, a Georgia Tech graduate student and first author of the study. “The waves going through the heart have to move together to maintain an effective heartbeat. If one of them breaks, the first wave can collide with the next wave, initiating the spiral waves.”
+If similar results are found in human hearts, this new understanding of how electrical turbulence forms could allow doctors to better predict who would be at risk of fibrillation. The information might also lead to the development of new drugs for preventing or treating the condition.
+“One next scientific step would be to investigate pharmaceuticals that would reduce or eliminate the cellular amplitude instability,” said Gray. “At the present time, most pharmaceutical approaches are focused on the action potential duration.”
+The critical role of electrical waves in governing the heart’s activity allows physics – and mathematics – to be used for understanding what is happening in this most critical organ, Fenton said.
+“We have derived a mathematical explanation for how this happens, why it is dangerous and how it initiates an arrhythmia,” he explained. “We now have a mechanism that provides a better understanding of how these electrical disturbances originate. It’s only when you have these changes in wave amplitude that the signals cannot propagate properly.”
+Chen studied at the FDA’s Center for Devices and Radiological Health through the NSF/FDA Scholar-in- Residence Program. Operated in collaboration with the National Science Foundation’s Directorate for Engineering’s Chemical, Bioengineering, Environmental, and Transport Systems, the program enables investigators in science, engineering and mathematics to develop research collaborations within the intramural research environment at the FDA.
+In addition to those already mentioned, the paper included work from Ilija Uzelac, a postdoctoral fellow, and Conner Herndon, a graduate research assistant. All are from the Georgia Tech School of Physics.
+This material is based upon work supported by the National Science Foundation under awards CNS-1347015 and CNS-1446675. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation. Fibrillation image provided by the U.S. Food and Drug Administration and does not depict the research reported in this paper.
+CITATION : Diandian Diana Chen, et al., “A Mechanism for QRS Amplitude Alternans in Electrocardiograms and the Initiation of Spatiotemporal Chaos,” (Physical Review Letters, 2017). https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.168101
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

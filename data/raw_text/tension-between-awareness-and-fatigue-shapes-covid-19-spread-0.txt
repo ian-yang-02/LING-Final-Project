@@ -1,0 +1,40 @@
+The Tension Between Awareness and Fatigue Shapes Covid-19 Spread
+Two human factors - awareness of the virus and fatigue - are battling to control the path of Covid-19.
+In the midst of the coronavirus pandemic, two human factors are battling it out: awareness of the virus’s severe consequences and fatigue from nine months of pandemic precautions. The results of that battle can be seen in the oddly shaped case, hospitalization, and fatality-count graphs, a new study suggests.
+Dec 08, 2020
+— Atlanta, GA
+In the midst of the coronavirus pandemic, two human factors are battling it out: awareness of the virus’s severe consequences and fatigue from nine months of pandemic precautions. The results of that battle can be seen in the oddly shaped case, hospitalization, and fatality-count graphs, a new study suggests.
+The tension between awareness and fatigue can lead to case-count plateaus, shoulder-like dynamics, and oscillations as rising numbers of deaths cause people to become more cautious before they let down their guard to engage once again in behaviors that increase risk for transmission, which, in turn, leads to rising death counts — and renewed awareness.
+“Epidemics don’t necessarily have a single peak after which the risk subsides,” said
+Joshua Weitz , Patton Distinguished Professor of
+Biological Sciences
+and founding director of the Interdisciplinary Ph.D. in Quantitative Biosciences at the Georgia Institute of Technology. “People’s behaviors are both influenced by and influence epidemic dynamics, potentially driving plateaus, and oscillations in incidence.”
+A paper describing the connection between human behavior and viral spread was published this month in the journal
+Proceedings of the National Academy of Sciences . It was authored by researchers at Georgia Tech, McMaster University, Princeton University, and Texas A&M.
+In the early days of the pandemic, many scientists turned to traditional epidemiological studies, which showed epidemic cases could rise to a peak and then fall smoothly as immunity to the infection reached high levels in a population in the absence of large-scale interventions. Public health messages urged the population to “flatten the curve” to prevent disease from overwhelming hospitals.
+“We were concerned that a focus on ‘the peak’ was potentially misguided because it implied that the shape was a feature of the disease alone without considering the consequence of behavior,” Weitz said. “In reality, there does not have to be a single peak during an epidemic.”
+“If people are aware of the severity of the epidemic, they may change their behavior, and if they change their behavior, there will be fewer severe outcomes,” Weitz said. “But if awareness is short-term, individuals may tire of public health regulations and the virus will come roaring back. Instead of a single peak in cases, there can be plateaus or oscillations balanced between cautious behavior and relaxation.”
+The research team analyzed data from the early phase of the epidemic and found evidence that the decrease in fatalities after a peak was slower than the rise toward it. However, in contrast to simple models of awareness-driven behavior, the research team also found evidence that individuals tended to increase their activity — as measured by mobility indicators — before epidemic severity waned. This means that individuals may have grown fatigued, worsening the epidemic severity. The study also found that other preventive measures, like mask wearing, have the potential to avert worst-case outcomes in disease transmission even as mobility increases in light of fatigue.
+“This study underlines the importance of human behavior in driving epidemic outcomes,” said Jonathan Dushoff from the Department of Biology at McMaster University. “To make good predictions beyond the short term, we need to understand all of the factors driving human responses to the virus — fear, fatigue, information, misinformation, and so forth. We have a long way to go.”
+Weitz and Dushoff share optimism as well as concerns on the potential effects of anticipation of imminent vaccine distribution on behavior associated with transmission.
+“It’s hard to be sure what impacts vaccine distribution will have on behavior,” Dushoff said. “There is concern in public health circles that people who think the vaccine is just around the corner could relax their guard. Human behavior is complicated.”
+Lessons for future public health responses may help focus on the role of human behavior as well as communications that make disease impacts personal, fostering long-term awareness and changes in behavior that can reduce collective transmission.
+Weitz and Dushoff coauthored the study with Sang Woo Park from the Department of Ecology and Evolutionary Biology at Princeton University and Professor Ceyhun Eksin from the Department of Industrial and Systems Engineering at Texas A&M.
+This research was supported by the Simons Foundation (SCOPE Award ID 329108), the Army Research Office (W911NF1910384), National Institutes of Health (1R01AI46592-01), and National Science Foundation (1806606 and 1829636). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding agencies.
+CITATION : Joshua S. Weitz, Sang Woo Park, Ceyhun Eksin, and Jonathan Dushoff, “Awareness-driven Behavior Changes Can Shift the Shape of Epidemics Away from Peaks and Towards Plateaus, Shoulders and Oscillations.” ( Proceedings of the National Academy of Sciences , 2020)
+https://doi.org/10.1073/pnas.2009911117
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

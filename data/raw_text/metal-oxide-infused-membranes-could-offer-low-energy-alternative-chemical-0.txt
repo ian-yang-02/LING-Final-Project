@@ -1,0 +1,30 @@
+Metal Oxide-infused Membranes Could Offer Low-Energy Alternative For Chemical Separations
+Researchers at the Georgia Institute of Technology are working on membranes that could separate chemicals without using energy-intensive distillation processes.
+This image shows an elemental map collected with electron microscopy of a fractured cross-section of hybrid hollow fiber membrane with a radius of about 500 μm. Green dots signify locations of the metal oxide within the membrane. This image shows that metal oxide infuses throughout the entire membrane. Microscopy was done by Fengyi Zhang at Georgia Tech’s Materials Characterization Facility.
+Jul 18, 2019
+— Atlanta, GA
+Chemical manufacturers consume a massive amount of energy each year separating and refining feedstocks to make a wide variety of products including gasoline, plastics and food.
+In a bid to reduce the amount of energy used in chemical separations, researchers at the Georgia Institute of Technology are working on membranes that could separate chemicals without using energy-intensive distillation processes.
+“The vast majority of separations out in the field in a variety of industries are thermally-driven systems such as distillation, and because of that we spend an inordinate amount of energy on these separation processes – something like 10 to 15 percent of the global energy budget is spent on chemical separations,” said Ryan Lively, an associate professor in Georgia Tech’s School of Chemical & Biomolecular Engineering.  “Separations that avoid the use of heat and a chemical phase-change are much less energy intense. In practice, using them could produce a 90 percent reduction in energy cost.”
+Plastic membranes are already able to separate certain molecules based on size and other differences, such as in seawater desalination. But until now, most membranes have been unable to withstand harsh solvent-rich chemical streams while also performing challenging separation tasks.
+In a study published July 18 in
+Chemistry of Materials
+and sponsored by the Department of Defense and the National Science Foundation, the researchers outline a process for taking a polymer-based membrane and infusing it with a metal oxide network. The resulting membrane is far more effective at standing up to harsh chemicals without degrading.
+“After placing the pre-fabricated membrane inside of our reactor, we simply expose it to metal-containing vapors that infuse themselves inside the membrane material,” said Mark Losego, an assistant professor in the School of Materials Science and Engineering. “This process is called vapor phase infiltration, and it creates a uniform network of metal oxide throughout the polymer membrane.  We call it a ‘hybrid’ membrane.”
+Not only was the hybrid membrane better able to withstand solvents, its chemical separation capabilities also improved.
+“Some chemicals that need to be separated are very similar in terms of their size, shape and other properties, which makes them even harder to process using membranes,” Lively said. “These new hybrid membrane are much more selective.  They can separate chemicals that are more similar to each other.”
+The research team, which included graduate students Fengyi Zhang, Emily McGuinness and Yao Ma, tested the new hybrid membranes in harsh chemicals such as tetrahydrofuran, dichloromethane and chloroform, organic solvents that dissolve the pure polymer membrane in minutes. The hybrid membranes remained stable for several months during testing.
+The researchers also tested separating two chemicals very close in size. The hybrid membranes were able to differentiate aromatic molecules that differed in size by as little as 0.2 nanometers.
+“One of the most exciting things about this work was how straightforward this process is from a manufacturing perspective,” Losego said. “We’re essentially taking pre-made membranes and applying a treatment to them. That’s something that would be very simple to translate to an industrial scale.”
+Future research on the membranes will involve looking at how to fine tune the oxide infusions and make new types of hybrid membranes capable of separating a variety of other chemicals.
+This material is based upon work supported by the Department of Defense through the National Defense Science & Engineering Graduate Fellowship Program and the National Science Foundation under grant Nos. CBET 1653153 and ECCS-1542174. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies.
+CITATION : Emily K. McGuinness, Fengyi Zhang, Yao Ma, Ryan P. Lively and Mark D. Losego, “Vapor Phase Infiltration of Metal Oxides into Nanoporous Polymers for Organic Solvent Separation Membranes,” (Chemistry of Materials, July 2019). http://dx.doi.org/10.1021/acs.chemmater.9b01141
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

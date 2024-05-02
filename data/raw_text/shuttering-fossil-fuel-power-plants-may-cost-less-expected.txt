@@ -1,0 +1,35 @@
+Shuttering Fossil Fuel Power Plants May Cost Less Than Expected
+A generator-level model suggests that most fossil fuel power plants could complete normal lifespans and still close by 2035.
+The Gibson Generating Station is a coal-burning power plant located in Gibson County, Indiana. (Credit: Emily Grubert, Georgia Tech)
+Dec 03, 2020
+— Atlanta, GA
+Decarbonizing U.S. electricity production will require both construction of renewable energy sources and retirement of power plants now operated by fossil fuels. A generator-level model described in the Dec. 4 issue of the journal
+Science
+suggests that most fossil fuel power plants could complete normal lifespans and still close by 2035 because so many facilities are nearing the end of their operational lives.
+Meeting a 2035 deadline for decarbonizing U.S. electricity production, as proposed by the incoming U.S. presidential administration, would eliminate just 15% of the capacity-years left in plants powered by fossil fuels, says the article by
+Emily Grubert , a Georgia Institute of Technology researcher. Plant retirements are already underway, with 126 gigawatts of fossil generator capacity taken out of production between 2009 and 2018, including 33 gigawatts in 2017 and 2018 alone.
+“Creating an electricity system that does not contribute to climate change is actually two processes — building carbon-free infrastructure like solar plants, and closing carbon-based infrastructure like coal plants,” said Grubert, an assistant professor in Georgia Tech’s
+School of Civil and Environmental Engineering . “My work shows that because a lot of U.S. fossil fuel plants are already pretty old, the target of decarbonization by 2035 would not require us to shut most of these plants down earlier than their typical lifespans.”
+Of U.S. fossil fuel-fired generation capacity, 73% (630 out of 840 gigawatts) will reach the end of its typical lifespan by 2035; that percentage would reach 96% by 2050, she says in the Policy Forum article published in Science. About 13% of U.S. fossil fuel-fired generation capacity (110 gigawatts) operating in 2018 had already exceeded its typical lifespan.
+Because typical lifespans are averages, some generators operate for longer than expected. Allowing facilities to run until they retire is thus likely insufficient for a 2035 decarbonization deadline, the article notes. Closure deadlines that strand assets relative to reasonable lifespan expectations, however, could create financial liability for debts and other costs. The research found that a 2035 deadline for completely retiring fossil fuel-based electricity generators would only strand about 15% (1,700 gigawatt-years) of capacity life, along with about 20% (380,000 job-years) of direct power plant and fuel extraction jobs that existed in 2018.
+In 2018, fossil fuel facilities operated in 1,248 of 3,141 counties, directly employing about 157,000 people at generators and fuel extraction facilities. Plant closure deadlines can improve outcomes for workers and host communities — providing additional certainty, for example, by enabling specific advance planning for things like remediation, retraining for displaced workers, and revenue replacements.
+“Closing large industrial facilities like power plants can be really disruptive for the people who work there and live in the surrounding communities,” Grubert said. “We don't want to repeat the damage we saw with the collapse of the steel industry in the 1970s and ’80s, where people lost jobs, pensions, and stability without warning. We already know where the plants are, and who might be affected. Using the 2035 decarbonization deadline to guide explicit, community grounded planning for what to do next can help, even without a lot of financial support.”
+Planning ahead will also help avoid creating new capital investment that may not be needed long-term. “We shouldn't build new fossil fuel power plants that would still be young in 2035, and we need to have explicit plans for closures both to ensure the system keeps working and to limit disruption for host communities,” she said.
+Underlying policies governing the retirement of fossil fuel-powered facilities is the concept of a “just transition” that ensures material well-being and distributional justice for individuals and communities affected by a transition from fossil to non-fossil electricity systems. Determining which assets are “stranded,” or required to close earlier than expected, is vital for managing compensation for remaining debt or lost revenue, Grubert said in the article.
+CITATION : Emily Grubert, “Fossil electricity retirement deadlines for a just transition” (Science, 2020).  https://science.sciencemag.org/content/370/6521/1171
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

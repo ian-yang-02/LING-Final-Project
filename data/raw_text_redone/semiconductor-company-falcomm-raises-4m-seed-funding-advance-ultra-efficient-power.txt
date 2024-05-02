@@ -1,0 +1,41 @@
+semiconductor company falcomm raises $4m in seed funding to advance ultra-efficient power amplifiers, hires industry leaders 
+ seed round includes four investor partners 
+ edgar garay is ceo and founder of falcomm. 
+ nov 29, 2023 
+ squadra ventures 
+ led the round with participation from cambium capital, draper cygnus, and the georgia tech foundation. 
+ falcomm is built on breakthroughs made over six years in the lab of founder and ceo edgar garay to revolutionize the power amplifier, a semiconductor found in devices from satellites to iot to cellphones, that conditions and blasts the 1s and 0s from software through an antenna. falcomm’s dual-drive pa combines ultra-efficient performance with an architecture that lends itself to production at scale. 
+ “power amplifiers are the workhorse of the modern electronic era, but improvement to this technology hasn’t kept pace with the rise of the innovation economy,” said garay, who holds a doctorate in electrical engineering from georgia tech’s 
+ school of electrical and computer engineering , where he conducted the research that led to the formation of his startup. 
+ “falcomm’s ultra-efficient, silicon-proven technology will bring advances in power and efficiency to the semiconductor industry that help communications manufacturers to realize massive efficiency gains, while lowering costs. with urgent challenges in the environment and supply chain, we can’t wait another 90 years for change.” 
+ with simultaneous transmission at each terminal of a transistor, the dual-drive pa delivers performance that is 1.8 times more efficient at 2 times higher power, with half of the silicon area requirements of traditional power amplifiers. for manufacturers, these gains will reduce thermal management and energy costs, while easing overall system requirements. 
+ a patented architectural design allows the product to be manufactured in high volume by semiconductor foundries in the united states. with fabless technology, the company is poised to grow a network of industry partners that catalyzes expansion in the $23 billion power amplifier market. 
+ born in venezuela, garay developed a passion for using science and engineering to solve problems while repairing machinery on a farm in his hometown. while pursuing doctoral studies at georgia tech, he recognized the opportunity to bring innovation to the power amplifier, which had not changed in decades despite the rapid advance of technology and its critical role in devices. 
+ garay’s research resulted in multiple patents, spurring him to spin out the technology and create falcomm through assistance from georgia tech resources, including  venturelab   and  create-x . falcomm is the first company to receive investment from the georgia tech foundation. 
+ “georgia tech is proud to support our academic innovators to help them ensure their inventions have real-world impact,” said raghupathy sivakumar, georgia tech’s vice president of commercialization and chief commercialization officer. “the office of commercialization is rapidly expanding our programs and initiatives to build out the largest and most robust entrepreneurial ecosystem at any public university. i am happy to say that falcomm is the recipient of the first equity investment out of our new research impact fund targeted specifically at 
+ spinouts based on georgia tech  intellectual property." 
+ the falcomm team was recently bolstered by the addition of pioneering industry leaders who have demonstrated a track record of innovation in telecommunications, wireless, and semiconductors: 
+ thomas cameron, ph.d., chief strategy officer,   is a 35-year veteran of technology research and development in the wireless industry. during a 12-year stint at analog devices, cameron served as chief technology officer of the communications business unit and was a leading evangelist for the adoption of 5g connectivity. he held leadership and engineering roles in the rf industry at bell northern research, nortel, sirenza microdevices, and wj communications. cameron has seven patents in wireless technology and has authored numerous papers and technical articles. 
+ ned cahoon, director of foundry and customer relationships,   brings more than 20 years of rf business development experience across the mobile and wireless infrastructure industries. he helped to stand up ibm’s $1 billion rf business before joining globalfoundries in 2016, where he served as a fellow in the office of the chief technology officer. a senior design and go-to-market leader, cahoon brings experience building networks across foundries, academia, and technology companies. 
+ for falcomm, the funding follows quickly on the heels of the company’s selection to the techcrunch startup battlefield 200 in 2023. the company is a graduate of the  berkeley skydeck accelerator   and the  evonexus incubator . 
+ bringing innovation to the tiny power amplifier can have a massive impact on some of the nation’s most pressing challenges. the energy efficiency gains resulting from an increase in power output come at a time of growing urgency around climate change. the ability to manufacture domestically comes at a time when nearshoring is a priority to address cost and supply chain challenges underscored by the global semiconductor shortage and resulting chips act. 
+ “edgar and his team are just as inspiring as they are hard-working. they have shown that it’s possible to assemble the talent and operations to innovate on a foundational technology that hasn’t seen meaningful advances in decades anywhere in the country,” said guy filippelli, squadra ventures’ managing partner. “by boosting efficiency and manufacturing domestically in the critical semiconductor industry, falcomm’s innovations will bolster american competitiveness.” 
+ the funding will be used to accelerate go-to-market activities with satellite companies and wireless infrastructure manufacturers, advance the company’s patented technology, and expand the team. falcomm is actively hiring for roles in operations, engineering, and design.  view job openings . 
+ additional images 
+ contact 
+ for falcomm: 
+ stephen babcock,  stephen@squadra.vc 
+ for georgia tech: 
+ péralte c. paul 
+ peralte@gatech.edu 
+ 404.316.1210 
+ email 
+ peralte@gatech.edu 
+ additional information 
+ about falcomm 
+ falcomm is a fabless semiconductor company on a mission to provide the most energy efficient power amplifier products and front-end modules for the wireless communication market. the company’s research-backed, patented dual- drive™ power amplifier is an ultra-efficient, silicon-based power amplifier for wireless communication applications. learn more at  myfalcomm.com . 
+ about squadra ventures 
+ squadra ventures is a venture capital firm led by founder-operators that invests in early stage cyber and national security companies. grounded in the belief that success is a combination of people, product, and planning, the squadra team provides transformational support to startup leaders in the complex dual-use technology ecosystem. by applying a growth-stage mindset at the seed stage and a commitment to building alongside entrepreneurs, squadra empowers extraordinary teams to win and leave a lasting positive impact on the world. learn more at squadra.vc. 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

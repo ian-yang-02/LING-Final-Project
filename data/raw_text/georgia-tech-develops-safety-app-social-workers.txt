@@ -1,0 +1,24 @@
+Georgia Tech Develops Safety App for Social Workers
+The Georgia Division of Family and Children Services partnered with the Georgia Tech Research Institute to create an emergency response system.
+The Georgia Tech Research Institute (GTRI) designed “panic buttons” that the Georgia Division of Family and Children Services (DFCS) is rolling out among its employees.
+Dec 05, 2018
+— Atlanta, GA
+Georgia’s social workers have a new way to stay safe when their jobs take them to dangerous neighborhoods.
+The Georgia Tech Research Institute (GTRI) designed “panic buttons” that the Georgia Division of Family and Children Services (DFCS) is rolling out among its employees. It works with the Click Safe app, which is used by child-welfare investigators and case managers.
+When pressed, the button on a key fob transmits a signal via Bluetooth to an app on the worker’s state-issued cellphone. The phone then silently notifies the agency’s call center, where a trained operator contacts the nearest 911 center with details on the alarm, a description of the employee, the location, and a request to rush law enforcement officers to the scene.
+DFCS professionals can’t choose where they go, but the app is “a way to protect them when they’re protecting Georgia’s children,” said Tom Rawlings, the division’s interim director.
+“Our child-safety professionals are trained to de-escalate unpleasant situations, but having a panic button gives them assurance that help will be there if their verbal techniques aren’t successful,” Rawlings added.
+Development of Click Safe represents cooperation between two state entities. GTRI worked on the project at the request of Gov. Nathan Deal as part of his child-welfare initiatives.
+“Georgia Tech is proud to be part of this innovative collaboration between the Georgia Tech Research Institute, the state of Georgia, and the Department of Family and Children Services,” said President G.P. “Bud” Peterson. “We expect the Click Safe emergency-response system to become a powerful tool in helping protect DFCS case managers and child-welfare investigators in sometimes-dangerous situations as they focus on their vital work of ensuring the safety of Georgia’s children.”
+The work draws on GTRI’s specialized telecommunications expertise. Scientists adapted off-the-shelf technology to stand up to rigorous field testing to ensure reliable functionality across the state.
+The system operates silently and out of sight. That’s to keep from alerting anyone threatening a case worker that law enforcement is on the way and potentially making a tense situation more dangerous in the minutes before officers arrive.
+To prevent accidental triggering of the device, the button must be pressed either for five seconds or five times in succession.
+Learn more about the device  here .
+Additional Images
+Related links
+Georgia social workers get unique safety app
+Email
+laura.diamond@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

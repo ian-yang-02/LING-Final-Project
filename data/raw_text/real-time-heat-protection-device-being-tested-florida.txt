@@ -1,0 +1,19 @@
+Real-Time Heat Protection Device Being Tested in Florida
+Wearable bio-measurement device could alert people who work outside to dangerous levels of rising body temperature and dehydration that could help avoid heat-related injury.
+Remote video URL
+Mar 18, 2024
+Researchers with Georgia Tech and Emory University are field testing a new device that could help protect people who work outside from heat related injury. It’s a skin patch you can wear while working that sends detailed information to a smartphone or other device about important health markers like skin hydration and body temperature. The device takes different measurements than health wearables on the market currently and will be paired with an artificial intelligence program to predict health hazards. The team is calling the device BioPatch, and it’s being put to the test with landscaping crews. Researchers hope use of the device can guide better decisions about working in the heat.
+The project involves collaboration between principal investigators Vicki Hertzberg from Emory University,
+W. Hong Yeo
+from Georgia Tech, and Li Xiong from Emory University. Their expertise spans statistics, mechanical and biomedical engineering, and computer science, respectively. Roxana Chicas of the Emory School of Nursing and Jeff Sands of the Emory School of Medicine, along with members of the Farmworker Association of Florida, are also part of the team. This video shows the device and data collection during a key component of testing during the summer.
+Additional Media
+Researchers in Hong Yeo's lab at Georgia Tech work on wearable sensor technology that's being field-tested through a collaboration with Emory University and the Farmworker Association of Florida.
+Related links
+Other wearable sensor research
+Contact
+Blair Meeks
+Institute Communications
+Georgia Tech
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

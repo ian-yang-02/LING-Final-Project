@@ -1,0 +1,67 @@
+in zebrafish, the cholera bacterium sets off a surprising flush 
+ cholera bacteria in gut of zebrafish induces strong intestinal contractions that eventually expel the gut contents. 
+ apr 03, 2018 
+ — atlanta, ga 
+ researchers experimenting with live zebrafish witnessed a 200% increase in the strength of intestinal contractions soon after the organisms were exposed to the cholera-causing bacterium 
+ vibrio cholerae . the strong contractions led to expulsion of native gut bacteria . 
+ the discovery, detailed in the 
+ proceedings of the national academy of sciences , “was remarkable and unexpected,” the authors write. 
+ the researchers – from the university of oregon, georgia institute of technology, and memorial-sloan kettering cancer center – used genetic manipulation and cutting-edge three-dimensional microscopy to monitor what happens when the disease-causing microbe is initially introduced into the larvae of zebrafish, an organism commonly studied as a model for understanding health and disease in vertebrates, including humans. 
+ the multidisciplinary team of physicists, molecular biologists, and microbiologists focused on the harpoon-like injection capabilities of the type vi secretion system. this appendage, found in many bacteria including 
+ vibrio cholerae, 
+ transfers toxic proteins into competing healthy cells. 
+ the scientists engineered 
+ vibrio cholerae 
+ mutants with variations in that secretion system and then observed the behavior of the microbes as they invaded zebrafish colonized with 
+ aeromonas veronii , a native species in that animal’s gut. 
+ swift action 
+ instead of simply killing native 
+ aeromonas 
+ gut bacteria upon contact, as expected, when 
+ vibrio cholerae 
+ entered the gut the native bacteria were swiftly flushed out. 
+ “the secretion system induced dramatic increases in the strength of the peristalsis process, the contractions that move gut contents down the gastrointestinal tract much like squeezing a tube of toothpaste from the end to the top,” says coauthor 
+ brian k. hammer , a microbiologist and associate professor in the school of biological sciences at georgia tech. 
+ the researchers hypothesized that the unexpected bacterial manipulation in the digestive system might be driven by a particular piece of the type vi machinery known to bind to actin, a cellular scaffolding protein. when the scientists deleted the actin-binding domain from the bacterial gene, they saw that 
+ vibrio cholerae 
+ lost its ability to enhance peristalsis and its ability to expel native 
+ aeromonas . 
+ the findings shed new light on how the waterborne 
+ vibrio cholerae 
+ functions. according to the centers for disease control and prevention, 
+ vibrio cholerae 
+ triggers more than 3 million cases of acute diarrheal illness and 100,000 deaths in people worldwide each year. 
+ “knowing the strategies by which the bacterium is able to invade the intestine can open doors to therapies that might disrupt these paths,” says corresponding author 
+ raghuveer parthasarathy , a professor of physics at the university of oregon, whose imaging and analysis techniques were used in the study. 
+ because the type vi secretion system is also found in native gut bacteria, including those in the human gut microbiome, it could be harnessed for therapies, including specially designed probiotics, to promote beneficial species or to defend against disease invasion, hammer says. 
+ “we suspect that other gut microbes, both pathogenic and beneficial, might similarly make use of this secretion system to reshape their environment,” parthasarathy says. 
+ most previous research on this secretion system has relied on studying bacteria outside of animals – on a petri dish for example, or by examining fecal samples – to infer what is happening in the gut during infection. 
+ while the research team captured the impact of invasion by 
+ vibrio cholerae , understanding just how it takes root in the host, such as what specific cells in the animal are targeted, is an open question, parthasarathy says. 
+ “we still have no idea how the action of his secretion system’s harpoon is causing the changes in the muscle contractions,” hammer says. “we suspect that what we are observing may be an immune response to irritation in the gut lining. but what cells in the gut are being poked?” 
+ how the findings may reflect the colonization of 
+ vibrio cholerae 
+ in humans is not known, but the role of the secretion system makes a similar result plausible, the researchers wrote in their conclusion. 
+ birth of collaboration 
+ the findings emerged from a collaboration born in 2015 when hammer, parthasarathy, and coauthor 
+ joao xavier , a researcher at the memorial sloan-kettering cancer center, discussed joint research possibilities during a conference, 
+ scialog: molecules come to life , in tucson, arizona. 
+ the scialog (science and dialog) was organized by the research corporation for science advancement and sponsored jointly with the gordon and betty moore foundation, with additional support from the simons foundation. the goal of scialog is to rapidly catalyze new interdisciplinary collaborative teams, such as the one formed by hammer, parthasarathy, and xavier, to work on high-risk, high-reward projects. 
+ as a result, their 
+ three labs received an award 
+ from the gordon and betty moore foundation and the simons foundation to pursue their scialog idea. the national science foundation, national institutes of health, m.j. murdock charitable trust, and kavli microbiome ideas challenge also supported the research. 
+ photo caption 
+ trajectories of 
+ vibrio cholerae 
+ bacteria (blue) swimming inside the gut of a larval zebrafish. the gut is visible as a gray background. the total duration of the movie that was “squashed” into this image is 3.5 seconds, and the total image width is about 0.3 mm. (courtesy of 
+ raghuveer parthasarathy ) 
+ additional images 
+ contact 
+ a. maureen rouhi, ph.d. 
+ director of communications 
+ college of sciences 
+ email 
+ maureen.rouhi@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

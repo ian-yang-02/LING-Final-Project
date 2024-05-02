@@ -1,0 +1,61 @@
+metagenomics unlocks unknowns of diarrheal disease cases in children 
+ researchers have found that conventional culture-based lab tests may misdiagnose as many as half of the microbial causes of diarrheal diseases in children. 
+ using advanced metagenomics techniques, researchers have found that conventional culture- based lab tests may often misdiagnose the microbial causes of diarrheal diseases in children. the study, based on samples from ecuadorian children, also found that a common strain of the e. coli bacterium may be more virulent than previously believed. 
+ nov 18, 2019 
+ — atlanta, ga 
+ using advanced metagenomics techniques, researchers have found that conventional culture-based lab tests may misdiagnose as many as half of the microbial causes of diarrheal diseases in children. the study, based on samples from ecuadorian children, also found that a common strain of the 
+ e. coli 
+ bacterium may be more virulent than previously believed. 
+ the research, which used multiple lines of evidence to determine the microbe causing changes in the gut microbiome during a diarrheal episode, may be significant for applying new diagnostic technologies that could enable personalized medical treatments of intestinal diseases. 
+ the project, led by researchers from the georgia institute of technology, the emory rollins school of public health, and universidad san francisco de quito, is part of a study funded by the national institute of allergy and infectious diseases (niaid) that integrates epidemiological, molecular, and metagenomic data to understand how enteric (food and waterborne) pathogens and the gut microbiome vary across an urban-rural gradient in ecuador. frequent illness can affect the growth and development of children during their critical early years. 
+ “we wanted to understand where the illnesses are coming from and what the consequences are for the development of the children,” said 
+ kostas konstantinidis , a professor in the 
+ school of civil and environmental engineering 
+ at georgia tech. “knowing more about the causative agent may allow us to prevent infections. this would be relevant not just for the developing world, but for children everywhere.” 
+ the findings were reported oct. 4 in the journal 
+ applied and environmental microbiology . the research team also included researchers from the universidad central del ecuador. 
+ information the study provided on the likely causative agent of enteric diseases raises questions about long-held definitions of pathogenic agents, said 
+ karen levy , an associate professor at rollins. many so-called “pathogenic 
+ e. coli ” infections are asymptomatic — not causing diarrhea — she noted. if a microbe considered a pathogen can be detected in a stool sample, but it is not causing disease, is it a pathogen? 
+ “the approach we used in this analysis helps to not only detect whether or not the pathogenic 
+ e. coli 
+ is present in the stool, but also if it is the likely cause of diarrhea experienced by study subjects,” she said.  “this holds promise that, in the future, we could use metagenomic approaches to diagnose not just the presence of the so-called ‘pathogenic 
+ e. coli ,’ but also of the actual pathogenicity of these organisms.” 
+ enteric infections often go undiagnosed in children, though they can in some circumstances be fatal. for the study, researchers collected more than 1,000 samples from infected children in ecuador and analyzed them using traditional culture-based methods in which samples are placed onto selective cell culture media, allowed to grow, and then studied to determine the pathogen present. 
+ a subset of 30 samples were also sent to the konstantinidis lab at georgia tech, where his team has been developing new culture-independent genomics testing that can identify microbes that may not be detectable using standard culture techniques. the researchers examined the total gut microbiome and its shifts during diarrheal infections to assess the effects of three specific pathogenic genotypes of 
+ e. coli 
+ on the indigenous gut microbiota. 
+ “we looked at the microbes in stool samples using culture-independent genomic techniques,” said konstantinidis, who also has a faculty position in the georgia tech school of biological sciences. “we took the dna out of the samples, sequenced it, and used bioinformatics tools to see what microorganisms were there. by looking at the entire microbiome, we can get more precise information about the pathogens that are causing disease and their effects on the commensal microbes of the gastrointestinal tract: the microbiome. we found that the effects were different for different 
+ e. coli 
+ pathogens, which is important for diagnosis and distinguishing among them.” 
+ one major finding was that the metagenomics technique disagreed with the culture-based study. “in 50% of the cases where the lab suggested 
+ e. coli 
+ was the agent, we didn’t see evidence from metagenomics that this was the case,” konstantinidis said. “we saw evidence that it was something else, potentially an enteric virus.” 
+ the researchers were able to combine different diagnostic approaches in a way that could provide a more complete picture of the microbiome, creating signatures that could potentially identify the microbial agent of the disease. “compared to the traditional approach, our technique uses multiple lines of evidence, including relative pathogen abundance, population clonality level and detection of virulence factors, and effects on the gut’s natural microbiome that haven’t been used together before,” konstantinidis said. 
+ the researchers also discovered that a strain known as diffuse adherent 
+ e. coli 
+ (daec) was accompanied by large amounts of co-eluted human dna in the stool sample. though daec is not generally considered a particularly virulent strain, the presence of human dna suggests that the daec may have been damaging epithelium cells in the gastrointestinal tract. 
+ “understanding changes in the gut microbiome can help us understand how different strains cause distinct pathogenicity and symptoms such as the elution of high amount of human dna and changes in the abundance of commensal microbiota,” konstantinidis said. “if infections like this happen often, that could have implications for a child’s growth and development.” 
+ the metagenomics technique could help provide a foundation for personalized medicine that would select therapies based on the specifics of the microbe – including its virulence and antibiotic resistance profiles. the study shows that the technology works and can be done quickly, but trained personnel are needed to make it more widely available. 
+ “in the next five or 10 years, we are going to see some big changes in which these new methodologies are adopted in the clinic, and that could lead, in the long term, to innovation in diagnosis and treatment,” he added. 
+ future work as part of another niaid award will examine how environmental factors – such as water quality, presence of animals in the home, and the chemical environment – affect the microbiomes of small children. in this cohort of children from different geographic areas, the team will examine additional enteric pathogens, and follow children for their first two years of life. this will offer the opportunity to understand whether infections are cleared from the body – or if they continue to lurk in low levels. 
+ in addition to those already mentioned, the authors included recent georgia tech school of biological sciences graduates angela peña-gonzalez and maria j. soto-girón, shanon smith, jeticia sistrunk, lorena montero, maritza páez, estefanía ortega, janet k. hatt, william cevallos, and gabriel trueba. 
+ funding for the study was provided by the national institute of allergy and infectious diseases through grant 1k01ai103544. the contents are solely the responsibility of the author and do not necessarily represent the official views of the nih. 
+ citation : angela peña-gonzalez, et al., “metagenomic signatures of gut infection caused by different escherichia coli pathotypes” ( applied and environmental microbiology , 2019). 
+ https: / / aem.asm.org / content / early / 2019 / 10 / 01 / aem.01820-19 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

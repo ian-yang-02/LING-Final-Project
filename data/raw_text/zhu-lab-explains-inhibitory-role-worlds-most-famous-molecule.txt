@@ -1,0 +1,41 @@
+Zhu Lab Explains the Inhibitory Role of World’s Most Famous Molecule
+New research teases apart the mechanisms behind the checkpoint protein PD-1
+Technology from the Zhu lab: A cell chamber is mounted on a microscope. Three micropipettes, inserted into the chamber from both sides, are used to aspirate individual cells, to bring them into contact so that researchers can study their interactions. This is the kind of methodology that Cheng Zhu and his colleagues used to study PD-1, which might be the most famous molecule in the world.
+May 18, 2021
+— Atlanta, GA
+A so-called “checkpoint” protein found on the immune system’s all-important T cells called PD-1 might be the most famous molecule on the planet. It was an anti-PD-1 drug, along with radiation therapy, that disintegrated former U.S. President Jimmy Carter’s brain tumors in 2015.
+Under normal conditions, PD-1 serves an important role as an off-switch, preventing well-intentioned T cells from running amok and attacking normal, healthy cells by mistake. It does this by binding with a protein called PD-L1, found on some normal and some cancer cells. This interaction basically signals the T cell to leave the other cell alone. Unfortunately, sometimes the other cell is cancer, which then goes unbothered because PD-1 told the T cell to stand down.
+The immunotherapy drug used to treat President Carter, Keytruda, is a checkpoint inhibitor. It inhibited PD-1, freeing the T cells to do their job and destroy the brain tumor. Since then, research into the molecule has expanded and PD-1 blockade continues its evolution as a promising treatment against solid tumors. The Japanese scientist who discovered the protein in 1992, Tasuku Honjo, won the Nobel Prize in 2018.
+“It has become a very hot molecule,” said
+Cheng Zhu , professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University and the George W. Woodruff School of Mechanical Engineering at Tech. “But only a minor fraction of cancer patients — about one third of the melanoma patients who have been treated with the blockade therapy — are responsive, indicating an incomplete understanding of how PD-1 works.”
+Zhu and his colleagues are particularly interested in explaining how PD-1 inhibits T-cell activity, and they unravel one part of the mystery in a new paper in
+Nature Communications . Using technology Zhu developed decades ago that measures the biochemistry on live cell membranes, the researchers discovered that PD-1 disrupts the recruitment of CD8, a protein co-receptor that partners in T cell signaling and activation.
+“The results of our study identify a PD-1 inhibitory mechanism that disrupts cooperative molecular interactions and prevents CD8 from augmenting antigen recognition,” Zhu said. “This explains the molecule’s potent inhibitory function regarding T cell activation and also explains its value as a target for clinical intervention.”
+The lead author on the paper is Kaitao Li, a research scientist in Zhu’s
+Cellular and Molecular Biomechanics Lab , who focused on PD-1 for his Ph.D. dissertation in 2016. Li’s interest in the molecule has only grown through his friendship with
+Rafi Ahmed’s
+lab at Emory. Ahmed is a co-author of the new
+Nature Communications
+paper.
+“I was taking an immunology class at Emory in 2010, and it was the first time I came across the PD-1 molecule,” Li recalled. “A friend of mine was a grad student in Rafi’s lab, and eventually, I became very inspired by their work.”
+Ahmed’s lab identified PD-1 as a major mediator of T cell dysfunction during chronic infection, work that ultimately translated into human clinical studies of blockade therapy. Meanwhile, the Zhu lab had been focusing mainly on the basic science of on T cell activation and T cell receptors – TCR, a protein complex used by T cells for recognizing invading antigens.
+“What excites me most is that [this study] reinforces and extends the work that Dr. Zhu did 10 years ago on the sequence of events leading up to T cell activation, but now it brings PD-1 into the story, revealing how PD-1 dampens T cell activation,” explained Simon Davis, paper co-author, whose immunology lab at the University of Oxford has studied PD-1 and other proteins for about 20 years. “We had proposed a long time ago that the activation sequence is dictated by the relative strengths of protein interactions involves, but Dr. Zhu’s lab was able to tease all this apart.”
+While Zhu’s lab is rich in basic science, there is a translational aspect to this work. A biotech company that spun out Davis’ work is interested in Zhu’s discoveries, particularly the series of interactions among all of these critical molecules engaged in the immune response, Davis said.
+And it’s bound to get more interesting going forward. Zhu and Li, who collaborated on PD-1 research for a paper in 2017, said they are planning two more studies focusing on the notable molecule, now the target of a hopeful treatment regimen that still has plenty of room for improvement.
+“There has certainly been some clinical success even though we don’t fully understand the mechanism behind it,” Zhu said. “But there is still a long way to go because two thirds of the patients are not responding successfully. Why? We have another study planned to try to answer that question.”
+This research was supported by National Institutes of Health grants
+U01CA214354, R01CA243486, and U01CA250040 (to C.Z. and R.A.).
+CITATIONS: Kaitao Li, Zhou Yuan, Jintian Lyu, Eunseon Ahn, Simon J. Davis, Rafi Ahmet, Cheng Zhu, “ PD-1 suppresses TCR-CD8 cooperativity during T-cell antigen recognition” ( Nature Communications , May 2021)
+Related Links:
+“ PD-1 suppresses TCR-CD8 cooperativity during T-cell antigen recognition” ( Nature Communications , May 2021)
+Cellular and Molecular Biomechanics Laboratory
+Jimmy Carter’s Cancer Immunotherapy Story
+Additional Images
+Contact
+Writer:
+Jerry Grillo
+Email
+Jerry.grillo@ibb.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

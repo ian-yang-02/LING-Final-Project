@@ -1,0 +1,39 @@
+periodontitis bacteria love colon and dirt microbes 
+ mythbuster: ideas that bacterial collaborations within microbiomes are generous and exclusive appear to be quite wrong. 
+ bacteria behind acute periodontitis. aggregatibacter actinomycetemcomitans most often lives peacefully in the mouth until circumstances lead it to become infectious. it forms flower-like colonies, here under a microscope sporting a colorful stain added by a researcher. aa is gram-negative. credit: derren ready (2012) cil:38942, cil. dataset. https: / / doi.org / doi:10.7295 / w9cil38942 creative commons license 
+ sep 09, 2019 
+ — atlanta, ga 
+ true or false? bacteria living in the same space, like the mouth, have evolved collaborations so generous that they are not possible with outside bacteria. that was long held to be true, but  in a new, large-scale study  of microbial interactions, the resounding answer was “false.” 
+ research led by the georgia institute of technology found that common mouth bacteria responsible for acute periodontitis fared better overall when paired with bacteria and other microbes that live anywhere but the mouth, including some commonly found in the colon or in dirt. bacteria from the oral microbiome, by contrast, generally shared food and assistance more stingily with gum infector  aggregatibacter actinomycetemcomitans , or  aa  for short. 
+ like many bacteria known for infections they can cause – like  strep  –  aa  often live peacefully in the mouth, and certain circumstances turn them into infectors. the researchers and their sponsors at the national institutes of health would like to know more about how  aa  interacts with other microbes to gain insights that may eventually help fight acute periodontitis and other ailments. 
+ “periodontitis is the most prevalent human infection on the planet after cavities,” said  marvin whiteley, a professor in georgia tech’s school of biological sciences  and the study’s principal investigator. “those bugs get into your bloodstream every day, and there has been a long, noted correlation between poor oral hygiene and prevalence of heart disease.” 
+ unnatural pairing 
+ the findings are surprising because bacteria in a microbiome have indeed evolved intricate interactions making it seem logical that those interactions would stand out as uniquely generous. some mouth microbes even have special docking sites to bind to their partners, and much previous research has tightly focused on their cooperations. the new study went broad. 
+ “we asked a bigger question: how do microbes interact with bugs they co-evolved with as opposed to how they would interact with microbes they had hardly ever seen. we thought they would not interact well with the other bugs, but it was the opposite,” whiteley said. 
+ the study’s scale was massive. researchers manipulated and tracked nearly all of  aa ’s roughly 2,100 genes using an emergent gene tagging technology while pairing  aa  with 25 other microbes — about half from the mouth and half from other body areas or the environment. 
+ they did not examine the mouth microbiome as a whole because multi-microbial synergies would have made interactions incalculable. instead, the researchers paired  aa  with one other bug at a time —  aa  plus mouth bacterium x,  aa  plus colon bacterium y,  aa  plus dirt fungus z, and so on. 
+ “we wanted to see specifically which genes  aa  needed to survive in each partnership and which ones it could do without because it was getting help from the partner,” said  gina lewin, a postdoctoral researcher  in whiteley’s lab and the study’s first author. they published their results  in the  proceedings of the national academy of sciences . 
+ q & a 
+ how could they tell that  aa  was doing well or poorly with another microbe? 
+ the researchers looked at each of  aa ’s genes necessary for survival while it infected a mouse -- when  aa  was the sole infector, when it partnered with a fellow mouth bacterium and when paired with a microbe from colon, dirt, or skin. 
+ “when  aa  was by itself, it needed a certain set of genes to survive – like for breathing oxygen,” lewin said. “it was striking that when  aa  was with this or that microbe that it normally didn’t live around, it no longer needed a lot of its own genes. the other microbe was giving  aa  things that it needed, so it didn’t have to make them itself.” 
+ “interactions between usual neighbors — other mouth bacteria — looked more frugal,” whiteley said. “ aa  needed a lot more of its own genes to survive around them, sometimes more than when it was by itself.” 
+ [ready for graduate school?  here's how to apply to georgia tech. ] 
+ how did the emerging genetic marking method work? 
+ to understand “transposon sequencing,” picture a transposon as a dna brick that cracks a gene, breaking its function. the brick also sticks to the gene and can be detected by dna sequencing, thus tagging that malfunction. 
+ every  aa  bacterium in a pile of 10,000 had a brick in a random gene. if  aa ’s partner bacterium, say,  e. coli,  picked up the slack for a broken function,  aa  survived and multiplied even with the damaged gene, and researchers detected a higher number of bacteria containing the gene. 
+ aa  surviving with more broken genes meant a partner microbe was giving it more assistance.  aa  bacteria with broken genes that a partner could not compensate for were more likely to die, reducing their count. 
+ does this mean the mouth microbiome does not have unique relationships? 
+ it very likely does have them, but the study’s results point to not all relationships being cooperative. some microbiomes could have high fences and share sparsely. 
+ “one friend or enemy may be driving your behavior, and other microbes may just be standing around,” lewin said. 
+ smoking, poor hygiene, or diabetes — all associated with gum disease — might be damaging defensive microbiomes and allowing outside bacteria to help  aa  attack gum tissue. it’s too early to know that, but whiteley’s lab wants to dig deeper, and the research could have implications for other microbiomes. 
+ also read:  test for life-threatening nutrient deficit made from bacteria entrails 
+ these researchers coauthored the study: apollo stacy from the national institute of infectious diseases and the national institute of general medical sciences, kelly michie from georgia tech, and richard lamont from the university of louisville. the research was funded by the national institutes of health’s national institute of infectious diseases (grants r01de020100, r01de023193) and the national institutes of health (grants f32de027281, f31de024931). any findings, conclusions or recommendations are those of the authors and not necessarily those of the national institutes of health. whiteley is also a  georgia research alliance eminent scholar and co-director of emory-children’s cystic fibrosis center. 
+ writer & media representative : ben brumfield (404-660-1408), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

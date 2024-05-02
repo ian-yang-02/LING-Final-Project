@@ -1,0 +1,43 @@
+Snaring Bacteria in DNA-based Nets the Way White Blood Cells Do
+Like Spiderman, white bloods cells shoot NETs at bacteria, made mostly of DNA, and this synthetic microweb emulates it.
+Nature inspired this synthetic microweb that nabs bacteria and allows antibiotics to more effectively kill them. White blood cells shoot so-called NETs like Spiderman at bacteria. NETs contain hundreds of ingredients, the main one being DNA, but researchers engineered their microweb with just DNA and one other ingredient. Credit: Georgia Tech / Ella Maru Studio (work for hire)
+Feb 11, 2019
+— Atlanta, GA
+One holds it; the other poisons it. This is how a white blood cell may someday work together with an antibiotic. Today's antibiotics are not particularly engineered to coordinate their fight against bacteria with white blood cells, the body’s own first line of defense against infectors, but a
+new study
+gives hope that that could change.
+How white blood cells called neutrophils work has not been understood well on a micron level, but researchers have gotten a closer look by chemically modeling one of their combat weapons, a kind of web, and trying it out on bacteria. The researchers then successfully double-teamed the bacteria with an antibiotic and their synthetic version of the white blood cell's web.
+“One of their (the cells') weapons are neutrophil extracellular traps, also called NETs,” said
+J. Scott VanEpps , assistant professor of emergency medicine at the University of Michigan. VanEpps co-led the study with Shuichi Takayama from the Georgia Institute of Technology.
+Shooting DNA webs
+NETs are microscopic networks of fibers made primarily of DNA that neutrophils produce to capture bacteria.
+“It’s amazing to think that molecular DNA tape, on which our genetic code is recorded, can also be used as a bacteria-lassoing web. White blood cells can act like cellular Spidermen that net bacterial micro-villains to protect our body,” said Takayama, who is a professor in Georgia Tech’s
+Petit Institute for Bioengineering and Biosciences
+and in the
+Wallace H Coulter Department of Biomedical Engineering at Georgia Tech and Emory University .
+Takayama and VanEpps synthesized a rough chemical imitation of the NETs to study how they work by snaring bacteria in the lab
+in vitro . They also found antibiotics killed bacteria more effectively when combined with the synthetic web than when applied alone. The researchers published their results in
+the journal
+Advanced Materials
+on January 20, 2018 .
+Snagging, poisoning
+E. coli
+“Although there are literally hundreds of different ingredients in natural NETs, we were able to recreate a lot of their structure and function with just two ingredients,” VanEpp said. “They look and function very similar to NETs produced by those neutrophil white blood cells and the synthesis method is much simpler than isolating them from neutrophils.”
+The researchers first used their microwebs to snare and kill bacteria in order to better understand how white blood NETs work. Then they combined their microwebs with antibiotics  in vitro  to test for increased drug effectiveness.
+Their results imply that the presence of white blood cell NETs in the body may increase the effectiveness of antibiotics. Also, the synthetic microwebs may have medical potential on their own.
+Fighting antibiotic resistance
+“As bacteria develop resistance even to last-resort antibiotics, there is worry of untreatable infections. We found that microwebs can help antibiotics break through such resistance,” said Takayama, who is also Price Gilbert, Jr. Chair in Regenerative Engineering and Medicine at Georgia Tech.
+“The knowledge gained in this study could be helpful in the future in designing new and better antibiotics that mimic the body’s natural defense mechanisms, as well as potentially change how we dose antibiotics given the potential synergy between the immune system and certain antibiotics,” VanEpps said.
+The new microwebs also serve as a foundation for future research on even more functions of DNA ejected outside of cells.
+“The ability to readily customize the microweb composition opens many opportunities to engineer new DNA materials that mimic biology and increase our understanding of the role of NETs and other types of extracellular DNA in the body,” Takayama said.
+These authors contributed to this study: Yang Song from Georgia Tech; Usha Kadiyala, Priyan Weerappuli, Srilakshmi Yalavarthi, Cameron Louttit, Jason S. Knight, and James J. Moon from the Unversity of Michigan; Jordan J. Valdez and David S. Weiss from Emory University School of Medicine. The research was funded by the National Institutes of Health: the National Institute of Allergy and Infectious Diseases, the National Institute of General Medical Sciences; and the National Heart, Lung, and Blood Institute ,
+(grants: NIH NIAID U19 AI116482, R01 AI141883, and K08 AI128006; NIGMS R01 GM123517; NHLBI R01 HL134846 and U01 CA210152), the Veterans Administration (merit award BX‐002788), and a Burroughs Wellcome Fund Investigator in the Pathogenesis of Infectious Disease award.
+Writers / media contacts:
+Kylie Urban, University of Michigan,
+kylieo@med.umich.edu
+Ben Brumfield, Georgia Institute of Technology,
+ben.brumfield@comm.gatech.edu , 404-660-1408
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

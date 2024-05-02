@@ -1,0 +1,48 @@
+Buzzing Cancer Drugs into Malignancies in the Brain
+As a new anti-cancer drug delivery method heads into phase I clinical trials, researchers explore the tissue-level mechanisms that make it work.
+An illustration of improved delivery of anti-cancer drugs to malignancies in the brain. On the left half, focused ultrasound agitates microbubbles, which breach the blood-brain barrier, allowing drug molecules to get through. The forces also stir interstitial fluid to circulate the drug, and they also encourage the drug to cross cell membranes more easily into tumor cells. Credit: Massachusetts General Hospital / Georgia Tech / Arvanitis / Askoxylakis
+Sep 07, 2018
+— Atlanta, GA
+Getting cancer drugs to permeate tumors can be tough, especially in the brain, but researchers have been using ultrasound to massage the drugs into malignancies that have taken root there. A
+new study
+details how the experimental method has overcome various barriers to treating cancers in the brain.
+“The blood-brain barrier is a challenge in the treatment of brain malignancies,” said Costas Arvanitis, an
+assistant professor at the Georgia Institute of Technology in the George W. Woodruff School of Mechanical Engineering.
+“Even when a drug reaches the brain’s circulation, abnormal blood vessels in and around tumors lead to non-uniform drug delivery with low concentrations in some areas of the tumor.”
+If a drug does make it through the distorted blood vessels, then dense tumorous tissue often blocks the drug’s path to the malignant cells. Arvanitis co-led the new study with Dr. Vasileios Askoxylakis at Massachusetts General Hospital to explore the effectiveness of ultrasound that is focused on affected brain areas to buzz the drugs through these barriers and into the cancer.
+Already, the method had proven effective enough in fighting tumors to make it to phase I clinical trials, but until now, it was not well observed how it actually worked.
+Beaming tumors
+Arvanitis, also an assistant professor in the Wallace E. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University, and his collaborators sought to determine tissue-level mechanisms behind the new ultrasound treatment’s improved drug delivery throughout brain tumors. The findings will help researchers and clinicians fine-tune this potential treatment against cancers in the brain.
+The team, which included researchers from the University of Edinburgh, and Brigham and Women’s Hospital,
+published its findings in the journal
+Proceedings of the National Academy of Sciences
+on August 27, 2018 . The research was funded by the National Institutes of Health, the German Research Foundation, the Solidar-Immun Foundation, the Harvard Ludwig Cancer Center, and the National Foundation for Cancer Research.
+The therapy is minimally invasive, focusing multiple beams of ultrasound energy onto a cancerous spot, where microbubbles, tiny lipid bubbles in the bloodstream that vibrate in response to ultrasound signals, can temporarily breach the blood-brain barrier at the target site. That creates an opening for drugs to get through. The microbubbles are injected intravenously before ultrasound is applied.
+Observing success
+The team studied the new method on mice with metastasized breast cancer cells in the brain. In lab experiments, the researchers observed improved delivery of two cancer therapies, the common chemotherapy drug doxorubicin, and the targeted drug
+T-DM1 .
+“We established that we were able to get more of both drugs across blood vessel walls,” said Yutong Guo, a graduate student in Arvanitis’s lab and coauthor of the study. “The doxorubicin molecule is small, and it got the bigger boost, but altogether, the therapy distributed more of both drugs to more tumor tissue.”
+Also, the fluid that surrounds cells, interstitial fluid, which can serve as a conduit for drugs, was seen flowing more freely between cells of a tumor in high-resolution images taken following ultrasound treatment. The drugs appeared to make it through significant barriers to reach tumors.
+“Evidence of increased cellular transmembrane transport and uptake of doxorubicin by focused ultrasound was largely unknown until now,” Askoxylakis said.
+The improved delivery dissipated five days after treatment, suggesting that the higher T-DM1 accumulation indeed had resulted from the ultrasound method better permeating blood vessels and tumor tissue.
+Optimizing treatment
+The researchers quantified the changes in tissues and in cellular drug transport properties using mathematical modeling and used this to devise parameters for optimal drug delivery, which may prove useful in the design of new rounds of clinical trials.
+“By explaining and underscoring the potential of combining focused ultrasound with different drugs for the treatment of brain metastases, our findings provide important scientific principles for the optimal clinical use of the technology,” said
+Rakesh Jain, who collaborated on the study and is a professor of radiation oncology at Harvard Medical School .
+The study may also stimulate a broader discussion on how some cancer drugs should be administered, perhaps in some cases as a slow infusion rather than a quicker injection. The researchers would like to explore tuning the new method to optimize delivery of varying drugs or engineered immune cells to fight an array of tumors occurring in the brain.
+Like this article?   Subscribe to our email newsletter
+Also READ:
+Punching Cancer with RNA Knuckles
+These researchers co-authored the study: Meenal Datta, Jonas Kloepper, Gino Ferraro, and Dai Fukumura of Steele Labs, Mass Gen Radiation Oncology; Miguel Bernabeu of the University of Edinburgh; and Nathan McDannold of Brigham and Women’s Hospital. The research was funded by the National Institutes of Health’s National Institute of Biomedical Imaging and Bioengineering (grant R00 EB016971) and the National Heart, Blood, and Lung Institute (F31 HL126449), the German Research Foundation (grant AS 422-2/1) and grants from the Solidar-Immun Foundation, the Harvard Ludwig Cancer Center, and the National Foundation for Cancer Research. Findings, opinions, and conclusions are those of the authors and not necessarily of the funding agencies.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media relations assistance : Ben Brumfield (404) 660-1408, ben.brumfield@comm.gatech.edu
+Writer:  Ben Brumfield
+Additional Images
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

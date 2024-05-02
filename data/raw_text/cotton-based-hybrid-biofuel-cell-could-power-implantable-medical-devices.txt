@@ -1,0 +1,37 @@
+Cotton-Based Hybrid Biofuel Cell Could Power Implantable Medical Devices
+A glucose-powered biofuel cell that uses electrodes made from cotton fiber could someday help power implantable medical devices.
+Chemically-modified cotton fibers are the basis for electrodes used in a new biofuel cell powered by glucose. (Credit: Georgia Department of Economic Development)
+Nov 16, 2018
+— Atlanta, GA
+A glucose-powered biofuel cell that uses electrodes made from cotton fiber could someday help power implantable medical devices such as pacemakers and sensors. The new fuel cell, which provides twice as much power as conventional biofuel cells, could be paired with batteries or supercapacitors to provide a hybrid power source for the medical devices.
+Researchers at the Georgia Institute of Technology and Korea University used gold nanoparticles assembled on the cotton to create high-conductivity electrodes that helped improve the fuel cell’s efficiency. That allowed them to address one of the major challenges limiting the performance of biofuel cells – connecting the enzyme used to oxidize glucose with an electrode.
+A layer-by-layer assembly technique used to fabricate the gold electrodes – which provide both the electrocatalytic cathode and the conductive substrate for the anode – helped boost the power capacity to as much as 3.7 milliwatts per square centimeter. Results of the research were reported October 26 in the journal Nature Communications.
+“We could use this device as a continuous power source for converting chemical energy from glucose in the body to electrical energy,” said Seung Woo Lee, an assistant professor in Georgia Tech’s Woodruff School of Mechanical Engineering. “The layer-by-layer deposition technique precisely controls deposition of both the gold nanoparticle and enzyme, dramatically increasing the power density of this fuel cell.”
+Fabrication of the electrodes begins with porous cotton fiber composed of multiple hydrophilic microfibrils – cellulose fibers containing hydroxyl groups. Gold nanoparticles about eight nanometers in diameter are then assembled onto the fibers using organic linker materials.
+To create the anode for oxidizing the glucose, the researchers apply glucose oxidase enzyme in layers alternating with an amine-functionalized small molecule known as TREN. The cathode, where the oxygen reduction reaction takes place, used the gold-covered electrodes, which have electrocatalytic capabilities.
+“We precisely control the loading of the enzyme,” Lee said. “We produce a very thin layer so that the charge transport between the conductive substrate and the enzyme is improved. We have made a very close connection between the materials so the transport of electrons is easier.”
+The porosity of the cotton allowed an increase in the number of gold layers compared to a nylon fiber. “Cotton has many pores that can support activity in electrochemical devices,” explained Yongmin Ko, a visiting faculty member and one of the paper’s co-authors. “The cotton fiber is hydrophilic, meaning the electrolyte easily wets the surface.”
+Beyond improving the conductivity of the electrodes, the cotton fiber could improve the biocompatibility of the device, which is designed to operate at low temperature to allow use inside the body.
+Implantable biofuel cells suffer from degradation over time, and the new cell developed by the U.S. and Korean team offers improved long-term stability. “We have a record high power performance, and the lifetime should be improved for biomedical applications such as pacemakers,” Lee said.
+Pacemakers and other implantable devices are now powered by batteries that last years, but may still require replacement in a procedure that requires surgery. The biofuel cell could provide a continuous charge for those batteries, potentially extending the time that devices may operate without battery replacement, Lee added.
+In addition, the biofuel cell could be used to power devices intended for temporary use. Such devices might be implanted to provide timed release of a drug, but would biodegrade over time without requiring surgical removal. For these applications, no battery would be included, and the limited power required could be provided by the biofuel cell.
+Future goals of the research include demonstrating operation of the biofuel cell with an energy storage device, and development of a functional implantable power source. “We want to develop other biological applications for this,” said Lee. “We’d like to go farther with other applications including batteries and high-performance storage.”
+In addition to those already named, the research team included Cheong Hoon Kwon, Dongyeeb Shin, Minseong Kwon and Jinhan Cho of Korea University, Jinho Park of Georgia Tech and Wan Ki Bae of SKKU Advanced Institute of Nano Technology at Sungkyunkwan University.
+This work was supported by a National Research Foundation (NRF) grant funded by the Korean Ministry of Science, ICT & Future Planning (MSIP) (2018R1A2A1A05019452; 2016M3A7B4910619) and the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (NRF2017R1A6A3A04003192).
+CITATION : Cheong Hoon Kwon, et al., “High-power hybrid biofuel cells using layer-by-layer assembled glucose oxidase-coated metallic cotton,” (Nature Communications 9, 2018) http://dx.doi.org/ 10.1038/s41467-018-06994-5
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Assistance : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

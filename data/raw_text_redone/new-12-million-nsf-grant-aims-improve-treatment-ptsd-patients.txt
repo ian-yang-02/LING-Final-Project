@@ -1,0 +1,42 @@
+new $1.2 million nsf grant aims to improve treatment for ptsd patients 
+ the grant -- which includes georgia tech, emory, and the university of rochester -- will fund the development of a computational assessment toolkit for patients and clinicians. 
+ oct 02, 2019 
+ — atlanta, ga 
+ post-traumatic stress disorder (ptsd), particularly among veterans returning from combat zones or other troubling situations, is a devastating mental condition with tremendous individual and societal costs. about 12 percent of gulf war veterans and 15 percent of vietnam veterans suffer from ptsd according to a 2019 article in 
+ u.s. news and world report . while recovery is possible, it requires intensive therapeutic engagement that less than 50 percent of affected veterans actually seek out. 
+ a new four-year, $1.2 million grant 
+ from the 
+ national science foundation 
+ to a team of researchers from georgia tech, emory university, and the university of rochester will help bridge this gap by funding the development of a computational assessment toolkit for ptsd patients and clinicians, called pe collective sensing system (pecss). pecss, which will sit atop the pe coach app developed by the veterans health administration and the department of defense, will aim to improve current treatment practices and increase the number of veterans who seek treatment. 
+ “pecss will allow clinicians to use automated predictions to deliver better therapeutic treatment and individualized feedback, and patients to better understand the progress they are making and how to improve their exposure exercises,” said 
+ rosa arriaga , a senior research scientist in 
+ georgia tech’s school of interactive computing 
+ and the principal investigator on the project. 
+ [the interaction hour podcast: is technology a game changer for care of ptsd patients?, featuring dr. rosa arriaga] 
+ currently, the most common and empirically-supported treatment for ptsd is “prolonged exposure” (pe) therapy. the treatment consists of imaginal exposure, where patients imagine themselves and narrate their traumatic event, and in-vivo exposure to real-world stimuli in safe but challenging environments. 
+ there are, however, challenges in data collection and extraction, which is often subjective and narrow. this project will address those challenges by developing a novel, user-tailored sensing system that can record and transfer information from exercises, continuously monitoring patients and clinicians 
+ “clinicians are in urgent need of methods, tools, and data to efficiently track, assess, and respond to mental health needs throughout the treatment process,” arriaga said. 
+ the project will involve insights from experts in multiple fields – ubiquitous computing, human-computer interaction, applied machine learning, psychology, and more. when complete, the system will be deployed at the 
+ emory healthcare veterans program , a nationally-renowned initiative that treats members of the military suffering from ptsd. 
+ “the trauma and anxiety recovery program that includes the emory veterans program has been on the cutting edge in using technology to advance the care of people suffering with anxiety since it was founded by dr. 
+ barbara rothbaum 
+ over 25 years ago,” said 
+ sheila rauch , an associate professor in emory’s department of psychiatry and behavioral sciences and a co-principal investigator on the project. 
+ “as a team of international experts in ptsd treatment, we integrate technology to speed response to treatment and help patients to visualize the changes as they respond to care. our aim is to use this real-time data to find tune practice for the individual patient and learn across patients how we can improve care.” 
+ “mental health clinicians and their patients are in urgent need of 21 st -centural methods, tools, and objective data to optimize therapy,” added emory assistant professor 
+ andrew sherrill , another co-principal investigator. “this partnership will bring together innovators in hci and evidence-based psychotherapy to transform mental health care for ptsd patients.” 
+ this grant is provided under the 
+ nsf smart and connect health funding program 
+ in its 
+ division of information and intelligent systems . 
+ additional images 
+ related links 
+ human-centered computing at georgia tech 
+ the interaction hour: is technology a game changer for care of ptsd patients? 
+ contact 
+ david mitchell 
+ communications officer 
+ david.mitchell@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

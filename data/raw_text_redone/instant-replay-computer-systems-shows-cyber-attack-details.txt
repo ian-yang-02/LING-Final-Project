@@ -1,0 +1,47 @@
+“instant replay” for computer systems shows cyber attack details 
+ a new cybersecurity system provides investigators with an instant replay of attacks. 
+ a new cybersecurity system developed by researchers at the georgia institute of technology and known as refinable attack investigation (rain) will provide forensic investigators a detailed record of an intrusion, even if the attackers attempted to cover their tracks. 
+ oct 30, 2017 
+ — atlanta, ga 
+ until now, assessing the extent and impact of network or computer system attacks has been largely a time-consuming manual process. a new software system being developed by cybersecurity researchers at the georgia institute of technology will largely automate that process, allowing investigators to quickly and accurately pinpoint how intruders entered the network, what data they took and which computer systems were compromised. 
+ known as refinable attack investigation (rain), the system will provide forensic investigators a detailed record of an intrusion, even if the attackers attempted to cover their tracks. the system provides multiple levels of detail, facilitating automated searches through information at a high level to identify the specific events for which more detailed data is reproduced and analyzed. 
+ “you can go back and find out what has gone wrong in your system, not just at the point where you realized that something is wrong, but far enough back to figure out how the attacker got into the system and what has been done,” said 
+ wenke lee , co-director of georgia tech’s 
+ institute for information security & privacy . 
+ the research, supported largely by the defense advanced research projects agency (darpa) and also by the national science foundation and office of naval research, is scheduled to be reported october 31 at the 2017 acm conference on computer and communications security (ccs). 
+ existing forensic techniques can provide detailed information about the current status of computers and networks; from that information, investigators can then attempt to infer how attacks unfolded. digital logs maintained by the systems provide some information about attacks, but because of concerns about data storage issues, usually don’t record enough detail. other programs provide snapshots in time, but those snapshots may miss important details of an attack. 
+ the rain system continuously monitors a system and logs events that it recognizes as potentially interesting. that ability to selectively record information likely to be useful later allows a trade-off between realistic overhead – in terms of system performance and data storage – and useful levels of detail. the system “effectively prunes out unrelated processes and determines attack causality with negligible false positive rates,” the authors wrote in their conference paper. 
+ in addition to its selectivity in recording events, rain creates a multi-level review capability that is coarse at first, then more detailed when specific events of interest are identified. timing of the activities – the inputs, environment and resulting actions – are also synchronized to help investigators understand a complex sequence of activities. 
+ “during the replay of an event, we use binary dynamic instrumentation tools to do the extraction of the appropriate information,” said 
+ taesoo kim , an assistant professor in georgia tech’s 
+ school of computer science 
+ and one of the paper’s co-authors. “we organize information in a hierarchical way, and for each level apply a different type of automated analysis. at the deepest layer, we can tell what happened at the byte level.” 
+ the hierarchical approach allows still more flexibility in how the analysis is done after an attack. 
+ “these fine-grained analyses, which can be extremely useful when investigating an attack, would be too expensive to perform on a deployed system; but our hierarchical approach allows us to run these analysis off-line, and only when necessary,” said 
+ alessandro orso , associate chair of georgia tech’s school of computer science and another co-author. 
+ even with rain’s selectivity, storing the relevant information requires significant capacity, but the advent of inexpensive storage makes that practical, said kim. for instance, an average desktop computer might generate four gigabytes of system data per day, less than two terabytes per year. that amount of storage can now be purchased for as little as $50 per year. 
+ “i think we are getting into an affordable range of storage cost,” kim said. 
+ assessing the damage done by intruders now often takes weeks or months. beyond accelerating that process, rain could help the operators of high-value military or commercial computer networks continually improve their security by providing a level of visibility that is impossible today, lee said. 
+ “when this is deployed, organizations can have complete transparency, or visibility, about what went wrong,” he explained. “the operators of any network housing important data would want to have something like this to replace a manual process with a much more precise and automated technique.” 
+ the research team is in the third year of a four-year project funded by darpa. additional improvements are being made to the system with a goal of transitioning it to industry. 
+ “this would likely become an independent system that does the logging and interface for other security systems to understand what has happened,” lee explained. “this could be the first product that actually logs the necessary information to reconstruct, or replay, and analyze events that have happened on a computer system, for the first time enabling automated forensics.” 
+ in addition to those already mentioned, the research team included yang ji, sangho lee, evan downing, weiren wang and mattia fazzini, all from georgia tech. 
+ summaries 
+ of georgia tech research being presented at the 2017 acm conference on computer and communications security. 
+ this research was supported by the nsf under awards cns-0831300, cns-1017265, dge-1500084, ccf-1548856, cns-1563848, sfs-1565523, cri-1629851, cns-1704701, ccf-0541080, and ccr-0205422; by the onr through grants n000140911042 and n000141512162, and by darpa tc through grants fa8650-15-c-7556 and hr0011-16-c-0059, nrf bsrp / moe 2017r1a6a3a03002506. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsor agencies. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

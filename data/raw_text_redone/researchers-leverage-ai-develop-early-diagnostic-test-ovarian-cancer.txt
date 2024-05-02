@@ -1,0 +1,60 @@
+researchers leverage ai to develop early diagnostic test for ovarian cancer 
+ the georgia tech integrated cancer research center has combined machine learning with information on blood metabolites to develop a new early diagnostic test that detects ovarian cancer with 93 percent accuracy. 
+ micrograph of a mucinous ovarian tumor (photo national institutes of health) 
+ jan 29, 2024 
+ for over three decades, a highly accurate early diagnostic test for ovarian cancer has eluded physicians. now, scientists in the 
+ georgia tech integrated cancer research center (icrc) 
+ have combined machine learning with information on blood metabolites to develop a new test able to detect ovarian cancer with 93 percent accuracy among samples from the team’s study group. 
+ john mcdonald , professor emeritus in the 
+ school of biological sciences , founding director of the icrc, and the study’s corresponding author, explains that the new test’s accuracy is better in detecting ovarian cancer than existing tests for women clinically classified as normal, with a particular improvement in detecting early-stage ovarian disease in that cohort. 
+ the team’s results and methodologies are detailed in a new paper, 
+ “a personalized probabilistic approach to ovarian cancer diagnostics,” 
+ published in the march 2024 online issue of the medical journal 
+ gynecologic oncology . based on their computer models, the researchers have developed what they believe will be a more clinically useful approach to ovarian cancer diagnosis — whereby a patient’s individual metabolic profile can be used to assign a more accurate probability of the presence or absence of the disease. 
+ “this personalized, probabilistic approach to cancer diagnostics is more clinically informative and accurate than traditional binary (yes / no) tests,” mcdonald says. “it represents a promising new direction in the early detection of ovarian cancer, and perhaps other cancers as well.” 
+ the study co-authors also include 
+ dongjo ban , a bioinformatics ph.d. student in mcdonald’s lab; research scientists 
+ stephen n. housley , 
+ lilya v. matyunina , and 
+ l.deette (walker) mcdonald ; regents’ professor 
+ jeffrey skolnick , who also serves as mary and maisie gibson chair in the school of biological sciences and georgia research alliance eminent scholar in computational systems biology; and two collaborating physicians: university of north carolina professor 
+ victoria l. bae-jump 
+ and ovarian cancer institute of atlanta founder and chief executive officer 
+ benedict b. benigno . members of the research team are forming a startup to transfer and commercialize the technology, and plan to seek requisite trials and fda approval for the test. 
+ silent killer 
+ ovarian cancer is often referred to as the silent killer because the disease is typically asymptomatic when it first arises — and is usually not detected until later stages of development, when it is difficult to treat. 
+ mcdonald explains that while the average five-year survival rate for late-stage ovarian cancer patients, even after treatment, is around 31 percent — but that if ovarian cancer is detected and treated early, the average five-year survival rate is more than 90 percent. 
+ “clearly, there is a tremendous need for an accurate early diagnostic test for this insidious disease,” mcdonald says. 
+ and although development of an early detection test for ovarian cancer has been vigorously pursued for more than three decades, the development of early, accurate diagnostic tests has proven elusive. because cancer begins on the molecular level, mcdonald explains, there are multiple possible pathways capable of leading to even the same cancer type. 
+ “because of this high-level molecular heterogeneity among patients, the identification of a single universal diagnostic biomarker of ovarian cancer has not been possible,” mcdonald says. “for this reason, we opted to use a branch of artificial intelligence — machine learning — to develop an alternative probabilistic approach to the challenge of ovarian cancer diagnostics.” 
+ metabolic profiles 
+ georgia tech co-author dongjo ban, whose thesis research contributed to the study, explains that “because end-point changes on the metabolic level are known to be reflective of underlying changes operating collectively on multiple molecular levels, we chose metabolic profiles as the backbone of our analysis.” 
+ “the set of human metabolites is a collective measure of the health of cells,” adds coauthor jeffrey skolnick, “and by not arbitrarily choosing any subset in advance, one lets the artificial intelligence figure out which are the key players for a given individual.” 
+ mass spectrometry can identify the presence of metabolites in the blood by detecting their mass and charge signatures. however, ban says, the precise chemical makeup of a metabolite requires much more extensive characterization. 
+ ban explains that because the precise chemical composition of less than seven percent of the metabolites circulating in human blood have, thus far, been chemically characterized, it is currently impossible to accurately pinpoint the specific molecular processes contributing to an individual's metabolic profile. 
+ however, the research team recognized that, even without knowing the precise chemical make-up of each individual metabolite, the mere presence of different metabolites in the blood of different individuals, as detected by mass spectrometry, can be incorporated as features in the building of accurate machine learning-based predictive models (similar to the use of individual facial features in the building of facial pattern recognition algorithms). 
+ “thousands of metabolites are known to be circulating in the human bloodstream, and they can be readily and accurately detected by mass spectrometry and combined with machine learning to establish an accurate ovarian cancer diagnostic,” ban says. 
+ a new probabilistic approach 
+ the researchers developed their integrative approach by combining metabolomic profiles and machine learning-based classifiers to establish a diagnostic test with 93 percent accuracy when tested on 564 women from georgia, north carolina, philadelphia and western canada. 431 of the study participants were active ovarian cancer patients, and while the remaining 133 women in the study did not have ovarian cancer. 
+ further studies have been initiated to study the possibility that the test is able to detect very early-stage disease in women displaying no clinical symptoms, mcdonald says. 
+ mcdonald anticipates a clinical future where a person with a metabolic profile that falls within a score range that makes cancer highly unlikely would only require yearly monitoring. but someone with a metabolic score that lies in a range where a majority (say, 90%) have previously been diagnosed with ovarian cancer would likely be monitored more frequently — or perhaps immediately referred for advanced screening. 
+ citation : 
+ https: / / doi.org / 10.1016 / j.ygyno.2023.12.030 
+ funding 
+ this research was funded by the ovarian cancer institute (atlanta), the laura crandall brown foundation, the deborah nash endowment fund, northside hospital (atlanta), and the mark light integrated cancer research student fellowship. 
+ disclosure 
+ study co-authors john mcdonald, stephen n. housley, jeffrey skolnick, and benedict b. benigno are the co-founders of myoncodx, inc., formed to support further research, technology transfer, and commercialization for the team’s new clinical tool for the diagnosis of ovarian cancer. 
+ related links 
+ diagnosing the “silent killer”: ai tackles early stage ovarian cancer 
+ machine learning–based classifier accurately identifies ovarian cancer 
+ contact 
+ writer: renay san miguel 
+ communications officer ii / science writer 
+ college of sciences 
+ 404-894-5209 
+ editor: jess hunt-ralston 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

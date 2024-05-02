@@ -1,0 +1,39 @@
+How the Elephant Uses its Trunk to Eat
+A new study shows how elephants use the trunks to compress food before eating it.
+A new study demonstrates the physics that elephants use to feed themselves the massive quantities of leaves, fruit and roots needed to sustain their multi-ton bodies. (Credit: Zoo Atlanta)
+Oct 24, 2018
+— Atlanta, GA
+A new study demonstrates the physics that elephants use to feed themselves the massive quantities of leaves, fruit and roots needed to sustain their multi-ton bodies.
+A human can pick up multiple objects at once by squeezing them together with both hands and arms. An African elephant also picks up many items at once but with only one appendage—its soft, heavy trunk. How the elephant solves this challenge could provide inspiration for future robotics.
+A wild African elephant eats rapidly, consuming 190 grams of food a minute, to provide adequate fuel for its vast bulk. “Elephants are in a rush when they are eating,” said David L. Hu, associate professor in the School of Mechanical Engineering and the School of Biology at the Georgia Institute of Technology. The elephant diet consists of large volumes of plant materials such as leaves, fruit and roots. To eat these, elephants sweep loose items into a pile and crush them into a manageable solid that can be picked up by the trunk.
+“They don’t just use the trunk’s strong muscles to squeeze the plants together,” said Hu. “The elephants also use the weight of the trunk, and they do that by forming a joint in the trunk. The trunk below the joint becomes a stiff pillar that applies weight to the pile of plant materials.”
+About 30 percent of the applied force is derived from the pillar’s weight alone, and about 70 percent from exerting muscular effort, according to a new study published in the
+Journal of the Royal Society Interface
+by Hu and colleagues at Georgia Tech, the Rochester Institute of Technology and Zoo Atlanta.
+The African elephant can raise or lower the trunk joint’s height by up to 11 centimeters to increase or reduce the applied force. “When elephants need more force, the joint is higher up on the trunk,” Hu said. Elephant trunks weigh about 150 kilograms and have 40,000 muscles. “The huge number of muscles in the trunk allows the elephant great freedom for where it puts this joint.”
+Hu and his colleagues studied a 34-year-old female African elephant (Loxodonta africana) over several weeks in the summer of 2017. All experiments were supervised by the staff at Zoo Atlanta. Food was arranged by hand into a pile in the center of a force plate to measure how much force the animal generated.
+The elephant’s trunk is similar to other boneless organs in nature such as the octopus’s arm and the human tongue. But unlike an octopus’s arm, an elephant’s trunk is heavy enough to provide significant force on an object without muscular pressure. This is the first study to show that an animal can use the weight of its own appendage to help apply force and the first with a live elephant to understand forces that it can apply to materials.
+Using mathematical models, the researchers found that the greater the number of objects to be squeezed and picked up, the greater the force that must be applied.
+“Picking up two objects requires very little force to press them together, while picking up 40,000 objects requires a lot of force,” Hu said. This principle was tested experimentally with the live elephant by presenting multiple food items varying in number from four to 40,000 in number. The experiments showed that the elephant could vary forces applied with its trunk by a factor of four depending on the number of food items to be picked up.
+This research could have applications in robotics, where heavier machines would appear to have few advantages over smaller ones. But, in the future, heavy robotic manipulators could be designed with several adjustable joints that use the device’s own weight to provide adjustable pressure and save energy. There are currently no commercial robots designed to apply their own weight to objects, Hu noted.
+“You could have future robots with several joints, which could apply various weight pressures below joints to help compress objects together for lifting them efficiently,” said Hu. “This would allow you to use the weight of the joints themselves to provide force instead of relying on batteries and extra motors to apply these forces, and that would mean using less energy. For instance, you could have a heavy robot with four joints, and by bending the top joint, the weight below it could apply a load. If you wanted to provide less weight pressure, you could instead bend the second-from-the-top joint. This study shows that there are some advantages for robots in being big and heavy.”
+African elephants like the ones in this study have two muscular extensions at the tip of their trunk resembling a pair of fingers that also could be studied as models for future robotics. It’s not well known that elephants have such projections, and this understanding could inform work that is already underway. “The elephant’s technique with these extensions might be used to develop soft robotic grippers that can pick up delicate items such as fruit without damaging them,” Hu noted.
+This work was supported by the U.S. Army Research Laboratory and the U.S. Army Research Office Mechanical Sciences Division, Complex Dynamics and Systems Program, under contract W911NF-12-R-0011.
+CITATION : Jianing Wu, et al., “Elephant trunks form joints to squeeze together small objects,” (Journal of the Royal Society Interface 15, 2018)
+http://dx.doi.org/10.1098/rsif.2018.0377
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986)(jtoon@gatech.edu).
+Writer : John Tibbetts
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

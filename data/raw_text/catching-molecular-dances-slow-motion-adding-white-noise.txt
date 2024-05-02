@@ -1,0 +1,67 @@
+Catching Molecular Dances in Slow Motion by Adding White Noise
+Counterintuitive addition of noise to AFM instrument requiring quiet boosts its performance
+An atomic force microscope allows scientists to observe molecular interactions important to understanding life processes. Georgia Tech mechanical engineers focusing on biotechnology recently significantly improved AFM's sensitivity by adding electronic white noise. Credit: Georgia Tech /  Rob Felt
+Nov 21, 2016
+— Atlanta
+In extreme slow-motion, a molecule of medicine entering a cell receptor would look a little like a Soyuz space capsule docking at the International Space Station. It would brake here, boost there; rotate, translate and then, with a light jolt, lock into place.
+In real time, large molecules interact in nanosecond speed, practically instantaneously, making them nearly impossible to watch. But scientists are a step closer to being able to observe their moves -- play-by-play -- thanks to novel fine-tuning of an atomic scale instrument by engineers at the
+Georgia Institute of Technology.
+The advancement could someday help researchers figure out why some drugs work well and others less so, and measure details about the workings of life at their root.
+Atomic forces seen clearly
+The improvement works by carefully adding electronic white noise to a sensing probe inside an
+atomic force microscope (AFM),
+which is already sensitive enough to detect forces exerted by interacting molecules, such as protein receptors and vitamins. But even with those abilities at a nanometer scale, in a slight but significant way,
+AFM
+can be a blunt instrument.
+“There’s an inability of the probe to sample the deepest part of the interaction,” said researcher
+Todd Sulchek, an associate professor at Georgia Tech’s School of Mechanical Engineering . “You either see how these molecules are bound together or unbound. It was either black or white, but now we’re succeeding at getting varying shades of gray.”
+Sulchek and graduate researchers
+Ahmad Haider
+and
+Daniel Potter
+published the results of their engineering solution in  the journal the
+Proceedings of the National Academy of Sciences
+Early Edition
+the week of November 21, 2016. Their research was funded by the National Science Foundation.
+Cone wiggling a cantilever
+Molecules have tractor beams, albeit weak ones. They tug at each other with an  array of faint forces, such as van der Waals interactions , mostly generated though negative or positive polarities spread around the molecules.
+Atomic force microscopes measure those attracting energies by sticking a nanoscale cone-shaped probe close to the molecules to feel the forces out as they interact. The cone is attached to a
+cantilever , a flexible tiny stick, and makes it wiggle, as the atomic forces tug the cone this way or that.
+The cantilever transfers the quivering into the microscope, which turns it into a usable signal much the way the needle of a turntable transfers vibrations from a record to be converted into sound. The resulting signal illustrates what is called an energy well. The top of the well is the point where the adhesive forces are about to take hold, and the bottom is a point about where the molecules meet.
+Falling into the energy well
+But as the forces pull the cone and the molecules it’s observing closer to each other, at some point, they basically jerk together, preventing a detailed measurement of the gradient of energy. As a result, as the cone approaches the interacting molecules, researchers see the top of the energy well and the end of the interaction, but the details of the well’s walls, particularly deep down where the molecules most closely interact, invariably elude them.
+“The way we got around it was, we simply added some electronic noise in a well-defined manner, and that allowed the probe to feel the interaction when it was still relatively far away from the surface of the molecules,” Sulchek said. The electronic vibration, called enhanced
+stochastic
+fluctuation, also diluted the effect of the adhesive forces that otherwise would have snatched the cantilever and molecules together.
+“What I think is neat is that it’s counterintuitive, because you usually try to eliminate noise from your system to get more accurate measurements, but we’re adding noise,” Sulchek said. The improvement gets around potential bias produced by the addition of noise by allowing researchers to take more samples and longer ones, effectively cancelling the effects of the noise in the overall data.
+Adding some noise may sound simple, but it took Haider and Potter a good two years to figure out how it could work and to make tedious adjustments to the instrumentation.
+Bacterial vise grip ballet
+The researchers used interactions between the cantilever and a material called
+mica
+to finish developing the improvement. Mica has a predictable shape and charge, good for benchmarking – it’s very smooth. “Mica is atomically flat,” Sulchek said. “That and graphite are about the two flattest surfaces that you can construct.”
+Now, Sulchek’s team is testing the improved cantilever in a biological scenario -- a protein from
+Streptomyces avidinii
+bacteria, which eats up the vitamin
+biotin
+with a vengeance. The protein, streptavidin, binds with biotin so tightly, that researchers commonly use it to study molecular adhesion.
+“It’s the strongest bio-interaction known to science,” Sulchek said. Streptavidin’s vise grip makes for a well standardized test case for the newly fine-tuned device.  “A flap opens up and the biotin fits in it like a glove,” Sulchek said. “We want to see if we can watch how that happens and measure its energy well.”
+Cancer, AIDS, autoimmune disease
+That puts Sulchek closer to his dream of an instrument to boost experimental biomolecular research, and potentially lead to insights useful to medicine. “I want to have a tool to visualize these intermediate steps,” he said. “I want a tool to see those short-lived states."
+Researchers could use such an improved tool to better understand autoimmune disorders, immunotherapy to treat cancer or the ability of HIV to thwart an antibody defense.
+“Many
+antibodies have two binding
+sites, and there’s a reason for that, but we don’t yet understand why,” Sulchek said. “We do know that you don’t want antibodies to interact too strongly.” When they do, it can result in autoimmune diseases.
+“There’s a lot of therapeutics involving antibodies, and some work well; others don’t work well,” Sulchek said. Antibodies may not attach optimally to HIV, for example, because they’re having a hard time wrapping around the virus.
+Capturing the clumsy action in extreme slow motion could someday help biomedical researchers design a more effective antibody to further foil the virus.
+The research was funded by the National Science Foundation (grant CBET-CAREER-1055437). Findings and opinions in this article are those of the scientists and authors and not of the funding agency.
+READ: Tiny mirror makes microscope see cells in 3D
+Additional Images
+Contact
+Writer and media contact: Ben Brumfield
+Cell: 404-660-1408
+Research communications
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

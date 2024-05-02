@@ -1,0 +1,27 @@
+the health informatics revolution 
+ georgia tech is advancing health informatics in ways that will affect the future of health care. 
+ with support from the centers for disease control and prevention (cdc), georgia tech is examining death certificate data to determine what can be learned from these records. shown are may dongmei wang, a professor in the department of biomedical engineering at georgia tech and emory university, and the school of electrical and computer engineering; paula braun, entrepreneur-in-residence at the cdc; and mark braunstein, m.d., a professor of the practice in georgia tech’s college of computing. (credit: rob 
+ dec 09, 2016 
+ — atlanta 
+ when your doctor diagnoses a condition and recommends a course of treatment, she relies on her extensive training, guidelines from professional medical organizations, and previous experience with thousands of other patients. 
+ but what if your diagnosis and treatment could be further informed by the experience of millions of other patients, including those who not only had similar symptoms, but perhaps also were your age, gender, ethnicity — and with similar medical history? that’s among the benefits coming soon from health analytics and informatics. 
+ using massive data sets, machine learning, and high-performance computing, health analytics and informatics is drawing us closer to the holy grail of health care: precision medicine, which promises diagnosis and treatment tailored to individual patients. the information, including findings from the latest peer-reviewed studies, will arrive on the desktops and mobile devices of clinicians in health care facilities large and small through a new generation of decision-support systems. 
+ “there are massive implications over the coming decade for how informatics will change the way care is delivered, and probably more so for how care is experienced by patients,” said jon duke, m.d., director of georgia tech’s center for health analytics and informatics. “by providing data both behind the scenes and as part of efforts to change behavior, informatics is facilitating our ability to understand patients at smaller population levels. this will allow us to focus our diagnostic paths and treatments much better than we could before.” 
+ at georgia tech, health informatics researchers are partnering with both public- and private-sector organizations to develop and apply transformative technology that will connect incompatible systems and analyze vast data sets. this technology also will help clinicians track the latest research, potentially shortening the time required to move health care advances into practice. 
+ “our goal is to be directly involved with that health care transformation and to be one of the contributors focusing on what technology can do well,” said steve rushing, senior strategic advisor for health extension services at georgia tech. “technology has to be leveraged in a way that will meet the goals of improving the quality of care, bettering the patient experience, and addressing the rising cost of health care.” 
+ georgia tech’s health informatics effort combines academic researchers in computing and the biosciences, practitioners familiar with the challenges of the medical community, extension personnel who understand the issues private companies face, and engineers and data scientists with expertise in building and operating secure networks tapping massive databases. 
+ “it takes all of these components to really make a difference in an area as complex as health informatics,” said margaret wagner dahl, georgia tech’s associate vice president for information technology and analytics. “this integrated approach allows us to add value to collaborators as diverse as pharmaceutical companies, health care providers, large private employers, and federal agencies.” 
+ see the complete article 
+ from 
+ research horizons 
+ magazine. 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,27 @@
+Addressing the Microchip Shortage
+Georgia Tech expert predicts that America will need to make major changes to the manufacturing and supply chain
+Jan 21, 2022
+— Atlanta, GA
+This country’s semiconductor chip shortage is likely to continue well into 2022, and a Georgia Tech expert predicts that the U.S. will need to make major changes to the manufacturing and supply chain of these all-important chips in the coming year to stave off further effects.
+That includes making more of these chips here at home.
+Madhavan Swaminathan is the John Pippin Chair in Electromagnetics in the School of Electrical and Computer Engineering. He also  serves as director of the 3D Systems Packaging Research Center.
+As an author of more than 450 technical publications who holds 29 patents, Swaminathan is one of the world’s leading experts on semiconductors and the semiconductor chips necessary for many of the devices we use every day to function.
+“Almost any consumer device that is electronic tends to have at least one semiconductor chip in it,” Swaminathan explains. “The more complicated the functions any device performs, the more chips it is likely to have.”
+Some of these semiconductor chips process information, some store data, and others provide sensing or communication functions.
+In short, they are crucial in devices from video games and smart thermostats to cars and computers.
+Our current shortage of these chips began with the Covid-19 pandemic. When consumers started staying at home and car purchases took a downward turn, chip manufacturers tried to shift to make more chips for other goods like smartphones and computers.
+But Swaminathan explains that making that kind of switch is not simple. Entire production operations have to be changed. The chips are highly sensitive and can be damaged by static electricity, temperature variations, and even tiny specks of dust. The manufacturing environments must be highly regulated, and changes in the process can add months.
+The pandemic highlighted another challenge with the semiconductor chip industry, according to Swaminathan.
+“There’s a major shortage of companies making chips,” he says. “If you look worldwide, there are maybe four or five manufacturers making 80-90% of these chips and they are located outside of the United States.”
+This creates supply chain hiccups with the raw supplies needed to make these chips as well. Add in the fact that many of these companies only design their chips – they don’t manufacture them directly.
+“American consumers use 50% of the world’s chips,” Swaminathan says, which creates a serious challenge when the overwhelming majority of those chips are manufactured in other nations.
+In the short term, the costs of the chip shortage is being passed on to the consumer. We see this directly with products like PlayStations and Xboxes that are more and more expensive and harder to purchase when the chips necessary for the consoles to function are in short supply.
+Beyond 2022, Swaminathan says we need to work to revitalize the industry domestically.
+“We need to bring more manufacturing back to the United States,” he says. “The U.S. government has recognized the importance of this semiconductor chip shortage and is trying to address the issue directly.”
+That means investing in new plants to manufacture the chips, but America's journey toward  chip self-sufficiency will continue to be a work in progress.
+“This is a cycle,” Swaminathan explains. “But this is probably the first time where it has had such a major effect in so many different industries.”
+But consumers can take direct action on their own in the coming year. “Reduce the number of times you purchase or upgrade electronic devices like phones and cars,” he says. “Then it becomes just a supply problem, not a demand and supply problem.”
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

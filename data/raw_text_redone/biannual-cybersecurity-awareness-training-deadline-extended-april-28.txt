@@ -1,0 +1,25 @@
+biannual cybersecurity awareness training deadline extended to april 28 
+ training deadline extended to april 28 
+ mar 24, 2023 
+ georgia tech will launch its 2023 spring biannual cybersecurity awareness training for employees on monday, april 3. 
+ with data protection and cybersecurity in mind, the university system of georgia mandates cybersecurity training twice per calendar year for employees at each of its 26 institutions. 
+ all faculty, staff, and student employees (including gtri employees) must complete the training. (affiliates and employees on a leave of absence by april 3 are not required to complete the spring training.) 
+ regularly occurring cybersecurity awareness training ensures that the tech community remains vigilant, prepared, and empowered to identify cyber threats when they encounter them. training also encourages employees to adopt practices that safeguard their information and technology from ransomware attacks and other compromises. 
+ “heightened awareness and shared responsibility around cybersecurity is paramount,” said leo howell, chief information security officer at georgia tech. “we all must do our part to keep our campus safe from cyber threats. for the spring training, we will focus specifically on social engineering red flags, such as how to spot unsafe web and email addresses within a sender’s email message to prevent phishing.” 
+ accessing the training 
+ employees who are required to take the 2023 spring biannual cybersecurity awareness training will receive an email on april 3, with further instructions on how to access the training. only employees who receive this email are required to take the training. 
+ due to campuswide technical issues, the deadline has been extended to friday, april 28, to allow employees additional time to complete the training. 
+ employees can learn more about the training by visiting 
+ 2023 spring cybersecurity awareness training faqs 
+ and report issues related to the training course via the 
+ compliance training request help page. 
+ contact 
+ oit@gatech.edu 
+ additional information 
+ what is phishing? 
+ phishing is the process of attempting to acquire sensitive information, such as usernames, passwords, and credit card details, by masquerading as a trustworthy entity via email. the office of information technology cyber security department routinely phish tests the campus community by sending realistic but fake phishing emails to gauge user response and measure the effectiveness of campus cybersecurity training. 
+ if you receive an email that you believe to be phishing, do not open it. immediately forward the email to 
+ phishing@gatech.edu , then delete it. 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

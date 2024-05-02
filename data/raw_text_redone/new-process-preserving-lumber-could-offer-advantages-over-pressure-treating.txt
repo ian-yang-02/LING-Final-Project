@@ -1,0 +1,45 @@
+new process for preserving lumber could offer advantages over pressure treating 
+ researchers have developed a new method that could one day replace pressure treating for preserving wood. 
+ treated and untreated pieces of lumber submerged in water. the lumber on the left has been treated using atomic layer deposition. it resists absorbing water even when submerged. on the right is untreated lumber shown for comparison. it readily soaks up water, causing a color change within seconds. (credit: allison carter, georgia tech) 
+ feb 14, 2020 
+ — atlanta, ga 
+ pressure treating – which involves putting lumber inside a pressurized watertight tank and forcing chemicals into the boards – has been used for more than a century to help stave off the fungus that causes wood rot in wet environments. 
+ now researchers at the georgia institute of technology have developed a new method that could one day replace conventional pressure treating as a way to make lumber not only fungal-resistant but also nearly impervious to water – and more thermally insulating. 
+ the new method, which was reported february 13 in the journal 
+ langmuir 
+ and jointly sponsored by the department of defense, the gulf research program, and the westendorf undergraduate research fund, involves applying a protective coating of metal oxide that is only a few atoms thick throughout the entire cellular structure of the wood. 
+ this process, known as atomic layer deposition, is already frequently used in manufacturing microelectronics for computers and cell phones but now is being explored for new applications in commodity products such as wood. like pressure treatments, the process is performed in an airtight chamber, but in this case the chamber is at low pressures to help the gas molecules permeate the entire wood structure. 
+ “it was really important that this coating be applied throughout the interior of the wood and not just on the surface,” said 
+ mark losego , an assistant professor in the 
+ school of materials science and engineering . “wood has pores that are about the width of a human hair or a little smaller, and we used these holes as our pathways for the gases to travel throughout the wood’s structure.” 
+ as the gas molecules travel down those pathways, they react with the pore’s surfaces to deposit a conformal, atomic-scale coating of metal oxide throughout the interior of the wood. the result is wood that sheds water off its surface and resists absorbing water even when submerged. 
+ in their experiments, the researchers took finished pine 2x4s and cut them into one-inch pieces. they then tested infusing the lumber with three different kinds of metal oxides: titanium oxide, aluminum oxide and zinc oxide. with each, they compared the water absorption after holding the lumber under water for a period of time. of the three, titanium oxide performed the best by helping the wood absorb the least amount of water. by comparison, untreated lumber absorbed three times as much water. 
+ “of the three chemistries that we tried, titanium oxide proved the most effective at creating the hydrophobic barrier,” said shawn gregory, a graduate student at georgia tech and lead author on the paper. “we hypothesize that this is likely because of how the precursor chemicals for titanium dioxide react less readily with the pore surfaces and therefore have an easier time penetrating deep within the pores of the wood.” 
+ losego said that the same phenomena exist in atomic layer deposition processes used for microelectronic devices. 
+ “these same titanium oxide precursor chemistries are known to better penetrate and conformally coat complex nanostructures in microelectronics just like we see in the wood,” losego said. “these commonalities in understanding fundamental physical phenomena – even in what appear to be very different systems – is what makes science so elegant and powerful.” 
+ in addition to being hydrophobic, lumber treated with the new vapor process also resists the mold that eventually leads to rot. 
+ “interestingly, when we left these blocks sit in a humid environment for several months, we noticed that the titanium oxide treated blocks were much more resistant to mold growth than the untreated lumber,” gregory added. “we suspect that this has something to do with its hydrophobic nature, although there could be other chemical effects associated with the new treatment process that could also be responsible. that’s something we would want to investigate in future research.” 
+ yet another benefit of the new process: vapor-treated wood was far less thermally conductive compared to untreated wood. 
+ “a lot of attention is paid in home building to insulating the cavities between the structural components of a home, but a massive amount of the thermal losses are caused by the wood studs themselves,” said 
+ shannon yee , an associate professor in the 
+ george w. woodruff school of mechanical engineering 
+ and a co-author on the paper with expertise in thermal systems. “lumber treated with this new process can be up to 30 percent less conductive, which could translate to a savings of as much as 2 million btus of energy per dwelling per year." 
+ this material is based upon work supported by the office of naval research through grant no. n00014-19-1-2162, the department of defense through the national defense science & engineering graduate fellowship program, the gulf research program managed by the national academies, and a donation from roxanne westendorf. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ citation : shawn a. gregory, connor p. mcgettigan, emily k. mcguinness, david misha rodin, shannon k. yee, and mark d. losego, “single-cycle atomic layer deposition (1cy-ald) on bulk wood lumber for managing moisture content, mold growth, and thermal conductivity,” (langmuir, february 2020). 
+ http: / / dx.doi.org / 10.1021 / acs.langmuir.9b03273 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : josh brown 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

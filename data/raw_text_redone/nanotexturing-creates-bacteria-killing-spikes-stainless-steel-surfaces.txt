@@ -1,0 +1,49 @@
+nanotexturing creates bacteria-killing spikes on stainless steel surfaces 
+ nanotextured surface on stainless steel appears to kill bacteria. 
+ postdoctoral fellow yeongseon jang, associate professor julie champion and postdoctoral fellow won tae choi are shown in champion’s laboratory at georgia tech. with professor dennis hess (not shown), the researchers developed a new nanotextured surface for stainless steel that kills common bacteria. (credit: rob felt, georgia tech) 
+ dec 12, 2017 
+ — atlanta, ga 
+ by using an electrochemical etching process on a common stainless steel alloy, researchers have created a nanotextured surface that kills bacteria while not harming mammalian cells. if additional research supports early test results, the process might be used to attack microbial contamination on implantable medical devices and on food processing equipment made with the metal. 
+ while the specific mechanism by which the nanotextured material kills bacteria requires further study, the researchers believe tiny spikes and other nano-protrusions created on the surface puncture bacterial membranes to kill the bugs. the surface structures don’t appear to have a similar effect on mammalian cells, which are an order of magnitude larger than the bacteria. 
+ beyond the anti-bacterial effects, the nano-texturing also appears to improve corrosion resistance. the research was reported december 12 in the journal 
+ acs biomaterials science & engineering 
+ by researchers at the georgia institute of technology. 
+ “this surface treatment has potentially broad-ranging implications because stainless steel is so widely used and so many of the applications could benefit,” said 
+ julie champion , an associate professor in georgia tech’s school of chemical and biomolecular engineering. “a lot of the antimicrobial approaches currently being used add some sort of surface film, which can wear off. because we are actually modifying the steel itself, that should be a permanent change to the material.” 
+ champion and her georgia tech collaborators found that the surface modification killed both gram negative and gram positive bacteria, testing it on 
+ escherichia coli 
+ and 
+ staphylococcus aureus . but the modification did not appear to be toxic to mouse cells – an important issue because cells must adhere to medical implants as part of their incorporation into the body. 
+ the research began with a goal of creating a super-hydrophobic surface on the stainless steel in an effort to repel liquids – and with them, bacteria. but it soon became clear that creating such a surface would require the use of a chemical coating, which the researchers didn’t want to do. postdoctoral fellows yeongseon jang and won tae choi then proposed an alternative idea of using a nanotextured surface on stainless steel to control bacterial adhesion, and they initiated a collaboration to demonstrate this effect. 
+ the research team experimented with varying levels of voltage and current flow in a standard electrochemical process. typically, electrochemical processes are used to polish stainless steel, but champion and collaborator 
+ dennis hess 
+ – a professor and thomas c. deloach, jr. chair in the school of chemical and biomolecular engineering – used the technique to roughen the surface at the nanometer scale. 
+ “under the right conditions, you can create a nanotexture on the grain surface structure,” hess explained. “this texturing process increases the surface segregation of chromium and molybdenum and thus enhances corrosion resistance, which is what differentiates stainless steel from conventional steel.” 
+ microscopic examination showed protrusions 20 to 25 nanometers above the surface. “it’s like a mountain range with both sharp peaks and valleys,” said champion. “we think the bacteria-killing effect is related to the size scale of these features, allowing them to interact with the membranes of the bacterial cells.” 
+ the researchers were surprised that the treated surface killed bacteria. and because the process appears to rely on a biophysical rather than chemical process, the bugs shouldn’t be able to develop resistance to it, she added. 
+ a second major potential application for the surface modification technique is food processing equipment. there, the surface treatment should prevent bacteria from adhering, enhancing existing sterilization techniques. 
+ the researchers used samples of a common stainless alloy known as 316l, treating the surface with an electrochemical process in which current was applied to the metal surfaces while they were submerged in a nitric acid etching solution. 
+ application of the current moves electrons from the metal surface into the electrolyte, altering the surface texture and concentrating the chromium and molybdenum content. the specific voltages and current densities control the type of surface features produced and their size scale, said hess, who worked with choi – then a ph.d. student – and associate professor victor breedveld in the school of chemical and biomolecular engineering, and professor preet singh in the school of materials science and engineering, to design the nanotexturing process. 
+ to more fully assess the antibacterial effects, jang engaged the expertise of andrés garcía, a regents’ professor in georgia tech’s woodruff school of mechanical engineering, and graduate student christopher johnson. in their experiments, they allowed bacterial samples to grow on treated and untreated stainless steel samples for periods of up to 48 hours. 
+ at the end of that time, the treated metal had significantly fewer bacteria on it. that observation was confirmed by removing the bacteria into a solution, then placing the solution onto agar plates. the plates receiving solution from the untreated stainless steel showed much larger bacterial growth. additional testing confirmed that many of the bacteria on the treated surfaces were dead. 
+ mouse fibroblast cells, however, did not seem to be bothered by the surface. “the mammalian cells seemed to be quite healthy,” said champion. “their ability to proliferate and cover the entire surface of the sample suggested they were fine with the surface modification.” 
+ for the future, the researchers plan to conduct long-term studies to make sure the mammalian cells remain healthy. the researchers also want to determine how well their nanotexturing holds up when subjected to wear. 
+ “in principle, this is very scalable,” said hess. “electrochemistry is routinely applied commercially to process materials at a large scale.” 
+ citation : yeongseon jang, et al., “inhibition of bacterial adhesion on nano-textured stainless steel 316l by electrochemical etching,” (acs biomaterials science & engineering, 2017). 
+ http: / / pubs.acs.org / doi / abs / 10.1021 / acsbiomaterials.7b00544 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or josh brown (404-385-0500) (josh.brown@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

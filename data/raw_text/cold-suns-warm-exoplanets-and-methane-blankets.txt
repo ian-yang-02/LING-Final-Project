@@ -1,0 +1,47 @@
+Cold Suns, Warm Exoplanets and Methane Blankets
+Early Earth probably would have frozen solid, if not for greenhouse gasses, and a new model shows how they could have feasibly arisen.
+Famed late NASA astronomer Carl Sagan first hypothesized that the reason early Earth stayed warm although the sun shone dimly had to do with a greenhouse effect involving a gas mixture different from that in Earth's atmosphere today. He suspected high ammonia levels, which proved chemically less feasible. Today, many scientists suspect the warming gas was methane. Credit: NASA-JPL
+Dec 11, 2017
+— Atlanta, GA
+Somewhere in our galaxy, an exoplanet is probably orbiting a star that’s colder than our sun, but instead of freezing solid, the planet might be cozy warm thanks to a greenhouse effect caused by methane in its atmosphere.
+NASA astrobiologists from the Georgia Institute of Technology have developed a comprehensive new model that shows how planetary chemistry could make that happen. The model, published in a  new study in the journal  Nature Geoscience , was based on a likely scenario on Earth three billion years ago and was actually built around its possible geological and biological chemistry.
+The sun produced a quarter less light and heat then, but Earth remained temperate, and methane may have saved our planet from an eon-long deep-freeze, scientists hypothesize. Had it not, we and most other complex life probably wouldn’t be here today.
+The new model combined multiple microbial metabolic processes with volcanic, oceanic and atmospheric activities, which may make it the most comprehensive of its kind to date. But while studying Earth’s distant past, the Georgia Tech researchers aimed their model light-years away, wanting it to someday help interpret conditions on recently discovered exoplanets.
+The researchers set the model’s parameters broadly so that they could apply not only to our own planet but potentially also to its siblings with their varying sizes, geologies, and lifeforms.
+Earth and its siblings
+“We really had an eye to future use with exoplanets for a reason,” said  Chris Reinhard, the study’s principal investigator  and an assistant professor in Georgia Tech’s School of Earth and Atmospheric Sciences. “It’s possible that the atmospheric methane models that we are exploring for the early Earth represent conditions common to biospheres throughout our galaxy because they don’t require such an advanced stage of evolution like we have here on Earth now.”
+Reinhard and first author Kazumi Ozaki  published their  Nature Geoscience  paper on December 11, 2017 . The research was supported by the NASA Postdoctoral Program, the Japan Society for the Promotion of Science, the NASA Astrobiology Institute and the Alfred P. Sloan Foundation.
+Previous models have examined the mix of atmospheric gases needed to keep Earth warm in spite of the sun’s former faintness, or studied isolated microbial metabolisms that could have made the needed methane. “In isolation, each metabolism hasn’t made for productive models that accounted well for that much methane,” Reinhard said.
+The Georgia Tech researchers synergized those isolated microbial metabolisms, including ancient photosynthesis, with geological chemistry to create a model reflective of the complexity of an entire living planet. And the model’s methane production ballooned.
+“It’s important to think about the mechanisms controlling the atmospheric levels of greenhouse gases in the framework of all biogeochemical cycles in the ocean and atmosphere,” said first author Ozaki, a postdoctoral assistant.
+Also READ: The Earth is not a lab beaker; it’s a shifty, humongous lab
+Carl Sagan and the faint Sun
+The Georgia Tech model strengthens a leading hypothesis that attempts to explain a mystery called  the “faint young Sun paradox”  pointed out by  iconic late astronomer Carl Sagan  and his Cornell University colleague George Mullen in 1972.
+Astronomers noticed long ago that stars burned  brighter as they matured and weaker in their youths . They calculated that about two billion years ago, our sun must have shone about 25 percent fainter than it does today.
+That would have been too cold for any liquid water to exist on Earth, but paradoxically, strong evidence says that liquid water did exist. “Based on the observation of the geological record, we know that there must have been liquid water,” Reinhard said, “and in some cases, we know that temperatures were similar to how they are today, if not a little warmer.”
+Sagan and Mullen postulated that Earth’s atmosphere must have  created a greenhouse effect  that saved it. Back then, they suspected ammonia was at work, but chemically, that idea proved less feasible.
+“Methane  has taken a lead role  in this hypothesis,” Reinhard said. “When oxygen and methane enter the atmosphere, they chemically cancel each other out over time in a complex chain of chemical reactions. Because there was extremely little oxygen in the air back then, it would have allowed for methane to build up much higher levels than today.”
+Iron, and rust photosynthesis
+At the core of the model are two different types of photosynthesis. But three billion years ago, the dominant type of  photosynthesis we know today  that pumps out oxygen may not have even existed yet.
+Instead, two other very primitive bacterial photosynthetic processes likely were essential to Earth’s ancient biosphere. One transformed iron in the ocean into rust, and the other photosynthesized hydrogen into formaldehyde.
+“The model relied on lots of volcanic activity spewing out hydrogen,” Ozaki said. Other bacteria fermented the formaldehyde, and other bacteria, still, turned the fermented product into methane.
+The two photosynthetic processes served as the watch spring of the model’s clockwork, which pulled in 359 previously established biogeochemical reactions spanning land, sea and air.
+3,000,000 runs and raging methane
+The model was not the type of simulation that produces a video animation of Earth’s ancient biogeochemistry. Instead, the model mathematically analyzed the processes, and the output was numbers and graphs.
+Ozaki ran the model more than 3 million times, varying parameters, and found that if the model contained both forms of photosynthesis operating in tandem, that 24 percent of the runs produced enough methane to create the balance needed in the atmosphere to maintain the greenhouse effect and keep ancient Earth, or possibly an exoplanet, temperate.
+“That translates into about a 24 percent probability that this model would produce a stable, warm climate on the ancient Earth with a faint sun or on an Earth-like exoplanet around a dimmer star,” Reinhard said. “Other models that looked at these photosynthetic metabolisms in isolation have much lower probabilities of producing enough methane to keep the climate warm.”
+“We’re confident that this rather unique statistical approach means that you can take the basic insights of this new model to the bank,” he said.
+Other explanations for the “faint young Sun paradox” have been more cataclysmic and perhaps less regular in their dynamics. They include ideas about routine asteroid strikes stirring up seismic activity thus resulting in more methane production, or about  the sun consistently firing coronal mass ejections  at Earth, heating it up.
+Also READ: Some good news on climate change and methane
+The research was co-authored by Eiichi Tajika, Peng K. Hong and Yusuke Nakagawa of the University of Tokyo. The research was supported by the NASA Postdoctoral Program, the Japan Society for the Promotion of Science (grant 25120006), the NASA Astrobiology Institute (grant NNA 15BB03A) and the Alfred P. Sloan Foundation (grant FR-2015-65744). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those sponsors
+Additional Images
+Contact
+Writer and Media Representative : Ben Brumfield (404-660-1408)
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

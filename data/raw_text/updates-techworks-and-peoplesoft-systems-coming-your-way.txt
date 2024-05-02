@@ -1,0 +1,25 @@
+Updates to TechWorks and PeopleSoft Systems Coming Your Way
+Georgia Tech employees can expect a new look and feel for the TechWorks website beginning Monday, June 6.
+The TechWorks website will feature a new look.
+May 31, 2022
+— Atlanta, GA
+Georgia Tech employees can expect a new look and feel for the TechWorks website beginning Monday, June 6.
+The
+Office of Information Technology
+(OIT) has been preparing to sunset several legacy applications, including PeopleSoft Financials and PeopleSoft Human Capital Management (HCM).
+The
+new TechWorks website
+is available for preview through a banner on the current TechWorks site. The new TechWorks website will be automated on July 14. Access to the old TechWorks site will be available through a link on the new website until July 27, after which the new TechWorks website will exclusively run.
+Legacy reports for HCM and Financials will be located on
+LITE . Legacy SPD reports will also be located under the Financials tab. These reports will be available on June 6.
+“The current PeopleSoft Financials version is no longer supported by Oracle,” said OIT Senior Project Support Specialist David Thomas. “This move will help minimize security risks posed by an end-of-life system.”
+The project team has worked with campus partners such as the Administrative Services Center, the Controller’s Office, Georgia Tech Human Resources, Grants and Contracts, OIT Enterprise Data Management, and Procurement and Business Services to help manage the change and ensure access to information.
+Open office hours to provide additional support are scheduled for June 8 and June 9 at 2 p.m.
+To learn more and for ongoing updates, visit
+oit.gatech.edu/techworksupdate .
+Additional Images
+Email
+oit@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

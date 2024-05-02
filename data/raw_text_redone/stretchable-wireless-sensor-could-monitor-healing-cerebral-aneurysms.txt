@@ -1,0 +1,46 @@
+stretchable wireless sensor could monitor healing of cerebral aneurysms 
+ a wireless sensor small enough to be implanted in the blood vessels of the human brain could help clinicians evaluate the healing of aneurysms. 
+ this close-up image shows details of the ultra-thin, low-profile sensor used for monitoring blood flow in the brain. (georgia tech photo) 
+ aug 28, 2019 
+ — atlanta, ga 
+ a wireless sensor small enough to be implanted in the blood vessels of the human brain could help clinicians evaluate the healing of aneurysms — bulges that can cause death or serious injury if they burst. the stretchable sensor, which operates without batteries, would be wrapped around stents or diverters implanted to control blood flow in vessels affected by the aneurysms. 
+ to reduce costs and accelerate manufacturing, fabrication of the stretchable sensors uses aerosol jet 3d printing to create conductive silver traces on elastomeric substrates. the 3d additive manufacturing technique allows production of very small electronic features in a single step, without using traditional multi-step lithography processes in a cleanroom. the device is believed to be the first demonstration of aerosol jet 3d printing to produce an implantable, stretchable sensing system for wireless monitoring. 
+ “the beauty of our sensor is that it can be seamlessly integrated onto existing medical stents or flow diverters that clinicians are already using to treat aneurysms,” said 
+ woon-hong yeo, 
+ an assistant professor in georgia tech’s 
+ george w. woodruff school of mechanical engineering 
+ and the 
+ wallace h. coulter department of biomedical engineering at georgia tech and emory university . 
+ “we could use it to measure an incoming blood flow to the aneurysm sac to determine how well the aneurysm is healing, and to alert doctors if blood flow changes.” 
+ inserted using a catheter system, the sensor would use inductive coupling of signals to allow wireless detection of biomimetic cerebral aneurysm hemodynamics. the research was reported august 7 in the journal 
+ advanced science . 
+ monitoring the progress of cerebral aneurysms now requires repeated angiogram imaging using contrast materials that can have harmful side effects. because of the cost and potential negative effects, use of the imaging technique must be limited. however, a sensor placed in a blood vessel could allow more frequent evaluations without the use of imaging dyes. 
+ “for patients who have had a procedure done, we would be able to tell if the aneurysm is occluding as it should without using any imaging tools,” yeo said. “we will be able to accurately measure blood flow to detect changes as small as 0.05 meters per second.” 
+ the six-layer sensor is fabricated from biocompatible polyimide, two separate layers of a mesh pattern produced from silver nanoparticles, a dielectric and soft polymer-encapsulating material. the sensor would be wrapped around the stent or flow diverter, which must be less than two or three millimeters in diameter to fit into the blood vessels. 
+ the sensor includes a coil to pick up electromagnetic energy transmitted from another coil located outside the body. blood flowing through the implanted sensor changes its capacitance, which alters the signals passing through the sensor on their way to a third coil located outside the body. in the laboratory, yeo and his collaborators have measured capacitance changes six centimeters away from a sensor implanted in meat to simulate brain tissue. 
+ “the flow rate is correlated really well with the capacitance change that we can measure,” yeo said. “we have made the sensor very thin and deformable so it can respond to small changes in blood flow.” 
+ use of the aerosol jet 3d printing technique was essential to producing the stretchable and flexible electronics necessary for the sensor. the technique uses a spray of aerosol particles to create patterns, allowing narrower feature sizes than conventional inkjet printing. 
+ “we can control the printing speed, the printing width, and the amount of material being jetted,” yeo said. “the parameters can be optimized for each material, and we can use materials that have a broad range of viscosities.” 
+ because the sensor can be fabricated in a single step without costly cleanroom facilities, it could be manufactured in higher volume at lower cost. 
+ the next phase of the aneurysm sensor will be able to measure blood pressure in the vessel along with the flow rates. “we will be able to measure how pressure contributes to flow change,” yeo explained. “that would allow the device to be used for other applications, such as intracranial pressure measurements.” 
+ yeo’s research team has also developed a flexible and wearable health monitor able to provide ecg and other information. he says the success of the monitoring technique demonstrates the potential for smart and connected wireless soft electronics based on nanomaterials, stretchable mechanics, and machine learning algorithms. 
+ “we are excited that people are now recognizing the potential of this technology,” yeo added. “there are a lot of opportunities to integrate this sensing mechanism into ultrathin membranes that are implantable within the body.” 
+ support for this research came from the korea institute of industrial technology, and a seed grant from the georgia tech institute for electronics and nanotechnology. this work was performed in part at the institute for electronics and nanotechnology, a member of the national nanotechnology coordinated infrastructure, which is supported by the national science foundation (grant no. eccs 1542174). 
+ citation : robert herbert, saswat mishra, hyo, ryoung lim, hyoungsuk yoo, and woon-hong yeo, “fully printed, wireless, stretchable implantable biosystem toward batteryless, real-time monitoring of cerebral aneurysm hemodynamics” ( advanced science , 2019) 
+ https: / / doi.org / 10.1002 / advs.201901034 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

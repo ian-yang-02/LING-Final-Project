@@ -1,0 +1,27 @@
+new 3-d printing method creates shape-shifting objects 
+ a team of researchers from georgia institute of technology and two other institutions has developed a new 3-d printing method to create objects that can permanently transform into a range of different shapes in response to heat. 
+ an object created by a team of researchers from georgia institute of technology and two other institutions is suspended in water after permanently morphing from a flat to a curved shape in response to hot water. (credit: rob felt) 
+ apr 12, 2017 
+ — atlanta, ga 
+ a team of researchers from georgia institute of technology and two other institutions has developed a new 3-d printing method to create objects that can permanently transform into a range of different shapes in response to heat. 
+ the team, which included researchers from the singapore university of technology and design (sutd) and xi’an jiaotong university in china, created the objects by printing layers of shape memory polymers with each layer designed to respond differently when exposed to heat. 
+ “this new approach significantly simplifies and increases the potential of 4-d printing by incorporating the mechanical programming post-processing step directly into the 3-d printing process,” said jerry qi, a professor in the george w. woodruff school of mechanical engineering at georgia tech. “this allows high-resolution 3-d printed components to be designed by computer simulation, 3-d printed, and then directly and rapidly transformed into new permanent configurations by simply heating.” 
+ the research was reported april 12 in the journal  science advances , a publication of the american association for the advancement of science. the work is funded by the u.s. air force office of scientific research, the u.s. national science foundation and the singapore national research foundation through the sutd dmand centre. 
+ their development of the new 3-d printed objects follows earlier work the team had done using smart shape memory polymers (smps), which have the ability to remember one shape and change to another programmed shape when uniform heat is applied, to make objects that could fold themselves along hinges. 
+ “the approach can achieve printing time and material savings up to 90 percent, while completely eliminating time-consuming mechanical programming from the design and manufacturing workflow,” qi said. 
+ to demonstrate the capabilities of the new process, the team fabricated several objects that could bend or expand quickly when immersed in hot water – including a model of a flower whose petals bend like a real daisy responding to sunlight and a lattice-shaped object that could expand by nearly eight times its original size. 
+ “our composite materials at room temperature have one material that is soft but can be programmed to contain internal stress, while the other material is stiff,” said zhen ding, a postdoc researcher at singapore university of technology and design.  “we use computational simulations to design composite components where the stiff material has a shape and size that prevents the release of the programmed internal stress from the soft material after 3-d printing. upon heating the stiff material softens and allows the soft material to release its stress and this results in a change – often dramatic – in the product shape.” 
+ the new 4-d objects could enable a range of new product features, such as allowing products that could be stacked flat or rolled for shipping and then expanded once in use, the researchers said. eventually, the technology could enable components that could respond to stimuli such as temperature, moisture or light in a way that is precisely timed to create space structures, deployable medical devices, robots, toys and range of other structures. 
+ “the key advance of this work is a 4-d printing method that is dramatically simplified and allows the creation of high-resolution complex 3-d reprogrammable products,” said martin l. dunn a professor at singapore university of technology and design who is also the director of the sutd digital manufacturing and design centre. “it promises to enable myriad applications across biomedical devices, 3-d electronics, and consumer products. it even opens the door to a new paradigm in product design, where components are designed from the onset to inhabit multiple configurations during service.” 
+ this research was supported by the air force office of scientific research under grant 15rt0885, by the national science foundation under awards cmmi-1462894, cmmi-1462895, and efri-1435452, and by the sutd digital manufacturing and design centre, supported by the singapore national research foundation. the content is the responsibility of the authors and does not necessarily represent the official views of the sponsoring agencies. 
+ citation :  zhen ding, chao yuan, xirui peng, tiejun wang, h. jerry qi, martin l. dunn, “direct 4d printing via active composite materials,”(science advances, 2017). 
+ http: / / dx.doi.org / 10.1126 / sciadv.1602890 . 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

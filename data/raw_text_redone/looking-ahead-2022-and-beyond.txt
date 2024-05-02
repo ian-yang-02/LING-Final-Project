@@ -1,0 +1,52 @@
+looking ahead 2022 and beyond 
+ five trends that will reshape our lives in 2022 
+ a woman looking at her phone 
+ jan 21, 2022 
+ — atlanta, ga 
+ even a global pandemic cannot slow the acceleration of new technologies and evolving technologies that has become the disruptive norm of our lives over the past decade. 
+ big data, global connectedness and the digitization of almost everything are driving a whirlwind of change that touches every aspect of our lives. 
+ georgia tech continues to be at the center of that of that maelstrom of progress, pushing the cutting edge, developing and influencing advances and being an insistent voice for ensuring those advances are shared as broadly as possible. 
+ five faculty members share what they see as major forces impacting the coming year and beyond. 
+ microchip shortage will drive manufacturing to us and other supply chain changes 
+ one of the big technology and supply chain stories of 2021 was the global shortage of microchips that impacted huge parts of the business world. one of the more visible impacts of that shortage was in the automotive field. 
+ according to industry experts, the microchip shortage cost the automotive business $210 billion in revenue in 2020 driving prices up for new and especially used vehicles throughout the year. dr. madhavan swaminathan, georgia tech’s john pippin chair in microsystems packaging and electromagnetics, says the industry’s focus on finding solutions will bring noticeable change in the coming year. 
+ he says early word of a 
+ trend in moving chip manufacturing to the united states 
+ will become a big focus in the coming year as well as auto manufacturers and other industries re-examining just-in-time supply decisions as they build inventory. 
+ advances in addressing bias in ai bolsters inclusion 
+ in computer science circles, it is no longer any sort of surprise that there can be bias in certain applications of artificial intelligence and machine learning. bias can stem from a range of factors from the data used to software design to the situation where ai is being used. 
+ how to know what to show each user with different world views in search or newsfeeds is quite different than making sure that software used for healthcare works for everyone. for example, sometimes a data set, even a quite large one, may not be representative. 
+ there are close to  100,000 cases of skin cancer in the u.s. a year, and it is difficult to detect, especially the darker someone's skin tone is . 
+ machine learning researchers are making  huge advances in detecting skin cancer , but a big limit is that the data they are using comes from light-skinned populations. 
+ knowing this problem exists opens the door to using data and artificial intelligence to improve detection for all. dr. deven desai, a law and ethics professor in georgia tech’s scheller college of business, says in the coming year, because this potential for bias is known, we will become much better at identifying bias from wherever it may come and addressing it to limit harm. 
+ the focus in the coming year will be on making the searching and sifting tools of ai and machine learning more attuned to potentially skewed results. this focus will bring better, more inclusive results. 
+ watch the video: 
+ a good challenge: the future of ai 
+ digital twins drive safety, efficiency and savings in construction 
+ think of them as the ultimate in interactive blueprints that can actually communicate to owners about building performance. the idea of a digital twin is not new. building an exact match, digital version of a construction project is commonplace in construction now and has been for years. architectural drawings, cad images, or bim images would all be considered “twins” in a way. 
+ the advances that are happening now with true digital twins and that will be taking off in the coming year are in what you can do with and learn from a much more robust digital twin. 
+ "digital twinning is about the building and all the components that are in the building. where they are, what condition they're in, all kinds of qualities," says russell gentry director of the digital building lab at georgia tech. 
+ in the coming year, gentry expects the idea of using a digital twin will grow as its uses expand - monitoring for maintenance needs, identifying potential problems like leaks or water damage, dialing in hvac system efficiencies - just a few of the changes that are happening or soon will be. digital twins will be used to improve building safety, efficiency and even retrofitting existing buildings with new and improved technologies. 
+ the automation and improvements that can be achieved will be a powerful force in construction and building management. 
+ technology led up-skilling drives job agility that will increase worker satisfaction and productivity 
+ in the u.s. alone,  november 2021 saw more than four and a half million people quit their jobs , the biggest spike on record and continuing a streak of transition and upheaval. as the pace of change continues to increase, we need to be able to rapidly reconfigure workforces to address new challenges. 
+ ashok goel , professor of computer science and human-centered computing in the school of interactive computing, has been watching the rapid changes in the job market. he sees technology as a solution to reskilling employees. 
+ “it is critical that we leverage technology to develop better tools to sync up employers and educators so that job seekers have clear paths to reskilling,” goel says. 
+ using ai to match workers to jobs, to improve job performance and satisfaction are just a few of the efforts in the coming year that will ultimately result in improved worker well-being and productivity as well. 
+ covid public health crisis leads to public policy evolution 
+ the pandemic has defined very clearly a strain in the relationship between scientists and some segments of the general public. 
+ some public policy makers, as a reflection of that divide, have made decisions related to public health that do not always match generally accepted science. for academic leaders in public policy like dr. cassidy sugimoto, the marie patton school chair in the school of public policy at georgia tech, this is one of the biggest challenges our society and people making public policy will face in the coming years. 
+ bridging the divide made clear by covid and building the relationships that will result in better policy will be an effort that will have impact for decades. 
+ “in many ways we’re setting the stage for the other looming global crises that we’re being faced with like climate change, like issues around social justice. 
+ all of those are going to take the same kind of navigation in communication between the public between science and between policy makers and not just within regions but globally,” said sugimoto. 
+ it’s a challenge that she and her colleagues have dedicated their careers to taking on. 
+ watch: 
+ public policy and the pandemic 
+ for more trends and in-depth predictions, read: 
+ the year ahead: trends to watch in 2022 
+ additional images 
+ contact 
+ blair meeks assistant vice president external communications wmeeks7@gatech.edu 404-894-9793 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

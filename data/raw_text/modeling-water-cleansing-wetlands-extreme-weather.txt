@@ -1,0 +1,60 @@
+Modeling Water-cleansing Wetlands in Extreme Weather
+Georgia Tech is partnering with two Department of Energy (DOE) national laboratories to better understand how wetlands function, enabling scientists to better understand their role in controlling water quality.
+Georgia Tech’s multidisciplinary researchers (L to R) Chloé Arson, Thomas DiChristina, and Martial Taillefert near wetlands on Georgia Tech’s campus.  (Photo credit: Allison Carter, Georgia Tech)
+Nov 03, 2021
+— Atlanta, GA
+The cycle of rising temperatures leads to increases in precipitation as well as droughts.  But what impact will these weather extremes, especially heavier precipitation, have on the earth’s most effective water cleansers – wetland sediments?
+That question is driving a new $1 million, three-year grant awarded to a Georgia Institute of Technology interdisciplinary research team of geochemistry, biology and applied mechanics experts.
+The award is part of the Department of Energy’s
+$7.7 million funding
+of 11 studies to improve the understanding of Earth system predictability and the Department’s Energy Exascale Earth System Model, a state-of the-science climate model. The researchers intend to develop a new scalable model that can analyze and ultimately predict where and when sediment disruptions are most likely to occur.
+Wetlands – Where Water and Land Meet
+Found at the boundary between land and water, wetlands function as natural sponges that trap, cleanse, and slowly release surface water – they also serve as a natural climate change buffer, since they act as carbon “sinks,” storing vast amounts of carbon and methane in the ground. Swamps, marshes, and bogs are all examples of wetlands. What isn’t known is if wetlands that become damaged or degraded from excess water will still absorb carbon at the same level.
+By better understanding how wetlands work, Georgia Tech hopes to shed light on how wetlands will function with more frequent and more intense rainstorms.
+“A lot of work has been done in polar regions where there has been melting because of global warming, which has been shown to release a lot of methane. That’s the main motivation behind the work we’re going to do,” said the project’s principal investigator, Martial Taillefert, a geochemist and professor in the
+School of Earth and Atmospheric Sciences .
+As water levels rise, below ground oxygen is consumed very quickly, he explained. Then microbial processes take over, leading to methane forming as well as carbon dioxide, that can escape to the atmosphere.
+In this project Taillefert will characterize the physical and chemical processes taking place in a wetland, mainly using electrochemical sensors deployed at different locations in the wetland. Taillefert will be able to follow the chemical response to microbial processes and study how perturbations of the water cycle affect the release of greenhouse gases. This data will then be used to fine tune the models that will predict greenhouse gas emissions.
+Micro to Macro Scale
+Initial studies will involve samples on the scale of a few grains of soil, but the researchers hope to eventually run simulations on the scale of a riverbed or watershed (where surface water drains into a common stream channel or other body of water).
+“The goal is twofold – first, to satisfy our scientific curiosity and understand how those microbial processes can actually change the level of oxygen and trigger greenhouse gas emissions, and second, to develop a model that can predict what processes will be in the next cycle to better prepare and perhaps reduce carbon emissions in some cases,” said project collaborator Chloé Arson, associate professor of
+Geosystems Engineering
+in the
+School of Civil and Environmental Engineering .
+While Taillefert focuses on the chemistry component and Arson on the mathematical modeling, collaborator Thomas DiChristina serves as the microbe expert.
+“My lab looks at what kind of hidden microbial processes are going on that we can't detect with the sensors because the methane is getting recycled so fast in the ground,” said DiChristina, professor in the
+School of Biological Sciences .
+DiChristina will be looking at multiple gene expressions without having to grow the bacteria in a laboratory.
+“Genomics allows you to deduce expression of metabolic potential. For example, which gene is producing methane, and which gene is inhibiting methane production,” he said.
+Since methane won’t release into the atmosphere unless a certain condition occurs, the model will enable researchers to predict under what conditions methane would pour out of the sediments versus being retained and recycled, DiChristina explained.
+The calculations that predict how much methane and carbon dioxide go into the atmosphere depend on an accurate description of what's happening in the subsurface -- in the sediment and in groundwater, Taillefert added.
+“We cannot yet quantify that really well. We think using our approach will enable us to get more data and a better understanding of how the process works and translate that knowledge into the models,” he said.
+Taillefert and DiChristina have been working on improving Georgia Tech’s models for predicting these processes for over three decades.  With this latest award, they hope to better understand and model the processes of oxidation and reduction that change the microstructure of sediments during cycles of flood.
+New Research Thrust – AI and Machine Learning
+Arson is most interested in predicting the changes in the size, shape, and arrangement of the grains of soil to understand how the porous space between the grains is affected by bio-chemical reactions.
+“Understanding the evolution of the porous space will help predict transport properties within the sediments, and the expected emissions of greenhouse gases,” said Arson.
+An expert in applied mechanics, she will use AI to build a model that can single out dominant reactions within the soil microstructure and disregard those that have minimal impact. Such insight will help simplify the model and allow it to more quickly correlate certain criteria that leads to spikes in greenhouse gases.
+“If you have a predictive model that actually attempts to explain the processes, as well as predicting them, then you have a more versatile approach that can be transferred to many other sites or environments,” she said. “I also could envision using this model and the machine learning algorithm to map locations where you expect higher emissions, and identify sites as risky, moderately risky or safe.”
+Georgia Tech is partnering with two Department of Energy (DOE) national laboratories:
+Savannah River National Laboratory
+(SRNL) in Aiken, SC, and
+Argonne National Laboratory
+in Chicago, IL.
+“Georgia Tech has a unique capability here that we don't have, and that capability is this combination of using state-of-the-art genomics capabilities, along with state-of-the-art electrochemistry, two attributes that Georgia Tech is internationally known for,” said Daniel Kaplan, senior research fellow with SRNL, which will serve as the study site.
+Kaplan noted that Georgia Tech’s research fits perfectly with the DOE’s goal to better understand how wetlands function, enabling scientists to better understand their role in controlling water quality.
+“Wetlands do a great job of cleaning out all the impurities and getting rid of a lot of the contaminants to clean the water up as it moves through a watershed,” said Kaplan.
+Atomic-scale Analysis
+Argonne National Laboratory plans to take Georgia Tech’s sediment samples and examine them at the atomic scale of individual atoms and electrons using the Advanced Photon Source (APS), a football-field-sized synchrotron that produces x-rays 10 billion times clearer than what is produced at a doctor’s office.
+“The fundamental reactions that are controlling the quality of the water happen at the microorganism or nano scale,” said Kenneth Kemner, senior physicist and group leader of the Molecular Environmental Science Group at the Argonne National Lab. “By bringing all the different ways of looking at wetlands together, we'll actually have a much deeper understanding of how they function.”
+From one of several x-ray ports operated 24x7, the APS can capture images of single microorganisms about 100 times smaller than the diameter of the human hair. In fact, when the APS first came online, it successfully analyzed hair strands of Ludwig van Beethoven, with the analysis deducing that the great German composer suffered from lead poisoning.
+Kemner acknowledged that Georgia Tech brings unique capabilities to the wetlands research effort. He explained that answering the hard questions such as those posed by climate change will require this transdisciplinary and integrated problem-solving approach.
+Additional unfunded collaborators for this study include Christa Pennacchio, PMO Lead with the Joint Genome Institute (JGI) at the Lawrence Berkeley National Laboratory (JGI), and Stephen Callister, scientist with the Environmental Molecular Sciences Laboratory (EMSL), a U.S. DOE national scientific user facility managed by Pacific Northwest National Laboratory.
+Additional Images
+Contact
+Media Relations Contact and Writer:
+Anne Wainscott-Sargent (404-435-5784)
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

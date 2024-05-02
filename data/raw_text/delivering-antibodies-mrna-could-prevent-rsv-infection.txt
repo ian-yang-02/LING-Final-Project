@@ -1,0 +1,39 @@
+Delivering Antibodies via mRNA Could Prevent RSV Infection
+Getting antibodies directly to the lungs protected mice from the virus.
+3D super-resolution microscopy cross-sectional image showing how the engineered antibody aPali works: aPali (green) is expressed on the cell surface and stops RSV particles (pink) from entering the cell.
+Nov 05, 2018
+— Atlanta, GA
+Almost every child gets respiratory syncytial virus (RSV), which causes cold-like symptoms. It’s usually not a big deal if they’re healthy, but every year in the U.S. some 57,000 children under the age of five are hospitalized with the infection. To make matters worse, there’s no vaccine and a medication sometimes used to prevent RSV in high-risk children isn’t always effective. Now researchers at the Georgia Institute of Technology have developed a promising method of delivering antibodies directly to the lungs, improving their efficacy in warding off RSV.
+It was a natural outgrowth of research in his lab, said
+Philip Santangelo , associate professor in the
+Wallace H. Coulter Department of Biomedical Engineering
+at Georgia Tech and Emory University. That research focused on using RNA to deliver therapeutic antibodies, as well as with the basic virology of RSV. Combining the two was “a logical choice,” said Santangelo.
+One of the medications used to treat or prevent RSV, the monoclonal antibody palivizumab, is given monthly via intramuscular (IM) injection. Only a small amount of the antibody gets into the airways. “RSV tends to infect airway epithelial cells, as does flu,” said Santangelo. “We really didn’t see palivizumab there in large quantities. So we thought that was an opportunity.”
+In a
+study published October 1 in Nature Communications , Santangelo’s team reported using synthetic messenger RNA (mRNA) to deliver antibodies directly to the lungs of mice via aerosol, which the study showed protected them from RSV infection.  Two forms of palivizumab were used, the whole secreted form (sPali) and one that was engineered with a glycosylphosphatidylinositol (GPI) membrane anchor or linker (aPali), which should allow it to stay on the epithelial surface longer.
+Another group of mice were treated with a different antibody – a VHH camelid antibody, also in secreted and anchored forms – that was previously shown to be more potent than palivizumab but is not currently used to treat RSV.
+“With palivizumab, that may or may not be as critical – we noticed that even with the secreted version we were able to block the virus reasonably well,” said Santangelo. “But single-chain antibodies, which are very small, have short half-lives. You have to give them frequently, which doesn’t seem practical. When we put this linker on the smaller antibody, we were able to see it on the epithelial cells 28 days later. That was really exciting to us.”
+In fact, Santangelo suspects that using the linker could cause smaller antibodies to persist for a few months, reducing the need for frequent treatments. “You could see administering this right after a child is born, when they are most vulnerable,” he said.
+Using mRNA is an effective and safe delivery option, especially crucial in a pediatric population. “Using a transient, nucleic acid-based method that doesn’t end up in the cell nucleus is really important,” said Santangelo, whose study was funded by a Defense Advanced Research Projects Agency (DARPA) grant and Children’s Healthcare of Atlanta. “We do want this to be transient, so if it lasted even a month that would protect newborns in the hospital where they may be exposed to RSV. And if you could protect kids for a few months at a time, that’s really all you would need to do.”
+The study found that most of the mRNA-expressed antibodies did not change baseline levels of cytokines, indicating that the approach was minimally inflammatory and suggesting that repeat dosing could be considered.
+It’s also possible that the antibodies used in this study could potentially neutralize the virus in cells, so even if a child was infected the severity of symptoms might be lessened. And RSV isn’t the only potential virus this method could target – Santangelo is currently working on a project that targets flu via dry powder delivery of mRNA. That project is supported by the Bill & Melinda Gates Foundation.
+With the promising results from the RSV study, Santangelo hopes to move from a mouse model to additional testing. “There’s more work to be done,” he said. “The use of antibodies for preventing infection is a huge deal right now. But even if you found this potent antibody, if you can’t deliver it where it needs to go then the efficacy may not be where you want it to be. At least with the lung, we know where we want to go, and IV or IM administration isn’t really ideal for the cell types that are most critical for RSV.”
+The study was co-authored by these researchers: Pooja Munnilal Tiwari, Daryll Vanover, Kevin E. Lindsay, Swapnil Subhash Bawage, Jonathan L. Kirschman, Sushma Bhosle, Aaron W. Lifland, Chiara Zurla and Philip J. Santangelo. The research was funded by DARPA grant W911NF-15-0609. The views, opinions, and/or findings expressed are those of the authors and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government.
+CITATION: Pooja Munnilal Tiwari, et al., “Engineered mRNA-expressed antibodies prevent respiratory syncytial virus infection,” (Nature Communications 9, 2018). DOI: 10.1038/s41467-018-06508-3
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact:
+John Toon (404-894-6986) (john.toon@comm.gatech.edu)
+Writer : Kenna Simmons
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,42 @@
+Paper-Based Supercapacitor Uses Metal Nanoparticles to Boost Energy Density
+Researchers have developed a paper-based flexible supercapacitor that could be used to help power wearable devices.
+Images show the difference between paper prior to metallization (left) and the paper coated with conductive nanoparticles. (Credit: Ko et al., published in Nature Communications)
+Oct 06, 2017
+— Atlanta, GA
+Using a simple layer-by-layer coating technique, researchers from the U.S. and Korea have developed a paper-based flexible supercapacitor that could be used to help power wearable devices. The device uses metallic nanoparticles to coat cellulose fibers in the paper, creating supercapacitor electrodes with high energy and power densities – and the best performance so far in a textile-based supercapacitor.
+By implanting conductive and charge storage materials in the paper, the technique creates large surface areas that function as current collectors and nanoparticle reservoirs for the electrodes. Testing shows that devices fabricated with the technique can be folded thousands of times without affecting conductivity.
+“This type of flexible energy storage device could provide unique opportunities for connectivity among wearable and internet of things devices,” said
+Seung Woo Lee , an assistant professor in the
+Woodruff School of Mechanical Engineering
+at the Georgia Institute of Technology. “We could support an evolution of the most advanced portable electronics. We also have an opportunity to combine this supercapacitor with energy-harvesting devices that could power biomedical sensors, consumer and military electronics, and similar applications.”
+The research, done with collaborators at Korea University, was supported by the National Research Foundation of Korea and reported September 14 in the journal
+Nature Communications .
+Energy storage devices are generally judged on three properties: their energy density, power density and cycling stability. Supercapacitors often have high power density, but low energy density – the amount of energy that can be stored – compared to batteries, which often have the opposite attributes. In developing their new technique, Lee and collaborator Jinhan Cho from the Department of Chemical and Biological Engineering at Korea University set out to boost energy density of the supercapacitors while maintaining their high power output.
+They began by dipping paper samples into a beaker of solution containing an amine surfactant material designed to bind the gold nanoparticles to the paper. Next they dipped the paper into a solution containing gold nanoparticles. Because the fibers are porous, the surfactants and nanoparticles enter the fibers and become strongly attached, creating a conformal coating on each fiber.
+By repeating the dipping steps, the researchers created a conductive paper on which they added alternating layers of metal oxide energy storage materials such as manganese oxide. The ligand-mediated layer-by-layer approach helped minimize the contact resistance between neighboring metal and/or metal oxide nanoparticles. Using the simple process done at room temperatures, the layers can be built up to provide the desired electrical properties.
+“It’s basically a very simple process,” Lee said. “The layer-by-layer process, which we did in alternating beakers, provides a good conformal coating on the cellulose fibers. We can fold the resulting metallized paper and otherwise flex it without damage to the conductivity.”
+Though the research involved small samples of paper, the solution-based technique could likely be scaled up using larger tanks or even a spray-on technique. “There should be no limitation on the size of the samples that we could produce,” Lee said. “We just need to establish the optimal layer thickness that provides good conductivity while minimizing the use of the nanoparticles to optimize the tradeoff between cost and performance.”
+The researchers demonstrated that their self-assembly technique improves several aspects of the paper supercapacitor, including its areal performance, an important factor for measuring flexible energy-storage electrodes. The maximum power and energy density of the metallic paper-based supercapacitors are estimated to be 15.1 mW/cm2 and 267.3 uW/cm2, respectively, substantially outperforming conventional paper or textile supercapacitors.
+The next steps will include testing the technique on flexible fabrics, and developing flexible batteries that could work with the supercapacitors. The researchers used gold nanoparticles because they are easy to work with, but plan to test less expensive metals such as silver and copper to reduce the cost.
+During his Ph.D. work, Lee developed the layer-by-layer self-assembly process for energy storage using different materials. With his Korean collaborators, he saw a new opportunity to apply that to flexible and wearable devices with nanoparticles.
+“We have nanoscale control over the coating applied to the paper,” he added. “If we increase the number of layers, the performance continues to increase. And it’s all based on ordinary paper.”
+In addition to those already mentioned, the research team included Yongmin Ko and Minseong Kwon from Korea University, Wan Ki Bae from the Photoelectronic Hybrids Research Center at the Korea Institute of Science and Technology, and Byeongyong Lee from Georgia Tech.
+This work was supported by National Research Foundation (NRF) grants funded by the Korean government (NRF-2015R1A2A1A01004354 and NRF-2016M3A7B4910619).
+CITATION : Yongmin Ko, Minseong Kwon, Wan Ki Bae, Byeongyong Lee, Seung Woo Lee & Jinhan Cho, “Flexible supercapacitor electrodes based on real metal-like cellulose papers,” (Nature Communications, 2017)
+http://dx.doi.org/10.1038/s41467-017-00550-3
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181 USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

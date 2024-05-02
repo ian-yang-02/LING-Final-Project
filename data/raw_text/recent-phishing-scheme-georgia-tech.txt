@@ -1,0 +1,13 @@
+Recent Phishing Scheme at Georgia Tech
+The Office of Information Technology recently discovered an email phishing scheme that was sent to some members of our campus community.
+Apr 19, 2024
+Phishing attempts often involve malicious emails to trick a recipient into revealing passwords and other sensitive information. “Bad actors” may attempt to make the email look legitimate by using an organization’s logo and even its email domain, such as “@gatech.edu.” The Office of Information Technology (OIT) recently discovered an email phishing scheme that was sent to some members of our campus community. These emails appeared to come from legitimate Georgia Tech email addresses. OIT’s Cyber Security office quickly took measures to prevent these accounts from sending further emails. OIT believes these emails were sent beginning April 12, and have the following characteristics: The subject may begin with, “IT-Desk: Mailbox Is Full,” and may contain an “incident number.” The subject may also include a disclaimer stating, “New Messages May Return.” The email may state the recipient has exceeded their inbox “quota limit,” and direct them to an attachment to “avoid restrictions and lose incoming messages.” The email or attachment may direct users to what appears to be the Georgia Tech Single-Sign-On (SSO) page. The email may appear to be a job advertisement. The email signature may contain the interlocking GT logo. The email may be signed, “Office of Information Technology, Georgia Institute of Technology, © 2024." If you have received a similar email, or if you ever receive an email that you find suspicious, forward it immediately to
+phishing@gatech.edu . It is important that you do not reply to the sender. Do not visit any links within the email and do not forward the email to others. If you ever believe that your Georgia Tech accounts may have been compromised, contact OIT’s Security Operations Center immediately at
+soc@gatech.edu .
+Related links
+Office of Information Technology
+Email
+soc@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

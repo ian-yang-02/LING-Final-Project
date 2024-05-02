@@ -1,0 +1,59 @@
+georgia tech announces zoom soft launch 
+ georgia tech will begin a soft launch of the zoom video collaboration platform beginning monday, feb. 7, for students, faculty, and staff. 
+ feb 07, 2022 
+ — atlanta, ga 
+ georgia tech will begin a soft launch of the 
+ zoom 
+ video collaboration platform beginning monday, feb. 7. the announcement comes after an almost yearlong effort to evaluate and introduce a new videoconferencing solution for academic course delivery and collaboration. 
+ with the institute’s existing agreement with bluejeans set to expire at the end of the spring semester — and the sunset of the webex platform in december 2021* — the 
+ video collaboration review 
+ (vcr) team formed in early 2021 to explore new video collaboration platforms that meet the academic and operational needs of students, faculty, and staff. the committee, comprised of members from each division and college, along with students and technology representatives, identified requirements and evaluated possible solutions on their ability to: 
+ enable secure, reliable, and flexible course delivery and student learning. 
+ support virtual classrooms and meetings of multiple sizes. 
+ facilitate effective collaboration and communication across the institute. 
+ “it was critically important to us that we start our selection process with an examination of our needs from a collaboration, teaching, and learning perspective,” said daren hubbard, georgia tech vice president of information technology and chief information officer. “the committee spent a great deal of time articulating these criteria so that we could, as objectively as possible, evaluate a number of options and eventually recommend a solution for georgia tech.” 
+ “not only did zoom, to a large extent, meet our committee’s criteria, but it is also one of the most widely used video collaboration tools,” said yakut gazi, ph.d., associate dean for learning systems at georgia tech professional education. “many of our students, faculty, and staff have participated in zoom meetings during and even before the pandemic, which we anticipate will facilitate adoption at georgia tech.” 
+ the vcr team had planned to launch a two-month pilot of zoom at georgia tech last october. 
+ “due to unforeseen circumstances, we regrettably had to delay, then ultimately cancel our planned october pilot,” gazi said. “thanks to collaborative work between the office of information technology (oit), procurement and business services, and the office of the general counsel, we were able to come to an agreement with zoom in december, setting us up for our soft launch in february with our campus partners.” 
+ canvas has been integrated with zoom and will enable convenient access for faculty and students in blended and online learning courses. during the first phase of the zoom soft launch, the platform will only be available to georgia tech users who host meetings from inside the u.s. zoom recordings will be automatically migrated to the user’s 
+ kaltura mediaspace 
+ account. 
+ “over the course of the next few months, our teams will work to tighten the integration of zoom with the classroom technology systems, as well as with the kaltura mediaspace video storage and delivery system, to further enhance the interoperability of our academic technology ecosystem,” gazi said. “we will also be working with tech entities and zoom to expand the platform’s usage to all georgia tech learners, independent of their global location.” 
+ gazi also applauded the extensive due diligence process that guided the committee’s decision to bring the platform to georgia tech. 
+ “i am thankful for the resilience and persistence of the committee members who guided this process for many months. i am excited to introduce this much needed platform to our community and welcome input as we continue to improve our technology tools and services.” 
+ oit will work with the georgia tech community through the spring to prepare for the transition from bluejeans. upcoming communications will share resources for securely migrating stored lecture and meeting recordings and additional information. 
+ the campus community is invited to join an upcoming ‘ask me anything’ informational zoom session: 
+ monday, feb. 14, 3:30 – 4:15 p.m. 
+ tuesday, feb. 15, 2 – 2:45 p.m. 
+ georgia tech users can log into zoom at 
+ gatech.zoom.us . 
+ more zoom information and resources will be made available to the georgia tech community in the coming months. 
+ *the georgia tech research institute will continue to use its version of webex ( gtri.webex.com ). 
+ additional images 
+ email 
+ oit@gatech.edu 
+ additional information 
+ a few notes about accessing zoom at georgia tech: 
+ students, faculty, and staff can access zoom at 
+ gatech.zoom.us. 
+ sign in with your georgia tech login id and password. 
+ during this first phase, zoom meetings must be hosted from inside the u.s. (meeting participants can join from anywhere in the world.) 
+ zoom will integrate with canvas to enable course delivery. please refer to 
+ using zoom in canvas 
+ for direction. 
+ bluejeans will be available through the spring semester but will sunset at georgia tech in may. those already using bluejeans or teams for video collaboration, course instruction, and advising are highly encouraged to continue using these platforms through the end of the spring semester. 
+ zoom recordings will be automatically migrated to 
+ kaltura mediaspace . (they will be automatically deleted from zoom seven business days after their creation.) 
+ faculty and course instructors who would like to use zoom for classroom instruction hosted inside the u.s. may visit 
+ avservices.oit.gatech.edu 
+ to request a classroom training opportunity. 
+ zoom provides 24 / 7 user support at 
+ support.zoom.us . you may also submit a help request at 
+ services.gatech.edu . 
+ browse zoom knowledge articles by searching the 
+ service now 
+ website or via the ‘zoom’ search provided on the site 
+ here . additional articles and information will be added, as developed. 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

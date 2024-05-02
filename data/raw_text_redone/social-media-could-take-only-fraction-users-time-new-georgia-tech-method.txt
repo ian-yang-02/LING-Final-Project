@@ -1,0 +1,31 @@
+social media could take only a fraction of users’ time with new georgia tech method 
+ a new visualization technique from the georgia institute of technology could help users end the time-consuming habit of continually checking social media streams and endless updates. 
+ dec 07, 2016 
+ — atlanta 
+ a new visualization technique from the georgia institute of technology could help users end the time-consuming habit of continually checking social media streams and endless updates. where users might now commit minutes or hours on a single topic spanning thousands of posts, the georgia tech technique produces a 
+ single compiled social post 
+ that reads almost like a headline. users are able to immediately understand the conversation and interact with the words and ideas that are being talked about the most, whether they are from an election, major sporting event, or latest product release. 
+ “the technique seeks a balance between showing the most frequent words and preserving sentence structure,” says lead researcher mengdie hu, a ph.d. student in human-centered computing. “it gives people a high-level overview of the most common expressions in a document collection and how they are connected to each other.” 
+ implemented in a web browser, the visualization tool, called sententree (short for sentence tree), has been used to take almost a quarter of a million tweets shared in a 15-minute window of time during the 2014 world cup and filter the conversation. the resulting single 100-word social post revealed that brazil scored a goal in its own net, putting them down 0-1 in their match against croatia. in the example post, “world cup” and “own goal” are larger than other words, signaling that they appear more frequently. in the middle of and connecting these two phrases are “2014,” “bad,” and “brazil,” which together give an idea of the larger social conversation. if users want more context, sententree allows them to hover over any word and drill down to see more details, including the number of times the phrases appear along with the original tweets. 
+ “even if you don’t know anything about soccer, there are visual cues to help users connect the concepts and play with the data,” hu says. “the central idea behind sententree is to take a large social media dataset, find the most frequent sequences of words, and build a visualization out of them that mirrors the real-time conversation.” 
+ the researchers say that while there are numerous analytical tools for social media data that highlight concept relationships, topical changes, or physical locations, less common are tools that visualize the actual text content itself. sententree is designed to remedy this by consolidating, finding patterns in, and delivering useful content from many sources into one simple interactive view. 
+ the algorithms developed for sententree analyze the unstructured text data — developing a baseline sequential pattern of similar ideas and sentiments, all the while keeping a sentence-like structure — then incrementally add new words that build on the pattern as the algorithms search the text and kick out duplicate language. this allows the visualization to be a concise, readable representation of multiple thousands of threads. the visualization is even modified in length, based on the size of the screen, and is usually between 100-200 words. 
+ “there is an unwieldy volume of unstructured text on the web that continues to grow explosively,” says john stasko, professor of interactive computing at georgia tech and part of the research team. “social media text includes rich information on the public’s interests and opinions, and we hope this technique can start to uncover important patterns and ideas that exist in this data.” 
+ the georgia tech researchers are developing their tool to allow for a broader cross section of ideas to surface on the social web – anywhere from youtube to facebook to reddit – instead of simply relying on what social media influencers, such as celebrities or prominent public figures, post on their channels. 
+ sententree eventually will be available online for users to upload their own datasets to visualize. the work, presented in october at the ieee vis 2016 conference in baltimore, maryland, is published in the paper “visualizing social media content with sententree.” 
+ # # # 
+ this research is supported in part by the darpa xdata program and the national science foundation, award iis-1320537. the views and opinions expressed are those of the authors and do not necessarily represent the funding partners. 
+ additional images 
+ related links 
+ information interfaces group 
+ how twitter broke its biggest story, # wegotbinladen 
+ contact 
+ joshua preston 
+ 678.231.0787 
+ communications officer 
+ gvu center and college of computing 
+ email 
+ jpreston@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

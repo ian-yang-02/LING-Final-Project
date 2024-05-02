@@ -1,0 +1,53 @@
+Instability in Antarctic Ice Projected to Make Sea Level Rise Rapidly
+Instability hidden within Antarctic ice is likely to accelerate its flow into the ocean and push sea level up at a more rapid pace than previously expected.
+Thwaites Glacier's outer edge. As the glacier flows into the ocean, it becomes sea ice and drives up sea-level. Thwaites Glacier's ice is flowing particularly fast, and some researchers believe it may have already tipped into instability or be near that point, though this has not yet been established. Credit: NASA/James Yungel
+Jul 08, 2019
+— Atlanta, GA
+Images of vanishing Arctic ice are jarring, but its potential contributions to sea level rise are no match for Antarctica’s, even if receding southern ice is less eye-catching. Now,
+a study says
+that instability hidden within Antarctic ice is likely to accelerate its flow into the ocean and push sea level up at a more rapid pace than previously expected.
+In the last six years, five closely observed Antarctic glaciers have doubled their rate of ice loss,  according to the National Science Foundation . At least one, Thwaites Glacier, modeled for the new study, will likely succumb to this  instability , a volatile process that pushes ice into the ocean fast.
+How much ice the glacier will shed in the coming 50 to 800 years can’t exactly be projected due to unpredictable fluctuations in climate and the need for more data. But researchers at the Georgia Institute of Technology, NASA Jet Propulsion Laboratory (JPL), and the University of Washington have factored the instability into 500 ice flow simulations for Thwaites with refined calculations.
+The scenarios diverged strongly from each other but together pointed to the eventual triggering of the instability, which will be described in the Q&A below. Even if global warming were to later stop, the instability would keep pushing ice out to sea at an enormously accelerated rate over the coming centuries.
+And this is if ice melt due to warming oceans does not get worse than it is today. The study used present-day ice melt rates because the researchers were interested in the instability factor in itself.
+Glacier tipping point
+“If you trigger this instability, you don’t need to continue to force the ice sheet by cranking up temperatures. It will keep going by itself, and that’s the worry,” said Alex Robel, who led the study and is an  assistant professor in Georgia Tech’s School of Earth and Atmospheric Sciences . “Climate variations will still be important after that tipping point because they will determine how fast the ice will move.”
+“After reaching the tipping point, Thwaites Glacier could lose all of its ice in a period of 150 years. That would make for a sea level rise of about half a meter (1.64 feet),” said  NASA JPL scientist Helene Seroussi , who collaborated on the study. For comparison, current sea level is 20 cm ( nearly 8 inches ) above pre-global warming levels and is blamed for increased coastal flooding.
+The researchers published their
+study in the journal  Proceedings of the National Academy of Sciences  on Monday, July 8, 2019. The research was funded by the National Science Foundation and NASA.
+The study also showed that the instability makes forecasting more uncertain, leading to the broad spread of scenarios. This is particularly relevant to the challenge of  engineering against flood dangers .
+“You want to engineer critical infrastructure to be resistant against the upper bound of potential sea level scenarios a hundred years from now,” Robel said. “It can mean building your water treatment plants and nuclear reactors for the absolute worst-case scenario, which could be two or three feet of sea level rise from Thwaites Glacier alone, so it’s a huge difference.”
+Q&A
+Why is Antarctic ice the big driver of sea level rise?
+Understanding the instability is easier with this background information:
+Arctic sea ice is already floating in water. Readers will likely remember that 90% of an iceberg’s mass is underwater, and that when its ice melts, the volume shrinks, resulting in no change in sea level.
+But when ice masses long supported by land, like mountain glaciers, melt, the water that ends up in the ocean adds to sea level. Antarctica holds the most land-supported ice, even if the bulk of that land is seabed holding up just part of the ice’s mass, while water holds up part of it. Also, Antarctica is an ice leviathan.
+“There’s almost eight times as much ice in the Antarctic ice sheet as there is in the  Greenland ice sheet  and 50 times as much as in all the mountain glaciers in the world,” Robel said.
+What is that ‘instability’ underneath the ice?
+The line between where the ice sheet rests on the seafloor and where it extends over water is called  the grounding line . In spots where the bedrock underneath the ice behind the grounding line slopes down, deepening as it moves inland, the instability can kick in.
+That would look like this: On deeper beds, ice moves faster because water is giving it a little more lift, to begin with, then warmer ocean water can hollow out the bottom of the ice, adding water to the ocean. But, more importantly, the ice above the hollow loses land contact and flows faster out to sea.
+“Once ice is past the grounding line and only over water, it’s  contributing to sea level  because buoyancy is holding it up more than it was before,” Robel said. “Ice flows out into the  floating ice shelf  and melts or breaks off as icebergs.”
+“The process becomes self-perpetuating,” Seroussi said.
+[Ready for graduate school?  Here's how to apply to Georgia Tech. ]
+How did the researchers integrate instability into sea level forecasting?
+The researchers borrowed
+math from statistical physics
+that calculates what haphazard influences do to predictability in a physical system, like ice flow, acted upon by outside forces, like temperature changes. They applied the math to data-packed simulations of possible future fates of Thwaites Glacier, located in West Antarctica, where ice loss is most.
+They made another surprising discovery. Normally, when climate conditions fluctuate strongly, Antarctic ice evens out the effects. Ice flow may increase but gradually, not wildly, but the instability produced the opposite effect in the simulations.
+“The system didn’t damp out the fluctuations, it actually amplified them. It increased the chances of rapid ice loss,” Robel said.
+How rapid is ‘rapid’ sea level rise and when will we feel it?
+The study’s time scale was centuries, as is common for sea level studies. In the simulations, Thwaites Glacier colossal ice loss kicked in after 600 years, but it could come sooner if oceans warm and as the instability reveals more of its secrets.
+“It could happen in the next 200 to 600 years. It depends on the bedrock topography under the ice, and we don’t know it in great detail yet,” Seroussi said.
+So far, Antarctica and Greenland have lost a small fraction of their ice, but already, shoreline infrastructures face challenges from  increased tidal flooding  and storm surges. Sea level is expected to rise by up to two feet by the end of this century.
+For about 2,000 years until the late 1800s, sea level held steady, then it began climbing,  according to the Smithsonian Institution . The annual rate of sea level rise has roughly doubled since 1990.
+Also watch VIDEO :
+Easy explanation of climate change’s sea level threat and the grand challenge of engineering against it by G. Wayne Clough , Georgia Tech’s President Emeritus
+Gerard Roe from the University of Washington coauthored the study. The research was funded by the National Science Foundation (grant PLR-1735715 and PLR-1643299) and  by a grant from  NASA Cryospheric Science and Modeling, Analysis and Prediction Programs . Any findings, conclusions or recommendations are those of the authors and not necessarily of the funding agencies.
+Writer & Media Representative : Ben Brumfield (404-660-1408), email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

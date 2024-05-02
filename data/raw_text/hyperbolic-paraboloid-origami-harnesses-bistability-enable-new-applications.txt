@@ -1,0 +1,31 @@
+Hyperbolic Paraboloid Origami Harnesses Bistability to Enable New Applications
+Researchers at the Georgia Institute of Technology and the University of Tokyo are looking at hypar origami with to leverage its structural properties.
+The concentric square folds of the hyperbolic paraboloid origami combine to pull the tips of the paper in opposite directions, forming the opposing arcs. (Credit: Allison Carter)
+Sep 17, 2019
+— Atlanta, GA
+While perhaps not as iconic as the paper crane, the hypar origami with its sweeping opposing arcs and saddle shape has long been popular for artists working in the paper folding tradition.
+Now researchers at the Georgia Institute of Technology and the University of Tokyo are looking at the shape with an eye toward leveraging its structural properties, hoping to find ways to harness its bistability to build multifunctional devices or metamaterials.
+For a study reported September 17 in the journal
+Nature Communications
+and supported by the National Science Foundation, the researchers examined first whether the popular origami pattern that resembles the geometric hyperbolic paraboloid – or hypar – had the same physical characteristics as its geometric counterpart and tried to understand how its folds contribute to the formation of the pattern.
+“The hyperbolic paraboloid is a striking pattern that has been used in architectural designs the world over,” said Glaucio Paulino, a professor in the Georgia Tech School of Civil and Environmental Engineering. “As an origami pattern, it has structural bistability which could be harnessed for metamaterials used in energy trapping or other microelectronic devices.”
+Structural bistability refers to the origami pattern’s ability to find a resting equilibrium in two different states – when the saddle shape reverses on itself. That capability could enable devices based on the origami’s structure to reconfigure to point the arcs in opposite directions on the fly.
+Like any other origami, the pattern starts with a flat sheet of paper, which is then folded along concentric squares. Those folds combine to pull the tips of the paper in opposite directions, forming the opposing arcs of a hyperbolic paraboloid.
+To understand more about the mechanisms that creates the saddle shapes, the researchers created a theoretical model that could serve to predict the behavior of the origami, and their analysis reinforced the idea that the structure exhibited the same characteristics of its geometric counterpart.
+“One of the really interesting things we found was that the folds of concentric squares did not have to be uniform in their offsets in order to form the hypar origami,” said Ke Liu, a former graduate student at Georgia Tech and now a postdoctoral fellow at the California Institute of Technology. “So some squares could be quite close together and others farther apart and still the overall shape would be a hyperbolic paraboloid.”
+However, the researchers noted that lack of uniformity in the folds would alter other aspects of the structure, such as how much energy would be needed to push it into its hypar shape.
+“You could theoretically tune each individual hypar origami structure by changing the scale of these folds, and it would change how that structure responds to pressures pushing against it,” Liu said. “Future designs for robotics or other electronics could utilize this sort of snapping behavior.”
+The researchers also folded the origami into an array of squares so that four hypar origami patterns were formed on the same sheet of material. A physical model showed that the structure has as many as 32 different stable configurations.
+“The hypar tessellation with multiple stable states has promising applications as stimulus responsive metasurfaces and switches,” said Tomohiro Tachi, who is an associate professor at the University of Tokyo, Japan.
+“These types of configurations could lay the groundwork for future metasurfaces with reconfigurable properties and a high level of tunability,” said Paulino, who is also the Raymond Allen Jones Chair of Engineering in the School of Civil and Environmental Engineering.
+This research was supported by the National Science Foundation (NSF) under grant CMMI-1538830 and by the Raymond Allen Jones Chair at the Georgia Institute of Technology. The content is solely the responsibility of the authors and does not necessarily represent the official views of the sponsoring organizations.
+CITATION : Ke Liu, Tomohiro Tachi and Glaucio H. Paulino, “Invariant and smooth limit of discrete geometry folded from bistable origami leading to multistable metasurfaces,” (Nature Communications, Sept. 2019). http://dx.doi.org/10.1038/s41467-019-11935-x
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,53 @@
+the who's who of bacteria: a reliable way to define species and strains 
+ the researchers used data to investigate natural divisions in bacteria with a goal of determining a viable method for organizing them into species and strains. 
+ a photo of the saltern site in spain where a significant portion of the research was done. a saltern is used to produce salt for human consumption and is a natural environment for 
+ salinibacter ruber 
+ bacterium . 
+ mar 04, 2024 
+ what’s in a name? a lot, actually. 
+ for the scientific community, names and labels help organize the world’s organisms so they can be identified, studied, and regulated. but for bacteria, there has never been a reliable method to cohesively organize them into species and strains. it’s a problem, because bacteria are one of the most prevalent life forms, making up roughly 75% of all living species on earth. 
+ an international research team sought to overcome this challenge, which has long plagued scientists who study bacteria. 
+ kostas konstantinidis , richard c. tucker professor in the 
+ school of civil and environmental engineering 
+ at the georgia institute of technology, co-led a study to investigate natural divisions in bacteria with a goal of determining a scientifically viable method for organizing them into species and strains. to do this, the researchers let the data show them the way. 
+ their research was 
+ published 
+ in the journal 
+ nature communications . 
+ “while there is a working definition for species and strains, this is far from widely accepted in the scientific community,” konstantinidis said. “this is because those classifications are based on humans’ standards that do not necessarily translate well to the patterns we see in the natural environment.” 
+ for instance, he said, “if we were to classify primates using the same standards that are used to classify 
+ e. coli , then all primates — from lemurs to humans to chimpanzees — would belong to a single species.” 
+ there are many reasons why a comprehensive organizing system has been hard to devise, but it often comes down to who gets the most attention and why. more scientific attention generally leads to those bacteria becoming more narrowly defined. for example, bacteria species that contain toxic strains have been extensively studied because of their associations with disease and health. this has been out of the necessity to differentiate harmful strains from harmless ones. recent discoveries have shown, however, that even defining types of bacteria by their toxicity is unreliable. 
+ “despite the obvious, cornerstone importance of the concepts of species and strains for microbiology, these remain, nonetheless, ill-defined and confusing,” konstantinidis said. 
+ the research team collected bacteria from two salterns in spain. salterns are built structures in which seawater evaporates to form salt for consumption. they harbor diverse communities of microorganisms and are ideal locations to study bacteria in their natural environment. this is important for understanding diversity in populations because bacteria often undergo genetic changes when exposed in lab environments. 
+ the team recovered and sequenced 138 random isolates of 
+ salinibacter ruber 
+ bacteria from these salterns. to identify natural gaps in genetic diversity, the researchers then compared the isolates against themselves using a measurement known as average nucleotide identity (ani) — a concept konstantinidis developed early in his career. ani is a robust measure of relatedness between any two genomes and is used to study relatedness among microorganisms and viruses, as well as animals. for instance, the ani between humans and chimpanzees is about 98.7%. 
+ the analysis confirmed the team’s previous observations that microbial species do exist and could be reliably described using ani. they found that members of the same species of bacteria showed genetic relatedness typically ranging from 96 to 100% on the ani scale, and generally less than 85% relatedness with members of other species. 
+ the data revealed a natural gap in ani values around 99.5% ani within the 
+ salinibacter ruber 
+ species that could be used to differentiate the species into its various strains. in a 
+ companion paper 
+ published in 
+ mbio , the flagship journal of the american society for microbiology, the team examined about 300 additional bacterial species based on 18,000 genomes that had been recently sequenced and become available in public databases. they observed similar diversity patterns in more than 95% of the species. 
+ “we think this work expands the molecular toolbox for accurately describing important units of diversity at the species level and within species, and we believe it will benefit future microdiversity studies across clinical and environmental settings,” konstantinidis said. 
+ the team expects their research will be of interest to any professional working with bacteria, including evolutionary biologists, taxonomists, ecologists, environmental engineers, clinicians, bioinformaticians, regulatory agencies, and others. it is available online through konstantinidis’ website and github to facilitate access and use by scientific and regulatory communities. 
+ “we hope that these communities will embrace the new results and methodologies for the more robust and reliable identification of species and strains they offer, compared to the current practice,” konstantinidis said. 
+ note : tomeu viver and ramon rossello-mora from the mediterranean institutes for advanced studies also led the research. additional researchers from the georgia institute of technology, university of innsbruck, university of pretoria, university of las palmas de gran canaria, university of the balearic islands, and the max planck institute also contributed. 
+ citation : viver, t., conrad, r.e., rodriguez-r, l.m.  et al.  towards estimating the number of strains that make up a natural bacterial population.  nat commun   15 , 544 (2024). 
+ doi : 
+ https: / / doi.org / 10.1038 / s41467-023-44622-z 
+ funding : spanish ministry of science, innovation and universities, european regional development fund, u.s. national science foundation. 
+ additional media 
+ a microscopy photo of 
+ salinibacter ruber, 
+ a bacterium that thrives in salterns. 
+ a screenshot from a team meeting. the study's international team has researchers based in the u.s., spain, germany, austria, and south africa. 
+ contact 
+ catherine barzler, senior research writer / editor 
+ catherine.barzler@gatech.edu 
+ email 
+ catherine.barzler@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

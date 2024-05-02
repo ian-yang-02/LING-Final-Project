@@ -1,0 +1,20 @@
+2019 InVenture Finalist: Finger Flyer
+The custom-fitted drones created by Finger Flyer can be controlled simply by using your fingers or hands.
+While riding in a car one day, his hand outside the window, waving in the breeze, second-year mechanical engineering student Jacob Parker had a moment of inspiration. And, together with computer science major Austin Condict, he created a new way to fly quadcopter drones.
+Mar 12, 2019
+— Atlanta, GA
+While riding in a car one day, his hand outside the window waving in the breeze, second-year mechanical engineering student Jacob Parker had a moment of inspiration. And, together with computer science major Austin Condict, he created a new way to fly quadcopter drones.
+“I wanted to recreate that feeling with a drone and have young people experience flying in a fun, new way,” Parker explains. That is, without the use of a standard radio controller.
+The custom-fitted drones created by Finger Flyer can be controlled simply by using your fingers or hands. Using an Inertial Measurement Unit sensor and a unique 3D-printed finger-port system, the Finger Flyer quadcopter drone is able to be manipulated and perform pre-programmed flight maneuvers.
+Finger Flyer sought to create a quadcopter drone with an easy learning curve, while also giving users the feeling of surfing the wind with their hands. “It was heavily coded and adapted, but we’ve found that it’s generally easy to use,” says Condict.
+According to the creators, people tend to crowd around when they test the device in public. “They definitely want to try it out for themselves,” explains Condict.
+The prototypes and final products were actually built on campus in Georgia Tech’s Flowers Invention Studio. “We used resin-printers and soldering tools to bring this to life,” says Parker. “We essentially built this from scratch right here at Georgia Tech.”
+Additional Images
+Contact
+Steven Norris
+Institute Communications
+Email
+snorris@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

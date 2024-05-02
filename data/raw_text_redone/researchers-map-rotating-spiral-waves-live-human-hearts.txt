@@ -1,0 +1,38 @@
+researchers map rotating spiral waves in live human hearts 
+ researchers at georgia tech and clinicians at the emory university school of medicine are bringing a new understanding to these complicated conditions with the first high-resolution visualizations of stable spiral waves in human ventricles. 
+ sep 07, 2022 
+ — atlanta, ga 
+ electrical signals tell the heart to contract, but when the signals form spiral waves, they can lead to dangerous cardiac events like tachycardia and fibrillation. researchers at the georgia institute of technology and clinicians at 
+ emory university school of medicine 
+ are bringing a new understanding to these complicated conditions with the first high-resolution visualizations of stable spiral waves in human ventricles. 
+ “clinicians have known for decades that spiral waves of electrical activity can occur in the heart, and researchers have done experiments in animal and human hearts before,” said 
+ school of physics 
+ professor 
+ flavio fenton . “however, this is the first time the evolution of relatively stable spiral waves of voltage and calcium in the ventricles of human hearts have been mapped at very high spatial and temporal resolution.” 
+ studying live hearts from heart transplant patients gives a rare window into the detailed behavior of the heart during conditions that are difficult to treat like fibrillation. as a result, doctors can gain a better understanding of how spiral waves begin and are sustained, which can lead to new therapies. 
+ the present work has been part of a decade-long collaboration between the georgia tech school of physics and the emory school of medicine. the researchers published their latest findings, “ direct observation of a stable spiral wave reentry in ventricles of a whole human heart using optical mapping for voltage and calcium ” and “ spiral wave breakup: optical mapping in an explanted human heart shows the transition from ventricular tachycardia to ventricular fibrillation and self-termination ,” in the journal 
+ heart rhythm . 
+ mapping the heart 
+ to generate the conditions for spiral waves, the researchers applied timed electric shocks to the heart. then, to visualize and record the spiral waves, they injected florescent dyes for voltage and calcium into the blood substitute that keeps the heart alive. the changes in light intensity enable them to record signals across the heart tissue, a technique known as optical mapping. 
+ “in this way we can visualize simultaneously the calcium and electrical waves in the heart by measuring the changes in light intensity as direct changes in calcium and voltage in the cardiac cells,” said 
+ ilija uzelac , a physics research scientist at georgia tech. “the amazing thing about this technique is that by using a high-resolution camera, we can obtain measurements of voltage and calcium at very high spatial and temporal resolutions that could not be possible even using thousands of recording electrodes around the heart.” 
+ each heart has a slightly different condition leading to the need for a transplant, so the researchers can investigate the dynamics of spiral waves with different types and severities of disease. 
+ collaborating with clinicians 
+ fenton’s group has been studying spiral waves in hearts for more than two decades. spiral waves are a good candidate for the physics field of nonlinear dynamics, where systems that appear to be unpredictable are not random but chaotic. methods can be developed to control and terminate spiral waves to stop fibrillation with little energy, as fenton’s group 
+ demonstrated theoretically 
+ earlier this year. 
+ previously, the group has worked with fish, reptiles, amphibians, and some mammalian hearts. however, thanks to the partnership with emory, they have been able to study 10 human hearts from transplant patients who have received a new heart in the past year. 
+ “we're very fortunate to have this strong collaboration between emory and georgia tech to perform these experiments,” fenton said. “there are very few physicians that, in addition to treating patients, want to partner with physicists to investigate arrhythmias.” 
+ the research has also been eye-opening from a medical standpoint. 
+ “i had a simplistic view of ventricular fibrillation based on what i see in the clinic and what i have read, but actually looking at ventricular fibrillation directly through these experiments gives a different perspective of the complexity and of what's going on with their dynamics,” said shahriar iravanian, an emory cardiologist in the group. 
+ “mapping electrical and chemical waves simultaneously in the isolated human heart offers a unique possibility to investigate mechanisms of sudden cardiac death at a new functional level and to associate the dynamic electrical changes characterizing malignant arrhythmias to the specific and individual pathology of patients,” said dr. andré g. kléber, professor of pathology in the disease biophysics group at the a. paulson school of engineering and applied sciences, harvard university. 
+ the researchers are continuing to study explanted hearts and hope to tailor the experiments not only for basic science but improving treatments. for example, most arrythmias are treated through ablation, by burning the substrate of faulty circuits, or electric shocks, and this research could make such treatments more targeted and even personalized.  such advances could have enormous implications for the future of the treatment of cardiac arrhythmias, a major cause of death in the u.s. 
+ "it is difficult to map ventricular fibrillation because of patient instability and complexity of signals," said neal bhatia, an assistant professor of medicine at emory and member of the collaboration. "this research has potential significant clinical complications. by detailed mapping of spiral wave dynamics, we can better understand their evolution and ultimately identify if and how the heart can be treated with better catheter ablation strategies." 
+ additional images 
+ contact 
+ tess malone, research writer / editor 
+ email 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

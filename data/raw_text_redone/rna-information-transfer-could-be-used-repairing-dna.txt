@@ -1,0 +1,45 @@
+rna information transfer could be used in repairing dna 
+ researchers have provided new insights into how rna can help repair major dna damage. 
+ researchers have found that not only can rna serve as a template for the repair of double-strand breaks, but that it was modifying genomic information in the absence of double-strand breaks. shown are georgia tech professor francesca storici and first author chance meers. (credit: chance meers) 
+ sep 15, 2020 
+ — atlanta, ga 
+ genomes are routinely subjected to dna damage. but most cells have dna repair systems that enforce genome stability and, ideally, prevent diseases like cancer. the trouble gets serious when these systems break down. when that happens, damage such as unrepaired dna lesions can lead to tumors, and genomic chaos ensues. 
+ “double-strand breaks are one of the most dangerous types of dna damage a cell can experience,” said chance meers, a postdoctoral researcher at columbia university who earned his ph.d. in molecular genetics in 2019 in the lab of 
+ francesca storici 
+ at the georgia institute of technology. “they inhibit the cell’s ability to replicate its dna, stalling cell division until the damage is repaired.” 
+ the most accurate pathway of dna-break repair is by using a homologous dna sequence to template the re-synthesis of the damaged dna region. researchers in the storici lab previously showed that a homologous rna sequence could also mediate this break repair, and sought to understand the molecular mechanisms that control this process. they wrote about it in a recently published paper for the journal 
+ molecular cell . 
+ “this is really about rna’s capacity to transfer information to dna that could be used in repairing damage,” explained storici, professor in the 
+ school of biological sciences 
+ and a researcher in the 
+ petit institute for bioengineering and bioscience 
+ at georgia tech. 
+ in a 2014 article published in 
+ nature , her team explained how transcript-rna could serve as a template for the repair of a dna double-strand break. in this new study, according to lead author meers, “we found that not only can rna serve as a template for the repair of double-strand breaks, but that it was modifying genomic information in the absence of double-strand breaks.” 
+ this modification of dna even in the absence of an induced double-strand break was very surprising to the team. also unanticipated, said meers, was that the process of transferring information depended on the presence of an unexpected enzyme, dna polymerase zeta. 
+ “this is quite surprising, because dna polymerase zeta is part of a large class of enzymes known as dna polymerases characterized by their ability to catalyze the synthesis of dna molecules from a dna template,” meers said. 
+ polymerase zeta is part of a subset of dna polymerases known as translesion dna polymerases, which have unique properties that allow them to synthesize damaged dna caused by mutagens like uv radiation. translesion dna polymerases also are important in cellular processes like the diversification of b-cell receptors used to recognize foreign elements like viruses. 
+ meers explained that rna molecules can be thought of as the cache on a computer – or a short-term memory that is not stably maintained. 
+ “we use a novel assay in which the yeast chromosomal dna was genetically engineered to contain a piece of dna sequence that allows it to be removed only in the rna that is actively transcribed from the chromosomal dna, generating a change in the rna sequence but not in the dna,” he said. 
+ if this “short-term memory,” in the form of rna, is transferred back into the dna sequence during the process of rna-templated dna repair, it becomes “long-term memory” stored in the dna, which can be thought of as the hard drive. 
+ “we placed this system into a particular gene in yeast, which gives an observable characteristic trait if this process occurred, allowing us to track the repair process,” meers said. 
+ exploiting such an assay, along with the discovery of a new role for dna polymerase zeta in rna-templated dna repair and modification, the study contains a series of new findings that helped the team better understand the genetic and molecular mechanisms by which rna can change dna sequences in cells. 
+ this research essentially lays the groundwork for exploring the role that rna can play in modifying genomic sequence and should allow future studies to more directly explore the role of rna in genomic instability and, in particular, in other organisms, like humans. 
+ this work was supported by the national cancer institute (nci) and the national institute of general medical sciences (nigms) of the nih (grant numbers ca188347, p30ca056036 and gm136717 to a.v.m.), drexel coulter program award (to a.v.m.), the national institute of general medical sciences (nigms) of the nih (grant number gm115927 to f.s.), the national science foundation fund (grant number 1615335 to f.s.), the howard hughes medical institute faculty scholar (grant number 55108574 to f.s.), and grants from the southeast center for mathematics and biology (nsf, dms-1764406 and simons foundation, 594594 to f.s.). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the nsf. 
+ citation : chance meers, havva keskin, gabor banyai, olga mazina, taehwan yang, alli l. gombolay, kuntal mukherjee, efiyenia i. kaparos, gary newnam, alexander mazin, and francesca storici. “genetic characterization of three distinct mechanisms supporting rna-driven dna repair and 3 modification reveals major role of dna polymerase zeta.” (molecular cell, 2020) ( https: / / www.cell.com / molecular-cell / fulltext / s1097-2765(20)30554-2 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : jerry grillo 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

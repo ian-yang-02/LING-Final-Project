@@ -1,0 +1,51 @@
+Genomic Study of 412 Anthrax Strains Provides New Virulence Clues
+Georgia Tech and CDC researchers have provided new information about the factors affecting the virulence of anthrax.
+Under high magnification, this digitally-colorized scanning electron microscope image depicts endospores from Bacillus anthracis bacteria. These endospores can live for many years, which enables these bacteria to survive in a dormant state. (CDC image)
+Aug 29, 2018
+— Atlanta, GA
+By analyzing genomic sequences from more than 400 strains of the bacterium that causes anthrax, researchers have provided the first evidence that the severity – technically known as virulence – of  specific strains may be related to the number of copies of certain plasmids they carry. Plasmids are genetic structures of the cell that can reproduce independently, and are responsible for producing the anthrax toxin and other virulence factors.
+The research found that bacteria strains collected from humans and animals tended to have more copies of the virulence plasmids than those collected from environmental sources. The research, a collaboration between scientists at the Georgia Institute of Technology and the Centers for Disease Control and Prevention (CDC), used CDC’s collection of
+Bacillus anthracis
+strains gathered from around the world beginning in the 1950s.
+“There is a hypothesis that the copy number – number of copies of the plasmids – plays a role in how virulent each strain is,” said
+Kostas Konstantinidis , a professor in the
+School of Civil and Environmental Engineering
+at the Georgia Institute of Technology. “We want to understand which are the more virulent strains, which are less virulent and what explains the difference. This study provides the first evidence that there is a significant difference in plasmid copy number that may be related to the virulence. But more research is needed to test this emerging hypothesis.”
+The research, which was sponsored by the CDC and the National Science Foundation, was reported August 14 in the journal
+mSystems , an open access journal from the American Society for Microbiology. The study involved more than 600 gigabytes of data, which will be shared with other researchers working to understand anthrax.
+In
+B. anthracis , two plasmids – known as pXO1 and pXO2 – are autonomous and independent pieces of DNA that encode the toxin and other virulence factors. In bacteria, plasmids like these tend to move around independently of the organisms’ main chromosomes, and can jump from one strain to another via genetic mechanisms of DNA transfer. Bacterial resistance to antibiotics can also be transferred through plasmid movement, for instance. Interestingly, this study found that the anthrax plasmids show limited genetic exchange between strains; rather, they are inherited from the ancestor, similar to the chromosomes.
+“This work and additional analyses performed at Georgia Tech and CDC on these genomes from strains of
+B. anthracis
+from around the world help further define the global diversity of this health threat,” said Alex Hoffmaster, chief of CDC’s Zoonotic Select Agent Lab and a co-author on the article. “Understanding more about the strains and their distribution can help us more easily determine whether anthrax cases were caused by natural or man-made sources so we can respond as needed to protect the public’s health.”
+The research could also provide information about other organisms, Konstantinidis said. “Beyond
+B. anthracis , this work could help provide a better understanding of the virulence potential of other organisms carrying similar plasmids. Being able to distinguish between more virulent and less virulent strains is a broader challenge for microbiology.”
+The study began with researchers from the CDC’s Division of High-Consequence Pathogens and Pathology, who used next-generation techniques to sequence diverse strains of
+B. anthracis . The agency provided its data to the Konstantinidis laboratory at Georgia Tech, where Graduate Research Assistant Angela Pena-Gonzalez led the bioinformatics analysis of the data.
+“We were able to use the sequencing data to calculate the correlation of the copy number with the source of each strain,” she explained. “We used the whole length of the plasmid to calculate the copy number, and our results were based on the analysis of hundreds of strains obtained from several sources – humans, animals and the environment – and not just a couple of them. This was an advantage of our study.”
+Analytical techniques developed at Georgia Tech allowed the whole genome comparisons to be done on the more than 400 genomes – a substantial data science challenge. The research revealed that B. anthracis genomes carried, on average, 3.86 and 2.29 copies of the pXO1 and pXO2 plasmids respectively, and that there was a positive linear correlation between the copy numbers of the two plasmids.
+“The technology to do this whole genome sequencing is available, but the processing of the data and the interpretation is not yet very straightforward,” Konstantinidis said. “The very magnitude of the data requires a specific process and considerable experience. The way in which we analyzed this data was not even available two years ago when we started the study.”
+Beyond the possible correlation of copy number of virulence, the study also showed the genome of the strains was surprisingly consistent. “The work shows that these plasmids are relatively stable, though we found a few strains that had different varieties of the plasmids that seem to have attenuated the virulence,” he said.
+A next step would be to investigate further the possible correlation between copy number and virulence in animal studies.
+Konstantinidis hopes to continue collaborating with the CDC to gain a better understanding of virulence and other factors in anthrax and other organisms that have implications for public health.
+“The CDC has unique resources like this collection of anthrax strains, and we hope to continue this collaboration to further understand what is going on with this and other pathogens,” he said. “There are a lot of applications to public health and to improving our understanding of the basic biology behind these organisms.”
+In addition to those already mentioned, the work included Luis M. Rodriguez-R from the Georgia Tech School of Civil and Environmental Engineering; and Chung K. Marston, Jay E. Gee, Christopher A. Gulvik, Cari B. Kolton, Elke Saile and Michael Frace from the CDC.
+This work was supported by United States National Science Foundation (NSF) award number 1356288 and DHHS/PHS/CDC award number RF023, and by Colciencias—Colombian Administrative Department for Science, Technology. The findings and conclusions in this work are those of the authors and do not necessarily represent the official positions of the NSF or CDC.
+CITATION : Angela Pena-Gonzalez, et al., “Genomic Characterization and Copy Number Variation of Bacillus anthracis Plasmids pXO1 and pXO2 in a Historical Collection of 412 Strains,” (mSystems 2018)
+https://msystems.asm.org/content/3/4/e00065-18
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

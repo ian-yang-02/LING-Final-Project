@@ -1,0 +1,20 @@
+How to Fall Gracefully If You’re a Robot
+New algorithm teaches how to react to a variety of falls to minimize damage.
+Robot braces its fall based on new algorithm.
+Oct 13, 2015
+— Atlanta, GA
+Miss Georgia tripped in the final round of the 2015 Miss America Pageant. Jennifer Lawrence stumbled on her way to accept an Oscar. Even
+rock stars, world leaders and presidential candidates
+have fallen in front of the crowd or completely off stage. And robots can too . Researchers at Georgia Tech have identified a way to teach robots how to fall with grace and without serious damage. The work is important as costly robots become more common in manufacturing alongside humans. The skill becomes especially important, too, as robots are sought for health care or domestic tasks – working near the elderly, injured, children or pets. Ph.D. graduate Sehoon Ha and Professor Karen Liu developed a new algorithm that tells a robot how to react to a wide variety of falls – from a single step to recover from a gentle nudge, to a rolling motion that breaks a high-speed fall. As a result, robots can minimize the damage or injury they might cause to themselves or others while falling by learning the best sequence of movements to slow their momentum. The planning algorithm was validated in
+physics simulation and experimentally tested
+on a BioloidGP humanoid. “A fall can potentially cause detrimental damage to the robot and enormous cost to repair,” said Ha, who graduated in summer 2015 and is now a postdoctoral associate at Disney Research Pittsburgh in Pennsylvania. “We believe robots can learn how to fall safely. Our work unified existing research about how to teach robots to fall by giving them a tool to automatically determine the total number of contacts (how many hands shoved it, for example), the order of contacts, and the position and timing of those contacts. All of that impacts the potential of a fall and changes the robot’s response.” With the latest finding, Ha builds upon Liu’s previous research that studied
+how cats modify their bodies
+in the midst of a fall. Liu knew from that work that one of the most important factors in a fall is the angle of the landing. She also knew that a well-designed robot has the “brain” to compute a softer landing, but hadn’t yet optimized the sequence of motions that take place during a fall, like she and Ha were able to do in their latest research. “From previous work, we knew a robot had the computational know-how to achieve a softer landing, but it didn’t have the hardware to move quickly enough like a cat,” Liu said. “Our new planning algorithm takes into account the hardware constraints and the capabilities of the robot, and suggests a sequence of contacts so the robot gradually can slow itself down.” Now the robots may fall more gracefully than people and possibly cats, too. Imagine that. The research, entitled “Multiple Contact Planning for Minimizing Damage of Humanoid Falls,” was presented this month at the IEEE/RSJ International Conference on Intelligent Robots and Systems in Hamburg, Germany.
+Additional Images
+Contact
+Tara La Bouff College of Computing 404-894-7253
+Email
+tlabouff@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

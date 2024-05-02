@@ -1,0 +1,38 @@
+Georgia Tech Plans Tokyo Redesign Using Social Data – Including Tweets
+Students use big data and machine learning for neighborhood proposals.
+Perry Yang with Tokyo Smart City designs, in the Eco Urban Lab
+Apr 05, 2022
+— Atlanta, GA
+What if everyone in a neighborhood had a voice in redesigning it? How can city planners democratize future smart cities, big data analytics and decision-making by involving citizen participation?
+That’s the vision of the Tokyo Smart City Studio, using GPS and other location data to track trends in human behavior. The studio is part of the  Eco Urban Lab , directed by  Perry Yang . In the Studio, Georgia Tech designers are changing the way we plan cities.
+According to Yang, designers need to know, “how urban form accommodates flows of all kinds, including information, energy, and human movements, and how patterns of flows are mapped through physical configurations that change over time.” Using advanced analytics on a massive pool of data, designers can see how people choose to use a space. Then, they can make decisions based on real behavior rather than theoretical models or small surveys, Yang said.
+Projects from the Studio recently drew Esri’s attention for their advanced use of geographic analytics. As part of the studio, students used large-scale location data to model traffic flows in different segments of Tokyo.
+Esri is best known as the company that developed GIS (geographic information system) software which is widely used by city and regional planners.  Esri's blog  covers innovative use of geospatial data.
+To date, the Studio has delivered smart-city proposals for three different Tokyo neighborhoods: Urawa-Misono in 2017, Kyojima in 2018-2019, and Shinagawa in 2020. Yang said this year’s project will involve the Nihonbashi district, home of the Tokyo Stock Exchange and a historic origin of Tokyo’s modern urban culture.
+Tokyo is one of the busiest, most populous cities in the world, and as such, it’s difficult to create sustainable, healthy environments, said Yang. His studio focuses on global collaboration to solve the problems facing cities like Tokyo.
+For the Nihonbashi district, the Studio is collaborating with the  Department of Urban Engineering at the University of Tokyo ; the  Global Carbon Project ; the  National Institute for Environmental Studies, Japan ; and the  Mitsui Fudosan University of Tokyo Laboratory .
+Thanks to the diversity of ideas that this collaboration generates, the Tokyo Smart City Studio proposals aren’t purely theoretical. Students work on real neighborhood needs identified by the local government, using real on-site data gathered and processed by groundbreaking methods. Massive amounts of data require AI techniques and algorithms to process some of them.
+Design Makes Cities Smart
+Unlike a smartphone or a smart home, a smart city is measured by more than its Internet connection or its automation. A city is smart because its design is based on data about flows of people, resources, energy, and information. “Empowered by new tools and technologies, cities are now far more designable than ever before. Future urban design and development are to be data-driven," Yang said.
+"Cities are becoming more interactive and situation-driven and have to be more responsive, adaptable, and resilient to future conditions.”
+Only in the past few years have smartphones, GPS, and Internet-of-Things (IoT) devices made real data on a city-wide scale available. These new technologies may enable good planning that is driven by social, institutional, and physical contexts, Yang said.
+Students Predict Mobility Using AI Techniques
+But new data and a new design philosophy require new methods of design, which haven’t been created yet.  To meet this challenge, Yang’s students use AI techniques to create models of behavior.
+An early test in Urawa-Misono used Tokyo traffic data. The model was “trained” using existing traffic data. Designers then check the model to see if correctly predicts congestion points. If it works, that suggests the model can be used to estimate the impact of design changes on traffic flow.
+Methods like this allow designers to move mobility analytics into the design phase. Mobility is key in the urban environment, but mobility studies usually aren’t done until we envision how future urban spaces are shaped through design.
+“Mobility research during these studios developed test processes to better integrate mobility metrics with design decisions,” Yang said.
+The following studio in Kyojima expanded the role of deep learning techniques. Georgia Tech students participated in street experiments in Tokyo by carrying vital sensors to measure data such as  heart beat, temperature, humidity, UV, pressure and acceleration of human movement, to understand human perception and their connections to urban street environments. Students created a rapid automatic assessment of sequential urban experiences: basically, how pleasant a person would experience walking down a street.
+The resulting article,  Computing Sequential Experience of an Urban Street using Deep Learning Technique , led by Helen Chen, a Ph.D. student in the School of City and Regional Planning, was presented at the 2019 International Conference of Urban Informatics.
+Both the Urawa-Misono and Kyojima studio projects made mobility analysis and feedback part of the design phase, yielding designs better supporting resilience, sustainability, and community health.
+Using Social Media to Check Risk of Heat Stress
+In Tokyo, studio planners expanded mobility studies to include public health. Tokyo officials were concerned that heat waves would pose a risk to the 2020 Olympic crowds.
+To address this, researchers used a combination of GPS and social networking service information to track people’s motion and response to heat “in near real-time [and] in high spatial resolution,” said Yang.
+Students used thermal images from a helicopter to find hot zones. GPS data showed pedestrian exposure to those hot zones. The combination of heat and pedestrian exposure allowed prediction of risky areas.
+In collaboration with partners in Japan, researchers searched geotagged twitter data for terms related to heat discomfort. They found a high correlation between the predicted risk zones and areas where people complained about heat.
+Both the prediction of heat risk and the use of social media to check the prediction are new methods developed in the Studio.
+Additional Images
+Email
+ann.hoevel@design.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

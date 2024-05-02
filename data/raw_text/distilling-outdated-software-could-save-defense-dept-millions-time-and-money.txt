@@ -1,0 +1,26 @@
+‘Distilling’ Outdated Software Could Save Defense Dept. Millions in Time and Money
+Brendan Saltaformaggio leads a $10M DARPA-funded effort to update critical defense software.
+Brendan Saltaformaggio, left, and Amit Sikder are working on a $10 million DARPA project to unpack legacy software systems, incorporate updates, and redeploy them in weeks or months rather than years. (Photo: Candler Hobbs)
+Aug 16, 2023
+Software updates are a ubiquitous part of our lives.
+That’s true at home and at work. And it’s true for the critical systems the U.S. Department of Defense relies on to protect the nation.
+Think about all the highly sophisticated systems that power drones or fighter jets or even secure authentication programs. Many of those systems are custom software developed at great expense. Which means updating them isn’t as easy as downloading the latest software patch and clicking “Install.”
+It often requires a time-consuming rewrite or reverse engineering process that costs even more time and money. But not if a team of Georgia Tech engineers and cybersecurity researchers are successful. They’re among the teams working to speed up the process with a
+$10 million Defense Advanced Research Projects Agency (DARPA)-funded effort
+to unpack these legacy systems, incorporate updates, and redeploy them in weeks or months rather than years.
+“The U.S. government has this tremendous problem where they put tons of research and development into cutting edge software, and then two years down the line, it needs to be updated or applied to a new platform or it needs patches. We can’t just go back to the drawing board and rewrite all of our software every few years,” said
+Brendan Saltaformaggio , an associate professor in the
+School of Cybersecurity and Privacy
+(SCP) and the
+School of Electrical and Computer Engineering
+(ECE).
+Read about the team's work on the College of Engineering website.
+Additional Images
+Contact
+Joshua Stewart
+College of Engineering
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

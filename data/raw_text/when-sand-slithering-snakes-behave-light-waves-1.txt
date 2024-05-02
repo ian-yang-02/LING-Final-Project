@@ -1,0 +1,44 @@
+When Sand-Slithering Snakes Behave Like Light Waves
+A new study shows how the motion of snakes moving across a sandy surface can be affected by obstacles.
+Georgia Tech undergraduate student Lillian Chen demonstrates how she and colleague Alex Hubbard studied snakes as they moved through an arena covered with shag carpet to mimic sand. (Photo: Allison Carter, Georgia Tech)
+Feb 25, 2019
+— Atlanta, GA
+Desert snakes slithering across the sand at night can encounter obstacles such as plants or twigs that alter the direction of their travel. While studying that motion to learn how limbless animals control their bodies in such environments, researchers discovered that snakes colliding with these obstacles mimic aspects of light or subatomic particles when they encounter a diffraction grating.
+The effect of this “mechanical diffraction” allowed researchers to observe how the snakes’ trajectories were altered through passive mechanisms governed by the skeletal and muscular dynamics of the animals’ propagating body waves. The researchers studied live snakes as they slithered through an obstacle made up of six force-sensitive rigid pegs that buckled the animals’ bodies, changing their paths in predictable ways.
+The results, described February 25 in the journal
+Proceedings of the National Academy of Sciences , indicate that the Western Shovel-nosed snakes ( Chionactis occipitalis ) do not deliberately change direction when they encounter obstacles while speeding across the sand. Understanding the movement of these limbless animals could help engineers improve the control of autonomous search and rescue robots designed to operate on sand, grass and other complex environments.
+“The idea behind passive dynamics is that there are waveform shape changes being made by the animal that are driven entirely by the passive properties of their bodies,” said Perrin Schiebel, a recent Ph.D. graduate of the
+School of Physics
+at the Georgia Institute of Technology. “Instead of sending a signal to activate a muscle, the interaction of the snakes’ bodies with the external environment is what causes the shape change. The forces of the obstacles are pushing the snake bodies into a new shape.”
+The colorful shovel-nosed snake normally uses a sinusoidal S-shaped wave to move across the deserts of the Southwest United States. Running into rigid pegs in a laboratory environment doesn’t lead it to actively change that waveform, which Schiebel and colleagues studied using high-speed video cameras with eight different animals.
+In a study supported by the National Science Foundation, Army Research Office, Defense Advanced Projects Agency, and a National Defense Science and Engineering Graduate Fellowship, the researchers used 253 snake trips to build up a diffraction pattern. Remarkably, the pattern also revealed that the scattering directions were “quantized” such that the probability of finding a snake behind the array could be represented in a pattern mimicking wave interference. A computational model was able to capture the pattern, demonstrating how the snakes’ direction would be altered by obstacle encounters via passive body buckling.
+“One problem with robots moving in the real world is that we don’t yet have principles by which we can understand how best to control these robots on granular surfaces like sand, leaf litter, rubble or grass,” said
+Daniel Goldman , Dunn Family Professor in Georgia Tech’s School of Physics and a researcher in the Petit Institute for Bioengineering and Bioscience. “The point of this study was to try to understand how limbless locomotors, which have long bodies that can bend in interesting ways using potentially complicated neuromechanical control schemes, manage to move through complicated terrain.”
+The snake experiment was suggested by a robotic study done by postdoctoral fellow Jennifer Rieser, who found similar behavior among robots encountering obstacles.
+“The robot tends to have aspects that mimic features of the subatomic world — the quantum world,” Goldman explained. “When it collides with barriers, a robot propagates through those barriers using waves of body bending. Its trajectory deviates as it exits the barriers, and many repeated trials reveal a ‘lumpy’ scattering pattern, analogous to experiments. We realized that we could use this surprising and beautiful phenomenon, classical physics but with self-propulsion a key feature, as a scattering experiment to interrogate the control scheme used by the snakes.”
+Experimentally, the researchers used a “snake arena” covered with shag carpet to mimic sand. Undergraduate students Alex Hubbard and Lillian Chen released the snakes one at a time into the arena and encouraged them to slither through the grating.
+The eyes of the desert snakes are naturally covered with scales to protect them. The researchers used children’s face paint to temporarily “blindfold” the animals so they would not be distracted by the researchers. The paint did not harm the animals.
+“When we put the snakes down in the arena, they started moving using the same waveform they use on desert sand,” explained Schiebel. “They would then encounter the dowel grating, pass through it, and continue on the other side still using that waveform.”
+Instead of continuing to travel through the arena in a straight line, the snakes would exit at a different angle, though they did not grab the posts or use them to assist their movement. Schiebel worked with Zeb Rocklin, a Georgia Tech assistant professor of physics, to model the directional changes. The model showed how simple interactions between the snakes' wave pattern and the grating produce patterns of favored scattering directions.
+“We think the snake is essentially operating in a model that control engineers would consider ‘open loop,’” said Goldman. “It is setting a particular motor program on its body, which generates the characteristic wave pattern, and when it collides with the obstacle, its body mechanics allow it to deform and move the posts without degrading its speed.”
+Goldman believes the work could help developers of snake-like robots improve their control schemes.
+“We think that our discoveries of the role of passive dynamics in the snake can facilitate new snake robot designs that will enable them to move through complex environments more fluidly,” he said. “The goal would be to build search and rescue robots that can get into these complex environments and help first responders.”
+And as a bonus, Goldman said, “We find that the richness of interactions between self-propelled systems like snakes and robots with their environment is fascinating from the standpoint of ‘active matter’ physics.”
+This work was supported by National Science Foundation Physics of Living Systems program awards PHY-1205878, PHY-1150760 and CMMI-1361778; by the Army Research Office through award W911NF-11-1-0514; U.S. DoD National Defense Science and Engineering Graduate Fellowship (NDSEG) 32 CFR 168a; and by the Defense Advanced Research Projects Agency (DARPA) Young Faculty Award. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsor organizations.
+CITATION : Perrin E. Schiebel, et al., “Mechanical diffraction reveals the role of passive dynamics in a slithering snake,” (Proceedings of the National Academy of Sciences, 2019).
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

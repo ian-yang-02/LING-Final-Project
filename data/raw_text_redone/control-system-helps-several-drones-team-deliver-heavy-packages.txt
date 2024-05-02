@@ -1,0 +1,41 @@
+control system helps several drones team up to deliver heavy packages 
+ researchers have developed a control system that will enable teams of drones to carry heavy packages. 
+ researchers have developed a modular solution for handling larger packages without the need for a complex fleet of drones of varying sizes. by allowing teams of small drones to collaboratively lift objects using an adaptive control algorithm, the strategy could allow a wide range of packages to be delivered using a combination of several standard-sized vehicles. (credit: john toon, georgia tech) 
+ mar 22, 2021 
+ — atlanta, ga 
+ many parcel delivery drones of the future are expected to handle packages weighing five pounds or less, a restriction that would allow small, standardized uavs to handle a large percentage of the deliveries now done by ground vehicles. but will that relegate heavier packages to slower delivery by conventional trucks and vans? 
+ a research team at the georgia institute of technology has developed a modular solution for handling larger packages without the need for a complex fleet of drones of varying sizes. by allowing teams of small drones to collaboratively lift objects using an adaptive control algorithm, the strategy could allow a wide range of packages to be delivered using a combination of several standard-sized vehicles. 
+ beyond simplifying the drone fleet, the work could provide more robust drone operations and reduce the noise and safety concerns involved in operating large autonomous uavs in populated areas. in addition to commercial package delivery, the system might also be used by the military to resupply small groups of soldiers in the field. 
+ “a delivery truck could carry a dozen drones in the back, and depending on how heavy a particular package is, it might use as many as six drones to carry the package,” said 
+ jonathan rogers , the lockheed martin associate professor of avionics integration in georgia tech’s 
+ daniel guggenheim school of aerospace engineering . “that would allow flexibility in the weight of the packages that could be delivered and eliminate the need to build and maintain several different sizes of delivery drones.” 
+ the research was supported, in part, by a national science foundation graduate student fellowship and by the hives independent research and development program of the georgia tech research institute. a paper on the research has been submitted to the 
+ journal of aircraft . 
+ a centralized computer system developed by graduate student kevin webb would monitor each of the drones lifting a package, sharing information about their location and the thrust being provided by their motors. the control system would coordinate the issuance of commands for navigation and delivery of the package. 
+ “the idea is to make multi-uav cooperative flight easy from the user perspective,” rogers said. “we take care of the difficult issues using the onboard intelligence, rather than expecting a human to precisely measure the package weight, center of gravity, and drone relative positions. we want to make this easy enough so that a package delivery driver could operate the system consistently.” 
+ the challenges of controlling a group of robots connected together to lift a package is more complex in many ways than controlling a swarm of robots that fly independently. 
+ “most swarm work involves vehicles that are not connected, but flying in formations,” rogers said. “in that case, the individual dynamics of a specific vehicle are not constrained by what the other vehicles are doing. for us, the challenge is that the vehicles are being pulled in different directions by what the other vehicles connected to the package are doing.” 
+ the team of drones would autonomously connect to a docking structure attached to a package, using an infrared guidance system that eliminates the need for humans to attach the vehicles. that could come in handy for drones sent to retrieve packages that a customer is returning. by knowing how much thrust they are producing and the altitude they are maintaining, the drone teams could even estimate the weight of the package they’re picking up. 
+ webb and rogers have built a demonstration in which four small quadrotor drones work together to lift a box that’s 2 feet by 2 feet by 2 feet and weighs 12 pounds. the control algorithm isn’t limited to four vehicles and could manage “as many vehicles as you could put around the package,” rogers said. 
+ for the military, the modular cargo system could allow squads of soldiers at remote locations to be resupplied without the cost or risk of operating a large autonomous helicopter. a military uav package retrieval team could be made up of individual vehicles carried by each soldier. 
+ “that would distribute a big lifting capability in smaller packages, which equates to small drones that could be used to team up,” rogers said. “putting small drones together would allow them to do bigger things than they could do individually.” 
+ bringing multiple vehicles together creates a more difficult control challenge, but rogers argues the benefits are worth the complexity. “the idea of having multiple machines working together provides better scalability than building a larger device every time you have a larger task,” he said. “we think this is the right way to fill that gap.” 
+ using multiple drones to carry a heavy package could also allow more redundancy in the delivery system. should one of the drones fail, the others should be able to pick up the load – an issue managed by the central control system. that part of the control strategy hasn’t yet been tested, but it is part of rogers’ plan for future development of the system. 
+ more research is also needed on the docking system that connects the drones to packages. the structures will have to be made strong and rigid enough to connect to and lift the packages, while being inexpensive enough to be disposable. 
+ “i think the major technologies are already here, and given an adequate investment, a system could be fielded within five years to deliver packages with multiple drones,” rogers said. “it’s not a technical challenge as much as it is a regulatory issue and a question of societal acceptance.” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or anne wainscott-sargent (404-435-5784) (asargent7@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

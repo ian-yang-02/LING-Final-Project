@@ -1,0 +1,35 @@
+jill watson, round three 
+ a class on artificial intelligence will again include non-human teaching assistants. 
+ jan 09, 2017 
+ — atlanta, ga 
+ georgia tech is beginning its third semester using virtual teaching assistants (tas) in an online course about artificial intelligence (ai). the new term comes one year after jill watson was introduced during knowledge based artificial intelligence (kbai), a core course of the college of computing’s master of science in computer science degree program. 
+ jill, which is implemented on ibm’s watson platform, was first used during the spring 2016 semester to successfully answer particular types of frequently asked questions without the help of humans. the students weren’t told her identity until the final day of the class. 
+ professor ashok goel then introduced two “jill watsons” this past fall to work alongside 13 human tas. with jill no longer a secret, goel gave 14 of 15 tas pseudonyms (only the head assistant kept his real identity). jill watson became stacy sisko and ian braun. stacy interacted with the 400 enrolled students during class introductions and posted weekly updates; ian answered common questions. 
+ “i told the students at the beginning of the semester that some of their tas may or may not be computers,” said goel, a professor of computer science. “then i watched the chat rooms for months as they tried to differentiate between human and artificial intelligence.” 
+ stacy dove into the discussion forum first. all members of the class were encouraged to introduce themselves. she responded to about half of them, chiming in with short paragraphs and relevant details. she received no human assistance. 
+ “if a student mentioned that they lived in, say, chicago and worked at a specific company, for example, stacy might comment on the city or the workplace,” goel said. “if a student mentioned they were taking another georgia tech course, she would sometimes make a comment about the instructor.” 
+ goel said there were a few mistakes, but nothing alarming. stacy also wrote her own weekly previews of the content, then summarized on fridays. sometimes her wrap-ups referenced conversations among students. for instance, if she noticed a helpful, engaging online discussion from a few days prior, she would highlight it during her summary and encourage students to check it out for added insight. 
+ the other non-human ta, ian, wasn’t much different from the original jill watson. he answered routine questions typically asked each semester, such as the allowed length and format of written assignments. 
+ “ian wasn’t as efficient in fall as jill was in spring. he didn’t answer as many questions as we had expected,” goel admitted. ian only posted responses if he was 97 percent confident. “we’re still sorting through the data, but it looks like some students may have deliberately tried to outsmart the computer by asking questions in new ways.” 
+ and because ian could only pull answers from his episodic memory of previous offerings of the class, goel thinks the variety of the student questions may have been a bit overwhelming. so his research team has developed a new version of jill based on semantic analysis that he will introduce to the incoming class this semester. 
+ at the end of the term, the students were polled about who was human and what was ai. slightly more than 50 percent of the students correctly guessed that stacy was a computer. sixteen percent figured out that ian wasn’t human. on the other hand, more than 10 percent mistakenly thought two of the human tas weren’t real. 
+ “we’re seeing more engagement in the course. for instance, in fall of 2015 before jill watson, each student averaged 32 comments during the semester. this fall it was close to 38 comments per student, on average,” goel said. “i attribute this increased involvement partly to our ai tas. they’re able to respond to inquiries more quickly than us.” 
+ this isn’t something goel expected when he began the jill watson project. he just wanted to free up more time for his staff so they could concentrate on tasks computers can’t do. 
+ also in the fall, approximately 40 students built chatbots (their own avatars of jill watson) that could converse about the course. this allowed the students to operationalize some of the techniques they were learning in the class. 
+ “when we started, i had no idea that this would blossom into a project with so many dimensions. it’s been a bonanza of low-hanging fruit we’re just starting to pluck.” 
+ virtual teaching assistants as illustrated by jill were recently recognized as 
+ one of the most transformative technologies to impact college 
+ within the past 50 years by the chronicle of higher education. 
+ additional images 
+ related links 
+ online master of science in computer science program 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

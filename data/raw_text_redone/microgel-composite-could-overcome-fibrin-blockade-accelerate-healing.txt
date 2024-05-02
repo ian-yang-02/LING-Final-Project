@@ -1,0 +1,39 @@
+microgel composite could overcome fibrin blockade to accelerate healing 
+ researchers have combined microgels with robust polymer networks to create a new repair material. 
+ visualization shows the microgel network architecture in fibrin–microgel composite materials. confocal microscopy images of fluorescently labeled microgels (shown in blue and red) and fibrin (shown in green) demonstrate that at a critical volume fraction, the microgels form an interconnected tunnel network within the fibrous fibrin matrix. microgels are tightly packed and only slightly jiggle around within the microgel domains. (credit: alison douglas) 
+ jan 26, 2017 
+ — atlanta, ga 
+ in regenerative medicine, the ideal repair material would offer properties that seem impossibly contradictory. it must be rigid and robust enough to be manipulated surgically, yet soft and porous enough to allow healing cells to pass through it to launch repair and regeneration processes. 
+ now, researchers have taken an important step toward creating such a material by combining water-filled particles known as microgels with robust polymer networks made of natural fibrin. in a remarkable dynamic process, the microgels self-assemble into three-dimensional tunnel-like structures that could allow repair cells to migrate through the polymer network to begin the healing process. 
+ the research, resulting from collaboration between biomedical engineers, materials scientists and physicists, could give surgeons a new tool for repairing major injuries and lead to development of a battlefield bandage that soldiers might use to control bleeding – while allowing healing to begin more quickly. supported by the national institutes of health, the department of defense and the national science foundation, the research was reported january 19 in the journal 
+ proceedings of the national academy of sciences . 
+ “these composite materials could have a real chance of helping bridge the divide between what the surgeons need and what your body needs during tissue repair and regeneration,” said thomas barker, a professor in the department of biomedical engineering at the university of virginia and the paper’s corresponding author. “this is a novel demonstration of a biological use for super soft particle systems, which are widely studied in the physics community. they could allow cells to migrate through what is actually a relatively hard material whose strength is provided by the bulk fibrin.” 
+ in the fibrin matrix created by the research team, the colloidal hydrogels move slowly, passing by each other as water molecules pass each other as they flow into a sink. but the hydrogel particles move much more slowly than water molecules, taking perhaps an hour to pass by another particle, explained alberto fernandez-nieves, an associate professor in the school of physics at the georgia institute of technology and one the paper’s senior authors. 
+ “the softness of the microgel particles allows them to pass by each other, and that is a key ingredient in allowing cells to move into the material,” fernandez-nieves explained. “we can control the speed of the cell migration by controlling the time associated with the flow behavior of the microgel suspension.” 
+ in real injuries, blood coagulation forms a fibrin mesh from the polymerization of fibrinogen, a natural protein. the mesh stops the bleeding, but repair cells must break down the fibrin network before they can begin the repair and regeneration process. letting cells migrate through the fibrin-microgel material could accelerate the healing process. 
+ the researchers were surprised to see that cells known as fibroblasts could migrate through the composite material they made. 
+ “in this new material, cell motility is not restricted in what is otherwise a very tightly packed area,” barker said. “conventional wisdom and decades of data would tell us that the cells would not move in these colloidal domains, yet we see the cells moving faster than if there were nothing there. the colloidal domains that form in fibrin comprised of these unique ‘squishy’ particles display physical properties that are very different from what people would expect, and are very attractive for biomedical applications.” 
+ the research group used microgels developed by andrew lyon, now a professor and dean of schmid college at chapman university. because of the unusual way in which these particles are crosslinked, the poly(n-isopropylacrylamide) particles are very soft – softer than living cells. 
+ former georgia tech graduate student alison douglas created the fibrin-microgel composites in the laboratory, varying the composition and examining the resulting network under a microscope. as the fibrin polymerized, the particles formed pockets that continued to rearrange themselves even after the fibrin network was fully formed. the pockets created tunnels that led through the fibrin network. with help from graduate student alexandros fragkopoulos, they used home-built matlab codes to characterize the structure and architecture of the resulting material. 
+ living fibroblast cells were applied to the structure, and the researchers found that the cells were able to penetrate into the fibrin-microgel network. the cells were unable to enter a control network made without the microgels. 
+ “the speed of the cells is related to the time required for the microgels to rearrange themselves,” fernandez-nieves said. “you get a fibrin network with microgel pockets that percolate through it. there are tunnel-like pockets in the network that are filled with microgels, and the cells are able to exploit the long-time flow behavior of this suspension to get through the fibrin-based material.” 
+ in future research, the team hopes to explore factors controlling cell migration in colloidal environments, and evaluate the potential for biomaterials capitalizing on the unique properties they’ve demonstrated. among the results could be a material that could be applied to wounds sustained by soldiers on the battlefield. the material could help stop the bleeding, but would immediately allow healing cells to enter the injured area. 
+ “this is a significant step toward producing a new material that would be robust, but at the same time permeable and able to allow cells to move through it,” fernandez-nieves said. “we want to continue to explore the physical properties of these materials and quantify how cells interact with the surrounding microgel suspension.” 
+ this research was supported by funding from the department of defense (award w81xwh-15-1-0485), the national institutes of health (grant r01hl130918), and the national science foundation (grant dmr-1609841). additional support was provided by the american heart association, and the parker h. petit institute for bioengineering and bioscience and georgia tech / children’s healthcare of atlanta (gt / choa) center for pediatric nanomedicine. the content is solely the responsibility of the authors and does not necessarily represent the official views of the funding agencies. 
+ citation : alison m. douglas, alexandros a. fragkopoulos, michelle k. gaines, l. andrew lyon, alberto fernandez-nieves and thomas h. barker, “dynamic assembly of ultrasoft colloidal networks enables cell invasion within restrictive fibrillar polymers,” (proceedings of the national academy of sciences, 2017). http: / / dx.doi.org / 10.1073 / pnas.1607350114 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

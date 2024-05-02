@@ -1,0 +1,21 @@
+Supercomputing for Superconductors
+MSE, Hanoi University, and UCSD team is developing a machine learning toolkit to discover room temperature superconducting materials.
+Jul 24, 2023
+Researchers at Georgia Tech and
+Hanoi University
+have capitalized on a powerful supercomputer to build a database that could identify new superconducting materials that work at room temperature.
+The team has identified two possible candidates using new machine learning models they developed and deployed with the capabilities of the San Diego Supercomputer Center at the University of California, San Diego.
+They published their progress recently in the journal Physical Review Materials.
+Superconductors allow electricity to pass with no resistance, but conventional materials require temperatures near absolute zero (nearly -460 degrees Fahrenheit). For more than a century, scientists have been searching for materials able to accomplish the feat at room temperature and ambient pressure.
+“The main challenge of the [artificial intelligence/machine learning] method is that we need, but never have, the desired database of superconductors,” said
+Huan Tran , senior research scientist in the Georgia Tech
+School of Materials Science and Engineering . “All previous works relied on databases that are sometimes large enough, but completely lacking in atomic-level information — which is absolutely crucial for accurate predictions.”
+Tran and Tuoc Vu from Hanoi University have been building a database with that atomic-level information, filling in a critical gap in available data so they can train machine learning models to accurately predict promising superconductive materials.
+More details about their work from the San Diego Supercomputer Center.
+Contact
+Joshua Stewart
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

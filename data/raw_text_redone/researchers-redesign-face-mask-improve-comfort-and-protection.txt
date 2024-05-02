@@ -1,0 +1,48 @@
+researchers redesign the face mask to improve comfort and protection 
+ researchers have redesigned the face mask to make it comfortable and able to protect both the wearer and those nearby. 
+ details of a redesigned face mask developed at the georgia institute of technology are modeled on this mannequin.  (credit, christopher moore, georgia tech) 
+ sep 03, 2020 
+ — atlanta, ga 
+ imagine a reusable face mask that protects wearers and those around them from sars-cov-2, is comfortable enough to wear all day, and stays in place without frequent adjustment. based on decades of experience with filtration and textile materials, georgia institute of technology researchers have designed a new mask intended to do just that — and are 
+ providing the plans 
+ so individuals and manufacturers can make it. 
+ the modular georgia tech mask combines a barrier filtration material with a stretchable fabric to hold it in place. prototypes made for testing use hook and eye fasteners on the back of the head to keep the masks on, and include a pocket for an optional filter to increase protection. after 20 washings, the prototypes have not shrunk or lost their shape. 
+ “if we want to reopen the economy and ask people to go back to work, we need a mask that is both comfortable and effective,” said 
+ sundaresan jayaraman , the kolon professor in georgia tech’s 
+ school of materials science and engineering . “we have taken a science-based approach to designing a better mask, and we are very passionate about getting this out so people can use it to help protect themselves and others from harm.” 
+ the fundamental flaw in existing reusable cloth masks is that they — unlike n95 respirators, which are fitted for individual users — leak air around the edges, bypassing their filtration mechanism. that potentially allows virus particles, both large droplets and smaller aerosols, to enter the air breathed in by users, and allows particles from infected persons to exit the mask. 
+ the leakage problem shows up in complaints about eyeglasses fogging up as exhaled breath leaks around the nose, making people less likely to wear them. the fit problem can also be seen in constant adjustments made by wearers, who could potentially contaminate themselves whenever they touch the masks after touching other surfaces. 
+ to address the leakage challenge, jayaraman and principal research scientist 
+ sungmee park 
+ created a two-part mask that fastens behind the head like many n95 respirators. the front part — the barrier component — contains the filtration material and is contoured to fit tightly while allowing space ahead of the nose and mouth to avoid breathing restrictions and permit unrestricted speech. made from the kind of moisture-wicking material used in athletic clothing, it includes a pocket into which a filter can be inserted to increase the filtration efficiency and thereby increase protection. the washable fabric filter is made of a blend of spandex and polyester. 
+ the second part of the mask is fashioned from stretchable material. the stretchable part, which has holes for the ears to help position the mask, holds the front portion in place and fastens with conventional hook and eyelet hardware, a mechanism that has been used in clothing for centuries. 
+ “we want people to be able to get the mask in the right place every time,” jayaraman said. “if you don’t position it correctly and easily, you are going to have to keep fiddling with it. we see that all the time on television with people adjusting their masks and letting them drop below their noses.” 
+ beyond controlling air leakage, designing a better mask involves a tradeoff between filtration effectiveness and how well users can breathe. if a mask makes breathing too difficult, users will simply not use it, reducing compliance with masking requirements. 
+ many existing mask designs attempt to increase filtration effectiveness by boosting the number of layers, but that may not be as helpful as it might seem, park said. “we tested 16 layers of handkerchief material, and as we increased the layers, we measured increased breathing resistance,” she said. “while the breathing resistance went up, the filtration did not improve as much as we would have expected.” 
+ “good filtration efficiency is not enough by itself,” said jayaraman. “the combination of fit, filtration efficiency, and staying in the right place make for a good mask.” 
+ the stretchable part of the mask is made from knitted fabric — a spandex / lyocell blend — to allow for stretching around the head and under the chin. the researchers used a woven elastic band sewn with pleats to cover the top of the nose. 
+ the researchers made their mask prototypes from synthetic materials instead of cotton. though cotton is a natural material, it absorbs moisture and holds it on the face, reducing breathability, and potentially creating a “petri dish” for the growth of microbes. 
+ “masks have become an essential accessory in our wardrobe and add a social dimension to how we feel about wearing them,” park said. so, the materials chosen for the mask come in a variety of colors and designs. “integrating form and function is key to having a mask that protects individuals while making them look good and feel less self-conscious,” jayaraman said. 
+ the work of jayaraman and park didn’t begin with the covid-19 pandemic. they received funding 10 years ago from the centers for disease control and prevention to study face masks during the avian influenza outbreak. since then jayaraman has been part of several national academy of medicine initiatives to develop recommendations for improved respiratory protection. 
+ covid-19 dramatically increased the importance of using face masks because of the role played by asymptomatic and pre-symptomatic exposure from persons who don’t know they are infected, jayaraman said. while the proportion of aerosol contributions to transmission is still under study, they likely increase the importance of formfitting masks that don’t leak. 
+ jayaraman and park have published their recommendations in the journal of the textile institute, and will make the specifications and patterns for their mask available to individuals and manufacturers. the necessary materials can be obtained from retail fabric stores, and the instructions describe how to measure for customizing the masks. 
+ “there is so much misinformation about what face masks can do and cannot do,” jayaraman said. “being scientists and engineers, we want to put out information backed by science that can help our community reduce the harm from sars-cov-2.” 
+ link to plans, patterns and specifications for this mask 
+ citation : sungmee park and sundaresan jayaraman, “from containment to harm reduction from sars-cov-2: a fabric mask for enhanced effectiveness, comfort, and compliance.” ( the journal of the textile institute , 2020) 
+ https: / / doi.org / 10.1080 / 00405000.2020.1805971 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

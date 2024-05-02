@@ -1,0 +1,31 @@
+universal controller could push robotic prostheses, exoskeletons into real-world use 
+ aaron young’s team has developed a wear-and-go approach that requires no calibration or training. 
+ researcher aaron young makes adjustments to an experimental exoskeleton worn by then-ph.d. student dean molinaro. the team used the exoskeleton to develop a unified control framework for robotic assistance devices that would allow users to put on an "exo" and go — no extensive training, tuning, or calibration required. (photo: candler hobbs) 
+ mar 20, 2024 
+ robotic exoskeletons designed to help humans with walking or physically demanding work have been the stuff of sci-fi lore for decades. remember 
+ ellen ripley in that power loader in 
+ alien ? or the crazy mobile platform 
+ george mcfly wore in 2015 in 
+ back to the future, part ii 
+ because he threw his back out? 
+ researchers are working on real-life robotic assistance that could protect workers from painful injuries and help stroke patients regain their mobility. so far, they have required extensive calibration and context-specific tuning, which keeps them largely limited to research labs. 
+ mechanical engineers at georgia tech may be on the verge of changing that, allowing exoskeleton technology to be deployed in homes, workplaces, and more. 
+ a team of researchers in 
+ aaron young’s 
+ lab have developed a universal approach to controlling robotic exoskeletons that requires no training, no calibration, and no adjustments to complicated algorithms. instead, users can don the “exo” and go. 
+ their system uses a kind of artificial intelligence called deep learning to autonomously adjust how the exoskeleton provides assistance, and they’ve shown it works seamlessly to support walking, standing, and climbing stairs or ramps. 
+ they described their “unified control framework” march 20 in 
+ science robotics . 
+ “the goal was not just to provide control across different activities, but to create a single unified system. you don't have to press buttons to switch between modes or have some classifier algorithm that tries to predict that you're climbing stairs or walking,” said young, associate professor in the 
+ george w. woodruff school of mechanical engineering . 
+ get the full story on the college of engineering website. 
+ additional media 
+ dean molinaro walks up an adjustable ramp while wearing an experimental exoskeleton, demonstrating how the team collected data in their effort to develop a unified control framework for robotic assistance devices. (photo: candler hobbs) 
+ contact 
+ joshua stewart 
+ college of engineering 
+ email 
+ jstewart@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

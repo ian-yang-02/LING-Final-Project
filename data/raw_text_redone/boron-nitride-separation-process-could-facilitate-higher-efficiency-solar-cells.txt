@@ -1,0 +1,41 @@
+boron nitride separation process could facilitate higher efficiency solar cells 
+ a boron nitride separation layer is the basis for a new technique for producing photovoltaic cells. 
+ rows of photovoltaic panels are shown atop a building on the georgia institute of technology campus in atlanta. a new technique under development could potentially improve the efficiency of solar cells. (credit: john toon, georgia tech) 
+ aug 30, 2018 
+ — atlanta, ga 
+ a team of semiconductor researchers based in france has used a boron nitride separation layer to grow indium gallium nitride (ingan) solar cells that were then lifted off their original sapphire substrate and placed onto a glass substrate. 
+ by combining the ingan cells with photovoltaic (pv) cells made from materials such as silicon or gallium arsenide, the new lift-off technique could facilitate fabrication of higher efficiency hybrid pv devices able to capture a broader spectrum of light. such hybrid structures could theoretically boost solar cell efficiency as high as 30 percent for an ingan / si tandem device. 
+ the technique is the third major application for the hexagonal boron nitride lift-off technique, which was developed by a team of researchers from the georgia institute of technology, the french national center for scientific research (cnrs), and institut lafayette in metz, france. earlier applications targeted sensors and light-emitting diodes (leds). 
+ “by putting these structures together with photovoltaic cells made of silicon or a iii-v material, we can cover the visible spectrum with the silicon and utilize the blue and uv light with indium gallium nitride to gather light more efficiently,” said 
+ abdallah ougazzaden , director of 
+ georgia tech lorraine 
+ in metz, france and a professor in georgia tech’s 
+ school of electrical and computer engineering 
+ (ece). “the boron nitride layer doesn’t impact the quality of the indium gallium nitride grown on it, and we were able to lift off the ingan solar cells without cracking them.” 
+ the research was published august 15 in the journal 
+ acs photonics . it was supported by the french national research agency under the ganex laboratory of excellence project and the french pia project “lorraine université d’excellence.” 
+ the technique could lead to production of solar cells with improved efficiency and lower cost for a broad range of terrestrial and space applications. “this demonstration of transferred ingan-based solar cells on foreign substrates while increasing performance represents a major advance toward lightweight, low cost, and high efficiency photovoltaic applications,” the researchers wrote in their paper. 
+ “using this technique, we can process ingan solar cells and put a dielectric layer on the bottom that will collect only the short wavelengths,” ougazzaden explained. “the longer wavelengths can pass through it into the bottom cell. by using this approach we can optimize each surface separately.” 
+ the researchers began the process by growing monolayers of boron nitride on two-inch sapphire wafers using an movpe process at approximately 1,300 degrees celsius. the boron nitride surface coating is only a few nanometers thick, and produces crystalline structures that have strong planar surface connections, but weak vertical connections. 
+ the ingan attaches to the boron nitride with weak van der waals forces, allowing the solar cells to be grown across the wafer and removed without damage. so far, the cells have been removed from the sapphire manually, but ougazzaden believes the transfer process could be automated to drive down the cost of the hybrid cells. “we can certainly do this on a large scale,” he said. 
+ the ingan structures are then placed onto the glass substrate with a backside reflector and enhanced performance is obtained. beyond demonstrating placement atop an existing pv structure, the researchers hope to increase the amount of indium in their lift-off devices to boost light absorption and increase the number of quantum wells from five to 40 or 50. 
+ “we have now demonstrated all the building blocks, but now we need to grow a real structure with more quantum wells,” ougazzaden said. “we are just at the beginning of this new technology application, but it is very exciting.” 
+ in addition to ougazzaden, the research team includes georgia tech ph.d. students taha ayari, matthew jordan, xin li and saiful alam; chris bishop and simon gautier from institut lafayette; suresh sundaram, a researcher at georgia tech lorraine; walid el huni and yacine halfaya from cnrs; paul voss, an associate professor in the georgia tech school of ece; and jean paul salvestrini, a professor at georgia tech lorraine and adjunct professor in the georgia tech school of ece. 
+ citation : taha ayari, et al., “heterogeneous integration of thin-film ingan-based solar cells on foreign substrates with enhanced performance,” (acs photonics 2018) 
+ https: / / pubs.acs.org / doi / abs / 10.1021 / acsphotonics.8b00663 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

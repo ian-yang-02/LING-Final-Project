@@ -1,0 +1,39 @@
+synthetic hydrogels deliver cells to repair intestinal injuries 
+ researchers have taken an important step toward creating a new technique for repairing intestinal injuries. 
+ georgia tech graduate research assistant ricardo cruz-acuña holds multiwell plates containing hydrogel matrix materials and human intestinal organoids (hios). the research may lead to a new technique for treating injuries caused by gastrointestinal diseases. (credit: rob felt, georgia tech) 
+ oct 23, 2017 
+ — atlanta, ga 
+ by combining engineered polymeric materials known as hydrogels with complex intestinal tissue known as organoids – made from human pluripotent stem cells – researchers have taken an important step toward creating a new technology for controlling the growth of these organoids and using them for treating wounds in the gut that can be caused by disorders such as inflammatory bowel disease (ibd). 
+ investigators from the georgia institute of technology and the university of michigan reported this research october 23 in the journal 
+ nature cell biology . the research, done in an animal model, was supported by the national institutes of health, the crohn’s and colitis foundation, and the regenerative engineering and medicine research center operated by emory university, georgia tech and the university of georgia. 
+ the authors used the engineered hydrogels to create a 3d growth environment – known as a matrix – which provides optimal physical and biochemical support for organoid growth. earlier approaches to creating this growth environment, pioneered by study co-author jason spence, associate professor of internal medicine at the university of michigan, had used a natural matrix derived from a tumor cell line. the use of animal products is a significant clinical challenge due to potential zoonotic infections, which can be spread from animals to humans. 
+ “the use of a mouse tumor-derived matrix would limit any future applications of these organoid technologies in humans, and this work opens the door to research directed specifically for clinical applications,” noted asma nusrat, study co-author and the aldred scott warthin professor and director of experimental pathology in the university of michigan’s school of medicine. 
+ in addition to allowing growth of organoids within the engineered hydrogel in a tissue culture incubator, the research team demonstrated that the hydrogel could act like glue, allowing organoids to stick in place and contribute to wound healing when transplanted into an injured mouse intestine. the success could point the way to a new type of therapy aimed at repairing intestinal damage in humans, and potentially for repairing damage in other organs. 
+ “we have shown that the hydrogel matrix helps the human intestinal organoids (hios) engraft into the intestinal tissue, that they differentiate and accelerate the healing of the wound,” said 
+ andrés j. garcía , regents’ professor in georgia tech’s 
+ woodruff school of mechanical engineering . “this work provides a proof of principle for using stem cell-derived human intestinal organoids in a therapeutic setting.” 
+ because the hydrogels are based on defined synthetic materials, they offer an advantage for potential therapeutic use in the body. 
+ “the fully defined nature of these synthetic bioengineered hydrogels could make them ideal for use in human patients in the event that hios are used for therapy in the future,” said miguel quirós, a university of michigan postdoctoral fellow and co-lead author in the study. added nusrat: “in this work, we demonstrated that the hydrogels facilitate the transplantation of hios into an injured intestine, suggesting that this technique has significant implications for treating intestinal injuries caused by diseases such as inflammatory bowel disease.” 
+ the synthetic matrix, developed at georgia tech, can be easily modified to suit the needs of the cells being hosted. for instance, georgia tech graduate student ricardo cruz-acuña, the paper’s co-lead author, experimented with several combinations before determining that a hydrogel made up of 96 percent water and containing a particular cell adhesion peptide was ideal for the hios. 
+ using a tiny colonoscope, quirós and cruz-acuña delivered the hydrogel, along with the organoids, into wounds that had been made in the intestines of immune-compromised mice. the implanted cells were labeled so they could be detected later. after four weeks, the hios had completely engrafted into the injured area, forming 3d structures resembling normal tissue. the synthetic hydrogel had disappeared, replaced by natural extracellular matrix produced by the cells themselves. 
+ “because our hydrogel system is easily modified, we can just alter other parameters to create the mechanical and biological properties desired to support many types of cells or organoids,” said garcía, who holds the rae s. and frank h. neely chair. “the specifics may be different for other cells intended for different applications.” 
+ as next steps, the researchers would like to test their hydrogel matrix in animals with normal immune systems and in disease models. they may also need to optimize the method for delivering the hydrogel material containing the hios to replace the labor-intensive techniques used in the research. garcía, nusrat and spence expect that trials in large animals would likely be needed before any human trials could be considered. 
+ beyond the intestinal applications, the researchers are also studying the use of hydrogels to deliver organoids to damaged kidneys and lungs. 
+ in addition to those already mentioned, the research team included priya h. dedhia, sha huang, vicky garcía-hernández, alyssa j. miller and dorothée siuda at the university of michigan; and attila farkas from the hungarian institute of sciences. 
+ this research was supported by the nih (r01 ar062368, r01 ar062920 to a.j.g and r01 dk055679, r01 dk059888, dk055679, dk059888, and dk089763 to a.n.), and j.r.s. is supported by the intestinal stem cell consortium (u01dk103141), a collaborative research project funded by the national institute of diabetes and digestive and kidney diseases (niddk) and the national institute of allergy and infectious diseases (niaid), and by the niaid novel, alternative model systems for enteric diseases (namsed) consortium (u19ai116482), phs grant ul1tr000454 from the clinical and translational science award program, and a seed grant from the regenerative engineering and medicine research center between emory university, georgia tech and the university of georgia. r.c.a. is supported by a national science foundation graduate research fellowship and m.q. is supported by a fellowship from the crohn’s and colitis foundation of america (ccfa 326912). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ citation : ricardo cruz-acuña and miguel quirós et al.,”synthetic hydrogels for human intestinal organoid generation and colonic wound repair,” (nature cell biology, 2017).  https: / / www.nature.com / ncb / journal / vaop / ncurrent / full / ncb3632.html 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : georgia tech -- john toon (404-894-6986) (jtoon@gatech.edu) or university of michigan lauren love (lovelaur@med.umich.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,28 @@
+Protection From Drowning Through AI-Enabled Camera System
+Collaboration between Georgia Tech and the city of Columbus, Georgia, leads to a first-of-its-kind alert system to prevent drownings
+Remote video URL
+Feb 20, 2024
+The Chattahoochee River cuts a rollicking, boisterous path alongside the downtown area of Columbus, Georgia. With its long, constructed section of rapids, the area of the river through Columbus is well-known in kayaking circles as some of the best whitewater in the state, and its picturesque twists and turns draw visitors to walk its banks and invite them to rock-hop along tiny stone islands that are exposed when water levels are low.
+But this whitewater also presents a life-threatening problem.
+A dam upstream can increase water levels within minutes, and those who aren’t familiar with the area can be surprised and swept away by rushing water. Civic leaders have put up warning signs, and sirens blare when water levels are rising, but despite the many warnings, there are water rescues and even drownings at this area of the river every year.
+“Growing up around here, you’re always told, ‘Don’t get in that river. That river will suck you under. You don’t get in there,’” says Jeremy Miles, assistant IT director for the city of Columbus. “But now on a pretty day, you’ll see a lot of people in the river and beside the river. It’s a new fad. And we also have this great whitewater course, so it’s an attraction that brings people from all over.”
+For emergency responders, getting a precise location when someone is in danger is critical to favorable outcomes, and those in Columbus emergency circles say that is difficult on the river.
+“We will have an emergency on the river, and we’ll have the wrong location given to us, and what happens is we’ll bring the wrong piece of equipment or find out it’s in another part of the river,” says Deputy Chief Daniel Macon of Columbus Fire & EMS.
+This can waste precious seconds during an emergency, which is why Georgia Tech researchers wanted to find a solution.
+“After a year and a half of effort,” said
+John Taylor , Frederick Law Olmsted Professor in Georgia Tech’s
+School of Civil and Environmental Engineering , “we’ve created a system that can identify people who might be in trouble on the river and give rescue workers precise information that will allow them to get people out of harm’s way or get them out of the water if they’ve fallen in.”
+Cameras mounted on a bridge over the river send a constant signal of activity below. A computer algorithm that’s part of the smart river safety digital twin scans the images, identifying people and placement. Using data from other monitoring devices, the system will predict when rising water will put people in danger. The system sends alerts with precise information on location, and emergency responders immediately know what to do and, more importantly, where they need to do it.
+A yellow alert lets responders know someone is in a danger zone. An orange alert means someone is in a danger zone, and water levels are rising quickly. A red alert tells crews that someone is in the water with no boat or kayak nearby and is at risk of drowning.
+During a test with Swiftwater/Flood Search and Rescue Team members in October, researchers and city leaders were able to see the system in action.
+Neda Mohammadi, another Georgia Tech researcher and project lead from the School of Civil and Environmental Engineering says, “We’ve been testing the system live and in real time, and it’s really rewarding to see that it’s working and that what we’ve anticipated really took place.”
+The work is part of
+Partnership for Inclusive Innovation , a public-private initiative based out of Georgia Tech that catalyzes innovation for shared economic prosperity. It invests in projects that join researchers with communities to provide advanced technologies to build local capacity and improve the human condition.
+Columbus firefighter Captain Stephen Funk says, “It means time. It means a matter of life and death. And it means having the right people in the right place.”
+Additional Media
+Columbus firefighters worked with Georgia Tech researchers to test a drowning prevention system on the river that flows next to downtown Columbus, Georgia.
+Contact
+W. Blair Meeks , Institute Communications
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

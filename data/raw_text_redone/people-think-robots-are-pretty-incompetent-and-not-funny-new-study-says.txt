@@ -1,0 +1,42 @@
+people think robots are pretty incompetent and not funny, new study says 
+ good thing humanoid robots don't have feelings because people think they are pretty incompetent. 
+ in two studies, people found robots to be pretty incompetent, particularly as comedians. credit: georgia tech / rob felt 
+ may 19, 2020 
+ — atlanta, ga 
+ dang robots are crummy at so many jobs, and they tell lousy jokes to boot. in two new studies, these were common biases human participants held toward robots. 
+ the studies were originally intended to test for gender bias, that is, if people thought a robot believed to be female may be less competent at some jobs than a robot believed to be male and vice versa. the studies' titles even included the words "gender," "stereotypes," and "preference," but researchers at the georgia institute of technology discovered no significant sexism against the machines. 
+ “this did surprise us. there was only a very slight difference in a couple of jobs but not significant. there was, for example, a small preference for a male robot over a female robot as a package deliverer,” said ayanna howard, the principal investigator in both studies. howard is a  professor in and the chair of georgia tech’s school of interactive computing . 
+ although robots are not sentient, as people increasingly interface with them, we begin to humanize the machines. howard studies what goes right as we integrate robots into society and what goes wrong, and much of both has to do with how the humans feel around robots. 
+ i hate robots 
+ “surveillance robots are not socially engaging, but when we see them, we still may act like we would when we see a police officer, maybe not jaywalking and being very conscientious of our behavior,” said howard, who is also  linda j. and mark c. smith chair and professor in bioengineering in georgia tech’s school of electrical and computer engineering . 
+ “then there are emotionally engaging robots designed to tap into our feelings and work with our behavior. if you look at these examples, they lead us to treat these robots as if they were fellow intelligent beings.” 
+ it’s a good thing robots don’t have feelings because what study participants lacked in gender bias they more than made up for in judgments against the humanoid robots' competence. that predisposition was so strong that howard wondered if it may have overridden any potential gender biases against robots – after all, social science studies have shown that gender biases are still prevalent with respect to human jobs, even if implicit. 
+ in questionnaires, humanoid robots introduced themselves via video to randomly recruited online survey respondents, who ranged in age from their twenties to their seventies and were mostly college-educated. the humans ranked robots’ career competencies compared to human abilities, only trusting the machines to competently perform a handful of simple jobs. 
+ pass the scalpel 
+ “the results baffled us because the things that people thought robots were less able to do were things that they do well. one was the profession of surgeon. there are  da vinci robots that are pervasive in surgical suites , but respondents didn’t think robots were competent enough,” howard said. “security guard – people didn’t think robots were competent at that, and there are companies that specialize in great robot security.” 
+ cumulatively, the 200 participants across the two studies thought robots would also fail as nannies, therapists, nurses, firefighters, and totally bomb as comedians. but they felt confident bots would make fantastic package deliverers and receptionists, pretty good servers, and solid tour guides. 
+ the researchers could not say where the competence biases originate. howard could only speculate that some of the bad rap may have come from media stories of robots doing things like falling into swimming pools or injuring people. 
+ it’s a boy 
+ despite the lack of gender bias, participants readily assigned genders to the humanoid robots. for example, people accepted gender prompts by robots introducing themselves in videos. 
+ if a robot said, “hi, my name is james,” in a male-sounding voice, people mostly identified the robot as male. if it said, “hi, my name is mary,” in a female voice, people mostly said it was female. 
+ some robots greeted people by saying “hi” in a neutral sounding voice, and still, most participants assigned the robot a gender. the most common choice was male followed by neutral then by female. for howard, this was an important takeaway from the study for robot developers. 
+ “developers should not force gender on robots. people are going to gender according to their own experiences. give the user that right. don’t reinforce gender stereotypes,” howard said. 
+ social is good 
+ some in the field advocate for not building robots in humanoid form at all in order to discourage any kind of humanization, but the georgia tech team takes a less stringent approach. 
+ "there is no single one-size-fits-all answer on whether it is appropriate to design robots to look like human beings.  it depends on a variety of ethical considerations and other factors, including whether people might trust a robot too much if it has a human-like appearance," said jason borenstein, a co-principal investigator on one of the papers and an ethics  researcher in georgia tech's school of public policy . 
+ “robots can be good for social interaction. they could be very helpful in elder care facilities to keep people company. they might also make better nannies than letting the tv babysit the kids,” said howard, who also defended robots’ comedic talent, provided they are programmed for that. 
+ “if you ever go to an amusement park, there are animatronics that tell really good jokes.” 
+ read the studies 
+ the two studies were submitted to conferences that were canceled due to covid-19. 
+ why should we gender? the effect of robot gendering and occupational stereotypes on human trust and perceived competency was published in  proceedings of 2020 acm conference on human-robot interaction (hri’20) , which appeared in march 2020. robot gendering: influences on trust, occupational competency, and preference of robot over human appeared in  chi 2020 extended abstracts  (computer-human interaction, doi: 10.1145 / 3334480.3382930). 
+ the research was funded by the national science foundation and by the alfred p. sloan foundation. 
+ the papers’ coauthors were de’aira bryant, kantwon rogers, and jason borenstein from georgia tech. the national science foundation funded via grant 1849101. the alfred p. sloan foundation funded via grant g-2019-11435. any findings, conclusions, or recommendations are those of the authors and not necessarily of the sponsors. 
+ also read: 
+ surfaces that grip like gecko feet may come to an assembly line near you 
+ here's how to  subscribe to our free science and technology email newsletter 
+ writer & media inquiries : ben brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

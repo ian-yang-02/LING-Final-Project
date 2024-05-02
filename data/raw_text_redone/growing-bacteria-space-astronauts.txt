@@ -1,0 +1,41 @@
+growing bacteria in space with astronauts 
+ georgia tech researchers are teaming up with nasa to study bacteria on the international space station to help define how scientists and healthcare professionals combat antibiotic-resistant bacteria for long-duration space missions. 
+ georgia tech ph.d. student jordan mckaig demonstrates how nasa astronauts onboard the international space station will use the minion sequencing device to identify bacteria genomes. credit: georgia tech 
+ mar 19, 2024 
+ this story by kelsey gulledge first appeared in the 
+ daniel guggenheim school of aerospace engineering 
+ newsroom. 
+ see the full feature here . 
+ georgia tech researchers are teaming up with nasa to study bacteria on the international space station to help define how scientists and healthcare professionals combat antibiotic-resistant bacteria for long-duration space missions. 
+ in the 
+ planetary exploration lab 
+ (pxl), researchers will work with astronauts living on the international space station as they collect air, water, and surface samples. using testing methods created on campus, the astronauts and scientists will watch microbes grow to learn which bacteria are resistant to specific antibiotics. 
+ the work is part of nasa’s 
+ genomic enumeration of antibiotic resistance in space 
+ (gears) study, led by 
+ aaron burton 
+ and 
+ sarah wallace 
+ from 
+ nasa johnson space center . marking spacex’s 30th commercial resupply services mission for nasa, the gears research is on board a spacex dragon cargo spacecraft, scheduled to launch from cape canaveral, florida on march 21. if all goes according to plan, the dragon capsule will reach the international space station on the morning of march 23. 
+ “our lab has previously studied bacteria colonies from the international space station and found 
+ enterococcus faecalis 
+ (ef) was resistant to many antibiotics,” said 
+ christopher e. carr ,   director of the pxl and assistant professor in the school of aerospace engineering (ae) and the 
+ school of earth and atmospheric sciences 
+ (eas). “this particular bacteria species is a core member of the human gut and has evolved over the past 400 million years, making it a difficult pathogen to treat in humans and on surfaces.” 
+ ef is the second leading cause of hospital-acquired infections after staphylococci. much like hospital environments, on the international space station is built in such a way that studying antibiotic-resistant microbes there could provide insight into how these organisms survive, adapt, and evolve in space and on earth. 
+ the 30-day gears mission will supplement the routine microbial surveillance testing conducted on the international space station with an antibiotic-resistant screening step. astronauts onboard will collect samples and observe what microbes grow on their pre-treated contact slides, a rectangular-shaped petri dish. 
+ the contact slides contain antibiotic-infused agar, a gel-like fuel source for bacteria, fungi, and other microorganisms. therefore, anything that grows on the slides will be identified as antibiotic-resistant to that particular antibiotic. astronauts will then use a pipet to carefully extract dna from a bacterial colony and sequence it using the oxford nanopore technologies minion, nanopore sequencing device, which will identify the microbe that is present, as well as sequence its entire genome in real-time. “if we found a new organism that we’ve never seen before, we’d be able to detect it, sequence its entire genome, and determine how it might be resistant to different types of antibiotics,” said carr. 
+ this new technology will allow humans to travel further - and longer - into space without having to send data back to earth for processing. “for the purposes of this study and to maximize the science yield, these bacteria will travel back to earth,” said 
+ jordan mckaig , pxl researcher and ph.d. candidate in the eas. “then we can study them more extensively to better reveal their genomic features, how they are adapting to the built environment, and understand the risks – if any -- they may pose to astronauts.” 
+ scientists and researchers at nasa johnson will use this information to figure out what may make astronauts sick in space, how to optimize their health, and make plans for potential counter measures and treatments. this data is critical because astronauts’ immune systems often become compromised due to space flight conditions. the gears mission will launch a total of four times over the next year to study the bacteria and data thoroughly. the second mission is expected to launch later this summer. 
+ “i’m really looking forward to hopefully traveling to the launch and getting to see the science that we’ve been working on for a couple of years go to space. it’s really a dream come true,” said mckaig. 
+ while gears is in orbit, carr and the pxl team will prepare for their next study, enterogait, which will investigate thousands of mutants simultaneously to see what genes are involved in adapting to the space environment.  it is currently in the science verification testing phase. 
+ contact 
+ kelsey gulledge 
+ daniel guggenheim school of aerospace engineering 
+ georgia tech 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

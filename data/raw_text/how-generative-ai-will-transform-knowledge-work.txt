@@ -1,0 +1,27 @@
+How Generative AI Will Transform Knowledge Work
+In research published by the Harvard Business Review, Maryam Alavi examined how generative AI can transform knowledge work and how workers can begin using generative AI tools wisely.
+Nov 09, 2023
+Generative AI tools have taken the world by storm. ChatGPT reached 100 million monthly users
+faster than any internet application
+in history. The potential benefits of efficiency and productivity gains for knowledge-intensive firms are clear, and companies in industries such as professional services, health care, and finance are investing billions in adopting the technologies.
+But the benefits for individual knowledge workers can be less clear. When technology can do many tasks that only humans could do in the past, what does it mean for knowledge workers? Generative AI can and will automate some of the tasks of knowledge workers, but that doesn’t necessarily mean it will replace all of them. Generative AI can also help knowledge workers find more time to do meaningful work, and improve performance and productivity. The difference is in how you use the tools.
+In this article, we aim to explain how to do that well. First, to help employees and managers understand ways that generative AI can support knowledge work. And second, to identify steps that managers can take to help employees realize the potential benefits.
+What Is Knowledge Work?
+Knowledge work primarily involves cognitive processing of information to generate value-added outputs. It differs from manual labor in the materials used and the types of conversion processes involved. Knowledge work is typically dependent on advanced training and specialization in specific domains, gained over time through learning and experience. It includes both structured and unstructured tasks. Structured tasks are those with well-defined and well-understood inputs and outputs, as well as prespecified steps for converting inputs to outputs. Examples include payroll processing or scheduling meetings. Unstructured tasks are those where inputs, conversion procedures, or outputs are mostly ill-defined, underspecified, or unknown a priori. Examples include resolving interpersonal conflict, designing a product, or negotiating a salary.
+Very few jobs are purely one or the other. Jobs consist of many tasks, some of which are structured and others which are unstructured. Some tasks are necessary but repetitive. Some are more creative or interesting. Some can be done alone, while others require working with other people. Some are common to everything the worker does, while others happen only for exceptions. As a knowledge worker, your job, then, is to manage this complex set of tasks to achieve their goals.
+Computers have traditionally been good at performing structured tasks, but there are many tasks that only humans can do. Generative AI is changing the game, moving the boundaries of what computers can do and shrinking the sphere of tasks that remain as purely human activity. While it can be worrisome to think about generative AI encroaching on knowledge work, we believe that the benefits can far outweigh the costs for most knowledge workers. But realizing the benefits requires taking action now to learn how to leverage generative AI in support of knowledge work.
+Continue reading:
+How Generative AI Will Transfer Knowledge Work
+Reprinted from the
+Harvard Business Review, November 7, 2023.
+Maryam Alavi
+is the Elizabeth D. & Thomas M. Holder Chair & Professor of IT Management, Scheller College of Business, Georgia Institute of Technology.
+George Westerman
+is a Senior Lecturer at MIT Sloan School of Management and founder of the
+Global Opportunity Forum  in MIT’s Office of Open Learning.
+Additional Images
+Contact
+Lorrie Burroughs
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

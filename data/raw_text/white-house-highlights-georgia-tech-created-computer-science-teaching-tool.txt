@@ -1,0 +1,30 @@
+White House Highlights Georgia Tech-Created Computer Science Teaching Tool
+The White House highlights EarSketch, a Georgia Tech project that teaches coding to diverse audiences through music.
+Jason Freeman is the principal investigator of EarSketch, a program that uses musical remixes to introduce high school students – especially minorities and young women – to the world of computer programming.
+Dec 05, 2016
+— Atlanta, GA
+The White House has highlighted a Georgia Tech initiative among its
+Computer Science Education Week (CSEdWeek) national initiatives .
+EarSketch , a project that teaches coding to diverse audiences through music, was included in a Monday announcement as it prepares to expand to approximately 250 middle and high schools nationwide by next fall.
+EarSketch teaches students core computational concepts and the Python and JavaScript languages. Using a digital audio workstation, students write code to create and remix music in popular styles such as hip hop and dubstep.
+The software has been used by more than 75,000 students in all 50 states and more than 100 countries since launching in 2013. It is freely accessible to all teachers and students. Georgia Tech researchers created the program to address the national need to make major strides in computer programming literacy for K-12 students, especially among underserved populations.
+“Students who study with EarSketch have been shown to make progress in both content knowledge and attitudes toward computer science,” said co-creator Jason Freeman, a professor of music in the College of Design. “EarSketch is especially effective at engaging female students in computing, whose gains in computing engagement in our research can be two or three times higher than their male peers.”
+EarSketch will train 50 K-12 teachers in computer science principles this summer through in-person workshops and online training.
+Freeman co-directs EarSketch with Brian Magerko, an associate professor in the Ivan Allen College School of Literature, Media, and Communication, in collaboration with Georgia Tech’s Center for Education Integrating Science, Mathematics, and Computing (CEISMC) and the Institute for Computing Education. EarSketch is supported by the National Science Foundation, Arthur M. Blank Family Foundation, Scott Hudgens Family Foundation and Google.
+This morning’s White House fact sheet kicks off CSEdWeek and highlights new actions of support for computer science education. President Barack Obama challenged the nation to create opportunities for every child to learn computer science during February’s State of the Union Address.
+Additional Images
+Related links
+White House Fact Sheet
+Brian Magerko Biography
+Jason Freeman Biography
+EarSketch
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,51 @@
+Rousing Masses to Fight Cancer with Open Source Machine Learning
+Sharing is caring in the fight against cancer with this new open source software project to predict cancer drug effectiveness.
+iStock artist's rendering of a cancer cell. Purchased for use by Georgia Tech only. Use outside of Georgia Tech requires separate purchase from iStock. Credit: iStock
+Oct 27, 2017
+— Atlanta, GA
+Here’s an open invitation to steal. It goes out to cancer fighters and tempts them with a
+new program that predicts cancer drug effectiveness
+via machine learning and raw genetic data.
+The researchers who built the program at the Georgia Institute of Technology would like cancer fighters to take it for free, or even just swipe parts of their programming code, so they’ve made it open source. They hope to attract a crowd of researchers who will also share their own cancer and computer expertise and data to improve upon the program and save more lives together.
+The researchers’ invitation to take their code is also a gauntlet.
+They’re challenging others to come beat them at their own game and help hone a formidable software tool for the greater good. Not only the labor but also the fruits will remain openly accessible to benefit the treatment of patients as best possible.
+“We don’t want to hold the code or data for ourselves or make profits with this,” said John McDonald, the
+director of Georgia Tech’s Integrated Cancer Research Center .  “We want to keep this wide open so it will spread.”
+The goods
+Researchers wanting to participate can
+follow this link to a new study published on October 26, 2017, in the journal
+PLOS One . There they will find links to download the software from GitHub and to access the code.
+They’ll start out with a current program that has been about 85% accurate in assessing treatment effectiveness of nine drugs across the genetic data of 273 cancer patients. The study by McDonald and collaborator Fredrik Vannberg details how and why.
+“Nine drugs are in the published study, but we’ve actually run about 120 drugs through the program all total,” said Vannberg, an
+assistant professor in Georgia Tech’s School of Biological Sciences .
+The program uses proven machine learning mechanisms and also normalizes data. The latter allows the machine learning to work with data from varying sources by making them compatible.
+The bias
+And the researchers have reduced human bias about which data are important for predicting outcomes.
+“It’s much more effective to put in loads of raw data and let the algorithm sort it out,” McDonald said. “It’s looking for correlations, not causes, so it’s not good to preselect data for what you suspect are most relevant.”
+One big bias the researchers tossed out was a concentration only on gene expression data pertaining to the specific type of cancer they were aiming to treat.
+“It turns out that it’s better to give the program data from a broad diversity of cancers, and that will actually later give a better prediction of drug effectiveness for a specific cancer like breast cancer,” Vannberg said.
+“On a molecular level, some breast cancers, for example, are going to be more similar to some ovarian cancers than to other breast cancers,” McDonald said. “We just let the algorithm work with about everything we had, and we got high accuracy.”
+The winners
+The researchers also want the project to pool large amounts of anonymous patient treatment success and failure data, which will help the program optimize predictions for everyone’s benefit. But that doesn’t mean some companies can’t benefit, too.
+“If a company comes along and makes profits while using the program to help patients, that’s fine, and there’s no obligation to give back to the project,” said McDonald, who is also a professor in Georgia Tech’s
+School of Biological Sciences . “Others may just take if they so please.”
+But hopefully, most players will catch the spirit of kindness.
+“With our project, we’re advertising that sharing should be what everybody does,” Vannberg said. “This can be a win for everybody, but really it’s a win for the cancer patients.”
+Also READ: Basic premise in targeted cancer treatments
+wrong
+60% of the time
+Georgia Tech researchers Cai Huang and Roman Mezencev
+coauthored
+the study. The research was funded by the Rising Tide Foundation.
+Additional Images
+Contact
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Writer and Media Relations Contact : Ben Brumfield (404-660-1408)
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

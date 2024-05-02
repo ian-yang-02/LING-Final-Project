@@ -1,0 +1,51 @@
+Hackers Could Use Connected Cars to Gridlock Whole Cities
+Hackers could gridlock whole cities by stalling out a limited percentage of self-driving and other connected vehicles.
+Actual gridlock in Manhattan in 2007.
+Credit: Rgoogin at the English Wikipedia [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)]
+Jul 29, 2019
+— Atlanta, GA
+In the year 2026, at rush hour, your self-driving car abruptly shuts down right where it blocks traffic. You climb out to see gridlock down every street in view, then a news alert on your watch tells you that hackers have paralyzed all Manhattan traffic by randomly stranding internet-connected cars.
+Flashback to July 2019, the dawn of autonomous vehicles and other connected cars, and physicists at the Georgia Institute of Technology and Multiscale Systems, Inc. have applied physics
+in a new study
+to simulate what it would take for future hackers to wreak exactly this widespread havoc by randomly stranding these cars. The researchers want to expand the current discussion on automotive cybersecurity, which mainly focuses on hacks that could
+crash one car
+or run over one pedestrian, to include potential mass mayhem.
+They warn that even with increasingly tighter cyber defenses, the amount of data breached has soared in the past four years, but objects becoming hackable can convert the rising cyber threat into a potential physical menace.
+“Unlike most of the data breaches we hear about, hacked cars have physical consequences,” said Peter Yunker, who co-led the study and is an  assistant professor in Georgia Tech’s School of Physics .
+It may not be that hard for state, terroristic, or mischievous actors to commandeer parts of the internet of things,
+including cars .
+“With cars, one of the worrying things is that currently there is effectively one central computing system, and a lot runs through it. You don’t necessarily have separate systems to run your car and run your satellite radio. If you can get into one, you may be able to get into the other,” said Jesse Silverberg of Multiscale Systems, Inc., who co-led the study with Yunker
+Freezing traffic solid
+In simulations of hacking internet-connected cars, the researchers froze traffic in Manhattan nearly solid, and it would not even take that to wreak havoc. Here are their results, and the numbers are conservative for reasons mentioned below.
+“Randomly stalling 20 percent of cars during rush hour would mean total traffic freeze. At 20 percent, the city has been broken up into small islands, where you may be able to inch around a few blocks, but no one would be able to move across town,” said David Yanni, a graduate research assistant in Yunker’s lab.
+Not all cars on the road would have to be connected, just enough for hackers to stall 20 percent of all cars on the road. For example, if 40 percent of all cars on the road were connected, hacking half would suffice.
+Hacking 10 percent of all cars at rush hour would debilitate traffic enough to prevent emergency vehicles from expediently cutting through traffic that is inching along citywide. The same thing would happen with a 20 percent hack during intermediate daytime traffic.
+The researchers’ results appear
+in the journal  Physical Review E  on July 20, 2019 . The study is not embargoed.
+[Ready for graduate school?  Here's how to apply to Georgia Tech. ]
+It could take less
+For the city to be safe, hacking damage would have to be below that. In other cities, things could be worse.
+“Manhattan has a nice grid, and that makes traffic more efficient. Looking at cities without large grids like Atlanta, Boston, or Los Angeles, and we think hackers could do worse harm because a grid makes you more robust with redundancies to get to the same places down many different routes,” Yunker said.
+The researchers left out factors that would likely worsen hacking damage, thus a real-world hack may require stalling even fewer cars to shut down Manhattan.
+“I want to emphasize that we only considered static situations – if roads are blocked or not blocked. In many cases, blocked roads spill over traffic into other roads, which we also did not include. If we were to factor in these other things, the number of cars you’d have to stall would likely drop down significantly,” Yunker said.
+The researchers also did not factor in ensuing public panic nor car occupants becoming pedestrians that would further block streets or cause accidents. Nor did they consider hacks that would target cars at locations that maximize trouble.
+They also stress that they are not cybersecurity experts, nor are they saying anything about the likelihood of someone carrying out such a hack. They simply want to give security experts a calculable idea of the scale of a hack that would shut a city down.
+The researchers do have some general ideas of how to reduce the potential damage.
+“Split up the digital network influencing the cars to make it impossible to access too many cars through one network,” said lead author Skanka Vivek, a postdoctoral researcher in Yunker’s lab. “If you could also make sure that cars next to each other can’t be hacked at the same time that would decrease the risk of them blocking off traffic together.”
+Traffic jams as physics
+Yunker researches in soft matter physics, which looks at how constituent parts – in this case, connected cars – act as one whole physical phenomenon. The research team analyzed the movements of cars on streets with varying numbers of lanes, including how they get around stalled vehicles and found they could apply a physics approach to what they observed.
+“Whether traffic is halted or not can be explained by classic percolation theory used in many different fields of physics and mathematics,” Yunker said.
+Percolation theory  is often used in materials science to determine if a desirable quality like a specific rigidity will spread throughout a material to make the final product uniformly stable. In this case, stalled cars spread to make formerly flowing streets rigid and stuck.
+The shut streets would be only those in which hacked cars have cut off all lanes or in which they have become hindrances that other cars can’t maneuver around and do not include streets where hacked cars still allow traffic flow.
+The researchers chose Manhattan for their simulations because a lot of data was available on that city’s traffic patterns.
+Also READ:
+Georgia Tech's cybersecurity researchers tackle the internet of things
+The study was coauthored by Skanda Vivek and David Yanni of Georgia Tech and Jesse Silverberg of Multiscale Systems, Inc. Any findings, conclusions, and recommendations are those of the authors.
+Writer & Media Representative : Ben Brumfield (404-660-1408), email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

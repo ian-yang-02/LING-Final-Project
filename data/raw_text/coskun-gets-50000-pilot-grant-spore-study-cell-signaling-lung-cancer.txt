@@ -1,0 +1,31 @@
+Coskun Gets $50,000 Pilot Grant from SPORE to Study Cell Signaling in Lung Cancer
+Petit Institute researcher collaborating with Emory clinicians to enable personalized precision medicine
+Cell signaling in action.   - Photo provided by Ahmet Coskun
+Aug 25, 2021
+— Atlanta, GA
+Ahmet Coskun is trying to solve a molecular mystery: He wants to know why some patients don’t respond to a lung cancer drug that has shown otherwise promising results. He hopes understanding why will help his team develop tools that will enable personalized precision therapies in the future.
+“Most patients are responding to this drug very well, but it fails in some patients, and why it fails is a mystery,” said Coskun, an assistant professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University and a researcher in the Petit Institute for Bioengineering and Bioscience at Georgia Tech.
+Coskun aims to take a detailed look at cellular communication and decision-making, to closely visualize cell signaling and develop a new metric to define how cells respond to drugs for lung cancer therapy. To help him get started, the Emory Lung Cancer SPORE group is awarding him $50,000 over the next year.
+“Our research will result in a molecular screening platform for imaging signaling proteins of human cell cultures and tissues,” said Coskun, who plans to decipher the role of cellular signals and explain how different cells coordinate signaling to achieve healthy or abnormal results, specifically in patients with non-small cell lung cancer.
+This year, about 200,000 adults in the United States will be diagnosed with non-small cell lung cancer, the leading cause of cancer-related deaths in the world. About 15 percent of those people have an epidermal growth factor receptor mutation in their cancer.
+Epidermal growth factor receptor, or EGFR, is a protein involved in cell signaling. When it works correctly, it helps control cell division. But when it becomes mutated, as it does in some lung cancer cells, it causes rapid cell growth, helping the cancer spread.
+For lung cancer patients with the EGFR mutation, there is a measure of hope thanks to a drug developed by Emory University several years ago. In a 2017 clinical study led by Emory researcher Suresh Ramalingam, patients experienced substantial improvement when treated with an EGFR inhibitor called osimertinib, compared to those who received the standard of care.
+The drug is designed to inhibit EGFR’s haywire signaling activity in cancer. As Coskun noted, though, it doesn’t work well for every patient. It’s because no two patient tumors are exactly alike – each tumor microenvironment is unique. There are multiple biomarkers and multiple potential targets for cancer drugs to attack. So, inhibiting one protein like EGFR won’t always make a difference, Coskun said.
+“The standard clinical techniques are limited to focusing on a single marker,” said Coskun, who is using multiplex cellular imaging, a technology that allows detection of multiple markers. “Recent advances in these systems allow visualization of a larger number of markers — up to 30 unique targets. We intend to develop automated, multiplexed platforms to detect numerous markers and to feed the information into an algorithm to diagnose patients and predict their response to therapies.”
+Clearly identifying other markers could pave the way for combination therapies with other inhibitor drugs to block other cancer signaling pathways — together, they’re a more comprehensive approach to attacking the disease. The ability to look at 30 different proteins or markers — potential drug targets — at one time, in a single cell, wasn’t possible before because the technology didn’t exist.
+“The emerging technology that we have developed here at Georgia Tech and Emory allow rapid and high-content signaling network studies in cells and tissues,” Coskun said.
+Essentially, researchers combine technologies to create a complete molecular profile of a patient’s cancer at the single cell level. Coskun’s team uses microfluidic instruments to acquire microscopic images and then super computers are used to process and visualize complex cellular maps.
+“These maps will enable personalized precision therapies,” Coskun said. “That is our goal.”
+Coskun and his team will work under the mentorship of Ramalingam, executive director of the Winship Cancer Institute at Emory and co-lead of the Lung Cancer SPORE, a Specialized Program of Research Excellence created in 2019 with a $9.7 million National Cancer Institute grant. It’s one of four SPORE grants in the U.S. focused on lung cancer.
+LINKS
+https://winshipcancer.emory.edu/research/spore-grants/lung-cancer.html
+https://bme.gatech.edu/bme/faculty/Ahmet-F-Coskun
+Additional Images
+Contact
+Writer:
+Jerry Grillo
+Email
+Jerry.grillo@ibb.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

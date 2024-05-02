@@ -1,0 +1,34 @@
+selfies: we love how we look and we’re here to show you 
+ when it comes to selfies, appearance is (almost) everything. 
+ jun 21, 2017 
+ — atlanta, ga 
+ when it comes to selfies, appearance is (almost) everything. 
+ to better understand the photographic phenomenon and how people form their identities online, georgia institute of technology researchers combed through 2.5 million selfie posts on instagram to determine what kinds of identity statements people make by taking and sharing selfies. 
+ nearly 52 percent of all selfies fell into the appearance category: pictures of people showing off their make-up, clothes, lips, etc. pics about looks were two times more popular than the other 14 categories combined. after appearances, social selfies with friends, loved ones and pets were the most common (14 percent). then came ethnicity pics (13 percent), travel (7 percent), and health and fitness (5 percent). 
+ ►  explore the top selfie trends 
+ the researchers noted that the prevalence of ethnicity selfies (selfies about a person’s ethnicity, nationality or country of origin) is an indication that people are proud of their backgrounds. they also found that most selfies are solo pictures, rather than taken with a group. 
+ the data was gathered in the summer of 2015. the georgia tech team believes the study is the first large-scale empirical research on selfies. 
+ overall, an overwhelming 57 percent of selfies on instagram were posted by the 18-35-year-old crowd, something the researchers say isn’t too surprising considering the demographics of the social media platform. the under-18 age group posted about 30 percent of selfies. the older crowd (35+) shared them far less frequently (13 percent). appearance was most popular among all age groups. 
+ lead author julia deeb-swihart says selfies are an identity performance – meaning that users carefully craft the way they appear online and that selfies are an extension of that. this is similar to william shakespeare’s famous line: “all the world’s a stage, and all the men and women merely players.” 
+ “just like on other social media channels, people project an identity that promotes their wealth, health and physical attractiveness,” deeb-swihart said. “with selfies, we decide how to present ourselves to the audience, and the audience decides how it perceives you.” 
+ this work is grounded in the theory presented by erving goffman in 
+ the presentation of self in everyday life. 
+ the clothes we choose to wear and the social roles we play are all designed to control the version of ourselves we want our peers to see. 
+ “selfies, in a sense, are the blending of our online and offline selves,” deeb-swihart said. “it’s a way to prove what is true in your life, or at least what you want people to believe is true.” 
+ the researchers gathered the data by searching for “ # selfie,” then used computer vision to confirm that the pictures actually included faces. nearly half of them didn’t. they found plenty of spam with blank images or text. the accounts were using the hashtag to show up in more searches to gain more followers. 
+ the study, “selfie-presentation in everyday life: a large-scale characterization of selfie contexts on instagram,” was presented in may at the 
+ international aaai conference on web and social media 
+ in montreal. 
+ funding and sponsorship was provided by the u.s. army research office (aro) and defense advanced research projects agency (darpa) under contract no. w911nf- 12-1-0043. any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ additional images 
+ related links 
+ interactive selfie visualization 
+ contact 
+ jason maderer 
+ national media relations maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

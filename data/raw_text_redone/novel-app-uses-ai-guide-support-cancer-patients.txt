@@ -1,0 +1,47 @@
+novel app uses ai to guide, support cancer patients 
+ mypath, an ai-based application that runs on tablet computers, is helping breast cancer patients. 
+ mypath is a mobile application that gives breast cancer patients personalized recommendations on everything from side effects to insurance. (photo: christopher moore, georgia tech) 
+ feb 16, 2019 
+ — atlanta, ga 
+ artificial intelligence is helping to guide and support some 50 breast cancer patients in rural georgia through a novel mobile application that gives them personalized recommendations on everything from side effects to insurance. 
+ the app, called mypath, adapts to each stage in a patient’s cancer journey. so the information available on the app – which runs on a tablet computer – regularly changes based on each patient’s progress. are you scheduled for surgery? mypath will tell you what you need to know the day before. 
+ “patients have told us, ‘it just seemed to magically know what i needed,’” said 
+ elizabeth mynatt , principal investigator for the work and distinguished professor in the 
+ school of interactive computing 
+ at georgia tech. 
+ mynatt, who is also executive director of the 
+ institute for people and technology , believes that mypath is the first healthcare app capable of personalization (through its application of ai) for holistic cancer care. in addition to incorporating a patient’s medical data, the app also addresses a variety of other relevant issues such as social and emotional needs. 
+ she presented the work february 15 at the 2019 meeting of the american association for the advancement of science. the research has been sponsored by the national cancer institute. 
+ national recognition 
+ in january mypath was recognized by ischools, a consortium of some 100 institutions worldwide (including georgia tech) dedicated to advancing the information field. maia jacobs, who recently received her ph.d. from georgia tech for her work on mypath, was named winner of the 2019 ischools doctoral dissertation award. 
+ according to ischools, “the award committee felt [that jacobs’ work] was timely and important, and lauded its impact in how patients manage their health.” jacobs, now a postdoctoral fellow at harvard, is currently exploring how to expand mypath to other diseases. 
+ the work was also honored in 2016 when it was featured in a report to president barack obama by the president’s cancer panel. the report, improving cancer-related outcomes with connected health, aimed to “help patients manage their health information and participate in their own care,” according to a georgia tech story at the time. 
+ the beginning 
+ six years ago mynatt’s team began working with the harbin clinic in rome, georgia. “they have a tremendous program in holistic cancer care where they recognize that their patients, who are from a large rural area, face a variety of challenges to be able to successfully navigate the cancer journey,” mynatt said. 
+ but the harbin doctors and cancer navigators – people who help patients through the cancer journey – wanted a better way to stay connected to patients on a regular basis. the navigators, in particular, found that they tended to interact with patients a great deal at diagnosis, but less frequently over time. and that meant that although there are many recommendations for, say, lowering anxiety, they weren’t necessarily being communicated. 
+ said mynatt, “we wondered how technology could amplify what these great people are doing.” 
+ how it works 
+ mypath begins with a mobile library of resources compiled from the american cancer society and other reputable organizations. then, it is personalized with each patient’s diagnosis and treatment plan, including the dates for specific procedures. patients also complete regular surveys that help inform the system – and caregivers – of their changing needs and symptoms. 
+ the result is a system that provides each patient with resources and suggestions specific to their personal situation. because mypath knows, for example, that you have stage 2 breast cancer and will be undergoing a lumpectomy on a specific date, when you click on the category “preparing for surgery” it will suggest relevant articles to prepare you for what’s ahead. have you reported nausea in the system’s survey? mypath will bring your attention to resources that can help combat the side effect. the system also provides quick access to contact information for specific caregivers. 
+ other apps – and the internet – aren’t personalized. that means slogging through a great deal of often technical information that’s not relevant to your situation. in contrast, “every day mypath puts the right resources at your fingertips to help you through your cancer journey,” mynatt said. 
+ more than medical 
+ some of mypath’s most popular features have nothing to do directly with cancer. buttons for “emotional support” and “day to day matters” are regularly consulted by patients. “when we asked them about how they used the tablet for healthcare, many patients would talk to us about playing angry birds, which they would download to distract them during chemo sessions,” mynatt said. 
+ mypath is the second generation of the app. patient feedback from its predecessor, my journey compass, led to changes including the personalization. development continues. for example, mynatt’s team is hoping to expand the app for use by cancer survivors, who often face additional challenges like hormone replacement therapy. the team is also working on a version that individual patients could download, which would make the app available to many more users. 
+ this work is sponsored by the national cancer institute, part of the national institutes of health, under award ro1 ca195653. the content is solely the responsibility of the authors and does not necessarily represent the official views of the national institutes of health. 
+ want to stay informed about the latest georgia tech research? subscribe to our free monthly e-newsletter at 
+ www.rh.gatech.edu / subscribe 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). writer : elizabeth thomson 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

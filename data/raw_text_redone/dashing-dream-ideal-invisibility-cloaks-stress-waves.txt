@@ -1,0 +1,58 @@
+dashing the dream of ideal ‘invisibility’ cloaks for stress waves 
+ many have dreamt of building the perfect cloak to make buildings impervious to seismic waves caused by bombs or earthquakes. sorry, it appears impossible. 
+ roman arenas have survived in many earthquake-prone regions. did the romans inadvertently build seismic wave cloaks when they designed colosseums? some researchers believe they did due to the arenas' resemblance to modern experimental elastodynamic cloaking devices. photo: david iliff. license: cc by-sa 3.0 https: / / creativecommons.org / licenses / by-sa / 2.5 
+ jun 07, 2019 
+ — atlanta, ga 
+ whether harry potter’s invisibility cloak, which perfectly steers light waves around objects to make them invisible, will ever become reality remains to be seen, but perfecting a more crucial cloak is impossible, 
+ a new study says . it would have perfectly steered stress waves in the ground, like those emanating from a blast, around objects like buildings to make them “untouchable.” 
+ despite casting serious doubt on dozens of theoretical papers that have pursued “elastodynamic” cloaking, the new study’s authors from the georgia institute of technology don’t think civil engineers should completely give up on it, just on the idea of an ideal cloak. limited cloaking could still add a degree of protection to structures, particularly against some stress waves common in earthquakes. 
+ “with cloaking, there is this expectation that if you get any kind of stress wave from any kind of direction, a cloak should be able to hide the object from it. we now see that it is not possible,” said principal investigator arash yavari, a 
+ professor in georgia tech’s school of civil and environmental engineering 
+ and in the george w. woodruff school of mechanical engineering. “but for a large class of disturbances, namely the in-plane disturbances, you could probably design a good cloak.” 
+ in an earthquake, in-plane disturbances are seismic waves that track along flatter and broader -- or planar -- paths through the surface of the earth. 
+ yavari and coauthor ashkan golgoon, a graduate research assistant studying with yavari, published their study 
+ in the journal 
+ archive for rational mechanics and analysis, 
+ a leading journal on theoretical solid mechanics, on may 16, 2019 . the research was funded by the army research office. 
+ here's what the dream of cloaking for stress waves looks like, some theoretical errors the researchers say have errantly perpetuated that dream and what to do now that the bubble has burst. 
+ the dream cloak 
+ the theoretical dream of elastodynamic cloaking to steer stress waves past a structure like it isn’t even there has a lot in common with the dream of an invisibility cloak, which would bend light — electromagnetic waves — around an object then point it out the other side. 
+ the light waves hitting the viewer’s eye would reveal what is behind the object but not the object itself. in elastodynamic cloaking, the waves are not electromagnetic but mechanical, moving through the ground. hypothetically, cloaking the object would completely isolate it from the waves. 
+ in a scenario to protect, say, a nuclear reactor from any stress waves traveling through the ground, whether from a natural or human-made calamity, ideally, civil engineers might lower the base of the reactor into a hole below the surface of the ground. they would build a protective cylinder or a half-spherical underground bowl around it with special materials to steer the stress waves around the circle. 
+ there are dreams, then there are the study’s findings. 
+ “we proved that the shape of the cloak does not matter, whether spherical or cylindrical, you can’t completely cloak,” yavari said. 
+ [thinking about grad school?  here's how to apply to georgia tech. ] 
+ the erroneous analogy 
+ a lot of theory and math from electromagnetic (light) cloaking has been transferred onto elastodynamic cloaking research, and some of the former appears to have thrown a wrench into the latter. 
+ “many times, analogies from other fields are useful, but elasticity adds multiple physical factors that you don’t have in electromagnetism,” yavari said. “for example, the balance of 
+ angular momentum 
+ is being violated in much of the research literature. 
+ angular momentum is a property of mass in rotational motion, and it is resistant to changes. many people have experienced angular momentum by 
+ tilting a spinning gyroscope 
+ and watching it stubbornly move down an unexpected path. 
+ although it’s a wave, light is photons, which have no mass. stress waves, on the other hand, travel through matter — specifically, solid matter as opposed to liquid or gas — and that adds pivotal dynamics to the equation. 
+ those dynamics also affect that hole that hides the object. without it, the stress waves travel pretty uniformly through a medium, but with it, stresses concentrate around the hole and mess up the neat geometry of the wave patterns. 
+ the roman cloak? 
+ what to do? cloak anyway. if the ideal solution does not exist, make an imperfect one. 
+ “the math says that cloaking is not possible in the strict sense. when you understand that, you don’t waste time,” yavari said. “you formulate problems that optimize with what you do know around targeted stresses or loads you want to protect against.” 
+ engineers could protect against important earthquake stresses if they use materials that have been specifically pre-stressed, have certain elastic properties and distribution of densities that are detailed in the study. a real-life cloak can fall short of an ideal and still be great. 
+ “if instead of 100 percent of the wave energy i only feel 10 or 20 percent, it’s a huge deal because engineering is not a pursuit of absolute ideals,” yavari said. 
+ even the ancient romans, notoriously math-phobic, appear to have 
+ inadvertently built seismic cloaks in their design of amphitheaters , according to a report in 
+ mit technology review . their resemblance to modern experimental cloaking devices may have helped preserve them for 2,000 years in seismically active regions. 
+ the new study also examined a popular idea in civil engineering that building with a family of materials that have a microstructure making them “ cosserat solids ” might allow for perfect cloaking. the authors concluded that this also can’t work. the study did not consider so-called 
+ metamaterials , which have received attention for rerouting in particular light waves. 
+ also read: 
+ the kendeda "living building" will generate its own electricity and extract its water from the air . 
+ this research was supported by the army research office (grants aro w911nf-16-1-0064 and aro w911nf-18-1-0003 . 
+ any findings, conclusions or recommendations are those of the authors and not necessarily of the army research office. 
+ writer and media representative : 
+ ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email:  ben.brumfield@comm.gatech.edu 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

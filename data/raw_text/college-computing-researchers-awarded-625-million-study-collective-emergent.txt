@@ -1,0 +1,35 @@
+College of Computing Researchers Awarded $6.25 Million to Study Collective Emergent Behavior
+Researchers have been awarded $6.25 million to use collective emergent behavior.
+These simple vibrating robots have weak magnetic interactions that encourage cohesion. (Photo: Allison Carter, Georgia Tech)
+Apr 09, 2019
+— Atlanta, GA
+Georgia Tech researchers have been awarded $6.25 million from the Department of Defense (DoD) to use collective emergent behavior to achieve task-oriented objectives.
+DoD’s Multidisciplinary University Research Initiatives (MURI) Program funds projects that bring researchers together from diverse backgrounds to work on a complex problem.
+Institute for Data Engineering and Science
+co-director and School of Computer Science Professor
+Dana Randall
+is project investigator and leads a team of six that includes
+Daniel Goldman , Dunn Family Professor in the School of Physics. The Formal Foundations of Algorithmic Matter and Emergent Computation team also includes chemical engineering, mechanical engineering, physics, and computational science researchers from other universities.
+The researchers are trying to predict and design emergent behavior within computation by using basic algorithms on simple machines to perform complex tasks. Emergent behavior is when a microscopic change in a parameter creates a macroscopic change to a system. This collective behavior is easy to find in nature, from a swarm of bees to a colony of ants, but also appears in other scientific disciplines.
+“A MURI lets us take a deep dive toward understanding how many computationally limited components at the micro-scale can be programmed to work collectively to produce useful behavior at the macro-scale,” said Randall, who is also the ADVANCE Professor of Computing. “Our interdisciplinary team combines expertise in many fields, mimicking the research by forming a collaboration that is also greater than the sum of its parts."
+The MURI hybrid approach to algorithmic matter combines traditional logic-based programming with non-traditional computational methods, such as using physical characteristics of the interacting matter to drive a system toward collective behavior. One of the goals is to program based on this predictable emergent behavior. The approach also predicts basic properties of the collective’s emergent behavior, like whether it will behave like a gas, fluid, or solid. In this context, emergent behavior turns into emergent collective computation.
+“MURI promises basic algorithms that allow very simple machines to work collectively to perform amazingly complex tasks,” Massachusetts Institute of Technology (MIT) chemical engineering Professor
+Michael Strano
+said. “Our team will examine systems of autonomous cell-like particles that interact and respond to the movement of their neighbors in a programmable way. Theorists will be able to test ideas of emergent computation from these simple devices and learn how to execute tasks from the behavior of relatively simple, autonomous particles.”
+Although the behavior has footing in physics, computer science, and swarm robotics, there is no underlying framework to explain why until this research. The multidisciplinary approach allows theory and experiment to continuously inform each other and determine the computational capabilities of emergent behavior. The team has an ideal range of expertise in machine learning, control theory, and non-equilibrium physics and algorithms. They are also working with experimentalists who build collective systems at granular and microscopic scales.
+“An exciting aspect of this collaboration will be our attempts to interface and integrate ideas and tools from robotics, non-equilibrium physics, control theory, and computer science to develop task-capable swarms,” Goldman said.
+This MURI project will run for five years and is funded by the Army Research Office. In addition to Randall, Goldman, and Strano, the team also includes Arizona State computational science and engineering Professor
+Andrea Richa , MIT physics Associate Professor
+Jeremy England , and Northwestern mechanical engineering Professor
+Todd Murphey .
+The overarching goal is to find how simplistic the computation can be for this complexity. This could lead to advances in engineered systems achieving specific task-oriented goals.
+“The MURI promises nothing short of the transformation of robots,” Strano said, “from the large, bulky constructions that we think of today, to future clouds or swarms that enable functions that are currently impossible to realize.”
+Additional Images
+Contact
+Tess Malone, Communications Officer
+tess.malone@cc.gatech.edu
+Email
+tess.malone@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,63 @@
+yes, computing genetic ancestors is super accurate 
+ for two decades, geneticists have been using computer simulations to reconstruct genes and proteins millions of years old. but do their algorithms really work? a new study says: yes, and how! 
+ a fluoriscing protein changes color to indicate when it undergoes stronger mutations. this allows researchers to more easily sort lab bacteria by protein mutation. credit: georgia tech / rob felt 
+ sep 15, 2016 
+ — atlanta, ga 
+ remnants of extinct monkeys are hiding inside you, along with those of lizards, jellyfish and other animals. your dna is built upon gene fragments from primal ancestors. 
+ now researchers at the georgia institute of technology have made it more likely that ancestral genes, along with ancestral proteins, can be confidently identified and reconstructed. they have benchmarked a vital tool that would seem nearly impossible to benchmark. the newly won confidence in the tool could also help scientists compute ancient gene sequences and use them to synthesize better proteins to battle diseases. 
+ for some 20 years, scientists have used algorithms to compute their way hundreds of millions of years back into the evolutionary past. starting with present-day gene sequences, they perform what’s called ancestral sequence reconstruction (asr) to determine past mutations and figure out the genes’ primal forerunners. 
+ “with the help of asr, we can now actually build those ancient genes in the laboratory and express their encoded ancient proteins,” said  eric gaucher, an associate professor at georgia tech’s school of biological sciences . in a separate project, his lab is computing ancient proteins that were very effective in blood clotting 80 million years ago, 
+ in hopes of using them to fight hemophilia 
+ today. 
+ that protein comes from a common ancestor humans share with rats. 
+ time travel substitute 
+ but asr algorithms have faced logical criticism. species based on those primal genes are long extinct, and scientists can’t travel back in time to observe mutations that have happened since. so, how can anyone find any physical benchmark to verify and gauge asr? 
+ a team of researchers led by gaucher did it by building an evolutionary framework out of myriad mutations. then they benchmarked asr algorithms against it – no time machine required. their results have shored up confidence that the widely used algorithms are working as they should. 
+ “most of them did a very good job – 98% accurate,” gaucher said of contemporary algorithms’ ability to compute ancient gene sequences. their determination of proteins encoded by those sequences was virtually perfect. 
+ gaucher, research coordinator ryan randall and undergraduate student caelan radford published their results on thursday, september 15, 2016, 
+ in the journal 
+ nature communications . 
+ their research has been funded by the nasa exobiology program, e.i. du pont de nemours and company (dupont) and the national science foundation. 
+ holographic tree branches 
+ ancestral sequence reconstruction is like making a family tree for genes. 
+ the many twigs and branches at the treetop would be sequences from species alive today. shimmying down the tree, called a phylogeny in genetics, you would find their common ancestors, millions of years old, in the lower branches. 
+ there’s a caveat; none of the lower branches exist any longer. they vanished in the extinction of the species bearing those genetic sequences. 
+ asr computes them back into place using algorithms based on scientific models of evolution. it’s like replacing missing branches with holographic duplicates. 
+ algorithm horse race 
+ the accuracy of those evolutionary models has been a historic sticking point. and doubts about the algorithms based on them linger in some circles that hold on to an old, tried-and-true algorithm. 
+ so, gaucher and researcher coordinator randall pitted the contemporary model-based, or “maximum likelihood,” algorithms in a race against the generic, or “parsimony,” algorithm. 
+ “parsimony follows the simplest notion of evolution, which is that very little mutation occurs,” randall said. the models behind contemporary “maximum likelihood” algorithms, by contrast, are laced with filigree, data-packed details. 
+ for the race, randall made a track of sorts by putting a gene sequence that made a single protein through multiple mutations to construct a real-life phylogeny. she used methods that closely mimicked natural evolution, but that were much, much faster. 
+ rainbow phylogeny racetrack 
+ in cells, enzymes called polymerases aid in dna duplication.  they work very efficiently, but their rare mistakes are the most common source of mutations, and randall took her lead from this. 
+ “we used a polymerase that is error-prone to speed up mutations, and speed up evolution,” she said. 
+ the genes used at the starting point of the lab evolution made a protein that fluoresced red when placed in bacteria.  as significant mutations arose, the proteins began changing color.  bacteria containing green fluorescing proteins popped up among the red ones. 
+ randall divided bacteria with major mutations into new groups, creating branches in the phylogeny, as she went. many mutations produced new colors – yellow, orange, blue, pink – and randall ended up with a gene family tree in rainbow colors. 
+ show me the phenotype 
+ the colors reflected not only new gene sequences but also new phenotypes – the actual proteins they produced, the organism’s working molecules. 
+ “what counts is phenotype,” gaucher said. “when you analyze dna strictly by itself, it ignores the context, in which that dna is connected to phenotype,” he said. 
+ dna can mutate and still encode the same amino acids, protein’s component parts. then the mutation has no real effect. but when mutations cause dna to encode different amino acids, they’re more significant. 
+ a worthy test of ancestral sequence reconstruction algorithms must therefore include phenotype. and randall took this into account when she selected mutated proteins. 
+ “i selected for variants to purposely make it hard on the algorithms to infer the phenotypes,” she said. the race ensued, and the algorithms got limited information to infer the evolutionary tree’s many dozens of past mutations. 
+ asr a sure bet 
+ though the tried-and-true parsimony algorithm performed well, maximum likelihood performed better.  “even though it got the same number of residues (dna sequences) wrong as parsimony, the incorrectly inferred sequences were still more likely to encode the right phenotypes,” said undergraduate student caelan radford, who analyzed the experiment’s statistics. 
+ the margin of error was so tiny that it would not interfere in the determination of past species. 
+ the experiment’s outcome was not too surprising, because prior simulations had predicted it.  but the researchers wanted the scientific community to have physical proof that feels trustier than proof from a computer.  “it’s a computer algorithm.  it will do what you will tell it to do,” gaucher said. 
+ short history of asr 
+ doubts about ancestral sequence reconstruction -- and maximum likelihood algorithms in particular -- go far back.  the idea of performing asr first came up in 1963, but it didn’t get started until the 1990s, and back then, researchers battled fervently over wide-ranging methods. 
+ “people would come up with the craziest notion as to why one model was best,” gaucher said. “they’d say, ‘well, if i simulate this weird mode of evolution along these branches here, my algorithm will work better than your algorithm.’” 
+ the parsimony algorithm was a way of reigning in the chaos that grew out of a lack of data in evolutionary models at the time.  “when the model is wrong, ‘maximum likelihood’ fails miserably,” gaucher said. 
+ but, now, a host of data and analysis give scientists a great picture of how evolution works (and it’s not a parsimony principle): for ages, nothing moves, then change bursts forth, then things stabilize again. 
+ “you get this quick evolution, so lots of stuff works and lots of stuff fails, and the stuff that works then goes on and kind of maintains its status and doesn’t change,” gaucher said.  by confirming the high accuracy of the algorithms, the georgia tech team has also corroborated the validity of current evolutionary science they’re based on. 
+ kelsey roof and divya natarajan of georgia tech coauthored the paper. research was funded the nasa exobiology program (grant number nnx12ai10g), dupont (young professor award) and the national science foundation (grant number 1145698). any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring agencies. 
+ read more exciting science and technology research news at research horizons 
+ additional images 
+ contact 
+ writer and contact: ben brumfield 
+ research news 
+ (404) 660-1408 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

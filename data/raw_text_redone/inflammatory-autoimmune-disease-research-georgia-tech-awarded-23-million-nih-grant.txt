@@ -1,0 +1,29 @@
+inflammatory autoimmune disease research at georgia tech awarded $2.3 million nih grant 
+ autoimmunity can contribute to heart disease, diabetes and crohn's disease. georgia tech has been awarded a $2.3 million nih grant to employ computation in the study of genetic variants and their influence on susceptibility. 
+ greg gibson, a professor at georgia tech’s school of biological sciences, has received a generous nih grant to study the subtle genetic underpinnings of autoimmune related diseases taking a computational approach. 
+ sep 22, 2016 
+ — atlanta, ga 
+ the  lab of greg gibson  at the georgia institute of technology has been awarded a grant of $2.3 million to study the subtle genetic underpinnings of autoimmune-related diseases by taking a computational approach. 
+ the national institutes of health  made the award as part of an $11.1 million total investment in research funds slated for five institutions , including georgia tech. the researchers’ work could increase understanding of the causes of diabetes, crohn’s disease, rheumatoid arthritis, forms of heart disease, and more afflictions where inflammation is at issue, and where there may be a connection to autoimmunity. 
+ "we know that hundreds of genes impact autoimmunity, but the challenge is to narrow down the actual dna sequence changes that have an impact. this grant combines our statistical genetics expertise with evolutionary genetics and genome editing by collaborators,” said greg gibson, a professor at georgia tech’s 
+ school of biological sciences . 
+ in its research, georgia tech will work together with rice university in houston and temple university in philadelphia. gibson's researchers will handle statistical analysis and interpretation; rice's scientists will carry out gene editing, and evolutionary geneticists at temple will contribute insights on which gene sites should or should not be variable in the human genome. 
+ attacking friends: autoimmunity 
+ our cells work together with masses of microbes that are an integral part of the human body, but the immune systems of people with related diseases can attack the microbes and healthy human cells, and lead to inflammation. “lymphocytes, for example, could be attacking the body,” gibson said. 
+ “we’re looking at genes that regulate the immune system,” he said. “they’ve all got subtle effects. what counts is that they all work together. we’re looking for sections of genetic code that work a little oddly.” 
+ researchers will put data through algorithms to better identify genetic variants in sections of the human genome that do not encode proteins, but have regulatory functions, the nih said in a news release. these are sections of dna that, for example, turn encoding genes on and off. 
+ subtleties multiplied: susceptibility 
+ they have been lesser studied but are known to be critical and could provide new information on yet undiscovered pathways composed of multiple faint characteristics that add up to disease. 
+ "taken alone, some small characteristic may appear indistinct, and at the same time, it’s really hard to read how a big group of them work in total,” gibson said. “but their cumulative effect is dramatic, and unfortunate.” 
+ recent genomic research methods have compared the complete genomes of patients with diseases to those without them, leading to thousands of statistical hints. now new data and interpretive approaches are needed to effectively sift through these to see the foundations of diseases, or make predictions of who is most at risk, and what people can do to reduce the risk. 
+ the nih hopes statistical methods will allow prediction of possible effects some variants have on susceptibility to disease and on drug response. the funding comes from the nih’s national human genome research institute ( nhgri )'s non-coding variants program, and the national cancer institute ( nci ). 
+ additional images 
+ contact 
+ writer and contact: ben brumfield 
+ research news 
+ (404) 660-1408 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

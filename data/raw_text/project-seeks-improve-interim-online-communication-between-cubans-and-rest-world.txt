@@ -1,0 +1,27 @@
+Project Seeks to Improve Interim, Online Communication between Cubans and Rest of World
+A new effort called “Cuba Intercambio” is underway to help Cubans more freely access the Internet.
+Mar 21, 2016
+— Atlanta, GA
+A new effort called “Cuba Intercambio” by the Georgia Institute of Technology is underway to help Cubans more freely access the Internet. As diplomatic relations improve between the United States and Cuba, researchers in the field of human-computer interaction are taking a hard look at the impact of Internet access on the island nation, where information has been tightly controlled for more than 50 years. Understanding Internet access in Cuba now is useful to researchers and corporations that may seek to engage more directly with Cuba for business, e-commerce or tourism. A recent study by the School of Interactive Computing at Georgia Tech reveals that censorship, high cost and severely slow bandwidth keep Cuban residents from freely sharing information among one another and with the outside world – to the extent that Cubans regularly give login credentials to their social media accounts so others with Internet access can post on their behalf. “Cuba Intercambio” will provide island residents with an email based method to submit online queries they cannot perform themselves to a team in Atlanta, which will manually search the Internet for Cubans and email back their results. “Cuba has been called the second most isolated place in the world,” says lead researcher Michaelanne Dye, a Spanish speaker and second-generation American of Cuban descent. “Will Cuba at this historical moment be redefined by the Internet in any meaningful sense, and what can we learn about their development that might help other low-access areas of the world?” Dye’s Spring 2015 study with School Chair Annie Antón (also of Cuban descent) and Professor Amy Bruckman sought to understand the average Cuban citizen’s Internet use. Because of telecommunications limitations on regular dialogue with Cubans, a small, non-representative initial study involved 12 personal contacts. Dye seeks to follow up with study participants over the next two years and add more individuals for a representative study through word of mouth referrals among Cubans. Cuba Intercambio will be promoted via word-of-mouth to encourage exchanges between individuals living in Cuba and the rest of the world. Key Findings Internet penetration in Cuba is estimated to be between 5 – 25 percent, with only 5 percent having full access to the Internet. Internet access costs $4.50 (USD) an hour, and the average Cuban earns the equivalent of $20 (USD) per month. Since 2015, state-run cyber cafes have opened, offering Internet access for two hours and 16 minutes for $5 (USD). Censorship in Cuba is largely accomplished through low bandwidth and access restrictions rather than blocking software. Internet access via mobile phones is not possible. Email access via mobile phone is slow, unreliable and generally not used. Cuban citizens generally access the Internet at school or work, or through a state-run cyber café. Foreigners may be granted a license to have Internet access at home. Cubans with international friends may use the Internet at their friends’ homes. Study participants reported that portions of Google, Sykpe and Netflix were blocked. Facebook is preferable to mail or phone for basic communication; Facebook is the dominant social network and website among study participants, and Facebook activity occurs during the day while at work. Study participants say they do not discuss sensitive topics, such as politics, online in order to protect themselves. Mobilization and requests for help or favors still occur face to face. A link to the full paper, presented in March at the 19th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2016), can be
+found here .   Historical background
+Cuba was once the most connected country in the Caribbean, accounting for 32 percent of all email traffic, but its Internet development has stagnated with little improvement since the late 1990s, according to study authors. 1996
+- Cuba connected to the Internet with assistance from the United States’ National Science Foundation. 2001
+-  Cuba was at the lowest point in six dimensions of Internet access. Cuba’s Internet has stagnated with little improvement since the late 1990s, according to Dye. 2013
+-  Cuba connected a high-speed ALBA-1 fiber optic cable to Venezuela. February 2015
+– Cuba opens state-run cyber cafes. March 2015
+– Cuba launched its first, free public wi-fi service. May 2015
+–Cuba was removed from the United States’ “State Sponsors of Terror” list. July 2015
+– Formal diplomatic relations were established between the United States and Cuba. March 21, 2016 -
+Google to announce new Internet access for Cuba.   Access Cuba Intercambio In the U.S. : To help answer search queries from Cubans,
+join the Facebook Group In Cuba : To submit a search query to the U.S., email
+cubaintercambio@lists.gatech.edu
+Additional Images
+Related links
+Read the study
+Contact
+Tara La Bouff, 404.769.5408
+Email
+tlabouff@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

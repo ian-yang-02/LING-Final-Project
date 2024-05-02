@@ -1,0 +1,48 @@
+Indoor Air Quality Study Shows Aircraft in Flight May Have Lowest Particulate Levels
+A new study compares the level of particles in various indoor spaces, including aircraft cabins.
+A newly reported study of air quality in indoor spaces such as stores, restaurants, offices, public transportation — and commercial jets — shows aircraft cabins with the lowest levels of tiny aerosol particles. (Credit: John Toon, Georgia Tech)
+Mar 02, 2021
+— Atlanta, GA
+If you’re looking for an indoor space with a low level of particulate air pollution, a commercial airliner flying at cruising altitude may be your best option. A newly reported study of air quality in indoor spaces such as stores, restaurants, offices, public transportation — and commercial jets — shows aircraft cabins with the lowest levels of tiny aerosol particles.
+Conducted in July 2020, the study included monitoring both the number of particles and their total mass across a broad range of indoor locations, including 19 commercial flights in which measurements took place throughout departure and arrival terminals, the boarding process, taxiing, climbing, cruising, descent, and deplaning. The monitoring could not identify the types of the particles and therefore does not provide a direct measure of coronavirus exposure risk.
+“We wanted to highlight how important it is to have a high ventilation rate and clean air supply to lower the concentration of particles in indoor spaces,” said
+Nga Lee (Sally) Ng , associate professor and Tanner Faculty Fellow in the
+School of Chemical and Biomolecular Engineering
+and the
+School of Earth and Atmospheric Sciences
+at the Georgia Institute of Technology. “The in-flight cabin had the lowest particle mass and particle number concentration.”
+The study, believed to be the first to measure both size-resolved particle mass and number in commercial flights from terminal to terminal and a broad range of indoor spaces, has been accepted for publication in the journal
+Indoor Air
+and posted online at the journal’s website. Supported by Delta Air Lines, the research may be the first to comprehensively measure particle concentrations likely to be encountered by passengers from terminal to terminal.
+As scientists learn more about transmission of the coronavirus, the focus has turned to aerosol particles as an important source of viral spread indoors. Infected people can spread the virus as they breathe, talk, or cough, creating particles ranging in size from less than a micron — one millionth of a meter — to 1,000 microns. The larger particles quickly fall out of the air, but the smaller ones remain suspended.
+“Especially in poorly ventilated spaces, these particles can be suspended in the air for a long period of time, and can travel to every corner of a room,” Ng said. “If they are viral particles, they can infect people who may be at a considerable distance from a person emitting the particles.”
+To better understand the circulation of airborne particles, Delta approached Ng to conduct a study of multiple indoor environments, with a strong focus on air travel conditions. Using handheld instruments able to measure the total number of particles and their mass, Georgia Tech researchers examined air quality in a series of Atlanta area restaurants, stores, offices, homes, and vehicles — including buses, trains, and private automobiles.
+They trained Delta staff to conduct the same type of measurements in terminals, boarding areas, and a variety of aircraft through all phases of flight. The Delta staff recorded their locations as they moved through the terminals, and the instruments produced measurements consistent with the restaurants and stores they passed on their way to and from boarding and departure gates.
+“The measurements started as soon as they stepped into the departure terminal,” Ng said. “We were thinking about the whole trip, what a person would encounter from terminal to terminal.”
+In flight, aircraft air is exchanged between 10 and 30 times per hour. Some aircraft bring in exclusively outside air, which at cruising altitude is largely free of pollutant particles found in air near the ground. Other aircraft mix outdoor air with recirculated air that goes through HEPA filters, which remove more than 99% of particles.
+In all, the researchers evaluated measurements from 19 commercial flights with passenger loads of approximately 50%. The flights included a mix of short- and medium-length flights, and aircraft ranging from the CRJ-200 and A220 to the 757, A321, and 737.
+Among all the spaces measured, restaurants had the highest particle levels because of cooking being done there. Stores were next, followed by vehicles, homes, and offices. The average sub-micron particle number concentration measured in restaurants, for instance, was 29,400 particles per cubic centimeter, and in offices it was 2,473 per cubic centimeter.
+“We have quite a comprehensive data set to look at the size distribution of particles across these different spaces,” Ng said. “We can now compare indoor air quality in a variety of different spaces.”
+Because of the portable instruments used, the researchers were unable to determine the source of the particles, which could have included both biological and non-biological sources. “Further studies can include direct measurements of viral loads and tracing particle movements in indoor spaces,” she added.
+Jonathan Litzenberger, Delta’s managing director of Global Cleanliness Strategy, said the research helps advance the company’s goals of protecting its customers and employees.
+“Keeping the air clean and safe during flight is one of the most foundational layers of protection Delta aims to provide to our customers and employees,” he said. “We are always working to better understand the travel environment and confirm that the measures we are implementing are working.”
+Overall, the study highlights the importance of improving indoor air quality as a means of reducing coronavirus transmission.
+“Regardless of whether you are in an office or an aircraft, having a higher ventilation rate and good particle filtration are the keys to reducing the total particle concentration,” said Ng. “That should also reduce the concentration of any viral particles that may be present.”
+In addition to Ng, the researchers included Jean C. Rivera-Rios, Taekyu Joo, Masayuki Takeuchi, and Thomas M. Orlando from Georgia Tech; and Tracy Bevington, John W. Mathis, Clifton D. Pert, Brandon A. Tyson, Tyler M. Anderson-Lennert, and Joshua A. Smith from Delta Air Lines.
+CITATION : Jean C. Rivera-Rios, et al, “In-flight particulate matter concentrations in commercial flights are likely lower than other indoor environments.” ( Indoor Air , 2021)  https://doi.org/10.1111/ina.12812
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Anne Wainscott-Sargent (404-435-5784) (asargent7@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

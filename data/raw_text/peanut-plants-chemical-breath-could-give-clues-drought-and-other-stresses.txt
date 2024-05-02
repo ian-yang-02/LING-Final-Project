@@ -1,0 +1,45 @@
+Peanut Plant’s “Chemical Breath” Could Give Clues to Drought and Other Stresses
+Peanut growers could someday identify emerging threats such as drought, pests or disease by testing a plant’s “chemical breath.”
+A GTRI researcher installs air sampling equipment used to collect volatile organic compounds from peanut plants. Analyzing the compounds could indicate when the plants are under stress, allowing farmers to adjust growing conditions. (Photo: Branden Camp, Georgia Tech)
+Jul 18, 2019
+— Atlanta, GA
+Peanut growers could someday identify emerging threats such as drought, pests or disease by testing a plant’s “chemical breath.”
+From dawn to dusk, peanut plants emit volatile organic compounds (VOCs) that vary in types and patterns depending on how they respond to various stresses. Growers typically rely on indirect monitoring methods such as soil moisture testing to assess the health of plants in their fields. But directly testing stress response could be faster more accurate and offer a wider range of diagnoses. Now scientists are working on gas-collection devices that growers could deploy in fields or on plants.
+“We want to learn the best ways to detect and measure gases that could correlate to various plant conditions such as drought,” said Wayne Daley, associate division chief and principal research engineer with the
+Agricultural Technology Research Program
+at the
+Georgia Tech Research Institute
+(GTRI).
+About 1.67 million acres of peanuts were harvested in the U.S. in 2017, according to the U.S. Department of Agriculture — 160,000 in Florida and 850,000 in Georgia. Peanuts are a $2.2 billion crop in Georgia, accounting for 23 percent of the state’s row and forage crop income, according to the Georgia Peanut Commission.
+Daley and his co-investigators are collaborating with Diane Rowland, Barry Tillman and Alina Zare, all affiliated faculty of the University of Florida’s Center for Stress Resilient Agriculture, to identify and design collection methods for VOCs in an outdoor field site, an environmental chamber and a greenhouse in Florida. The GTRI team includes chemists Judy Song and Dan Sabo and data scientists Olga Kemenova and Milad Navaei.
+“This type of advanced technology is what is critically needed for our growers to remain economically viable,” said Rowland, professor of physiology at the University of Florida. “Resource use efficiency in farming, including rapidly responding to counteract stress events such as drought, is the key not only to environmental stewardship, but also for remaining profitable under rising input costs.”
+Still, detecting relevant gases in the field remains a giant challenge.
+“Peanut plants release VOCs at very low concentrations that are difficult to measure,” said Daley. “We want to learn which VOCs are significant and tell us about stresses that are of interest to growers.” In a previous study, Daley and other GTRI scientists learned that VOC signatures are different among peanut plants at various degrees of drought intensity.
+During the 2017 growing season, GTRI researchers placed glass rods coated with gas-absorbent material near peanut plants. The rods were taken to the lab and excited to release the absorbed gases, which were identified and measured. But a field site is a complex environment with many confounding factors.
+Now the researchers are evaluating this gas-measurement technique to study peanut plants grown in controlled lab conditions.
+During the 2017 growing season, researchers from University of Florida collected the field data from peanut plants using polydimethylsiloxane-coated stir bars (Twisters). The collected gases were sent to GTRI for identification and analysis using a thermal desorption unit.
+Now the researchers are evaluating this gas-measurement technique to study peanut plants grown in controlled lab conditions.
+A peanut plant’s seasonal growth stages affect the amounts and types of VOCs it releases. Even the time of day affects these emissions.
+“We are building an environmental chamber in which we can mimic the humidity, lighting, and nutrients of a natural field on a Florida day from the morning to evening with appropriate humidity,” said Daley. “This is the first step to test and evaluate the gas measurement technique in controlled conditions. Once we know more about its performance and how to apply it, then we’ll take it to the University of Florida to be studied with plants in a greenhouse.”
+The team is developing a baseline of peanut VOC “families” that could be identified in the environmental chamber. Each peanut stressor also could be associated with a distinct family of VOCs. For instance, researchers could simulate a drought in the chamber to study the associated VOCs. But there may be background families of VOCs that compete with or confuse a drought gas test.
+“We need to understand how the peanut plant responds to both health and stress conditions to be able to fully utilize VOCs for drought detection” said Sabo, a GTRI research scientist.
+“We are investigating how interference gases compete for space on the absorbent material,” said Song, a GTRI senior research engineer. “The experiment in the environmental chamber will be able to help us gain an understanding of how these interference gases and stressed-based VOCs interact and interfere with one another. With this knowledge we will be able to make accurate and meaningful measurements.”
+Once researchers understand the ambient complexity of an outdoor peanut field, they could develop and refine a specialized gas test for peanut drought stress indicators, which could help farmers improve irrigation scheduling or prevent aflatoxins, which are potential carcinogens.
+“You could probably develop and instrument the field with reliable compact sensors that allow for quick and convenient VOC collection and assessment,” said Daley. “Or we could envision robots manually taking samples.”
+This project is funded by Southern Peanut Research Initiative Project (#D7984.2.0.0.0) and USDA-National Institute of Food and Agriculture Grant (#D8585.0.0.0.0)
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Tibbetts
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

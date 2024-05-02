@@ -1,0 +1,66 @@
+antibiotics, taken strategically, could actually help defeat antibiotic resistance 
+ those same antibiotics driving the rise in antibiotic resistant bacterial strains could help defeat them if used as part of an informed strategy. 
+ group a streptococci, colored yellow, are the most common culprits in bacterial upper respiratory infections. credit: national institute of allergy and infectious diseases of the nih 
+ may 20, 2019 
+ — atlanta, ga 
+ in the war on antibiotic-resistant bacteria, it's not so much the antibiotics that are making the enemy stronger as it is how they are prescribed. a 
+ new study 
+ suggests that doctors can beat antibiotic resistance using those same antibiotics but in a very targeted manner and in combination with other health strategies. 
+ the current broad application of antibiotics helps resistant bacterial strains evolve forward. but using data about bacteria’s specific resistances when prescribing those same drugs more precisely can help put the evolution of resistant strains in reverse, according to researchers from the georgia institute of technology, duke university, and harvard university who conducted the study. 
+ one researcher cautioned that time is pressing: new strategies against resistance that leverage antibiotics need to be in place before bacteria resistant to most every known antibiotic become too widespread. that would render antibiotics nearly useless, and it has been widely reported that this could happen by mid-century, making bacterial infections much more lethal. 
+ “once you get to that pan-resistant state, it’s over,” said sam brown, who co-led the study and is an 
+ associate professor in georgia tech’s school of biological sciences . “timing is, unfortunately, an issue in tackling antibiotic resistance.” 
+ the new study, which was co-led by game theorist david mcadams, a 
+ professor of business administration and economics at duke university , delivers a mathematical model to help clinical and public health researchers devise new concrete prescription strategies and those supporting health strategies. the measures center on the analysis of bacterial strains to determine what drugs they are resistant to, and which not. 
+ some medical labs 
+ already scan human genomes for hereditary predispositions to certain medical conditions. bacterial genomes are far simpler and much easier to analyze, and though the analytical technology is currently not standard equipment in doctors’ offices or medical labs they routinely work with, the researchers think this could change in a reasonable amount of time. this would enable the study’s approach. 
+ the researchers published their study 
+ in the journal 
+ plos biology 
+ on may 16, 2019. the work was funded by the centers for disease control and prevention, the national institute of general medical sciences, the simons foundation, the human frontier science program, the wenner-gren foundations, and the royal physiographic society of lund. 
+ q&a 
+ here are some questions and answers on how the study’s counterintuitive approach could beat back antibiotic resistance: 
+ isn’t prescribing antibiotics the problem? how can it fight resistance? 
+ the real problem is the broad application of antibiotics. they treat human infections and farm animals, and in the process are killing off a lot of non-resistant bacteria while bacteria resistant to those drugs survive. the resistant strains can then reproduce and with fewer competitors in their space, then they dominate bacterial communities in the host animals and people. 
+ the resistant bacteria get passed to other hosts and become 
+ more prevalent in the world 
+ altogether. new prescription strategies would outsmart that evolutionary scenario by exposing through genomic (or other) analysis bacteria’s resistance but also their vulnerabilities. 
+ “right now, there are rapid tests for the pathogen. if you’ve got strep throat, the clinic swabs the bacteria and does a rapid assay that says yes, that’s streptococcus,” brown said. “but it won’t tell you if it’s resistant to the drug usually prescribed against it. in the future, diagnostics at the point-of-care could find out what strain you’ve got and if it’s resistant.” 
+ then clinicians would choose the specific antibiotics that the bacteria are not resistant to, and kill the bacteria, thus also stopping them from spreading the genes behind their resistance to other antibiotics. so, identifying an infector’s resistance hits two birds with one stone. 
+ “it’s great for fighting antibiotic resistance, but it’s also good for patients because we’ll always use the correct antibiotic,” brown said. 
+ [thinking about grad school?  here's how to apply to georgia tech. ] 
+ are there enough effective antibiotics left to do this with? 
+ plenty. antibiotics still work as a rule. 
+ in addition, searching out and destroying resistant bacteria could help refresh existing antibiotics’ effectiveness. 
+ “the idea is prevalent that we will use antibiotics up, and then they’re gone,” brown said. “it doesn’t have to be that way. this study introduces the concept that antibiotics could become a renewable resource if we act on time.” 
+ as mentioned above, prescription strategies by themselves won’t beat resistance, right? 
+ correct. resistance evolution has some tricky complexities. 
+ “a lot of bacteria with the potential to make us sick like 
+ e. coli 
+ spend most of their time just lurking peacefully in our bodies. these are bystander bacteria, and they are exposed to lots of antibiotics that we take for other things such as sore throats or ear aches,” brown said. “this frequent exposure is probably the major driver of resistance evolution.” 
+ the antibiotic prescription strategy needs those additional health care measures to win the fight, but those measures are pretty straightforward. 
+ what are those additional measures? 
+ diagnostics need to apply to bystander bacteria, too. 
+ e. coli 
+ in the intestine or, for example,  strep pneumoniae 
+ living peacefully in nostrils would be checked for resistance, say, during annual checkups. 
+ “if the patient is carrying a resistant strain, you work to beat it back before it can break out,” brown said. “there could be non-antibiotic treatments that do this like, perhaps, bacteria replacement.” 
+ bacteria replacement therapy  would introduce new bacteria into the patient’s body to outcompete the undesirable antibiotic-resistant bacteria and displace it. also, people would stay home from school and work for a few days so as not to spread the bad bacteria to other people while their immune systems and possibly  alternative therapies, such as bacteriophages or non-antibiotic drugs  battle the bad bacteria. 
+ this sounds hopeful, but are there other real-world circumstances to consider? 
+ “the study’s mathematical models are broad simplifications of real life,” brown said. “they don’t take into account that pathogens spend a lot of time in other antibiotic-exposed environments such as farms. dealing with that is going to require some more research.” 
+ the study also purposely leaves out "polymicrobial infections," which are infections by multiple kinds of bacteria at the same time. the researchers believe that the study’s models can still be relevant to them. 
+ “we expect the logic of combating drug resistance to still hold in these more complex scenarios, but diagnostics and treatment rules will have to be honed for them specifically,” brown said. 
+ also read: 
+ want to beat antibiotic resistance? rethink that strep throat prescription 
+ these researchers coauthored the study: david mcadams from duke university, kristofer wollein waldetoft from georgia tech, and christine tedijanto and marc lipsitch from harvard university. the research was funded by the centers for disease control and prevention (grant oads baa 2016-n-17812), the national institute of general medical sciences at the national institutes of health (grant u54gm088558), the simons foundation (grant 396001), the human frontier science program (grant rgp0011 / 2014), the wenner-gren foundations, and the royal physiographic society of lund. 
+ media contact / writer : ben brumfield 
+ (404) 660-1408 
+ ben.brumfield@comm.gatech.edu 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

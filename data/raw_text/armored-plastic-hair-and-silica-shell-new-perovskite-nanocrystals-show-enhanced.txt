@@ -1,0 +1,30 @@
+Armored With Plastic ‘Hair’ and Silica Shell, New Perovskite Nanocrystals Show Enhanced Durability
+Researchers at the Georgia Institute of Technology have demonstrated a novel approach aimed at addressing the material’s durability problem: encasing the perovskite inside a double layer protection system made from plastic and silica.
+Zhiqun Lin, a professor in the Georgia Tech School of Materials Science and Engineering. (Credit: Christopher Moore)
+Nov 29, 2019
+— Atlanta, GA
+Perovskite nanocrystals hold promise for improving a wide variety of optoelectronic devices – from lasers to light emitting diodes (LEDs) – but problems with their durability still limit the material’s broad commercial use.
+Researchers at the Georgia Institute of Technology have demonstrated a novel approach aimed at addressing the material’s durability problem: encasing the perovskite inside a double-layer protection system made from plastic and silica.
+In a study published Nov. 29 in the journal
+Science Advances , the research team describes a multistep process to produce encased perovskite nanocrystals that exhibit strong resistance to degradation in moist environments.
+“Perovskite nanocrystals are highly susceptible to degradation, particularly when they come into contact with water,” said Zhiqun Lin, a professor in the Georgia Tech School of Materials Science and Engineering. “This dual-shelled system offers two layers of protection while allowing each nanocrystal to remain a distinct and separate unit, achieving the maximum amount of surface area and other physical characteristics of the perovskite needed for optimizing optoelectronic applications.”
+The term perovskite refers to the crystal structure of the material, which is generally composed of three parts: two cations of different sizes and an anion in between. For decades, researchers have tested substituting various chemicals into the structure to achieve unique characteristics. In particular, perovskites containing halide compounds such as bromide and iodine can act as light absorbers and emitters.
+For this study, which was supported by the Air Force Office of Scientific Research, the National Science Foundation, the Defense Threat Reduction Agency, and the Department of Energy, Lin’s group worked with one of the most common halide configurations, which is formed from methylammonium, lead, and bromide.
+Their process involves first forming star-shaped plastic molecules that could serve as “nanoreactors” by growing 21 polymer arms on a simple sugar molecule. Then, once precursor chemicals for the silica and perovskite nanocrystals are loaded onto the plastic molecule, several stages of chemical reactions produce the final system.
+After the star-shaped plastic has played its role as a nanoreactor, the star-shaped components remain permanently attached, almost like hair, to the silica, which encases the perovskite. The hairs then serve as the first layer of protection, repelling water and preventing the nanocrystals from clumping together. The subsequent layer of silica adds further protection should any water get past the water-repelling plastic hair.
+“Synthesis and applications of perovskite nanocrystals have been a rapidly evolving research field over the past five years,” said Yanjie He, a coauthor of the paper and former graduate student at Georgia Tech. “Our strategy, based on a judiciously designed star-shaped plastic as a nanoreactor, enables unprecedented control in the crafting of high-quality perovskite nanocrystals with complex architecture, which is inaccessible in conventional approaches.”
+To test the material, the researchers coated glass substrates with a thin film of the encapsulated perovskites and conducted several stress tests, including immersing the entire sample in deionized water. By shining ultraviolet light upon the sample, they found that the photoluminescent properties of the perovskites never diminished during a 30-minute test. For comparison, the researchers also immersed unencapsulated perovskites in water and watched as their photoluminescence vanished in a matter of seconds.
+Lin said the new method unlocks the possibility of tuning the surface characteristics of the dual-shelled nanocrystal to enhance its performance in a greater range of applications. The process of fabricating the new perovskite nanocrystals from the star-shaped plastic was also unique in that it employed low-boiling point solvents with low toxicity. Future research may center on developing different perovskite nanocrystal systems, including all-inorganic perovskites, double perovskites, and doped perovskites.
+“We envision that this type of perovskite nanocrystal will prove very useful for creating durable optoelectronic devices for bioimaging, biosensors, photonic sensors, and radiation detection, as well as next generation LEDs, lasers, and scintillators,” Lin said. “This is because these hairy perovskite nanocrystals carry unique advantages, including high defect tolerance, narrower emission bands, and high scintillation efficiency.”
+This research was supported by the National Science Foundation (NSF) under grant Nos. CMMI 1727313, CMMI 1914713, CBET 1803495, Air Force Office of Scientific Research under grant No. FA9550-19-1-0317, the Defense Threat Reduction Agency under grant No. HDTRA1-18-1-0004, and the U.S. Department of Energy under grant Nos. DE-SC0018611 and DE-FG02-90ER46604. The content is solely the responsibility of the authors and does not necessarily represent the official views of the sponsoring organizations.
+CITATION : Yanjie He, Young Jun Yoon, Yeu Wei Harn, Gill V. Biesold-McGee, Shuang Liang, Chun Hao Lin, Vladimir V. Tsukruk, Naresh Thadhani, Zhitao Kang, and Zhiqun Lin, “Unconventional route to dual-shelled organolead halide perovskite nanocrystals with controlled dimensions, surface chemistry, and stabilities” (Science Advances, November 2019).
+http://dx.doi.org/10.1126/sciadv.aax4424
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

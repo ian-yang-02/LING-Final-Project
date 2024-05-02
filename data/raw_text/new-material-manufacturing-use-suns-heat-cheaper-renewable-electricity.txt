@@ -1,0 +1,44 @@
+New Material, Manufacturing Use Sun's Heat for Cheaper Renewable Electricity
+A new heat exchanger technology could boost the use of solar power.
+A recent development would make electricity generation from the sun's heat more efficient, by using ceramic-metal plates for heat transfer at higher temperatures and at elevated pressures. (Purdue University illustration/Raymond Hassan)
+Oct 23, 2018
+— Atlanta, GA
+Solar power accounts for less than two percent of U.S. electricity, but could make up more than that if the cost of electricity generation and energy storage for use on cloudy days and at nighttime were cheaper.
+A Purdue University-led team that included researchers from Georgia Tech have developed a new material and manufacturing process that would make one way to use solar power – as heat energy – more efficient in generating electricity.
+The innovation is an important step for putting solar heat-to-electricity generation in direct cost competition with fossil fuels, which generate more than 60 percent of electricity in the U.S.
+“Storing solar energy as heat can already be cheaper than storing energy via batteries, so the next step is reducing the cost of generating electricity from the sun's heat with the added benefit of zero greenhouse gas emissions,” said Kenneth Sandhage, Purdue’s Reilly Professor of Materials Engineering.
+The research, which was done at Purdue in collaboration with the Georgia Institute of Technology, the University of Wisconsin-Madison and Oak Ridge National Laboratory, published in the journal
+Nature
+on October 18.
+Solar power doesn't only generate electricity via panels in farms or on rooftops. Another option is concentrated power plants that run on heat energy.
+Concentrated solar power plants convert solar energy into electricity by using mirrors or lenses to concentrate a lot of light onto a small area, which generates heat that is transferred to a molten salt. Heat from the molten salt is then transferred to a "working" fluid, supercritical carbon dioxide, that expands and works to spin a turbine for generating electricity.
+To make solar-powered electricity cheaper, the turbine engine would need to generate even more electricity for the same amount of heat, which means the engine needs to run hotter.
+The problem is that heat exchangers, which transfer heat from the hot molten salt to the working fluid, are currently made of stainless steel or nickel-based alloys that get too soft at the desired higher temperatures and at the elevated pressure of supercritical carbon dioxide.
+Inspired by the materials his group had previously combined to make composite materials that can handle high heat and pressure for applications like solid-fuel rocket nozzles, Sandhage worked with Asegun Henry – formerly at Georgia Tech, but now at the Massachusetts Institute of Technology – to conceive of a similar composite for more robust heat exchangers.
+Two materials showed promise together as a composite: The ceramic zirconium carbide, and the metal tungsten.
+Purdue researchers created plates of the ceramic-metal composite. The plates host customizable channels for tailoring the exchange of heat, based on simulations of the channels conducted at Georgia Tech by
+Devesh Ranjan's
+team.
+“We simulated the printed circuit heat exchanger, which contains channels that are straight and parallel with semi-circular cross sections two millimeters in diameter,” said Ranjan, associate professor in the
+George W. Woodruff School of Mechanical Engineering . “The thickness of each plate in the printed circuit heat exchanger stack and the spacing between the channels were then determined from the maximum allowed stresses for each type of material, with a factor of safety added.”
+Mechanical tests by Edgar Lara-Curzio’s team at Oak Ridge National Laboratory and corrosion tests by Mark Anderson’s team at Wisconsin-Madison helped show that this new composite material could be tailored to successfully withstand the higher temperature, high-pressure supercritical carbon dioxide needed for generating electricity more efficiently than today’s heat exchangers.
+An economic analysis by Georgia Tech and Purdue researchers also showed that the scaled-up manufacturing of these heat exchangers could be conducted at comparable or lower cost than for stainless steel or nickel alloy-based ones.
+“Ultimately, with continued development, this technology would allow for large-scale penetration of renewable solar energy into the electricity grid,” Sandhage said. “This would mean dramatic reductions in man-made carbon dioxide emissions from electricity production.”
+A patent application has been filed for this advancement. The work is supported by the U.S. Department of Energy, which has also recently awarded additional funding for further development and scaling up the technology.
+This story was provided by Purdue University.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia 30332-0181
+Media Relations Contacts : Purdue (Kayla Wiles, 765-494-2432, wiles5@purdue.edu); Georgia Tech (John Toon, 404-894-6986, (jtoon@gatech.edu)
+Writer : Kayla Wiles, Purdue University
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

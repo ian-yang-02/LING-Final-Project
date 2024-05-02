@@ -1,0 +1,74 @@
+chemical octopus catches sneaky cancer clues, trace glycoproteins 
+ tiny cancer signals of the glycoprotein sort evade detection, but they'll have a hard time dodging the new "chemical octopus." 
+ an artist's rendering of cancer cells clustering among healthy cells. credit: istock via rights purchase / not a press handout / not for redistribution outside georgia tech 
+ generic cancer cell illustrations available at istock / getty images. 
+ may 04, 2018 
+ — atlanta, ga 
+ cancer drops sparse chemical hints of its presence early on, but unfortunately, many of them are in a class of biochemicals that could not be detected thoroughly, until now. 
+ researchers at the georgia institute of technology have 
+ engineered a chemical trap 
+ that exhaustively catches what are called glycoproteins, including minuscule traces that have previously escaped detection. 
+ glycoproteins are protein molecules bonded with sugar molecules, and they’re very common in all living things. glycoproteins come in myriad varieties and sizes and make up important cell structures like cell receptors. they also wander around our bodies in secretions like 
+ mucus 
+ or  hormones . 
+ but some glycoproteins are very, very rare and can serve as an early signal, or 
+ biomarker , indicating there’s something wrong in the body – like cancer. existing methods to reel in glycoproteins for laboratory examination are relatively new and have had big holes in their nets, so many of these molecules, especially those very rare ones produced by cancer, have tended to slip by. 
+ cancerous traces 
+ “these tiny traces are critically important for early disease detection,” said principal investigator ronghu wu, 
+ a professor in georgia tech’s school of chemistry and biochemistry . “when cancer is just getting started, aberrant glycoproteins are produced and secreted into body fluids such as blood and urine. often their abundances are extremely low, but catching them is urgent.” 
+ this new chemical trap, which took georgia tech 
+ chemists several years to develop 
+ and is based on a 
+ boronic acid , has proven extremely effective in lab tests including on cultured human cells and mouse tissue samples. 
+ “this method is very universal,” said first author haopeng xiao, a graduate research assistant. “we get over 1,000 glycoproteins in a really small lab sample.” 
+ in comparison tests with existing methods, the chemical trap, a complex molecular construction reminiscent of an octopus, captured exponentially more glycoproteins, especially more of those trace glycoproteins. 
+ wu, xiao and weixuan chen, a former georgia tech postdoctoral researcher, who was also first author of the study alongside xiao, 
+ published their results in the journal 
+ nature communications . 
+ the research was funded by the national science foundation and the national institutes of health. 
+ boronic bungles 
+ for chemistry whizzes, here’s a short summary of 
+ how the researchers made the octopus . they took a good thing and doubled then tripled down on it. 
+ those who recall high school chemistry class may still know what boric acid is, as do people who use it to kill roaches. its chemical structure is an atom of boron bonded with three hydroxyl groups (h 3 bo 3 ). 
+ boronic acids are a family of organic compounds that build on boric acid. there are many members of the 
+ boronic acid 
+ family, and they tend to bond well with glycoproteins, but their bonds can be less reliable than needed. 
+ “most boronic acids let too many low-abundance glycoproteins get away,” wu said. “they can catch glycoproteins that are in high abundance but not those in low abundance, the ones that tell us more valuable things about cell development or about human disease.” 
+ benzoboroxole octopus 
+ but the georgia tech chemists were able to leverage the strengths of boronic acids to develop a glycoprotein capturing method that works exceptionally well. 
+ first, they tested several boronic acid derivatives and found that one called 
+ benzoboroxole 
+ strongly bound with each sugar component on the glycopeptide. (“ peptide ” refers to the basic chemical composition of a protein.) 
+ then they stitched many benzoboroxole molecules together with other components to form a " dendrimer," which refers to the resulting branch- or tentacle-like structure . the finished large molecule resembled an octopus ready to go after those sugar components. 
+ in its middle, similarly positioned to an octopus's head, was a magnetic bead, which acted as a kind of handle. once the dendrimer caught a glycoprotein, the researchers used a magnet to grab the bead and pull out their chemical octopus along with its ensnared glycopeptides (e.g. glycoproteins). 
+ “then we washed the dendrimer off with a low ph solution, and we had the glycoproteins analyzed with things like mass spectrometry,” wu said. 
+ cancer treatments? 
+ the researchers have some ideas about how medical laboratory researchers could make practical use of the new georgia tech method to detect odd biomolecules emitted by cancer, such as 
+ antigens . for example, the chemical octopus could improve detection of 
+ prostate-specific antigens (psa) 
+ in prostate cancer screenings. 
+ “psa is a glycoprotein. right now, if the level is very high, we know that the patient may have cancer, and if it’s very low, we know cancer is not likely,” wu said. “but there is a gray area in between, and this method could lead to much more detailed information in that gray area.” 
+ the researchers also believe that developers could leverage the chemical invention to produce targeted cancer treatments. immune cells could be trained to recognize the aberrant glycoproteins, track down their source cancer cells in the body and kill them. 
+ the research’s potential for science goes far beyond its possible future medical applications. 
+ the fields of 
+ genomics 
+ and 
+ proteomics 
+ have made great strides. following in their footsteps, this new molecular trap could advance the study of the rising field of 
+ glycoscience . 
+ ------ 
+ like this article?  get our email newsletter here. 
+ also read: 
+ cancer-killing t-cells switched on via remote control 
+ georgia tech’s johanna smeekens coauthored the research paper. the research was funded by the national science foundation (career award che-1454501), and the national institutes of health (r01gm118803). findings and any opinions are those of the authors’ and not necessarily of the funding agencies. 
+ additional images 
+ contact 
+ writer & media representative : ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

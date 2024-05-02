@@ -1,0 +1,34 @@
+Researchers 3D Print First High-Performance Nanostructured Alloy That’s Both Ultrastrong and Ductile
+Researchers at UMass Amherst and Georgia Tech have 3D printed a dual-phase, nanostructured high-entropy alloy that exceeds the strength and ductility of other state-of-the-art additively manufactured materials.
+A strong and ductile high-entropy alloy is made from additive manufacturing, and it exhibits a hierarchical microstructure over a wide range of length scales. (Image credit: Thomas Voisin).
+Aug 03, 2022
+— Atlanta, GA
+A team of researchers at the University of Massachusetts Amherst and the Georgia Institute of Technology has 3D printed a dual-phase, nanostructured high-entropy alloy that exceeds the strength and ductility of other state-of-the-art additively manufactured materials, which could lead to higher-performance components for applications in aerospace, medicine, energy and transportation. The
+research , led by
+Wen Chen , assistant professor of mechanical and industrial engineering at UMass, and
+Ting Zhu , professor of
+mechanical engineering
+at Georgia Tech, was published in the August issue of the journal
+Nature .
+Over the past 15 years, high entropy alloys (HEAs) have become increasingly popular as a new paradigm in materials science. Comprised of five or more elements in near-equal proportions, they offer the ability to create a near-infinite number of unique combinations for alloy design. Traditional alloys, such as brass, carbon steel, stainless steel and bronze, contain a primary element combined with one or more trace elements.
+Additive manufacturing, also called 3D printing, has recently emerged as a powerful approach of material development. The laser-based 3D printing can produce large temperature gradients and high cooling rates that are not readily accessible by conventional routes. However, “the potential of harnessing the combined benefits of additive manufacturing and HEAs for achieving novel properties remains largely unexplored,” says Zhu.
+Chen and his team in the
+Multiscale Materials and Manufacturing Laboratory
+combined an HEA with a state-of-the-art 3D printing technique called laser powder bed fusion to develop new materials with unprecedented properties. Because the process causes materials to melt and solidify very rapidly as compared to traditional metallurgy, “you get a very different microstructure that is far-from-equilibrium” on the components created, Chen says. This microstructure looks like a net and is made of alternating layers known as face-centered cubic (FCC) and body-centered cubic (BCC) nanolamellar structures embedded in microscale eutectic colonies with random orientations. The hierarchical nanostructured HEA enables co-operative deformation of the two phases.
+“This unusual microstructure’s atomic rearrangement gives rise to ultrahigh strength as well as enhanced ductility, which is uncommon, because usually strong materials tend to be brittle,” Chen says. Compared to conventional metal casting, “we got almost triple the strength and not only didn’t lose ductility, but actually increased it simultaneously,” he says. “For many applications, a combination of strength and ductility is key. Our findings are original and exciting for materials science and engineering alike.”
+“The ability to produce strong and ductile HEAs means that these 3D printed materials are more robust in resisting applied deformation, which is important for lightweight structural design for enhanced mechanical efficiency and energy saving,” says Jie Ren, Chen’s Ph.D. student and first author of the paper.
+Zhu’s group at Georgia Tech
+led the computational modeling for the research. He developed dual-phase crystal plasticity computational models to understand the mechanistic roles played by both the FCC and BCC nanolamellae and how they work together to give the material added strength and ductility.
+“Our simulation results show the surprisingly high strength yet high hardening responses in the BCC nanolamellae, which are pivotal for achieving the outstanding strength-ductility synergy of our alloy. This mechanistic understanding provides an important basis for guiding the future development of 3D printed HEAs with exceptional mechanical properties,” Zhu says.
+In addition, 3D printing offers a powerful tool to make geometrically complex and customized parts. In the future, harnessing 3D printing technology and the vast alloy design space of HEAs opens ample opportunities for the direct production of end-use components for biomedical and aerospace applications.
+Additional research partners on the paper include Texas A&M University, the University of California Los Angeles, Rice University, and Oak Ridge and Lawrence Livermore national laboratories.
+Story by
+Melinda Rose , Associate News Editor at UMass Amherst.
+Additional Images
+Contact
+Catherine Barzler, Georgia Tech
+Email
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

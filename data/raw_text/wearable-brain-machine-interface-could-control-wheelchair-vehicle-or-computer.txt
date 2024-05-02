@@ -1,0 +1,50 @@
+Wearable Brain-Machine Interface Could Control a Wheelchair, Vehicle or Computer
+Combining new classes of nanomembrane electrodes with flexible electronics and a deep learning algorithm could help disabled people wirelessly control devices.
+An aerosol-jet printed stretchable, skin-like electrode with an open-mesh structure shown in inset. (Courtesy of Woon-Hong Yeo)
+Sep 20, 2019
+— Atlanta, GA
+Combining new classes of nanomembrane electrodes with flexible electronics and a deep learning algorithm could help disabled people wirelessly control an electric wheelchair, interact with a computer or operate a small robotic vehicle without donning a bulky hair-electrode cap or contending with wires.
+By providing a fully portable, wireless brain-machine interface (BMI), the wearable system could offer an improvement over conventional electroencephalography (EEG) for measuring signals from visually evoked potentials in the human brain. The system’s ability to measure EEG signals for BMI has been evaluated with six human subjects, but has not been studied with disabled individuals.
+The project, conducted by researchers from the Georgia Institute of Technology, University of Kent and Wichita State University, was reported on September 11 in the journal
+Nature Machine Intelligence .
+“This work reports fundamental strategies to design an ergonomic, portable EEG system for a broad range of assistive devices, smart home systems and neuro-gaming interfaces,” said
+Woon-Hong Yeo , an assistant professor in Georgia Tech’s
+George W. Woodruff School of Mechanical Engineering
+and
+Wallace H. Coulter Department of Biomedical Engineering.
+“The primary innovation is in the development of a fully integrated package of high-resolution EEG monitoring systems and circuits within a miniaturized skin-conformal system.”
+BMI is an essential part of rehabilitation technology that allows those with amyotrophic lateral sclerosis (ALS), chronic stroke or other severe motor disabilities to control prosthetic systems. Gathering brain signals known as steady-state virtually evoked potentials (SSVEP) now requires use of an electrode-studded hair cap that uses wet electrodes, adhesives and wires to connect with computer equipment that interprets the signals.
+Yeo and his collaborators are taking advantage of a new class of flexible, wireless sensors and electronics that can be easily applied to the skin. The system includes three primary components: highly flexible, hair-mounted electrodes that make direct contact with the scalp through hair; an ultrathin nanomembrane electrode; and soft, flexible circuity with a Bluetooth telemetry unit. The recorded EEG data from the brain is processed in the flexible circuitry, then wirelessly delivered to a tablet computer via Bluetooth from up to 15 meters away.
+Beyond the sensing requirements, detecting and analyzing SSVEP signals have been challenging because of the low signal amplitude, which is in the range of tens of micro-volts, similar to electrical noise in the body. Researchers also must deal with variation in human brains. Yet accurately measuring the signals is essential to determining what the user wants the system to do.
+To address those challenges, the research team turned to deep learning neural network algorithms running on the flexible circuitry.
+“Deep learning methods, commonly used to classify pictures of everyday things such as cats and dogs, are used to analyze the EEG signals,” said Chee Siang (Jim) Ang, senior lecturer in Multimedia/Digital Systems at the University of Kent. “Like pictures of a dog which can have a lot of variations, EEG signals have the same challenge of high variability. Deep learning methods have proven to work well with pictures, and we show that they work very well with EEG signals as well.”
+In addition, the researchers used deep learning models to identify which electrodes are the most useful for gathering information to classify EEG signals. “We found that the model is able to identify the relevant locations in the brain for BMI, which is in agreement with human experts,” Ang added. “This reduces the number of sensors we need, cutting cost and improving portability.”
+The system uses three elastomeric scalp electrodes held onto the head with a fabric band, ultrathin wireless electronics conformed to the neck, and a skin-like printed electrode placed on the skin below an ear. The dry soft electrodes adhere to the skin and do not use adhesive or gel. Along with ease of use, the system could reduce noise and interference and provide higher data transmission rates compared to existing systems.
+The system was evaluated with six human subjects. The deep learning algorithm with real-time data classification could control an electric wheelchair and a small robotic vehicle. The signals could also be used to control a display system without using a keyboard, joystick or other controller, Yeo said.
+“Typical EEG systems must cover the majority of the scalp to get signals, but potential users may be sensitive about wearing them,” Yeo added. “This miniaturized, wearable soft device is fully integrated and designed to be comfortable for long-term use.”
+Next steps will include improving the electrodes and making the system more useful for motor-impaired individuals.
+“Future study would focus on investigation of fully elastomeric, wireless self-adhesive electrodes that can be mounted on the hairy scalp without any support from headgear, along with further miniaturization of the electronics to incorporate more electrodes for use with other studies,” Yeo said. “The EEG system can also be reconfigured to monitor motor-evoked potentials or motor imagination for motor-impaired subjects, which will be further studied as a future work on therapeutic applications.”
+Long-term, the system may have potential for other applications where simpler EEG monitoring would be helpful, such as in sleep studies done by
+Audrey Duarte , an associate professor in Georgia Tech’s
+School of Psychology .
+“This EEG monitoring system has the potential to finally allow scientists to monitor human neural activity in a relatively unobtrusive way as subjects go about their lives,” she said. “For example, Dr. Yeo and I are currently using a similar system to monitor neural activity while people sleep in the comfort of their own homes, rather than the lab with bulky, rigid, uncomfortable equipment, as is customarily done. Measuring sleep-related neural activity with an imperceptible system may allow us to identify new, non-invasive biomarkers of Alzheimer's-related neural pathology predictive of dementia.”
+In addition to those already mentioned, the research team included Musa Mahmood, Yun-Soung Kim, Saswat Mishra, and Robert Herbert from Georgia Tech; Deogratias Mzurikwao from the University of Kent; and Yongkuk Lee from Wichita State University.
+This research was supported by a grant from the Fundamental Research Program (project PNK5061) of Korea Institute of Materials Science, funding by the Nano-Material Technology Development Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science, ICT and Future Planning (no. 2016M3A7B4900044), and support from the Institute for Electronics and Nanotechnology, a member of the National Nanotechnology Coordinated Infrastructure, which is supported by the National Science Foundation (grant ECCS-1542174).
+CITATION : Musa Mahmood, et al., “Fully portable and wireless universal brain-machine interfaces enabled by flexible scalp electronics and deep learning algorithm.” (Nature Machine Intelligence, 1, 412-422, 2019).
+https://doi.org/10.1038/s42256-019-0091-7
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

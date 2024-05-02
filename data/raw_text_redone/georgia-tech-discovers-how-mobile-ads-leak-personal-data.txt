@@ -1,0 +1,33 @@
+georgia tech discovers how mobile ads leak personal data 
+ school of computer science researchers find that personalized in-app ads can leak sensitive profile information between developers and ad networks. 
+ graduate students wei meng (l) and ren ding (r) at the georgia institute of technology led a study of how personalized ads can leak profile information from an ad network to the mobile app developer. 
+ feb 22, 2016 
+ — atlanta, ga 
+ atlanta – february 22, 2016 
+ – 
+ the personal information of millions of smartphone users is at risk due to in-app advertising that can leak potentially sensitive user information between ad networks and mobile app developers, according to a new study by the 
+ school of computer science 
+ at the georgia institute of technology. results will be presented tuesday, feb. 23 at the 
+ 2016 network and distributed system security symposium (ndss '16) 
+ in san diego, calif., by researchers 
+ wei meng , 
+ ren ding , 
+ simon chung , and 
+ steven han 
+ under the direction of professor 
+ wenke lee . the study examined more than 200 participants who used a custom-built app for android-based smartphones, which account for 52 percent of the u.s. smartphone market according to 
+ comscore’s april 2015 report . georgia tech researchers reviewed the accuracy of personalized ads that were served to test subjects from the google adnetwork based upon their personal interests and demographic profiles; and secondly, examined how much a mobile app creator could uncover about users because of the personalized ads served to them. researchers found that 73 percent of ad impressions for 92 percent of users are correctly aligned with their demographic profiles. researchers also found that, based on ads shown, a mobile app developer could learn a user’s: gender with 75 percent accuracy, parental status with 66 percent accuracy, age group with 54 percent accuracy, and could also predict income, political affiliation, marital status, with higher accuracy than random guesses. some personal information is deemed so sensitive that google explicitly states those factors are not used for personalization, yet the study found that app developers still can discover this information due to leakage between ad networks and app developers. “free smart phone apps are not really free,” says wei meng, lead researcher and a graduate student studying computer science. “apps – especially malicious apps – can be used to collect potentially sensitive information about someone simply by hosting ads in the app and observing what is received by a user. mobile, personalized in-app ads absolutely present a new privacy threat.” how it works mobile app developers choose to accept in-app ads inside their app. ad networks pay a fee to app developers in order to show ads and monitor user activity – collecting app lists, device models, geo-locations, etc. this aggregate information is made available to help advertisers choose where to place ads. advertisers instruct an ad network to show their ads based on topic targeting (such as “autos & vehicles”), interest targeting (such as user usage patterns and previous click thrus), and demographic targeting (such as estimated age range). the ad network displays ads to appropriate mobile app users and receives payment from advertisers for successful views or click thrus by the recipient of the ad. in-app ads are displayed unencrypted as part of the app’s graphical user interface. therefore, mobile app developers can access the targeted ad content delivered to its own app users and then reverse engineer that data to construct a profile of their app customer. unlike advertising on a website page, where personalized ad content is protected from publishers and other third parties by the 
+ same origin policy , there is no isolation of personalized ad content from the mobile app developer. for the smartphone dependent population – the 7 percent of largely low-income americans, defined by 
+ pew internet ("u.s. smartphone use in 2015") , who have neither traditional broadband at home nor any other online alternative – their personal information may be particularly at risk. “people use their smartphones now for online dating, banking, and social media every day,” said wenke lee, professor of computer science and co-director of the institute for information security & privacy at georgia tech. “mobile devices are intimate to users, so safeguarding personal information from malicious parties is more important than ever.” the study acknowledges that the online advertising industry is taking steps to protect users’ information by improving the https protocol, but researchers believe the threat to user privacy is greater than https protection can provide under a mobile scenario. the researchers contacted google adnetworks about their finding. download 
+ the complete research paper.   additional research at ndss '16 georgia tech's school of computer science will present three additional papers at the conference. 
+ " enforcing kernel security invariants with data flow integrity " by chengyu song, byoungyoung lee, kangjie lu, william harris, and wenke lee " how to make aslr win the clone wars: runtime re-randomization " 
+ by kangjie lu, stefan nurnberger, michael backes, and wenke lee " opensgx:  an open platform for sgx research " 
+ by prerit jain, soham desai, ming-wei shih, and taesoo kim in partnership with kaist of south korea researchers seongmin kim, jaehyuk lee, changho choi, youjung shin, brent byunghoon kang, and dongsu han 
+ additional images 
+ contact 
+ tara la bouff 602.770.0264 
+ email 
+ tlabouff@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

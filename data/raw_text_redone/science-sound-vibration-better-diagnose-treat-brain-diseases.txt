@@ -1,0 +1,68 @@
+the science of sound, vibration to better diagnose, treat brain diseases 
+ by understanding transmission of acoustic waves through microstructure in an individual’s skull, non-invasive ultrasound imaging of the brain and delivery of therapy could be possible in a greater number of people. 
+ georgia tech researchers align the electrodynamic exciter and laser doppler vibrometer setup for vibration experiments. (photo credit: allison carter, georgia tech) 
+ apr 27, 2021 
+ — atlanta, ga 
+ a team of engineering researchers at the georgia institute of technology hopes to uncover new ways to diagnose and treat brain ailments, from tumors and stroke to parkinson’s disease, leveraging vibrations and ultrasound waves. 
+ the five-year, $2 million national science foundation (nsf) project initiated in 2019 already has resulted in several published journal articles that offer promising new methods to focus ultrasound waves through the skull, which could lead to broader use of ultrasound imaging — considered safer and less expensive than magnetic resonance imaging (mri) technology. 
+ specifically, the team is researching a broad range of frequencies, spanning low frequency vibrations (audio frequency range) and moderate frequency guided waves (100 khz to 1 mhz) to high frequencies employed in brain imaging and therapy (in the mhz range). 
+ “we’re coming up with a unique framework that incorporates different research perspectives to address how you use sound and vibration to treat and diagnose brain diseases,” explained 
+ costas arvanitis , an assistant professor in georgia tech’s 
+ george w. woodruff school of mechanical engineering 
+ and the 
+ wallace h. coulter department of biomedical engineering 
+ at georgia tech and emory university. “each researcher is bringing their own expertise to explore how vibrations and waves across a range of frequencies could either extract information from the brain or focus energy on the brain.” 
+ accessing the brain is a tough challenge 
+ while it is possible to treat some tumors and other brain diseases non-invasively if they are near the center of the brain, many other conditions are harder to access, the researchers say. 
+ “the center part of the brain is most accessible; however, even if you are able to target the part of the brain away from the center, you still have to go through the skull,” arvanitis said. 
+ he added that moving just 1 millimeter in the brain constitutes “a huge distance” from a diagnostic perspective. the science community widely acknowledges the brain’s complexity, each part associated with a different function and brain cells differing from one to the other. 
+ according to 
+ brooks lindsey , a biomedical engineering assistant professor at georgia tech and emory, there is a reason why brain imaging or therapy works well in some people but not in others. 
+ “it depends on the individual patient’s skull characteristics,” he said, noting that some people have slightly more trabecular bone —  the spongy, porous part of the bone that makes it more difficult to treat. 
+ using ultrasound waves, the researchers are tackling the challenge on multiple levels. lindsey’s lab uses ultrasound imaging to assess skull properties for effective imaging and therapy. he said his team conducted the first investigation that uses ultrasound imaging to measure the effects of bone microstructure — specifically, the degree of porosity in the inner, trabecular bone layer of the skull. 
+ “by understanding transmission of acoustic waves through microstructure in an individual’s skull, non-invasive ultrasound imaging of the brain and delivery of therapy could be possible in a greater number of people,” he said, explaining one potential application would be to image blood flow in the brain following a stroke. 
+ refocusing ultrasound beams on the fly 
+ arvanitis’ lab recently found a new way to focus ultrasound through the skull and into the brain, which is “100-fold faster than any other method,” arvanitis said. his team’s work in adaptive focusing techniques would allow clinicians to adjust the ultrasound on the fly to focus it better. 
+ “current systems rely a lot on mris, which are big, bulky, and extremely expensive,” he said. “this method lets you adapt and refocus the beam. in the future this could allow us to design less costly, simpler systems, which would make the technology available to a wider population, as well as be able to treat different parts of the brain.” 
+ using ‘guided waves’ to access periphery brain areas 
+ another research cohort, led by 
+ alper erturk , woodruff professor of mechanical engineering at georgia tech, and former georgia tech colleague massimo ruzzene, slade professor of mechanical engineering at the university of colorado boulder, performs high-fidelity modeling of skull bone mechanics along with vibration-based elastic parameter identification. they also leverage guided ultrasonic waves in the skull to expand the treatment envelope in the brain. erturk and ruzzene are mechanical engineers by background, which makes their exploration of vibrations and guided waves in difficult-to-reach brain areas especially fascinating. 
+ erturk noted that guided waves are used in other applications such as aerospace and civil structures for damage detection. “accurate modeling of the complex bone geometry and microstructure, combined with rigorous experiments for parameter identification, is crucial for a fundamental understanding to expand the accessible region of the brain,” he said. 
+ ruzzene compared the brain and skull to the earth’s core and crust, with the cranial guided waves acting as an earthquake. just as geophysicists use earthquake data on the earth’s surface to understand the earth’s core, so are erturk and ruzzene using the guided waves to generate tiny, high frequency “earthquakes” on the external surface of the skull to characterize what comprises the cranial bone. 
+ trying to access the brain periphery via conventional ultrasound poses added risks from the skull heating up. fortunately, advances such as cranial leaky lamb waves increasingly are recognized for transmitting wave energy to that region of the brain. 
+ these cranial guided waves could complement focused ultrasound applications to monitor changes in the cranial bone marrow from health disorders, or to efficiently transmit acoustic signals through the skull barrier, which could help access metastases and treat neurological conditions in currently inaccessible regions of the brain. 
+ ultimately, the four researchers hope their work will make full brain imaging feasible while stimulating new medical imaging and therapy techniques. in addition to transforming diagnosis and treatment of brain diseases, the techniques could better detect traumas and skull-related defects, map the brain function, and enable neurostimulation. researchers also see the potential for uncovering ultrasound-based blood-brain barrier openings for drug delivery for managing and treating diseases such as alzheimer’s. 
+ with this comprehensive research of the skull-brain system, and by understanding the fundamentals of transcranial ultrasound, the team hopes to make it more available to even more diseases and target many parts of the brain. 
+ this work is funded by the national science foundation (cmmi award 1933158 “coupling skull-brain vibroacoustics and ultrasound toward enhanced imaging, diagnosis, and therapy”). 
+ citations: 
+ c. sugino, m. ruzzene, and a. erturk, “experimental and computational investigation of guided waves in a human skull.” (ultrasound in medicine and biology, 2021) 
+ https: / / doi.org / 10.1016 / j.ultrasmedbio.2020.11.019 
+ m. mazzotti, e. kohtanen, a. erturk, and m. ruzzene, “radiation characteristics of cranial leaky lamb waves.” (ieee transactions on ultrasonics, ferroelectrics, and frequency control, 2021) 
+ https: / / doi.org / 10.1109 / tuffc.2021.3057309 
+ s. schoen, c. arvanitis, “heterogeneous angular spectrum method for trans-skull imaging and focusing.” (ieee xplore, 2020) 
+ https: / / ieeexplore.ieee.org / document / 8902167 
+ b. jing, c. arvanitis, b. lindsey, “effect of incidence angle and wave mode conversion on transcranial ultrafast doppler imaging.” (ieee xplore, 2020)    https: / / ieeexplore.ieee.org / document / 9251477 
+ *** 
+ the georgia institute of technology, or 
+ georgia tech , is a top 10 public research university developing leaders who advance technology and improve the human condition. 
+ the institute offers 
+ business, computing, design, engineering, liberal arts, 
+ and 
+ sciences 
+ degrees. its nearly 40,000 students, representing 50 states and 149 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. 
+ as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ writer: 
+ anne wainscott-sargent 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts: 
+ anne wainscott-sargent (404-435-5784) (asargent7@gatech.edu) or tracey reeves (404-660-2929) (tracey.reeves@gatech.edu) 
+ email 
+ asargent7@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

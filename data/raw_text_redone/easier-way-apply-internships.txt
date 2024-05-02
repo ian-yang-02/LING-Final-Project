@@ -1,0 +1,38 @@
+an easier way to apply for internships 
+ internblitz streamlines the internship application process. the invention is up for the inventure prize. 
+ internblitz finds internships for students; automatically fills in their personal contact information and resume; and then sends applicants the extra, company-specific questions. it is similar to the online common app students use to apply for colleges. the invention is one of six competing for the 2017 georgia tech inventure prize. 
+ the inventors are murtaza bambot, an industrial engineering major, and nathan dass, a computer science major. 
+ photo by rob felt. 
+ mar 14, 2017 
+ — atlanta, ga 
+ last year murtaza bambot applied to 125 different companies for internships. he spent about 70 hours filling out applications, and much of it was repetitious – providing his contact information and uploading his resume over and over again. 
+ “i realized if i was having this problem, so were thousands of other college students across the country,” said bambot, an industrial engineering major from duluth, ga. 
+ he teamed up with nathan dass, a computer science major, and together they invented a computer program to streamline the internship application process. 
+ internblitz finds internships for students, automatically fills in their personal contact information and resume, and then sends applicants the extra, company-specific questions. it is similar to the online common app students use to apply for colleges. if internblitz had existed last year, bambot estimates he could have applied for all 125 internships in just one hour. 
+ the invention is one of six competing for the 2017 georgia tech inventure prize. the annual competition awards $35,000 in cash prizes and brings together student innovators from all academic backgrounds to foster creativity, invention and entrepreneurship. 
+ bambot and dass, who are members of alpha kappa psi, started working on the invention in october. 
+ “writing the script for the program wasn’t hard,” said dass, who is from woodbridge, va. “the biggest challenge was getting a high number of good internship jobs so students would want to use our site.” 
+ they pulled applications from different servers and have about 600 openings on the site now. the number is expected to more than double in the fall, during the height of internship application season, the team said. 
+ the site is going through beta testing with roughly 100 students from georgia tech and georgia state university. the service is free for students. 
+ “we don’t want money to be a barrier for jobs,” bambot said. “all college students should have easy and free access to good internships.” 
+ once they have enough students go through the application process they plan to use machine learning to analyze how far applicants got with each internship. 
+ the data could reveal to both students and companies what type of applicant profile is most likely to be selected for a first-round interview. this in turn could allow the internship process to become more efficient for both students and companies, they said. 
+ “we’ll be able to make internship recommendations the same way netflix gives movie recommendations,” dass said. 
+ additional images 
+ related links 
+ georgia tech's inventure prize 
+ contact 
+ laura diamond 
+ media relations 
+ 404-894-6016 
+ @laurardiamond 
+ email 
+ laura.diamond@gatech.edu 
+ additional information 
+ the winning inventure prize team will take home $20,000 and represent georgia tech in the annual acc inventure prize, taking place on campus march 31. 
+ the second-place team earns $10,000. 
+ both first- and second-place finishers will receive free u.s. patent filings. 
+ a $5,000 people’s choice award will go to the fans’ favorite invention. voting will be held online and by text messaging during the finale. 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

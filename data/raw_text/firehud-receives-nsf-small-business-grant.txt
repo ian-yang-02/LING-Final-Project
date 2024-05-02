@@ -1,0 +1,28 @@
+FireHUD Receives NSF Small Business Grant
+The 2016 InVenture Prize winners will use an NSF award to conduct additional research and development on a system to protect first responders.
+A member of the Coweta County Fire Department wears the latest version of the FireHUD device. Georgia Tech graduates started the company to protect first responders.
+Feb 07, 2018
+— Atlanta, GA
+Recent Georgia Tech graduates received a National Science Foundation (NSF) grant to continue working on a device to improve the safety of firefighters.
+Their device,
+FireHUD , received an NSF Small Business Innovation Research ( SBIR ) grant for $224,143 to conduct research and development work on a biometric Internet of Things system for first responders.
+Zack Braun, who graduated in December with a degree in computer engineering, and Tyler Sisk, a fellow December graduate with a degree in electrical engineering, invented FireHUD. The real-time wearable system and heads up display provides biometric and environmental data to firefighters on the job and officials on site. The device measures heart rate, body temperature and external temperatures that can help predict fatigue and prevent injuries.
+FireHUD won the
+2016 InVenture Prize , an annual Georgia Tech innovation competition for undergraduate students. Braun and Sisk also participated in
+CREATE-X , a series of initiatives to enhance and support entrepreneurship programs among Tech students.
+Another Georgia Tech graduate, Joseph Boettcher, also joined the company. All three are working on the device full-time.
+The NSF grant will fund the company for a full year, said Braun, FireHUD CEO. Next month they plan to launch pilot studies with local fire departments and hope to deploy about 25 units.
+Braun said the company has three main goals to accomplish with the NSF award, including the research and development of a rugged wearable system that will monitor the physiology of firefighters in real-time and the development of a machine learning algorithm to identify key markers that will indicate the exertion and stamina levels of first responders in chaotic environments. They will also work to develop a long-range radio system capable of transmission within large urban structures.
+Additional Images
+Related links
+Georgia Tech's InVenture Prize
+CREATE-X
+Contact
+Laura Diamond
+Media Relations  laura.diamond@gatech.edu
+404-660-2927
+Email
+laura.diamond@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,36 @@
+An Improved Tool to Keep Patients, Doctors Safe
+The CauteryGuard is one of the six finalists competing for the 2017 InVenture Prize
+The CauteryGuard is a safer electrocautery device, which is used by doctors, veterinarians and other medical personnel to remove unwanted tissue and to stop bleeding. The CauteryGaurd automatically retracts when not in use, and the inventors said this removes any chance of accidental injury caused by the device during procedures.
+The team won the 2017 Georgia Tech InVenture Prize.
+The inventors are four biomedical engineering majors – Jack Corelli from Philadelphia; Hunter Hatcher from Marietta, Ga.;
+Mar 13, 2017
+— Atlanta, GA
+A medical device used in more than 80 percent of all procedures is getting a much-needed make-over from four biomedical engineering majors.
+Doctors, veterinarians and other other medical personnel use electrocautery devices to remove unwanted tissue and to prevent or stop bleeding. The tool heats to 1200 degrees at the touch of a button and because it remains hot after use, the tip can accidently burn patients or the doctors, said Dev Mandavia, a student in Georgia Tech’s Wallace H. Coulter Department of Biomedical Engineering.  The current design also carries the risk of causing fires because the exposed tip can come into contact with flammable materials, he said.
+The solution: a retractable tip.
+“It’s pretty simple. We designed the tip so it automatically retracts back when it’s not in use and that eliminates the chance of any accidental injuries,” said Mandavia, who is from Duluth, Ga. “The new design allows us to improve safety without compromising usability.”
+The change also earned the invention, CauteryGuard, a spot in the 2017 InVenture Prize finale.
+Six teams are competing in this year’s annual competition, which encourages and supports students’ interest in innovation and entrepreneurship. The winner will be announced Wednesday night.
+CauteryGuard is about the size and weight of a small flashlight. The pieces were 3D printed and it runs on two AA batteries, said Hunter Hatcher, a team member from Marietta, Ga. Hatcher was the lead designer and built much of the device in the BME Machine Shop. He also did some construction in the Invention Studio.
+The team fine-tuned the CauteryGuard design through a class called Idea to Prototype, where students are assisted by faculty mentors and receive some seed money to build prototypes. The course is part of the CREATE-X umbrella, a Georgia Tech initiative to enhance and support entrepreneurship programs for undergraduate students.
+While designing the device, the team surveyed medical professionals. More than 80 percent of the clinicians interviewed had experienced some form of self-inflicted injury from an electrocautery device at least once in the past year, said Devin Li, who is from Corning, N.Y.
+The team is working on more surveys and is talking with doctors at Grady Memorial Hospital and Emory University Hospital as well as some plastic surgeons in California to learn about what improvements they would like to see to electrocautery devices, said Jack Corelli, who is from Philadelphia, Pa.
+Win or lose the InVenture Prize, the team will continue working on CauteryGuard this summer through the CREATE-X Startup Launch program.
+Additional Images
+Related links
+Georgia Tech's InVenture Prize
+Contact
+Laura Diamond
+Media Relations
+404-894-6016
+@LauraRDiamond
+Email
+laura.diamond@gatech.edu
+Additional information
+The winning InVenture Prize team will take home $20,000 and represent Georgia Tech in the annual ACC InVenture Prize, taking place on campus much March 31.
+The second-place team earns $10,000.
+Both first- and second-place finishers will receive free U.S. patent filings by Georgia Tech’s Office of Technology.
+A $5,000 People’s Choice Award will go to the fans’ favorite invention. Voting will be held online and by text messaging during the finale.
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

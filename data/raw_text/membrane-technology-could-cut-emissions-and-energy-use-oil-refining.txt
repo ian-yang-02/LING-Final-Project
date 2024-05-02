@@ -1,0 +1,44 @@
+Membrane Technology Could Cut Emissions and Energy Use in Oil Refining
+New membrane technology could reduce carbon emissions and energy intensity associated with oil refining.
+Georgia Tech graduate research assistants Kirstie Thompson and Ronita Mathias with a sample of a new membrane material that could reduce carbon emissions and energy intensity associated with refining crude oil. (Credit: Christopher Moore, Georgia Tech)
+Jul 16, 2020
+— Atlanta, GA
+New membrane technology developed by a team of researchers from the Georgia Institute of Technology, Imperial College London, and ExxonMobil could help reduce carbon emissions and energy intensity associated with refining crude oil. Laboratory testing suggests that this polymer membrane technology could replace some conventional heat-based distillation processes in the future.
+Fractionation of crude oil mixtures using heat-based distillation is a large-scale, energy-intensive process that accounts for nearly 1% of the world’s energy use: 1,100 terawatt-hours per year (TWh/yr), which is equivalent to the total energy consumed by the state of New York in a year. By substituting the low-energy membranes for certain steps in the distillation process, the new technology might one day allow implementation of a hybrid refining system that could help reduce carbon emissions and energy consumption significantly compared to traditional refining processes.
+“Much in our modern lives comes from oil, so the separation of these molecules makes our modern civilization possible,” said
+M.G. Finn , professor and chair of Georgia Tech’s School of
+Chemistry and Biochemistry . Finn also holds the James A. Carlos Family Chair for Pediatric Technology. “The scale of the separation required to provide the products we use is incredibly large. This membrane technology could make a significant impact on global energy consumption and the resulting emissions of petroleum processing.”
+Reported in the July 17 issue of the journal
+Science , the paper is believed to be the first report of a synthetic membrane specifically designed for the separation of crude oil and crude-oil fractions. Additional research and development will be needed to advance this technology to industrial scale.
+Membrane technology is already widely used in such applications as seawater desalination, but the complexity of petroleum refining has until now limited the use of membranes. To overcome that challenge, the research team developed a novel spirocyclic polymer that was applied to a robust substrate to create membranes able to separate complex hydrocarbon mixtures through the application of pressure rather than heat.
+Membranes separate molecules from mixtures according to differences such as size and shape. When molecules are very close in size, that separation becomes more challenging. Using a well-known process for making bonds between nitrogen and carbon atoms, the polymers were constructed by connecting building blocks having a kinked structure to create disordered materials with built-in void spaces.
+The team was able to balance a variety of factors to create the right combination of solubility – to enable membranes to be formed by simple and scalable processing – and structural rigidity – to allow some small molecules to pass through more easily than others. Unexpectedly, the researchers found that the materials needed a small amount of structural flexibility to improve size discrimination, as well as the ability to be slightly “sticky” toward certain types of molecules that are found abundantly in crude oil.
+After designing the novel polymers and achieving some success with a synthetic gasoline, jet fuel, and diesel fuel mixture, the team decided to try to separate a crude oil sample and discovered that the new membrane was quite effective at recovering gasoline and jet fuel from the complex mixture.
+“We were initially trying to fractionate a mixture of molecules that were too similar,” said Ben McCool, a senior research associate at ExxonMobil and one of the paper’s coauthors. “When we took on a more complex feed, crude oil, we got fractionalization that looked like it could have come from a distillation column, indicating the concept’s great potential.”
+The researchers worked collaboratively, with polymers designed and tested at Georgia Tech, then converted to 200-nanometer-thick films, and incorporated into membrane modules at Imperial using a roll-to-roll process. Samples were then tested at all three organizations, providing multi-lab confirmation of the membrane capabilities.
+“We have the foundational experience of bringing organic solvent nanofiltration, a membrane technology becoming widely used in pharmaceuticals and chemicals industries, to market,” said Andrew Livingston, professor of chemical engineering at Imperial. “We worked extensively with ExxonMobil and Georgia Tech to demonstrate the scalability potential of this technology to the levels required by the petroleum industry.”
+The research team created an innovation pipeline that extends from basic research all the way to technology that can be tested in real-world conditions.
+“We brought together basic science and chemistry, applied membrane fabrication fundamentals, and engineering analysis of how membranes work,” said
+Ryan Lively , associate professor and John H. Woody faculty fellow in Georgia Tech’s
+School of Chemical and Biomolecular Engineering . “We were able to go from milligram-scale powders all the way to prototype membrane modules in commercial form factors that were challenged with real crude oil – it was fantastic to see this innovation pipeline in action.”
+ExxonMobil’s relationship with Georgia Tech goes back nearly 15 years and has produced innovations in other separation technologies, including a new carbon-based molecular sieve membrane that could dramatically reduce the energy required to separate a class of hydrocarbon molecules known as alkyl aromatics.
+“Through collaboration with strong academic institutions like Georgia Tech and Imperial, we are constantly working to develop the lower-emissions energy solutions of the future," said Vijay Swarup, vice president of research and development at ExxonMobil Research and Engineering Company.
+In addition to Finn, Livingston, Lively, and McCool, the paper’s authors include Kirstie Thompson and Ronita Mathias, Georgia Tech graduate students who are co-first authors; Daeok Kim, Jihoon Kim, Irene Bechis, Andrew Tarzia, and Kim Jelfs of Imperial; and Neel Rangnekar, J.R. Johnson, and Scott Hoy of ExxonMobil.
+CITATION : Kirstie Thompson, et al., “N-Aryl Linked Spirocyclic Polymers for Membrane Separations of Complex Hydrocarbon Mixtures” (Science 2020).  https://science.sciencemag.org/content/369/6501/310
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact:
+John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

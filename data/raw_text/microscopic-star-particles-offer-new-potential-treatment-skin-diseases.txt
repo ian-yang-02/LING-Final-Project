@@ -1,0 +1,45 @@
+Microscopic STAR Particles Offer New Potential Treatment for Skin Diseases
+A new therapy using a skin cream infused with microscopic STAR particles and a therapeutic drug could facilitate better treatment of skin diseases.
+STAR particles are mixed into a therapeutic cream or gel and applied to the skin, painlessly creating micropores in the skin’s surface that dramatically – but temporarily – increase skin permeability to drugs. (Credit: Georgia Tech)
+Mar 09, 2020
+— Atlanta, GA
+Skin diseases affect half of the world’s population, but many treatments are not effective, require frequent injections, or cause significant side effects. But what if there was a treatment that eliminated injections, reduced side effects, and increased drug effectiveness? A skin therapy with these properties may be on the horizon from
+Mark Prausnitz’s
+Drug Delivery Lab
+at the Georgia Institute of Technology.
+In a study published on March 9, 2020, in the journal
+Nature Medicine , Prausnitz and his team of researchers report on research using a skin cream infused with microscopic particles, named STAR particles. To the naked eye, STAR particles look like a powder, but closer inspection reveals tiny microneedle projections sticking out from the particles like a microscopic star. A particle-containing cream could potentially facilitate better treatment of skin diseases including psoriasis, warts, and certain types of skin cancer.
+Following the successful study of his microneedle patches for vaccination, Prausnitz and postdoctoral scholar Andrew Tadros have advanced the technology with the objective of treating skin conditions by simply rubbing STAR particles on the skin. In a study in mice, skin cancer tumors were treated with 5-fluorouracil, a cancer therapy drug that works by limiting replication of abnormal cells. Tumor growth was inhibited only when the drug was rubbed on the skin above the tumor in combination with STAR particles, whereas the drug without STAR particles was much less effective.
+“Andrew [Tadros] and I teamed up to adapt the microneedle technology and make it useful, especially in dermatology,” said Prausnitz, Regents Professor and J. Erskine Love Jr. Chair in the Georgia Tech
+School of Chemical and Biomolecular Engineering . “Microneedle patches are good at administering drugs or vaccines to a small area of skin, but many dermatological conditions are spread over larger areas. Rather than trying to make really big patches, which would be difficult to use, we ultimately arrived at STAR particles that can be rubbed on the skin – just like any skin lotion – and poke tiny holes in the skin to better deliver drugs.”
+STAR particles are mixed into a therapeutic cream or gel and applied to the skin, painlessly creating micropores in the skin’s surface that dramatically – but temporarily – increase skin permeability to drugs.
+The problem is that most drugs are not absorbed well into skin, so often a drug needs to be given to the whole body by pill or injection just to treat the skin. Exposing the whole body to dermatological drugs often leads to unwanted side effects such as nausea or organ damage. Fortunately, the barrier layer of skin – called the stratum corneum – is thinner than the width of a human hair. While STAR particles are tiny, they are large enough to poke through this barrier layer when rubbed on the skin and let drugs enter the body through the micropores without pain.
+More effectively delivering medicine directly to where it’s needed could improve treatments for patients dealing with many kinds of skin diseases. Oral methotrexate is a common course of treatment for psoriasis –  a dermatological condition in which skin cells build up and form scales and itchy, dry patches – but because the therapy is systemic, it exposes the whole body to a drug that can cause serious side effects like diarrhea, hair loss, and liver problems.
+Prausnitz said doctors must weigh the costs of exposing the whole body to a drug versus treating psoriasis topically, which may be less effective. That’s where STAR particles could provide value.
+“Based on our studies, you could feasibly combine methotrexate with STAR particles into a cream and localize the therapy where it is needed,” Tadros said. “The STAR particles in the cream would enable drugs to get into skin and treat diseases locally, right where it needs to be treated, and without exposing the whole body to the drug.”
+Skin creams that deliver drug therapies could widen the range of compounds administered topically, Prausnitz and Tadros suggested. Non-medicinal creams infused with STAR particles have been tested on humans, who generally reported experiencing a mild and comfortable tingling sensation, but no pain or skin irritation.
+Each STAR particle is no larger than a millimeter, with sharp and strong microneedle structures protruding from the surface that are 100 to 300 microns long. While the particles are barely perceptible to the human eye, the microneedles on them are not.
+Moreover, when mixed in with a cream, the STAR particles disappear from sight. The research team uses a laser to make the particles from ceramic materials like titanium dioxide, a common ingredient in sunscreens and other cosmetic products.
+“Titanium dioxide is a common material that we have adapted to make STAR particles,” said Prausnitz. “The material is well established, but it’s the star-shaped geometry of the particle that’s new.”
+Prausnitz said he hopes to scale the STAR particles for commercial use not only in dermatology, but for cosmetic purposes as well, where they could potentially deliver anti-aging treatments without injections or other harsh procedures.
+“Our research philosophy is to develop an understanding of biomedical science and engineering technology, and then bring them together to create something that is practical and can benefit patients,” Prausnitz said.
+Prausnitz and Tadros have started a new company called Microstar Biotech that’s working to commercialize the STAR particle technology.
+“Georgia Tech has been instrumental in enabling us to bring this research to the forefront of the medical field, but universities can only do so much,” said Prausnitz. “Commercialization by a company is the mechanism to bring this novel research to the public for their benefit, and I’m hopeful for the future of STAR particles.”
+Results of the study are published in the March issue of the medical journal Nature Medicine. This work was supported financially by the Georgia Research Alliance and as a joint project of the CDC Foundation and UNICEF.
+Prausnitz and Tadros are inventors of the STAR particle technology used in this study and have ownership interest in Microstar Biotech LLC, which is developing technology related to this study. They are entitled to royalties derived from Microstar Biotech’s future sales of products related to the research. These potential conflicts of interest have been disclosed and are overseen by the Georgia Institute of Technology.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : Georgia Parmelee
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

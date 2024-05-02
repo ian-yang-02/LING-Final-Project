@@ -1,0 +1,32 @@
+Did Earth’s Early Rise in Oxygen Support The Evolution of Multicellular Life — or Suppress It?
+A new study is taking the air out of a hypothesis linking early Earth’s oxygenation to larger, more complex organisms. Georgia Tech researchers report a more complex effect
+May 14, 2021
+— Atlanta, GA
+Scientists have long thought that there was a direct connection between the rise in atmospheric oxygen, which started with the  Great Oxygenation Event  2.5 billion years ago, and the rise of large, complex multicellular organisms.
+That theory, the “Oxygen Control Hypothesis,” suggests that the size of these early multicellular organisms was limited by the depth to which oxygen could diffuse into their bodies. The hypothesis makes a simple prediction that has been highly influential within both evolutionary biology and geosciences: Greater atmospheric oxygen should always increase the size to which multicellular organisms can grow.
+It’s a hypothesis that’s proven difficult to test in a lab. Yet a team of Georgia Tech researchers found a way — using directed evolution, synthetic biology, and mathematical modeling — all brought to bear on a simple multicellular lifeform called a ‘ snowflake yeast ’. The results? Significant new information on the correlations between oxygenation of the early Earth and the rise of large multicellular organisms — and it’s all about exactly how much O 2  was available to some of our earliest multicellular ancestors.
+“The positive effect of oxygen on the evolution of multicellularity is entirely dose-dependent — our planet's first oxygenation would have strongly constrained, not promoted, the evolution of multicellular life,” explains  G. Ozan Bozdag , research scientist in the  School of Biological Sciences  and the study’s lead author. “The positive effect of oxygen on multicellular size may only be realized when it reaches high levels.”
+“Oxygen suppression of macroscopic multicellularity”
+is published in the May 14, 2021 edition of the journal
+Nature Communications .  Bozdag’s co-authors on the paper include Georgia Tech researchers  Will Ratcliff , associate professor in the School of Biological Sciences;  Chris Reinhard , associate professor in the  School of Earth and Atmospheric Sciences ;  Rozenn Pineau , Ph.D. student in the School of Biological Sciences and the  Interdisciplinary Graduate Program in Quantitative Biosciences (QBioS) ; along with  Eric Libby , assistant professor at Umea University in Sweden and the  Santa Fe Institute  in New Mexico.
+Directing yeast to evolve in record time
+“We show that the effect of oxygen is more complex than previously imagined. The early rise in global oxygen should in fact strongly  constrain  the evolution of macroscopic multicellularity, rather than selecting for larger and more complex organisms,” notes Ratcliff.
+“People have long believed that the oxygenation of Earth's surface was helpful — some going so far as to say it is a precondition — for the evolution of large, complex multicellular organisms,” he adds. “But nobody has ever tested this directly, because we haven't had a model system that is both able to undergo lots of generations of evolution quickly, and able to grow over the full range of oxygen conditions,” from anaerobic conditions up to modern levels.
+The researchers were able to do that, however, with snowflake yeast, simple multicellular organisms capable of rapid evolutionary change. By varying their growth environment, they evolved snowflake yeast for over 800 generations in the lab with selection for larger size.
+The results surprised Bozdag. “I was astonished to see that multicellular yeast doubled their size very rapidly when they could not use oxygen, while populations that evolved in the moderately oxygenated environment showed no size increase at all,” he says. “This effect is robust — even over much longer timescales.”
+Size — and oxygen levels — matter for multicellular growth
+In the team’s research, “large size easily evolved either when our yeast had no oxygen or plenty of it, but not when oxygen was present at low levels,” Ratcliff says. “We did a lot more work to show that this is actually a totally predictable and understandable outcome of the fact that oxygen, when limiting, acts as a resource — if cells can access it, they get a big metabolic benefit. When oxygen is scarce, it can't diffuse very far into organisms, so there is an evolutionary incentive for multicellular organisms to be small — allowing most of their cells access to oxygen — a constraint that is not there when oxygen simply isn't present, or when there's enough of it around to diffuse more deeply into tissues.”
+Ratcliff says not only does his group’s work challenge the Oxygen Control Hypothesis, it also helps science understand why so little apparent evolutionary innovation was happening in the world of multicellular organisms in the billion years after the Great Oxygenation Event. Ratcliff explains that geologists call this period the “Boring Billion” in Earth’s history — also known as the Dullest Time in Earth's History, and Earth's Middle Ages — a period when oxygen was present in the atmosphere, but at low levels, and multicellular organisms stayed relatively small and simple.
+Bozdag adds another insight into the unique nature of the study. “Previous work examined the interplay between oxygen and multicellular size mainly through the physical principles of gas diffusion,” he says. “While that reasoning is essential, we also need an inclusive consideration of principles of Darwinian evolution when studying the origin of complex multicellular life on our planet.” Finally being able to advance organisms through many generations of evolution helped the researchers accomplish just that, Bozdag adds.
+This work was supported by National Science Foundation grant no. DEB-1845363 to W.C.R, NSF grant no. IOS-1656549 to W.C.R., NSF grant no. IOS-1656849 to E.L., and a Packard Foundation Fellowship for Science and Engineering to W.C.R. C.T.R. and W.C.R. acknowledge funding from the NASA Astrobiology Institute.
+Additional Images
+Contact
+Renay San Miguel
+Communications Officer II/Science Writer
+College of Sciences
+404-894-5209
+Email
+renay.san@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,39 @@
+extending origami into untethered robots and morphing devices 
+ researchers have extended the possibility of origami for modern engineering applications such as untethered robotics and morphing devices. 
+ a team of researchers from the ohio state university and the georgia institute of technology has extended the possibility of origami, the ancient art of paper folding, for modern engineering applications such as untethered robotics and morphing devices. 
+ sep 21, 2020 
+ — atlanta, ga 
+ a team of researchers from the ohio state university and the georgia institute of technology has extended the possibility of origami, the ancient art of paper folding, for modern engineering applications such as untethered robotics and morphing devices. 
+ the researchers demonstrated for the first time a multifunctional, magnetically responsive origami system, possessing distributed, untethered control capabilities. the untethered magnetic actuation separates the power source and controller out of the system, allowing scalable applications. 
+ researchers foresee that this actuation solution can be applied locally and remotely on complex origami assemblies. the actuation strategy enables a myriad of new applications, ranging from morphing robotics and satellites to biomedical devices. 
+ “by distributively integrating the programmed magnetic soft materials into the bi-stable origami assembly, the magnetic actuation provides independent control of the folding and unfolding of each unit cell with instantaneous shape locking, which enables various robotic motion for functions such as tunable physical properties and configurable electronics for digital computing,” said principal investigator ruike (renee) zhao, an assistant professor in the department of mechanical and aerospace engineering at ohio state. 
+ the research, "untethered control of functional origami microrobots with distributed actuation," was reported sept. 14 in the journal 
+ proceedings of the national academy of sciences . the work was sponsored by the national science foundation (nsf). 
+ researchers have explored for decades how to leverage origami folding techniques in advanced engineering applications, such as morphing structures and devices. however, most actuation methods require physical bonds to external stimuli and lead to excessive wiring to provide the driving force for origami folding. 
+ the new, untethered system is free from those rigid and often relatively bulky power sources, allowing faster speed and distributed actuation of the multifunctional structure. 
+ to demonstrate this, researchers constructed a system of magnetic-responsive materials in a cylindrical origami pattern that consists of identical triangular panels known as a kresling pattern. this pattern allows the cylinder’s walls to buckle under axial or torsional load. 
+ “the kresling pattern offers a very rich design space, which was crucial in coupling its mechanical response with magnetically responsive materials to achieve on-demand, untethered actuation, including our multifunctional origami for digital computing,” said 
+ glaucio paulino , professor and raymond allen jones chair in the georgia tech 
+ school of civil and environmental engineering . 
+ by controlling the magnetic field, researchers were able to control the direction, intensity, and speed of the material’s folding and deployment. in the tests, researchers achieved untethered actuation as fast as one tenth of a second with instantaneous shape locking. 
+ next, researchers attached a magnetized plate to each of the kresling unit cells. this allowed them to utilize a two-dimensional magnetic field to actuate the unit cells simultaneously or independently by using different magnetic torques of the plates and distinct geometric-mechanical properties of each unit cell. 
+ “the multi-unit kresling assembly is an origami robot in which the bi-stable folding and unfolding create robotic motion. it can passively sense and actively respond to the external environment. by integrating electronic circuits into the origami robot, it further enables intelligent autonomous robots with integrated actuation, sensing, and decision making,” zhao said. “for example, the external pressure or forces that act on the robot will trigger the passive folding of the robot, indicating the presence of an obstacle. the robot can then actively unfold itself and decide the next move.” 
+ the untethered magnetic control pushes the boundary of the application of origami systems, which could lead to solutions of next-generation biomimetic soft robots and robotic systems for advanced engineering applications. 
+ “we anticipate that the reported magnetic origami system is applicable beyond the bounds of this work, including future origami-inspired robots, morphing mechanisms, biomedical devices, and outer space structures,” paulino said. 
+ this research was supported by prof. zhao’s two recent nsf awards from the mechanics of materials and structures program (nsf award # 1943070, # 1939543) and ohio state’s institute of material research. the authors at georgia tech acknowledge nsf (award # 1538830) and the raymond allen jones chair. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the national science foundation. 
+ - written by the ohio state university 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

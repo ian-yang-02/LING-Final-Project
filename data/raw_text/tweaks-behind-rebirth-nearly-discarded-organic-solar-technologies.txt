@@ -1,0 +1,53 @@
+Tweaks Behind the Rebirth of Nearly Discarded Organic Solar Technologies
+A minuscule chemical tweak is advancing an organic solar technology that was believed unviable.
+Current silicon solar panels - pictured here - are big, stiff, and heavy, but emerging solar technologies like perovskites and non-fullerene acceptor materials could augment or replace them with solutions that are light, flexible, and robust. They could also be much more affordable to produce. Credit: Department of Energy
+Dec 19, 2019
+— Atlanta, GA
+A solar energy material that is remarkably durable and affordable is regrettably also unusable if it barely generates electricity, thus many researchers had abandoned emerging organic solar technologies. But lately, a shift in the underlying chemistry has boosted power output, and
+a new study has revealed
+counterintuitive tweaks making the new chemistry successful.
+The shift is from "fullerene" to "non-fullerene acceptors" (NFAs), terms detailed below, and in photovoltaic electricity generation, the acceptor is a molecule with the potential to be to electrons what a catcher is to a baseball. Corresponding donor molecules “pitch” electrons to acceptor “catchers” to create electric current.
+Highly cited chemist
+Jean-Luc Brédas at the Georgia Institute of Technology has furthered the technology and also led the new study.
+“NFAs are complex beasts and do things that current silicon solar technology does not. You can shape them, make them semi-transparent or colored. But their big potential is in the possibility of fine-tuning how they free up and move electrons to generate electricity,” said Brédas, a
+Regents Professor in Georgia Tech’s School of Chemistry and Biochemistry.
+Gaining on silicon
+In just the last four years, tuning NFA chemistry has boosted organic photovoltaic technology from initially converting only 1% of sunlight into electricity to 18% conversion in recent experiments. By comparison, high-quality silicon solar modules already on the market convert about 20%.
+“Theory says we should be able to reach over 25% conversion with organic NFA-based solar if we can control energy loss by way of the morphology,” said Tonghui Wang, a postdoctoral researcher in Brédas’ lab and first author of the study.
+Morphology, the shapes molecules take in a material, is key to NFA solar technology’s heightened efficiency, but how that works on the molecular level has been a mystery. The new study carefully modeled tiny tweaks to molecular shapes and calculated corresponding energy conversion in a common NFA electron donor/acceptor pairing.
+Improved performance came not from tweaks to the metaphorical hand of the catcher nor from the donor’s pitching hand but from something akin to positions of the catcher’s feet. Some positions better aligned the “body” of the acceptor with that of the electron donor.
+The “feet” were a tiny component, a
+methoxy group , on the acceptor, and two positions out of four possible positions it took boosted the conversion of light into electricity from 6% to 12%. Brédas and Wang
+published their study,
+Organic Solar Cells Based on Non-Fullerene Small Molecule Acceptors: Impact of Substituent Position , on November 20, 2019, in the journal
+Matter . The research was funded by the Office of Naval Research.
+(The donor/acceptor chemical pair was PBDB-T / IT-OM-1, -2, -3, or -4, with -2 and -3 showing superior electricity generation. See the citation at bottom for a complete chemical name.)
+Clunky silicon cells
+Marketable NFA-based solar cells could have many advantages over
+silicon, which requires mining
+quartz gravel, smelting it like iron, purifying it like steel, then cutting and machining it. By contrast, organic solar cells start as inexpensive solvents that can be printed onto surfaces.
+Silicon cells are usually stiff and heavy and weaken with heat and light stress, whereas NFA-based solar cells are light, flexible, and stress-resistant. They also have more complex photoelectric properties. In NFA-based photoactive layers, when photons excite electrons out of the outer orbits of donor molecules, the electrons dance around the
+electron holes  they have created, setting them up for a customized handoff to acceptors.
+“Silicon pops an electron out of orbit when photons excite it past a threshold. It’s on or off; you either get a conduction electron or no conduction electron,” said Brédas, who is also Vasser Woolley Chair in Molecular Design at Georgia Tech. “NFAs are subtler. An electron donor reaches out an electron, and the electron acceptor tugs it away. The ability to adjust morphology makes the electron handoff tunable.”
+Not a fullerene
+Like the name says, non-fullerene acceptors are not
+fullerenes , which are pure carbon molecules with rather uniform and geometric structures of repeating pentagonal or hexagonal elements. Nanotubes, graphene, and soot are examples of fullerenes, which are named after architect Buckminster Fuller, who was famous for designing geodesic domes.
+Fullerenes are more ridged in molecular structure and tunability than non-fullerenes, which are more freely designed to be floppy and bendable. NFA-based donors and acceptors can wrap around each other like precise swirls of chocolate and vanilla batter in a Bundt cake, giving them advantages beyond electron donating and accepting – such as better molecular packing in a material.
+“Another point is how the acceptor molecules are connected to each other so that the accepted electron has a conductive path to an electrode,” Brédas said. “And it goes for the donors, too.”
+As in any solar cell, conduction electrons need a way out of the photovoltaic material into an electrode, and there has to be a return path to the opposite electrode for arriving electrons to fill holes that departing electrons left behind.
+Highly impactful citations
+Brédas’ accolades are numerous, but he has particularly gained attention for his Google Scholar
+h-index score , a calculation of the impact of a researcher’s publications. Breda’s current score of 146 likely places him in the 700 most-impactful published researchers in modern global history.
+He has been a particularly noted leader in photoelectric and semiconductor research based on affordable and practical organic chemistry.
+Also Read:
+The International Space Station tests carbon nanotube organic solar cells
+The research was funded by the Office of Naval Research (award N00014-17-1-2208). Any findings, conclusions, or recommendations are those of the authors and not necessarily of the Naval Office of Research. PBDB-T is an abbreviation for: poly[(2,6-(4,8-bis(5-(2-ethylhexyl)thiophen-2-yl)benzo[1,2- b :4,5- b ′]dithiophen)- co -(1,3-di(5-thiophene-2-yl)-5,7-bis(2-ethylhexyl)benzo[1,2- c :4,5- c ′]dithiophene)-4,8-dione)]
+Senior Science Writer & Media Representative : Ben Brumfield (404-272-2780)
+Email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

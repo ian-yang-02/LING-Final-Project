@@ -1,0 +1,39 @@
+baking and boiling botnets could drive energy market swings and damage 
+ evil armies of internet-connected appliances could be hijacked to slightly manipulate energy demand, potentially driving price swings. 
+ a study presented at black hat usa 2020 suggests that botnets made up of high-wattage devices such as ovens and air conditioners could be used to manipulate electric energy markets. (credit: john toon, georgia tech) 
+ aug 04, 2020 
+ — atlanta, ga 
+ evil armies of internet-connected ev chargers, ovens, hot-water heaters, air-conditioners, and other high-wattage appliances could be hijacked to slightly manipulate energy demand, potentially driving price swings and creating financial damage to deregulated energy markets, warns a new report scheduled to be presented aug. 5 at the black hat usa 2020 conference. 
+ by turning the compromised equipment on or off to artificially increase or decrease power demand, botnets made up of these energy-consuming devices might help an unscrupulous energy supplier or retailer (electric utility) alter prices to create a business advantage, or give a nation-state a way to remotely harm the economy of another country by causing financial damage to its electricity market. if done within the bounds of normal power demand variation, such an attack would be difficult to detect, the researchers said. 
+ “if an attacker can slightly affect electricity market prices in their favor, it would be like knowing today what’s going to happen in tomorrow’s stock market,” said tohid shekari, a graduate research assistant in the 
+ school of electrical and computer engineering 
+ at the georgia institute of technology. “if the manipulation stays within a certain range, it would be stealthy and difficult to differentiate from a typical load forecasting error.” 
+ believed to be the first proposed energy market manipulation cyberattack, the operation would depend on botnets composed of thousands of appliances that could be controlled centrally by attackers who had taken over their internet of things (iot) controllers. malicious actors have already demonstrated iot botnet attacks such as mirai, which used a network of compromised internet-connected cameras and routers to launch attacks on key internet infrastructure. 
+ the attack, dubbed “iot skimmer,” would be made possible by the deregulation of energy markets, which has created a system to efficiently supply electrical power. to meet the demand for electrical energy, utility companies must predict future demand and purchase power from the day-ahead wholesale energy market at competitive prices. if the predictions turn out to be wrong, the utilities may have to pay more or less for the energy they need to meet the demands of their customers by participating in the real-time market, which has more volatile prices in general. creating erroneous demand data to manipulate forecasts could be profitable to the suppliers selling energy to meet the unexpected demand, or the retailers or utilities buying cheaper energy from the real-time market. 
+ the researchers weren’t able to determine whether such an attack might have already taken place because iot devices – beyond being insecure – also lack the kind of monitoring that would be necessary to detect such hijacking. but they used real data sets from two of the largest u.s. energy markets – new york and california – to evaluate the feasibility of their proposed attack. 
+ “we did a lot of simulation and mathematical analysis to show that this kind of transfer could occur,” said 
+ raheem beyah , the motorola foundation professor in the school of electrical and computer engineering who is also georgia tech’s vice president for interdisciplinary research and co-founder of the company fortiphyd logic. “we also did a feasibility analysis of the supporting areas to show that this would be possible from various perspectives.” 
+ the researchers assume that such botnets already exist, and that attackers could simply rent their use on the dark web. more than 20 million smart thermostats already exist in the north american market, and they are connected to at least one high-wattage device – a heating and air-conditioning system that could be controlled by attackers on an intermittent basis. 
+ “if you consider all of the smart thermostats and internet-connected electric ovens, water heaters, and electric vehicle chargers that are already in use, there are plenty of devices to be compromised,” shekari said. “homeowners would likely never notice if the ev charger turns on when electricity demand is highest, or if the air conditioning cools a little more than they expected when they are not home.” 
+ to counter the potential attack, researchers suggest both detection and prevention steps. through integrated monitoring of the normal power use of high-wattage iot-connected devices, unexpected peaks or valleys in power consumption triggered by an attacker could be detected. and access to data on expected energy demand – which is now made available publicly – could be restricted to those who actually need it. 
+ the primary factor that makes this attack possible is the detailed online data sharing of electricity market information, which is usually updated every five minutes. 
+ “this energy demand information is really a data privacy issue, and we need to think long and hard about the balance between transparency and security,” beyah said. “there’s always a tension there, but limiting the amount of detail could make it more difficult for attackers who want to hide their manipulations to know what the normal variations are.” 
+ the potential attack highlights the need for considering cybersecurity threats in technology areas where they had perhaps never been possible before. 
+ “this is an interesting intersection between the iot security world and energy markets,” said beyah. “right now, it seems that there is a large gap between the two worlds. our point is that there are implications for combining iot technology and high-wattage devices that can compromise markets in ways we would never have thought of before.” 
+ the presentation, “iot skimmer: energy market manipulation through high-wattage iot botnets,” will be presented on wednesday, aug. 5, at 2:30 p.m. as part of the black hat usa 2020 conference. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

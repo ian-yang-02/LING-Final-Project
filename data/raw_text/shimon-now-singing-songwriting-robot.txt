@@ -1,0 +1,47 @@
+Shimon: Now a Singing, Songwriting Robot
+The marimba-playing robot Shimon uses deep learning to compose lyrics and melodies with human collaborators and a synthesized voice to sing.
+Along with his new singing and songwriting abilities, Shimon has some new hardware. That includes a mouth, eyes, new eyebrows, and a series of new movements. He also had new hands, allowing him to play the marimba faster than any human can. (Photo Courtesy: Gil Weinberg)
+Feb 25, 2020
+— Atlanta, GA
+He has moves like Jagger (almost). And he’s coming to a music venue near you.
+But he’s not like any performer you’ve ever seen. He’s not even human.
+Shimon, the marimba-playing robot , has learned some new skills: He sings, he dances a little, he writes lyrics, he can even compose some melodies. Now he’s taking them on the road in a concert tour to support
+a new album
+— just like any other musician.
+The new album will have eight to 10 songs Shimon wrote with his creator, Georgia Tech
+Professor Gil Weinberg . It will drop on Spotify later this spring.
+“Shimon has been reborn as a singer-songwriter,” Weinberg said. “Now we collaborate between humans and robots to make songs together.”
+[ Listen to Shimon's first single, "Into Your Mind ]
+Weinberg will start with a theme — say, space — and Shimon will write lyrics around the theme. Weinberg puts them together and composes melodies to fit them. Shimon can also generate some melodies for Weinberg to use as he puts together a song. Then, with a band of human musicians, Shimon will play the songs and sing.
+“I always wanted to write songs, but I just can’t write lyrics. I'm a jazz player,” Weinberg said. “This is the first time that I actually wrote a song, because I had inspiration: I had Shimon writing lyrics for me.”
+Weinberg and his students have trained Shimon on datasets of 50,000 lyrics from jazz, prog rock, and hip-hop. Then Shimon uses deep learning, a class of machine learning algorithms, to generate his own words.
+“There are lots of systems that use deep learning, but lyrics are different,” said Richard Savery, a third-year Ph.D. student who has been working with Shimon over the past year on his songwriting. “The way semantic meaning moves through lyrics is different. Also, rhyme and rhythm are obviously super important for lyrics, but that isn't as present in other text generators. So, we use deep learning to generate lyrics, but it's also combined with semantic knowledge.”
+Savery offered this example of how it might work: “You'll get a word like ‘storm,’ and then it'll generate a whole bunch of related words, like ‘rain.’ It creates a loop of generating lots of material, deciding what's good, and then generating more based on that.”
+When Shimon sings these songs,
+he really does sing , with a unique voice created by collaborators at Pompeu Fabra University in Barcelona. They used machine learning to develop the voice and trained it on hundreds of songs.
+Along with his new skills — all developed in Weinberg’s lab — Shimon has some new hardware, too, that changes how he plays and moves on stage. To be clear, he’s still mostly stationary, but he has a mouth, new eyebrows, and new head movements designed to help convey emotion and interact with his bandmates. He also has new “hands,” that have totally changed how he plays the marimba.
+“Shimon plays much faster — about 25 to 30 hertz at the maximum — and also much more expressively, playing from a soft dynamic range to a strong dynamic range,” said Ph.D. student Ning Yang, who designed all-new motors and hardware for Shimon. “That also allows [Shimon] to do choreography during the music being played.”
+For example, Shimon can count in at the beginning of songs to cue the band, and sometimes he’ll wave his mallets around in time to the music. New brushless DC motors mean he has a much greater range of motion and control of that motion. Yang accomplished that by bringing his engineering knowledge and musical background together to create human-inspired gestures.
+“It's actually a very, very good example at Georgia Tech that we can actually combine tech and arts together to create something that's brand new,” Yang said.
+He worked closely with fellow Ph.D. student Lisa Zahray, who created a new suite of gestures for the robot — including how he uses those new eyebrows.
+“We have to think about his role at each time during the song and what he should be doing,” Zahray said. “We also want to make sure he's interacting with the other musicians around him to give that feel that he's performing with people.”
+That partnership with people is key for Weinberg. Teaching Shimon new skills isn’t about replacing musicians, he said.
+“We will need musicians, and there will be more musicians that will be able to do more and new music because robots will help them, will generate ideas, will help them broaden the way they think about music and play music,” Weinberg said.
+Shimon, Weinberg, and the entire band are building a touring schedule now with the goal of taking their unique blend of robot- and human-created music to more people. Weinberg said he hopes those shows will prove to be more than a novelty act.
+“I think we have reached a level where I expect the audience to just enjoy the music for music’s sake,” Weinberg said. “This is music that humans, by themselves, wouldn't have written. I want the audience to think, ‘There's something unique about this song, and I want to go back and listen to it, even if I don't look at the robot.’”
+Shimon was originally developed with support from the National Science Foundation Cyber-Human Systems program, grants No. 0713269, and 1017169.
+Additional Images
+Related links
+"Into Your Mind" - Shimon's first single
+Gil Weinberg
+Georgia Tech Center for Music Technology
+Connect with Shimon
+Freethink Raps with Shimon
+Contact
+Joshua Stewart
+404.894.6016
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

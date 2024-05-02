@@ -1,0 +1,38 @@
+Helping the Air Force Search for Actionable Intelligence Worldwide
+GTRI researchers are supporting the Air Force Distributed Common Ground System.
+The Air Force Distributed Common Ground System (AF DCGS), also referred to as the AN/GSQ-272 SENTINEL weapon system, is the Air Force’s primary intelligence, surveillance, and reconnaissance (ISR) collection, processing, exploitation, analysis, and dissemination (CPAD) system. (U.S. Air Force photo)
+May 08, 2018
+— Atlanta, GA
+Twenty-four hours a day, seven days a week, analysts huddle around computer screens in U.S. Air Force facilities around the world scanning for information that might require immediate action. These analysts are part of the Air Force Distributed Common Ground System (AF DCGS), which is designed to sift through vast amounts of information for “needles in the haystack” that are critical to national security.
+Researchers at the
+Georgia Tech Research Institute
+(GTRI) are supporting the mission of AF DCGS in a broad range of ways. GTRI is providing expertise from subject matter experts in an array of sensing areas in which GTRI researchers have extensive experience supporting the development and prototyping of new services needed by the Air Force, conducting training and technology transfer activities for DCGS personnel, and providing advice on the information technology that underlies the DCGS to the programmers who maintain and enhance the system.
+By modeling the flow of information through the DCGS, GTRI is helping the Air Force continuously improve the system, boosting efficiency and enhancing its ability to bring together the massive data sets that quickly provide critical information.
+“For the Air Force analysts sitting at these workstations around the clock, we want to make sure they get the information they need as quickly, accurately, and efficiently as possible,” said Molly Gary, a GTRI principal research scientist who has led the project for nearly five years. “We want to help the Air Force improve the fusion of data so the analysts can more quickly get an understanding of what it all means and provide actionable intelligence to the commanders.”
+The DCGS is the primary intelligence, surveillance, and reconnaissance (ISR) platform for the U.S. Air Force. As part of its operation, more than a thousand analysts sift through a broad range of information, including real-time video, geospatial intelligence, intelligence collected by humans in the field, electronic signals, and other sources to create regular reports on what is happening in global trouble spots.
+The Air Force system provides globally-integrated ISR capabilities and feeds into subsystems operated by the Army, Navy, Marine Corps, and other agencies that provide information at the unit level.
+The system is complex, dating back to the 1960s and involving more than two dozen facilities around the world. DCGS has been built by a number of different vendors, contributing to a “stovepipe” system in which analysts on one part of the system do not necessarily have visibility into what analysts in other parts of the system are doing. Other challenges include disparate hardware and software systems, duplicated applications, differing operating systems, redundant software solutions, network security requirements, and a variety of information technology (IT) procedures.
+To address these challenges, the Air Force is adopting an open architecture strategy in which systems are more standardized and the connections between specialized areas are more transparent – with a goal of making the system modular, more efficient and less expensive to operate. As an independent not-for-profit university-based organization, GTRI is helping map out the full system and how it is connected to the flow of data from one part to another – and ultimately provides information useful to warfighters.
+“By going to an open architecture system, the goal is to break down the barriers between different stovepipes to realize more efficiencies,” said Louis Tirino, a GTRI senior research engineer who’s also supporting the project. “We can help leverage a lot of existing and new technologies that are available to break down those barriers to bringing data together. Ultimately, this will help reduce costs for the Air Force and ease the management burden.”
+Regents Researcher Bill Melvin and Principal Research Engineer Alan Nussbaum teamed together and initiated the partnership with AF DCGS. The program is also supported by GEOINT Specialist and Senior Research Engineer Kyle L. Davis, and SIGINT Specialist and Senior Research Associate Clayton Besse. Several of GTRI’s eight laboratories are involved in different portions of the program.
+Over the past six years, GTRI has been engaged in multiple DCGS tasks. Among them was Project Liberty, which developed and deployed a Forward Processing, Exploitation, and Dissemination (FPED) system to analyze real-time, full-motion video, signals intelligence, and other information to provide critical information to field commanders. The system was delivered just eight months after it was proposed.
+GTRI’s support to DCGS builds on earlier work done to improve the capabilities of the Nation’s Multi-Disciplinary Intelligence (Multi-INT) system, which monitors incoming data. GTRI's work in that effort, known as the Multi-INT (MINT) Data Fusion System, helped automate and rapidly transform functions within the intelligence process to maximize the efficiency and effectiveness of analysts working on this task.
+MINT also addressed issues of improving network bandwidth and information processing power to help human analysts stay on top of incoming data by focusing on the most significant information. It used the STINGER Graph tool, developed by GTRI, to assist in identifying relations between data.
+For the GTRI researchers, the DCGS work is rewarding because it supports the people who risk their lives in the field.
+“Ultimately, the entire weapons system is to help the analyst and warfighter do their jobs,” said Tirino. “By breaking down these barriers across the different lanes of incoming information, we can help make the information more readily accessible to the analyst. All of this is here to support the warfighters.”
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

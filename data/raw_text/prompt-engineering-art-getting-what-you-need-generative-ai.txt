@@ -1,0 +1,17 @@
+Prompt Engineering: The Art of Getting What You Need From Generative AI
+An Ivan Allen College communicator went to prompt engineering school with Assistant Professor Yeqing Kong. In this article, she shares what she learned.
+Feb 12, 2024
+If you’ve spent even an hour or two on ChatGPT or another generative AI model, you know that getting it to generate the content you want can be challenging and even downright frustrating.
+Prompt engineering is the process of crafting and refining a specific, detailed prompt — one that will get you the response you need from a generative AI model. This kind of “coding in English” is a complex and tricky process. Fortunately, our faculty at the Ivan Allen College of Liberal Arts at Georgia Tech are engaged in teaching and research in this exciting emerging field.
+I met with Assistant Professor
+Yeqing Kong
+in the School of Literature, Media, and Communication to talk about prompt engineering. She shared three approaches to crafting a prompt that she has collected from leading experts, and invited me to try them out on a prompt.
+Read the full story.
+Contact
+Stephanie N. Kadel
+Ivan Allen College of Liberal Arts
+Email
+stephanie.kadel@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

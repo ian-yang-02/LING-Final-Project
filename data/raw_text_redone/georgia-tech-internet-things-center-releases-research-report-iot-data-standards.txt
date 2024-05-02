@@ -1,0 +1,30 @@
+georgia tech internet of things center releases research report on iot data standards for the smart built environment 
+ georgia tech internet of things research center issues new report on integrated building data standards. 
+ the georgia institute of technology’s center for the development and application of internet of things technologies (cdait) has released a research report titled “foundational research in integrated building - internet of things (iot) data standards.” 
+ sep 10, 2018 
+ — atlanta, ga 
+ the georgia institute of technology’s center for the development and application of internet of things technologies (cdait) has released a research report titled “foundational research in integrated building - internet of things (iot) data standards,” which investigates how to achieve data interoperability in smart building systems applications. it follows the recent related cdait white paper on “driving new modes of iot-facilitated citizen / user engagement” within a smart city context. 
+ in partnership with the cdait iot research working group composed of industry and technological experts from the cdait company members, the research was produced by georgia tech college of design researchers under the supervision of dr. pardis pishdad-bozorgi of the school of building construction and dr. dennis shelden, director of the digital building laboratory (dbl). 
+ “in this report, we propose a strategy and preliminary framework for building level iot semantic models and open data strategies,” said dr. pishdad-bozorgi. “semantic models, which, among other things, attach a fundamental and unambiguous description including spatial context to the data and their interconnection, are critical to fostering data interoperability between building systems,” she added. 
+ the report provides a brief review of the national institute of standards and technology (nist)’s cyber-physical systems (cps) and iot-enabled smart city frameworks as well as building information modeling (bim).  it then delves into building data standards and protocols and advances foundational elements for a data acquisition framework for the smart built environment such as smart buildings, smart communities and smart cities. 
+ “buildings systems often incorporate proprietary networks of sophisticated sensors and actuators in the form of energy systems, security systems, and smart home devices,” said dr. dennis shelden. “it is a tremendous impediment not only to iot interconnectivity but also innovation; articulating a sound strategy for connecting emerging iot data standards with maturing building information standards can fast-track iot adoption and expansion,” he underlined. 
+ the research leveraged georgia tech dbl’s many years of expertise and experience in the development of open building information data exchange standards. dbl faculty and staff are leading members of many of the international organizations creating bim data exchange standards. 
+ “this effort zeroes in on a key iot vertical market, i.e., smart build environment, and offers a comprehensive perspective on organizations and alliances directly involved in the space,” said alain louchez, managing director of cdait. “it paves the way for extending building information standards in support of the iot growth.” 
+ the targeted audience for this report consists of software and telecom engineers; computer scientists; application developers; it architects; smart building solutions architects; system administrators and engineers; architects; as well as business managers and other parties interested in iot technical underpinnings. 
+ the report is available at the 
+ cdait website. 
+ about dbl 
+ the digital building laboratory (dbl) is a research center in the georgia institute of technology (“georgia tech”)’s college of design that pursues technology driven advances in design, construction, and operations of the built environment. the dbl was founded by professor emeritus chuck eastman in 2009 and is led by dennis shelden, an associate professor in the school of architecture. the dbl undertakes and sponsors research and development, maintains a consortium of industry members, and conducts industry advancement workshops, symposia and educational programs. for more information, please visit  dbl.gatech.edu . 
+ about cdait 
+ the center for the development and application of internet of things technologies (cdait, pronounced “sedate’) is a georgia tech global, nonprofit, partner-funded center located in atlanta, ga that fosters interdisciplinary research and education while driving general awareness about the internet of things (iot)’s huge potential and transformational capabilities. cdait aims at efficiently identifying, understanding and solving challenges and problems that may arise along the entire internet of things value chain through six working groups: iot education and training; iot startup ecosystem; iot thought leadership; iot security and privacy; iot standards and management; and iot research.  learn more about cdait at 
+ www.cdait.gatech.edu . 
+ additional images 
+ related links 
+ foundational research in integrated building - internet of things (iot) data st… 
+ contact 
+ lance.wallace@comm.gatech.edu 
+ email 
+ lance.wallace@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,41 @@
+biophysics plays key role in immune system signaling, response 
+ understanding the biophysical cues provided by pathogenic particles may help fine tune vaccines. 
+ understanding the biophysical cues provided by pathogenic particles may help vaccine developers fine tune the signals they already knew were being transmitted by the molecular information presented to the immune system. the research could provide a new tool for vaccine developers, said krishnendu roy, the robert a. milton chair and professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university. (credit: rob felt, georgia tech) 
+ jan 17, 2017 
+ — atlanta, ga 
+ how big you are may be as important as what you look like, at least to immune system cells watching for dangerous bacteria and viruses. 
+ the size of pathogenic particles and the density of the molecular information stored on them provides additional danger signals to the body's immune system and helps guide the resulting immune response, suggests cellular and animal research published this week in the journal 
+ cell reports . understanding these biophysical cues may help vaccine developers fine tune the signals they already knew were being transmitted by the molecular information presented to the immune system. 
+ this research is believed to be the first to demonstrate the role that the biophysical features of molecular signals, known as pathogen associated molecular patterns (pamps), play in generating danger signals in pathogen-recognition receptors (prr) and influence the immunogenic response. pamps are key molecules that dictate how we respond to pathogen infection and are being investigated as vaccine adjuvants to generate potent immune responses. 
+ “with this research, we are providing a new tool for the community to understand how these molecules might work when we get infected by pathogens and how they can be harnessed to enhance or fine tune a vaccine response,” said 
+ krishnendu roy , the robert a. milton chair and professor in the 
+ wallace h. coulter department of biomedical engineering at georgia tech and emory university , and the director of the 
+ center for immunoengineering 
+ at georgia tech. “this provides another tool in a broad toolbox that immunologists can use to make vaccine responses better, or more specific for a particular pathogen.” 
+ the researchers used synthetic pathogen-like particles (plps) to study the activity of cpg, an adjuvant used to stimulate immune system responses in dendritic cells, which are part of the innate immune system in mammals including mice and humans and play a key role in generating our immune responses. vaccine developers have been attempting to use cpg and other adjuvants to create synthetic vaccines that might do a better job of stimulating the body’s immune system to battle infectious diseases, as well as cancer. 
+ because they don’t stimulate the full immune response of traditional vaccines – which are made of dead or attenuated pathogens – the synthetic vaccines haven’t performed as well as needed. the information discovered by roy, graduate student jardin leleux and research scientist pallab pradhan could help improve performance of the synthetic vaccines. 
+ beyond providing an additional danger signal to the cells, the biophysical properties also affected the response of the mice to the simulated pathogen to the point of controlling the kind of immune system cells that were generated. the signaling first affects the innate immune system, which then prompts a more sophisticated response from the adaptive immune system to produce t cells, roy noted. 
+ “our immune system can respond in many different ways,” he said. “it can make antibodies; it can make t cell responses, and there are also differences in the type of antibodies that are made. we discovered that this decision process is influenced by the physical properties of the particles, especially the density and size of pamp presentation, and it’s a gradation that changes the degree of response and the intensity of the response.” 
+ the nuances of the biophysical response may provide a way to fine tune cellular responses to simulated pathogens. in collaboration with emory university, roy’s lab has received funding from the national institute of allergy and infectious diseases (niaid), part of the national institutes of health, to study the possibility of combining adjuvants to provide additional control, though that funding was not part of this project. 
+ while vaccines receive attention for their role in preventing infectious diseases like influenza or measles, they are also being studied for boosting immune system response to cancer, work to which roy’s group is also contributing, including studying vaccines for battling lymphoma and breast cancer. 
+ “we believe this is a platform finding that could have applications in many areas of vaccine research,” roy said. “we have not yet understood all of the ways that cells respond. we know they respond more quickly and respond at a different level, but how that gets connected to type of antibody that is made still requires more research.” 
+ experimentally, the researchers studied the response of mouse dendritic cells as they were exposed to simulated pathogen-like particles of different sizes, and with different densities of pamp information. particles 200 to 300 nanometers in diameter simulated large viruses, while particles between 1 and 2 microns simulated bacteria. by studying the effects of the different particles on the toll-like-receptor-9 (tlr9) response measured in dendritic cells and in the mouse lymph system, they evaluated the biophysical effects. 
+ “there is a major challenge in the vaccine field to improve responses and to make the responses very specific,” roy added. “we have not been able to do that very successfully so far, but this work could provide another tool that we can use to explore these issues.” 
+ this work was partially supported by the georgia tech foundation, the carol ann and david d. flanagan fellowship, and the robert a. milton fellowship. the work was conducted in the center for immunoengineering at georgia tech, which is part of the parker h. petit institute for bioengineering and bioscience. 
+ citation : jardin a. leleux, pallab pradhan, and krishnendu roy, “biophysical attributes of cpg presentation control tlr9 signaling to differentially polarize systemic immune responses, (cell reports, 2017).  http: / / www.cell.com / cell-reports / fulltext / s2211-1247(16)31795-8 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,42 @@
+The Science of Defecation Could Produce Better Medicine for Constipation
+All mammals "go" in the same amount of time, and the new findings could lead to medical advances.
+David Hu is a professor in the George W. Woodruff School of Mechanical Engineering and the School of Biological Sciences.
+Apr 27, 2017
+— Atlanta, GA
+A new study led by researchers in the George W. Woodruff School of Mechanical Engineering finds that all mammals, from humans to elephants to cats, defecate in the same amount of time: about 12 seconds. That’s despite the fact that the length of their rectums can vary widely. For instance, an elephant’s is 10 times the length of a cat’s (40 centimeters vs. four).
+The study suggests that the time is consistent because of mucus. The substance covering the the large intestine is very thin for small animals and much thicker for larger ones. According to the paper, mucus allows feces to move through the intestine “like a sled sliding through a chute.”
+The extra fluid allows larger animals to defecate at higher speeds than smaller animals, even though both use the same amount of pressure to relieve themselves. In other words, defecation might not be possible without this previously unknown mucus layer.
+The research also found that the length of feces is double that of the rectum, which means the rectum and the colon both store feces.
+The study, “ Hydrodynamics of defecation ,” is published in the journal Soft Matter. It covers a topic that hasn’t been heavily researched within the scientific community. Professor
+David Hu
+(also in the School of Biological Sciences) and his mechanical engineering student Patricia Yang are the lead authors.
+Daniel Chu , an assistant professor and colorectal surgeon at the University of Alabama at Birmingham, is one of the co-authors. Georgia Tech spoke with each of them about their findings.
+Why was it important to study defecation?
+David Hu : Talking about, let alone studying, defecation is taboo. But that’s to the detriment of our society because we don’t have a good physical understanding of digestion or defecation.
+After reading the literature, I was convinced that we could make progress in this area. We decided on an approach combining a mathematical model and numerous measurements from the zoo to provide validation to our model.
+The study of the heart began in a similar fashion. Thirty years ago, there was no physics of the cardiovascular system. Now we have computer models personalized to people’s profiles. The same thing could be true for the digestive system.
+One of my goals is to use physics and math to understand things that aren’t studied enough but should be .
+Your lab
+earned a 2015 Ig Nobel Prize for Improbable Research
+for a published paper showing
+all mammals urinate for roughly the same duration of time . In what ways did this additional attention foster new or unexpected connections with industry or the research community? Patricia Yang : That study reached further than I expected. After the paper was published, an association in Spain invited us to present at an international urology conference. The hosts remarked that “it’s difficult that a paper on functional urology is known beyond the specialist field.”
+The study also linked the science community and general audiences. We were asked to create a
+video lesson about the fluid mechanics of urination for MIT’s BLOSSOM program , a video series that teaches math and science lessons to high school students around the world.
+We’ve also started a collaboration with a Japanese urologist to study the duration of urination for humans. This follow-up research will hopefully explain how age and gender affect the function of the urinary system.
+Question: What applications does this study have for the medical community?
+Daniel Chu : As clinicians, I think we underappreciate the role of mucus within the intestinal tract. We know it’s there, but few studies have paid much attention to it. This study demonstrates a physical, and mathematical, reason why it’s there.
+If mucus plays a role in normal physiology of defecation, which this study shows, then abnormalities in mucus may play a role in abnormal physiology. This possibility is intriguing and could expand our current understanding of how gastrointestinal disorders, like constipation or infectious colitis, may occur.
+One line of thinking for why constipation occurs is because the nervous system of the colon is out of sync. That messes up the propulsion process. We often have to treat it with medications, like laxatives and other pro-motility agents, to essentially force the column of stool out of the body. Perhaps people who are constipated don’t have enough mucus for whatever reason. If we think that mucus is playing a role, then could we develop new treatment strategies based on medications, including enemas or oral agents, that more closely resemble mucus? These possibilities would be novel.
+Additional Images
+Related links
+Read More About Why They Chose This Topic
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

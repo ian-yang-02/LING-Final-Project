@@ -1,0 +1,22 @@
+new study shows hybrid learning led to significant reduction in covid-19 spread 
+ as communities continue a shift toward normalcy in the wake of the covid-19 pandemic, georgia tech researchers have helped quantify the effectiveness of school closures on community spread reduction. 
+ apr 27, 2022 
+ — atlanta, ga 
+ as communities continue a shift toward normalcy in the wake of the covid-19 pandemic, researchers in georgia tech’s h. milton stewart school of industrial and systems engineering have helped quantify the effectiveness of one of the most commonly-debated mitigation measures taken across the country. 
+ a new study published in  bmc public health  shows that hybrid learning utilizing alternating school days for children offers a significant reduction in community disease spread. total closure in favor of remote learning, however, offers little additional advantage over that hybrid option. 
+ this research will help decision-makers in the event of another covid-19 outbreak or one from a similar infectious disease. 
+ “early in the pandemic when school closures were becoming the norm, many debated the pros and cons of this measure,” said  pinar keskinocak , the william w. george chair and professor in isye and the principal investigator on the study. “do we get enough benefit to offset the social costs and impacts on education? this research shows that there is a benefit in infection reduction, especially in the absence of effective pharmaceutical interventions, and most of the benefits can be attained with a hybrid approach.” 
+ this study is particularly relevant for the early days of an infectious disease outbreak when policymakers face the difficult decision of enacting school closures in their respective districts. using an agent-based simulation model of covid-19 spread, researchers projected the impact of various school reopening strategies: complete closure, alternating school days where one cohort attended in person twice a week and another cohort on the opposite days, younger children only, and regular (i.e. all students return to in-person learning). 
+ results showed that compared to schools reopening with regular attendance, the percentage of the population infected reduced by 13, 11, 9, and 6 percent with each respective strategy. the conclusions were that some level of closure – younger children only, alternating days, and completely remote – offers significant reduction in community-wide infections. the benefit of complete closure over a hybrid approach, however, was minimal. 
+ the assumption in all cases was that individuals who contracted the virus would remain at home. 
+ “the additional benefit of complete school closure compared to hybrid was relatively small,” keskinocak said. “the implementation of an alternating day model can be challenging but could have public health benefits early in the pandemic or during a new wave, providing social and learning benefits as well.” 
+ other challenges remain that were not investigated in this particular research – costs on families in the event of school closures, learning tradeoffs, properly equipping students for virtual learning, and others. this is just one element of many for policymakers to consider, keskinocak said. 
+ citation: arden baxter, buse eylul oruc, john asplund, pinar keskinocak, nicoleta serban.  evaluating scenarios for school reopening under covid-19 .  bmc public health . march 14, 2022.  https: / / doi.org / 10.1186 / s12889-022-12910-w 
+ additional images 
+ contact 
+ david mitchell 
+ communications manager 
+ david.mitchell@isye.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

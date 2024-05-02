@@ -1,0 +1,46 @@
+four-stroke engine cycle produces hydrogen from methane and captures co2 
+ researchers have developed a modular reactor able to generate hydrogen at lower temperatures than existing processes. 
+ georgia tech professor andrei fedorov (left) and undergraduate research assistant yuzhe peng are shown with the laboratory-scale hydrogen reforming system that produces the green fuel at relatively low temperature in a process that can be scaled up or down to meet specific needs. (credit: candler hobbs, georgia tech) 
+ feb 16, 2017 
+ — atlanta, ga 
+ when is an internal combustion engine not an internal combustion engine? when it’s been transformed into a modular reforming reactor that could make hydrogen available to power fuel cells wherever there’s a natural gas supply available. 
+ by adding a catalyst, a hydrogen separating membrane and carbon dioxide sorbent to the century-old four-stroke engine cycle, researchers have demonstrated a laboratory-scale hydrogen reforming system that produces the green fuel at relatively low temperature in a process that can be scaled up or down to meet specific needs. the process could provide hydrogen at the point of use for residential fuel cells or neighborhood power plants, electricity and power production in natural-gas powered vehicles, fueling of municipal buses or other hydrogen-based vehicles, and supplementing intermittent renewable energy sources such as photovoltaics. 
+ known as the co2 / h2 active membrane piston (champ) reactor, the device operates at temperatures much lower than conventional steam reforming processes, consumes substantially less water and could also operate on other fuels such as methanol or bio-derived feedstock. it also captures and concentrates carbon dioxide emissions, a by-product that now lacks a secondary use – though that could change in the future. 
+ unlike conventional engines that run at thousands of revolutions per minute, the reactor operates at only a few cycles per minute – or more slowly – depending on the reactor scale and required rate of hydrogen production. and there are no spark plugs because there’s no fuel combusted. 
+ “we already have a nationwide natural gas distribution infrastructure, so it’s much better to produce hydrogen at the point of use rather than trying to distribute it,” said 
+ andrei fedorov , a georgia institute of technology professor who’s been working on champ since 2008. “our technology could produce this fuel of choice wherever natural gas is available, which could resolve one of the major challenges with the hydrogen economy.” 
+ a paper published february 9 in the journal 
+ industrial & engineering chemistry research 
+ describes the operating model of the champ process, including a critical step of internally adsorbing carbon dioxide, a byproduct of the methane reforming process, so it can be concentrated and expelled from the reactor for capture, storage or utilization. 
+ other implementations of the system have been reported as thesis work by three georgia tech ph.d. graduates since the project began in 2008. the research was supported by the national science foundation, the department of defense through ndseg fellowships, and the u.s. civilian research & development foundation (crdf global). 
+ key to the reaction process is the variable volume provided by a piston rising and falling in a cylinder. as with a conventional engine, a valve controls the flow of gases into and out of the reactor as the piston moves up and down. the four-stroke system works like this: 
+ natural gas (methane) and steam are drawn into the reaction cylinder through a valve as the piston inside is lowered. the valve closes once the piston reaches the bottom of the cylinder. 
+ the piston rises into the cylinder, compressing the steam and methane as the reactor is heated. once it reaches approximately 400 degrees celsius, catalytic reactions take place inside the reactor, forming hydrogen and carbon dioxide. the hydrogen exits through a selective membrane, and the pressurized carbon dioxide is adsorbed by the sorbent material, which is mixed with the catalyst. 
+ once the hydrogen has exited the reactor and carbon dioxide is tied up in the sorbent, the piston is lowered, reducing the volume (and pressure) in the cylinder. the carbon dioxide is released from the sorbent into the cylinder. 
+ the piston is again moved up into the chamber and the valve opens, expelling the concentrated carbon dioxide and clearing the reactor for the start of a new cycle. 
+ “all of the pieces of the puzzle have come together,” said fedorov, a professor in georgia tech’s 
+ george w. woodruff school of mechanical engineering . “the challenges ahead are primarily economic in nature. our next step would be to build a pilot-scale champ reactor.” 
+ the project was begun to address some of the challenges to the use of hydrogen in fuel cells. most hydrogen used today is produced in a high-temperature reforming process in which methane is combined with steam at about 900 degrees celsius. the industrial-scale process requires as many as three water molecules for every molecule of hydrogen, and the resulting low density gas must be transported to where it will be used. 
+ fedorov’s lab first carried out thermodynamic calculations suggesting that the four-stroke process could be modified to produce hydrogen in relatively small amounts where it would be used. the goals of the research were to create a modular reforming process that could operate at between 400 and 500 degrees celsius, use just two molecules of water for every molecule of methane to produce four hydrogen molecules, be able to scale down to meet the specific needs, and capture the resulting carbon dioxide for potential utilization or sequestration. 
+ “we wanted to completely rethink how we designed reactor systems,” said fedorov. “to gain the kind of efficiency we needed, we realized we’d need to dynamically change the volume of the reactor vessel. we looked at existing mechanical systems that could do this, and realized that this capability could be found in a system that has had more than a century of improvements: the internal combustion engine.” 
+ the champ system could be scaled up or down to produce the hundreds of kilograms of hydrogen per day required for a typical automotive refueling station – or a few kilograms for an individual vehicle or residential fuel cell, fedorov said. the volume and piston speed in the champ reactor can be adjusted to meet hydrogen demands while matching the requirements for the carbon dioxide sorbent regeneration and separation efficiency of the hydrogen membrane. in practical use, multiple reactors would likely be operated together to produce a continuous stream of hydrogen at a desired production level. 
+ “we took the conventional chemical processing plant and created an analog using the magnificent machinery of the internal combustion engine,” fedorov said. “the reactor is scalable and modular, so you could have one module or a hundred of modules depending on how much hydrogen you needed. the processes for reforming fuel, purifying hydrogen and capturing carbon dioxide emission are all combined into one compact system.” 
+ this publication is based on work supported by the national science foundation (nsf) cbet award 0928716, which was funded under the american recovery and reinvestment act of 2009 (public law 111-5), and by award 61220 of the u.s. civilian research & development foundation (crdf global) and by the national science foundation under cooperative agreement oise- 9531011. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of nsf or crdf global. graduate work of david m. anderson, the first author on the paper, was conducted with government support under an award by the dod, air force office of scientific research, national defense science and engineering graduate (ndseg) fellowship, 32 cfr 168a. 
+ citation : david m. anderson, thomas m. yun, peter a. kottke and andrei g. fedorov, “comprehensive analysis of sorption enhanced steam methane reforming in a variable volume membrane reactor,” (industrial & engineering chemistry research, 2017). 
+ http: / / dx.doi.org / 10.1021 / acs.iecr.6b04392 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

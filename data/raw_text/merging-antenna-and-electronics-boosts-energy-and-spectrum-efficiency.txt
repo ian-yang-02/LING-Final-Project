@@ -1,0 +1,41 @@
+Merging Antenna and Electronics Boosts Energy and Spectrum Efficiency
+Co-design of antenna and electronics could lead to improved performance in millimeter wave transmitters.
+Georgia Tech researchers are shown with electronics equipment and antenna setup used to measure far-field radiated output signal from millimeter wave transmitters. Shown are Graduate Research Assistant Huy Thong Nguyen, Graduate Research Assistant Sensen Li, and Assistant Professor Hua Wang. (Credit: Allison Carter, Georgia Tech)
+Jul 05, 2018
+— Atlanta, GA
+By integrating the design of antenna and electronics, researchers have boosted the energy and spectrum efficiency for a new class of millimeter wave transmitters, allowing improved modulation and reduced generation of waste heat. The result could be longer talk time and higher data rates in millimeter wave wireless communication devices for future 5G applications.
+The new co-design technique allows simultaneous optimization of the millimeter wave antennas and electronics. The hybrid devices use conventional materials and integrated circuit (IC) technology, meaning no changes would be required to manufacture and package them. The co-design scheme allows fabrication of multiple transmitters and receivers on the same IC chip or the same package, potentially enabling multiple-input-multiple-output (MIMO) systems as well as boosting data rates and link diversity.
+Researchers from the Georgia Institute of Technology presented their proof-of-concept antenna-based outphasing transmitter on June 11 at the 2018 Radio Frequency Integrated Circuits Symposium (RFIC) in Philadelphia. Their other antenna-electronics co-design work was published at the 2017 and 2018 IEEE International Solid-State Circuits Conference (ISSCC) and multiple peer-reviewed IEEE journals. The Intel Corporation and U.S. Army Research Office sponsored the research.
+“In this proof-of-example, our electronics and antenna were designed so that they can work together to achieve a unique on-antenna outphasing active load modulation capability that significantly enhances the efficiency of the entire transmitter,” said
+Hua Wang , an assistant professor in Georgia Tech’s
+School of Electrical and Computer Engineering . “This system could replace many types of transmitters in wireless mobile devices, base stations and infrastructure links in data centers.”
+Key to the new design is maintaining a high-energy efficiency regardless whether the device is operating at its peak or average output power. The efficiency of most conventional transmitters is high only at the peak power but drops substantially at low power levels, resulting in low efficiency when amplifying complex spectrally efficient modulations. Moreover, conventional transmitters often add the outputs from multiple electronics using lossy power combiner circuits, exacerbating the efficiency degradation.
+“We are combining the output power though a dual-feed loop antenna, and by doing so with our innovation in the antenna and electronics, we can substantially improve the energy efficiency,” said Wang, who is the Demetrius T. Paris Professor in the School of Electrical and Computer Engineering.  “The innovation in this particular design is to merge the antenna and electronics to achieve the so-called outphasing operation that dynamically modulates and optimizes the output voltages and currents of power transistors, so that the millimeter wave transmitter maintains a high energy efficiency both at the peak and average power.”
+Beyond energy efficiency, the co-design also facilitates spectrum efficiency by allowing more complex modulation protocols. That will enable transmission of a higher data rate within the fixed spectrum allocation that poses a significant challenge for 5G systems.
+“Within the same channel bandwidth, the proposed transmitter can transmit six to ten times higher data rate,” Wang said. “Integrating the antenna gives us more degrees of freedom to explore design innovation, something that could not be done before.”
+Sensen Li, a Georgia Tech graduate research assistant who received the Best Student Paper Award at the 2018 RFIC symposium, said the innovation resulted from bringing together two disciplines that have traditionally worked separately.
+“We are merging the technologies of electronics and antennas, bringing these two disciplines together to break through limits,” he said. “These improvements could not be achieved by working on them independently. By taking advantage of this new co-design concept, we can further improve the performance of future wireless transmitters.”
+The new designs have been implemented in 45-nanometer CMOS SOI IC devices and flip-chip packaged on high-frequency laminate boards, where testing has confirmed a minimum two-fold increase in energy efficiency, Wang said.
+The antenna electronics co-design is enabled by exploring the unique nature of multi-feed antennas.
+“An antenna structure with multiple feeds allows us to use multiple electronics to drive the antenna concurrently. Different from conventional single-feed antennas, multi-feed antennas can serve not only as radiating elements, but they can also function as signal processing units that interface among multiple electronic circuits,” Wang explained. “This opens a completely new design paradigm to have different electronic circuits driving the antenna collectively with different but optimized signal conditions, achieving unprecedented energy efficiency, spectral efficiency and reconfigurability.”
+The cross-disciplinary co-design could also facilitate fabrication and operation of multiple transmitters and receivers on the same chip, allowing hundreds or even thousands of elements to work together as a whole system. “In massive MIMO systems, we need to have a lot of transmitters and receivers, so energy efficiency will become even more important,” Wang noted.
+Having large numbers of elements working together becomes more practical at millimeter wave frequencies because the wavelength reduction means elements can be placed closer together to achieve compact systems, he pointed out. These factors could pave the way for new types of beamforming that are essential in future millimeter wave 5G systems.
+Power demands could drive adoption of the technology for battery-powered devices, but Wang says the technology could also be useful for grid-powered systems such as base stations or wireless connections to replace cables in large data centers. In those applications, expanding data rates and reducing cooling needs could make the new devices attractive.
+“Higher energy efficiency also means less energy will be converted to heat that must be removed to satisfy the thermal management,” he said. “In large data centers, even a small reduction in thermal load per device can add up. We hope to simplify the thermal requirements of these electronic devices.”
+In addition to those already mentioned, the research team included Taiyun Chi, Huy Thong Nguyen and Tzu-Yuan Huang, all from Georgia Tech.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) ( jtoon@gatech.edu ).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,41 @@
+Hydrogel Offers Double Punch Against Orthopedic Bone Infections
+Researchers have a developed a hydrogel that both attacks bacteria and encourages bone regrowth.
+Image shows a polymerized hydrogel material that contains both an enzyme that battles bacterial infections and a protein that encourages bone growth. (Photo: Rob Felt, Georgia Tech)
+Jun 21, 2019
+— Atlanta, GA
+Surgery prompted by automobile accidents, combat wounds, cancer treatment and other conditions can lead to bone infections that are difficult to treat and can delay healing until they are resolved. Now, researchers have a developed a double-duty hydrogel that both attacks the bacteria and encourages bone regrowth with a single application containing two active components.
+The injectable hydrogel, which is a network of cross-linked polymer chains, contains the enzyme lysostaphin and the bone-regenerating protein BMP-2. In a new study using a small animal model, researchers at the Georgia Institute of Technology showed significant reduction in an infection caused by
+Staphylococcus aureus
+– a common infection in orthopedic surgery – along with regeneration within large bone defects.
+“Treatment for bone infections now often requires two surgeries to both eliminate the infection and heal the injured bone,” said
+Andrés J. García , executive director of the
+Parker H. Petit Institute for Bioengineering & Bioscience
+at the Georgia Institute of Technology. “Our idea was to develop a bifunctional material that does both things in a single step. That would be better for the patient, cost less and reduce hospitalization time. We have shown that we can engineer the hydrogel to control the delivery and release of both the antimicrobial enzyme and the regenerative protein.”
+The hydrogel-based therapy could be used to treat established bone infections, and as a prophylactic during surgery to prevent infection. The study, funded by the National Institutes of Health, was reported May 17 in the journal
+Science Advances .
+Bone infections today are often treated with systemic antibiotics and surgery to clean the injury. If the infection occurs with implants, they often must be removed. Once the infection is gone, additional surgery may be required to implant proteins that stimulate bone regrowth and restore the implant. And the dead bacteria can prompt a harmful inflammatory reaction.
+García and his collaborators – including first author Christopher Johnson – chose lysostaphin, an enzyme that kills the bacteria by cleaving cell walls without generating inflammation. The enzyme keeps working within the hydrogel after it polymerizes.
+“With this strategy, we can get rid of the bacteria in such a way that the body re-establishes a normal inflammatory environment that allows the bone to heal,” García said. “Use of lysostaphin has been limited by poor stability inside the body, but in the gel, it can maintain stability for at least two weeks. That allows for controlled release over a longer period of time, which is sufficient for what we are trying to do.”
+Beyond treating infections, the new technique might be used to prevent infection during surgery. For instance, if a screw was being inserted to repair an injury, the hydrogel might be applied to the screw threads. The soft gel would not affect the repair.
+The next step in the research would be to repeat the study in large animals, after which clinical trials could be considered if the material proves promising.
+“The mechanisms used to fight off infection depends on the species,” Garcia noted. “That’s why it’s so important to repeat the studies in a large animal after testing in mice or rats. Showing efficacy in a large animal model would be a key step toward human trials.”
+The hydrogel material has been used in the human body before, and is designed to quickly leave the treatment site. “The hydrogel breaks down into small building blocks that are excreted in the urine,” Garcia said. “After several weeks, there is no synthetic material left in the body and it is replaced by normal healing tissue.”
+In addition to those already named, co-authors on the paper included Mary Caitlin P. Sok, Karen E. Martin, Pranav P. Kalelkar, Jeremy D. Caplin, and Edward A. Botchwey.
+This research was supported by the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the NIH under award numbers R01AR062920 and F30AR069472. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
+CITATION : “Lysostaphin and BMP-2 co-delivery reduces S. aureus infection and regenerates critical-sized segmental bone defects,” (Science Advances 2019). http://dx.doi.org/10.1126/sciadv.aaw1228
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

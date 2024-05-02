@@ -1,0 +1,36 @@
+addressing environmental challenges with big data and artificial intelligence 
+ nsf funding to link technologies from georgia tech, smithsonian and ibm to study environment. 
+ images from the encyclopedia of life. photo credits: robertpollai, cc-by; a. fifis / ifremer, cc-by-nc; kevin raskoff && mpc, cc-by-nc-sa; sean mccann, cc-by-nc-sa; nick hobgood, cc-by-nc 
+ sep 28, 2016 
+ — atlanta, ga 
+ soon scientists and the public will have the chance to easily test hypotheses about america’s ecological challenges with the help of an ensemble of technologies, including artificial intelligence. researchers at georgia institute of technology will link their technology for systems thinking with ibm watson and the encyclopedia of life at the smithsonian. scientists will then be able to use the information to create their own models about the environment and efficiently test them. 
+ the project is one of 
+ 10 “big data spokes” announced by the national science foundation (nsf) . the nsf’s $10 million initiative was created to improve the ability to solve the nation’s most pressing challenges with the use of big data. the georgia tech, smithsonian and ibm “spoke” will receive $1 million from nsf. ibm will also provide in-kind gifts. overall, the project engages 24 researchers from 14 institutions from academia, industry, government and non-profit organizations. 
+ “environmental sustainability is a growing concern for our country. scientists and citizens needbetter tools and data to rapidly build and test conceptual models of ecological phenomena,” said ashok goel, a georgia tech professor who is the principal investigator of the collaboration. “we want to empower them.” 
+ the encyclopedia of life (eol), headquartered at the smithsonian institution, is an online, open-access database that gathers information about all biological species on earth. 
+ “modelers tell us that predicting an ecosystem's response to global changes requires knowledge of things like the mass of an algal cell, the lifespan of a copepod and the ecological partners of a reef-building coral,” said bob corrigan, eol’s director of operations. “eol is surfacing, structuring and sharing hundreds of years of careful measurements by generations of biologists. combining these assets with the capabilities of georgia tech and ibm will give scientists and students alike the ability to model and study our biosphere at scales that have not been possible before.” 
+ as part of the spoke project, watson developer cloud’s language and vision services will be trained to deeply understand the specialized ecology domain represented in the eol webpages and images. 
+ “unlocking all of this unstructured information from the smithsonian’s encyclopedia of life, bringing it into the context of other relevant structured knowledge, and making it available for further human and machine reasoning holds tremendous potential,” said lisa amini, director, cognitive computing: knowledge and reasoning at ibm research. “the possibilities are endless.” 
+ users will then take that information and plug it into georgia tech’s modeling & inquiry learning application (mila) system. the interactive tool allows scientists to rapidly generate conceptual models, evaluates them through simulation and provides results. 
+ the nsf grant will allow the team to seamlessly link eol, watson and mila. the goal is to build a working system that enables ecological modeling by early 2018. 
+ “you can have all the information in the world, but if you can’t easily find the knowledge, you can’t build a model,” said goel. “and if you can’t build a good model, the information is useless. our project uses artificial intelligence to address these concerns.” 
+ the big data spokes program is supported and organized by the nsf’s big data regional innovation hubs (bd hubs). the four hubs (south, northeast, midwest and west) foster multi-sector collaborations among academia, industry and government. georgia tech co-leads the south hub with the university of north carolina. 
+ "the big data spokes advance the goals and regional priorities of each bd hub, fusing the strengths of a range of institutions and investigators and applying them to problems that affect the communities and populations within their regions," said jim kurose, assistant director of nsf for computer and information science and engineering. “we are pleased to be making this substantial investment today to accelerate the nation’s big data r&d innovation ecosystem.” 
+ two other spoke awards have ties to georgia tech. santiago grijalva, georgia power distinguished professor in the 
+ school of electrical and computer engineering , will study smart grids using big data with texas a&m. gari clifford, an emory university associate professor with a joint appointment in the 
+ wallace h. coulter department of biomedical engineering , will investigate how to use data from fitness trackers and environmental monitors to improve patient care. 
+ “georgia tech’s inclusion in these awards is reflective of the institute’s unique breadth and depth of expertise that spans all areas of data science and data-driven discovery,” said srinivas aluru, co-executive director of georgia tech’s 
+ institute for data engineering and science 
+ and principal investigator of the 
+ south big data hub . 
+ additional images 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

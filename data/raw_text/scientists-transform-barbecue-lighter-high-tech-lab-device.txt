@@ -1,0 +1,44 @@
+Scientists Transform Barbecue Lighter Into a High-Tech Lab Device
+Researchers have devised an inexpensive technique for building a laboratory device known as an electroporator.
+Georgia Tech undergraduate student Gaurav Byagathvalli and Assistant Professor Saad Bhamla with examples of the inexpensive ElectroPen – an electroporator device useful in life sciences research. (Credit: Christopher Moore, Georgia Tech)
+Jan 11, 2020
+— Atlanta, GA
+Researchers have devised a straightforward technique for building a laboratory device known as an electroporator – which applies a jolt of electricity to temporarily open cell walls – from inexpensive components, including a piezoelectric crystal taken from a butane lighter.
+Plans for the device, known as the ElectroPen, are being made available, along with the files necessary for creating a 3D-printed casing.
+“Our goal with the ElectroPen was to make it possible for high schools, budget-conscious laboratories, and even those working in remote locations without access to electricity to perform experiments or processes involving electroporation,” said
+M. Saad Bhamla , an assistant professor in Georgia Tech’s
+School of Chemical and Biomolecular Engineering . “This is another example of looking for ways to bypass economic limitations to advance scientific research by putting this capability into the hands of many more scientists and aspiring scientists.”
+In a study reported January 10 in the journal
+PLOS Biology
+and sponsored by the National Science Foundation and the National Institutes of Health, the researchers detail the method for constructing the ElectroPen, which is capable of generating short bursts of more than 2,000 volts needed for a wide range of laboratory tasks.
+One of the primary jobs of a cell membrane is to serve as a protective border, sheltering the inner workings of a living cell from the outside environment.
+But all it takes is a brief jolt of electricity for that membrane to temporarily open and allow foreign molecules to flow in — a process called electroporation, which has been used for decades in molecular biology labs for tasks ranging from bacterial detection to genetic engineering.
+Despite how commonplace the practice has become, the high cost of electroporators and their reliance on a source of electricity have kept the technique mostly within the confines of academic or professional labs. Bhamla and undergraduate student Gaurav Byagathvalli set out to change that, with help from collaborators Soham Sinha, Yan Zhang, Assistant Professor Mark Styczynski, and Lambert High School teacher Janet Standeven.
+"Once we decided to tackle this issue, we began to explore the inner workings of electroporators to understand why they are so bulky and expensive,” said Byagathvalli. “Since their conception in the early 1980s, electroporators have not had significant changes in design, sparking the question of whether we could achieve the same output at a fraction of the cost. When we identified a lighter that could produce these high voltages through piezoelectricity, we were excited to uncover new mysteries behind this common tool."
+In addition to the piezoelectric lighter crystal – which generates current when pressure is applied to it – the other parts in the device include copper-plated wire, heat-shrinking wire insulator, and aluminum tape. To hold it all together, the researchers designed a 3D-printed casing that also serves as its activator. With all the parts on hand, the device can be assembled in 15 minutes, the researchers reported.
+While the ElectroPen is not designed to replace a lab-grade electroporator, which costs thousands of dollars and is capable of processing a broad range of cell mixtures, the device is still highly capable of performing tasks when high volumes are not required.
+The researchers tested several different lighter crystals to find ones that produced a consistent voltage using a spring-based mechanism. To understand more about how the lighters function, the team used a high-speed camera at 1,057 frames per second to view device mechanics in slow motion.
+“One of the fundamental reasons this device works is that the piezoelectric crystal produces a consistently high voltage, independent of the amount of force applied by the user,” Bhamla said. “Our experiments showed that the hammer in these lighters is able to achieve acceleration of 3,000 G’s, which explains why it is capable of generating such a high burst of voltage.”
+To test its capabilities, the researchers used the device on samples of E. coli to add a chemical that makes the bacterial cells fluorescent under special lights, illuminating the cell parts and making them easier to identify. Similar techniques could be used in a lab or in remote field operations to detect the presence of bacteria or other cells.
+The team also evaluated whether the device was easy to use, shipping the assembled ElectroPens to students at other universities and high schools.
+“The research teams were able to successfully obtain the same fluorescence expression, which I think validates how easily these devices can be disseminated and adopted by students across the globe,” Bhamla said.
+To that end, the researchers have made available the plans for how to build the device, along with digital files to be used by a 3D printer to fabricate the casing and actuator. Next steps of the research include testing a broader range of lighters looking for consistent voltages across a wider range, with the goal of creating ElectroPens of varying voltages.
+This research was supported by the National Science Foundation (NSF) under grant No. 1817334, the Mindlin Foundation under grant No. MF19-1T1P03, and the National Institutes of Health (NIH) under grant No. R01-EB022592. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations.
+CITATION : Gaurav Byagathvalli, Soham Sinha, Yan Zhang, Mark P. Styczynski, Janet Standeven, and M. Saad Bhamla, “ElectroPen: An ultralow-cost electricity-free, portable electroporator.” ( PLOS Biology , January 2020)
+https://doi.org/10.1371/journal.pbio.3000589
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : Josh Brown
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

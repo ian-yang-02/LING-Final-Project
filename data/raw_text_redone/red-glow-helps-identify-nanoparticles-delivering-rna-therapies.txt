@@ -1,0 +1,42 @@
+red glow helps identify nanoparticles for delivering rna therapies 
+ a new screening process could dramatically accelerate the identification of nanoparticles suitable for delivering therapeutic rna into living cells. 
+ james dahlman, an assistant professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university, holds a microfluidic chip used to fabricate nanoparticles that could be used to deliver therapeutic genes. (credit: rob felt, georgia tech) 
+ oct 01, 2018 
+ — atlanta, ga 
+ a new screening process could dramatically accelerate the identification of nanoparticles suitable for delivering therapeutic rna into living cells. the technique would allow researchers to screen hundreds of nanoparticles at a time, identifying the organs in which they accumulate – and verifying that they can successfully deliver an rna cargo into living cells. 
+ based on work known as “dna barcoding,” the technique inserts unique snippets of dna into as many as 150 different nanoparticles for simultaneous testing. the nanoparticles are then injected into animal models and allowed to travel to organs such as the liver, spleen or lungs. genetic sequencing techniques then identify which dna-labeled nanoparticles have reached specific organs. 
+ in a paper published october 1 in the journal 
+ proceedings of the national academy of sciences , a research team describes taking the process a step farther to verify that the nanoparticles have entered the cells of the specific organs. in addition to the dna barcode, the researchers inserted into each nanoparticle a snippet of mrna that is turned into a protein known as “cre.” the cre protein generates a red glow, identifying cells that the nanoparticles have entered and successfully delivered the mrna drug, allowing the researchers to identify which nanoparticles can deliver rna drugs to the cells of the specific organs. 
+ “this technique, known as fast indication of nanoparticle discovery (find), will allow us to identify the right carrier far more quickly and less expensively than we have been able to do in the past,” said 
+ james e. dahlman , assistant professor in the 
+ wallace h. coulter department of biomedical engineering at georgia tech and emory university . “as a result, the odds that we will be able to find carriers for specific tissues should increase dramatically.” 
+ the find technique would replace in vitro screening, which has limited success at identifying nanoparticle carriers for the genetic therapies. the research was supported by funding from the national institutes of health, and from the cystic fibrosis research foundation, the parkinson’s disease foundation and the bayer hemophilia awards program. 
+ therapies based on rna and dna could address a broad range of genetically based diseases, including atherosclerosis, where such therapies may be able to reverse the buildup of plaque in arteries. nanoparticles used to deliver rna and dna into cells are made from several ingredients whose levels can be varied, creating the potential for tens of thousands of different nanoparticles. finding the right combination of these ingredients to target specific cells has required extensive trial-and-error discovery processes that have limited the use of rna and dna therapies. 
+ use of the dna barcoding process allows hundreds of possible nanoparticle combinations to be tested simultaneously in a single animal, but until now, researchers could only tell that the combination had reached specific organs. by examining which cells within the organs have the red glow, they can now verify that the nanoparticles carried the barcodes and delivered functional mrna drugs into the cells. 
+ in the paper, the researchers report discovering two nanoparticles that efficiently delivered sirna, sgrna and mrna to endothelial cells in the spleen. the researchers believe their technique can deliver therapeutic rna and dna to a wide variety of endothelial cell types, and perhaps also to immune system and other cell types. 
+ “the field has been able to functionally deliver genetic drugs to the liver, and we are now trying to use our technology to deliver to different organs and cell types to enable therapies to treat all of the cell types that are in the liver,” said cory sago, the paper’s first author and a ph.d. candidate in dahlman’s lab. “now that we have a system that allows us to probe these questions at a very specific level of resolution, we now want to go after other cell types in a more efficient manner.” 
+ dahlman expects to put the new technology to use quickly. 
+ “we hope to take projects that would ordinarily require years and complete several of them within the next 12 months,” he said. “find could be used to carry all sorts of nucleic acid drugs into cells. that could include small rnas, large rnas, small dnas and large dnas – many different types of genetic drugs that are now being developed in research labs.” 
+ technical challenges ahead include demonstrating that identifying an affinity for mouse organs predicts which particles will work in the human body, and that the approach works for different classes of genetic therapies. 
+ experimentally, dahlman’s lab produces the nanoparticles at three formulation stations that require about 90 seconds to produce each of the 250 or so samples used. the resulting nanoparticles are then examined for proper size range – 40 to 80 nanometers in diameter – before being purified and sterilized for injection into the animals. 
+ after three days, the researchers separate cells that are glowing red and sequence the dna snippets in them to identify which chemical compositions were most successful at entering cells of specific organs. the most promising chemical compositions are used to develop of a new batch of candidate nanoparticles for a new round of screening, which takes about a week to complete. 
+ “we want to evolve the best particles that we can,” sago said. “every single one of the components matters, and we work to get each component right for the cell type that we are interested in. there is a lot of optimization required.” 
+ in addition to those already mentioned, the paper’s co-authors include melissa p. lokugamage, kalina paunovska, daryll a. vanover, marielena gamboa castro, shannon e. anderson, tobi g. rudoltz, gwyneth n. lando, pooja tiwari, jonathan l. kirschman and philip j. santangelo, all of the coulter department of biomedical engineering; chris m. monaco, young jang and nirav n. shah of the georgia tech school of biological sciences; nick willett of emory university and the atlanta veteran’s affairs medical center, and anton v. bryksin of the parker h. petit institute for bioengineering and bioscience at georgia tech. 
+ the research was supported by the nih / nigms-sponsored immunoengineering training program (t32eb021962), the georgia research assistantship (grant 3201330), the nih / nigms-sponsored cell and tissue engineering (cteng) biotechnology training program (t32gm008433), the national institutes of health gt biomat training grant (5t32eb006343), the cystic fibrosis research foundation (dahlma15xx0), the parkinson’s disease foundation (pdf-jfa-1860), and the bayer hemophilia awards program (age dtd). this content is solely the responsibility of the authors and does not necessarily represent the official views of the sponsors. 
+ citation : cory d. sago, et al., “a high throughput in vivo screen of functional mrna delivery identifies nanoparticles for endothelial cell gene editing,” (proceedings of the national academy of sciences, 2018) www.pnas.org / cgi / doi / 10.1073 / pnas.1811276115 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). writer: 
+ john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

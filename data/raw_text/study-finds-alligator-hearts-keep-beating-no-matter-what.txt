@@ -1,0 +1,43 @@
+Study Finds Alligator Hearts Keep Beating No Matter What
+Both humans and alligators share a common four-chamber heart structure, but unlike mammals, alligators have built-in antiarrhythmic protection.
+Both humans and alligators have four-chamber hearts, but alligator hearts are uniquely resilient to temperature extremes. (Photo credit: Z. Owerkowicz)
+Feb 15, 2021
+— Atlanta, GA
+Mammals and cold-blooded alligators share a common four-chamber heart structure – unique among reptiles – but that’s where the similarities end. Unlike humans and other mammals, whose hearts can fibrillate under stress, alligators have built-in antiarrhythmic protection. The findings from new research were reported Jan. 27 in the journal Integrative
+Organismal Biology .
+“Alligator hearts don’t fibrillate – no matter what we do. They’re very resilient,” said
+Flavio Fenton , a professor in the
+School of Physics
+at the Georgia Institute of Technology, researcher in the Petit Institute for Bioengineering and Bioscience, and the report’s corresponding author. Fibrillation is one of the most dangerous arrhythmias, leading to blood clots and stroke when occurring in the atria and to death within minutes when it happens in the ventricles.
+The study looked at the action potential wavelengths of rabbit and young alligator hearts. Both species have four-chambered hearts of similar size (about  3 cm); however, while rabbits maintain a constant heart temperature of 38 degrees Celsius, the body temperature of active, wild alligators ranges from 10 to 37 degrees Celsius. Heart pumping is controlled by an electrical wave that tells the muscle cells to contract. An electrical signal drives this wave, which must occur in the same pattern to keep blood pumping normally. In a deadly arrhythmia, this electrical signal is no longer coherent.
+“An arrhythmia can happen for many reasons, including temperature dropping. For example, if someone falls into cold water and gets hypothermia, very often this person will develop an arrythmia and then drown,” Fenton said.
+During the study, the researchers recorded changes in the heart wave patterns at 38 C and 23 C. “The excitation wave in the rabbit heart reduced by more than half during temperature extremes while the alligator heart showed changes of only about 10% at most,” said Conner Herndon, a co-author and a graduate research assistant in the School of Physics. “We found that when the spatial wavelength reaches the size of the heart, the rabbit can undergo spontaneous fibrillation, but the alligator would always maintain this wavelength within a safe regime,” he added.
+While alligators can function over a large temperature range without risk of heart trauma, their built-in safeguard has a drawback: it limits their maximum heart rate, making them unable to expend extra energy in an emergency. Rabbits and other warm-blooded mammals, on the other hand, can accommodate higher heart rates necessary to sustain an active, endothermic metabolism but they face increased risk of cardiac arrhythmia and critical vulnerability to temperature changes.
+The physicists from Georgia Tech collaborated with two biologists on the study, including former Georgia Tech postdoctoral fellow Henry Astley, now assistant professor in the Biomimicry Research and Innovation Center at the University of Akron’s Department of Biology.
+“I was a little surprised by how massive the difference was – the sheer resilience of the crocodilian heart and the fragility of the rabbit heart. I had not expected the rabbit heart to come apart at the seams as easily as it did,” noted Astley.
+Lower temperatures are one cause of cardiac electrophysiological arrhythmias, where fast-rotating electrical waves can cause the heart to beat faster and faster, leading to compromised cardiac function and potentially sudden cardiac death. Lowering  the temperature of the body – frequently done for patients before certain surgeries – also can induce an arrhythmia.
+The researchers agree that this study could help better understand how the heart works and what can cause a deadly arrhythmia – which fundamentally happens when the heart doesn’t pump blood correctly any longer.
+The authors also consider the research a promising step toward better understanding of heart electrophysiology and how to help minimize fibrillation risk. Until December 2020, when Covid-19 took the top spot, heart disease was the leading cause of death in the United States and in most industrialized countries, with more people dying of heart disease than the next two causes of death combined.
+Astley said the research provides a deeper understanding of the natural world and insight into the different coping mechanisms of cold- and warm-blooded animals.
+Co-author Tomasz Owerkowicz, associate  professor in the Department of Biology at California State University, San Bernardino, considers the findings “another piece of the puzzle that helps us realize how really cool non-human animals are and how many different tricks they have up their sleeves.”
+He expressed hope that more researchers will follow their example and use a non-traditional animal model in future research.
+“Everyone studies mammals, fruit flies, and zebrafish. There's such a huge wealth of resources among the wild animals that have not been brought to the laboratory setting that have such neat physiologies, that are waiting to be uncovered. All we have to do is look,” he said.
+CITATION : C. Herndon, et al., “Defibrillate you Later, Alligator; Q10 Scaling and Refractoriness Keeps Alligators from Fibrillation.” ( Integrative Organismal Biology , 2021)
+https://academic.oup.com/iob/advance-article/doi/10.1093/iob/obaa047/6120966?login=true .
+Research News Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts:
+Anne Wainscott-Sargent (404-435-5784) (asargent7@gatech.edu) John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer:
+Anne Wainscott-Sargent
+Additional Images
+Contact
+Anne Wainscott-Sargent
+Research News
+(404) 435-5784
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

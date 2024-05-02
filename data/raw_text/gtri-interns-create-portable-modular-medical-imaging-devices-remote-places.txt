@@ -1,0 +1,36 @@
+GTRI Interns Create Portable, Modular Medical Imaging Devices for Remote Places
+Students used a 3D printer and magnets to build an expandable prototype device.
+Aaron Metyko, right, demonstrates the use of a portable, modular medical imaging device as Boluwaji Omodele, Farouk Marhaba, and Chloe Collins watch. They created the 3D-printed device to be easily created and used in remote places as part of their internship at the Georgia Tech Research Institute. (Photo: Branden Camp)
+Oct 03, 2019
+— Atlanta, GA
+Using a 3D printer and a few simple components that snap together with magnets, a group of Georgia Tech students has created a small prototype device that can replace multiple biomedical imaging systems.
+Their goal was to create a transformable setup that could be used in remote parts of the world, such as military forward operating bases or developing countries, where resources and infrastructure are scarce.
+So far, they’ve made a simple microscope in one configuration and a retinal camera in another. But the idea is to design and print other modular components so the same basic structure could be assembled into a spectrometer, a chemical sensor, or anything else engineers could dream up.
+“Instead of hauling in a microscope and a camera to see into your eye and a spectrometer to check your blood, maybe we could take the raw materials, which you can pack in a small box, and then build what you need as the need arises,” said Jack Wood, who worked with the students and is a senior research scientist at the Georgia Tech Research Institute, or GTRI.
+Wood said the students ran with a seed of an idea that has been floating around GTRI’s
+Electro-Optical Systems Laboratory
+— as he put it: “Can we quickly create biomedical optical systems to accomplish some important goals using limited infrastructure?”
+According to Chloe Collins, a fourth-year biomedical engineering student from Bellevue, Washington: “We basically started from scratch. We didn’t really have a basis or instructions for what to do like we would have in a class. But our mentor, Jack, was very good at giving us some fundamental ideas that we could work off of [and] teaching us about the optics that we needed to know.”
+Collins worked on the project with computer science major Farouk Marhaba from Bridgewater, New Jersey; fellow biomedical engineering student Aaron Metyko from Galveston, Texas; and chemical and biomolecular engineering student Boluwaji Omodele from Buford, Georgia. They were part of a two-year-old internship program at GTRI that brings in undergraduates to get a taste of real-world, applied research.
+Other groups in the program worked on projects such as automatically classifying malware using neural networks or using LiDAR scans of water depths to create visualizations of the seabed. One team worked on a project developing an artificial “predator” to help control invasive marine species, like lionfish in parts of the Atlantic Ocean.
+“A big part of the internship program is giving students the opportunity to work on their own and figure things out as they go and also learning how research works,” said Emily Farmer, a mechanical engineering student from Clarkesville, Georgia, who worked on a digital signal processing project. “It’s not so much your typical internship where you go in and sit at a computer all day and do whatever they tell you to do. It’s more so learning about how research works and figuring out how you can apply that to your academics.”
+Wood said his team did exactly that — exploring research, probing for answers and driving their ultimate design.
+“I found myself having to apologize, because they're used to having a professor know what he's doing, knowing the end result, and then mentoring them through a process,” he said. “This was something brand new for us, so in one sense, it was exciting — they got to explore and help define the path. By the same token, that path wandered a little bit.”
+The team Wood mentored ultimately followed the path to a simple microscope and retinal camera because that’s where they identified needs they could meet.
+“A big issue [for the military] is retinal detachment along with macular degeneration. The best way to find out about retinal detachment is to have a retinal camera, a fundus camera,” Omodele said. “We also thought about things like malaria in developing countries and how could we pick out the malaria pathogens? The fastest way we can do that is with a microscope. So we thought, why not create a microscope and a fundus camera, because these two things pretty much have the same function.”
+Wood said the goal of the project was to develop a proof of concept that researchers at GTRI could further develop and then pursue outside funding. That could expand the potential applications of the device into other kinds of sensors — maybe to measure heart rate or oxygen levels in blood — or for non-medical uses built on the same infrastructure.
+There also was a team working on complementary software to automate the design process for the imaging device. Users without technical backgrounds could enter the kinds of functions they need, and the software would design device components.
+All of that will take more work, but Wood said he’s optimistic about the foundation the students have created.
+For the students, the experience proved eye-opening.
+“During this job, I had to become an optical engineer,” said Omodele, the fifth-year chemical engineering student, “and one thing that Georgia Tech has taught me is being able to morph myself into whatever kind of engineer I need [to be].”
+Additional Images
+Related links
+GTRI Electro-Optical Systems Laboratory
+Contact
+Joshua Stewart
+404.894.6016
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

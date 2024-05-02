@@ -1,0 +1,53 @@
+Easy as 1, 2, 3! Really?
+Easy as 1, 2, 3! Such claims have touted the ease of use of a new gadget, although a closer look would reveal that it would take dozens of steps to make it work.
+Mar 06, 2018
+— Atlanta, GA
+Easy as 1, 2, 3! Such claims have touted the ease of use of a new gadget, although a closer look would reveal that it would take dozens of steps to make it work. Just ask School of Psychology Professor
+Richard Catrambone .
+In his research, Catrambone often undertakes a
+task analysis . It involves recording in excruciating detail the steps to accomplish a procedural task, such as executing a pirouette, solving an algebra problem, or programming a Lego toy tank to pivot from any of its two wheels.
+For the experts explaining the detailed procedure to Catrambone, the analysis can be overwhelming.  They’ve solved these problems so many times before that the solutions have become second nature. Going over each step in detail is like moving in plodding motion.
+For Catrambone, task analysis yields copious notes. The process, he says, is necessary in creating effective materials and tools for education and training, because they enable identification of the
+subgoals
+embedded in a procedure of multiple steps.
+Catrambone and his
+award-winning
+former Ph.D. student
+Lauren Margulieux , now an assistant professor at Georgia State University, have shown in various studies that when problem-solving procedures are taught through subgoals, learners can apply them to a wider variety of problems.
+“Imagine you’re in an algebra class and the teacher solves a problem on the board. Then the teacher erases the problem and gives you another that is just like it,” Catrambone says. “Most students can rip out the old numbers, shove in the new numbers, and get an answer. They’ve memorized what the teacher did.”
+When students get a conceptually similar problem but is not solved in the exact set of steps, they fail.
+Margulieux offers an example. Solving equation A, 2x – 4 = 4x + 8, is conceptually similar to solving equation B, 6x  – 15 = 3x/4 + 2x. Solving either equation involves two subgoals: isolate the variable and simplify it. The specific subgoal steps, however, are different for equations A and B. Students who only memorize the solution to equation A will unlikely solve equation B.
+At Play, At Home, At Work
+Subgoal-based learning is good for learning procedures and solving problems with knowable correct answers, Margulieux says. Applications are everywhere.
+Catrambone says he often creates wacky poker games that annoy his friends by varying the steps within each subgoal of the game. The subgoals include dealing a certain number of cards, designating a common pool of cards, and assigning certain cards as wild. “Whether the number of cards dealt is 5 or 4 or 3 is irrelevant,” he says. “All I do is create new games that meet the subgoals.”
+Meanwhile, Margulieux sees the principle in cooking. To cook vegetables, a subgoal cook would “pick a vegetable, pick a way to cook it, and pick the flavors to go with it,” Margulieux says.
+A by-the-recipe cook would get a cup of broccoli, get a tablespoon of olive oil, roast the broccoli in the oven, and garnish it with salt and pepper, all the while checking the recipe again and again in between steps. If the menu calls for Brussel sprouts, the cook would need another recipe.
+“[W]e can get caught up in creating widgets and learning environments and multimedia simulations for education and training. But you need to do the task analysis first to identify what the learner needs to know...and then use that knowledge to guide the creation of learning materials and tools. Otherwise, those materials and tools will be much less effective.”
+An important application is in education. Catrambone observes that many learning tools often do not work as intended. “Especially at Georgia Tech, we can get caught up in creating widgets and learning environments and multimedia simulations for education and training,” he says. “But you need to do the task analysis first to identify what the learner needs to know – the subgoals and associated steps – and then use that knowledge to guide the creation of learning materials and tools. Otherwise, those materials and tools will be much less effective.”
+Margulieux aims to apply these findings to online learning. In a real classroom, she says, struggling students have the advantage of the teacher seeing the difficulty they are having – even if they are not asking the exact right questions – and doing something about it.
+Online, where the student and instructor are not in the same space, the barrier to asking a question is high, Margulieux says. “The cost of asking follow-up questions is even higher because if students don’t get an answer that makes sense, they probably won’t ask another question. They will just try to figure it out themselves, and if they don't have the knowledge to do this, it could be detrimental for learning.”
+“My interest is to make instructions very explicit in what students need to know to understand procedural problem solving so that they can perform well even if they don’t have anyone online to help them,” Margulieux says.
+How else can learning be made more effective?
+Catrambone and Margulieux have established that subgoal-labeled worked examples improve learning outcomes. For equation A, that would look like this:
+Original problem              2x – 4 = 4x + 8
+Isolate variable                 2x  – 4 – 2x – 8 = 4x + 8 – 2x – 8
+Isolate variable                 –12 = 2x
+Simplify variable               –12/2 = 2x/2
+Answer                                –6 = x
+Furthermore, they have shown that in some fields,
+computer programming
+for example, combining the subgoal-labeled worked example with subgoal-labeled expository text improves learning even more.
+Their latest work, with Ph.D. student Laura Schaeffer,
+shows, however, that the improvement does not play out the same way in other fields. “While subgoal-oriented examples help learning in all domains tested so far, subgoal-oriented expository text seems to help in some domains but not others,” Margulieux says. “Why this might be the case is a focus of ongoing research.”
+Additional Images
+Related links
+Tech Alumna Wins International Award
+Contact
+A. Maureen Rouhi, Ph.D.
+Director of Communications
+College of Sciences
+Email
+maureen.rouhi@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,48 @@
+ancient toy inspires tool for state-of-the-art science 
+ a childrens' toy has inspired an inexpensive, hand-powered scientific tool that could help field biologists and others. 
+ the 3d-fuge utilizes 3d-printed disks designed to hold small vials of liquid. simple yarn is used to spin the disks. (photo: rob felt, georgia tech). 
+ may 23, 2019 
+ — atlanta, ga 
+ a 5,000-year-old toy still enjoyed by kids today has inspired an inexpensive, hand-powered scientific tool that could not only impact how field biologists conduct their research but also allow high-school students and others with limited resources to realize their own state-of-the-art experiments. 
+ the device, a portable centrifuge for preparing scientific samples including dna, is reported may 21 in the journal 
+ plos biology . the co-first author of the paper is gaurav byagathvalli, a senior at lambert high school in georgia. his colleagues are 
+ m. saad bhamla , an assistant professor at the georgia institute of technology; soham sinha, a georgia tech undergraduate; janet standeven, byagathvalli’s biology teacher at lambert; and aaron f. pomerantz, a graduate student at the university of california, berkeley. 
+ “i am exceptionally proud of this paper and will remember it 10, 20, 30 years from now because of the uniquely diverse team we put together,” said bhamla, who is an assistant professor in georgia tech’s 
+ school of chemical and biomolecular engineering . 
+ from a rainforest to a high school 
+ together the team demonstrated the device, dubbed the 3d-fuge because it is created through 3d printing, in two separate applications. in a rainforest in peru the 3d-fuge was an integral part of a “lab in a backpack” used to identify four previously-unknown plants and insects by sequencing their dna. back in the united states, a slightly different design enabled a new approach to creating living bacterial sensors for the potential detection of disease. that work was conducted at lambert high school for a synthetic biology competition. 
+ thanks to social media and a preprint of the 
+ plos biology 
+ paper on biorxiv, the 3d-fuge has already generated interest from around the world, including emails from high-school teachers in zambia and kenya. “it’s awesome to see research not just remain isolated to one location but see it spread,” said byagathvalli. “through this, we’ve realized how much of an impact simple yet effective tools can have, and hope this technology motivates others to continue along the same path and innovate new solutions to global issues.” 
+ to better share the work, the team has posted the 3d-fuge designs, videos, and photos online available to anyone. 
+ frugal science 
+ one focus of bhamla’s lab at georgia tech is the development of tools for frugal science, or real research that just about anyone can afford. the tools behind state-of-the-art science often cost thousands of dollars that make them inaccessible to those without serious resources. 
+ centrifuges are a good example.  a small benchtop unit costs between $3,000 and $5,000; larger units cost many times that. yet the devices are necessary to produce concentrated amounts of, say, genomic materials like dna. by rapidly spinning samples, they separate materials of interest from biological debris. 
+ the bhamla team found that the 3d-fuge works as well as its more expensive cousins, but costs less than $1. 
+ an ancient toy 
+ the 3d-fuge is based on earlier work by bhamla and colleagues at stanford university on a simple centrifuge made of paper. the “paperfuge,” in turn, was inspired by a toy composed of string and a button that bhamla played with as a child. he later discovered that these toys, known as whirligigs, have existed for some 5,000 years. 
+ they consist of a disk – like a button – with two holes, through which is threaded a length of flexible cord whose ends are knotted to create a single loop with the disk in the middle. that simple contraption is then swung with two hands until the button is spinning and whirring at very fast speeds. 
+ the earlier paperfuge uses a disk of paper. to that disk bhamla glued small plastic tubes filled with a sample. he and colleagues reported that the device did indeed create high-quality samples. 
+ in late 2017 bhamla was separately approached by the lambert high team and pomerantz to see if the paperfuge could be adapted for the larger samples they needed (the paperfuge is limited to small samples of ~1 microliter—or one drop of blood). 
+ together they came up with the 3d-fuge, which includes cavities for tubes that can hold some 100 times more of a sample than the paperfuge. the team developed two equally effective designs: one for field biology (led by pomerantz) and the other for the high-school’s synthetic biology project (led by byagathvalli). 
+ bhamla notes that the 3d-fuge has some limitations. for example, it can only process a few samples at a time (some applications require thousands of samples). further, because it’s 10 times heavier than the paperfuge, it can’t reach the same speeds or produce the same forces of that device. that said, it still weighs only 20 grams, slightly less than a aa battery. 
+ “but it works,” said bhamla. “all you need is an [appropriate] application and some creativity.” 
+ this work was funded by the national science foundation (award no.181733), the mindlin foundation, and the jacobs institute innovation catalyst award. 
+ citation : gaurav byagathvalli, aaron f. pomerantz, soham sinha, janet standeven, and m. saad bhamla, “a 3d-printed hand-powered centrifuge for molecular biology,” (plos biology, 2019) 
+ https: / / doi.org / 10.1371 / journal.pbio.3000251 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : elizabeth thomson 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

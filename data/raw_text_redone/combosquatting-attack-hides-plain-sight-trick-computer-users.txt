@@ -1,0 +1,46 @@
+“combosquatting” attack hides in plain sight to trick computer users 
+ attackers are tricking computer users with urls that are similar to those of real companies. 
+ chart shows the number of combosquatted domains identified in each domain group studied. 
+ oct 30, 2017 
+ — atlanta, ga 
+ to guard against unknowingly visiting malicious websites, computer users have been taught to double-check website urls before they click on a link. but attackers are now taking advantage of that practice to trick users into visiting website domains that contain familiar trademarks — but with additional words that change the destination to an attack site. 
+ for example, attackers might register www.familiarbankname-security[.]com or www.security-familiarbankname[.]com. unwary users see the familiar bank name in the url, but the additional hyphenated word means the destination is very different from what was expected. the result could be counterfeit merchandise, stolen credentials, a malware infection – or another computer conscripted into a botnet attack. 
+ the attack strategy, known as combosquatting, is a growing threat, with millions of such domains set up for malicious purposes, according to a new study scheduled to be presented october 31 at the 2017 acm conference on computer and communications security (ccs). 
+ “this is a tactic that the adversaries are using more and more because they have seen that it works,” said 
+ manos antonakakis , an assistant professor in the 
+ school of electrical and computer engineering 
+ at the georgia institute of technology. “this attack is hiding in plain sight, but many people aren’t computer-savvy enough to notice the difference in the urls containing familiar trademarked names.” 
+ researchers from georgia tech and stony brook university conducted the study, which is believed to be the first large-scale, empirical study of combosquatting. the work was supported by u.s. department of defense agencies, the national science foundation and the u.s. department of commerce. 
+ combosquatting differs from its better-known relative, typosquatting, in which adversaries register variations of urls that users are likely to type incorrectly. combosquatting domains don’t depend on victims making typing errors, but instead provide malicious links embedded in emails, web advertising or the results of web searches. combosquatting attackers often combine the trademarked name with a term designed to convey a sense of urgency to encourage victims to click on what appears at first glance to be a legitimate link. 
+ “we have seen combosquatting used in virtually every kind of cyberattack that we know of, from drive-by downloads to phishing attacks by nation-states,” said panagiotis kintis, a georgia tech graduate research assistant who is the first author of the study. “these attacks can even fool security people who may be looking at network traffic for malicious activity. when they see a familiar trademark, they may feel a false sense of comfort with it.” 
+ for their study, the researchers began with the 500 most popular trademarked domain names in the united states, and excluded certain combinations made up of common words. they separated the domains into 20 categories, then added two additional domains: one for for politics – the study was done before the 2016 election – and another for energy. 
+ with the resulting 268 trademark-containing urls, they set out to find domain names that incorporated the trademarked name with additional words added at the start or end. they searched through six years of active and passive domain name system (dns) requests – more than 468 billion records – provided by one of the largest internet service providers in north america. 
+ “the result was mind-blowing,” said kintis. “we found orders of magnitude more combosquatting domains than typosquatting domains, for instance. the space for combosquatting is almost infinite because attackers can register as many domains as they want with any variation that they want. in some cases, registering a domain can cost less than a dollar.” 
+ in the six-year data set, the researchers found 2.7 million combosquatting domains for the 268 popular trademarks alone, and the combosquatting domains were 100 times more prevalent than typosquatting domains. the combosquatting attacks appear to be challenging to combat, with nearly 60 percent of the abusive domains in operation for more than 1,000 days – almost three years. and the number of combosquatting domains registered grew every year between 2011 and 2016. 
+ among the malicious domains, the researchers discovered some that had previously been registered by legitimate companies which had combined words with their trademarks. for some reason, those companies permitted the registrations to lapse, allowing the trademark-containing domain names – which once led to legitimate sites – to be taken over by combosquatting attackers. 
+ in many cases, malicious domains were re-registered multiple times after they had expired, suggesting an improvement in “internet hygiene” may be needed to address this threat. 
+ “imagine what happens in a city when the garbage isn’t picked up regularly,” antonakakis said. “the garbage builds up and you have diseases develop. nobody collects the garbage domains on the internet, because it’s nobody’s job. but there should be an organization that would collect these malicious domains so they cannot be reused to infect people.” 
+ more stringent anti-fraud screening of persons registering domains would also help, he added. “we don’t want to prevent legitimate users from getting onto the internet, but there are warning signs of potential fraud that registrars could detect.” 
+ what can be done by ordinary computer users and the organizations where they work? 
+ “users unfortunately have to be better educated than they are now,” antonakakis said. “organizations can provide training in the on-boarding process that takes place for new employees, and they can protect their network perimeters to prevent users from being exposed to known combosquatting domains. more needs to be done to address this growing cybersecurity problem.” 
+ in addition to those already mentioned, the research included najmeh miramirkhani and nick nikiforakis from stony brook university; charles lever, yizheng chen and rosa romero-gómez from georgia tech, and nikolaos pitropakis from london south bank university. 
+ summaries 
+ of georgia tech research being presented at the 2017 acm conference on computer and communications security. 
+ citation : panagiotis kintis, et al., “hiding in plain sight: a longitudinal study of combosquatting abuse,” (2017 acm conference on computer and communications security). https: / / arxiv.org / abs / 1708.08519 
+ this material is based upon work supported in part by the u.s. department of commerce under grants 2106dek and 2106dzd; the national science foundation (nsf) under grants 2106dgx, cns-1617902, cns-1617593, and cns-1735396; the air force research laboratory / defense advanced research projects agency under grant 2106dtx; and the office of naval research (onr) under grant n00014-16-1-2264. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

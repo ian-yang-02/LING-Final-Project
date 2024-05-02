@@ -1,0 +1,30 @@
+platinum-graphene atomically-thin fuel cell catalysts show superior stability over bulk platinum 
+ films of platinum only two atoms thick supported by graphene could enable fuel cell catalysts with unprecedented catalytic activity and longevity, according to a study published recently by researchers at the georgia institute of technology. 
+ seung soon jang, an associate professor, faisal alamgir, an associate professor, and ji il choi, a postdoctoral researcher, all in georgia tech’s school of materials science and engineering, examine a piece of platinum-graphene catalyst. (credit: allison carter) 
+ sep 18, 2019 
+ — atlanta, ga 
+ films of platinum only two atoms thick supported by graphene could enable fuel cell catalysts with unprecedented catalytic activity and longevity, according to a study published recently by researchers at the georgia institute of technology. 
+ platinum is one of the most commonly used catalysts for fuel cells because of how effectively it enables the oxidation reduction reaction at the center of the technology. but its high cost has spurred research efforts to find ways to use smaller amounts of it while maintaining the same catalytic activity. 
+ “there’s always going to be an initial cost for producing a fuel cell with platinum catalysts, and it’s important to keep that cost as low as possible,” said faisal alamgir, an associate professor in georgia tech’s school of materials science and engineering. “but the real cost of a fuel cell system is calculated by how long that system lasts, and this is a question of durability. 
+ “recently there’s been a push to use catalytic systems without platinum, but the problem is that there hasn’t been a system proposed so far that simultaneously matches the catalytic activity and the durability of platinum,” alamgir said. 
+ the georgia tech researchers tried a different strategy. in the study, which was published on september 18 in the journal  advanced functional materials 
+ and supported by the national science foundation, they describe creating several systems that used atomically-thin films of platinum supported by a layer of graphene – effectively maximizing the total surface area of the platinum available for catalytic reactions and using a much smaller amount of the precious metal. 
+ most platinum-based catalytic systems use nanoparticles of the metal chemically bonded to a support surface, where surface atoms of the particles do most of the catalytic work, and the catalytic potential of the atoms beneath the surface is never utilized as fully as the surface atoms, if at all. 
+ additionally, the researchers showed that the new platinum films that are at least two atoms thick outperformed nanoparticle platinum in the dissociation energy, which is a measure of the energy cost of dislodging a surface platinum atom. that measurement suggests those films could make potentially longer-lasting catalytic systems. 
+ to prepare the atomically-thin films, the researchers used a process called electrochemical atomic layer deposition to grow platinum monolayers on a layer of graphene, creating samples that had one, two or three atomic layers of atoms. the researchers then tested the samples for dissociation energy and compared the results to the energy of a single atom of platinum on graphene as well as the energy from a common configurations of platinum nanoparticles used in catalysts. 
+ “the fundamental question at the heart of this work was whether it was possible that a combination of metallic and covalent bonding can render the platinum atoms in a platinum-graphene combination more stable than their counterparts in bulk platinum used commonly in catalysts that are supported by metallic bonding,” said seung soon jang, an associate professor in the school of materials science and engineering. 
+ the researchers found that the bond between neighboring platinum atoms in the film essentially combines forces with the bond between the film and the graphene layer to provide reinforcement across the system. that was especially true in the platinum film that was two atoms thick. 
+ “typically metallic films below a certain thickness are not stable because the bonds between them are not directional, and they tend to roll over each other and conglomerate to form a particle,” alamgir said. “but that’s not true with graphene, which is stable in a two-dimensional form, even one atom thick, because it has very strong covalent directional bonds between its neighboring atoms. so this new catalytic system could leverage the directional bonding of the graphene to support an atomically-thin film of platinum.” 
+ future research will involve further testing of how the films behave in a catalytic environment. the researchers found in earlier research on graphene-platinum films that the material behaves similarly in catalytic reactions regardless of which side – graphene or platinum – is the exposed active surface. 
+ “in this configuration, the graphene is not acting as a separate entity from the platinum,” alamgir said. “they’re working together as one. so we believe that if you’re exposing the graphene side, you get the same catalytic activity and you could further protect the platinum, potentially further enhancing durability.” 
+ this research was supported by the national science foundation (nsf) under grant nos. 1103827 and 106913. the content is solely the responsibility of the authors and does not necessarily represent the official views of the sponsoring organizations. 
+ citation :  ji il choi, ali abdelhafiz, parker buntin, adam vitale, alex robertson, jamie warner, seung soon jang and faisal m. alamgir, “contiguous and atomically-thin pt film with supra-bulk behavior through graphene-imposed epitaxy,” (advanced functional materials, september 2019). http: / / dx.doi.org / 10.1002 / adfm.201902274 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

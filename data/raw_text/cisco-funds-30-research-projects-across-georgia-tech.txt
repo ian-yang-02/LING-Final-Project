@@ -1,0 +1,47 @@
+Cisco Funds 30 Research Projects Across Georgia Tech
+Through a collaboration with Cisco, Georgia Tech Technology is pursuing 30 quick-turn research projects that touch on key priority areas such as internet for the future, capabilities at the edge, and optimized application experiences.
+A researcher helping a participant put on the fully wearable multimodal knee brace for collection of physiological data to assess knee health. This multimodal knee brace will be used to detect inflammation levels as well as disease activity levels for patients with rheumatoid arthritis. (Photo credit: John Berkebile, Georgia Tech)
+Mar 15, 2022
+— Atlanta, GA
+Through an innovative collaboration with Cisco, the global leader in networking for the internet, the Georgia Institute of Technology is pursuing 30 quick-turn research projects that touch on key priority areas such as internet for the future, capabilities at the edge, and optimized application experiences.
+The master research agreement builds on more than two decades of close collaboration between the two organizations. Begun last year, the funded projects are by design short term, lasting an average of 12 to 14 months ― enough time to assess the technology and its potential for Cisco to warrant further investment.
+Each project undergoes quarterly reviews by Cisco, with a Georgia Tech faculty member serving as the principal investigator, and Ph.D. or postdoc students occasionally leading a team of students.
+“Cisco Research conducts and fosters research in emerging areas of technology that are of strategic interest to Cisco. Georgia Tech is one of the first universities to have signed a longer-term master research agreement through which we have funded several projects over the past year. The vast breadth of research activities within GT makes it an ideal partner for us to collaborate and fund research longer-term” said Ramana Kompella, head of research at Cisco. “We have already achieved quite a bit of success through these collaborations over the last year, and we have started renewing some of these projects for the next phase of research based on the results and impact already achieved.”
+“As an R1 research facility, our job is to engage in research and train the next researchers coming up. Partnerships like Cisco are critical to our mission,” said Jeffrey Davis, director of Corporate Relations at Georgia Tech, who oversees the Cisco partnership. “Cisco’s program supports our students, our faculty, and the Institute overall. A lot of this research could benefit not only Georgia, but also people worldwide.”
+Davis said Cisco evaluators challenge Georgia Tech students on their findings, with some of the brightest students recruited to join Cisco upon graduation.
+Pitching Projects: Cisco’s Version of ‘Shark Tank’
+Being selected for a research project is akin to pitching investors on the popular reality show, “Shark Tank.” According to Davis, professors have 15 minutes to present their research project to Cisco. A Cisco tech leader evaluates each proposal to determine which ideas will move on to a “deep dive,” or one-hour detailed presentation to include a Q&A discussion between the professor and subject-matter experts at Cisco, and a decision quickly follows.
+The funded projects support one of Cisco’s strategic pillars that include secure, agile networks; hybrid work; optimized application experiences; end-to-end security; internet for the future; and capabilities at the edge.
+Georgia Tech’s
+Institute of People and Technology
+(IPaT), an early funding recipient, was awarded projects to develop augmented reality (AR) tools to improve healthcare worker productivity, research technologies that reduce workplace stress, and develop contact-less inventory management solutions that could lead to more efficient contactless supply chains, noted a recent Georgia Tech
+story .
+“As the world is grappling to deal with the one-in-a-century pandemic, a key aspect of remote work that was particularly of grave concern is remote worker wellness and productivity, (and) one of the key themes along with Georgia Tech researchers we are conducting cutting edge research in,” Kompella added.
+Health-monitoring Wearables
+Omer Inan, associate professor in
+Electrical and Computer Engineering (ECE) , is six months into a project to test how well his knee brace, a wearable with sensors that measure arthritis inflammation inside joints, works in patients with arthritis. His 2020
+research paper
+on the topic was recently named the runner-up best paper by
+IEEE Sensors Journal .
+“We are taking the hardware that we previously developed in our group and understanding how well it performs in a clinical population,” said Inan, who is collaborating with a team of clinicians at Emory School of Medicine led by Sampath Prahalad, that will assess the wearable joint monitoring technology in as many as 30 patients.
+“Cisco is very interested in telehealth and IoT-related research, and our project encompasses both,” said Inan.
+He noted that arthritis sufferers today must go to a doctor's office and undergo blood tests and imaging to monitor their condition, which is both cumbersome and too infrequent given how rapidly the disease changes. “Only being able to get data at the doctor's office makes it hard to really understand what's going on and to manage the condition properly,” he said.
+Inan anticipates that his wearable sensor could one day help remotely manage rheumatoid arthritis, especially in rural areas that are medically underserved.  Cisco, he added, could be a key partner in making that happen.
+“Cisco understands connectivity and the overall ecosystem of telehealth so well that they could be a great partner to help us understand how to move this technology toward translation to start benefitting patients,” said Inan, noting that Cisco also brings invaluable expertise in the internet of things,, privacy and security of interconnected devices.
+“While health is top-of-mind for everyone in the world, we at Cisco Research are exploring how technology can improve healthcare outcomes for everyone by leveraging Cisco’s core tech prowess in areas such as IoT and cybersecurity,” said Kompella.
+Computing at the Edge
+Another Cisco-funded project focuses on the next wave of computing “at the edge.” The increasing presence of cameras in our environment, coupled with advances in computer vision and machine learning, has enabled several novel applications, including space-time tracking of suspicious vehicles and smart traffic lights.
+“Edge (computing) is an emerging disruptive technology, and more and more applications require it. Companies like Cisco, Microsoft, and Google are already starting to pay attention to edge computing, and it could be a huge opportunity for academia,” said Umakishore Ramachandran, professor in Georgia Tech’s
+School of Computer Science . “We are seeing a perfect storm of technology and applications coming together at the edge to support multiple camera applications.”
+One reality of moving to edge computing, explained Ramachandran, is its resource limitation compared to a cloud data center owing to the smaller footprint of the edge. His team has developed techniques to allocate the scarce resources intelligently. Specifically, they are looking at how to dynamically assign resources using multiple, nearby edge sites, while meeting the latency requirements of the services.
+“Cisco is a pioneer in edge computing. Now they are seeing that there's an opportunity to look at it from a sensor processing in a geo-distributed fashion,” he said.
+Partnering with Cisco gives Ramachandran’s team assurance that they are on the pulse of what’s next in tech.
+“We can vet the new technology and ensure our research is not already happening in the industry. We want to be sure that what we're developing is not just used for publishing papers but also can be applied in the commercial world. That's where the Cisco partnership is so important,” he said.
+“Edge computing is the next generation paradigm that’s still in its infancy, and there are a lot of things that need to be researched to shape the future of edge computing. This area is super exciting and important for Cisco, and we had an exciting collaboration with Prof. Ramachandran’s research group on some of the key technological advances required to make edge computing a success,” said Kompella.
+Writer : Anne Wainscott-Sargent
+Media Relations Contact:
+Georgia Parmelee | georgia.parmelee@gatech.edu
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

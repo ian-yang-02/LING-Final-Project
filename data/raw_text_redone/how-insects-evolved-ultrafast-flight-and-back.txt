@@ -1,0 +1,16 @@
+how insects evolved to ultrafast flight (and back) 
+ many insects fly synchronously, matching the nervous system pulses to wing movement. but smaller insects don’t have the mechanics for this and must flap their wings harder, which works only up to a certain point. that’s where asynchronous flight comes in. 
+ researchers found that hawkmoth flight muscles exhibit delayed stretch activation, a hallmark of asynchronous flight. 
+ oct 06, 2023 
+ mosquitoes are some of the fastest-flying insects. flapping their wings more than 800 times a second, they achieve their speed because the muscles in their wings can flap faster than their nervous system can tell them to beat. 
+ this asynchronous beating comes from how the flight muscles interact with the physics of the insect’s springy exoskeleton. this decoupling of neural commands and muscle contractions is common in only four distinct insect groups. 
+ for years, scientists assumed these four groups evolved these ultrafast wingbeats separately, but research from the georgia institute of technology and the university of california, san diego (uc san diego) shows that they evolved from a single common ancestor. this discovery demonstrates evolution has repeatedly turned on and off this particular mode of flight. the researchers developed physics models and robotics to test how these transitions could occur. 
+ read the full feature in the gt research newsroom. 
+ additional images 
+ contact 
+ media contact : tess malone |  tess.malone@gatech.edu 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

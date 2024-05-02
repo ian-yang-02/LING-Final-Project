@@ -1,0 +1,40 @@
+NSF RAPID Response to Earthquakes in Turkey
+Zhigang Peng and graduate students Phuc Mach and Chang Ding are using small seismic sensors to better understand just how, why, and when certain earthquakes are occurring.
+Jul 28, 2023
+In February, a
+major earthquake event
+devastated the south-central region of the Republic of Türkiye (Turkey) and northwestern Syria . Two earthquakes, one magnitude 7.8 and one magnitude 7.5, occurred nine hours apart, centered near the heavily populated city of Gaziantep. The total rupture lengths of both events were up to 250 miles .
+The president of Turkey has called it the “disaster of the century,” and the threat is still not over — aftershocks could still affect the region.
+Now,
+Zhigang Peng , a professor in the
+School of Earth and Atmospheric Sciences
+at Georgia Tech and graduate students
+Phuc Mach
+and
+Chang Ding ,
+alongside researchers at the Scientific and Technological Research Institution of Türkiye (TÜBİTAK) and researchers at the University of Missouri, are using small seismic sensors to better understand just how, why, and when these earthquakes are occurring.
+Funded by an NSF RAPID grant, the project is unique in that it aims to actively respond to the crisis while it’s still happening.
+National Science Foundation (NSF) Rapid Response Research (RAPID) grants
+are used when there is a severe urgency with regard to availability of or access to data,
+facilities or specialized equipment, including quick-response research on natural or anthropogenic disasters and other similar unanticipated events.
+In an effort to better map the aftershocks of the earthquake event — which can occur weeks or months after the main event — the team placed approximately 120 small sensors, called nodes, in the East Anatolian fault region this past May. Their deployment continues through the summer.
+It’s the first time sensors like this have been deployed in Turkey, says Peng.
+“These sensors are unique in that they can be placed easily and efficiently," he explains. "With internal batteries that can work up to one month when fully charged, they’re buried in the ground and can be deployed within minutes, while most other seismic sensors need solar panels or other power sources and take much longer time and space to deploy.” Each node is about the size of a 2-liter soda bottle, and can measure ground movement in three directions.
+“The primary reason we’re deploying these sensors quickly following the two mainshocks is to study the physical mechanisms of how earthquakes trigger each,” Peng adds. Mainshocks are the largest earthquake in a sequence. “We’ll use advanced techniques such as machine learning to detect and locate thousands of small aftershocks recorded by this network. These newly identified events can provide new important clues on how aftershocks evolve in space and time, and what drives foreshocks that occur before large events.”
+Unearthing fault mechanisms
+The team will also use the detected aftershocks to illuminate active faults where three tectonic plates come together — a region known as the Maraş Triple Junction. “We plan to use the aftershock locations and the seismic waves from recorded events to image subsurface structures where large damaging earthquakes occur,” says Mach, the Georgia Tech graduate researcher. This will help scientists better understand why sometimes faults ‘creep’ without any large events, while in other cases faults lock and then violently release elastic energy, creating powerful earthquakes.
+Getting high-resolution data of the fault structures is another priority. “The fault line ruptured in the first magnitude 7.8 event has a bend in it, where earthquake activity typically terminates, but the earthquake rupture moved through this bend, which is highly unusual,” Peng says. By deploying additional ultra-dense arrays of sensors in their upcoming trip this summer, the team hopes to help researchers ‘see’ the bend under the Earth’s surface, allowing them to better understand how fault properties control earthquake rupture propagation.
+The team also aims to learn more about the relationship between the two main shocks that recently rocked Turkey, sometimes called doublet events. Doublet events can happen when the initial earthquake triggers a secondary earthquake by adding extra stress loading. While in this instance, the doublet may have taken place only 9 hours after the initial event, these secondary earthquakes have been known to take place days, months, or even years after the initial one — a famous example being the sequence of earthquakes that spanned 60 years in the North Anatolian fault region in Northern Turkey.
+“Clearly the two main shocks in 2023 are related, but it is still not clear how to explain the time delays,” says Peng. The team plans to work with their collaborators at TÜBİTAK to re-analyze seismic and other types of geophysical data right before and after those two main shocks in order to better understand the triggering mechanisms.
+“In our most recent trip in southern Türkiye, we saw numerous buildings that were partially damaged during the mainshock, and many people will have to live in temporary shelters for years during the rebuilding process,” Peng adds. “While we cannot stop earthquakes from happening in tectonically active regions, we hope that our seismic deployment and subsequent research on earthquake triggering and fault imaging can improve our ability to predict what will happen next — before and after a big one — and could save countless lives.”
+Additional Images
+Contact
+Written By:
+Selena Langner
+Media Contact:
+Jess Hunt-Ralston
+Email
+jess.hunt@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

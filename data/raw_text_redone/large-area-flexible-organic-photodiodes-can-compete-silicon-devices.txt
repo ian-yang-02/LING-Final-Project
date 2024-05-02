@@ -1,0 +1,51 @@
+large-area flexible organic photodiodes can compete with silicon devices 
+ flexible large-area organic photodiodes can now compete in performance with conventional silicon photodiode technology. 
+ organic photodiodes can be much larger than their silicon counterparts. on the left is a silicon photodiode compared to two large-area organic photodiodes. (credit: canek fuentes-hernandez, georgia tech) 
+ nov 05, 2020 
+ — atlanta, ga 
+ the performance of flexible large-area organic photodiodes has advanced to the point that they can now offer advantages over conventional silicon photodiode technology, particularly for applications such as biomedical imaging and biometric monitoring that require detecting low levels of light across large areas. 
+ the low-noise, solution-processed, flexible organic devices offer the ability to use arbitrarily shaped, large-area photodiodes to replace complex arrays that would be required with conventional silicon photodiodes, which can be expensive to scale up for large-area applications. the organic devices provide performance comparable to that of rigid silicon photodiodes in the visible light spectrum — except in response time. 
+ “what we have achieved is the first demonstration that these devices, produced from solution at low temperatures, can detect as little as a few hundred thousand photons of visible light every second, similar to the magnitude of light reaching our eye from a single star in a dark sky,” said 
+ canek fuentes-hernandez , principal research scientist in the 
+ school of electrical and computer engineering 
+ at the georgia institute of technology. “the ability to coat these materials onto large-area substrates with arbitrary shapes means that flexible organic photodiodes now offer some clear advantages over state-of-the-art silicon photodiodes in applications requiring response times in the range of tens of microseconds.” 
+ the development and performance of large-area, low-noise organic photodiodes are described in the nov. 6 issue of the journal 
+ science . the research was supported by multiple organizations, including the office of naval research, the air force office of scientific research, and the u.s. department of energy’s national nuclear security administration. 
+ organic electronic devices are based on materials fabricated from carbon-based molecules or polymers instead of conventional inorganic semiconductors such as silicon. the devices can be made using simple solution and inkjet printing techniques instead of the expensive and complex processes involved in the manufacturing of conventional electronics. the technology is now widely used in displays, solar cells, and other devices. 
+ the organic photodiodes use polyethylenimine, an amine-containing polymer surface modifier found to produce air-stable, low work-function electrodes in photovoltaic devices developed in the laboratory of 
+ bernard kippelen , joseph m. pettit professor at georgia tech. the use of polyethylenimine was also shown to produce photovoltaic devices with low levels of dark current — the electrical current that flows through a device even in the dark. this meant the materials could be useful in photodetectors for capturing faint signals of visible light. 
+ “over the years, the dark current levels were reduced so much that measurement equipment had to be redesigned to detect an electronic noise corresponding to a fluctuation of one electron in one millionth of a second,” fuentes-hernandez, the paper’s first author, said. “this work reflects sustained team efforts made in the kippelen group over more than six years and encompasses part of the ph.d. work of recent graduates talha kahn and wen-fang chou. these collective efforts produced the scientific insights needed to demonstrate organic photodiodes with this level of performance.” 
+ one application for the new devices is in pulse oximeters now placed on fingers to measure heart rate and blood oxygen levels. organic photodiodes may allow multiple devices to be placed on the body and operate with 10 times less light than conventional devices. this could enable wearable health monitors to produce improved physiological information and continuous monitoring without frequent battery changes. other potential applications include human-computer interfaces such as touchless gesture recognition and controls. 
+ a future application is detection of ionizing radiation by scintillation — a flash of light emitted by a phosphor when struck by a high energy particle. lowering the level of light that can be detected would improve the sensitivity of the device, allowing it to detect lower levels of radiation. detecting radiation emitted from vehicles or cargo containers requires a large detector area, which would be easier to make from organic photodiodes than from arrays of silicon photodiodes. 
+ organic photodiodes could have similar advantages in x-ray equipment, where doctors want to use the smallest level of radiation possible to minimize the dose delivered to the patient. here again, sensitivity, large area, and flexible form factor should give organic photodiodes an advantage over silicon-based arrays. 
+ “we are working on improving the response time of the photodetector because producing fast photodetectors would enable many additional important applications,” fuentes-hernandez said. “there’s a real need to develop photodetector technologies that are more scalable, and one of the motivations of this work is to advance organic technology that we know is cost effective for scaling.” 
+ the organic photodiodes can show electronic noise current values in the tens of femtoampere range and noise equivalent power values of a couple of hundreds of femtowatt. key performance factors of the organic photodiodes compare well with silicon except in the area of response time, where researchers are working on a hundred-fold improvement to enable future applications. 
+ “because we use materials that are processed from inks using printing techniques, they are not as ordered as crystalline materials,” kippelen said. “as a result, the carrier mobility and the velocity of the carriers that can move through these materials are lower, so you can’t get the same fast signals you get with silicon. but for many applications you don’t need picosecond or nanosecond response time.” 
+ for kippelen, the photodiode work shows the results of a 25-year effort to improve the performance of organic electronic materials. that work, part of georgia tech’s 
+ center for organic photonics and electronics , has involved extensive device modeling to understand the basic science, and research to continuously boost performance of the materials. 
+ “organic thin films absorb light more efficiently than silicon, so the overall thickness you need to absorb that light is very small,” kippelen said. “even if you scale their area up, the overall volume of your detector remains small with organics. if you increase the area of a silicon detector, you have a larger volume of materials that at room temperature will generate a lot of electronic noise.” 
+ the photodiodes made in kippelen’s lab use an active layer just 500 nanometers thick. a gram of the material, roughly the size of a fingertip, could coat the surface of an office desk. 
+ kippelen hopes the 
+ science 
+ paper will help open new doors for organic semiconductors. 
+ “advances like this will allow us to change the conventional wisdom that switching to organic materials that can lead to scalable devices would mean giving up performance,” he said. “we can’t anticipate all the new applications that could be enabled by this advance.” 
+ in addition to those already mentioned, the research team included larissa diniz, julia lukens, felipe a. larrain, and victor a. rodriguez-toro, all associated with kippelen’s lab. 
+ this research was supported by the department of the navy, office of naval research awards n00014-15 14-1-0580 and n00014-16-1-2520; through the muri center for advanced organic photovoltaics (caop); by the air force office of scientific research through award no. fa9550-16-1-0168, the department of energy / national nuclear security administration (nnsa) awards de-na0002576 through the consortium for nonproliferation enabling capabilities (cnec), and award de-na0003921 through the consortium for enabling technologies and innovation. support also came from the chilean national commission for scientific and technological research through the doctoral fellowship program ‘‘becas chile,’’ grant 72150387; from the colombian administrative department of science, technology, and innovation through the program fulbright-colciencias; from the national science foundation through the research experiences for undergraduates program; and from the brazil scientific mobility program through an academic training opportunities grant. 
+ citation : canek fuentes-hernandez, et al., “large-area low-noise flexible organic photodiodes for detecting faint visible light.” ( science 
+ 2020). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

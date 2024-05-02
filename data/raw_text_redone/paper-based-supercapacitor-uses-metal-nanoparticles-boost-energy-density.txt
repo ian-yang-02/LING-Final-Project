@@ -1,0 +1,42 @@
+paper-based supercapacitor uses metal nanoparticles to boost energy density 
+ researchers have developed a paper-based flexible supercapacitor that could be used to help power wearable devices. 
+ images show the difference between paper prior to metallization (left) and the paper coated with conductive nanoparticles. (credit: ko et al., published in nature communications) 
+ oct 06, 2017 
+ — atlanta, ga 
+ using a simple layer-by-layer coating technique, researchers from the u.s. and korea have developed a paper-based flexible supercapacitor that could be used to help power wearable devices. the device uses metallic nanoparticles to coat cellulose fibers in the paper, creating supercapacitor electrodes with high energy and power densities – and the best performance so far in a textile-based supercapacitor. 
+ by implanting conductive and charge storage materials in the paper, the technique creates large surface areas that function as current collectors and nanoparticle reservoirs for the electrodes. testing shows that devices fabricated with the technique can be folded thousands of times without affecting conductivity. 
+ “this type of flexible energy storage device could provide unique opportunities for connectivity among wearable and internet of things devices,” said 
+ seung woo lee , an assistant professor in the 
+ woodruff school of mechanical engineering 
+ at the georgia institute of technology. “we could support an evolution of the most advanced portable electronics. we also have an opportunity to combine this supercapacitor with energy-harvesting devices that could power biomedical sensors, consumer and military electronics, and similar applications.” 
+ the research, done with collaborators at korea university, was supported by the national research foundation of korea and reported september 14 in the journal 
+ nature communications . 
+ energy storage devices are generally judged on three properties: their energy density, power density and cycling stability. supercapacitors often have high power density, but low energy density – the amount of energy that can be stored – compared to batteries, which often have the opposite attributes. in developing their new technique, lee and collaborator jinhan cho from the department of chemical and biological engineering at korea university set out to boost energy density of the supercapacitors while maintaining their high power output. 
+ they began by dipping paper samples into a beaker of solution containing an amine surfactant material designed to bind the gold nanoparticles to the paper. next they dipped the paper into a solution containing gold nanoparticles. because the fibers are porous, the surfactants and nanoparticles enter the fibers and become strongly attached, creating a conformal coating on each fiber. 
+ by repeating the dipping steps, the researchers created a conductive paper on which they added alternating layers of metal oxide energy storage materials such as manganese oxide. the ligand-mediated layer-by-layer approach helped minimize the contact resistance between neighboring metal and / or metal oxide nanoparticles. using the simple process done at room temperatures, the layers can be built up to provide the desired electrical properties. 
+ “it’s basically a very simple process,” lee said. “the layer-by-layer process, which we did in alternating beakers, provides a good conformal coating on the cellulose fibers. we can fold the resulting metallized paper and otherwise flex it without damage to the conductivity.” 
+ though the research involved small samples of paper, the solution-based technique could likely be scaled up using larger tanks or even a spray-on technique. “there should be no limitation on the size of the samples that we could produce,” lee said. “we just need to establish the optimal layer thickness that provides good conductivity while minimizing the use of the nanoparticles to optimize the tradeoff between cost and performance.” 
+ the researchers demonstrated that their self-assembly technique improves several aspects of the paper supercapacitor, including its areal performance, an important factor for measuring flexible energy-storage electrodes. the maximum power and energy density of the metallic paper-based supercapacitors are estimated to be 15.1 mw / cm2 and 267.3 uw / cm2, respectively, substantially outperforming conventional paper or textile supercapacitors. 
+ the next steps will include testing the technique on flexible fabrics, and developing flexible batteries that could work with the supercapacitors. the researchers used gold nanoparticles because they are easy to work with, but plan to test less expensive metals such as silver and copper to reduce the cost. 
+ during his ph.d. work, lee developed the layer-by-layer self-assembly process for energy storage using different materials. with his korean collaborators, he saw a new opportunity to apply that to flexible and wearable devices with nanoparticles. 
+ “we have nanoscale control over the coating applied to the paper,” he added. “if we increase the number of layers, the performance continues to increase. and it’s all based on ordinary paper.” 
+ in addition to those already mentioned, the research team included yongmin ko and minseong kwon from korea university, wan ki bae from the photoelectronic hybrids research center at the korea institute of science and technology, and byeongyong lee from georgia tech. 
+ this work was supported by national research foundation (nrf) grants funded by the korean government (nrf-2015r1a2a1a01004354 and nrf-2016m3a7b4910619). 
+ citation : yongmin ko, minseong kwon, wan ki bae, byeongyong lee, seung woo lee & jinhan cho, “flexible supercapacitor electrodes based on real metal-like cellulose papers,” (nature communications, 2017) 
+ http: / / dx.doi.org / 10.1038 / s41467-017-00550-3 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181 usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

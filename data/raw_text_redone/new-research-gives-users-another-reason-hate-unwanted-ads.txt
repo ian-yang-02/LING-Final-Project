@@ -1,0 +1,35 @@
+new research gives users another reason to hate unwanted ads 
+ cybersecurity researchers show how attackers can see your online ads knowing only your email address 
+ nov 10, 2022 
+ — atlanta, ga 
+ new research released this week reveals the process used by third party advertisers to target online users can be viewed or manipulated by online adversaries using only their target's email address. 
+ a four-person team of researchers from the georgia institute of technology, university of illinois chicago (uic), and new york university (nyu) presented their findings wednesday at the acm conference on computer and communications security (ccs), a premier security venue. 
+ today, much of the advertising that appears online is specifically tailored to individuals based on their browsing history, location, and a variety of other factors that have been collected by third party advertising networks. 
+ this data is collected by tracking cookies, which are sent out by third party ad networks and correlated with unique identifiers like email addresses. these cookies allow advertisers to create extensive profiles of internet users, however as the researchers found, this system can be influenced by bad actors. 
+ once an attacker knows a user’s email address, they can tap into the information being collected by any third-party advertiser observing a specific user’s targeted ad stream. this could allow bad actors insight into to an individual’s detailed browsing history, such as online retailers and travel websites. 
+ “third party ad networks have no direct relationship with users. thus, if they want to track user activity across devices, they must rely on identity information, such as email addresses, given to them from other various websites,” said 
+ paul pearce , assistant professor in the 
+ school of cybersecurity and privacy 
+ (scp) at georgia tech. “our work shows the way that information is passed to the ad networks is both insecure and hard to verify. if an attacker knows a victim’s email address, they can lie to the ad network pretending to be a user, leading to very real privacy problems.” 
+ the researchers describe this susceptibility as advertising identity entanglement and it happens when attackers confuse ad networks into correlating the attacker’s tracking cookies with a targeted person’s email address, looping them into the data being gathered by third parties. as pearce and his colleagues state in their paper, adversaries can also leverage the process to send ads of any kind to their targets. 
+ "when i use the internet on my own private device, like a phone or a laptop, i don't expect that anyone who knows my personal email could manipulate what i see,” said 
+ chris kanich , associate professor at uic. “this attack is particularly disturbing, and i am relieved that i use ad and tracking blockers in my web browsers." 
+ to test the scale of this problem, researchers created an artificial users and profile for their experiment, at no time was a real person targeted. by knowing only, the experimental user’s email address, the team was able to identify specific items and websites the victim interacted with. 
+ along with shopping habits, the test also showed retargeted advertisements can contain sensitive location information. for example, if a victim interacted with some hotel and travel websites, the attacker could then receive retargeted ads for the specific hotel the victim viewed. 
+ “an ad network potentially leaking travel plans to anyone with a target’s email address is a significant privacy threat and potentially dangerous to people being stalked,” said 
+ damon mccoy , associate professor at nyu. 
+ the researchers indicate that combatting this problem without the support of ad networks is challenging, but ad blockers provide a reasonable initial option to limit exposing a user’s private data. mitigation of this threat shouldn’t just fall on the users, however. the team also suggests that if third party ad networks encrypted the process of exchanging identity information and ensured the data was verified and correct it would help mitigate the threat. 
+ the research was presented at acm ccs’22. the paper, 
+ cart-ology: intercepting targeted advertising via ad network identity entanglement , is co-authored by scp ph.d. student 
+ changseok oh , kanich, mccoy, and pearce. in accordance with ethical research guidelines, the threat was disclosed to criteo, one of the largest third-party ad networks on the market, as well as yahoo. 
+ additional images 
+ related links 
+ cart-ology: intercepting targeted advertising via ad network identity entanglem… 
+ contact 
+ john popham 
+ communications officer for school of cybersecurity and privacy 
+ email 
+ jpopham3@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

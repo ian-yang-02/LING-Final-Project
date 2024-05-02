@@ -1,0 +1,45 @@
+Ultra-Low-Cost Hearing Aid Could Address Age-Related Hearing Loss Worldwide
+Researchers have developed an ultra-low-cost hearing aid to help the hundred of millions of people with age-related hearing loss.
+The LoCHAid uses widely available, off the shelf components that together cost less than $1 in bulk quantities. (Credit: Craig Bromley)
+Sep 23, 2020
+— Atlanta, GA
+Using a device that could be built with a dollar’s worth of open-source parts and a 3D-printed case, researchers want to help the hundreds of millions of older people worldwide who can’t afford existing hearing aids to address their age-related hearing loss.
+The ultra-low-cost, proof-of-concept device known as LoCHAid is designed to be easily manufactured and repaired in locations where conventional hearing aids are priced beyond the reach of most citizens. The minimalist device is expected to meet most of the World Health Organization’s targets for hearing aids aimed at mild to moderate age-related hearing loss. The prototypes built so far look like wearable music players instead of a traditional behind-the-ear hearing aids.
+“The challenge we set for ourselves was to build a minimalist hearing aid, determine how good it would be, and ask how useful it would be to the millions of people who could use it,” said
+M. Saad Bhamla , an assistant professor in the
+School of Chemical and Biomolecular Engineering
+at the Georgia Institute of Technology. “The need is obvious because conventional hearing aids cost a lot and only a fraction of those who need them have access.”
+Details of the project are described Sept. 23 in the journal
+PLOS ONE .
+Age-related hearing loss affects more than 200 million adults over the age of 65 worldwide. Hearing aid adoption remains relatively low, particularly in low- and middle-income countries where fewer than 3% of adults use the devices — compared to 20% in wealthier countries. Cost is a significant limitation, with the average hearing aid pair costing $4,700 in the United States and even low-cost personal sound amplification devices — which don’t meet the criteria for sale as hearing aids — priced at hundreds of dollars globally.
+Part of the reason for the high cost is that effective hearing aids provide far more than just sound amplification. Hearing loss tends to occur unevenly at different frequencies, so boosting all sound can actually make speech comprehension more difficult. Because decoding speech is so complicated for the human brain, the device must also avoid distorting the sound or adding noise that could hamper the user’s ability to understand.
+Bhamla and his team chose to focus on age-related hearing loss because older adults tend to lose hearing at higher frequencies. Focusing on a large group with similar hearing losses simplified the design by narrowing the range of sound frequency amplification needed.
+Modern hearing aids use digital signal processors to adjust sound, but these components were too expensive and power hungry for the team’s goal. The team therefore decided to build their device using electronic filters to shape the frequency response, a less expensive approach that was standard on hearing aids before the processors became widely available.
+“Taking a standard such as linear gain response and shaping it using filters dramatically reduces the cost and the effort required for programming,” said Soham Sinha, the paper’s first author, who was born in semirural India and is a long-term user of hearing aid technology.
+“I was born with hearing loss and didn’t get hearing aids until I was in high school,” said Sinha, who worked on the project while a Georgia Tech undergraduate and is now a Ph.D. student at Stanford University. “This project represented for me an opportunity to learn what I could do to help others who may be in the same situation as me but not have the resources to obtain hearing aids.”
+The ability to hear makes a critical quality of life difference, especially to older people who may have less access to social relationships, said Vinaya Manchaiah, professor of speech and hearing sciences at Lamar University and another member of the research team. “Hearing has a direct impact on how we feel and how we behave,” he said. “For older adults, losing the ability to hear can result in a quicker and larger cognitive decline.”
+The inexpensive hearing aid developed by Bhamla’s team can obviously not do everything that the more expensive devices can do, an issue Manchaiah compares to “purchasing a basic car versus a luxury car. If you ask most users, a basic car is all you need to be able to get from point a to point b. But in the hearing aid world, not many companies make basic cars.”
+For Manchaiah, the issue is whether the prototype device provides sufficient value for the cost. The researchers have extensively studied the electroacoustic performance of their device, but the real test will come in clinical and user trials that will be necessary before it can be certified as a medical device.
+“When we talk about hearing aids, even the lowest of technology is quite high in price for people in many parts of the world,” he said. “We may not need to have the best technology or the best device in order to provide value and a good experience in hearing.”
+The electronic components of the LoCHAid cost less than a dollar if purchased in bulk, but that doesn’t include assembly or distribution costs. Its relatively large size allows for low-tech assembly and even do-it-yourself production and repair. The prototype uses a 3D-printed case and is powered by common AA or lithium ion coin-cell batteries designed to keep costs as low as possible. With its focus on older adults, the device could be sold online or over the counter, Bhamla said.
+“We have shown that it is possible to build a hearing aid for less than the price of a cup of coffee,” he said. “This is a first step, a platform technology, and we’ve shown that low cost doesn’t have to mean low quality.”
+Among the device’s drawbacks are its large size, an inability to adjust frequency ranges, and an expected lifetime of just a year and a half. The cost of batteries is often a hidden burden for hearing aid users, and the AA batteries are expected to last up to three weeks, which is still an improvement from the 4-5 day life expectancy of common zinc-air batteries in current hearing aids.
+The researchers are now working on a smaller version of the device that will boost the bulk component cost to $7 and require a sophisticated manufacturer to assemble. “We’ll no longer be able to solder them ourselves in the lab,” said Bhamla, whose research focuses on frugal science. “This is a labor of love for us, so we will miss that.”
+CITATION: Soham Sinha, Urvaksh D. Irani, Vinaya Manchaiah, and M. Saad Bhamla, “LoCHAid: An ultra-low-cost hearing aid for age-related hearing loss.” ( PLOS ON E, 2020).
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238922
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

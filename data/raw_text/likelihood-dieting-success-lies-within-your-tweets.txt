@@ -1,0 +1,36 @@
+Likelihood of Dieting Success Lies Within Your Tweets
+Georgia Tech researchers have determined that attitudes expressed on social media can predict dieting success.
+Munmun De Choudhury is an assistant professor in the School of Interactive Computing.
+Feb 21, 2017
+— Atlanta, GA
+There is a direct link between a person’s attitude on social media and the likelihood that their dieting efforts will succeed.
+In fact, Georgia Institute of Technology researchers have determined that dieting success ­– or failure – can be predicted with an accuracy rate of 77 percent based on the sentiment of the words and phrases one uses on Twitter.
+“We see that those who are more successful at sticking to their daily dieting goals express more positive sentiments and have a greater sense of achievement in their social interactions,” said Assistant Professor
+Munmun De Choudhury , who is lead researcher on the project. “They are focused on the future, generally more social and have larger social networks.”
+Words and phrases like “ Train smart like a trainer…win like 6 time champion
+[sic],” “ If your not failing your not trying hard enough …[sic],” and “ If we never stumble we never fall. If we never fall we never fail, and if we never fail we never grow! ” are some examples of the upbeat and self-reflective language the research indicates is most common to successful dieters.
+Other traits of successful dieters are that they tend to be more focused on topics related to health and fitness, and they are more socially interactive.
+“We see that these users are much more likely to share healthy recipes, offer tips on nutrition and exercise, and report on their own progress,” said De Choudhury. “Their larger network of friends and followers, and increased engagement, means that they tend to also have stronger support systems, which positively impacts the likelihood of dieting compliance.”
+As for those who are not successful in meeting dietary goals, their Twitter content often has a demonstrably negative tone and they tend to be more uneasy and fearful in their posts.
+“These users tend to be more anxious seemingly because of a lack of emotional control, and because of certain activities and events of daily life,” said De Choudhury.
+Sample posts here include, “ I’m pretty sure I’m going to lose my mind. Completely lose what little is left. I cry at the thought of stupid things ...” and “ Feel rough as old boots this morning :/ Ankle hurts, shin hurts, chest hurts, head hurts .”
+While the study of Twitter in isolation can reveal insights into users’ health status, this research breaks new ground in that the study group consists of individuals who have connected their MyFitnessPal (MFP) – a calorie-counting app – and Twitter accounts.
+“These areas have been individually observed to glean health indicators,” explained De Choudhury. “However, considering these data sources together and applying an established causality testing methodology allows us to validate for the very first time the efficacy of social media and quantified self-sensing in revealing risk to diet compliance.”
+The research looks at more than 2 million tweets and 100,000+ daily MFP entries from nearly 700 individuals. Twitter’s official streaming API was used to identify qualified users by searching publicly shared posts with the hashtag “#myfitnesspal” and that contained an embedded link.
+An individual’s MFP food diary entries were coupled with Twitter posts from the corresponding time period. From this, adherence to their set dieting goals was compared to attitudes and behaviors expressed in the tweets.
+Tweets were analyzed for linguistic attributes that reveal connections between a person’s behavioral expression and their health and wellbeing. Along with affective and cognitive aspects, the linguistic style of the tweets was also examined.
+In future, De Choudhury suggested the new analytical method could be pushed forward to provide greater health and wellbeing benefits.
+“For instance, by temporally aligning social media, quantified self sensing and self-reported attributes, statistical models may be able to explore dynamics of events around when or how soon an individual’s diet is likely to fail,” said De Choudhury. “This would allow for proactive measures to be taken to help ensure more positive health outcomes.”
+A paper titled
+Computational Approaches Toward Integrating Quantified Self Sensing and Social Media
+details these findings and is being presented later this month at the
+20th ACM Conference on Computer-Supported Cooperative Work and Social Computing .
+Additional Images
+Contact
+Albert "Ben" Snedeker - Communications Manager
+404.894.7253 albert.snedeker@cc.gatech.edu
+Email
+albert.snedeker@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

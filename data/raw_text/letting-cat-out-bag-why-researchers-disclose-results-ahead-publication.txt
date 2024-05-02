@@ -1,0 +1,34 @@
+Letting the Cat Out of the Bag: Why Researchers Disclose Results Ahead of Publication
+A study from a research team from the Georgia Tech found that the vast majority of scientists disclose key details about their work informally to peers and potential collaborators ahead of publishing.
+A study from a research team from the Georgia Tech found that the vast majority of scientists disclose key details about their work informally to peers and potential collaborators ahead of publishing.
+May 14, 2018
+— Atlanta, GA
+Scientific researchers are known to guard the findings of their studies, keeping the information close to the chest to prevent others from taking credit, publishing or even filing a patent first.
+But a new study from a research team from the Georgia Institute of Technology could dispel that notion. The team found that the vast majority of scientists disclose key details about their work informally to peers and potential collaborators ahead of publishing in a peer reviewed journal or presenting the findings publicly.
+“For years we had seen these disparities in how different fields of research disclosed scientific findings, and we wanted to get to the heart of what drove those decisions,” said Marie Thursby, a Regents’ Professor Emeritus in Georgia Tech’s Scheller College of Business.
+In a survey of more than 7,100 active academic researchers in nine fields, the study found that the majority – more than 67 percent – of those surveyed disclosed their findings before publishing or presenting the work publicly. However, the motivation for sharing research findings varied widely across the fields.
+“When we talk to scientists, they are extremely interested in this question – what makes the fields so different in how they approach disclosure,” said Jerry Thursby, a coauthor and former professor in the Scheller College of Business. “This is the first survey to start answering that question.”
+The study, which was published today in
+Science Advances
+and supported by the National Science Foundation, highlights the different forces driving researchers across fields.
+The most common reason among researchers for sharing details ahead of publishing was to solicit feedback from colleagues. Another common reason to disclose was to take credit for a finding before another group could disclose a similar result. Other reasons included disclosing to gain collaborators on the project, disclosing to attract other researchers to the field in general, and in some cases, to deter others from working on the exact same problem.
+“In computer science and mathematics, often a scientist will send out a message that they can’t solve a problem, and what they want to happen is for other people to come into their field, not necessarily to be co-authors on their exact problem, but to help work on related problems,” Marie Thursby said. “The fields where they disclose to stimulate other work are ones that are more formulaic like mathematics. So it may be that results are more modular. It’s easier to build on one another’s work and easier to distinguish who did what.”
+While mathematicians and computer scientists shared a common motivator for disclosing results ahead of publication, the two groups were at the opposite ends of the spectrum on the question of whether they disclose – with computer scientists being the least likely at 43 percent and mathematicians being the most likely at 78 percent among the nine groups surveyed.
+Roughly 56 percent of respondents in the engineering field disclosed prior to publication, while more than  percent of the respondents in the remaining fields surveyed disclosed ahead of publication.
+“For fields in which researchers worry less about when they disclose results, one hypothesis is that some forms of research require such high-powered equipment that even if someone wanted to publish results ahead of you, they couldn’t,” Marie Thursby said.
+The study also highlighted subtle differences among biological science researchers – with researchers housed in medical schools being a bit more reluctant to share details than biological scientists at other institutions.
+“In the medical field, certainly for discoveries behind drugs, patents are important, and the commercial pipeline may matter quite a bit there,” Marie Thursby said. “Generally, there’s been a myth that in biological sciences, researchers generally don’t share. But our study shows that they do.”
+The Georgia Tech team also delved into the timing of the disclosures based on how far along the researchers were in their projects. Less than 7 percent of researchers disclosed at the earliest conceptual stages of the work, but about 40 percent typically disclosed research findings after they were sure of validity of the work but had yet to submit a manuscript for publishing.
+“In scientific research, the quicker you get results out, the quicker that science can have an impact,” Marie Thursby said. “I think this study helps us understand more about what factors influence the speed with which new findings reach a broader audience.”
+This material is based upon work supported by the National Science Foundation under Grant No. 09652890. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+CITATION:
+Jerry G. Thursby, Carolin Haeussler, Marie C. Thursby, and Lin Jiang, “Prepublication Disclosure of Scientific Results: Norms, Competition, and Commercial Orientation,” (Science Advances, May 16, 2018). http://dx.doi.org/10.1126/sciadv.aar2133
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

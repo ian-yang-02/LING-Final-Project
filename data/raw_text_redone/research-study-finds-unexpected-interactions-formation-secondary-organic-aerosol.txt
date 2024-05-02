@@ -1,0 +1,25 @@
+research study finds unexpected interactions in formation of secondary organic aerosol in atmosphere 
+ nga lee “sally” ng leads a new study investigating the formation and properties of secondary organic aerosol from the nitrate radical oxidation of two common monoterpenes, compounds found in many plants. 
+ nga lee "sally" ng, associate professor of chemical and biomolecular engineering and earh and atmospheric sciences 
+ jan 30, 2023 
+ — atlanta, ga 
+ secondary organic aerosol (soa) consists of extremely small particles generated in the atmosphere from natural and human-made emissions. it is a major constituent of pm2.5 (particulate matter with a diameter smaller than 2.5 micrometers) worldwide that is known to affect climate and human health. 
+ nga lee “sally” ng , love family professor in georgia tech’s  school of chemical and biomolecular engineering ,  school of earth and atmospheric sciences , and  school of civil and environmental engineering , led a study to investigate the formation and properties of soa from the nitrate radical oxidation of two common monoterpenes, compounds found in many plants. monoterpenes represent an important class of biogenic volatile organic compounds (vocs) and their oxidation by nitrate radicals is a substantial source of soa globally. specifically, her research team examined the monoterpenes α-pinene and limonene, which are both emitted in large quantities from trees. 
+ in findings published in the journal  nature communications  in the  paper , “non-linear effects of secondary organic aerosol formation and properties in multi-precursor systems,” ng’s team found that oxidizing mixtures of monoterpenes simultaneously produced different results than observed through oxidizing them separately in laboratory chamber experiments. given the chemical complexity of voc reactions and soa formation, previous experiments have mostly only studied one voc compound at a time. in this study, ng’s team used advanced mass spectrometry techniques to probe chemistry of multi-voc reactions from the bulk to molecular level. 
+ “our results highlight that unlike what is currently assumed in atmospheric models, the interaction of products formed from individual vocs should be accounted for accurately to describe soa formation and its climate and health impacts," ng said. 
+ ng explained that one might have expected α-pinene and limonene to have the same potential to form soa when they are oxidized as mixtures simultaneously compared to when they are oxidized separately. but what the researchers found was approximately a 50% percent enhancement in the formation of soa from α-pinene and about a 20% reduction in limonene soa formation. 
+ “in this case, one plus one does not equal two,” ng said. “we do not get a linear reaction in the simultaneous oxidation experiment like we do in the sequential experiment. new products are being made by the interaction of the two monoterpenes.” 
+ ng’s study examined α-pinene and limonene in a nighttime setting when nitrate radical chemistry prominently happens. nitrate radicals are produced by traffic emissions and ozone. 
+ “aerosol chemistry does not stop at night,” ng said. after sunset, the nitrogen oxide compounds and ozone can react with the emissions from trees to produce organic aerosols. “at night, oxidation still takes place, but nighttime interactions have not been well studied.” 
+ ng said she hopes this research will lead to further studies to examine vocs in the atmosphere and how they interact together. “studying the interaction of two vocs is really just the beginning,” ng said. “it’s a big step froward, but there’s still a long way to go to understand the complexity of the atmosphere, where hundreds of vocs are emitted and reacting at the same time.” 
+ this work was supported by the national science foundation (nsf) career ags-1555034 (n.l.n), the national oceanic and atmospheric administration (noaa) na18oar4310112 (n.l.n), and the eckert postdoctoral fellowship from the school of chemical and biomolecular engineering at georgia institute of technology (t.b.). the figaero-hr-tof- cims has been purchased through the nsf major research instrumentation (mri) grant 1428738 (n.l.n). 
+ citation : masayuki takeuchi, thomas berkemeier, gamze eris, nga lee ng, "non-linear effects of secondary organic aerosol formation and properties in multi-precursor systems," nature communications, december 2022.  https: / / doi.org / 10.1038 / s41467-022-35546-1 
+ additional images 
+ contact 
+ brad dixon, 
+ braddixon@gatech.edu 
+ email 
+ braddixon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

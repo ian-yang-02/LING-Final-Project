@@ -1,0 +1,20 @@
+A Rainy Day Can Ruin an Online Restaurant Review
+Weather conditions can affect the positivity or negativity of an online restaurant review.
+Apr 02, 2014
+— Atlanta, GA
+After looking at 1.1 million online reviews for 840,000 restaurants in more than 32,000 cities across the country, Georgia Tech and Yahoo Labs researchers have found that the weather outside can be just as significant a factor for reviews as what happens inside a restaurant. Their study shows evaluations written on rainy or snowy days, or very cold or hot days, are more negative than those written on nice days. “People love to describe themselves as foodies. But in the end, it looks like we’re all weather people, whether we realize it or not,” said Saeideh Bakhshi, a Georgia Tech College of Computing Ph.D. candidate who led the study. The study
+also found a nationwide spike in the number of reviews written during the summer, but July and August were the worst months of the year for ratings. November was the best. “The best reviews are written on sunny days between 70 and 100 degrees,” said Bakhshi. “Science has shown that weather impacts our mood, so a nice day can lead to a nice review. A rainy day can mean a miserable one.” The study covered a period of 10 years of reviews on sites that included Foursquare, Citysearch and TripAdvisor. It also found that demographic factors such as neighborhood diversity, education levels and population density have a significant impact. For instance, areas with a high percentage of people with college degrees (more than 50 percent) average nearly three times more reviews than places where fewer than 10 percent have diplomas. However, higher education levels don’t have much of an effect on ratings. The study shows that population density of cities is closely tied to the expectations of service options. Based on reviews in busy cities, people are more patient with wait times and expect restaurants to have delivery options. In smaller cities, carryout service was rated more positively than places with delivery, but reviewers were harsher on pace of service. “We also found that restaurants in the Northeast and Pacific get more reviews than places in the South and Midwest,” Bakhshi added. “I think the difference between the South and Pacific comes mostly from the differences in education, diversity and liberal versus conservative. Blue states such as California, Washington and Oregon have a higher number of reviews per restaurant.” The research team also included
+Eric Gilbert , an assistant professor in Georgia Tech’s School of Interactive Computing, and Partha Kanuparthy, a Yahoo Labs research scientist and 2012 Ph.D. Georgia Tech graduate in computer science. “Our findings could help consumers better understand online reviews and ratings and help review sites calibrate recommendations,” said Gilbert. “Outside factors apparently introduce bias in online ratings of a highly reviewed restaurant in big cities compared to a similar place in a rural area.” As for the ultimate “outside factor,” Kanuparthy says restaurants face the same challenge as everyone else. “You can plan the best wedding or birthday party. Restaurants can serve great food and provide spectacular service,” he notes. “But no one can control the weather. In the end, you can’t beat Mother Nature.” Bakhshi will present the findings on April 10 during the
+23rd
+International World Wide Web Conference
+in Seoul, South Korea.
+Additional Images
+Related links
+More Eric Gilbert Research
+Contact
+Jason Maderer Media Relations maderer@gatech.edu 404-385-2966
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,28 @@
+Deep Learning Can Now Help Prevent Heart Failure
+CSE Associate Professor Jimeng Sun and PhD Student Edward Choi create an algorithm for health care models to detect patients at-risk of heart failure 6-18 months before.
+Feb 28, 2018
+— Atlanta, GA
+Georgia Tech researchers are using deep learning to identify early signs of heart failure.
+In a paper published by the Journal of the American Medical Informatics Association (JAMIA), Georgia Tech’s
+School of Computational Science and Engineering
+Associate Professor
+Jimeng Sun
+and Ph.D. student
+Edward Choi
+present a pioneering method for analyzing vast amounts of personal health record data that addresses temporality in the data – something previously ignored by conventional machine learning models in health care applications.
+The new research, funded by the National Institutes of Health in collaboration with Sutter Health, uses a deep learning model to enable earlier detection of the incidents and stages that often lead to heart failure within 6-18 months. To achieve this, Sun and Choi use a recurrent neural network (RNN) to model temporal relations among events in electronic health records.
+Temporal relationships communicate the ordering of events or states in time. This type of relation is traditionally used in natural language processing. However, Choi saw a new opportunity to leverage the power of RNNs.
+“I studied deep learning and I was wondering if RNNs could be introduced into health care. It is a very popular model for processing sequences and is traditionally used for translation,” said Choi.
+By utilizing RNN, this algorithm can anticipate early stages of heart failure, which will ultimately lead to better preventative care for patients at risk of heart disease.
+“Machine learning is being used in every aspect of health care. From diagnosis and treatments to recommendations for patient care after surgeries. This particular model is focused on deep learning, which has had great success in many industries. However, in health care, we are on the front of pioneering deep learning and Edward is one of the first ones to apply it,” said Sun.
+According to the
+Centers for Disease Control and Prevention , heart failure effects 5.7 million adults in the United States, and half of those who develop heart failure die within 5 years of diagnosis costing the nation an estimated $30.7 billion each year. Choi’s findings stand to provide relief to millions of Americans each year by allowing doctors and patients to have early intervention of the disease.
+“This is a preliminary work, it showed potential that it can do better than classical models – it makes a good promise for how deep learning can make a positive impact in the health care industry,” said Choi.
+The paper was covered by
+Scientific American  and  Kaiser Health News , along with several other works on machine learning for health, including articles from Google and MIT.
+Additional Images
+Email
+kristen.perez@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

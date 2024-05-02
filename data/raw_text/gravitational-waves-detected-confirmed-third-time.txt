@@ -1,0 +1,51 @@
+Gravitational Waves Detected, Confirmed for Third Time
+A gravitational wave signal has been detected and confirmed for the third time, this time from a black hole 3 billion light-years away.
+Artist's conception shows two merging black holes similar to those detected by LIGO. The black holes—which will ultimately spiral together into one larger black hole—are illustrated to be orbiting one another in a plane. The black holes are spinning in a non-aligned fashion, which means they have different orientations relative to the overall orbital motion of the pair. There is a hint of this phenomenon found by LIGO in at least one black hole of the GW170104 system. [Image credit: LIGO/Caltech/MIT/Son
+Jun 01, 2017
+— Atlanta, GA
+A gravitational wave signal has been detected and confirmed for the third time. In a paper published in the journal Physical Review Letters, researchers describe the collision of two black holes that merged to form a larger black hole located about 3 billion light-years away. That’s the farthest signal yet. The black holes in the prior detections are about 1.4 billion light-years from Earth.
+The latest waves, ripples in space and time that travel through the universe at the speed of light, were detected by the Laser Interferometer Gravitational-wave Observatory (LIGO) on January 4, 2017. LIGO is an international team of scientists that includes more than a dozen Georgia Tech faculty members, students and postdoctoral fellows.
+This third merger created a black hole with a mass of about 49 times our sun. The black hole in the first detection is about 62 solar masses; the second is 21. In all three cases, each of the twin detectors of LIGO — located in Louisiana and the state of Washington — detected waves from collisions that produced more power than is radiated as light by all the stars and galaxies in the universe at any given time.
+This detection also hints at new information on how black holes spin. This observation is consistent with that which is expected if the spin of one, or both, of the original black holes was misaligned, meaning it spun in a different direction on its axis from the direction the pair moved around each other.
+“As an example, imagine a pair of tornadoes in a clockwise orbit around each other,” said Georgia Tech Professor
+Laura Cadonati , LIGO’s deputy spokesperson. “Both tornadoes also spin on their own axes. It could be in the same clockwise direction as their orbit or it could be in the other direction. They could also be lying down on their orbital plane or at any angle in between. Black holes could do the same thing.”
+Cadonati says how black holes spin provides an important clue in understanding how they formed. Astrophysicists have two theories: either binary black holes form separately in a dense stellar cluster, sink to the core and are paired up, or they were formed together from the collapse of two already-paired stars. In the former case, the black holes can be oriented in any direction; in the second case, they tend to be aligned.
+“Although our measurement cannot precisely determine if the black holes were tilted, we have indication that at least one of the two black holes was misaligned, which favors the first theory,” said Cadonati.
+Every member of LIGO — more than a thousand scientists worldwide— is listed as an author of the paper. But only a small team was tasked with drafting the document. In that group was James Clark, a research scientist in Georgia Tech’s
+Center for Relativistic Astrophysics
+in the
+School of Physics .
+What was it like to write a paper with this much importance, and what was your scientific contribution?
+Clark: It was very intense. I’ve been working on the science since January, then began on the paper in early February. I fractured my knee during a bike accident in February and had to stay in bed for about two months. I spent that time on the phone and writing. It was good to talk to humans!
+The main thing I did on the science side of things was analyze and compare different estimates of what the signal looked like before it was contaminated by the noise in the detectors. There are two approaches for doing gravitational wave data analysis. First, you can use a template that is formed from our understanding of the physics of black holes using Albert Einstein’s theory of relativity. That’s the more sensitive, modeled approach. Even if the theory is absolutely true, the models don’t include the physics for all possible scenarios. For instance, the models are not guaranteed to be completely accurate for all types of spin speeds and angles.
+I take a different approach: I assume nothing about the shape of the signal, except that it must look the same in multiple detectors. This un-modeled approach allows us to detect and reconstruct the waveform without relying on potentially incomplete or inaccurate models. So, effectively, we de-noise the signal in the data and my job is to check the modeled and un-modeled reconstructions agree.
+There’s a pretty small group of people who can do this — people that have the expertise and context to make comparisons. Getting all the information, running the algorithms and knowing the types of comparisons you can make from these models are fairly niche.
+Some will shrug their shoulders and say this is more of the same: another collision of two black holes. Do you still get excited when there’s a detection?
+Clark: In some ways this is more exciting than our
+first detection . Before the start of the first Advanced LIGO run, the LIGO Scientific Collaboration had decided to test its ability to detect gravitational waves by injecting signals in the detector that only a few people knew about. In practice, that blind injection campaign never started and no secret signal was injected in the data. However, we did not know that at the time and it took me and others in the Collaboration a long time to become confident that the first signal was indeed a gravitational wave. That is not the case anymore. Now when we see a loud, distinctive blip in the data like this, there’s no doubt. Because we’re comfortable and confident that our instruments and analyses really work, we’re really now doing gravitational wave astronomy. And the more signals we observe, the more astronomy we can do!
+One more thing: when you sit back and think about it, we’re measuring something that is completely alien — something that was created 3 billion light-years away. And it was formed by two objects that are tens of times bigger than our sun, flying against each other at the speed of light. It’s completely mind-blowing.
+Are you ready for something new?
+Clark: Absolutely, yes! It will be hugely exciting to see a wave from a binary neutron system. I’m particularly excited to learn about what happens after neutron stars collide; do they survive and create a new, super-heavy neutron star or do they collapse to a black hole straight away? And are such events responsible for gamma-ray bursts, the most violent explosions in the universe?
+That said, seeing something new will present a new set of challenges. We’re now pretty used to detecting and characterizing binary black hole mergers. When we see something that looks totally different, especially something that comes with messy, difficult-to-model effects from matter, there’s every chance we’ll uncover something we don’t expect. That will lead to theoretical challenges in interpreting it, as well as the observational challenge of being sure that we really have seen something unexpected and it’s not just a quirk of the data or algorithms.
+If I’m betting, the next signal will be a binary black hole again. But I
+really
+hope it’s something different involving neutron stars and perhaps even an electromagnetic signal our partners in the wider astronomical community can follow up.
+*LIGO will continue its current observing run through the end of the summer, then take a year to update the sensitivities of the instruments.
+The LIGO Laboratory is funded by the NSF, and operated by Caltech and MIT, which conceived and built the Observatory. The NSF led in financial support for the Advanced LIGO project with funding organizations in Germany (MPG), the U.K. (STFC) and Australia (ARC) making significant commitments to the project. More than 1,000 scientists from around the world participate in the effort through the LIGO Scientific Collaboration, which includes the GEO Collaboration. LIGO partners with the Virgo Collaboration, which is supported by Centre National de la Recherche Scientifique (CNRS), Istituto Nazionale di Fisica Nucleare (INFN) and Nikhef, as well as Virgo's host institution, the European Gravitational Observatory, a consortium that includes 280 additional scientists throughout Europe. Additional partners are listed at:  http://ligo.org/partners.php .
+Additional Images
+Related links
+Historic First Gravitational Wave Detection
+Explaining How Detections are Made (Video)
+Second Detection
+Laura Cadonati Named LIGO Deputy Spokesperson
+Georgia Tech's Center for Relativistic Astrophysics
+Contact
+Jason Maderer
+National Media Relations
+404-660-2926
+maderer@gatech.edu
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

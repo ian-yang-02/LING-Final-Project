@@ -1,0 +1,40 @@
+the link between transit use and early covid cases 
+ a new study looks at the link between america’s mass transit use and covid-19 cases at the beginning of the pandemic. 
+ michael thomas, john taylor, and neda mohammadi 
+ apr 15, 2022 
+ — atlanta, ga 
+ researchers from georgia tech’s colleges of engineering and computing have completed the first published study on the link between america’s mass transit use and covid-19 cases at the beginning of the pandemic. 
+ using data from the federal highway administration’s 
+ national household travel survey , the team looked at the nation’s 52 largest metropolitan areas and each community’s likelihood of riding buses and trains. they then compared the numbers with the 838,000 confirmed covid cases on the johns hopkins center for systems science and engineering's dashboard from jan. 22 – may 1, 2020. 
+ the timeframe covers the initial days, weeks, and months of the pandemic, before mask mandates were in place and prior to widespread social distancing. ventilation on public transit had yet to be addressed, along with other public health measures that have since become the norm. 
+ the study found that cities with high-usage public transportation systems displayed higher per capita covid incidence. this was true when other factors, such as education, poverty levels, and household crowding, were accounted for. the association continued to be statistically significant even when the model was run without data from transit-friendly new york city. 
+ the paper, “ investigating the association between mass transit adoption and covid-19 infections in us metropolitan areas ,” is published in the journal 
+ science of the total environment . while the researchers don’t suggest that transit is the sole cause of the high incidence rates, they say it could have been an important factor early in the pandemic. 
+ “this is what we expected, but we wanted to run the models to know for sure. policymakers shouldn’t make decisions based on what they assume to be true,” said 
+ michael thomas , one of the study’s co-authors and a ph.d. student in georgia tech’s 
+ school of computational science and engineering . “this study is similar to dusting off a dinosaur dig site and finding a leg bone. this isn’t the entire dinosaur. there are many ways of making the argument about covid spread, and transit is just part of it.” 
+ the team got the idea of tracking transit and covid cases after watching early reports from wuhan, china, and reflecting on how differences in public transportation systems may factor into pandemic spread patterns. as assumptions were being made about how american cities should react based on ridership patterns on the other side of the globe, professor 
+ john taylor 
+ thought the pandemic shouldn’t be treated as a “one size fits all” situation. 
+ “in the initial months of the pandemic, models were being developed here at home based on incidence rates in wuhan. but, in terms of mass transit ridership behavior, china’s may be far different than what we see in american cities,” said taylor, frederick law olmsted professor and associate chair for graduate programs and research innovation in the 
+ school of civil and environmental engineering . “for instance, people in chinese urban areas often stand in long, single file lines as they wait for trains and buses. we don’t. different spread patterns can develop because of differences in mass transit behaviors.” 
+ taylor’s primary research focuses on the dynamics that can occur at the intersection of human and engineered networks, such as how people change electricity consumption behaviors and changing mobility patterns in natural disasters. pandemics were on his research radar before covid became a household name, as taylor wanted to create better models to forecast the spread of illnesses. his first research effort in this direction was tracking the ebola virus that reached texas in 2014. 
+ in the fall of 2019, thomas was working as a biostatistician at the georgia department of public health when he spoke with taylor about pursuing his ph.d. thomas submitted his application to georgia tech that november — just four months before covid shut down america. 
+ the two, along with study co-author and senior research engineer 
+ neda mohammadi , are now creating models to predict the spread of future illnesses among populations. they’re also looking to demonstrate how researchers can modify those models for better accuracy. 
+ “if engineers and scientists can better understand the factors of community spread, policymakers can make faster, more accurate decisions to protect public health,” said thomas. “in transportation, for example, it could lead to quicker decisions to restrict the number of people on buses. or policies to stagger vehicle departure times more consistently. studies like ours provide a basis for those decisions.” 
+ having more accurate models also takes varying human behavior into account, according to the researchers. just as people in wuhan wait for public transportation differently than those here in america, cities can differ from each other. 
+ “your pandemic is different than your neighbor’s,” said mohammadi. “pandemic spread isn’t the same from city to city, nor is ridership. decision makers often look to other communities to see how they’re responding to shape their actions. that’s not always accurate. models need to be customizable because populations don’t react uniformly. it’s our goal to improve decision making to be easier, faster, and more accurate for the next pandemic.” 
+ citation:  thomas, m., mohammadi, n., taylor, j. investigating the association between mass transit adoption and covid-19 infections in us metropolitan areas. science of the total environment vol 811, 152284 (2022). 
+ https: / / doi.org / 10.1016 / j.scitotenv.2021.152284 
+ this material is based upon work supported by the national science foundation (nsf) under grant no. 1837021. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the nsf. 
+ additional images 
+ contact 
+ jason maderer 
+ college of engineering 
+ maderer@gatech.edu 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

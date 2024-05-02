@@ -1,0 +1,37 @@
+laser-based system could expand space-to-ground communication 
+ researchers collaborate with satellite communications company on laser-based system. 
+ georgia tech aerospace engineering graduate student byron davis shows xenesis ceo mark lapenna one of the range cubesats scheduled to go into orbit later this fall. (credit: allison carter, georgia tech) 
+ jun 25, 2018 
+ — atlanta, ga 
+ a new research project announced recently as a collaboration between the georgia institute of technology and satellite communications provider xenesis could help open the bottleneck that now limits the flow of data from earth-orbiting satellites to ground stations. 
+ the project will miniaturize, space qualify and test a laser communications transceiver that could dramatically expand the bandwidth available for downlinking information from the growing number of satellites – and future constellations of space vehicles – in low earth orbit. xenesis has licensed the technology from nasa’s jet propulsion laboratory (jpl), and will work with georgia tech and jpl to mature it for use as a primary communication system for satellites as small as cubesats. 
+ “we expect to significantly add to the total bandwidth of information that we can get down from space, and the more bandwidth we have, the more information we can exchange and the more value we can get from satellite networks,” said 
+ brian gunter , an assistant professor in georgia tech’s 
+ daniel guggenheim school of aerospace engineering 
+ who will be leading the project. 
+ gunter’s lab has experience with small satellites, and will apply that expertise to the project with xenesis – which signed a $1.2 million contract on june 14 to support the work. georgia tech’s contribution will be to miniaturize the original jpl technology, update the control software, space qualify all the hardware and test the improved system from space – likely from the international space station. 
+ “with all of the satellites that are going into space, everything from cubesats to major satellites, there is more information being generated than can ever be downloaded,” said dennis poulos, chief technology officer at xenesis. “most of today’s systems depend on radio frequency downlinks, and there is just a limited amount of bandwidth available for use.” 
+ laser-based systems can expand that bandwidth to beyond 10 gigabits per second, poulos said. in addition to boosting bandwidth, optical systems can use smaller antennas, use power more efficiently, and provide better data security. 
+ mark lapenna, ceo of xenesis, compared the benefits of the planned space-based network to the jump in performance from terrestrial dial-up connections of the 1990s to today’s high-speed broadband services. 
+ "xenesis recognizes the need for a global communications revolution, and we plan to empower space with an optical product called xenhub,” lapenna said. “through this architecture, any company, mission or global operator on the ground or in space, will be able to compete on a level playing field for the first time since sputnik." 
+ the laser communications transceiver developed by jpl consists of two components: (1) an optics module that includes a five-centimeter telescope, two-axis gimbal, monitoring sensors and thermal control system, and (2) an electronics module with a transmitter, processor, controllers and power conditioning systems. 
+ though it is subject to interference from clouds, the laser system will benefit from producing a narrow beam that can travel farther than comparable radio-frequency transmissions at the same power level. 
+ the initial focus will be space-to-ground communication, though the system could also be used for cross-linking communication between satellites. the small antenna size is also more suitable to the small-form satellites envisioned for future constellations that may include thousands of spacecraft. 
+ “once we can show that this works from space to ground, that will demonstrate that the technology can survive the harsh environment of space, and allow us continue the development of the transceiver for commercial use,” gunter added. “this has the potential to open up a range of new capabilities, including the ability to provide high-volume data services to anywhere in the world.” 
+ in georgia tech’s school of aerospace engineering, the contract will support three or four graduate students, a postdoctoral researcher, and a group of undergraduate students, gunter said. “this will be a major satellite project for our lab, and we look forward to advancing the technology with our collaborators.” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,66 @@
+Global Warming, a Dead Zone and Mysterious Bacteria
+While global warming shrinks ice caps, it's expanding “oxygen minimum zones,” where newly discovered bacteria are depleting waters of nitrogen, a nutrient essential to life. This could be creating imbalances.
+A submerged carrousel of collector tubes begins its descent to the oxygen minimum zone off of Mexico's Pacific coast. Credit: Dr. Heather Olins
+Aug 03, 2016
+— Atlanta, GA
+In ocean expanses where oxygen has vanished, newly discovered bacteria are diminishing additional life molecules. They are helping make virtual dead zones even deader.
+It’s natural for bacteria to deplete nitrogen in oxygen minimum zones (OMZs), ocean regions that have no detectable O 2 .  But as climate change progresses, OMZs are ballooning, and that nitrogen depletion is also on the rise, drawing researchers to study it and possible ramifications for the global environment.
+Now, a team led by the Georgia Institute of Technology has discovered members of a highly prolific bacteria group known as SAR11 living in the world’s largest oxygen minimum zone. The team has produced unambiguous evidence that the bacteria play a major role in denitrification.
+7 questions, 7 answers
+The new bacteria impact global nutrient supplies and greenhouse gas cycles. Below are questions and answers that illuminate the discovery and its significance.
+The researchers
+published their findings in the journal
+Nature
+on Wednesday, August 3, 2016 . They produced genomic and enzyme analyses that pave the way for further study of carbon and nitrogen cycles in oxygen minimum zones.
+The research has been funded by the National Science Foundation, the NASA Exobiology Program, the Sloan Foundation and the U.S. Department of Energy.
+1. Why does denitrification matter?
+While melting ice caps and dying polar bears splash across headlines, climate change is stressing oceans in other ways, too – such as warming and acidifying waters. Loss of ocean oxygen and nitrogen are pieces of that bigger puzzle.
+As to nitrogen: Anyone who has picked up a bag of fertilizer knows it as a building block of life.
+“It’s an essential nutrient,” said Frank Stewart, an assistant professor at Georgia Tech’s School of Biological Sciences, who headed the team. “Nitrogen is used by all cells for proteins and DNA.”
+Taking it away makes it harder for algae and other organisms to grow, or even live. But it doesn’t stop there. Algae absorb carbon dioxide, so, when algae are diminished, that leaves more of that greenhouse gas in the atmosphere.
+But it’s not yet clear how heavily this particular loss of CO 2
+absorption weighs in the global balance.
+2. How do these newly discovered bacteria deplete nitrogen?
+In OMZs, with O 2
+gone, the newly discovered strains of SAR11 bacteria (and some other bacteria) respire NO 3
+(nitrate) instead, the Georgia Tech researchers found. They kick off a chemical chain that leads to nitrogen disappearing out of the ocean.
+“They take nitrate, convert it into nitrite (NO 2 ), and that can ultimately be used to produce gaseous nitrogen,” Stewart said. Plain nitrogen, N 2 , and nitrous oxide, N 2 O, would result.  “Both of those gases have the potential to bubble out of the system and leave the ocean.”
+That makes the oxygen-barren waters even less hospitable to life while putting more nitrogen into the air, as well as nitrous oxide, a key greenhouse gas.
+The newly discovered members of the SAR11 bacteria clade – clade means a branch of living species -- appear to be the single largest contingent of bacteria in OMZs. That makes them a very significant player in nitrogen loss.
+3. Ocean zones with no oxygen? Sounds wild. Did climate change do that?
+No. Oxygen minimum zones are natural. The issue is that global warming is making them grow, just like it’s making ice caps shrink.
+OMZs form mostly in the tropics, off coastlines where wind pushes surface waters out to sea, allowing deeper waters to rise up. These are full of nutrients and boost the growth of simple aquatic life like algae.
+“Eventually, the algae die and sink slowly,” Stewart said. “Bacteria munch on it, and in the process, they breathe oxygen.” There’s so much algae that the bacteria consume oxygen at a dizzying rate, depleting the water of it.
+Global warming is causing OMZs to spread because it makes seawater less able to hold oxygen. As OMZs expand, so does the potential for denitrification, tipping global balances of nitrogen, greenhouse gases, and nutrients.
+4. I’ve heard of the disease SARS, but what is SAR11?
+The two are unrelated.
+SARS is caused by a virus and is potentially deadly. SAR11 bacteria are not only harmless to humans; hypothetically, we might starve without them. They’re at the base of an oceanic food chain, which is very important to the global food supply.
+“After they eat dissolved organic carbon (dead stuff), then the bacteria are eaten by bigger cells, which are eaten by larger plankton, and so on up the food chain,” Stewart said.
+Previously known SAR11 are so incredibly widespread in the ocean, it’s surprising they’re not a household name.  They may even comprise the largest number of living organisms on Earth.
+Under the microscope, SAR11 bacteria pretty much look the same. “They’re usually short little slightly bent rods,” Stewart said. Until now, SAR11 have been known to require oxygen to live, so finding SAR11 that respire nitrate is new and surprising.
+5. Where did the team get these new nitrate breathing SAR11 strains?
+Stewart and his team sailed for four days aboard a research vessel from San Diego, California, to an area off the Pacific coast of Mexico’s Calimo state. There, they dropped a carousel of tube-like bottles about four feet long down to the center of the world’s largest OMZ 1,000 feet below.
+“The bottoms and tops of the bottles are open,” Stewart said. “When you get to the depth you want, you close them to get your sample.”
+The new bacteria don’t have species names yet, but their genomes, which were sequenced in the study, indicate they’re members of the SAR11 bacteria clade.
+6. Why is this discovery scientifically significant?
+It upends quite justified scientific doubts.
+Scientists thought SAR11 wouldn’t have strains that flourish in the harsh OMZ environment, because the SAR11 clade doesn’t have a reputation for being very adaptable. “When their genomes do change, they’re usually very subtle changes,” Stewart said.
+Many other bacteria, by contrast, plunk in and out big chunks of their DNA, making them widely adaptable. Also, though researchers had already detected genetic signatures of SAR11 bacteria in OMZs, they didn’t think the bacteria were actually at home there.
+These facts put Stewart and his team under a heavy burden of proof.
+7. How did the scientists answer the doubts?
+They flushed out the genomes of 15 individual new bacteria strains they had captured as intact single cells. Surprisingly, the researchers found the blueprints for an enzyme, nitrate reductase, which could allow the bacteria to breathe nitrate in place of oxygen.
+Since the novel bacteria have not yet been grown in the lab, the researchers inserted their nitrate reduction gene sequences into E. coli bacteria to see if they would use the DNA to produce the enzyme and if the enzyme would then work.
+It did.
+“Not all studies that do this kind of genome-based analysis take that extra step,” Stewart said with a long exhale. But it nailed nagging doubts.
+The thorough analyses produced a critical dataset for science to build upon. More research will be needed to find out what adaptations allow SAR11 bacteria to exist under such harsh conditions. The following researchers coauthored the study: Despina Tsementzi, Jieying Wu, Luis M. Rodriguez-R, Andrew S. Burns, Piyush Ranjan, Cory C. Padilla, Neha Sarode, Jennifer B. Glass and Konstantinos T. Konstantinidis from Georgia Tech; Samuel Deutsch, Sangeeta Nath, Rex R. Malmstrom and Tanja Woyke from the U.S. Department of Energy; Benjamin K. Stone from Bowdoin College; Laura A. Bristow from the Max Planck Institute; Bo Thamdrup and Morten Larsen from the University of Southern Denmark.
+The research was funded by the National Science Foundation (grants 1151698 and 1416673), the NASA Exobiology Program (grant NNX14AJ87G), the Sloan Foundation (RC944), and the U.S. Department of Energy’s Community Science Program. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring agencies.
+Additional Images
+Contact
+Writer and contact: Ben Brumfield
+Research News
+(404) 660-1408
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,34 @@
+Colliding Privacy, Democracy and Technology?
+The Institute for Information Security and Privacy at Georgia Tech examines emerging cyber threats for 2017.
+Sep 28, 2016
+— Atlanta, GA
+Georgia Tech’s 2017
+Emerging Cyber Threats, Trends and Technologies
+report highlights concerns about global manipulation of information, health care fraud, data encryption and other issues likely to affect society in the year ahead. The report, produced annually, is an expert-driven review of recent cybersecurity trends, developing research and threat considerations.
+Among the findings:
+Global information manipulation by nation-states is now widespread, causing western nations to curtail free speech and news consumers to view information cautiously.
+Health care fraud is taking off in the absence of good defenses, as the value of personal data far surpasses that of stolen credit cards.
+Cultural differences and unresolved approaches to data encryption continue to mire companies and business leaders with uncertainty and risk in North America and Europe.
+Crowdsourced and open-source solutions hold promise for addressing insecure, aging electronic voting systems.
+Public proof of who is behind cyberattacks remains elusive.
+Interest is growing in computer science education, suggesting a changing tide in the nation’s shortfall of information technology workers.
+“Cyberattacks today are flourishing because almost every organization conducts some portion of its business online — putting even digitally cautious consumers at risk when it is not sufficiently protected,” said Wenke Lee, co-director of the Institute for Information Security and Privacy (IISP) and professor of computer science at Georgia Tech. “There is widespread reluctance to share threat information, and there’s a lack of public attribution about who is responsible, making it nearly impossible for the public to defend themselves.”
+Georgia Tech’s broad understanding of cybersecurity issues can be used to develop strategies to address a range of threats, noted Bo Rotoloni, co-director of IISP.
+“Under this unique combination, Georgia Tech can help foretell how the ‘white hats’ should prepare because we continually witness how the ‘black hats’ adapt,” said Rotoloni, director of the Information and Cyber Sciences Directorate at the Georgia Tech Research Institute, the university’s applied research arm.
+Georgia Tech issues the Threat Report each fall in conjunction with its annual
+Cyber Security Summit , which is taking place today in Tech Square. The summit brings together government, industry and academia for objective conversation about the challenges of securing information and cyber-connected systems.
+-- Written by Tara La Bouff
+Additional Images
+Related links
+Institute for Information Security & Privacy
+2017 Emerging Cyber Threats Report
+Contact
+Laura Diamond
+Institute Communications
+404-894-6016
+@LauraRDiamond
+Email
+laura.diamond@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

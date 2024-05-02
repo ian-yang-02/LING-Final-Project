@@ -1,0 +1,30 @@
+Observing a “Cosmic Symphony” Using Gravitational Wave Astronomy
+Research from a team of astrophysicists presents a compelling roadmap for capturing four- to 10-year snapshots of intermediate-mass black hole activity.
+A snapshot of the 3D gravitational waveform from a general relativistic simulation of binary black holes. Gravitational waves from such binary mergers are routinely observed by LIGO. With space missions such as LISA, the evolution of these binaries can be monitored years in advance, allowing multi-frequency constraints on astrophysical formations and tests of general relativity.  (Credit: Jani, K., Kinsey, M., Clark, M., Center for Relativistic Astrophysics, Georgia Institute of Technology.)
+Nov 19, 2019
+— Atlanta, GA
+Shrouded in mystery since their discovery, the phenomenon of black holes continues to be one of the most mind-boggling enigmas in our universe.
+In recent years, many researchers have made strides in understanding black holes using observational astronomy and an emerging field known as gravitational wave astronomy, first hypothesized by Albert Einstein, which directly measures the gravitational waves emitted by black holes.
+Through these findings on black hole gravitational waves, which were first observed in 2015 by the Laser Interferometer Gravitational-Wave Observatories (LIGO) in Louisiana and Washington, researchers have learned exciting details about these invisible objects and developed theories and projections on everything from their size to their physical properties.
+Still, limitations in LIGO and other observation technologies have kept scientists from grasping a more complete picture of black holes, and one of the largest gaps in knowledge concerns a certain type of black hole: those of intermediate mass, or black holes that fall somewhere between supermassive (at least a million times greater than our sun) and stellar (think: smaller, though still five to 50 times greater than the mass of our sun).
+That could soon change thanks to new research from a team of astrophysicists from the Georgia Institute of Technology, Vanderbilt University, the California Institute of Technology, and the Jet Propulsion Laboratory at NASA. The study, which was sponsored by NASA and the National Science Foundation and published Nov. 18 in
+Nature
+Astronomy , presents a compelling roadmap for capturing four- to 10-year snapshots of intermediate-mass black hole activity.
+“The possibility that intermediate-mass black holes exist but are currently hidden from our view is both tantalizing and frustrating,” said Deidre Shoemaker, a professor in Georgia Tech’s School of Physics. “Fortunately, there is hope, as these black holes are ideal sources for future multiband gravitational wave astronomy.”
+The new research, led by Karan Jani at Vanderbilt, looks at the future of LIGO detectors alongside the proposed Laser Interferometer Space Antenna (LISA) space mission, which would help humans get a step closer to understanding what happens in and around black holes.
+“Like a symphony orchestra emits sound across an array of frequencies, the gravitational waves emitted by black holes occur at different frequencies and times,” Jani said. “Some of these frequencies are extremely high bandwidth, while some are low bandwidth, and our goal in the next era of gravitational wave astronomy is to capture multiband observations of both of these frequencies in order to ‘hear the entire song,’ as it were, when it comes to black holes.”
+LISA, a mission jointly led by the European Space Agency and NASA and planned for launch in the year 2034, would improve detection sensitivity for low-frequency gravitational waves. As the first dedicated space-based gravitational wave detector, LISA would provide a critical measurement of a previously unattainable frequency and enable the more complete observation of intermediate-mass black holes. In 2018, Vanderbilt physics and astronomy professor Kelly Holley-Bockelmann was appointed by NASA as the inaugural chair of the LISA Study Team.
+“Inside black holes, all known understanding of our universe breaks down,” Jani, who holds a Ph.D. in physics from Georgia Tech, said. “With the high frequency already being captured by LIGO detectors and the low frequency from future detectors and the LISA mission, we can bring these data points together to help fill in many gaps in our understanding of black holes.”
+This story was adapted from content provided by Vanderbilt University.
+The research was supported by NASA under grant No. 80NSSC19K0322 and the National Science Foundation under grant Nos. PHY-1806580, PHY-1809572 and PHY-1708212. Work was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under contract to the National Aeronautics and Space Administration. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies.
+CITATION:
+Karan Jani, Deirdre Shoemaker, and Curt Cutler, “Detectability of intermediate-mass black holes in multiband gravitational wave astronomy” ( Nature Astronomy , November 2019). http://dx.doi.org/10.1038/s41550-019-0932-7
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

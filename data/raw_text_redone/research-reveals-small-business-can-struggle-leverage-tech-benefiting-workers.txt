@@ -1,0 +1,26 @@
+research reveals small business can struggle to leverage tech benefiting workers 
+ research highlighting crucial role of front-line workers in designing automated technologies earns best paper award at premier social computing conference. 
+ oct 18, 2023 
+ a new georgia tech study reveals that excluding front-line workers from the design process can increase employee turnover rates, leading to higher costs and reduced efficiency for businesses implementing new automated technologies. 
+ alyssa sheehan has seen firsthand how companies can struggle to leverage new technologies meant to improve systems and benefit workers. she collaborated with dozens of companies as the director of the georgia center of innovation's aerospace team from 2022 to 2023. 
+ that experience inspired the ph.d. candidate and 2022 foley scholar to explore the effects on workers when technology is implemented to automate traditional paper-based processes.   making meaning from the digitalization of blue-collar work   won a best paper award at the 2023 conference on   computer supported cooperative work and social computing   (cscw) this week in minneapolis. 
+ “i’m trying to cast meaningful work into a new light with automation and technology design,” sheehan said. “the intention is so focused on delivering efficiency and optimizing the process. companies and technologists forget about user input from workers using these systems.” 
+ microsoft and other major tech companies have   announced commitments   to use technology to foster a culture of meaningful work within the workplace. however, sheehan said that small businesses often lack the resources and knowledge required to incorporate such beneficial technology. others design the technology with only productivity in mind and without considering if it makes their employees’ jobs more meaningful. 
+ “there’s a lot of research that shows there’s a technology gap, particularly for small businesses,” sheehan said. “i’m not always advocating for technology as a solution, but i look at what exists critically and ask, ‘is this technology doing what we want it to? if the goal is to support workers, how is it doing that?’” 
+ sheehan worked with a small georgia-based manufacturing company to conduct an 18-month study. she designed and deployed off-the-shelf tools to automate the company’s shipping and receiving processes that required time and paperwork. 
+ with the support of researchers from georgia tech’s   institute of people and technology   (ipat), she customized a wearable and mobile app. the workers used the app to check off critical tasks within the shipping process one by one. 
+ the results were mixed. 
+ sheehan said many ground-floor shipping experts were frustrated by the frequency of having to repack orders because of customer complaints about improper shipping. the workers insisted they’d done the job correctly. the mobile app allowed them to take pictures of each order after packaging for quality assurance. 
+ the workers appreciated the feature, but they also provided negative feedback. in some cases, the app required workers to perform tasks contrary to methods that suited them and made them feel productive. it also took away a sense of autonomy and pride in expertise from workers because it instructed them what to do step by step. instead of making the job easier, workers felt like their superiors didn’t trust them to do the job correctly. 
+ “it helped in certain areas like not having to take notes on paper anymore and using outdated equipment. however, they struggled to see how it would preserve meaning in their job in terms of working with their hands and doing various tasks at any given time. 
+ “we create universal systems and solutions for mobile apps that are often deployed without understanding the context of organizational practices. that’s a problem. now, the workers have to adapt their processes to make this tool work in practice. they’re being asked to give up how they do things,” sheehan said. 
+ she added that automated technology systems need to go beyond convenience and productivity, and these systems may cause more harm than good if it diminishes meaning and value from workers. 
+ “by leaving the worker perspective out of the design process, we limit the potential of these technologies,” she said. “productivity still relies on people being engaged in the process. if we’re going to create true productivity, we need to make sure those jobs are valuable and that people feel what they do matters. that leads to less turnover and higher job satisfaction rates.” 
+ additional images 
+ contact 
+ nathan deen, communications officer 
+ school of interactive computing 
+ nathan.deen@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

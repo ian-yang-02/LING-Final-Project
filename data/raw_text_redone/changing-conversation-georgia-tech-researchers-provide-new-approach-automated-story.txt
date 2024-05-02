@@ -1,0 +1,34 @@
+changing the conversation: georgia tech researchers provide new approach to automated story generation 
+ research from georgia tech’s school of interactive computing provides a novel approach that improves the combination of automated story generation with natural language. 
+ feb 04, 2020 
+ — atlanta, ga 
+ it’s a situation familiar to anyone who’s ever communicated with a voice assistant on a smart device. you pose a request: “hey voice assistant, tell me a story about georgia tech.” more often than not, you get a related response – “georgia tech is located in atlanta, georgia. would you like me to provide you with directions?” – but one with slightly unnatural language and only limited information. 
+ despite the enormous strides made in artificial intelligence to develop systems that can answer simple questions and requests, the kinds of natural conversational language humans have with each other when giving more complex directions or telling stories has thus far been out of reach. 
+ research from 
+ georgia tech ’s 
+ school of interactive computing , however, provides a novel approach that improves the combination of automated story generation with natural language. the development is an important step in providing ai assistants the capability to more naturally converse with humans. 
+ “let’s think of a future version of siri or alexa, where you have a complex task that’s not just ‘look this thing up on the internet,’ or ‘tell me what the weather is outside,’” said mark riedl, an associate professor at georgia tech and the faculty lead on the research. “maybe you want to plan your day or a birthday party. think of the response like a little story, a narrative that conveys the requested information. 
+ “it’s a missing capability in ai – they just don’t understand us or communicate with us in the same ways that we understand each other.” 
+ riedl and his team approached the challenge by viewing the exchange of information as stories – a series of events, one after the other, that leads to some conclusion. past research on the topic identified patterns in language to identify how stories are constructed – namely that a verb generally changes the action and conveys a new event in a story. 
+ “by boiling down these stories drawn from the internet to essential verbs and actions, we can extract patterns from stories better,” riedl said. “there are a lot of ways to talk about marriage, but at the end of the day someone is marrying someone else.” 
+ this paper, the third in the series, took the next step: if you take away all the words to identify the patterns in a story, you need to be able to put them back in naturally and intelligently in a way that humans are accustomed to. put simply, it’s like building an outline and then filling in the details. 
+ the system works by building the outline through a neural network trained on sequencing events. with the help of story examples drawn from the internet, it applies machine learning to produce a series of events, one leading to the most likely next outcome. that outline guides a second neural network that applies natural language – grammar, syntax, spelling, everything else you need to make the story intelligible – to produce more elaborate sentences. 
+ “if you’re asking for directions for how a birthday party should go, you don’t want just ‘jill eats cake; jill opens presents,’” riedl said. “you want something more akin to the stories we share as humans. it’s actually more difficult for us to process information when it’s delivered in a way we’re not accustomed to.” 
+ the researchers found that an ensemble approach works the best. they use a series of five algorithms, each with different capabilities in accuracy and natural language generation, produces the best stories. because one algorithm isn’t uniformly better at all aspects of the task, it will be run through all five to find the highest confidence level of the sentence. 
+ “one technique might provide bland sentences, but is accurate with the actual content,” riedl said. “another might be very good at putting in a narrative flourish, but they fail more often. you want that nicer sentence, but you also want it to be able to catch mistakes in the content.” 
+ the ensemble approach scored significantly higher in human studies than the individual algorithms alone. human trust in their ai and robot assistants, riedl said, was key to adoption in the future. 
+ “the key is that you want to place that trust in your machine counterpart, but it has to earn that trust on correctness and accuracy,” he said. 
+ the paper is titled 
+ story realization: expanding plot events into sentences , and will be presented at the 
+ 34 th 
+ aaai conference on artificial intelligence 
+ on feb. 7-12 in new york city. the research is funded under a grant from 
+ darpa . 
+ additional images 
+ contact 
+ david mitchell 
+ communications officer 
+ david.mitchell@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

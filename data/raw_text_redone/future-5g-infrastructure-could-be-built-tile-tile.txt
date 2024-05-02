@@ -1,0 +1,32 @@
+the future of 5g+ infrastructure could be built tile by tile 
+ manos tentzeris and his team of georgia tech researchers flex their novel 5g+‐enabled massively scalable tile arrays 
+ genaro soto valle, manos tentzeris, kexin hu, and yepu cui with the fabricated proof-of-concept tile arrays and inkjet-printed tile arrays. 
+ mar 29, 2022 
+ — atlanta, ga 
+ 5g+ (5g / beyond 5g) is the fastest-growing segment and the only significant opportunity for investment growth in the wireless network infrastructure market, according to  the latest forecast by gartner, inc.  but currently 5g+ technologies rely on large antenna arrays that are typically bulky and come only in very limited sizes, making them difficult to transport and expensive to customize. 
+ researchers from georgia tech’s college of engineering have developed a novel and flexible solution to address the problem. their additively manufactured tile-based approach can construct on-demand, massively scalable arrays of 5g+ (5g / beyond 5g)‐enabled smart skins with the potential to enable intelligence on nearly any surface or object. the study,  recently published in scientific reports , describes the approach, which is not only much easier to scale and customize than current practices, but features no performance degradation whenever flexed or scaled to a very large number of tiles. 
+ “typically, there are a lot of smaller wireless network systems working together, but they are not scalable. with the current techniques, you can’t increase, decrease, or direct bandwidth, especially for very large areas,” said  manos tentzeris , ken byers professor in flexible electronics in the  school of electrical and computer engineering . “being able to utilize and scale this novel tile-based approach makes this possible.” 
+ tentzeris says his team’s modular application equipped with 5g+ capability has the potential for immediate, large-scale impact as the telecommunications industry continues to rapidly transition to standards for faster, higher capacity, and lower latency communications. 
+ building the tiles 
+ in georgia tech’s new approach, flexible and additively manufactured tiles are assembled onto a single, flexible underlying layer. this allows tile arrays to be attached to a multitude of surfaces. the architecture also allows for very large 5g+ phased / electronically steerable antenna array networks to be installed on-the-fly. according to tentzeris, attaching a tile array to an unmanned aerial vehicle (uav) is even a possibility to surge broadband capacity in low coverage areas. 
+ in the study, the team fabricated a proof-of-concept, flexible 5×5-centimeter tile array and wrapped it around a 3.5-centimeter radius curvature. each tile includes an antenna subarray and an integrated, beamforming integrated circuit on an underlying tiling layer to create a smart skin that can seamlessly interconnect the tiles into very large antenna arrays and massive multiple-input multiple-outputs (mimos) — the practice of housing two or more antennas within a single wireless device. tile-based array architectures on rigid surfaces with single antenna elements have been researched before, but do not include the modularity, additive manufacturability, or flexible implementation of the georgia tech design. 
+ the proposed modular tile approach means tiles of identical sizes can be manufactured in large quantities and are easily replaceable, reducing the cost of customization and repairs. essentially, this approach combines removable elements, modularity, massive scalability, low cost, and flexibility into one system. 
+ 5g+ is just the beginning 
+ while the tiling architecture has demonstrated the ability to greatly enhance 5g+ technologies, its combination of flexible and conformal capabilities has the potential to be applied in numerous different environments, the georgia tech team says. 
+ “the shape and features of each tile scale can be singular and can accommodate different frequency bands and power levels,” said tentzeris. “one could have communications capabilities, another sensing capabilities, and another could be an energy harvester tile for solar, thermal, or ambient rf energy. the application of the tile framework is not limited to communications.” 
+ internet of things, virtual reality, as well as smart manufacturing / industry 4.0 — a technology-driven approach that utilizes internet-connected “intelligent” machinery to monitor and fully automate the production process — are additional areas of application the team is excited to explore. 
+ “the tile-architecture’s mass scalability makes its applications particularly diverse and virtually ubiquitous. from structures the size of dams and buildings, to machinery or cars, down to individual health-monitoring wearables,” said tentzeris. “we’re moving in a direction where everything will be covered in some type of a wireless conformal smart skin encompassing electronically steerable antenna arrays of widely diverse sizes that will allow for effective monitoring.” 
+ the team now looks forward to testing the approach outside the lab on large, real-world structures. they are currently working on the fabrication of much larger, fully inkjet-printed tile arrays (256+ elements) that will be presented at the upcoming international microwave symposium (ieee ims 2022) – the flagship ieee conference in rf and microwave engineering. the ims presentation will introduce a new tile-based large-area architecture version that will allow assembly of customizable tile arrays in a rapid and low-cost fashion for numerous conformal platforms and 5g+ enabled applications. 
+ **** 
+ the authors declare no competing interests. 
+ this work was supported in part by the national science foundation. 
+ citations: he, x., cui, y. & tentzeris, m.m. tile-based massively scalable mimo and phased arrays for 5g / b5g-enabled smart skins and reconfigurable intelligent surfaces. sci rep 12, 2741 (2022).  https: / / doi.org / 10.1038 / s41598-022-06096-9 
+ k.hu, g.s.v.angulo, y.cui and m.m.tentzeris, “flexible and scalable additively manufactured tile-based phased arrays for satellite communications and 5g mmwave applications,” accepted for presentation at ieee international microwave symposium (ims) 2022, denver, co, june 2022. 
+ additional images 
+ contact 
+ dan watson dwatson@ece.gatech.edu 
+ email 
+ dwatson@ece.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,35 @@
+New Chip Could Make Treating Metastatic Cancer Easier and Faster
+Researchers at the Georgia Institute of Technology have found a detection method that could revolutionize cancer treatment by showing how cancers metastasize and what stage they are.
+Fabrication of the microchip. The device is fabricated by injecting a polymer into a micro fabricated mold and the polymer is cured under ultraviolet light to produce low-cost, single-use devices.
+Aug 11, 2022
+— Atlanta, GA
+Cancer spreads via circulating tumor cells (CTCs) that travel through the blood to other organs, and they are nearly impossible to track. Now, researchers at the Georgia Institute of Technology have found a detection method that could revolutionize cancer treatment by showing how cancers metastasize and what stage they are. This could lead to earlier and more targeted treatment, beginning with a simple blood test.
+When a tumor starts metastasizing, it sheds its cell into the blood. An individual cell often doesn’t survive the bloodstream on its own, but clusters of cells are much more robust and can travel to other organs, effectively pushing the cancer to a metastatic state.
+CTCs have proven difficult to study, let alone treat. Blood contains billions of cells per milliliter, and only a handful of those cells would be CTCs in a patient with metastatic cancer. Such intense filtration has been inaccessible using conventional lab methods. Most traditional filtration is too aggressive and would break the cluster back into single cells and ruin the ability to study the effect of a cluster.
+“That’s what got engineers like me interested in this because we are really good at creating sensors, or small devices that actually do sensitive analysis,” said
+School of Electrical and Computer Engineering
+Associate Professor
+Fatih Sarioglu . “We started developing technologies to catch these precious cells to help manage cancer better.”
+Sarioglu presented the research in “ High Throughput, Label-free Isolation of Circulating Tumor Cell Clusters in Meshed Microwells ,” recently published in
+Nature
+Co mmunications.
+Creating the Cluster-Well
+Sarioglu’s lab invented a new type of chip called the Cluster-Well, combining the precision of microfluidic chips with the efficiency of membrane filtration to find CTC clusters. Using micron-sized features, microfluidic chips can precisely locate each cell in a blood sample and determine if it’s cancerous.
+“Microfluidic chips give you more control as a designer to actually ask whatever question that you want to ask those cells,” Sarioglu said. “It increases the precision and sensitivity, which is what you need for an application like this because you want to find that single cell out of many blood cells.”
+To rapidly process a clinically relevant volume of blood, the researchers relied on membrane filtration to make the chip operation more scalable. In effect, the chip looks like a standard membrane filter, but under an electron microscope the microfluidic chip reveals its delicate structure used to capture clusters while letting other blood cells pass through.
+Practicality was just as important as functionality to the researchers. Although the chip is initially fabricated with silicon just like a central processing unit in a computer, it is later transferred to polymers to make it accessible, affordable, and single-use, while still retaining its delicacy and precision.
+“We really created only the traps that we need to have for recognizing the clusters with the microfluidic chip, and the rest is just a standard filter holder,” Sarioglu said. “Compared to a conventional microfluidic chip, you will get a much more practical assay with orders of magnitude improvement in throughput and a higher sensitivity.”
+Analyzing Patient Tumor Cell Clusters
+The researchers used the chip to screen blood samples from patients with ovarian or prostate cancers through a partnership with the Emory and Northside Hospitals. They isolated CTC clusters ranging from two to 100 or more cells from prostate and ovarian cancer patients and used RNA sequencing to analyze a subset.
+The chip’s unique design means CTC clusters are filtered in microwells and can later be accessed for further analysis. Even a single CTC can contain a significant amount of data on the patient and their specific cancer, which can be critical for managing the disease. For example, the researchers noted hundreds of CTCs in clusters in the blood of ovarian cancer patients, some still alive, a finding that could be consequential to the spread of the disease.
+Also, by sequencing the RNA in prostate CTC clusters isolated by the chip, the researchers identified specific genes expressed by these metastasizing cells. Importantly, CTC clusters from different patients were shown to express different genes, which can be potentially utilized to develop personalized, targeted therapies. Sarioglu envisions Cluster-Wells as being a routine part of the treatment process to determine what stage the cancer is at from a simple blood draw.
+“Finding these clusters was very elusive,” Sarioglu said. “But this is a technology that allows these precious circulating tumor cell clusters virtually in any cancer to be accessed with precision and practicality that has not been possible before.”
+CITATION: Boya, M., Ozkaya-Ahmadov, T., Swain, B.E.  et al.  High throughput, label-free isolation of circulating tumor cell clusters in meshed microwells.  Nat Commun   13,  3385 (2022). https://doi.org/10.1038/s41467-022-31009-9
+Additional Images
+Contact
+Tess Malone, Research Writer/Editor
+Email
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

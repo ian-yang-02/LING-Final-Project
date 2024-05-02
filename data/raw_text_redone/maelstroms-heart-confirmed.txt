@@ -1,0 +1,50 @@
+maelstroms in the heart confirmed 
+ imaging technique enables observation of the vortex-like, rotating contractions that underlie life-threatening ventricular fibrillation. 
+ feb 22, 2018 
+ — atlanta, ga 
+ every two minutes in the u.s., a person dies of sudden cardiac arrest or fibrillation, the most common cause of death worldwide. 
+ doctors still do not fully understand exactly what goes on in the heart during a cardiac attack. until now, it was impossible to visualize and characterize the dynamic processes in the fibrillating heart muscle. this week in 
+ nature , 
+ an international team reports an imaging technique to observe the vortex-like, rotating contractions that underlie life-threatening ventricular fibrillation. the technique may enable early identification of heart rhythm disorders, better understanding of cardiac disease, and development of better treatments. 
+ led by 
+ stefan luther 
+ and 
+ jan christoph 
+ of 
+ the max planck institute for dynamics and self-organization 
+ (mpids), in germany, the research team includes 
+ flavio fenton 
+ and 
+ ilija uzelac 
+ from the school of physics at georgia institute of technology. 
+ diagnostic breakthrough 
+ when the heart muscle no longer contracts in a coordinated manner, but simply flutters or twitches – the condition referred to as “fibrillation” – it is a highly life-threatening situation. medical intervention usually involves administering a strong electrical shock within a few minutes. high-energy defibrillation is excruciating and can be damaging to heart tissues. 
+ “the key to a better understanding of fibrillation lies in 
+ a new, high-resolution imaging technique 
+ that allows processes inside the heart muscle to be observed,” luther says. 
+ “until now, only surface recordings of complex fibrillation was possible,” fenton says. 
+ the team’s imaging method enables the fibrillating myocardium to be visually time-resolved in three dimensions. the imaging is much more accurate than previously possible and uses clinically available high-resolution ultrasound equipment. 
+ improved understanding of fibrillation enabled by the procedure could lead to alternative defibrillation techniques, also an area of research of fenton’s and luther’s. for example, researchers could improve the use of low-energy pulses to restore normal heart rhythm. 
+ the technique could enable cardiologists to pinpoint the pathological foci of excitation. it may help in diagnosis and treatment of heart failure caused by fibrillation. it may allow doctors to detect heart failure earlier and treat it more effectively. 
+ electrical waves cause mechanical contractions of the heart 
+ every heartbeat is triggered by electrical waves of excitation that propagate through the myocardium at high speed, causing myocardial cells to contract. if these waves become turbulent, the result is cardiac arrhythmia. 
+ in cardiac arrhythmias, rotational electrical waves of excitation swirl through the heart muscle. investigations of cardiac arrhythmias have focused on such electrical vortices, but researchers have not been able to obtain a full picture of the dynamics. 
+ the international team took a different approach. instead of concentrating on electrical stimulation, they looked at the twitching contractions of the fibrillating myocardium. “until now, little importance was attached to the analysis of muscle contractions and deformations during fibrillation,” christoph says. “in our measurements, however, we saw that electric vortices are always accompanied by corresponding vortex-shaped mechanical deformations.” 
+ ventricular fibrillation in 3d 
+ using high-resolution measurements carried out with clinically available ultrasound equipment, the researchers visualized the trembling movements inside the heart muscle in three dimensions and correlated them with the electrical excitation of the heart. 
+ by analyzing the image data of the muscle contractions, the researchers were able to observe exactly how areas of contracted and relaxed muscle cells move in a vortex through the myocardium during fibrillation. 
+ they also observed filament-like structures that were previously known to physicists only in theory and from computer simulations. such a filament-like structure resembles a thread and marks the eye of the whirlpool-like wave or cyclone moving through the myocardium. it is now possible for the first time to pinpoint these centers of the vortices inside the myocardium. 
+ the researchers also used high-speed cameras and fluorescent markers to reveal the electrophysiological processes in the myocardium. the images confirmed that the mechanical vortices correspond very well with the electrical vortices. “in this study the correlation between electrical and mechanical vortex dynamics is assessed for the first time using a trimodal system that measures simultaneously and correlates the voltage and calcium waves with the contraction waves” uzelac says. 
+ from physics to medicine 
+ the study is an example of successful interdisciplinary collaboration between physicists and doctors. "this revolutionary development will open up new treatment options for patients with cardiac arrhythmias,” says gerd hasenfuss, co-author of the study and chairman of the göttingen heart research center and the 
+ heart center at the university medical center göttingen . “as early as 2018, we will use the new technology on our patients to better diagnose and treat cardiac arrhythmias and myocardial diseases.” 
+ additional images 
+ contact 
+ a. maureen rouhi, ph.d. 
+ director of communications 
+ college of sciences 
+ email 
+ maureen.rouhi@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

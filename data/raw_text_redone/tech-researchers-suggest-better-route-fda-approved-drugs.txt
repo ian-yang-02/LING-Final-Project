@@ -1,0 +1,37 @@
+tech researchers suggest better route to fda-approved drugs 
+ a new study proposes more microbial engineering for drugs based on plant alkaloids. 
+ amy ehrenworth (photo by renay san miguel / georgia tech) 
+ mar 21, 2017 
+ — atlanta, ga 
+ alkaloid-based pharmaceuticals derived from plants can be potent treatments for a variety of illnesses. but getting these powerful therapeutic agents from plants can take a long time and cost plenty of money, because it often takes a lot of plants to make a small amount of drug product. 
+ yet advances in metabolic engineering of microbes could lead to cheaper, faster production of drugs already approved by the food and drug administration (fda). that’s the conclusion of a 
+ study 
+ published recently in 
+ nature chemical biology 
+ by amy ehrenworth, a ph.d. student, and 
+ pamela peralta-yahya , an assistant professor and ehrenworth’s advisor in the school of chemistry and biochemistry. 
+ metabolic pathways are at the heart of the solution, peralta-yahya says. these pathways are like production lines comprising the enzymes required to assemble specific products, such as therapeutic alkaloids. thanks to advances in metabolic engineering and synthetic biology, plant metabolic pathways can be installed in microbes, enabling microbes to make the plant products. 
+ many drugs that are based on plant natural products are produced by semi-synthesis. that usually involves taking compounds from the plant and chemically transforming them to get the desired drug products at the end of the production line. 
+ some of those chemical steps can be arduous. in the case of modified alkaloids, 
+ ehrenworth and peralta-yahya showed in 2015 
+ that microbes can be modified to produce them more easily. for the new work, ehrenworth surveyed drug databases to find alkaloid-drug candidates eligible for production efficiencies through engineered microbes. 
+ when it comes to lowering the cost of drug production, “our insight was that we shouldn’t necessarily be using engineered microbes to make the exact plant natural product,” peralta-yahya says. “instead we should use engineered microbes to make something that is closer to an fda-approved drug.” 
+ “you can grow vats of microbes overnight, so it’s a much quicker process,” ehrenworth says. “you’re also not killing trees.” 
+ ehrenworth is referring to the 
+ chinese happy tree , the source of the alkaloid drug camptothecin. two cancer drugs, topotecan and irinotecan, are derivatives of camptothecin, and their production starts from the natural alkaloid. 
+ “both of those derivatives are modified at the same location on the molecule,” ehrenworth says. engineering microbes to make the last common intermediate before the final drug compounds would reduce the chemical steps required. 
+ to search for drugs that would benefit from this kind of metabolic engineering, ehrenworth searched databases of more than 2,000 fda-approved pharmaceuticals available from 
+ drugbank.ca , the fda, and other sources. she and peralta-yahya determined that seven fda-approved modified-alkaloid drugs would be the most beneficial targets for metabolic engineering: solifenacin, galantamine, cisatracurium, levorphanol, butorphanol, irinotecan, and topotecan. 
+ “i was surprised by how many modified alkaloids could be engineered using current technology,” peralta-yahya says. “i thought maybe we would find one or two. but there were many, and you can literally start working on them tomorrow.” 
+ chemists and biologists don’t need to wait for new technologies or processes to be discovered or built, peralta-yahya adds. “it’s all there.” 
+ additional images 
+ contact 
+ renay san miguel 
+ communications officer / science writer 
+ college of sciences 
+ 404-894-5209 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

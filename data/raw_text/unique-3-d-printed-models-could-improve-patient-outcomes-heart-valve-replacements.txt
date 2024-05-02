@@ -1,0 +1,37 @@
+Unique 3-D Printed Models Could Improve Patient Outcomes in Heart Valve Replacements
+Researchers at Georgia Institute of Technology and the Piedmont Heart Institute are using standard medical imaging and new 3-D printing technologies to create patient-specific heart valve models that mimic the physiological qualities of the real valves.
+New 3-D printing technologies allow researchers to create patient-specific heart valve models that mimic the physiological qualities of the real valves. This image shows the submerged valve during flow testing. (Credit: Rob Felt)
+Jul 03, 2017
+— Atlanta, GA
+Heart valve models created with advanced 3-D printers could soon assist cardiologists in preparing to perform life-saving heart valve replacements.
+Researchers at Georgia Institute of Technology and the Piedmont Heart Institute are using standard medical imaging and new 3-D printing technologies to create patient-specific heart valve models that mimic the physiological qualities of the real valves. Their aim is to improve the success rate of transcatheter aortic valve replacements (TAVR) by picking the right prosthetic and avoiding a common complication known as paravalvular leakage.
+“Paravalvular leakage is an extremely important indicator in how well the patient will do long term with their new valve,” said Zhen Qian, chief of Cardiovascular Imaging Research at Piedmont Heart Institute, which is part of Piedmont Healthcare. “The idea was, now that we can make a patient-specific model with this tissue-mimicking 3-D printing technology, we can test how the prosthetic valves interact with the 3-D printed models to learn whether we can predict leakage.”
+The researchers, whose study was published July 3 in the journal
+JACC: Cardiovascular Imaging , found that the models, created from CT scans of the patients’ hearts, behaved so similarly to the real ones that they could reliably predict the leakage.
+“These 3-D printed valves have the potential to make a huge impact on patient care going forward,” said Chuck Zhang, a professor in the Stewart School of Industrial and Systems Engineering at Georgia Tech.
+Tens of thousands of patients each year are diagnosed with heart valve disease, and TAVR is often considered for patients who are at high risk for complications with an open-heart surgery to replace the valve.
+The prosthetic valves are made in a variety of sizes from multiple manufacturers. Leakage occurs when the new valve doesn’t achieve a precise fit and blood flows around the prosthetic rather than through it as intended. Reducing the chances for leakage is key to patient outcome for the procedure.
+“In preparing to conduct a valve replacement, interventional cardiologists already weigh a variety of clinical risk predictors, but our 3-D printed model gives us a quantitative method to evaluate how well a prosthetic valve fits the patient,” Qian said.
+The models are created with a special metamaterial design and then made by a multi-material 3-D printer, which gives the researchers control over such design parameters as diameter and curving wavelength of the metamaterial used for printing, to more closely mimic physiological properties of the tissue.
+For example, the models can recreate conditions such as calcium deposition – a common underlying factor of aortic stenosis – as well as arterial wall stiffness and other unique aspects of a patient’s heart.
+“Previous methods of using 3-D printers and a single material to create human organ models were limited to the physiological properties of the material used,” Zhang said. “Our method of creating these models using metamaterial design and multi-material 3-D printing takes into account the mechanical behavior of the heart valves, mimicking the natural strain-stiffening behavior of soft tissues that comes from the interaction between elastin and collagen, two proteins found in heart valves.”
+That interaction was simulated by embedding wavy, stiff microstructures into the softer material during the 3-D printing process.
+The researchers created heart valve models from medical imaging of 18 patients who had undergone a valve replacement surgery. The models were outfitted with dozens of radiopaque beads to help measure the displacement of the tissue-mimicking material.
+The researchers then paired those models with the same type and size prosthetic valves that interventional cardiologists had used during each patient’s valve replacement procedure. Inside a warm-water testing environment controlled to maintain human body temperature, the researchers implanted the prosthetics inside the models, being careful to place the new valves in the exact location that was used during the clinical procedure for each case.
+Software was used to analyze medical imaging showing the location of the radiopaque beads taken before and after the experiment to determine how the prosthetics interacted with the 3-D printed models, looking for inconsistencies representing areas where the prosthetic wasn’t sealed well against the wall of the valve.
+Those inconsistencies were assigned values that formed a “bulge index,” and the researchers found that a higher bulge index was associated with patients who had experienced a higher degree of leakage after valve placement. In addition to predicting the occurrence of the leakage, the 3-D printed models were also able to replicate the location and severity of the complication during the experiments.
+“The results of this study are quite encouraging,” Qian said. “Even though this valve replacement procedure is quite mature, there are still cases where picking a different size prosthetic or different manufacturer could improve the outcome, and 3-D printing will be very helpful to determine which one.”
+While the researchers found that another variable – how much calcium had accumulated on the patient’s natural valve – could also predict with high accuracy whether there would be a higher degree of leakage, results from their tests showed that the new method using 3-D printed valves was a better predictor in certain cases where balloons are used during the procedure to expand the prosthetic valve for a better fit.
+The researchers plan to continue to optimize the metamaterial design and 3-D printing process and evaluate the use of the 3-D printed valves as a pre-surgery planning tool, testing a larger number of patient-specific models and looking for ways to further refine their analytic tools.
+“Eventually, once a patient has a CT scan, we could create a model, try different kinds of valves in there, and tell the physician which one might work best,” Qian said. “We could even predict that a patient would probably have moderate paravalvular leakage, but a balloon dilatation will solve it.”
+CITATION:
+Zhen Qian, Kan Wang, Shizhen Liu, Xiao Zhou, Vivek Rajagopal, Christopher Meduri, James R. Kauten, Yung-Hang Chang, Changsheng Wu, Chuck Zhang, Ben Wang, Mani A. Vannan, “Quantitative Prediction of Paravalvular Leak in Transcatheter Aortic Valve Replacement Based on Tissue-Mimicking 3D Printing,” JACC: Cardiovascular Imaging, (July 2017). doi:10.1016/j.jcmg.2017.04.005
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

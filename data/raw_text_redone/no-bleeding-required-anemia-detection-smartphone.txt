@@ -1,0 +1,33 @@
+no bleeding required: anemia detection via smartphone 
+ this smartphone app can check hemoglobin levels with 97% accuracy. 
+ graduate student rob mannino (right), pictured with wilbur lam (left), looks at his own fingernails using the new anemia test app. credit: georgia tech / christopher moore 
+ dec 10, 2018 
+ — atlanta, ga 
+ biomedical engineers have developed a smartphone app with the aim of non-invasive detection of anemia. instead of a blood test, the app uses photos of someone’s fingernails taken on a smartphone to determine whether the level of hemoglobin in their blood seems low. 
+ the researchers published their results on tuesday, december 4, 2018, in  nature communications . 
+ “all other ‘point-of-care’ anemia detection tools require external equipment, and represent trade-offs between invasiveness, cost, and accuracy,” said principal investigator wilbur lam. “this is a standalone app that can look at hemoglobin levels  without the need to draw blood.” 
+ the app should be used for screening, not clinical diagnosis. 
+ lam is a clinical hematologist-bioengineer at the aflac cancer and blood disorders center of children’s healthcare of atlanta, associate professor of pediatrics at emory university school of medicine and a faculty member in the wallace h. coulter department of biomedical engineering at georgia tech. 
+ the study's first author was rob mannino, who was motivated to conduct the research by his own experience living with beta-thalassemia, an inherited blood disorder caused by a mutation in the beta-globin gene. mannino was a graduate research assistant in biomedical engineering who has since graduated. 
+ “treatment for my disease requires monthly blood transfusions,” mannino says. “my doctors would test my hemoglobin levels more if they could, but it’s a hassle for me to get to the hospital in between transfusions to receive this blood test. instead, my doctors currently have to just estimate when i’m going to need a transfusion, based on my hemoglobin level trends.” 
+ “this whole project couldn’t have been done by anyone but rob,” lam says. “he took pictures of himself before and after transfusions as his hemoglobin levels were changing, which enabled him to constantly refine and tweak his technology on himself in a very efficient manner. so essentially, he was his own perfect initial test subject with each iteration of the app.” 
+ the app could facilitate self-management by patients with chronic anemia, allowing them to monitor their disease and to identify the times when they need to adjust their therapies or receive transfusions, the researchers said. that may reduce side effects or complications of having transfusions too early or too late. 
+ the technology could be used by anyone at any time and could be especially appropriate for pregnant women, women with abnormal menstrual bleeding, or runners / athletes. its simplicity means it could be useful in developing countries. clinical diagnostic tools have strict accuracy requirements, but mannino and lam think that with additional research, they can eventually achieve the accuracy needed to replace blood-based anemia testing for clinical diagnosis. 
+ anemia is a blood condition that affects two billion people worldwide and can lead to fatigue, paleness and cardiac distress if left untreated. the current gold standard for anemia diagnosis is known as a complete blood count (cbc). 
+ the researchers studied fingernail photos and correlated the color of the fingernail beds with hemoglobin levels measured by cbc in 337 people: some healthy, and others with a variety of anemia diagnoses. the algorithm for converting fingernail color to blood hemoglobin level was developed with 237 of these subjects and then tested on 100. 
+ the researchers were able to show that a single smartphone image, without personalized calibration, can measure hemoglobin level with an accuracy of 2.4 grams / deciliter with a sensitivity of up to 97 percent. personalized calibration, tested on four patients over the course of several weeks, can improve the accuracy to 0.92 grams / deciliter, a degree of accuracy on par with point-of-care blood-based hemoglobin tests. normal values are 13.5-17.5 grams / deciliter for males and 12.0-15.5 grams / deciliter for females. 
+ in the app, the use of fingernail beds, which do not contain melanin, means the test can be valid for people with a variety of skin tones. the accuracy is consistent for dark or light skin tones, mannino says. the app uses image metadata to correct for background brightness and can be adapted to phones from multiple manufacturers. 
+ mannino and lam say they are working with a variety of doctors at children’s and emory – geriatric, internal medicine, neonatologists, transfusion medicine, global health – to obtain additional data and better calibrate their system. 
+ “this is just a snapshot of the accuracy right now,” lam says. “the algorithm gets smarter with every patient enrolled.” 
+ the following researchers co-authored this study: david myers, erika tyburski, g.d. clifford of georgia tech and emory; jeanne boudreaux, christina 
+ carusa  of children's healthcare of atlanta, and traci leong of emory. 
+ the research was supported by the national science foundation (graduate research fellowship dge-1650044 and southeastern nanotechnology infrastructure corridor 1542174), the 2017 massachusetts general hospital primary care technology prize, and national institutes of health (r21 eb025646).   the smartphone anemia app is projected to be available commercially for public download as soon as spring of 2019.   a patent application has been filed for the anemia app, and wilbur lam and rob mannino have a financial interest in the success of this product. 
+ additional images 
+ contact 
+ holly korschun, emory university communications 
+ 404-727-3990 hkorsch@emory.edu 
+ email 
+ hkorsch@emory.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

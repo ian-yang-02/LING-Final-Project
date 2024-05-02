@@ -1,0 +1,42 @@
+covid central app checks symptoms, provides links to key campus resources 
+ covid central is a web app designed to help the tech community check for covid-19 symptoms and access key resources. 
+ covid central is a web app to help students, faculty, and staff check for symptoms of covid-19, access links to important campus coronavirus resources – including the novid exposure app – and track infection reports in the campus community. 
+ aug 26, 2020 
+ — atlanta, ga 
+ georgia tech has launched a new web app to help students, faculty, and staff check for symptoms of covid-19, access links to important campus coronavirus resources – including the 
+ novid 
+ exposure app – and track infection reports in the campus community. the web-based app, known as 
+ covid central , can be accessed from computers, tablets, and smartphones. 
+ covid central collects no personally identifiable information from users, and can be used for the symptom check that members of the georgia tech community are expected to make before leaving for work or classes each day. the app was built by researchers from the 
+ georgia tech research institute 
+ (gtri) and is available at 
+ covid-central.gatech.edu / app / welcome . 
+ “the symptom checker is the heart of the app, and it helps users understand what to do if they report having the cdc-established signs of infection or have been exposed to someone with the virus,” said jon duke, director of georgia tech’s 
+ center for health analytics and informatics . “no personal information is being collected, but the aggregated data should be useful to help campus health authorities identify trends in the types of symptoms on campus.” 
+ the app’s symptom checker asks users to indicate if they are suffering from any of the nine disease indicators that are shown on georgia tech’s coronavirus health site. if the user reports any of the common covid-19 symptoms, the app can ask about their severity – such as trouble breathing or bluish lips. it also asks if the user has been exposed to a person diagnosed with covid-19. 
+ based on answers to the questions, the app recommends a course of action. those with severe symptoms are advised to call 911 for immediate medical assistance. those with mild symptoms are advised to stay at home and monitor their condition. people who have been exposed to the virus but aren’t experiencing symptoms are asked to self-isolate for 14 days. 
+ those who have no symptoms or exposure risks are advised to protect themselves by social distancing, washing their hands, wearing a mask, and getting tested regularly. 
+ “we’ve made the symptom tracker as simple and quick to use as possible,” said trey schneider, a gtri research engineer who produced the app. “it provides a guide to users based on their current symptoms and exposures. the goal is for members of the community to use it every day.” 
+ in addition to the symptom tracker, covid central provides links to such resources as the novid exposure notification app, the campus coronavirus status web page, prevention advice, information on testing, the campus recreation center, housing, and dining services for those on campus. 
+ “we wanted to aggregate links to these useful resources and make them easily available to anyone with the app,” schneider said. 
+ the third part of the app provides information on covid-19 cases reported to 
+ stamps health services 
+ to help them assess the status of the pandemic. “it gives members of the community a pulse on positive cases reported on campus,” he said. “this should help remind students of the need to get tested regularly.” 
+ covid central is a web-based app that runs in any web browser. it was designed with a single column of information to be useful on a smartphone screen, through safari or chrome – browsers installed on ios and android phones. because it is web-based, there’s no need to obtain it from a manufacturer’s app store. 
+ being web-based makes covid central easier to update with new resources or improved programming without having to push out an app update. “every time someone visits the site, the latest information is pulled down from the server,” schneider said. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

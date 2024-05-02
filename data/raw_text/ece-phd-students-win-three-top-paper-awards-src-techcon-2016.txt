@@ -1,0 +1,42 @@
+ECE Ph.D. Students Win Three Top Paper Awards at SRC TECHCON 2016
+Three Ph.D. students from the Georgia Tech School of Electrical and Computer Engineering (ECE) won Best Paper in Session Awards at SRC TECHCON 2016, making Georgia Tech one of two universities with the most awards received at the conference.
+Oct 03, 2016
+— Atlanta, GA
+Three Ph.D. students from the Georgia Tech School of Electrical and Computer Engineering (ECE) won Best Paper in Session Awards at SRC TECHCON 2016, making Georgia Tech one of two universities with the most awards received at the conference; the University of Florida also received three.
+TECHCON was held September 12-13 in Austin, Texas and is organized annually by the Semiconductor Research Corporation (SRC) to bring together students, faculty, and industry experts who are involved in microelectronics research and to exchange news about the progress of selected SRC sponsored research programs.
+The award-winning ECE students include Saad Bin Nasir, Divya Madapusi Srinivas Prasad, and William Wahby. Descriptions of their papers and their work follow.
+Saad Bin Nasir
+won the top award in the Power Management Session for his paper, "Hybrid Linear Regulator Featuring Switched Model Control with 6ns/8.6mA Response Time and 98.64% Current Efficiency.” Nasir works in the Integrated Circuits and Systems Research Lab with ECE Associate Professor Arijit Raychowdhury.
+The research described in this paper brings together novel control techniques and their circuit implementations in hybrid linear regulators for digital load circuits. The principal aim of this research task is to demonstrate ultra low voltage linear regulators with high gain and bandwidth, taking advantage of digital topologies that have been previously developed by Nasir and his fellow researchers. Silicon measurements have demonstrated best-in-class response times and energy efficiencies.
+Parts of the ongoing research have been previously published in publications and conferences such as the
+International Solid State Circuits Conference ,
+Journal of Solid State Circuits , and the
+IEEE Transactions on Power Electronics , and the work has gained significant traction with SRC’s member companies.
+Divya Madapusi Srinivas Prasad
+won the top honor in the Interconnect/Dielectric Materials I Session for her paper, “Interconnect Technology Optimization Based on Circuit Performance of FINFET CMOS and Beyond." Prasad works in the Nanoelectronics Research Laboratory and is advised by ECE Associate Professor Azad Naeemi.
+This paper presents a paradigm shift in interconnect technology design to best serve state-of-the-art CMOS transistors. The advent of multi-gate transistor technology (i.e. FinFETs) has offered a lower device resistance at the expense of a higher device capacitance, when compared with the traditional CMOS planar technology.
+This paper, for the first time, highlights the impact of this shift on the importance of interconnect resistance over interconnect capacitance and proposes a novel scaling regime for interconnects as compared to the one proposed by the International Technology Roadmap for Semiconductors (ITRS). This approach reduces the interconnect resistance, at the cost of increased interconnect capacitance, to enable an optimum circuit performance.
+The proposed design-technology co-optimization has enabled the circuits that were chosen for the case study to run ~1.5x times faster in a best-case scenario. This paper also presents the first rigorous study on the impact of variability in interconnect dimensions on circuit performance at a GDSII-level for various patterning approaches and shows that the new interconnect scaling reduces the performance variability.
+William Wahby
+won the top award in the Packaging and 3D IC Integration Session for his paper, "Impact of alternate wiring materials on sequential monolithic 3DICs." Wahby works in the Integrated 3D Systems Group and is advised by ECE Professor Muhannad Bakir.
+This work focuses on quantifying the impact of the use of tungsten (or other high-resistivity metals or alloys) as an on-chip wiring material in monolithic 3D ICs. Copper is unsuitable for use as an on-chip interconnect in serially-fabricated monolithic 3D ICs for any logic tier below the topmost, as the fabrication of each logic tier exposes all lower tiers to temperatures far in excess of what copper interconnects can withstand.
+Through extensive modeling of 2D and 3D wiring networks, Wahby was able to show that the use of high-resistivity metals in monolithic 3D ICs typically increases the number of metal levels required for signal routing on each logic tier, which impacts the fabrication cost and performance of these systems.
+Additional Images
+Related links
+Georgia Tech
+School of Electrical and Computer Engineering
+Integrated Circuits and Systems Research Lab
+Nanoelectronics Research Lab
+Integrated 3D Systems Group
+Semiconductor Research Corporation
+SRC TECHCON 2016
+Contact
+Jackie Nemeth
+School of Electrical and Computer Engineering
+Georgia Tech
+404-894-2906
+Email
+jackie.nemeth@ece.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

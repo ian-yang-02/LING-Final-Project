@@ -1,0 +1,42 @@
+NSF Invests $4 Million in Big Data for Southern United States
+A $4 million NSF award will help apply data science and engineering to challenges of the southern U.S.
+The southern United States is disproportionately affected by hurricanes. Understanding these and other coastal threats is among the priorities for the South Big Data Innovation Hub. (Image from Sagis.org)
+Jun 19, 2019
+— Atlanta, GA
+Precision medicine and understanding health disparities, innovation to power competitive manufacturing, technology for smarter communities, and addressing coastal hazards such as hurricanes are among the challenges facing the Southern United States. A $4 million award from the National Science Foundation (NSF) will help apply data science and engineering to address those challenges.
+The funding will continue support for the
+South Big Data Innovation Hub , an organization that helps 16 Southern States and the District of Columbia identify and utilize data science and engineering to address critical societal needs. One of four NSF-supported regional data hubs in the U.S., the South Big Data Hub is managed by the Georgia Institute of Technology and the University of North Carolina-Chapel Hill.
+"The Big Data Hubs provide a connective tissue for the data science ecosystem across sectors and domains,” said Renata Rawlings-Goss, the Hub’s executive director. “I am deeply pleased by NSF's recommitment to the growth of the South Hub and our community. Over the last three years, we have made great strides within our priority areas and are looking to broaden that reach in the next four years.”
+The NSF-supported data hubs play four key roles: (1) Accelerating public-private partnerships that break down barriers between industry, academia and government, (2) Growing R&D communities that connect data scientists with domain scientists and practitioners, (3) Facilitating data sharing and shared cyber infrastructure and services, and (4) Building data science capacity for education and workforce development.
+“There is a global shortage of data science and analytics talent that is threatening the future of innovation,” added Rawlings-Goss “By working across sectors, the South Hub joins in creating solutions to increase the capacity of universities and industry to work on pressing problems for our region and for the world.”
+Priorities for the hubs are determined regionally to bring together collaborators that include academics, community leaders, local and state government executives, regional businesses, national laboratories and others, explained Srinivas Aluru, principal investigator for the Hub, which was launched in 2015 and won the 2019 Georgia Tech Outstanding Achievement in Research Development Award.
+“We want to collaborate to help solve regional problems using the resources of the Hub,” explained Aluru, who is also co-executive director of the Institute for Data Engineering and Science at Georgia Tech. “We are addressing truly regional issues that affect more than one state and more than one set of collaborators. These are challenges that can only be addressed by bringing these groups together.”
+The south region is pursuing five major big data priorities:
+Health and Disparities : High impact applications of data science in precision medicine, health analytics, and health disparities. “If you look at the health outcomes, they differ by ethnic groups. Trying to understand and address these health disparities is one of our big data challenges,” Aluru said.
+Smart Cities and Communities : Collection and integration of data on infrastructure, sensors, and behavior to design efficient use of resources and services, and to achieve a higher quality, affordable lifestyle, as well as concrete applications of analytics and machine learning to improve the nation’s energy production and smart grid.
+Advanced Materials and Manufacturing:
+Access to data infrastructure for creating new materials for advanced manufacturing in every state. “Manufacturing is very important to the Southeast, and we plan to workwith the state manufacturing extension partnerships in different states, trying to inject big data techniques into materials science and manufacturing to shorten the deployment cycle,” Aluru added.
+Environment and Coastal Hazards : Prevention and enhanced response to natural and human-induced environmental hazards. Southern states are disproportionately affected by hurricanes on the both the Atlantic and Gulf Coasts. Understanding these threats and how best to protect people and property is critical.
+Social Cybersecurity : Best practices across sectors to forecast cyber-mediated changes in human behavior to ensure private, secure and ethical data sharing, reporting and use. “In modern times the virtual world is a force in and of itself; we want to support transparency in how it can change interactions and social outcomes,” said Rawlings-Goss.
+The new NSF award includes seed funding designed to evaluate the feasibility of new big data projects. Part of a hub-and-spoke system, the seed money should help create new spokes to address specific data issues identified by collaborators.
+“Developing innovative, effective solutions to grand challenges requires linking scientists and engineers with local communities,” said Jim Kurose, Assistant Director for Computer and Information Science and Engineering at the NSF. “The Big Data Hubs provide the glue to achieve those links, bringing together teams of data science researchers with cities, municipalities and anchor institutions.”
+Ultimately, the goal is to harness the synergy of the collaborators to address issues that require the use of data science and engineering techniques.
+“By catalyzing partnerships that integrate academic researchers into the fabric of communities across the U.S., we can accelerate and deepen the impact of basic research on a range of societal issues, from water management to efficient transportation systems,” said Beth Plale, one of the NSF program directors managing the Big Data Hubs awards.
+The South Big Data Hub was funded through the National Science Foundation’s Big Data Science & Engineering Program, Awards 1550305 and 1550291. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact:
+John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

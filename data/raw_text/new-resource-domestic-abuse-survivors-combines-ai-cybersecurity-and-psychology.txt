@@ -1,0 +1,33 @@
+New Resource for Domestic Abuse Survivors Combines AI, Cybersecurity, and Psychology
+Cybersecurity master’s student Sneha Talwalkar and GTRI Principal Research Scientist Courtney Crooks are working to build the framework of an AI tool with the goal of providing support and protection to domestic abuse survivors.
+Cybersecurity master's student&nbsp;Sneha Talwalkar (left)&nbsp;and&nbsp;GTRI Principal Research Scientist&nbsp;Courtney Crooks&nbsp;(right) are working to bring relief to survivors of domestic abuse by building on developments recently made in cognitive security.&nbsp;(Photos by Kevin Beasley/College of Computing)
+Sep 27, 2023
+Georgia Tech researchers are working to create a new software tool powered by artificial intelligence (AI) to address the under-researched area of digital security and domestic abuse.
+These areas frequently overlap with abusers often using the internet and mobile technology to extend the reach of their abuse. However, the smaller scale of these online attacks has resulted in less attention from security researchers.
+By building on developments recently made in cognitive security, Principal Research Scientist  Courtney Crooks  and graduate student  Sneha Talwalkar  are working to bring relief to survivors of domestic abuse.
+The impact of domestic abuse, otherwise called intimate partner violence (IPV), on public health is something that Crooks has been studying for several years through research and practice in her role as a licensed psychologist and researcher.
+After seeing how new technology opened new methods of abuse online, Crooks realized she could help fill in the gaps in this research space using her experience working with the Georgia Tech Research Institute, the  School of Cybersecurity and Privacy  (SCP) at Georgia Tech, and the  Emory University School of Medicine .
+To get what they want, abusers try to change their victim’s state of mind through cognitive manipulation and use different tactics to do so. Crooks decided to explore ways to help IPV survivors counteract these enhanced technology-enabled cognitive security risks as they progressed through their recovery.
+The software Crooks and Talwalkar are working to develop would alert survivors to these potential or observed abuses by leveraging well-known, developmentally appropriate, psychologically based learning strategies. The tool will focus solely on the unique risks faced by IPV survivors. Applying human-centered design principles and ethical standards to the AI design will be a top priority for the team.
+The team is working to develop AI-assisted interventions that are psychologically informed and made specifically to focus on the unique risks faced by survivors. These interventions will be designed to take place alongside traditional methods of support, such as mental health and community resources.
+“It’s important to understand that abusive relationships are complicated. While some people can escape them, many can’t,” said Crooks. “Or they may physically escape, but resources like their phones, online accounts, or finances may still be vulnerable to their abusers. Survivors may also need to continue to communicate with their abuser, like in instances in which they share children.”
+Regardless of circumstances, it is often difficult for survivors to stop communicating with their abusers once they escape the relationship. This inability to disconnect is because of the psychological connections reinforced while they were with their former partner.
+The AI technologies Crooks and Talwalkar propose will not act like a ChatGPT chatbot. Instead, it will act like a coach, learning from abusive behavior tactics and potential survivor responses.
+The tool will then make suggestions based on each user’s specific recovery progress and goals while factoring in potential risks. To improve its coaching performance and general knowledge base, the AI will continue to learn from the outcome of each incident survivors face.
+“The model provides the necessary intervention to assist in the recovery of an IPV survivor,” said Talwalkar. “We want to use artificial intelligence for good, and this project is a step in that direction.”
+The classes in the SCP master’s program played a pivotal role in shaping Talwalkar’s research in this area. While exploring internet censorship and language models, she recognized the emerging challenges posed by AI in security. After an insightful conversation with SCP Professor Peter Swire, Talwalkar gained the confidence to shift her focus towards investigating malicious intent in immersive environments. With Crooks’ guidance, she began exploring the socio-technical environment of IPV.
+Designing User-Centered Artificial Intelligence to Assist in Recovery from Domestic Abuse  was accepted as an extended abstract and presented to the 2023 World Congress Computer Science, Computer Engineering, and Applied Computing event this summer. Proceedings of the IEEE is publishing the work in an upcoming issue.
+In May, Crooks, Talwalkar, and others from their research team presented their findings at the Health Sciences Research Day hosted on the Emory University campus by the Emory School of Medicine. Crooks presented her study of the lived experience of coercive control in domestic abuse, from which this current research is derived, at the February 2023 National Meeting of the American Psychoanalytic Association.
+October is  National Domestic Violence Awareness Month  and National  Cybersecurity Awareness Month . For more information about domestic abuse and resources to help, please visit the  Centers for Disease Control and Prevention website .
+Additional Images
+Contact
+JP Popham
+Communications Officer | School of Cybersecurity and Privacy
+Georgia Institute of Technology
+Desk: (404) 894-6260
+jpopham3@gatech.edu  | scp.cc.gatech.edu
+Email
+jpopham3@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

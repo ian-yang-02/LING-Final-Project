@@ -1,0 +1,48 @@
+researchers boost efficiency and stability of optical rectennas 
+ researchers have boosted the efficiency and stability of the optical rectenna design they developed. 
+ nsf graduate research fellow erik anderson tests the conversion of blue light to electricity with a new higher efficiency rectenna design. (credit: christopher moore, georgia tech) 
+ jan 26, 2018 
+ — atlanta, ga 
+ the research team that announced the first optical rectenna in 2015 is now reporting a two-fold efficiency improvement in the devices — and a switch to air-stable diode materials. the improvements could allow the rectennas – which convert electromagnetic fields at optical frequencies directly to electrical current – to operate low-power devices such as temperature sensors. 
+ ultimately, the researchers believe their device design – a combination of a carbon nanotube antenna and diode rectifier – could compete with conventional photovoltaic technologies for producing electricity from sunlight and other sources. the same technology used in the rectennas could also directly convert thermal energy to electricity. 
+ “this work takes a significant leap forward in both fundamental understanding and practical efficiency for the optical rectenna device,” said 
+ baratunde cola , an associate professor in the 
+ george w. woodruff school of mechanical engineering 
+ at the georgia institute of technology. “it opens up this technology to many more researchers who can join forces with us to advance the optical rectenna technology to help power a range of applications, including space flight.” 
+ the research was reported january 26 in the journal 
+ advanced electronic materials . the work has been supported by the u.s. army research office under the young investigator program, and by the national science foundation. 
+ optical rectennas operate by coupling the light’s electromagnetic field to an antenna, in this case an array of multiwall carbon nanotubes whose ends have been opened. the electromagnetic field creates an oscillation in the antenna, producing an alternating flow of electrons. when the electron flow reaches a peak at one end of the antenna, the diode closes, trapping the electrons, then re-opens to capture the next oscillation, creating a current flow. 
+ the switching must occur at terahertz frequencies to match the light. the junction between the antenna and diode must provide minimal resistance to electrons flowing through it while open, yet prevent leakage while closed. 
+ “the name of the game is maximizing the number of electrons that get excited in the carbon nanotube, and then having a switch that is fast enough to capture them at their peak,” cola explained. “the faster you switch, the more electrons you can catch on one side of the oscillation.” 
+ to provide a low work function – ease of electron flow – the researchers initially used calcium as the metal in their oxide insulator - metal diode junction. but calcium breaks down rapidly in air, meaning the device had to be encapsulated during operation – and fabricated in a glovebox. that made the optical rectenna both impractical for most applications and difficult to fabricate. 
+ so cola, nsf graduate research fellow erik anderson and research engineer thomas bougher replaced the calcium with aluminum and tried a variety of oxide materials on the carbon nanotubes before settling on a bilayer material composed of alumina (al2o3) and hafnium dioxide (hfo2). the combination coating for the carbon nanotube junction, created through an atomic deposition process, provides the quantum mechanical electron tunneling properties required by engineering the oxide electronic properties instead of the metals, which allows air stable metals with higher work functions than calcium to be used. 
+ rectennas fabricated with the new combination have remained functional for as long as a year. other metal oxides could also be used, cola said. 
+ the researchers also engineered the slope of the hill down which the electrons fall in the tunneling process. that also helped increase the efficiency, and allows the use of a variety of oxide materials. the new design also increased the asymmetry of the diodes, which boosted efficiency. 
+ “by working with the oxide electron affinity, we were able to increase the asymmetry by more than ten-fold, making this diode design more attractive,” said cola. “that’s really where we got the efficiency gain in this new version of the device.” 
+ optical rectennas could theoretically compete with photovoltaic materials for converting sunlight into electricity. pv materials operate using a different principle, in which photons knock electrons from the atoms of certain materials. the electrons are collected into electrical current. 
+ in september 2015 in the journal nature nanotechnology, cola and bougher reported the first optical rectenna – a device that had been proposed theoretically for more than 40 years, but never demonstrated. 
+ the early version reported in the journal produced power at microvolt levels. the rectenna now produces power in the millivolt range and conversion efficiency has gone from 10 -5  to 10 -3  – still very low, but a significant gain. 
+ “though there still is room for significant improvement, this puts the voltage in the range where you could see optical rectennas operating low-power sensors,” cola said. “there are a lot of device geometry steps you could take to do something useful with the optical rectenna today in voltage-driven devices that don’t require significant current.” 
+ cola believes the rectennas could be useful for powering internet of things devices, especially if they can be used to produce electricity from scavenged thermal energy. for converting heat to electricity, the principle is the same as for light – capturing oscillations in a field with the broadband carbon nanotube antenna. 
+ “people have been excited about thermoelectric generators, but there are many limitations on getting a system that works effectively,” he said. “we believe that the rectenna technology will be the best approach for harvesting heat economically.” 
+ in future work, the research team hopes to optimize the antenna operation, and improve their theoretical understanding of how the rectenna works, allowing further optimization. one day, cola hopes the devices will help accelerate space travel, producing power for electric thrusters that will boost spacecraft. 
+ “our end game is to see carbon nanotube optical rectennas working on mars and in the spacecraft that takes us to mars,” he said. 
+ this work was supported by the army research office under the young investigator program agreement w911nf-13-1-0491 and the national science foundation graduate research fellowship program under grant dge-1650044. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring organizations. 
+ citation : erik c. anderson, thomas l. bougher and bartatunde a. cola, “high performance multiwall carbon nanotube–insulator–metal tunnel diode arrays for optical rectification, (advanced electronic materials, 2018). 
+ http: / / dx.doi.org / 10.1002 / aelm.201700446 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or josh brown (404-385-0500) (josh.brown@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

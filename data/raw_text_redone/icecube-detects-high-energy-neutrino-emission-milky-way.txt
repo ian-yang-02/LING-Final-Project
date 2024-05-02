@@ -1,0 +1,108 @@
+icecube detects high-energy neutrino emission from milky way 
+ our galaxy is seen through a new lens as nsf icecube collaboration presents evidence of high-energy neutrino emission from the milky way 
+ jun 29, 2023 
+ georgia institute of technology physics professor and center for relativistic astrophysics member 
+ ignacio taboada 
+ serves as spokesperson for icecube collaboration. 
+ our milky way galaxy is an awe-inspiring feature of the night sky, viewable with the naked eye as a horizon-to-horizon hazy band of stars. now, for the first time, the 
+ icecube neutrino observatory 
+ has produced an image of the milky way using neutrinos — tiny, ghostlike astronomical messengers. 
+ in an article to be published june 30, 2023, in the journal 
+ science , the 
+ icecube collaboration , an international group of over 350 scientists, presents evidence of high-energy neutrino emission from the milky way. 
+ the 
+ detected 
+ high-energy neutrinos hold energies millions to billions of times higher than those produced by the fusion reactions that power stars. 
+ icecube was built and is operated with 
+ national science foundation (nsf) 
+ funding and additional support from the fourteen countries that host institutional members of the icecube collaboration. icecube 
+ observatory 
+ searches for signs of high-energy neutrinos originating from our galaxy and beyond, out to the farthest reaches of the universe. 
+ a cubic-kilometer neutrino detector operating at amundsen-scott south pole station observes these high-energy neutrinos , explains 
+ ignacio taboada , spokesperson for icecube and a physics professor at 
+ georgia institute of technology . 
+ “icecube is truly unique,” taboada says. “built deep in antarctic ice, its over 5,000 light sensors search for the flashes of blue light — cherenkov radiation produced by neutrinos in the upper atmosphere, the milky way, and deep into the cosmos.” 
+ searching the southern sky 
+ “what's intriguing is that, unlike the case for light of any wavelength, in neutrinos, the universe outshines the nearby sources in our own galaxy," says 
+ francis halzen , a professor of physics at the 
+ university of wisconsin–madison 
+ and principal investigator of icecube. 
+ "as is so often the case, significant breakthroughs in science are enabled by advances in technology," says 
+ denise caldwell , director of 
+ nsf's physics division . "the capabilities provided by the highly sensitive icecube detector, coupled with new data analysis tools, have given us an entirely new view of our galaxy — one that had only been hinted at before. as these capabilities continue to be refined, we can look forward to watching this picture emerge with ever-increasing resolution, potentially revealing hidden features of our galaxy never before seen by humanity." 
+ interactions between cosmic rays — high-energy protons and heavier nuclei, also produced in our galaxy, and galactic gas and dust inevitably produce both gamma rays and neutrinos. given the observation of gamma rays from the galactic plane, the milky way was expected to be a source of high-energy neutrinos. 
+ “a neutrino counterpart has now been measured, thus confirming what we know about our galaxy and cosmic ray sources,” says 
+ steve sclafani , a physics ph.d. student at 
+ drexel university , icecube member, and co-lead analyzer. 
+ the search focused on the southern sky, where the bulk of neutrino emission from the galactic plane is expected near the center of our galaxy. however, until now, the background of muons and neutrinos produced by cosmic-ray interactions with the earth’s atmosphere posed significant challenges. 
+ to overcome them, icecube collaborators at drexel university developed analyses that select for "cascade" events, or neutrino interactions in the ice that result in roughly spherical showers of light. because the deposited energy from cascade events starts within the instrumented volume, contamination of atmospheric muons and neutrinos is reduced. ultimately, the higher purity of the cascade events gave a better sensitivity to astrophysical neutrinos from the southern sky. 
+ machine learning in the milky way 
+ however, the final breakthrough came from the implementation of machine learning methods, developed by icecube collaborators at 
+ tu dortmund university , that improve the identification of cascades produced by neutrinos as well as their direction and energy reconstruction. the observation of neutrinos from the milky way is a hallmark of the emerging critical value that machine learning provides in data analysis and event reconstruction in icecube. 
+ “the improved methods allowed us to retain over an order of magnitude more neutrino events with better angular reconstruction, resulting in an analysis that is three times more sensitive than the previous search,” says icecube member, tu dortmund physics ph.d. student, and co-lead analyzer 
+ mirco 
+ hünnefeld . 
+ the dataset used in the study included 60,000 neutrinos spanning 10 years of icecube data, 30 times as many events as the selection used in a previous analysis of the galactic plane using cascade events. these neutrinos were compared to previously published prediction maps of locations in the sky where the galaxy was expected to shine in neutrinos. 
+ the maps included one made from extrapolating fermi large area telescope gamma-ray observations of the milky way and two alternative maps identified as kra-gamma by the group of theorists who produced them. 
+ “this long-awaited detection of cosmic ray-interactions in the galaxy is also a wonderful example of what can be achieved when modern methods of knowledge discovery in machine learning are consistently applied.” says 
+ wolfgang rhode , professor of physics at tu dortmund university, icecube member, and hünnefeld’s advisor. 
+ the power of machine learning offers great future potential, bringing other observations closer within reach. 
+ “the strong evidence for the milky way as a source of high-energy neutrinos has survived rigorous tests by the collaboration,” says taboada, the icecube spokesperson. “now, the next step is to identify specific sources within the galaxy.” 
+ these and other questions will be addressed in planned follow-up analyses by 
+ icecube. 
+ “observing our own galaxy for the first time using particles instead of light is a huge step,” says 
+ naoko kurahashi neilson , professor of physics at drexel university, icecube member, and sclafani’s advisor. “as neutrino astronomy evolves, we will get a new lens with which to observe the universe.” 
+ about icecube neutrino observatory 
+ the icecube neutrino observatory is funded and operated primarily through an award from the national science foundation to the university of wisconsin–madison. the icecube collaboration, with over 350 
+ scientists in 
+ 58 institutions from around the world , runs an extensive scientific program that has established the foundations of neutrino astronomy. 
+ icecube’s 
+ research 
+ efforts, 
+ including 
+ critical 
+ contributions 
+ to 
+ the 
+ detector 
+ operation, 
+ are 
+ funded 
+ by 
+ agencies in australia, belgium, canada, denmark, germany, italy, japan, new zealand, republic of korea, sweden, switzerland, taiwan, the united kingdom, and the united states, including nsf. icecube construction was also funded with significant contributions from the national fund for scientific research (fnrs & fwo) in belgium; the federal ministry of education and research (bmbf) and the german research foundation (dfg) in germany; the knut and alice wallenberg foundation, the swedish polar research secretariat, and the swedish research council in sweden; and the wisconsin alumni research 
+ fund. 
+ about georgia institute of technology 
+ the georgia institute of technology, or georgia tech, is one of the top public research universities in the u.s., developing leaders who advance technology and improve the human condition. the institute offers business, computing, design, engineering, liberal arts, and sciences degrees. its more than 45,000 undergraduate and graduate students, representing 50 states and more than 148 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. 
+ as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ additional media 
+ related links 
+ first 'ghost particle' image of milky way galaxy captured by scientists 
+ our galaxy seen through a new lens: neutrinos detected by icecube 
+ icecube places constraints on neutrino emission from the brightest gamma-ray bu… 
+ icecube neutrinos give us first glimpse into the inner depths of an active gala… 
+ ignacio taboada elected spokesperson for icecube south pole neutrino observatory 
+ contact 
+ science 
+ contacts: 
+ francis halzen , icecube principal 
+ investigator 
+ vilas research professor and gregory breit distinguished professor of physics 
+ wisconsin icecube particle astrophysics center, university of wisconsin–madison 
+ ignacio 
+ taboada , 
+ icecube 
+ spokesperson 
+ professor of physics, georgia institute of technology 
+ press contacts: 
+ georgia institute of technology 
+ jess hunt-ralston 
+ director of communications, college of sciences 
+ icecube press 
+ press@icecube.wisc.edu 
+ nsf media affairs 
+ media@nsf.gov 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

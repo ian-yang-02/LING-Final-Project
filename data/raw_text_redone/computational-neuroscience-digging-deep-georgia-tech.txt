@@ -1,0 +1,65 @@
+computational neuroscience digging deep at georgia tech 
+ researchers at georgia tech are working in the realm of computational neuroscience, a branch of neuroscience that uses mathematical models, computer simulations, and theoretical analysis of the brain to gain a deeper understanding of the nervous system. 
+ anqi wu 
+ aug 23, 2022 
+ — atlanta, ga 
+ the human brain, composed of about 86 billion noisy neurons, is a reliable, durable, complex, and cryptic biological supercomputer. a community of multidisciplinary researchers at georgia tech is decrypting that neuronal chatter, which may hold the key to better treatments for disease and addiction, advanced robotics and artificial intelligence (ai), and even global energy efficiency. 
+ these researchers work in the realm of  computational neuroscience , a branch of neuroscience that uses mathematical models, computer simulations, and theoretical analysis of the brain to gain a deeper understanding of the nervous system. 
+ "we want to understand the brain and the important data that we gather from this amazing, mysterious organ,” said  chethan pandarinath , assistant professor in the  wallace h. coulter department of biomedical engineering at georgia tech and emory university . “but for a long time, we really didn’t have the adequate tools.” 
+ basically, the ability to look at the brain and gather large amounts of data from it has advanced rapidly — faster than our ability to understand it all. 
+ “there has been an explosion of technology over the past five or 10 years,” pandarinath said. “so, we’re moving into a different space in the ways we approach the brain, and the ways we think about it.” 
+ much of that explosion — manifested at georgia tech and its partner institutions, like emory, in the form of  additional academic offerings  as well as research interest — has been fueled by the  brain initiative , launched by president barack obama in 2014. that global research program has identified computational neuroscience (among other things) as an area where progress is most needed. 
+ the wish list includes improvements in machine learning, ai, and crowdsourcing approaches to translating the massive volume of data being gathered from human brains. and georgia tech researchers have their hands in every area. 
+ pandarinath’s lab, for example, is using ai tools and the insights gained from the brain’s neural networks —  and support from the national institutes of health  —  to develop revolutionary assistive devices for people with disabilities or neurological disorders. 
+ he also spearheaded the  neural latents benchmark challenge  on github. these competitions attracted a diverse range of teams that created new models for analyzing large data sets of neural activity. 
+ “this was our effort to accelerate progress at the intersection of neuroscience, machine learning, and artificial intelligence,” pandarinath said. 
+ the challenge illustrated a need for multiple perspectives and disciplines in computational neuroscience — the winning team of the first competition in january was a firm called  ae studio , a software development, data science, and product design company that doesn’t ordinarily focus on neuroscience but develops potent mathematical and machine-learning tools. 
+ “this field is multidisciplinary and collaborative by nature and necessity,” said  tansu celikel,  chair of georgia tech’s  school of psychology , who wants to understand complex behaviors controlled by the brain in order to make smarter, more intuitive robots. 
+ “it begs for biologists, psychologists, mathematicians, physicists, data scientists — people from the machine learning and ai worlds — to come together and advance the state of computation and brain research," celikel added. "with that in mind, georgia tech is in an excellent position to make a significant impact and become a global center for this kind of research.” 
+ celikel and pandarinath are just two of the researchers at georgia tech in computational neuroscience, a wide-ranging field that relies on collaborations between data scientists, experimentalists, and clinicians, who are forming partnerships across schools, colleges, universities, and disciplines. a small sampling of the people connecting the brain’s neuronal dots and expanding this body of research at georgia tech include: 
+ hannah choi 
+ • assistant professor,  school of mathematics 
+ •  research group in mathematical neuroscience 
+ neuroscience wasn’t part of choi’s plans. but while working toward her ph.d. in applied ­mathematics, “i got really interested in nonlinear dynamical systems, a big topic in applied mathematics,” she said. such systems seem to be chaotic, unpredictable, and counterintuitive — pretty much like most systems in nature. “i soon realized the brain is the most exciting nonlinear dynamical system, and that i could apply my mathematical tools and develop computational theories to better understand the brain.” 
+ earlier this year, choi’s work in applying math to neuroscience earned her a prestigious  2022 sloan research fellowship , which goes to the nation’s most promising young scientific researchers. since launching her lab at georgia tech in january 2021, choi has continued her collaboration with the seattle-based allen institute in studying how information is processed in neural networks of many different scales, while starting partnerships with several georgia tech and emory researchers, including simon sponberg, anqi wu, nabil imam, chris rodgers, ming-fai fong, and dieter jaeger, working in the sprawling computational neuroscience world. 
+ like some of her georgia tech colleagues, choi also wants to address the problem of the environmental footprint being made by all of this computation and ai in her chosen field. “the idea is to apply what we have learned about our very energy-efficient brains to the development of better, more efficient artificial neural networks.” 
+ eva dyer 
+ • assistant professor,  wallace h. coulter department of biomedical engineering 
+ •  neural data science (nerds) lab 
+ dyer leads a diverse team of researchers in developing machine learning approaches to analyze and interpret massive, complex neural data sets. winner of a  mcknight technology award  and  brain award  in recent years, dyer’s interest in the brain is rooted in her love of music — being keen on how we perceive sound at the neuronal level. 
+ as a postdoctoral student she developed a  cryptography-inspired strategy  for decoding neural conversations. now one of the  leading young researchers in computational neuroscience , dyer directs a lab that routinely presents research at high-profile conferences like  neurips . her team is “essentially interested in how the coordinated activity of large collections of neurons are being modified or changing in the presence of something like disease,” she said. 
+ “ultimately, with the information we gather and analyze, we hope to discover biomarkers of alzheimer’s and other diseases,” added dyer, who worked with pandarinath to develop the benchmark challenge. “the idea is to catch changes in neural activity that are happening before we actually see the cognitive deficits.” 
+ dobromir rahnev 
+ • associate professor,  school of psychology 
+ •  perception, neuroimaging, and modeling lab 
+ rahnev uses a combination of neuroimaging and computational modeling to reveal the mechanisms of perception and decision-making in humans. 
+ a recipient of the american psychological association  distinguished scientific award for an early career contribution to psychology  and the vision science society  young investigator award , rahnev has already made important contributions to our understanding of how people perceive the world and make decisions. he has recently started to investigate how deep neural networks — which have established themselves as state-of-the-art computer vision algorithms — can serve as excellent models for the perceptual and decisional processes in the human brain. 
+ “one of my strongest passions is to make science more open in every sense of the word,” said rahnev, who organized the  confidence database , the largest field-specific database of open data in the behavioral sciences. “it’s important for me to be involved in efforts to attract and retain people from underrepresented groups in cognitive and computational neuroscience.” 
+ chris rozell 
+ • professor; julian t. hightower chair,  school of electrical and computer engineering 
+ •  sensory information processing lab 
+ rozell describes his lab’s focus on computational neuroengineering   as a combination of data science, neurotechnology, and computational modeling, with the goal of advancing the understanding of brain function, leading to the development of intelligent machine systems and effective interventions for disease. 
+ “one of the projects in our lab that is really compelling right now is a novel therapy for patients with treatment-resistant depression,” said rozell, whose lab is partnering with a clinical team to improve this experimental treatment for patients who have not responded to any currently approved therapy. “so, no drugs help them. no psychotherapy. no electroconvulsive therapy. we’re using deep brain stimulation.” 
+ the results have been positive for patients, and the researchers are, “getting an objective readout, for the first time, of what’s happening in their brains,” rozell said, thanks to a new generation of machine-learning tools called “explainable ai.” “with these new approaches, we can gain a deeper understanding of the disease, which can lead to more personalized therapies.” 
+ lewis wheaton 
+ • associate professor, school of biological sciences 
+ •  cognitive motor control lab 
+ when he isn’t helping to lead the city of smyrna as a city councilman, wheaton is leading a research effort that could lead to user-friendly prosthetic devices and improved motor rehabilitation training, particularly for people with upper limb amputation. 
+ “there are a lot of beautifully developed upper limb prostheses available right now, but one of the big challenges is they’re just not heavily used by individuals — partly because they’re really, really expensive, but also because they’re such an easy thing to  not  use,” said wheaton. “it’s very easy to just take it off and never wear it at all.” 
+ which is why much of wheaton’s research is focused on acquiring and studying data that shows what upper limb amputees are thinking or feeling while using, or trying to use, a prosthesis. integrating a patient’s neural activity with observations of behavior and gaze patterns, the team is “gathering data that’s never really been acquired before,” wheaton said. 
+ “this will help us gather more information that is helpful in developing new rehabilitation protocols for persons learning how to use prostheses. a better understanding of how rehabilitation efforts are influenced by different types of prostheses can also inform engineers and the marketplace on the type of prostheses we should be developing.” 
+ anqi wu 
+ • assistant professor, school of computer science and engineering 
+ • brain intelligence and machine learning laboratory 
+ one of georgia tech’s newest computational neuroscientist faculty members, wu is building her research enterprise around building advanced machine-learning models for neural and behavioral analyses. 
+ “i want to help experimental neuroscientists to understand their data and draw scientific conclusions,” she said, pointing out that these collaborators are collecting larger and larger populations of neurons across the whole brain, as well as more naturalistic animal behaviors. “how to integrate these big data sets and extract multilayer knowledge to understand different perspectives of the brain is a very challenging problem.” 
+ wu, who came to georgia tech in spring 2022, aims to develop sophisticated latent variable models to address those issues. these computational models are essentially used to project high-dimensional data from large neural populations across large brain areas into useful, low-dimensional (i.e., interpretable) information that experimental neuroscientists can use. 
+ more neuro news 
+ ballet and neuro ethics come together at georgia tech 
+ serpooshan lab creates 3d-printed tool to study neuroblastoma 
+ writer: jerry grillo 
+ photos: joya chapman 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

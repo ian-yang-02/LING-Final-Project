@@ -1,0 +1,35 @@
+Yeast Assay Helps Reveal Genesis of Amyloids and Prions
+A Georgia Tech team and collaborators in Germany and Russia used yeast as a model to study human amyloids.
+Feb 01, 2018
+— Atlanta, GA
+Amyloids are abnormal proteins that aggregate into fibrils, causing dreadful human diseases. They are strongly implicated in Alzheimer’s disease, a leading cause of dementia in elderly people. Mad cow disease, a neurodegenerative disease, results from infection by prions, which are amyloids that can spread between cells and organisms.
+Despite voluminous research on amyloids and prions, researchers still cannot explain how harmless, normal protein sequences go awry and assume the deadly amyloid shape.
+“The initial amyloid ‘nucleation’ is extremely difficult to investigate in animal models,” says
+Yury Chernoff , a professor in the School of Biological Sciences. “To begin with, initial nucleation is extremely rare. We have no idea where the initial amyloid ‘nucleus’ comes from and what promotes its formation. And then accumulation of an amyloid to detectable levels takes a very long time.”
+For these reasons, Chernoff’s Georgia Tech team and collaborators in Germany and Russia (St. Petersburg State University, where Chernoff also directs a research group) turned to yeast as a model to study the human amyloids. They published their findings in the
+Journal of Biological Chemistry
+in early January 2018.
+According to Chernoff, yeast also form prions, and the initial nucleation of a yeast prion is also rare. “However,” he says, “it is easier to detect prion nucleation in yeast that in humans, because it is possible to analyze large numbers of yeast cells, and because yeast prions cause easily detectable traits.”
+The researchers fused mammalian amyloid-forming proteins to the yeast prion-forming protein. They found that the resulting chimeric proteins nucleate an amyloid state in yeast much more frequently than yeast prion-forming protein does on its own. “Because the resulting amyloid nucleus further converts a normal yeast protein,” Chernoff says, “amyloid formation could be detected by the appearance of an easily observable trait, such as growth on specific medium.”
+The researchers successfully applied the method to several proteins, including amyloid beta (associated with human Alzheimer’s disease), PrP (associated with mad cow disease), alpha synuclein (associated with Parkinson’s disease), and amylin (associated with type II diabetes).
+“This assay opens a wide window to the early stages of dreadful human diseases caused by abnormal protein aggregation,” Chernoff says. “The more we understand how these diseases originate, the better we can develop treatments.”
+Beyond revealing how human proteins undergo amyloid nucleation, Chernoff says, the assay will help researchers discover factors affecting amyloid nucleation in cells, find agents that favor the development of diseases, and identify treatments and conditions that can prevent the triggering cause of a disease.
+Chernoff’s Georgia Tech team working on this project included current  Ph.D. student
+Pavithra Chandramowlishwaran  and former Ph.D. student
+Meng Sun , who are co-first authors on the paper, as well as undergraduate researcher
+Kristin Casey
+and research scientist
+Andrey Romanyuk .
+Figure Caption
+Growth of the specially designed yeast strain on a specific medium enables researchers to detect nucleation of disease-related fibrils by human amyloid beta protein, associated with Alzheimer’s disease.
+This work was supported by grants from the National Institute of Aging, NIH (through Emory University’s Alzheimer’s Disease Research Center) and the Creutzfeldt-Jakob Disease Foundation, as well as the Russian Science Foundation and the Russian Foundation for Basic Research (to the St. Petersburg group).
+Additional Images
+Contact
+A. Maureen Rouhi, Ph.D.
+Director of Communications
+College of Sciences
+Email
+maureen.rouhi@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

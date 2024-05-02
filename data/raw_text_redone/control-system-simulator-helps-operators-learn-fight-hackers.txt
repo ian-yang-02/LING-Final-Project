@@ -1,0 +1,38 @@
+control system simulator helps operators learn to fight hackers 
+ a control system simulator for a chemical processing plant could help train operators on security measures. 
+ screen capture shows a chemical processing plant in which critical parameters are rising due to false process data and control commands injected by an attacker. 
+ aug 23, 2018 
+ — atlanta, ga 
+ a simulator that comes complete with a virtual explosion could help the operators of chemical processing plants – and other industrial facilities – learn to detect attacks by hackers bent on causing mayhem. the simulator will also help students and researchers understand better the security issues of industrial control systems. 
+ facilities such as electric power networks, manufacturing operations and water purification plants are among the potential targets for malicious actors because they use programmable logic controllers (plcs) to open and close valves, redirect electricity flows and manage large pieces of machinery. efforts are underway to secure these facilities, and helping operators become more skilled at detecting potential attacks is a key part of improving security. 
+ “the goal is to give operators, researchers and students experience with attacking systems, detecting attacks and also seeing the consequences of manipulating the physical processes in these systems,” said 
+ raheem beyah , the motorola foundation professor in the 
+ school of electrical and computer engineering 
+ at the georgia institute of technology. “this system allows operators to learn what kinds of things will happen. our goal is to make sure the good guys get this experience so they can respond appropriately.” 
+ details of the simulator were presented august 8 at black hat usa 2018, and august 13 at the 2018 usenix workshop on advances in security education. the simulator was developed in part by atlanta security startup company fortiphyd logic, and supported by the georgia research alliance. 
+ the simulated chemical processing plant, known as the graphical realism framework for industrial control simulations (grfics), allows users to play the roles of both attackers and defenders – with separate views provided. the attackers might take control of valves in the plant to build up pressure in a reaction vessel to cause an explosion. the defenders have to watch for signs of attack and make sure security systems remain operational. 
+ of great concern is the “man-in-the-middle” attack in which a bad actor breaks into the facility’s control system – and also takes control of the sensors and instruments that provide feedback to the operators. by gaining control of sensors and valve position indicators, the attacker could send false readings that would reassure the operators – while the damage proceeded. 
+ “the pressure and reactant levels could be made to seem normal to the operators, while the pressure is building toward a dangerous point,” beyah said. though the readings may appear normal, however, a knowledgeable operator might still detect clues that the system has been attacked. “the more the operators know the process, the harder it will be to fool them,” he said. 
+ the grfics system was built using an existing chemical processing plant simulator, as well as a 3d video gaming engine running on linux virtual machines. at its heart is the software that runs plcs, which can be changed out to represent different types of controllers appropriate to a range of facilities. the human-machine interface can also be altered as needed to show a realistic operator control panel monitoring reaction parameters and valve controller positions. 
+ “this is a complete virtual network, so you can set up your own entry detection rules and play on the defensive side to see whether or not your defenses are detecting the attacks,” said david formby, a georgia tech postdoctoral researcher who has launched fortiphyd logic with beyah to develop industrial control security products. “we provide access to simulated physical systems that allow students and operators to repeatedly study different parameters and scenarios.” 
+ grfics is currently available as an open source, free download for use by classes or individuals. it runs on a laptop, but because of heavy use of graphics, requires considerable processing power and memory. an online version is planned, and future versions will simulate the electric power grid, water and wastewater treatment facilities, manufacturing facilities and other users of plcs. 
+ formby hopes grfics will expand the number of people who have experience with the security of industrial control systems. 
+ “we want to open this space up to more people,” he said. “it’s very difficult now to find people who have the right experience. we haven’t seen many attacks on these systems yet, but that’s not because they are secure. the barrier for people who want to work in the cyber-physical security space is high right now, and we want to lower that.” 
+ beyah and formby have been working for several years to increase awareness of the vulnerabilities inherent in industrial control systems. while the community still has more to do, beyah is encouraged. 
+ “several years ago, we talked to a lot of process control engineers as part of the nsf’s i-corps program,” he said. “it was clear that for many of these folks then, security was not a major concern. but we’ve seen changes, and lots of people are now taking system security seriously.” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

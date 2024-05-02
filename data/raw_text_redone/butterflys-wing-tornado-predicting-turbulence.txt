@@ -1,0 +1,53 @@
+from the butterfly's wing to the tornado: predicting turbulence 
+ remember the adage about a flapping butterfly's wing triggering a tornado? physicists are getting better at predicting the wiles of turbulence. 
+ noaa stock press handout image of a tornado. please credit: noaa / oar / erl / nssl. to be used in turbulence story. (do not use out of context.) 
+ mar 15, 2017 
+ — atlanta, ga 
+ an old adage holds that the flap of a butterfly’s wing in brazil can trigger a tornado in texas weeks later. though chaos theory says it’s basically impossible to compute exactly how that might happen, georgia tech scientists are making new advances in getting math around the swirly phenomenon behind it called turbulence. 
+ recent progress by physicists from the georgia institute of technology could one day help sharpen weather forecasts and extend their range by making better use of masses of weather and climate data. 
+ turbulence can curve as a puff of air, swirl past a river bend or churn as a hurricane, and though its curlicues may appear random, turbulence lays down signature patterns that the physicists are investigating.  they have developed a simple mathematical model that has helped them show how turbulent flows will evolve over intervals . 
+ and, in a novel experiment, they verified their predictions physically in a two-dimensional turbulent flow produced in a lab. 
+ ‘butterfly effect’ catchphrase 
+ the new georgia tech research befits the origins of that adage. 
+ it was coined more than 55 years ago by  mit meteorology professor edward lorenz  after he established that tiny forces influenced major weather enough to throw long-range forecasts for a loop. the title of his paper, “predictability: does the flap of a butterfly’s wing in brazil set off a tornado in texas?” morphed into the well-known catchphrase. 
+ michael schatz  and  roman grigoriev ,  professors in georgia tech’s  school of physics , along with graduate researchers balachandra suri and jeffrey tithof, published their research results online in the journal  physical review letters  on wednesday march 15, 2017 . the research was funded by the national science foundation. 
+ order in chaos 
+ for hundreds of years, while scientists used math to get a grip on  newton’s falling apple , substantiate the  theory of relativity  and theorize the existence of  the higgs boson , turbulence has been like wet soap in math’s grasp. but for all its elusiveness, turbulence impresses with visibly coherent, recurring, recognizable shapes. 
+ fluid swirls quickly establish themselves then shift or disappear, but they reappear persistently at different locations, producing transient and varying, yet repeating patterns. 
+ “people have seen these patterns in turbulent flows for centuries, but we’re finding ways to relate the patterns to mathematical equations describing fluid flows,” grigoriev said. some recurrent patterns, in particular, interest grigoriev and schatz. they’re called  exact coherent structures (ecss). 
+ they give the physicists convenient entry points into computing predictions about what turbulence will do next. 
+ turbulent flow snapshots 
+ but what are these  exact coherent structures ? visually, in turbulence, they may show up as fleeting moments when the patterns stop changing. and it can look like the flow is temporarily slowing down. 
+ to the untrained eye, an ecs doesn’t look much different from the rest of the swirls and curls, but one can learn to spot them. “that’s exactly how we go about finding them,” schatz said. “we watch the turbulence, continually taking snapshots. the flow is moving around, moving around. we look for the instant when it slows down the most, and we pick out a snapshot.” 
+ “we feed that into the mathematical model,” schatz said, “and it indicates that we’re close, and shows what the math looks like at that point.” that math solution describes a point in the turbulent flow that can be worked with to compute a prediction of what the turbulence will do next. 
+ to understand what an  exact coherent structure  is dynamically, we need to step back from what turbulence looks like visually with bunches of curls and swirls. instead, let’s look at a turbulent flow as a single physical entity by translating it into a crude metaphor, a swinging pendulum -- with some marked oddities. 
+ pendulum on its head 
+ this is going to get a bit abstract: first,  invert the pendulum . 
+ instead of picturing the bottom point of a normal pendulum’s swing, the equilibrium, as a stable point in a stable swing, now, with the upside-down pendulum, the equilibrium is the top-most point. and it’s unstable. also, it doesn’t swing in just two directions but in all directions. 
+ a turbulent flow’s reliable patterns reflect dynamics that are back-and-forth-to-and-fro but in all kinds of variations. 
+ as the metaphorical pendulum swings up toward its peak, it comes to a near but never complete stop. instead it flops over to some other side. that near-halt point is analogous to an  exact coherent structure , but there are a few more kinks in the metaphor. 
+ “if we change initial dynamics ever so slightly, an inverted pendulum can swing past its  unstable equilibrium  at the peak, or it can stop and then start moving in the opposite direction. in the same way, the turbulent flow can evolve in various different ways after passing by an ecs,” grigoriev said. 
+ multiple  exact coherent structures  with varying qualities turn up in a turbulent flow. 
+ turbulence roads to ecs cities 
+ that all may feel unusual for a reason. 
+ “usually, people like to look at stable things that are unchanging like the even, symmetric normal pendulum,” schatz said. “it turns out it’s really these unstable patterns that form a rough core alphabet that we use to build a sort of predictive theory.” 
+ staying with the dynamics of that floppy inverted pendulum, now picture each  exact coherent structure  as being a city on a map. there are paths that guide the turbulent flow “traffic” toward, from, and around each city just like roadways. “this road map around and between cities does not change in time, which enables us to predict the evolution of the flow,” grigoriev said. 
+ ecss occur regularly, almost like clockwork, opening up the possibility of refining predictions at regular intervals. 
+ exact coherent structures  were already known to exist, schatz said. “what no one has done before is demonstrate in a lab experiment how they can be harnessed to describe dynamics, the behavior evolving in time, which is really what you need for prediction.” 
+ mining weather data 
+ in the 19 th  century, math equations were developed to describe the basic flow of fluids. those who took high school physics may remember  newton’s second law  relating forces, acceleration and mass. the  navier-stokes equations ,  used in this study, apply it to fluids. 
+ turbulence is challenging to describe mathematically because its swirls contain myriad dimensions, with the flow in each small region appearing to dance to its own tune. but there is clear order that emerges upon finding  exact coherent structures . 
+ to make their predictions, schatz and grigoriev’s research team devised a way to mathematically connect that high dimensionality to the much simpler roadway concept. 
+ they broke down the turbulent flow into regions, each small enough to apply the equations, then used their solutions to precisely place the flows on the road map. 
+ today, the compendium of  data on weather and climate , the shape of ocean floors, dimensions of the atmosphere, effects of gravity, rotation, or concentrations of dissolved minerals is impressive and growing. 
+ predictive methods like those in this research offer paths into that data to extract better predictions from it. 
+ the research was funded by the national science foundation under grants  cmmi-1234436 and dms-1125302. doi: 10.1103 / physrevlett.118.114501 . 
+ additional images 
+ contact 
+ writer and contact: ben brumfield 
+ (404) 660-1408 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

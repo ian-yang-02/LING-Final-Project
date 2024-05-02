@@ -1,0 +1,24 @@
+georgia tech researchers develop more broadly protective coronavirus vaccine 
+ researchers at the georgia institute of technology and the university of wisconsin-madison have developed a new vaccine that offers broad protection against not only sars-cov-2 variants, but also other bat sarbecoviruses 
+ apr 01, 2024 
+ scientists have been searching for the optimal coronavirus vaccine since the covid-19 pandemic started. the mrna vaccines developed through the federal government's "operation warp speed" program were a massive innovation; however, annually updating those boosters for specific sars-cov-2 variants is inefficient for scientists and patients. sars-cov-2 is just one member of the sarbecovirus ( sar s 
+ be ta co rona virus ) subfamily (others  include sars-cov-1, which caused the 2002 sars outbreak, as well as other viruses circulating in bats that could cause future pandemics). 
+ researchers at the georgia institute of technology and the university of wisconsin-madison have developed a new vaccine that offers broad protection against not only sars-cov-2 variants, but also other bat sarbecoviruses. the groundbreaking trivalent vaccine has shown complete protection with no trace of virus in the lungs, marking a significant step toward a universal vaccine for coronaviruses. 
+ “we had been working on strategies to make a broadly protective vaccine for a while,” said 
+ ravi kane , 
+ garry betty / v foundation chair and gra eminent scholar in cancer nanotechnology and  professor in the 
+ school of chemical and biomolecular engineering . “this vaccine may protect not just against the current strain circulating that year, but also future variants.” 
+ they presented their findings in “ broad protection against clade 1   sarbecoviruses after a single immunization with cocktail spike-protein-nanoparticle   vaccine ,” published in the february edition of 
+ nature communications . 
+ kane and his research group have been working on the technologies to develop more widely protective vaccines for viruses since he joined georgia tech in 2015. although the team didn’t specifically foresee covid-19 arising when it did, pandemics have regularly occurred throughout human history. while the team pivoted their vaccine research to address coronaviruses, they were surprised by how rapidly each new variant arose, making their broader vaccine even more necessary. 
+ once they realized the challenge inherent in how fast sars-cov-2 mutates, they had two options for how to build a vaccine: design one to be widely preventative against the virus, or use the influenza vaccine, which updates annually for the anticipated prevalent variant, as a model. 
+ making a broad vaccine is more appealing because it enables patients to get one shot and be protected for years. to create their general vaccine, kane’s team capitalized on the key to the original mrna vaccines — the spike protein, which binds the virus to healthy cells. their vaccine uses three prominent spike proteins, or a trivalent vaccine, to elicit a broad enough antibody response to make the vaccine effective against sars-cov-2 variants as well as other sarbecoviruses that have been identified as having pandemic potential. 
+ “if you know which variant is circulating, you can immunize with the spike protein of that variant,” ph.d. student and co-author kathryn loeffler said. “but a broad vaccine is more difficult to develop because you’re protecting against many different antigens versus just one.” 
+ collaborators in the kawaoka group at the university of wisconsin tested their vaccine in hamsters, which they had previously identified as an appropriate animal model to evaluate vaccines and immunotherapies against sars-cov-2. the vaccine was able to neutralize all sars-cov-2 omicron variants tested, as well as non-sars-cov-2 coronaviruses circulating in bats. even better, the vaccine provided complete protection with no detectable virus in the lungs. 
+ kane hopes that the vaccine strategy his team identified can be applied to other viruses — other coronavirus subfamilies as well as other viruses such as influenza viruses. they also expect that some of the specific antigens they describe in this paper can be moved toward preclinical trials. someday, a trivalent vaccine could comprise a routine part of people’s medical treatment. 
+ contact 
+ tess malone, senior research writer / editor 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

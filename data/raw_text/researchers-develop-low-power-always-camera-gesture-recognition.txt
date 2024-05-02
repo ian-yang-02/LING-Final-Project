@@ -1,0 +1,31 @@
+Researchers Develop a Low-power Always-on Camera With Gesture Recognition
+The always-on camera could be used in a wide array of products from security to consumer electronics.
+Researchers at Georgia Tech’s School of Electrical and Computer Engineering developed a low-power camera capable of recognizing gestures. (Credit: Rob Felt, Georgia Tech)
+Aug 11, 2016
+— Atlanta, GA
+Smart devices that wake up with voice commands have gained popularity in recent years, and now researchers at Georgia Institute of Technology have taken it one step farther: an always-on camera.
+Designed with a combination of low-power hardware and energy efficient image processing software, the always-on camera is capable of watching for specific types of movement without draining batteries or running up electricity bills.
+“Right now cameras are very hard to run on passive power just because they burn so much power themselves,” said Justin Romberg, a professor in Georgia Tech’s School of Electrical and Computer Engineering. “This combination of efficient signal processing and a novel hardware design lowers the power requirement and means that some of these other options to power it might be open.”
+The research, which was highlighted at the International Symposium on Low Power Electronics and Design Aug. 8-10, was sponsored by Intel Corp. and the National Science Foundation.
+While reducing the frame rate of a camera plays a role in lowering power demands, to achieve the power savings needed for this project, the researchers programmed the camera to track motion in a more generalized way that still preserved crucial details about what was being tracked. That requires much less power to process than tracking individual pixels throughout the entire field of view.
+“What this camera is actually looking at is not pixel values, but pixels added together in all different ways and a dramatically smaller number of measurements than if you had it in a standard mode,” Romberg said.
+The always-on camera was primarily designed as a way to wake up devices. But its ability to recognize specific gestures expands the possibilities – such as a camera that wakes up with a specific pattern or movement almost like a secret handshake.
+“We wanted to devise a camera that was capturing images all of the time, and then once you have a particular gesture – like you write a Z in the air – it’s going to wake up,” said Arijit Raychowdhury, an associate professor in the School of Electrical and Computer Engineering. “To make that work without affecting the battery life, we wanted it to be so low power that you can power it with harvested ambient energy, such as with a photovoltaic cell.”
+Programming a camera to recognize specific gestures and wake up only when needed is also a way of conserving total system energy, Raychowdhury said.
+"Simple motion detection is a well-studied area of research, and there are commercial products that support motion detection,” he said. “But the problem is that a camera that can just detect motion – and not specific patterns in motion or gestures – is going to wake up more often, even when it doesn’t need to.”
+Such a low-power camera could be useful in a range of applications, especially for camera systems in remote locations where efficiency is crucial.
+“If you have a camera in the field, you want them to use as little energy as possible and only record events when necessary,” Romberg said.
+Other applications include specialized surveillance, robotics and consumer electronics with hands-free operation, and the researchers are already working on adding wireless functionality to transmit images and data with an antenna.
+"Cameras are being added to more and more devices these days, but they don’t have much interactivity,” Raychowdury said. “What we are studying are smart cameras that can look at something specific in the environment at extreme energy-efficiencies and process the data for us.”
+This material is based upon work supported by Intel Corp. and the National Science Foundation under Grant No. CRII 1464353. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of Intel or the National Science Foundation.
+CITATION:
+Anvesha A, Shaojie Xu, Ningyuan Cao, Justin Romberg and Arijit Raychowdhury, “A Light-powered, “Always-On”, Smart Camera with Compressed Domain Gesture Detection,” International Symposium on Low Power Electronics and Design
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

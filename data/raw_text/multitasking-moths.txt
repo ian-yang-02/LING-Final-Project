@@ -1,0 +1,16 @@
+Multitasking Moths
+How the hawkmoth tracks flowers in the dark has surprising applications for airborne robots.
+Sep 18, 2015
+— Atlanta, GA
+It’s difficult enough to see things in the dark, but what if you also had to hover in midair while tracking a flower moving in the wind? That's the challenge the hummingbird-sized hawkmoth must overcome while feeding on the nectar of its favorite flowers. Using high-speed infrared cameras and 3-D-printed robotic flowers, scientists have now learned how this insect juggles these complex sensing and control challenges — all while adjusting to changing light conditions.  What the researchers have discovered could help the next generation of small flying robots operate efficiently under a broad range of lighting conditions.  Read more about this fascinating study in the
+Research Horizons
+story,
+Multitasking Moths .
+Additional Images
+Contact
+Director of Research News Phone:  404.894.6986
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

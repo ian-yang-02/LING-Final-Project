@@ -1,0 +1,29 @@
+neuroscience study taps into brain network patterns to understand deep focus, attention 
+ a team of georgia tech researchers is the first to study the relationship between fluctuations in attention and the brain network patterns within low-frequency 20-second cycles. 
+ apr 09, 2024 
+ from completing puzzles and playing music, to reading and exercising, growing up 
+ dolly seeburger 
+ loved activities that demanded her full attention. “it was in those times that i felt most content, like i was in the zone,” she remembers. “hours would pass, but it would feel like minutes.” while this deep focus state is essential to highly effective work, it’s still not fully understood. now, a new study led by seeburger, a graduate student in the 
+ school of psychology , alongside her advisor, 
+ eric schumacher , a professor in the 
+ school of psychology 
+ is unearthing the mechanisms behind it.  the interdisciplinary georgia tech team also includes 
+ nan xu, sam larson  and 
+ shella keilholz 
+ ( coulter department of biomedical engineering ), alongside 
+ marcus ma 
+ ( college of computing ), and 
+ christine godwin 
+ ( school of psychology ). the researchers’ study, “ time-varying functional connectivity predicts fluctuations in sustained attention in a serial tapping task ,” was published in 
+ cognitive, affective, and behavioral neuroscience 
+ earlier this year, and it investigates brain activity via fmri during periods of deep focus and less-focused work.  the work is the first to investigate low-frequency fluctuations between different networks in the brain during focus, and could act as a springboard to study more complex behaviors and focus states. “your brain is dynamic! nothing is just on or off,” seeburger explains. “this is the phenomenon we wanted to study. how does one get into the zone? why is it that some people can sustain their attention better than others? is this something that can be trained? if so, can we help people get better at it?” the dynamic brain the team’s work is also the first to study the relationship between fluctuations in attention and the brain network patterns within these low-frequency 20-second cycles. “for quite a while, the studies on neural oscillations focused on faster temporal frequencies, and the appreciation of these very low-frequency oscillations is relatively new,” seeburger says. “but, these low-frequency fluctuations may play a key role in regulating higher cognition such as sustained attention.” “one of the things we've discovered in previous research is that there's a natural fluctuation in activity in certain brain networks. when a subject is not doing a specific task while in the mri scanner, we see that fluctuation happen roughly every 20 seconds,” adds co-author schumacher, explaining that the team was interested in the pattern because it is quasi-periodic, meaning that it doesn’t repeat exactly every 20 seconds, and it varies between different trials and subjects. by studying these quasi-periodic cycles, the team hoped to measure the relationship between the brain fluctuation in these networks and the behavioral fluctuation associated with changes in attention. your attention needed to measure attention, participants tapped along to a metronome while in an fmri scanner. the team could measure how “in the zone” participants were by measuring how much variability was in each participant’s taps — more variability suggested the participant was less focused, while precise tapping suggested the participant was “in the zone.” the researchers found that when a subject’s focus level changed, different regions of the brain synchronized and desychronized, in particular the fronto-parietal control network (fpcn) and default mode network (dmn), the fpcn is engaged when a person is trying to stay on task, whereas the dmn is correlated with internally-oriented thoughts (which a participant might be having when less focused). “when one is out-of-the-zone, these two networks synchronize, and are in phase in the low frequency,” seeburger explains. “when one is in the zone, these networks desynchronize.” the results suggest that the 20-second patterns could help predict if a person is sustaining their attention or not, and could provide key insight for researchers developing tools and techniques that help us deeply focus. the big picture while the direct relationship between behavior and brain activity is still unknown, these 20-second patterns in brain fluctuation are seen universally, and across species. “if you put someone in a scanner and their mind is wandering, you find these fluctuations. you can find these quasi-period patterns in rodents. you can find it in primates,” schumacher says. “there's something fundamental about this brain network activity.” “i think it answers a really fundamental question about the relationship between behavior and brain activity,” he adds. “understanding how these brain networks work together and impact behavior could lead to new therapies to help people organize their brain networks in the most efficient way.” and while this simple task might not investigate complex behaviors, the study could act as a springboard to move into more complicated behaviors and focus states. “next, i would like to study sustained attention in a more naturalistic way,” seeburger says. “i hope that we can further the understanding of attention and help people get a better handle on their ability to control, sustain, and increase it.”   doi: 
+ https: / / doi.org / 10.3758 / s13415-024-01156-1 
+ additional media 
+ contact 
+ written by selena langner contact: 
+ jess hunt-ralston 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

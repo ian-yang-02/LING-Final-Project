@@ -1,0 +1,38 @@
+Digital Inspection Portal Uses AI and Machine Vision to Examine Moving Trains
+Norfolk Southern Corporation and the Georgia Tech Research Institute (GTRI) have developed digital train inspection portals that use advanced machine vision and artificial intelligence to identify mechanical defects that may exist on moving trains.
+Jan 19, 2024
+Collaboration between Norfolk Southern Corporation and the Georgia Tech Research Institute (GTRI) has led to the development of digital train inspection portals that use advanced machine vision and artificial intelligence to examine trains moving at speeds of up to 60 miles per hour to identify mechanical defects that may exist.
+Machine vision technology in the portals produces images of key components located on the front and back, top, bottom, and sides of train cars, providing a 360-degree view of the complete train. Images produced by the portal are analyzed within minutes of a train’s passage, allowing any issues identified to be reported immediately.
+Two train portals are currently in operation on adjacent tracks in Leetonia, Ohio, and the company plans to have as many as a dozen in service by the end of 2024. Among them will be a train portal already under construction near Jackson, Georgia, which is located south of Atlanta.
+“Norfolk Southern is deploying Digital Train Inspection Portals to enhance rail safety across the company’s 22-state network,” said Mabby Amouie, chief data scientist for the company. “The portals feature cutting-edge machine vision inspection technology developed in partnership with GTRI, which engineered the hardware, and Norfolk Southern’s Data Science/Artificial Intelligence and Mechanical teams, which built the brains behind the program.”
+The machine vision portion uses 38 high-resolution cameras consisting of a mix of area and line scan cameras to photograph critical components of each rail car moving through the portals. Powerful lights comparable to those used in sports stadiums allow the cameras to take approximately a thousand photographs of each moving rail car.
+“Being able to look at the train while it’s moving at 60 miles per hour provides visibility into defects that would be difficult to see otherwise,” said Gary McMurray, division chief of GTRI’s Intelligent Sustainable Technologies Division. “You want to be able to look at a train while it’s in motion because that’s when components are stressed, and you can see other dynamic faults.”
+To reduce the amount of data that must be analyzed, each camera is aimed at a specific area of the train and takes photographs only when components of interest are visible. “The high-speed cameras are strategically placed at angles to capture things that are difficult to detect with the human eye during stationary inspections,” said Amouie.
+Sensors at each portal determine the speed of each train passing through and use that information to precisely control when the photographs are taken.
+“Even with a train traveling 60 miles per hour, we are able to calculate in real time when to tell each camera to take a picture,” said Colin Usher, a GTRI senior research scientist who led development of the machine vision system. “Only images of critical components are taken and the other areas of the train that are inconsequential to identifying defects are not captured. That optimizes the image capture and saves space in the computer system.”
+The images produced by the system are analyzed by artificial intelligence algorithms developed by Norfolk Southern. The algorithms were designed to provide a combination of high accuracy and very low rates of false positives. If defects are spotted, the AI systems reports them immediately.
+“The computer transmits the information to Norfolk Southern’s Network Operations Center, where the data is reviewed by subject-matter experts to identify and address issues to proactively ensure the safety of rail operations,” Amouie said. “Critical defects are flagged for immediate handling.”
+The machine vision system uses image compression techniques to reduce the size of the photographs processed by computer servers located in the portals. For a single train, the data analyzed can amount to as much as 500 gigabytes. Because the inspection needs to be done quickly, the image processing is done on-site.
+The inspection portals must operate year-round in all kinds of weather conditions and in geographic locations that range from extreme heat to cold. The machine vision system therefore has to operate despite heavy vibration levels, temperature extremes, rain and snow – and to remain clean as trains pass over.
+To protect the cameras, air blown over the camera lenses shields them, while air-conditioned enclosures prevent overheating of the equipment. The system operates in a tunnel structure that helps protect the equipment and control lighting, which must be consistent across the train being inspected.
+The project, which began in 2021, involved approximately a dozen researchers in four GTRI laboratories. The research built on imaging work done earlier for a variety of applications, including the food processing industry, which needed to monitor poultry on moving processing lines.
+“By partnering with GTRI, Norfolk Southern is tapping into the best in machine vision technology in any market,” Amouie said. “We chose GTRI to be a partner because they develop advanced technology solutions and large-scale system prototypes to address the most difficult problems in national security, economic development and the overall human condition.”
+Writer:
+John Toon  (john.toon@gtri.gatech.edu)
+GTRI Communications
+Georgia Tech Research Institute
+Atlanta, Georgia USA
+The
+Georgia Tech Research Institute (GTRI)
+is the nonprofit, applied research division of the Georgia Institute of Technology (Georgia Tech). Founded in 1934 as the Engineering Experiment Station, GTRI has grown to more than 2,900 employees, supporting eight laboratories in over 20 locations around the country and performing more than $940 million of problem-solving research annually for government and industry. GTRI's renowned researchers combine science, engineering, economics, policy, and technical expertise to solve complex problems for the U.S. federal government, state, and industry.
+Additional Media
+Contact
+(Interim) Director of Communications
+Michelle Gowdy
+Michelle.Gowdy@gtri.gatech.edu
+404-407-8060
+Email
+michelle.gowdy@gtri.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

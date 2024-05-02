@@ -1,0 +1,36 @@
+learning morse code without trying 
+ researchers have developed a system that teaches people morse code within four hours using a series of vibrations felt near the ear 
+ oct 27, 2016 
+ — atlanta, ga 
+ it’s not exactly beating something into someone’s head. more like tapping it into the side. 
+ researchers at the georgia institute of technology have developed a system that teaches people morse code within four hours using a series of vibrations felt near the ear. participants wearing google glass learned it without paying attention to the signals —they played games while feeling the taps and hearing the corresponding letters. after those few hours, they were 94 percent accurate keying a sentence that included every letter of the alphabet and 98 percent accurate writing codes for every letter. 
+ this is the latest chapter of passive haptic learning (phl) studies at georgia tech. the same method — using vibrations while participants aren’t paying attention — 
+ has taught people braille , 
+ how to play the piano 
+ and 
+ improved hand sensation for those with partial spinal cord injury. 
+ the phl projects are all led by georgia tech professor thad starner and his ph.d. student caitlyn seim. the team decided to use glass for this study because it has both a built-in speaker and tapper (glass’s bone-conduction transducer). 
+ in the study, participants played a game while feeling vibration taps between their temple and ear. the taps represented the dots and dashes of morse code and passively “taught” users through their tactile senses — even while they were distracted by the game. 
+ the taps were created when researchers sent a very low-frequency signal to glass’s speaker system. at less than 15 hz, the signal was below hearing range but, because it was played very slowly, the sound was felt as a vibration. 
+ half of the participants in the study felt the vibration taps and heads a voice prompt for each corresponding letter. the other half — the control group — felt no taps to help them learn. 
+ participants were tested throughout the study on their knowledge of morse code and their ability to type it.  after less than four hours of feeling every letter, everyone was challenged to type the alphabet in morse code in a final test. 
+ the control group was accurate only half the time.  those who felt the passive cues were nearly perfect. 
+ the research was recently presented in germany at the 20 th 
+ international symposium on wearable computers. 
+ “does this new study mean that people will rush out to learn morse code? probably not,” said starner. “it shows that phl lowers the barrier to learn text-entry methods — something we need for smartwatches and any text-entry that doesn’t require you to look at your device or keyboard.” 
+ previous research on phl used custom hardware to provide the tactile stimuli, but here researchers use an existing wearable device. 
+ “this research also shows that other common devices with an actuator could be used for passive haptic learning,” he says. “your smartwatch, bluetooth headset, fitness tracker or phone.” 
+ “in our braille and piano phl studies, people felt vibrations on their fingers, then used their fingers for the task,” said seim. “this study was different and surprising. people were tapped on their heads, but the skill they learned was using their finger.” 
+ seim’s next study will go a step further, investigating whether phl can teach people how to type on the trusted qwerty keyboard. that would mean several letters assigned to the same finger, rather than using only one finger like morse code. 
+ the work is supported in part by the national science foundation (grant number 1217473). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ additional images 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

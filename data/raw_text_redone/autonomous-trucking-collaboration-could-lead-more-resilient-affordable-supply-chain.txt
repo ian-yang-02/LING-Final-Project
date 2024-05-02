@@ -1,0 +1,38 @@
+autonomous trucking collaboration could lead to a more resilient, affordable supply chain 
+ a. russell chandler iii chair and professor pascal van hentenryck and his team look at transportation through a different lens 
+ nov 02, 2021 
+ — atlanta, ga 
+ a. russell chandler iii chair and professor 
+ pascal van hentenryck 
+ is collaborating with 
+ ryder system, inc. 
+ on the 
+ industry’s first data-driven study of the potential impact of autonomous trucking . 
+ van hentenryck and his team have spent years developing an 
+ on-demand multimodal transit system (odmts) 
+ to address the first- and last-mile problems in public transportation and provide equitable, efficient, and low-cost public transportation options. the multimodal approach uses small on-demand vehicles to take riders to and from their locations to high-frequency bus and rail hubs. increasing the use of public transit will not only decrease reliance on personal vehicles and reduce traffic congestion and greenhouse gas emissions; it will also increase accessibility to jobs, healthcare, education, and fresh food. 
+ however, when executives from ryder, a leading logistics and transportation company with more than 235,000 vehicles and 8,600 professional truck drivers, reached out to van hentenryck about a collaboration, the research team began to look at the model through a different lens. 
+ “we have been focusing on people mobility and had not looked at other types of transportation,” said van hentenryck. “so when ryder came to us, we were very interested to see if the techniques that we were using for people could apply more generally to freight. in this project specifically, we are looking at how adding autonomous vehicles could unlock additional value.” 
+ van hentenryck, who also serves as associate chair for innovation and entrepreneurship and leads the 
+ socially aware mobility (sam) lab 
+ in the h. milton stewart school of industrial and systems engineering (isye), and his team met with ryder to better understand the company’s goals and to determine if this multimodal approach could be applied to another system. working with a company like ryder gave the team access to large amounts of data and to logistics experts who understand the industry’s current and future challenges. 
+ “there is a lot of back-and-forth between researchers and company representatives in a project like this,” explained van hentenryck. “sometimes the solutions we come up with in the lab will not work in the field, and so you have this iterative process in transforming the research idea into something that is applicable in the field.” 
+ ryder operates a network of dedicated fleets for its customers, and even with high levels of performance, inflexible transportation lanes and schedules often lead to inefficiencies. 
+ “we learned that sometimes these trucks are traveling many miles completely empty, which is not cost effective,” van hentenryck said. “we started looking at how we can avoid these ‘empty miles.’” 
+ to meet customer needs, ryder must execute a large number of freight movements across the country. the team realized that by breaking each trip into three sections — origin-to-hub, hub-to-hub, and hub-to-destination — it could organize a network using both regular and autonomous trucks. the first and last segments would rely on smaller human-operated vehicles, since these will typically occur in more densely populated locations. connections between hubs would rely solely on autonomous trucks (those without a human driver), generally in sparsely populated, controlled environments like highways and exit ramps. 
+ “safety is especially important to our researchers and to ryder, and we take it very seriously,” said van hentenryck. “keeping the autonomous trucks on the longer-haul middle leg, and human drivers in the first and final legs, schedules autonomy on lengthy, often overnight trips, and places drivers in dense environments where there are many other variables at play like left-hand turns, stop signs, pedestrians, etc.” 
+ the autonomous hub-to-hub aspect allows van hentenryck’s model to be optimized in a whole new way because it doesn’t depend on having drivers available — autonomous trucks are extremely flexible. this can deliver significant projected savings for ryder if the model is implemented. 
+ “the whole team was stunned by the projected savings from this project,” said van hentenryck. “i have worked on many different transportation problems during my career, and 1% improvement is magical. in this case, improvement goes from 29% to 40%, depending on the price of autonomous trucks and the cost of operating them. also, the flexibility to move these autonomous trucks around gave us the ability to optimize the business model in ways people didn’t even consider before.” 
+ the agility of the new model also provides better reactions to supply chain disruptions, because it can adapt more quickly to a new situation. 
+ “autonomous driving technology is poised to be incredibly disruptive to our industry in safety, service, and cost. as such, it was clear to us that this was not something we could wait to figure out or be handed a playbook. this collaboration with georgia tech was an advancement in our commitment to becoming a leader in fostering innovation and bringing it to our customers,” said michael plasencia, group director of new product strategy at ryder. 
+ “we are designing a much more resilient supply chain logistics system, and that is because we are thinking differently,” van hentenryck added. “this technology provides more resilience, more flexibility, and is more affordable. 
+ “this project is only a first step. the whole field of transportation, logistics, and supply chains is being transformed by technology, automation, and the changes in attitudes and expectations that emerged during covid-19. we are looking forward to working with ryder on many of these.” 
+ view ryder’s press release 
+ the impact of autonomous trucking: a case study if ryder's dedicated transportation network 
+ additional images 
+ contact 
+ laurie haigh 
+ communications manager 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

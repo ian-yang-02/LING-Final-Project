@@ -1,0 +1,40 @@
+A Rare Genetic Spotlight on Health Disparities for IBD
+In a new study, Georgia Tech researchers investigated whether 25 rare gene variants known to be associated with inflammatory bowel disease (IBD) play a role in risk for African Americans.
+Greg Gibson and Courtney Astore
+Nov 15, 2023
+The advent of whole genome sequencing technology has prompted an explosion in research into how genetics are associated with disease risk. But the vast majority of genetics research has been done on people of European ancestry, and genetics researchers have realized that in order to address health disparities, more needs to be done.
+In a new study, Georgia Tech researchers investigated whether 25 rare gene variants known to be associated with inflammatory bowel disease (IBD) play a role in risk for African Americans. While the rare variant associations were recently discovered in individuals of European ancestry, contributing to about 15% of cases, it was unknown if and how those same rare gene variants might affect risk for African Americans.
+Led by
+Greg Gibson , Regents’ Professor and Tom and Marie Patton Chair in the School of
+Biological Sciences , the study highlights the importance of considering genetic diversity and the mixing of ancestry in genetics research. The findings were
+published
+in the journal
+Genome Medicine .
+“Because of major advancements in the last decade, we now know that most diseases are far more complex than we originally thought, in terms of genetics,” said Gibson, who is also director of the
+Center for Integrative Genomics
+at Georgia Tech. “Understanding whether genetic differences contribute to health disparities is a major point of focus for current genetics research, and we had an opportunity to test one idea with this study.”
+Today, African Americans have a similar prevalence of various types of IBD as European Americans. But progression is often much worse: African Americans are more likely to progress to severe disease requiring colectomies and other major interventions.
+Courtney Astore, a Ph.D. student in Gibson’s lab and first author on the paper, wanted to assess whether those same rare variants would have a similar effect on IBD risk in African Americans. In a collaboration with Subra Kugathasan from Emory University and the NIH’s IBD Genetics Consortium, Gibson’s lab had analyzed the complete genome sequences of over 3,000 genomes of African Americans, half with IBD. Astore used that database to conduct her analysis.
+She started by plotting the difference in frequency of the rare variants, and quickly realized that there was a significant reduction in prevalence of the variants in African Americans. Through further computations, she estimated that European ancestry variants actually only made a very small contribution to IBD in African Americans (around 44 additional cases per 100,000 people), fourfold less than Americans of European ancestry.
+“Prior to our analysis, we suspected that admixture may play a role in the presence of IBD-associated rare variants in African Americans,” Astore said. “When I saw the differences, that was when I realized that there was something important there that we needed to discover.”
+Astore then used a method known as chromosome painting, which is a tool for visualizing where each segment of the genome comes from. She showed that the rare variants found in African Americans were almost always located on segments of European ancestry genomes.
+In simple terms, the location of the variants indicated that the genes resulted from admixture — a scientific term for mixing of genetic backgrounds throughout ancestry — which enabled Astore to show that the mutations had arisen outside of Africa, and only began to appear in people of African ancestry over the last dozen generations.
+To conclude the study, Gibson and Astore assessed the presence of other rare variants associated with a dozen other diseases, which similarly confirmed that the presence of the variants contributes to African Americans generally through admixture.
+The findings are important for several reasons. First, they highlight the value of considering genetic diversity and admixture in all genetics research, and especially when investigating rare variants and their associations with complex disease. While they showed that the European variants were rare in African Americans, there are almost certainly rare variants that contribute to IBD in African Americans that have yet to be discovered and may point to biological mechanisms.
+“Doing more genetic studies on diverse populations, and especially those that have admixture, is going to be pivotal for therapeutic discovery,” Astore said.
+Precision medicine will eventually be tailored to a person’s genome, which means that in some cases knowing the identity of rare variants will help guide therapy. If that is the case, knowing the context of ancestry will be beneficial. It also means that if more research on diverse ancestry groups isn’t done, then new treatments might not be effective for all people. The team also emphasizes that genetics is not the only factor contributing to risk for complex diseases like IBD, and their study simply highlights that it cannot be assumed that genetic discoveries are risk factors for all people.
+“Our study emphasizes that in order to move in the direction of greater health equity, it is absolutely crucial to do large-scale genetic sequencing for African Americans and all ancestry groups,” Gibson said. “We hope our work will encourage more research on both social determinants of health and the genetics of IBD across ancestries.”
+Note: The
+IBD Genetics Consortium , of which Gibson is a part, organized the cohort of African Americans with IBD, and their samples were gathered at institutes across the country, including Emory University, Johns Hopkins University, Rutgers University, Cedars Sinai Los Angeles, and Mt. Sinai New York.
+Funding: National Institutes of Health
+DOI:
+https://doi.org/10.1186/s13073-023-01244-w
+Additional Images
+Contact
+Catherine Barzler, Senior Research Writer/Editor
+catherine.barzler@gatech.edu
+Email
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

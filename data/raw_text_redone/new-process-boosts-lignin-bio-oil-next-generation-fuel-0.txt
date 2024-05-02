@@ -1,0 +1,46 @@
+new process boosts lignin bio-oil as a next-generation fuel 
+ a new process for upgrading lignin bio-oil could expand the use of lignin, which is now largely a waste product. 
+ trees are a source of cellulose, hemicelluloses, and lignin. a new process for upgrading lignin bio-oil to hydrocarbons could help expand use of the lignin, which is now largely a waste product left over from the productions of cellulose and bioethanol. (credit: john toon, georgia tech) 
+ sep 09, 2020 
+ — atlanta, ga 
+ a new low-temperature, multi-phase process for upgrading lignin bio-oil to hydrocarbons could help expand use of the lignin, which is now largely a waste product left over from the production of cellulose and bioethanol from trees and other woody plants. 
+ using a dual catalyst system of superacid and platinum particles, researchers at the georgia institute of technology have shown they can add hydrogen and remove oxygen from lignin bio-oil, making the oil more useful as a fuel and source of chemical feedstocks. the process, based on an unusual hydrogen cycle, can be done at low temperature and ambient pressure, improving the practicality of the upgrade and reducing the energy input needed. 
+ “from an environmental and sustainability standpoint, people want to use oil produced from biomass,” said 
+ yulin deng , a professor in georgia tech’s 
+ school of chemical and biomolecular engineering 
+ and the 
+ renewable bioproducts institute . “the worldwide lignin production from paper and bioethanol manufacturing is 50 million tons annually, and more than 95% of that is simply burned to generate heat. my lab is looking for practical methods to upgrade low molecular weight lignin compounds to make them commercially viable as high-quality biofuel and biochemicals.” 
+ the process was described september 7 in the journal 
+ nature energy . the research was supported by the renewable bioproducts institute at georgia tech. 
+ cellulose, hemicelluloses, and lignin are extracted from trees, grasses, and other biomass materials. the cellulose is used to make paper, ethanol, and other products, but the lignin — a complex material that gives strength to the plants — is largely unused because it’s difficult to break down into low-viscosity oils that could serve as the starting point for kerosene or diesel fuel. 
+ pyrolysis techniques done at temperatures over 400 degrees celsius can be used to create bio-oils such as phenols from the lignin, but the oils lack sufficient hydrogen and contain too many oxygen atoms to be useful as fuels. the current approach to addressing that challenge involves adding hydrogen and removing oxygen through a catalytic process known as hydrodeoxygenation. but that process now requires high temperatures and pressures 10 times higher than ambient, and it produces char and tar that quickly reduce the efficiency of the platinum catalyst. 
+ deng and colleagues set out to develop a new solution-based process that would add hydrogen and remove the oxygen from the oil monomers using a hydrogen buffer catalytic system. because hydrogen has very limited solubility in water, the hydrogenation or hydrodeoxygenation reaction of lignin biofuel in solution is very difficult. deng’s group used polyoxometalate acid (siw 12 ) as both a hydrogen transfer agent and reaction catalyst, which helps transfer hydrogen gas from the gas-liquid interphase into the bulk solution through a reversible hydrogen extraction. the process then released hydrogen as an active species h* at a platinum-on-carbon nanoparticle surface, which solved the key issue of low solubility of hydrogen in water at low pressure. 
+ “on the platinum, the polyoxometalate acid captures the charge from the hydrogen to form h+, which is soluble in water, but the charges can be reversibly transferred back to h+ to form active h* inside the solution,” deng said. as an apparent result, hydrogen gas is transferred to water phase to form active h*, which can directly react with lignin oil inside the solution. 
+ in the second part of the unusual hydrogen cycle, the polyoxometalate acid sets the stage for removing oxygen from the bio-oil monomers. 
+ “the super-acid can reduce the activation energy required for removing the oxygen, and at the same time, you have more active hydrogen h* in the solution, which reacts on the molecules of oil,” deng said. “in the solution there is a quick reaction with active hydrogen atom h* and lignin oil on the surface of the catalyst. the reversible reaction of hydrogen with polyoxometalate to form h+ and then to hydrogen atom h* on the platinum catalyst surface is a unique reversible cycle.” 
+ the platinum particles and polyoxometalate acid can be reused for multiple cycles without reducing efficiency. the researchers also found that the efficiency of hydrogenation and hydrodeoxygenation of lignin oil varied depending on the specific monomers in the oil. 
+ “we tested 15 or 20 different molecules that were produced by pyrolysis and found that the conversion efficiency ranged from 50% on the lower end to 99% on the higher end,” deng said. “we did not compare the energy input cost, but the conversion efficiency was at least 10 times better than what has been reported under similar low temperature, low hydrogen pressure conditions.” 
+ operating at lower temperatures — below 100 degrees celsius — reduced the problem of char and tar formation on the platinum catalyst. deng and his colleagues found that they could use the same platinum at least 10 times without deterioration of the catalytic activity. 
+ among the challenges ahead are improving the product selectivity by using different metal catalyst systems, and developing new techniques for separation and purification of the different lignin biochemicals in the solution. platinum is expensive and in high demand for other applications, so finding a lower-cost catalyst could boost the overall practicality of the process — and perhaps make it more selective. 
+ while helping meet the demand for bio-based oils, the new technique could also benefit the forest products, paper, and bioethanol industries by providing a potential revenue stream for lignin, which is often just burned to produce heat. 
+ “the global lignin market size was estimated at $954.5 million in 2019, which is only a very small portion of the lignin that is produced globally. clearly, the industry wants to find more applications for it by converting the lignin to chemicals or bio-oils,” deng said. “there would also be an environmental benefit from using this material in better ways.” 
+ beyond upgrading lignin biofuel, a broad impact of the research in yulin's group is developing a technology to significantly increase the solubility of active hydrogen atoms or hydrogen gas in a solution, which can also be used in broader chemical reactions such as ammonia synthesis and general hydrogenation of different substances. 
+ in addition to deng and first author wei liu, the research team also included wenqin you, wei sun, weisheng yang, akshay korde, and yutao gong, all from georgia tech. 
+ citation : wei liu, et al., “ambient-pressure and low-temperature upgrading of lignin bio-oil to hydrocarbons using a hydrogen buffer catalytic system.” ( nature energy , 2020). 
+ https: / / doi.org / 10.1038 / s41560-020-00680-x 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

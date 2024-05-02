@@ -1,0 +1,34 @@
+georgia tech internet of things center offers perspectives on iot-facilitated user engagement 
+ cdait releases white paper titled “driving new modes of iot-facilitated citizen / user engagement.” 
+ the centergy building in technology square is the headquarters for the center for the development and application of internet of things technologies (cdait). 
+ jul 09, 2018 
+ — atlanta, ga 
+ with an ever-expanding research portfolio from georgia tech faculty, students and member companies, the georgia institute of technology’s center for the development and application of internet of things technologies (cdait) has released a white paper titled “driving new modes of iot-facilitated citizen / user engagement.” it summarizes the collective opinion of practitioners and researchers regarding the internet of things (iot), highlighting in particular the inherent intricacies of its value chain, the possible roadmaps to success, and the critical issues that must be urgently resolved. 
+ produced by cdait’s iot thought leadership working group, the report explores the smart city ecosystem as “a case in point”, reviewing situations in which emerging technologies bring about radical change to traditional business models and substantial benefits to the iot users. 
+ “this report is timely as the internet of things is currently generating a lot of questions from legislators, regulators and businesses in the united states and around the world,” said dr. karen i. matthews, technology and market development manager, science and technology at corning incorporated, and chair of the cdait iot thought leadership working group. 
+ “on the one hand, the risks surrounding cybersecurity and privacy are a legitimate source of concern, and on the other hand, the expectations fueled by widespread enthusiasm regarding the radical transformative nature of the internet of things and its associated huge potential are in some cases slow to materialize,” she said. 
+ the white paper introduces an original screening concept called “epic,” which is tailored for cities and any other organized collectivity in charge of the public interest to help them assess the attractiveness and impact of iot-driven undertakings. through epic, an iot project is evaluated from four angles: ethics (impact on individuals, groups and society), profit (economic and social), intimacy (ease of access, mutual openness and customized experience), and connectivity (medium, computing and trustworthiness). 
+ “readers will find useful discussions and references concerning pressing iot issues such as security, privacy, platforms and device connection,” said alain louchez, co-founder and managing director of cdait. “one of the paper’s appeals is that it blends academic and industry perspectives and has a bent for action.” 
+ among the key expectations regarding the iot future are the following: 
+ the iot will grow in clusters where various use cases and their related devices, applications and connectivity shape their ecosystem. 
+ there will be a natural tendency for clusters to link first to other like clusters, creating “clusters of clusters.” 
+ standards and regulations will emerge that enhance the performance and interoperability of the clusters of uses. 
+ the growth and integration of iot clusters will ultimately lead to an overall iot common platform. 
+ the paper’s contributors represent a variety of industry sectors and academic disciplines, and are directly involved in building the iot and its myriad applications. each shared personal ideas, observations and viewpoints grounded in real-life experience. 
+ “we hope that this effort will provide a better understanding of what the internet of things is about, including benefits, critical challenges, and available avenues to address them,” matthews said. 
+ download the white paper. 
+ about cdait 
+ the center for the development and application of internet of things technologies (cdait, pronounced “sedate’) is a global, nonprofit, partner-funded center located in atlanta, ga that fosters interdisciplinary research and education while driving general awareness about the internet of things (iot). cdait bridges sponsors with georgia institute of technology (georgia tech) faculty and researchers, as well as industry members with similar interests. central to its value proposition is the belief that only a holistic approach, i.e., mindful of the complexity of the entire iot value chain and the intricate relationships between the various links, can generate superior results. cdait’s broad overarching goal is to expand and promote iot’s huge potential and transformational capabilities. anchored at the georgia tech research institute (gtri), a highly regarded applied research and development organization with a global impact and focus on real-world research for government and industry, cdait is backed by georgia tech’s diverse and distinguished community of faculty and researchers. cdait aims to efficiently identify, understand and solve challenges and problems that may arise along the entire internet of things value chain through six working groups: iot education and training; iot startup ecosystem; iot thought leadership; iot security and privacy; iot standards and management; and iot research. 
+ learn more about cdait at 
+ www.cdait.gatech.edu . 
+ additional images 
+ related links 
+ cdait 
+ white paper - "driving new modes of iot-facilitated citizen / user engagement" 
+ contact 
+ lance.wallace@comm.gatech.edu 
+ email 
+ lance.wallace@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

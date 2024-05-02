@@ -1,0 +1,37 @@
+cleanroom user spotlight: mason a. chilmonczyk 
+ chilmonczyk is the ceo / co-founder of andson biotech and a current cleanroom user 
+ may 25, 2022 
+ — atlanta, ga 
+ mason a. chilmonczyk is the ceo and co-founder of andson biotech, a startup that develops new sensors to discover the next groundbreaking cell and gene therapies. in the following q&a, chilmonczyk briefly discusses his work in the ien cleanroom and gives advice to current and future users. 
+ how long have you been using the ien cleanroom? 
+ i began using the ien cleanroom eight years ago when i started my ph.d. program at georgia tech and i am still using it today. 
+ what tools have / do you use when you are in the cleanroom? 
+ hitachi 4700 fe sem 
+ scs g3p8 spinners 
+ tystar mini 
+ vision rie 
+ unaxis rie 
+ plasmatherm rie 
+ plasmatherm icp 
+ sts icp 
+ obducat nanoimprinter 
+ adt dicing saw 
+ what is / has been your favorite project you have worked on in the ien cleanroom? 
+ my ph.d. project, “the dynamic sampling platform for real-time bioreactor monitoring,” has been the most satisfying project i have worked on in the ien cleanroom. i collaborated with my advisor, mechanical engineering professor 
+ andrei fedorov , and we utilized the 
+ nanoscribe 
+ to make micro-3d printed parts. this allowed me to take interesting sem images using the field emissions scanning electron microscopes. my ph.d. project was probably the most satisfying to "complete," but i am still working on it to this day. 
+ at the core of my work was a microfluidic mass exchanger that i built in the ien cleanrooms at georgia tech. as a result of this project, professor fedorov and i co-founded the startup 
+ andson biotech . the company is growing, and we recently licensed the technology to enable better biopharmaceutical workflows. 
+ what advice would you give to other researchers thinking about using a tool in the ien cleanroom? 
+ i would say to only use the cleanroom for your research if you have a burning desire to learn about mems / microfabrication or you have to do so for your project. there are very rarely "quick" projects inside cleanrooms. in general, i think if you have the opportunity to learn about anything new you should take that chance. 
+ what is your favorite thing about the ien cleanroom? 
+ my favorite thing about the ien cleanroom is the people i've met. some of my best and longest-term friends have been made in these cleanrooms. i really miss working in the cleanroom as often as i used to, because i don't get to interact with all my best friends. unfortunately, many of my original friends [from the cleanroom] have moved on to other things. while i miss seeing them, i love to see them succeed! 
+ learn more about mason’s project, company, and technology - 
+ new startup makes developing gene therapies faster and easier 
+ additional images 
+ contact 
+ laurie haigh 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,41 @@
+georgia tech student builds life-saving robots 
+ during the covid-19 pandemic, mirza samnani used parts and pieces to make robotic solutions deployed in hospitals 
+ “i built my first robot probably in the eighth grade,” samnani recalled. 
+ as a teen, he started building mars rover prototypes for nasa competitions. he also launched his own robotics startup called ignite labs, which develops affordable robotic equipment for industries and promotes robotics to students of all ages 
+ apr 09, 2021 
+ — atlanta, ga 
+ mirza samnani estimates that he’s built well over 100 robots. 
+ “i built my first robot probably in the eighth grade,” samnani recalled. 
+ as a teen, he started building mars rover prototypes for nasa competitions. he also launched his own robotics startup called ignite labs, which develops affordable robotic equipment for industries and promotes robotics to students of all ages. 
+ then, last year, just as samnani was preparing to start a master’s degree program at georgia tech in aerospace engineering, the covid-19 pandemic struck. suddenly traveling from mumbai to atlanta was no longer an option. 
+ following some advice from his soon-to-be professor and his mother, samnani started working on engineering solutions that might help his community, and he was inspired by the work he had already been doing. 
+ “if we can remotely explore mars and jupiter,” he observed, “we should be able to figure out how to make that technology work in a hospital setting.” 
+ using parts and pieces he had on hand from his robotic inventions, samnani built a prototype for a medical assistance robot that could deliver food and medicine in the temporary covid-19 hospitals established by the indian government. the big idea: minimize the exposure for frontline workers interacting with infected patients, but also free up their time so they could handle more critical issues. 
+ samnani’s robot was built to use the same functions he had intended for exploring the red planet, but he retrofitted it for the unique setting of covid-19 hospitals, where patients were isolated and care providers wore full protective equipment to avoid virus transmission. 
+ samnani included a tank and nozzle spray apparatus, which could disperse disinfectant throughout the care unit. the arm of the robot has sensors that can determine a patient’s temperature, heart rate, and oxygen level. 
+ “as soon as the patient puts their finger in, the doctor is able to remotely see the data from a safe location,” samnani explained. 
+ the robot also has a tablet that can allow doctors and patients to interact with one another from a safe distance. 
+ “the nose or mouth of the robot is actually a camera,” samnani said. 
+ eventually the tablet connectivity allowed patients in isolation to be able to interact with family members, whom they were unable to see in person due to their covid-19 isolation. 
+ this roving bot was also used to stack up meal trays and deliver them to patients. in addition to freeing up healthcare workers’ time, “it also just brought a smile to people’s faces,” samnani said. 
+ samnani continued to develop robotic solutions to help healthcare workers. when he asked doctors if he could help with any other pressing issues, they let him know that deteriorating covid-19 patients often have to receive up to 20 minutes of cpr if they go into cardiac arrest. 
+ “i thought that process could be automated with a machine,” samnani said. 
+ samnani built what has become india’s first automated cpr device after calculating the exact rate and pressure needed to conduct cpr. he deployed the machine for use in a hospital just a day before leaving mumbai for atlanta to start his graduate program. 
+ “i got a call from a doctor who let me know the machine had worked,” samnani said. 
+ the patient, whose heart rate had dropped to gravely low numbers, was revived when doctors positioned the device over the patient’s chest and allowed it to start running. samnani says the news brought him tears of joy. 
+ “i want to bring a positive effect to more people’s lives,” he said. “i think that’s what engineers do.” 
+ samnani is now completing his master’s degree in aerospace engineering at tech and working with assistant professor christopher  carr in tech’s space systems design lab. he’s helping develop rover robots that could be used to detect signs of life in space, and he hopes to one day manage a space mission, namely to europa — one of jupiter’s moons. but along the way he wants to help underprivileged communities gain access to quality healthcare and education. 
+ “improve life on earth, and then head out for space,” samnani said. 
+ additional images 
+ contact 
+ steven norris 
+ institute communications 
+ snorris@gatech.edu 
+ siobhan rodriguez 
+ institute communications 
+ sar30@gatech.edu 
+ email 
+ snorris@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

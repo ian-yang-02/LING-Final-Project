@@ -1,0 +1,52 @@
+Birth of Massive Black Holes in the Early Universe Revealed
+New research shows that when galaxies assemble extremely rapidly – and sometimes violently – that can lead to the formation of very massive black holes.
+Zoom of the inner 30 light-years of the dark matter halo. The rotating gaseous disk breaks apart into three clumps that collapse under their own gravity to form supermassive stars.  (Credit: John Wise, Georgia Institute of Technology)
+Jan 23, 2019
+— Atlanta, GA
+The light released from around the first massive black holes in the universe is so intense that it is able to reach telescopes across the entire expanse of the universe. Incredibly, the light from the most distant black holes (or quasars) has been traveling to us for more than 13 billion light years. However, we do not know how these monster black holes formed.
+New research led by researchers from Georgia Institute of Technology,
+Dublin City University ,
+Michigan State University , the
+University of California at San Diego , the
+San Diego Supercomputer Center
+and IBM provides a new and extremely promising avenue for solving this cosmic riddle. The team showed that when galaxies assemble extremely rapidly – and sometimes violently – that can lead to the formation of very massive black holes. In these rare galaxies, normal star formation is disrupted and black hole formation takes over.
+The new study finds that massive black holes form in dense starless regions that are growing rapidly, turning upside down the long-accepted belief that massive black hole formation was limited to regions bombarded by the powerful radiation of nearby galaxies. Conclusions of the simulation-based study, reported January 23 in the journal
+Nature
+and supported by funding from the National Science Foundation, the European Union and NASA, also finds that massive black holes are much more common in the universe than previously thought.
+The key criteria for determining where massive black holes formed during the universe’s infancy relates to the rapid growth of pre-galactic gas clouds that are the forerunners of all present-day galaxies, meaning that most supermassive black holes have a common origin forming in this newly discovered scenario, said
+John Wise , an associate professor in the
+Center for Relativistic Astrophysics
+in Georgia Tech’s School of Physics and the paper’s corresponding author. Dark matter collapses into halos that are the gravitational glue for all galaxies. Early rapid growth of these halos prevented the formation of stars that would have competed with black holes for gaseous matter flowing into the area.
+“In this study, we have uncovered a totally new mechanism that sparks the formation of massive black holes in particular dark matter halos,” Wise said. “Instead of just considering radiation, we need to look at how quickly the halos grow. We don’t need that much physics to understand it – just how the dark matter is distributed and how gravity will affect that. Forming a massive black hole requires being in a rare region with an intense convergence of matter.”
+When the research team found these black hole formation sites in the simulation they were at first stumped, said John Regan, research fellow in the Centre for Astrophysics and Relativity in Dublin City University. The previously accepted paradigm was that massive black holes could only form when exposed to high levels of nearby radiation.
+“Previous theories suggested this should only happen when the sites were exposed to high levels of star-formation killing radiation,” he said. “As we delved deeper, we saw that these sites were undergoing a period of extremely rapid growth. That was the key. The violent and turbulent nature of the rapid assembly, the violent crashing together of the galaxy’s foundations during the galaxy’s birth prevented normal star formation and led to perfect conditions for black hole formation instead. This research shifts the previous paradigm and opens up a whole new area of research.”
+The earlier theory relied on intense ultraviolet radiation from a nearby galaxy to inhibit the formation of stars in the black hole-forming halo, said Michael Norman, director of the San Diego Supercomputer Center at UC San Diego and one of the work’s authors. “While UV radiation is still a factor, our work has shown that it is not the dominant factor, at least in our simulations,” he explained.
+The research was based on the Renaissance Simulation suite, a 70-terabyte data set created on the Blue Waters supercomputer between 2011 and 2014 to help scientists understand how the universe evolved during its early years. To learn more about specific regions where massive black holes were likely to develop, the researchers examined the simulation data and found ten specific dark matter halos that should have formed stars given their masses but only contained a dense gas cloud. Using the Stampede2 supercomputer, they then re-simulated two of those halos – each about 2,400 light-years across – at much higher resolution to understand details of what was happening in them 270 million years after the Big Bang.
+“It was only in these overly-dense regions of the universe that we saw these black holes forming,” Wise said. “The dark matter creates most of the gravity, and then the gas falls into that gravitational potential, where it can form stars or a massive black hole.”
+The Renaissance Simulations are the most comprehensive simulations of the earliest stages of the gravitational assembly of the pristine gas composed of hydrogen and helium and cold dark matter leading to the formation of the first stars and galaxies. They use a technique known as adaptive mesh refinement to zoom in on dense clumps forming stars or black holes. In addition, they cover a large enough region of the early universe to form thousands of objects—a requirement if one is interested in rare objects, as is the case here. “The high resolution, rich physics and large sample of collapsing halos were all needed to achieve this result,” said Norman.
+The improved resolution of the simulation done for two candidate regions allowed the scientists to see turbulence and the inflow of gas and clumps of matter forming as the black hole precursors began to condense and spin. Their growth rate was dramatic.
+“Astronomers observe supermassive black holes that have grown to a billion solar masses in 800 million years,” Wise said. “Doing that required an intense convergence of mass in that region. You would expect that in regions where galaxies were forming at very early times.”
+Another aspect of the research is that the halos that give birth to black holes may be more common than previously believed.
+“An exciting component of this work is the discovery that these types of halos, though rare, may be common enough,” said Brian O’Shea, a professor at Michigan State University.  “We predict that this scenario would happen enough to be the origin of the most massive black holes that are observed, both early in the universe and in galaxies at the present day.”
+Future work with these simulations will look at the lifecycle of these massive black hole formation galaxies, studying the formation, growth and evolution of the first massive black holes across time. “Our next goal is to probe the further evolution of these exotic objects. Where are these black holes today? Can we detect evidence of them in the local Universe or with gravitational waves?” Regan asked.
+For these new answers, the research team – and others – may return to the simulations.
+“The Renaissance Simulations are sufficiently rich that other discoveries can be made using data already computed,” said Norman. “For this reason we have created a public archive at SDSC containing called the Renaissance Simulations Laboratory where others can pursue questions of their own.”
+This research was supported by the National Science Foundation through grants PHY-1430152, AST-1514700, AST-161433 and OAC-1835213, by NASA grants NNX12AC98G, 147 NNX15AP39G, and NNX17AG23G, and by Hubble theory grants HST-AR-13261.01, HST-AR-14315.001, and HST-AR-14326. This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 699941 (Marie Sklodowska-Curie Actions – “SmartStars). The simulation was performed on the Blue Waters supercomputer operated by the National Center for Supercomputing Applications (NCSA) with PRAC allocation support by the NSF (awards ACI-0832662, ACI-1238993 and ACI-1514580). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsor organizations.
+CITATION : John H. Wise, et al., “Formation of massive black holes in rapidly growing pre-galactic gas clouds,” (Nature 2019).
+http://dx.doi.org/10.1038/s41586-019-0873-4
+Renaissance Simulations Laboratory:   https://rensimlab.github.io
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

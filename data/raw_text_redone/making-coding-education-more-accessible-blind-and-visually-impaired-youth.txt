@@ -1,0 +1,24 @@
+making coding education more accessible for blind and visually impaired youth 
+ a research team led by brian magerko is working to solve this problem by adapting earsketch for blind and visually impaired youth. 
+ from left to right: brian magerko, jason freeman, stephen garrett 
+ jun 21, 2023 
+ there are many fun and exciting ways to engage young people with coding — animation, games, robotics. the only problem: they’re largely visual and not accessible for those who are blind or visually impaired. 
+ a research team led by  brian magerko , professor of digital media at georgia tech, is working to solve this problem by adapting  earsketch , a platform designed to teach students to code in python or javascript through music and creative discovery, for blind and visually impaired youth. since launching in 2011, the free earsketch platform has been used by more than a million students from all 50 u.s. states and in more than 100 countries. 
+ the effort will be supported by an almost $3 million grant from the national science foundation (nsf). 
+ “earsketch is about using music as a mechanism for giving an expressive, interesting, and personally meaningful medium for kids to learn about programming,” says magerko. “with this grant, we’re looking at the role of sonification, taking data and making it audible, as a way to improve accessibility not only for the blind and visually impaired but also as a more natural way for people to engage with these interfaces.” 
+ magerko, a professor in the school of literature, media, and communication in the ivan allen college of liberal arts, will work with  jason freeman , professor and chair of georgia tech’s  school of music  in the  college of design ;  stephen garrett , research scientist in the school of music;  stephanie ludi , professor of computer science at the university of north texas;  bryan pardo , professor of computer science at northwestern university; and the california school for the blind. 
+ the group will also be working with blind and visually impaired musicians and producers to get their input on successful and unsuccessful musical interfaces. 
+ "over the years, we've received many requests from teachers to make our earsketch platform more accessible to students who are blind or visually impaired. we're thrilled to embark on this project that will help the platform to better serve these students—and indeed all students, engaging them in the unique combination of music and coding," says freeman, co-creator of earsketch. 
+ while a large part of the effort will be exploring what elements are needed to make earsketch a successful learning tool for the blind and visually impaired, there are a few initial ideas including optimizing the system for screen reader compatibility and integrating collaborative ai (like chatgpt) to discuss and help with building code, like an alexa for coding, magerko says. 
+ “hopefully some of this work will influence how we design for everyone. there’s an idea that by designing toward the margins you can capture everyone in between. that’s really what we’re trying to do,” magerko says. 
+ additional images 
+ related links 
+ / node / 661098 
+ contact 
+ megan mcrainey 
+ megan.mcrainey@gatech.edu 
+ email 
+ megan.mcrainey@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

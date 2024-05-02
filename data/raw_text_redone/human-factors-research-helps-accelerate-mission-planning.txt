@@ -1,0 +1,39 @@
+human factors research helps accelerate mission planning 
+ gtri researchers are helping streamline the mission planning process for aircrews. 
+ gtri research scientist andew baranak and georgia tech graduate student rachel chen discuss creating user interface workflows for the mission planning task. (credit: rob felt, georgia tech) 
+ apr 03, 2018 
+ — atlanta, ga 
+ the key to a successful flight mission is planning – sometimes several hours of it. 
+ georgia tech research institute 
+ (gtri) specialists in human factors and human computer interfaces are working with navair pma-281, strike planning and execution systems in patuxent river, maryland, to streamline the current mission planning process and identify user interface requirements supporting multi-domain mission management in next-generation naval planning capabilities. 
+ with guidance from the gtri researchers, the project will improve usability of the mission planning software tools, creating a more consistent and intuitive screen design that’s easier to learn and more logical to follow. this effort could benefit all department of defense (dod) agencies for collaborative mission planning. 
+ “we are working with navy and marine corps aviators to identify areas in mission planning where work-flow can be streamlined, reducing the time required to mission plan,” said marcia crosland, project director for gtri’s joint mission planning system (jmps) user interface design and usability efforts. “our task has been to define the user interface concepts and decision-making tools to help reduce the time required for mission planning. we’ve created detailed designs and specifications to direct current and future development of mission planning systems.” 
+ mission planning needs to support the ability to collaboratively plan missions involving multiple aircraft but currently does not have that capability. the planning challenge can be quite complex, involving multiple targets, ground-based threats, different aircraft types and a variety of weapons systems. the most complex part of the process is often done by multiple pilots using whiteboards, paper, and spreadsheets to combine relevant information, consider alternatives, and reveal complicated issues. 
+ information from the whiteboarding process is then entered into the software system, which produces the mission plans that go on board the aircraft. the gtri human factors team realized that supporting these whiteboarding activities in the mission planning system could accelerate the mission planning process, and they created new designs to support this functionality. 
+ “we are making recommendations for how the navy can streamline the process and move it all into the digital world to eliminate the paper and whiteboard processes,” said crosland. “that will allow aircrews to plan a mission more efficiently, reducing the time required and potentially highlighting places where automated decision-making tools could be brought into the process.” 
+ she added: “we tried to understand the tasks of the user and therefore how the workflow could be streamlined. from that, we designed user interfaces that better implement the tasks, and we developed a style guide to help the dod software programmers who were implementing it.” 
+ at each iteration of the process, prototype interface designs were evaluated with experts. in some cases, those experts visited the gtri team in atlanta to review and discuss the designs. 
+ “we took them through each of the screens to find out what is intuitive to them and what is not,” crosland said. “we did this multiple times with different user groups to make sure we had a good set of interface concepts. in this work, it’s critical to involve the intended users of the system.” 
+ the gtri team has applied lessons learned from a variety of domains – desktop and web design, and commercial and military applications. for instance, shortening the distance between buttons on a screen, reducing the number of clicks necessary for a task, consolidating screens, and providing a consistent workflow direction make a digital system easier and faster to use – whether it’s a website or mission planning system. 
+ “we want to make the system a companion for the aircrews so they consider it a partner in these critical processes,” she added. in one case, the researchers were able to consolidate nine separate screens, each with different tabs, into a single screen. 
+ “at the root of all user interface design, whether it’s web or something else, is creating a time-efficient task that is intuitive so using it takes less time and less training and creates fewer errors,” crosland said. “if you can cut down on errors because users understand the system, it will make the system more efficient.” 
+ gtri’s human systems engineering branch (hseb) has been in operation for more than 30 years to help improve the interaction between warfighters and the technologies they use. 
+ “we have significant experience in understanding the domains of mission planning and mission execution, and the components that make technology easier to use,” crosland said. “we use established design standards customized for a particular format, whether it’s a mobile tablet or standard computer.” 
+ in addition to crosland, the gtri team includes more than 20 people. the leadership component includes tommer ender, director of gtri’s electronic systems laboratory (elsys); adam mccorkle and j.d. fassett, both associate directors in elsys; debra jones, head of elsys’s hseb, and c.j. hutto, associate branch head for hseb. 
+ the project’s analysis and design team has included buddy ray, stuart michelson, andrew baranak, vlad pop, liz weldon, chandler price, courtney crooks, chris hale, mike fitzpatrick, robert kempf; technical advisor john huggins; hci graduate students catherine johnson, sarah brooks and rachel chen, undergraduate students megan eberle and spencer frum; and other gtri subject matter experts. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

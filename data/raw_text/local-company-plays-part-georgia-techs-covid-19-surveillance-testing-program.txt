@@ -1,0 +1,44 @@
+Local Company Plays Part in Georgia Tech’s Covid-19 Surveillance Testing Program
+Omni International's technology is used to separate virus from the saliva or mucous samples collected from members of the Tech community.
+Georgia Tech research technician Fang Shi places vials containing saliva tests into a device used to prepare samples for testing. (Credit: Rob Felt, Georgia Tech)
+Nov 20, 2020
+— Atlanta, GA
+A
+saliva-based Covid-19 surveillance testing program
+developed by Georgia Tech’s researchers and aided by the ingenuity of a local company, has helped stem transmission of the virus on the Institute’s Atlanta campus.
+Omni International, a Kennesaw-based manufacturer and distributor of laboratory homogenizers, DNA purification kits, and other products used in the pharmaceutical, food, and forensics industries, has been instrumental in helping Tech implement the ambitious testing program.
+“Our products are part of a workflow that assists researchers who are developing vaccines, finding treatments for cancer, detecting diseases such as sepsis and mad cow disease, and many other scientific breakthroughs,” said Pete Tortorelli, Omni International’s president.
+The company was delighted to work with Tech and its saliva approach, which was deemed less invasive than the nasal method. The privately held enterprise, with fewer than 100 employees, works with research labs at universities and governments, and private industry. Its products are sold globally.
+“Understanding the gravity of the Covid-19 pandemic, how it affected us personally, and witnessing the unprecedented effort that was mobilized to help detect and stop the virus, the team at Omni was eager to help do our part,” Tortorelli said.
+Utilizing Omni International’s technology, Tech has administered tens of thousands of tests to students, faculty, and staff since it was launched in August (coinciding with the start of the fall semester), has averaged more than 7,500 tests per week, and has identified 700 individuals who have tested positive for Covid-19. By identifying and isolating those infected early — before they suspect they are ill — the program helps break the chain of transmission that could otherwise fuel exponential growth of the highly contagious virus.
+“The performance of our saliva-based test employing the Omni products is excellent, and our collaboration with a local Georgia business made it very easy to obtain the data and validation we needed for our test development efforts,” said Mike Shannon, a principal research engineer at the Georgia Tech Research Institute, and project lead on Tech’s surveillance testing program.
+Specifically, Omni International’s homogenizing technology is used to separate the virus collected from the saliva or mucous samples collected from Tech individuals. The homogenizer shakes saliva samples at a high rate of speed in multiple directions, similar to the way machines mix paint at home improvement stores.
+“Imagine a gelatin mold with chunks of fruit,” said Zachary Morehouse, a research consultant and project scientist at Omni International. “The gelatin is the saliva, and the fruit pieces are the coronavirus. What the homogenizer does is separate the two, so you get enough bits of virus to extract and test the RNA.”
+This process lyses or ruptures the virus membranes, releasing ribonucleic acid (RNA) into the saliva, said Rodney Nash, Omni International’s chief science officer, who led the four-person team tasked to work with Georgia Tech.
+At this point in the process, Tech researchers use extraction kits from Omega Bio-tek, a Norcross, Georgia-based manufacturer of nucleic acid purification kits for clinical, biotechnology, and agricultural research, to extricate the RNA from the saliva.
+“We have been working in partnership with Omega Bio-tek on numerous Covid-19 analytical workflows since April. These initial efforts were focused on Tech’s support to the state of Georgia and deployed Omega’s Mag-Bind Viral DNA/RNA extraction kit for use in large-scale Covid-19 testing across Georgia,” Shannon said. “The Omega kit contains reagents and specially formulated magnetic beads, which isolate viral DNA and RNA. We have fully implemented the Omega kit into our automated workflows.”
+This purified RNA is then used in what’s called a polymerase chain reaction (PCR), a process that amplifies or increases the number of copies of the RNA. PCR is the gold standard approach, since it directly targets RNA from the coronavirus.
+An added benefit of this protocol is that there are built-in positive and negative controls, meaning every time an extraction is run, and the subsequent PCR process enacted, the findings are being tested against samples known to be positive and negative.
+Indeed, developing a testing protocol that could help contain the spread of the virus on a college campus was challenging. At the onset, the goal, as laid out by Georgia Tech researchers, was to develop a less intrusive testing alternative to the-then prevailing testing method of the long cotton swab sticks inserted deep into the nasal cavity to collect mucous samples for testing. Aside from being uncomfortable for the person being tested, there was a risk of the people performing the tests not doing it properly to extract enough mucous to conduct the test for an accurate result.
+Tech researchers developed the saliva-based protocol to identify asymptomatic carriers of Covid-19 in its own community.
+“Since April, our team has been working on the development of the saliva-based test. From laboratory experiments to field clinical trials, we explored all of the areas needed to qualify a diagnostic test,” Shannon said. “The final hurdle was specimen preparation. We considered three distinct approaches, and quickly the Omni approach emerged as the best option. After contacting Omni and beginning our collaboration, it was clear to us that we hit a homerun.”
+The saliva-based method was preferred, in part, to mitigate the risk of supply chain shortages with the nasal swabs. The researchers also chose the saliva method “because we knew it was easy to administer, the supply chain was stable, and people would not be reluctant to get tested often,” Shannon said.
+Even so, saliva presented some challenges.
+“Saliva has a substantial mucous component and is composed of proteins such as mucins, and enzymes, and electrolytes,” Shannon said, explaining he and his team evaluated various testing protocols to address the mucous issues.
+“The mucous tends to be highly elastic, sticky, and express significant adhesive characteristics, which all lead to differences in the components of the specimen being tested. These differences or discontinuities create issues in the laboratory workflow such as ​clogging of pipettes and liquid-handling robots.”
+But he said the approach Tech researchers developed with Omni, including specialized specimen collection tubes and integrated ceramic beads for RNA extraction, “completely eliminated all concerns and issues we had related to saliva analysis.”
+Developing and rolling out an effective testing program in a global pandemic required strong teamwork, an innovative approach, and willingness to try some new things, Nash said, adding Omni International is supplying Tech with collection tubes to support 1,500 tests a day.
+“We have the resources and the ability to do this and a real obligation,” he said. “The owner of our company is big on community involvement, and we ran to it when the opportunity presented itself.”
+Tech’s Shannon agreed, adding that building a strong public-private partnership, and finding the right external partner was critical in finding a Georgia solution to a Georgia problem.
+“It’s good to work with people who are willing to be innovative and, really, in this pandemic, the whole world had to be innovative,” said Morehouse. “It’s been beneficial to work with a group at Georgia Tech that’s been willing to look at problems so differently.”
+Additional Images
+Related links
+Read More: Broad-Based Asymptomatic Testing Program Helps Control Covid-19
+Contact
+Péralte C. Paul
+404.894.8727
+Email
+peralte.paul@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

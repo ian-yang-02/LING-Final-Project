@@ -1,0 +1,46 @@
+itch insight: skin itch mechanisms differ on hairless versus hairy skin 
+ georgia tech has uncovered differences in itch on hairy versus non-hairy skin that could lead to more effective treatments for patients with persistent skin itching. 
+ these mouse hindpaw sections allow georgia tech researchers to visualize skin nerves. (photo credit: christopher moore, georgia tech) 
+ may 21, 2021 
+ — atlanta, ga 
+ chronic skin itching drives more people to the dermatologist than any other condition. in fact, the latest science literature finds that 7% of u.s. adults, and between 10 and 20% of people in developed countries, suffer from dermatitis, a common skin inflammatory condition that causes itching. 
+ “itch is a significant clinical problem, often caused by underlying medical conditions in the skin, liver, or kidney. due to our limited understanding of itch mechanisms, we don’t have effective treatment for the majority of patients,” said 
+ liang han , an assistant professor in the georgia institute of technology’s  school of biological sciences  who is also a researcher in the  parker h. petit institute for bioengineering and bioscience . 
+ until recently, neuroscientists considered the mechanisms of skin itch the same. but han and her research team recently uncovered differences in itch in non-hairy versus hairy areas of the skin, opening new areas for research. their research, published april 13 in the journal pnas (proceedings of the national academy of sciences of the united states of america), could open new, more effective treatments for patients suffering from persistent skin itching. 
+ itch origins more than skin deep 
+ according to researchers, there are two different types of stimuli from the nervous system that trigger the itch sensation through sensory nerves in the skin: chemical and mechanical. in their study, han and her team identified a specific neuron population that controls itching in ‘glabrous’ skin -- the smoother, tougher skin that’s found on the palms of hands and feet soles. 
+ itching in those areas poses greater difficulty for sufferers and is surprisingly common. in the u.s., there are an estimated 200,000 cases a year of dyshidrosis, a skin condition causing itchy blisters to develop only on the palm and soles. another chronic skin condition, palmoplantar pustulosis (a type of psoriasis that causes inflamed, scaly skin and intense itch on the palms and soles), affects as many as 1.6 million people in the u.s. each year. 
+ “that’s actually one of the most debilitating places (to get an itch),” said first author haley r. steele, a graduate student in the school of biological sciences. “if your hands are itchy, it’s hard to grasp things, and if it’s your feet, it can be hard to walk. if there’s an itch on your arm, you can still type. you’ll be distracted, but you’ll be ok. but if it’s your hands and feet, it’s harder to do everyday things.” 
+ ability to block, activate itch-causing neurons in lab mice 
+ since many biological mechanisms underlying itch — such as receptors and nerve pathways — are similar in mice and people, most itch studies rely on mice testing. using mice in their lab, georgia tech researchers were able to activate or block these neurons. 
+ the research shows, for the first time, “the actual neurons that send itch are different populations. neurons that are in hairy skin that do not sense itch in glabrous skins are one population, and another senses itch in glabrous skins.” 
+ why has an explanation so far eluded science? “i think one reason is because most of the people in the field kind of assumed it was the same mechanism that’s controlling the sensation. it’s technically challenging. it’s more difficult than working on hairy skin,” han said. 
+ to overcome this technical hurdle, the team used a new investigative procedure, or assay, modeled after human allergic contact dermatitis, steele said. 
+ the previous method would have involved injecting itch-causing chemicals into mice skin, but most of a mouse’s skin is covered with hair. the team had to focus on the smooth glabrous skin on tiny mice hands and feet. using genetically modified mice also helped identify the right sensory neurons responsible for glabrous skin itches. 
+ “we activated a particular set of neurons that causes itch, and we saw that biting behavior again modeled,” said steele, referring to how mice usually deal with itchy skin. 
+ one set of study mice was given a chemical to specifically kill an entire line of neurons. focusing on three previously known neuron mechanisms related to itch sensation found in hairy skin, they found that two of the neurons, mrgpra3+ and mrgprd+, did not play important roles in non-hairy skin itch, but the third neuron, mrgprc11+, did. removing it reduced both acute and chronic itching in the soles and palms of test mice. 
+ potential to drive new treatments for chronic itch 
+ han’s team hopes that the research leads to treatments that will turn off those itch-inducing neurons, perhaps by blocking them in human skin. 
+ “to date, most treatments for skin itch do not discriminate between hairy and glabrous skin except for potential medication potency due to the increased skin thickness in glabrous skin,” observed ron feldman, assistant professor in the department of dermatology in the emory university school of medicine. georgia tech’s findings “provide a rationale for developing therapies targeting chronic itching of the hands and feet that, if left untreated, can greatly affect patient quality of life,” he concluded. 
+ what’s next for han and her team? “we would like to investigate how these neurons transmit information to the spinal cord and brain,” said han, who also wants to investigate the mechanisms of chronic itch conditions that mainly affect glabrous skin such as cholestatic itch, or itch due to reduced or blocked bile flow often seen in liver and biliary system diseases. 
+ “i joined this lab because i love working with liang han,” added steele, who selected glabrous skin itch research for her ph.d. “because it was the most technically challenging and had the greatest potential for being really interesting and significant to the field.” 
+ this work was supported by grants from the u.s. national institutes of health (ns087088 and hl141269) and the pfizer aspire dermatology award to liang han. 
+ citation : h. steele, et al., “mrgprc11+ sensory neurons mediate glabrous skin itch.” (pnas, 2021)   https: / / doi.org / 10.1073 / pnas.2022874118 
+ # # # 
+ the georgia institute of technology, or georgia tech, is a top 10 public research university developing leaders who advance technology and improve the human condition. 
+ the institute offers business, computing, design, engineering, liberal arts, and sciences degrees. its nearly 40,000 students representing 50 states and 149 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. 
+ as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ additional media contact: 
+ tracey reeves (tracey.reeves@gatech.edu) 
+ writer: 
+ anne wainscott-sargent 
+ additional images 
+ contact 
+ anne wainscott-sargent 
+ research news 
+ (404.435.5784) 
+ email 
+ asargent7@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,45 @@
+Aluminum Materials Show Promising Performance for Safer, Cheaper, More Powerful Batteries
+The team’s new battery system could enable electric vehicles to run longer on a single charge and would be cheaper to manufacture — all while having a positive impact on the environment.
+Postdoctoral researcher Congcheng Wang builds a battery cell.
+Jul 19, 2023
+A good battery needs two things: high energy density to power devices, and stability, so it can be safely and reliably recharged thousands of times. For the past three decades, lithium-ion batteries have reigned supreme — proving their performance in smartphones, laptops, and electric vehicles.
+But battery researchers have begun to approach the limits of lithium-ion. As next-generation long-range vehicles and electric aircraft start to arrive on the market, the search for safer, cheaper, and more powerful battery systems that can outperform lithium-ion is ramping up.
+A team of researchers from the Georgia Institute of Technology, led by
+Matthew McDowell , associate professor in the
+George W. Woodruff School of Mechanical Engineering
+and the
+School of Materials Science and Engineering , is using aluminum foil to create batteries with higher energy density and greater stability. The team’s new battery system,
+detailed in
+Nature Communications , could enable electric vehicles to run longer on a single charge and would be cheaper to manufacture — all while having a positive impact on the environment.
+“We are always looking for batteries with higher energy density, which would enable electric vehicles to drive for longer distances on a charge,” McDowell said. “It’s interesting that we can use aluminum as a battery material, because it’s cost-effective, highly recyclable, and easy to work with.”
+The idea of making batteries with aluminum isn’t new. Researchers investigated its potential in the 1970s, but it didn’t work well.
+When used in a conventional lithium-ion battery, aluminum fractures and fails within a few charge-discharge cycles, due to expansion and contraction as lithium travels in and out of the material. Developers concluded that aluminum wasn’t a viable battery material, and the idea was largely abandoned.
+Now, solid-state batteries have entered the picture. While lithium-ion batteries contain a flammable liquid that can lead to fires, solid-state batteries contain a solid material that's not flammable and, therefore, likely safer. Solid-state batteries also enable the integration of new high-performance active materials, as shown in this research.
+The project began as a collaboration between the Georgia Tech team and Novelis, a leading manufacturer of aluminum and the world’s largest aluminum recycler, as part of the Novelis Innovation Hub at Georgia Tech. The research team knew that aluminum would have energy, cost, and manufacturing benefits when used as a material in the battery’s anode — the negatively charged side of the battery that stores lithium to create energy — but pure aluminum foils were failing rapidly when tested in batteries.
+The team decided to take a different approach. Instead of using pure aluminum in the foils, they added small amounts of other materials to the aluminum to create foils with particular “microstructures,” or arrangements of different materials. They tested over 100 different materials to understand how they would behave in batteries.
+“We needed to incorporate a material that would address aluminum’s fundamental issues as a battery anode,” said Yuhgene Liu, a Ph.D. student in McDowell’s lab and first author on the paper. “Our new aluminum foil anode demonstrated markedly improved performance and stability when implemented in solid-state batteries, as opposed to conventional lithium-ion batteries.”
+The team observed that the aluminum anode could store more lithium than conventional anode materials, and therefore more energy. In the end, they had created high energy density batteries that could potentially outperform lithium-ion batteries.
+“One of the benefits of our aluminum anode that we're excited about is that it enables performance improvements, but it also can be very cost-effective,” McDowell said. “On top of that, when using a foil directly as a battery component, we actually remove a lot of the manufacturing steps that would normally be required to produce a battery material.”
+Short-range electric aircraft are in development by several companies, but the limiting factor is batteries. Today’s batteries do not hold enough energy to power aircraft to fly distances greater than 150 miles or so. New battery chemistries are needed, and the McDowell team’s aluminum anode batteries could open the door to more powerful battery technologies.
+“The initial success of these aluminum foil anodes presents a new direction for discovering other potential battery materials,” Liu said. "This hopefully opens pathways for reimagining a more energy-optimized and cost-effective battery cell architecture.”
+The team is currently working to scale up the size of the batteries to understand how size influences the aluminum’s behavior. The group is also actively exploring other materials and microstructures with the goal of creating very cheap foils for battery systems.
+“This is a story about a material that was known about for a long time, but was largely abandoned early on in battery development,” McDowell said. “But with new knowledge, combined with a new technology — the solid-state battery — we've figured out how we can rejuvenate the idea and achieve really promising performance.”
+Funding : Support is acknowledged from Novelis, Inc. M.T.M. acknowledges support from a Sloan Research Fellowship in Chemistry from the Alfred P. Sloan Foundation. This work was performed in part at the Georgia Tech Institute for Electronics and Nanotechnology, a member of the National Nanotechnology Coordinated Infrastructure (NNCI), which is supported by the National Science Foundation (ECCS-2025462).
+Citation : Liu, Y., Wang, C., Yoon, S.G. et al.
+Aluminum foil negative electrodes with multiphase microstructure for all-solid-state Li-ion batteries .
+Nat Commun
+14, 3975 (2023).
+DOI :
+https://doi.org/10.1038/s41467-023-39685-x
+Writer : Catherine Barzler
+Photography : Rob Felt
+Additional Images
+Related links
+The McDowell Lab at Georgia Tech is Shaping the Future of Battery Technology
+Contact
+Catherine Barzler, Senior Research Writer/Editor
+Institute Communications
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,23 @@
+a life-saving avalanche early warning system 
+ georgia tech aerospace engineering student mirza samnani volunteered more than 1,000 hours to develop early warning systems for avalanches in tajikistan. 
+ dec 01, 2022 
+ — atlanta, ga 
+ mirza samnani has a passion for using his engineering skill set to help people. recently, the georgia tech aerospace engineering master’s student volunteered more than 1,000 hours over 10 months to develop early warning systems for avalanches in central asia. 
+ samnani hiked over 9,200 feet — three times — to install two weather stations in the remote village of manem in tajikistan. this project has the potential to affect more than 1 million people in hundreds of villages in the high mountainous regions of central and south asia including tajikistan, afghanistan, and pakistan that are prone to avalanches every winter. it can also be scaled to other parts of the world where avalanches pose a high risk. 
+ samnani was contacted by a member of 
+ madad , a nonprofit organization that works to save lives within impoverished communities that are especially vulnerable to climate change. the group came across his previous 
+ work building life-saving robots 
+ for a hospital in his hometown of mumbai, india, during the pandemic. seeing his love for helping others and his engineering skills, they invited samnani to join madad. 
+ high mountain regions in central asia, karakoram, hindu-kush, and the himalayas are prone to snow avalanches, whose frequency and intensity are expected to increase due to atmospheric warming. the lack of a village-level avalanche early warning system poses a significant challenge in providing forewarning to communities for timely action to avert disaster. currently, local volunteers manage weather monitoring posts, where they manually track temperature, rainfall, and snow depth. 
+ the early warning system samnani worked on has seven different sensors that monitor weather and environmental conditions, including wind speed and direction, atmospheric pressure, temperature, humidity, rainfall, snowfall, solar radiation from the sun, solar radiation absorbed from the ground, snow depth, and seismic activity. these conditions help calculate the snowpack parameters and, based on the trigger threshold, the algorithm determines when to disseminate an alert or warning. 
+ the project faced uncertainty because of the rough terrain as well as strict regulations and policies in the region, requiring heavy modifications and flexibility in adapting to local environments. even after extensive testing, communication and power issues occurred, but these problems ended up serving as learning opportunities that ultimately improved the system. 
+ “this project presented me with a unique opportunity to utilize my engineering and ai skills to develop a system to predict the risk of an avalanche and save lives of some of the most vulnerable people on the planet. in just 10 months our engineering team took this project from concept to installation. i am excited for the data that we will receive from these pilot units in the upcoming months. i plan to continue to work with this project and other important projects that will help improve the quality of life for people living in poor or dangerous conditions,” samnani said. 
+ currently, he and the group are collecting and monitoring the data being received from each warning system tower and studying the integrity and performance of the towers in collaboration with avalanche experts from the gallatin national forest avalanche center in montana and the colorado avalanche information center in boulder. in the next few years, more of these stations will be deployed to cover more than 600 high-risk villages in central and south asia and eventually will incorporate sirens and text and phone alerts. 
+ additional images 
+ contact 
+ evan atkinson , institute social media officer 
+ email 
+ eatkinson6@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

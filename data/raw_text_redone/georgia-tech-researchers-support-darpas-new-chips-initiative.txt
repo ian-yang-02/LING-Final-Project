@@ -1,0 +1,44 @@
+georgia tech researchers support darpa’s new “chips” initiative 
+ georgia tech is contributing to the darpa chips initiative to reuse microelectronic designs. 
+ many future microelectronics systems could be assembled with a library of plug-and-play chiplets that combine their respective modular functions with unprecedented versatility. (credit: darpa) 
+ oct 03, 2017 
+ — atlanta, ga 
+ a team of georgia tech researchers is bringing electronic design software and communications expertise to darpa's new 
+ chips initiative , which will enable future generations of integrated circuits to be assembled from plug-and-play modules known as “chiplets.” reusing blocks of existing microelectronics technology could reduce the need to design complex monolithic chips from scratch for new applications. 
+ by allowing components such as memory modules or signal processors to be easily fitted together like the parts of a jigsaw puzzle, the initiative could help reduce the cost of new ics for department of defense (dod) agencies and accelerate the application of new technology. while the initiative is driven by dod needs for its ships, tanks and aircraft, innovations developed by the program could also reduce the cost of developing low-volume specialized devices in the commercial world. 
+ “the goal of this program is to make the design more modular so we can reuse existing components, making the design process much faster, easier and cheaper,” said 
+ sung kyu lim , a 
+ school of electrical and computer engineering 
+ professor who heads up georgia tech’s part of the initiative. “we’ll be able to create new chips to meet specific needs by reusing these chiplets and putting them together in modular fashion. the modular design will allow us to pick and choose the components we need for specific applications.” 
+ monolithic integrated circuits like those that go into smartphones contain billions of transistors. they cost tens to hundreds of millions of dollars and take months to design. companies selling large volumes of consumer products can afford that design cost, but dod agencies that need smaller numbers of specialized devices are looking for ways to reduce the design cost and time required. 
+ enter darpa’s common heterogeneous integration and intellectual property reuse strategies (chips) effort, which will use interposer technology – a silicon and copper interface – that will interconnect the chiplets. while the interposer adds a level of complexity to the design of the devices, it’s necessary to facilitate the 3-d modular assembly. the chiplets themselves could arise from existing designs, with engineers modifying memory, signal processing and other blocks from ics already in production. 
+ “instead of designing a whole new chip, you can borrow from what’s already been designed to put together a new chip quickly and at lower cost,” said lim, who holds the dan fielder endowed chair. the chiplets would be assembled and then packaged together, facilitating shorter interconnect lengths that would reduce communication time and energy consumption between the components. the modular nature of the chiplets would also allow a block to be replaced by new technology without redesigning an entire ic. 
+ the four-year chips effort involves 11 teams, including major defense contractors, microelectronics companies, design firms – and two other universities: the university of michigan and north carolina state university. in addition to lim, the georgia tech effort will involve three other faculty members: pippin chair professor 
+ madhavan swaminathan , professor 
+ saibal mukhopadhyay 
+ and assistant professor 
+ tushar krishna , all from the school of electrical and computer engineering. 
+ about $3.7 million will come to georgia tech as part of the project’s budget. in addition to the faculty members, that will fund a research engineer and up to eight graduate students. 
+ the georgia tech team will provide electronic design automation software needed to produce the chiplets, develop translator technology that will allow chiplets operating in different languages to communicate, and evaluate different design standards brought to the project by other teams. 
+ circuit design tools will be needed to create the chiplets, many of which will be adapted from existing designs. “a big part of what we’ll deliver for this project is electronic design automation (eda) tools,” said lim. “we want to automate the entire chiplet generation and integration process as much as possible using algorithms and software tools.” 
+ modules from different companies may use different languages. to use them together in a new system, the chiplets will need translators, circuitry and software that will wrap around each chiplet. “we need to understand all the different languages, so we can help the chiplets communicate with one another,” lim explained. “the complexity will depend on how many interface protocols are used in the system.” 
+ the project teams will have to work together using the same design standards. lim’s team will establish tools and techniques for evaluating the different standards now used by different teams that are part of the overall effort. “we will provide a fair means of comparing the different technology options and picking the winner,” said lim. 
+ though darpa’s focus is on providing technology for dod users, solutions developed from the initiative could also have broad benefits in the commercial microelectronics world. “small- and medium-sized companies could will benefit a lot from this,” lim said. “small design houses that would like to develop their own ics will likely be very interested.” 
+ meeting the program’s ambitious goals will be challenging, lim says, with reliability, power, mechanical and thermal issues on the horizon. “the success of this program will make a significant contribution to the defense industry and the microelectronics community in general,” he said. 
+ research described in this news release is supported by the defense advanced research projects agency under award n00014-17-1-2950. the content of the information does not necessarily reflect the position or the policy of the government, and no official endorsement should be inferred. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

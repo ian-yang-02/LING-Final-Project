@@ -1,0 +1,17 @@
+Critical Infrastructure Systems Are Vulnerable to a New Kind of Cyberattack
+Engineers and computer scientists show how bad actors can exploit browser-based control systems in industrial facilities with easy-to-deploy, difficult-to-detect malware.
+Instead of a dedicated terminal or control pad running custom software specific to the device, manufacturers for industrial and infrastructure systems have turned to web-based management. Now, devices often have embedded web servers. The human-machine interfaces — think keypads or control panels like this — are actually mini web browsers rendering a web page with readouts of the current status and digital visualizations of the controls. This web-based architecture is opening the door to a new kind of malware attack that could give bad actors full control of critical infrastructure or other industrial systems.
+Feb 29, 2024
+In recent years, browser and web-based technology has become a powerful tool for operators of infrastructure and industrial systems. But it also has opened a new pathway for bad actors to seize control of these systems, potentially endangering critical power, water, and other infrastructure. Georgia Tech researchers have found a way to hijack the computers that control these physical systems. Called programmable logic controllers (PLCs), they increasingly have embedded webservers and are accessed on site via web browsers. Attackers can exploit this approach and gain full access to the system. That means they could spin motors out of control, shut off power relays or water pumps, disrupt internet or telephone communication, or steal critical information. They could even launch weapons — or stop the launch of weapons. “We think there is an entirely new class of PLC malware that's just waiting to happen. We're calling it web-based PLC malware. And it gives you full device and physical process control,” said Ryan Pickren, a Ph.D. student in the
+School of Electrical and Computer Engineering
+(ECE) and the lead author of a new study describing the malware and its implications. The research team will
+present their findings Feb. 29
+at the
+2024 Network and Distributed Systems Security Symposium . Get the full story on the College of Engineering website.
+Contact
+Joshua Stewart College of Engineering
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

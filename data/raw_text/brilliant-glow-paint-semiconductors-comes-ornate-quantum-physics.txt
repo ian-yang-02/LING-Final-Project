@@ -1,0 +1,57 @@
+Brilliant Glow of Paint-On Semiconductors Comes from Ornate Quantum Physics
+A new revolution in semiconductors could transform lighting and solar energy, and this is what their crazy physics look like.
+Laser light in the visible range is processed for use in the testing of quantum properties in materials in Carlos Silva's lab at Georgia Tech. Credit: Georgia Tech / Rob Felt
+Jan 14, 2019
+— Atlanta, GA
+LED lights and monitors, and quality solar panels were born of a revolution in  semiconductors  that efficiently convert energy to light or vice versa. Now, next-generation semiconducting materials are on the horizon, and  in a new study , researchers have uncovered eccentric physics behind their potential to transform lighting technology and photovoltaics yet again.
+Comparing the quantum properties of these emerging so-called hybrid semiconductors with those of their established predecessors is about like comparing the Bolshoi Ballet to jumping jacks. Twirling troupes of quantum particles undulate through the emerging materials, creating, with ease, highly desirable optoelectronic (light-electronic) properties, according to a team of physical chemists led by  researchers at the Georgia Institute of Technology .
+These same properties are impractical to achieve in established semiconductors.
+The particles moving through these new materials also engage the material itself in the quantum action, akin to dancers enticing the floor to dance with them. The researchers were able to measure patterns in the material caused by the dancing and relate them to the emerging material’s quantum properties and to energy introduced into the material.
+These insights could help engineers work productively with the new class of semiconductors.
+Unusually flexible semiconductors
+The emerging material’s ability to house diverse, eccentric quantum particle movements, analogous to the dancers, is directly related to its unusual flexibility on a molecular level, analogous to the dancefloor that joins in the dances. By contrast, established semiconductors have rigid, straight-laced molecular structures that leave the dancing to quantum particles.
+The class of hybrid semiconductors the researchers examined is called  halide organic-inorganic perovskite  (HOIP), which will be explained in more detail at bottom along with the “hybrid” semiconductor designation, which combines a crystal lattice -- common in semiconductors -- with a layer of innovatively flexing material.
+Beyond their promise of unique radiance and energy-efficiency, HOIPs are easy to produce and apply.
+Paint them on
+“One compelling advantage is that HOIPs are made using low temperatures and processed in solution,” said  Carlos Silva, a professor in Georgia Tech’s School of Chemistry and Biochemistry . “It takes much less energy to make them, and you can make big batches.” Silva co-led the study alongside  Ajay Ram Srimath Kandada  from Georgia Tech and the Istituto Italiano di Tecnologia.
+It takes high temperatures to make most semiconductors in small quantities, and they are rigid to apply to surfaces, but HOIPs could be painted on to make LEDs, lasers or even window glass that could glow in any color from aquamarine to fuchsia. Lighting with HOIPs may require very little energy, and solar panel makers could boost photovoltaics’ efficiency and slash production costs.
+The team led by Georgia Tech included researchers from the Université de Mons in Belgium and the Istituto Italiano di Tecnologia. The results were published  on January 14, 2019, in the journal  Nature Materials . The work was funded by the U.S. National Science Foundation, EU Horizon 2020, the Natural Sciences and Engineering Research Council of Canada, the Fond Québécois pour la Recherche, and the Belgian Federal Science Policy Office.
+[Thinking about grad school?  Here's how to apply to Georgia Tech. ]
+Quantum jumping jacks
+Semiconductors in optoelectronic devices can either convert light into electricity or electricity into light. The researchers concentrated on processes connected to the latter: light emission.
+The trick to getting a material to emit light is, broadly speaking, to apply energy to electrons in the material, so that they take a  quantum leap  up from their orbits around atoms then emit that energy as light when they hop back down to the orbits they had vacated. Established semiconductors can  trap  electrons in areas of the material that strictly limit the electrons’ range of motion then apply energy to those areas to make electrons do quantum leaps in unison to emit useful light when they hop back down in unison.
+“These are  quantum wells , two-dimensional parts of the material that confine these quantum properties to create these particular light emission properties,” Silva said.
+Imaginary particle excitement
+There is a potentially more attractive way to produce the light, and it is a core strength of the new hybrid semiconductors.
+An electron has a negative charge, and an orbit it vacates after having been excited by energy is a positive charge called an  electron hole . The electron and the hole can gyrate around each other forming a kind of imaginary particle, or  quasiparticle , called an  exciton .
+“The positive-negative attraction in an exciton is called  binding energy , and it’s a very high-energy phenomenon, which makes it great for light emitting,” Silva said.
+When the electron and the hole reunite, that releases the binding energy to make light. But usually, excitons are very hard to maintain in a semiconductor.
+“The excitonic properties in conventional semiconductors are only stable at extremely cold temperatures,” Silva said. “But in HOIPs the excitonic properties are very stable at room temperature.”
+Ornate quasiparticle twirling
+Excitons get freed up from their atoms and move around the material. In addition, excitons in an HOIP can whirl around other excitons, forming quasiparticles called biexcitons. And there’s more.
+Excitons also spin around atoms in the material lattice. Much the way an electron and an electron hole create an exciton, this twirl of the exciton around an atomic nucleus gives rise to yet another quasiparticle called a  polaron . All that action can result in excitons transitioning to polarons back. One can even speak of some excitons taking on a “polaronic” nuance.
+Compounding all those dynamics is the fact that HOIPs are full of positively and negatively charged ions. The ornateness of these quantum dances has an overarching effect on the material itself.
+Wave patterns resonate
+The uncommon participation of atoms of the material in these dances with electrons, excitons, biexcitons and polarons creates repetitive nanoscale indentations in the material that are observable as wave patterns and that shift and flux with the amount of energy added to the material.
+“In a ground state, these wave patterns would look a certain way, but with added energy, the excitons do things differently. That changes the wave patterns, and that’s what we measure,” Silva said. “The key observation in the study is that the wave pattern varies with different types of excitons (exciton, biexciton, polaronic/less polaronic).”
+The indentations also grip the excitons, slowing their mobility through the material, and all these ornate dynamics may affect the quality of light emission.
+Rubber band sandwich
+The material, a halide organic-inorganic perovskite, is a sandwich of two inorganic crystal lattice layers with some organic material in between them – making HOIPs an organic-inorganic hybrid material. The quantum action happens in the crystal lattices.
+The organic layer in between is like a sheet of rubber bands that makes the crystal lattices into a wobbly but stable dancefloor. Also, HOIPs are put together with many  non-covalent bonds , making the material soft.
+Individual units of the crystal take a form called perovskite, which is a very even diamond shape, with a metal in the center and halogens such as chlorine or iodine at the points, thus “halide.” For this study, the researchers used a 2D prototype with the formula (PEA) 2 PbI 4 .
+Also READ:
+Perking up and Crimping the 'Bristles' of Polyelectrolyte Brushes
+The study was co-authored by Félix Thouin (co-first author), David A. Valverde-Chávez (co-first author), and Ilaria Bargigia, all of Georgia Tech; Claudio Quarti and David Beljonne of the Université de Mons in Belgium; Daniele Cortecchia and Annamaria Petrozza of the Istituto Italiano di Tecnologia. The research was funded by  EU Horizon 2020 (project 705874); the Natural Sciences and Engineering Research Council   of Canada; Fond Québécois pour la Recherche: Nature et Technologies; the National Science Foundation (grant 1838276); Interuniversity Attraction Pole program of the Belgian Federal Science Policy Office (PAI 6/27) and the Fonds de la Recherche Scientifique de Belgique (FNRS-F.R.S.). Beljonne is an F.R.S. director. Any findings, opinions, and conclusions are those of the authors and not necessarily of the funding agencies.
+Additional Images
+Contact
+Media relations assistance : Ben Brumfield
+(404) 660-1408
+ben.brumfield@comm.gatech.edu
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Writer:  Ben Brumfield
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

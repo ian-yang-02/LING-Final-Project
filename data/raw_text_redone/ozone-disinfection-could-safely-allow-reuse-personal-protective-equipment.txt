@@ -1,0 +1,36 @@
+ozone disinfection could safely allow reuse of personal protective equipment 
+ a new study shows that ozone gas could provide a safe means for disinfecting certain types of ppe. 
+ shortages of personal protective equipment (ppe) can force hospitals and other healthcare facilities to reuse ppe that was intended for a single use. georgia tech researchers have studied the use of ozone to disinfect the items. (credit: getty images, not for republication) 
+ jul 09, 2020 
+ — atlanta, ga 
+ a new study shows that ozone gas, a highly reactive chemical composed of three oxygen atoms, could provide a safe means for disinfecting certain types of personal protective equipment that are in high demand for shielding healthcare personnel from covid-19. 
+ conducted by researchers at the georgia institute of technology using two pathogens similar to the novel coronavirus, the study found that ozone can inactivate viruses on items such as tyvek gowns, polycarbonate face shields, goggles, and respirator masks without damaging them — as long as they don’t include stapled-on elastic straps. the study found that the consistency and effectiveness of the ozone treatment depended on maintaining relative humidity of at least 50% in chambers used for disinfection. 
+ “ozone is one of the friendliest and cleanest ways of deactivating viruses and killing most any pathogen,” said m.g. finn, chair of georgia tech’s school of chemistry and biochemistry, who led the study. “it does not leave a residue; it’s easy to generate from atmospheric air, and it’s easy to use from an equipment perspective.” 
+ findings of the research are described in a paper posted to the medrxiv preprint server and will be submitted to a journal for peer review and publication. ozone can be produced with inexpensive equipment by exposing oxygen in the atmosphere to ultraviolet light, or through an electrical discharge such as a spark. 
+ during local and regional peaks in coronavirus infection, shortages of personal protective equipment (ppe) can force hospitals and other healthcare facilities to reuse ppe that was intended for a single use. facilities have used ultraviolet light, vaporized hydrogen peroxide, heat, alcohol and other techniques to disinfect these items, but until recently, there had not been much interest in ozone disinfection, finn said. 
+ ozone is widely used for disinfecting wastewater, purifying drinking water, sanitizing food items, and disinfecting certain types of equipment — even clothing. ozone disinfection cabinets are commercially available, taking advantage of the oxidizing effects of the gas to kill bacteria and inactivate viruses. 
+ “there was no reason to think it wouldn’t work, but we could find no examples of testing done on a variety of personal protective equipment,” finn said. “we wanted to contribute to meeting the needs of hospitals and other healthcare organizations to show that this technique could work against pathogens similar to the coronavirus.” 
+ phil santangelo, a virologist in the wallace h. coulter department of biomedical engineering, recommended two respiratory viruses — influenza a and respiratory syncytial virus (rsv) – as surrogates for coronavirus. the two are known as “enveloped” viruses because, like coronavirus, they are surrounded by a lipid outer membrane. influenza and rsv are less dangerous than the sars-cov-2 coronavirus, allowing the georgia tech researchers to study them without high-containment laboratory facilities. 
+ santangelo, finn, and their team devised a test procedure in which solutions containing the two viruses were placed onto samples of the ppe materials under study. the solutions were allowed to dry before the samples were placed in a chamber into which ozone was introduced at varying concentrations as low as 20 parts per million. after treatment for different lengths of time, the researchers tested the ppe samples to determine whether or not any of the viruses on the treated surfaces could infect cells grown in the laboratory. the entire test procedure required about a day and a half. 
+ “the protocol we set up reports very sensitively on whether or not the virus could reproduce, and we found that the ozone was very successful in rendering them harmless,” finn said. “oxidizing biological samples to a significant extent is enough to inactivate a virus. either the genetic material or the outer shell of the virus would be damaged enough that it could no longer infect a host cell.” 
+ loren williams, a professor in school of chemistry and biochemistry, introduced the research team to a manufacturer of ozone disinfection chambers, which allowed evaluation of the equipment using the test protocol. during the test, the researchers learned that having sufficient relative humidity in the chamber — at least 50% — was essential for rapidly inactivating the viruses in a consistent manner. 
+ after subjecting face masks and respirators to ozone disinfection, the team worked with associate professor ng lee (sally) ng from the school of chemical and biomolecular engineering to evaluate the filtration capabilities of the items. the ozone treatment didn’t appear to negatively affect the n-95 filtration material. 
+ but it did damage the elastic materials used to hold the masks in place. while the elastic headbands could be removed from the masks during ozone disinfection, removing and replacing them on a large scale may make the treatment technique impractical. otherwise, however, ozone may offer an alternative technique for disinfecting other types of ppe. 
+ “ozone would be a viable method for hospitals and other organizations to disinfect garments, goggles, and gloves,” finn added. “it is inexpensive to produce, and we hope that by sharing information about what we’ve found, healthcare facilities will be able to consider it as an option, particularly in low-resource areas of the world.” 
+ beyond those already mentioned, the research involved emmeline blanchard from the wallace h. coulter department of biomedical engineering at georgia tech and emory university; justin lawrence, taekyu joo, and britney schmidt from the georgia tech school of earth and atmospheric sciences; minghao xu from the georgia tech school of chemistry and biochemistry; and jeffrey noble from the parker petit institute for bioengineering and bioscience. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,47 @@
+Early Feasibility Study Shows Flickering Lights and Sound Could Be New Weapon Against Alzheimer’s
+Safety, tolerance, adherence get high scores in first human trial
+Annabelle Singer
+May 24, 2021
+— Atlanta, GA
+For the past few years,
+Annabelle Singer
+and her collaborators have been using
+flickering lights and sound
+to treat mouse models of Alzheimer’s disease, and they’ve seen some dramatic results.
+Now they have results from the first human feasibility study of the flicker treatment, and they’re promising.
+“We looked at safety, tolerance, and adherence, and several different biological outcomes, and the results were excellent — better than we expected,” said Singer, assistant professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory.
+Singer shared preliminary results of the feasibility study in October at the American Neurological Association annual meeting. Now she is a corresponding author with Emory neurology researcher
+James Lah
+of a paper outlining their findings in the journal
+Alzheimer’s & Dementia: Translational Research & Clinical Interventions .
+The flicker treatment stimulates gamma waves, manipulating neural activity, recruiting the brain’s immune system, and clearing pathogens — in short, waging a successful fight against a progressive disease that still has no cure.
+Previous research already had shown that sensory areas in the human brain will entrain to flickering stimuli for seconds to hours. But this was the first time Singer and her team were able to test gamma sensory stimulation over an extended period of time.
+The study included 10 patients with Alzheimer’s-associated mild cognitive impairment, which required them to wear an experimental visor and headphones that exposed one group to light and sound at 40 hertz for an hour a day over eight weeks, and another group for four weeks after a delayed start.
+“We were able to tune the devices to a level of light and sound that was not only tolerable, but it also successfully provoked an underlying brain response,” Lah said.
+As they hoped and expected, Singer said, “there was widespread entrainment.” That is, brain activity – in this case, gamma waves – synchronized to the external stimulation.
+Gamma waves are associated with high-level cognitive functions, like perception and memory. Disruptions to these waves have been found in various neurological disorders, not just Alzheimer’s.
+The human feasibility study showed that the gamma flicker treatment was safe and tolerable. And perhaps most surprising, patients followed the full treatment schedule.
+“Adherence was one of our major concerns,” Singer said. “When we sent the device home with the participants, would they use it? Would they use it for a couple of days, and that would be it? We were pleasantly surprised that this wasn’t the case.”
+Adherence rates hovered around 90 percent, with no severe adverse effects reported during the study or the 10-month open label extension (some patients even volunteered to continue being monitored and assessed after the study, though this data wasn’t part of the published research).
+Some participants reported mild discomfort that could have been flicker related — dizziness, ringing in the ears, and headaches. But overall, Singer said, the device’s safety profile was excellent. She also reported some positive biological outcomes.
+“We looked at default mode network connectivity, which is basically how different brain regions that are particularly active during wakeful rest and memory, interact with each other,” Singer said. “There are deficits in this network in Alzheimer’s, but after eight weeks [of treatment], we found strengthening in that connectivity.” This may indicate stronger interactions and therefore better communication between these regions.
+In previous animal studies, the 40Hz of flicker stimulated mouse gamma waves, significantly reducing some Alzheimer’s pathogenic hallmarks and recruited microglia to the cause – these are the primary immune cells in the brain. But in the human study, there were no clear changes in the presence of pathogens amyloid beta or p-Tau.
+However, as with the mouse studies, “we are getting immune engagement in humans,” Singer said. The flicker treatment sparked the activity of cytokines, proteins used in cell signaling — a sign that flicker had engaged the brain’s immune system.
+“That is something we want to see, because microglia do things like clear out pathogens. Some people think that part of what’s going wrong in Alzheimer’s is a failure of this clearance mechanism,” Singer said.
+She and Lah have wondered if a longer human trial would make a difference — would there be reduced amyloid activity, for example.
+“So far, this is very preliminary, and we’re nowhere close to drawing conclusions about the clinical benefit of this treatment,” Lah said. “But we now have some very good arguments for a larger, longer study with more people.”
+The study was funded by the National Institute of Neurological Disorders and Stroke at the National Institutes of Health (grant No. R01-NS109226-01S1), by the Packard Foundation, the Friends and Alumni of Georgia Tech, the Lane Family, the Wright Family, and Cognito Therapeutics. Any findings, conclusions, and recommendations are those of the researchers and not necessarily of the sponsors.
+Competing interests: Annabelle Singer owns shares in Cognito Therapeutics, which funded the human study at Emory Brain Health Center. Cognito aims to develop gamma stimulation-related products. These conflicts are managed by Georgia Tech’s Office of Research Integrity Assurance.
+Additional Images
+Related links
+“A feasibility trial of gamma sensory flicker for patients with prodromal Alzhe…
+Annabelle Singer
+James Lah
+Contact
+Writer:
+Jerry Grillo
+Email
+Jerry.grillo@ibb.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

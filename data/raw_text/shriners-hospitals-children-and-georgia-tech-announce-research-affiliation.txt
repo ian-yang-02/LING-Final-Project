@@ -1,0 +1,52 @@
+Shriners Hospitals for Children and Georgia Tech Announce Research Affiliation
+A new collaborative research effort will help children with cerebral palsy, spinal cord injury and other conditions.
+Kinsey Herrin, research scientist in Georgia Tech’s Woodruff School of Mechanical Engineering, observes graduate researcher Dawit Lee as he tests the pediatric knee exoskeleton. (Credit: Rob Felt, Georgia Tech)
+Feb 26, 2020
+— Atlanta, GA
+You see and want the glass of milk on the table across the room. That’s no problem for most of us, who will simply walk to the table, grab the glass, and enjoy the milk. Triggering all of that limb movement is a complex set of coordinated neuromuscular commands and actions, which are not so simple for that segment of the population with, say, cerebral palsy or spinal cord injury.
+To help young people struggling with those conditions – or orthopedic problems like clubfoot, scoliosis, and osteogenesis imperfecta, among other things – Shriners Hospitals for Children® and the Georgia Institute of Technology have launched an ambitious collaborative research effort to address these conditions, including the development of devices to facilitate limb movement and function.
+The new research affiliation brings together the clinical, surgical, and scientific expertise of Shriners Hospitals for Children physicians and researchers with Georgia Tech’s cutting-edge expertise in biomedical engineering, robotics, and device development. The coordinated effort also will leverage the two organizations’ proficiency in big data and artificial intelligence tools for personalized medicine, according to Marc Lalande, Ph.D., vice president of research programs for Shriners Hospitals for Children.
+“Our joint goals, through genetic and genomic data gathered by Shriners Hospitals for Children, are to improve patient therapeutic responses by optimizing individualized treatment regimens and reducing adverse events,” Lalande said.
+Several joint projects already are underway.
+Jaydev Desai , professor in the
+Wallace H. Coulter Department of Biomedical Engineering
+(BME) at Georgia Tech and Emory University, is working with Scott Kozin, M.D., chief of staff and hand surgeon at Shriners Hospitals for Children-Philadelphia, on a wearable customized robotic exoskeleton with voice recognition for children with cervical spine injury.
+“This is a patient specific system for kids with spinal cord injury,” explained Desai, who is director of the
+Georgia Center for Medical Robotics
+and associate director of Georgia Tech’s
+Institute for Robotics and Intelligent Machines . “The system is designed to translate voice commands into actions, meaning the exoskeleton will conform to the proper shape and posture of the fingers, so to speak, depending on the task. The idea is to enhance the child’s ability to perform the activities of daily living.”
+Kozin expects his patients with spinal cord injuries will benefit from Georgia Tech’s innovative pediatric prosthesis development – its utility, actuation, and dexterity. “Alternative pathways for the recovery of sensation will enhance their function and independence. We are excited about this new collaboration combining institutions with similar missions and visions devoted to improving the lives of children,” said Kozin, who also is collaborating with Georgia Tech’s
+Frank Hammond
+(assistant professor in BME and mechanical engineering) on wearable sensory transfer devices for patients with diminished peripheral sensation or amputations, improving their ability to use intuitively powered prostheses and orthoses.
+Additionally,
+Aaron Young , assistant professor in the
+George W. Woodruff School of Mechanical Engineering
+at Georgia Tech, is working with David Westberry, M.D., pediatric orthopedic surgeon at Shriners Hospitals for Children-Greenville, on a smart robotic exoskeleton designed to address excessive knee flexion (crouch gait), a condition common in patients with cerebral palsy. The condition can lead to permanent joint deformity if untreated, as well as reduced independence and locomotion capability.
+“The device is basically a lightweight, wearable robot designed to assist physical therapists working on pediatric mobility – the idea is to essentially retrain the child’s neuroplasticity,” said Young, who is testing the device with Westberry at Shriners Hospitals for Children-Greenville in South Carolina. “The exciting thing about Shriners Hospitals for Children-Greenville is that it has an advanced motion analysis center where Shriners’ physicians and researchers are looking at not just the child’s gait, but also at the internal mechanics. It’s very rewarding to collaborate with the Shriners team – they are very quantitative in their approach to treatment.”
+That quantitative approach includes the integration of biomedical informatics, data science, and artificial intelligence into the clinical research programs of the Shriners Hospitals for Children network of 14 pediatric motion analysis centers and the healthcare system’s newly launched Genomics Institute. As part of this process, researchers are collaborating with
+Dongmei Wang , BME professor at Georgia Tech, where she is director of the Biomedical Informatics and Bioimaging Lab.
+“This collaboration is extremely important for us because not only have we committed to work on a major national need in youth health, but also because we have been planning to establish a pediatric big data center using advanced IT and AI,” said Wang, whose collaborators at Shriners Hospitals for Children include Gerald Harris (Motion Analysis, Shriners Hospitals for Children-Chicago) and Kamran Shazand (Shriners Hospitals for Children Genomics Institute, Tampa, Florida).
+“Our lab has piloted multiple pediatric projects,” Wang said. “But this project represents a quantum leap, taking our work to the next level, in a real-world pediatric care setting. Shriners Hospitals for Children is a perfect fit for us.”
+Leanne West, Georgia Tech’s chief engineer of
+pediatric technologies , said she’s looking forward to “the unique research opportunities this relationship with Shriners Hospitals for Children will provide. It will be exciting to see what is possible for us to achieve together.”
+About pediatric device research at Georgia Tech
+Georgia Tech’s wide-ranging efforts in pediatric device development brings the institute’s engineers and scientists together with clinical experts and researchers to develop innovative technological solutions to problems in the health and care of children. The work provides opportunities for interdisciplinary collaboration in pediatrics, creating breakthrough discoveries, enhancing the lives of children and young adults.
+About Shriners Hospitals for Children
+Shriners Hospitals for Children is changing lives every day through innovative pediatric specialty care, world-class research, and outstanding medical education. Its healthcare system provides care for children with orthopedic conditions, burns, spinal cord injuries, and cleft lip and palate. All care and services are provided regardless of families’ ability to pay. Since opening its first location in 1922, the healthcare system has treated more than 1.4 million children. For more information, visit
+shrinershospitalsforchildren.org .
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : Jerry Grillo
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

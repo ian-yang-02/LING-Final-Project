@@ -1,0 +1,46 @@
+Severe Storms Research Center Works to Improve Tornado Warning Time
+The Severe Storms Research Center is helping improve the ability to forecast tornados and other severe storms.
+John Trostel, director of the Severe Storms Research Center (SSRC), poses with a sensor that is part of the North Georgia Lightning Mapping Array, a network of 12 such sensors located around the metropolitan Atlanta area to detect lightning that may indicate storm intensification. (Credit: Branden Camp, Georgia Tech Research Institute)
+Apr 19, 2018
+— Atlanta, GA
+For John Trostel, Madeline Frank, Jessica Losego, and Tom Perry, a day without clouds isn’t necessarily an ideal day.
+The four researchers are part of the
+Georgia Tech Research Institute’s
+(GTRI)
+Severe Storms Research Center
+(SSRC), and for them, a day without clouds is a day without new information on how deadly tornadoes and severe thunderstorms develop and move across the Peach State.
+Tornadoes in the Southeast United States can differ dramatically from those popularized by storm chasers in the Midwest. In the Southeast, severe tornadoes may not stay on the ground for long, often dropping out of clouds and disappearing with only a relatively short, but deadly and destructive ground track. They also often occur at night, may be wrapped in rain, and embedded in larger squall line structures.
+These characteristics mean that tornadoes in the Southeast can be difficult to forecast using conventional weather radar, especially for storms near the edges of a radar’s coverage area. But the measurement of lightning can be done more easily and can be useful because an increase in lightning activity can indicate an intensifying storm that could spawn a tornado. So to supplement existing National Weather Service warning technologies, the SSRC has been focusing on measuring lightning in north Georgia, in collaboration with the local National Weather Service office in Peachtree City.
+“When lightning occurs in the clouds or from the clouds to the ground, it produces bursts of radio-frequency energy,” explained Trostel, the center’s director. “Our sensors pick up those bursts of energy and by looking at the times when each sensor receives the signal, we can calculate a 3-D path to the source. That allows us to map the lightning in near real-time.”
+To capture the lightning data, the SSRC has built the North Georgia Lightning Mapping Array, a network of 12 sensors located around the metropolitan Atlanta area, extending as far south as Newnan and McDonough, and as far north as Acworth and Duluth. The array feeds into a monitoring system that consolidates and transmits the information to the Short-term Prediction Research and Transition Center (SPoRT) and ultimately to the National Weather Service office in Peachtree City.
+“We want to know which storms are active enough to produce lightning because that gives us information about the dynamics of what’s going on inside the clouds,” Trostel said. “Total lightning, which includes both cloud-to-cloud and cloud-to-ground activity, often jumps before severe weather begins, so this can provide a more advanced warning. By collecting information from our array, we expect to be able to determine which storms are likely to become severe.”
+Each lightning measurement sensor, based on a design developed by engineers at the New Mexico Institute of Mining and Technology, includes an antenna, a small Linux computer, two 12-volt batteries, and a transmitter – all in a weather-proof box. The earliest systems relied on power and network connections from the organizations hosting the sensors, but SSRC personnel have now converted most of the sensors to use solar power and wireless transmitters that can operate independently of a host building.
+The GTRI team builds and maintains the equipment, relying on assistance from other entities such as Emory University, the Georgia Department of Natural Resources and local public safety organizations to provide locations.
+“It’s a really big scientific collaboration and research partnership,” said Perry, who is a GTRI electrical engineer at the SSRC.
+The 12 locations transmit data every minute to provide real-time forecasting information and also store more detailed information useful to the researchers. The real-time data goes first to GTRI, then to Huntsville, Alabama, where it is processed and sent to Dallas, Texas, for inclusion in data feeds that can be used by National Weather Service forecasters. The data is also posted in real time at the website ( nglma.gtri.gatech.edu ).
+“If a storm is developing, forecasters might not see the next radar image for as much as six minutes, so the more frequent updates we provide can help forecasters issue an earlier warning,” said Frank, who is a GTRI research meteorologist.
+A tornado can form and drop from the clouds within the time required for a single sweep of weather radar, noted Losego, who is also a GTRI research meteorologist. The North Georgia Lightning Mapping Array can help forecasters focus attention on which storms should be watched more closely.
+“We don’t issue forecasts, but the information from the array can help forecasters determine which storms to watch based on their lightning activity,” Losego explained. “Forecasters may not know exactly which storm may produce a tornado, so having lightning data can help inform their decision-making.”
+Beyond lightning, the center is also studying infrasonics, very low frequency sound waves produced by severe storms. The signals, which are below the range of human hearing, can travel long distances and may one day provide an additional source of early warning data.
+The SSRC was created after a tornado touched down in Gainesville, Georgia, March 20, 1998. The early morning storm killed 12 people in Georgia and caused extensive damage. The storm dropped out of the clouds quickly, preventing forecasters from issuing a timely warning.
+The SSRC launch was supported by the state of Georgia, Georgia Emergency Management Agency (GEMA) and the Federal Emergency Management Agency (FEMA).
+In addition to its interest in severe weather, the SSRC also supports other weather-related projects at GTRI. It has supplied meteorological forecasting to a military program focused on air-dropping supplies, and to designers of inflatable antenna dishes where information about atmospheric pressure is critical.
+“We have been able to see how wind events, temperature drops, and rain rates affect the antennas,” explained Frank. “For the designers, we are assessing the correlation between weather conditions and performance.”
+And the center is part of GTRI’s outreach to K-12 schools. Researchers produce weather programs for schools and use high school students in their field work. High schools were also involved in an earlier project to build “electric field mills” to detect changes in electromagnetic energy caused by charged clouds and lightning.
+“High schools students are quite capable and showed us they were able to build complex instruments that really worked,” said Trostel. “Our K-12 outreach helps get students excited about science, technology, engineering, and mathematics. We think that will pay off in the long term.”
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Josh Brown (404-385-0500) (josh.brown@comm.gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

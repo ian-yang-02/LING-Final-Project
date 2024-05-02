@@ -1,0 +1,43 @@
+Wearable Device Could Help EMTs, Surgeons Assess Hemorrhage Blood Loss
+A new device under development could help first responders more accurately assess the effects of blood loss due to hemorrhage.
+Researchers have shown that they can accurately assess blood loss by measuring seismic vibrations in the chest cavity and by detecting changes in the timing of heartbeats. That could lead to development of a smart wearable device that could be carried by ambulance crews and medics and made available in emergency rooms and surgical facilities.
+Aug 31, 2020
+— Atlanta, GA
+Emergency medical technicians (EMTs), military medics, and emergency room physicians could one day be better able to treat victims of vehicular accidents, gunshot wounds, and battlefield injuries thanks to a new device under development that may more accurately assess the effects of blood loss due to hemorrhage.
+A research team has now shown that it can accurately assess blood loss by measuring seismic vibrations in the chest cavity and by detecting changes in the timing of heartbeats. The knowledge, developed in the laboratory, could potentially lead to development of a smart wearable device that could be carried by ambulance crews and medics and made available in emergency rooms and surgical facilities.
+“We envision a wearable device that could be placed on a person’s chest to measure the signs that we found are indicative of worsening cardiovascular system performance in response to bleeding,” said
+Omer Inan , associate professor in the
+School of Electrical and Computer Engineering
+at the Georgia Institute of Technology. “Based on information from the device, different interventions such as fluid resuscitation could be performed to help a victim of trauma.”
+The research, supported by the Office of Naval Research, was reported July 22 in the journal
+Science Advances . It included collaborators from the Translational Training and Testing Laboratories in Atlanta, an affiliate of Georgia Tech, and the University of Maryland.
+Blood loss can result from many different kinds of trauma, but the hemorrhage can sometimes be hidden from first responders and doctors. Heart rates are normally elevated in people suffering from trauma, and blood pressure — now the most commonly used measure of hemorrhage — can remain stable until the blood loss reaches a life-threatening stage.
+“It’s very difficult because the vital signs you can measure easily are the ones that the body tries very hard to regulate,” Inan said. “Yet you have to make decisions about how much fluid to give an injured person, how to treat them — and when there are multiple people injured — how to triage those with the most critical needs. We don’t have a good medical indicator that we can measure noninvasively at an injury or battlefield scene to help make these decisions.”
+Using animal models, Inan and graduate students Jonathan Zia and Jacob Kimball carefully studied seismic vibrations from the chest cavity and electrical signals from the heart as blood volume was gradually reduced. The researchers wanted to evaluate externally measurable indicators of cardiovascular system performance and compare them to information provided by catheters making direct measurements of blood volume and pressure.
+The key indicator turned out to be a seismocardiogram, a measure of the micro-vibrations produced by heart contractions and the ejection of blood from the heart into the body’s vascular system. But the researchers also saw changes in the timing of the heart’s activity as blood volume decreased, providing another measure of a weakening cardiovascular system.
+“The most important lower-level feature we found to be important in blood volume status estimation were cardiac timing intervals: how long the heart spends in different phases of its operation,” Inan said. “In the case of blood volume depletion, the interval is an important indicator that you could obtain using signals from a wearable device.”
+In such a device, these noninvasive mechanical and electrical measures could be combined to show just how critical a patient’s blood loss was. Machine learning algorithms would use the measurements to generate a simple numerical score in which larger numbers indicate a more serious condition.
+“We would give an indicator that is representative of the overall status of the cardiovascular system and how close it is to collapse,” Inan said. “If one patient is rated 50 and another is 90, first responders could give priority to the patient with the higher number.”
+Beyond emergency situations, the new assessment technique could be helpful with many types of surgery in which quickly identifying unseen blood loss could improve the outcome for patients.
+In future work, Inan and his collaborators expect to create a prototype device that could take the form of a patch just 10 millimeters square. Additional electrical engineering will be needed to filter out the kinds of background noise likely to be found in real-world trauma situations, and for successful operation when the patient is being transported.
+“Long-term, we want to partner with clinicians to do studies in humans where we would use the wearable patch and be able to take measurements when people were coming into the trauma bay, or even while EMTs were still deployed,” Inan said. “This could become a new way of monitoring hemorrhage that could be used outside of clinical settings.”
+The researchers also want to study the opposite problem — how to determine when enough fluid has been provided to an injured patient. Too much fluid can cause edema, similar to the conditions of heart failure patients whose lungs fill with liquid.
+This material is based on work supported by the Office of Naval Research (ONR) under grant N000141812579. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the ONR.
+CITATION : Jonathan Zia, Jacob Kimball, Christopher Rolfes, Jin-Oh Hahn, and Omer T. Inan,” “Enabling the assessment of trauma-induced hemorrhage via smart wearable systems.” (Science Advances 2020)
+https://doi.org/10.1126/sciadv.abb1708
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

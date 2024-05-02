@@ -1,0 +1,42 @@
+Robotic Cleaning Technique Could Automate Neuroscience Research
+For scientists listening in on the faint whispers of brain neurons, a first-ever robotic technique for cleaning the tiny devices that record the signals could facilitate a new level of automation in neuroscience research.
+Graduate research assistant Ilya Kolb shows a well structure used to hold samples (center) and detergent/rinsing solution for cleaning pipettes between recording sessions. (Credit: John Toon, Georgia Tech)
+Oct 25, 2016
+— Atlanta, GA
+For scientists listening in on the faint whispers of brain neurons, a first-ever robotic technique for cleaning the tiny devices that record the signals could facilitate a new level of automation in neuroscience research. That could accelerate the gathering of information used to map the functions of brain cells and ultimately provide a better understanding what’s going on between our ears.
+The technique would be used in a recording method known as patch-clamping, in which a tiny liquid-filled glass pipette is connected to individual neurons. Since patch-clamping was invented three decades ago, the technique has required changing pipettes between recordings – a manual process that slows research. Now, a robotic cleaning technique developed by researchers at the Georgia Institute of Technology allows the pipettes to be reused for as many as 11 recordings – and potentially more – allowing the recording to be more automated.
+“This is a step toward revolutionizing the robotic techniques in neuroscience,” said
+Craig Forest , associate professor in Georgia Tech’s
+George W. Woodruff School of Mechanical Engineering.
+“We want to be able to put samples into our machine and walk away while it records 50 or even 100 neurons. This could enable for neuroscience the kind of research automation we’ve seen in other fields such as molecular biology, dramatically expanding our ability to listen in on brain signals.”
+Supported by the National Institutes of Health and the Allen Institute for Brain Science, the research was reported October 11 in the journal
+Scientific Reports . Based on their cleaning technique and earlier innovations that automated the process of connecting the pipettes to cells, the Georgia Tech researchers have demonstrated what’s believed to be the first robot to perform sequential patch-clamp recording in cell culture, brain slices, and in the living brain – without a human operator.
+To share what it’s doing, the patch-clamping robot – known as “patcherBot” – has its own Twitter account to automatically report on every cell it records. “This is the first social neuroscience robot,” said Forest.
+Patch-clamping is the gold standard for stimulating and recording signals from neurons and other cells. It involves touching a glass pipette with a tip just one micron in diameter to the cell membrane, creating a tight seal that provides a direct electrical connection to the insides of the cell. The work is extremely meticulous and time-consuming, though a recent robotic technology termed the Autopatcher, also out of Forest’s lab, has automated parts of the process.
+Because cellular debris could prevent the tight connection to cells, researchers have had to replace the pipettes with new ones for each recording. But while conducting patch-clamping, graduate research assistant Ilya Kolb began to question the conventional wisdom that the pipettes could not be used more than once. He knew about detergents used to clean laboratory glassware, and set to work assessing whether or not these agents to be used in a robotic cleaning process.
+“If you could clean the pipette automatically after each recording, you could just tell the Autopatcher to go back to cells again and again,” Forest explained. “You wouldn’t even have to be in the room anymore. You could set this up before you leave the lab for the day, and when you returned the next morning, you’d have recorded 50 or 100 cells.”
+Kolb tested eight cleaning solutions and found one – Alconox – which successfully removed the debris. He reprogrammed the software operating the Autopatcher to add cleaning and rinsing steps between each recording. The new robot dips the pipette into a detergent solution located in a well next to the sample, creates a flow of fluid into and back out of the pipette, then moves the pipette to a rinse in a separate well. The entire cleaning process takes about a minute, which is as fast or even faster than a trained human operator.
+The researchers compared the quality of the recordings made by the cleaned pipettes to those made with new ones.
+“When we patch with a fresh pipette and when we patch with a pipette that has been used and cleaned 11 times, the results are basically indistinguishable,” said Kolb. “We do see some degradation after 14 or more attempts, but we’re hopeful that with improvements in the technique, we could reuse pipettes as many as 50 or 100 times.”
+Working with researchers at Emory University, the technique was tested to determine whether any remaining detergent residue could affect living cells. Results of the testing, supplemented with mass spectroscopy studies of the pipette fluid, found no adverse implications.
+Georgia Tech has filed for patent protection on the new robotic technique, which allows technicians to simply choose the cells to be recorded using a microscope view – then let the machine work. The researchers hope the technique can be commercialized for use not only by the thousands of labs currently using patch-clamping, but also used to expand automated applications more broadly for pharmaceutical testing and other research.
+“If we can put this technology into a piece of equipment and have all the smarts provided by software, it could really democratize this area of research,” said Forest. “That’s where we’re headed in building tools that will make new science possible.”
+Research reported in this press release was supported by NIH Computational Neuroscience Training grant (DA032466-02) and BRAIN Initiative awards (U01-MH106027-01, R01-EY023173, R44-NS083108-03). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+CITATION : Ilya Kolb, W.A. Stoy, E.B. Rousseau, O.A. Moody, A. Jenkins and C.R. Forest, “Cleaning patch-clamp pipettes for immediate reuse,” (Scientific Reports 2016).
+http://dx.doi.org/10.1038/srep35001 .
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,53 @@
+hatchet enzyme, enabler of sickness and of health, exposed by neutron beams 
+ a pioneering glimpse inside elusive cell membranes exposes a major player in cell health but also in hepatitis c and in alzheimer's. 
+ the high flux isotope reactor at oak ridge national laboratory is the highest flux reactor-based source of neutrons for research in the united states. credit: genevieve martin / ornl 
+ feb 06, 2018 
+ — atlanta, ga 
+ tucked away inside cell membranes, a molecular butcher does the bidding of healthy cells but also of disease agents. it has been operating out of clear view, but researchers just shined a mighty spotlight on it. 
+ the butcher is a common enzyme called presenilin, which chops lengthy protein building blocks down to useable shorter lengths. it resides in membrane spaces that evade ready experimental detection, but  in a new study, researchers  at the georgia institute of technology and oak ridge national laboratory (ornl) have illuminated  presenilin  using a neutron beam produced by the world's most powerful research nuclear reactor. 
+ presenilin is one of many mysterious protein structures residing in our cell membranes, where they are essential to life. 
+ “one-third of our genome goes to work to encode intramembrane proteins,” said  raquel lieberman, an associate professor  in georgia tech’s school of chemistry and biochemistry. “some of them are huge and do super complex biochemistry.” 
+ presenilin is an enzyme, more particularly an  intramembrane protease . there are four classes of these, and they are needed, among other things, for: alerting to and defending against infectors, and cell differentiation and development. 
+ if the latter two go wrong, that can lead to cancer. 
+ grainy neutron mugshot 
+ now, the researchers have gotten their first figurative mugshot of an intramembrane protein, the presenilin. technically speaking, the researchers worked with a presenilin cousin found in microbes --  m. marisnigri  intramembrane aspartyl protease or mmiap -- but here we will use presenilin and mmiap interchangeably for simplicity’s sake. 
+ the measurement was low-resolution but revealed enough to establish that the protein structure is more simply put together than previously believed, and that surprised the scientists. 
+ “our sample shows that this is  a monomer all by itself,” lieberman said. “we were expecting a dimer or a trimer .” that means it was made up of one long strand, mostly coiled up like a spring, instead of doubled-up or tripled-up curly strands. 
+ presenilin (mmiap) is armed with two chemical knives,  aspartates , that reliably make cuts on peptides, subunits that make up proteins.  and a second new study  by the same researchers illuminated how the cleaving works. 
+ anybody’s peptide butcher 
+ presenilin can trim peptides into building blocks helpful to its own cells, or whittle bad peptide chunks that end up in amyloid-beta plaque, a suspect in  alzheimer’s disease . or presenilin can aid and abate  hepatitis c  viruses by carving components it needs to reproduce. 
+ understanding how presenilin works could one day prove useful to medical research. “if you could find a way to interfere with it selectively, you could stop the spread of hepatitis c in the body,” lieberman said. 
+ the researchers, led by lieberman and neutron scattering scientist  volker urban from ornl , published the revelations of the neutron scattering  on february 6, 2018, in  biophysical journal . the new insights into presenilin functioning are to officially publish in march  in the  journal of biological chemistry  but the study is currently available online without embargo . first authors were swe-htet naing of georgia tech and ryan oliver of oak ridge. 
+ research was funded by the national science foundation, the national institutes of health, and the u.s. department of energy. 
+ herding hydrophobic hiders 
+ by going to the high flux isotope reactor (hfir), the scientists were reaching for the big gun to make presenilin (mmiap) come out of hiding. 
+ hfir’s neutron beams were cooled to minus 253 degrees celsius (minus 424 degrees fahrenheit) to slow the neutrons down, so they could probe molecular features of the biological samples. 
+ presenilin and other intramembrane proteins warrant such proverbial desperate measures. they live in a lipid environment and hate water about the way cats do, and that’s a problem for researchers studying them. 
+ “when you have proteins that are not soluble in water, you’re in trouble,” lieberman said. “the usual techniques to analyze them become very, very difficult, if not impossible. and when you chemically bootstrap these proteins to be able use these water-soluble methods, you have really poor chances of seeing the protein’s actual structure that performs its function.” 
+ form follows function 
+ images derived from water-based analytical methods in lieberman’s lab have not completely jibed with presenilin’s function. for one, the enzyme’s cutting surfaces have been too far apart. the neutron beam’s revelations indicated a form that seemed more logical. 
+ “our shape was tighter, and made more sense with presenilin’s function in its natural setting in the membrane,” lieberman said. 
+ the presenilin (mmiap) samples examined at the hfir were suspended in a solution friendly to the  hydrophobic protein . ironically, presenilin and other intramembrane proteases often  hydrolyze  peptides, in other words, they add water to them. 
+ “these proteases are confined to the lipid cell membrane where there is no water. since water is required for hydrolysis, it has to come from outside the membrane,” lieberman said. “how that happens is yet another mystery that needs uncovering.” 
+ robust, reliable cleavers 
+ the precision and consistency, with which the presenilin  homologue  mmiap cleaved peptides, impressed the researchers. 
+ “when we used a model synthetic peptide, it cleaved only at very specific positions on the peptide,” lieberman said. “when we switched to a real biological peptide, it also cleaved very exactly.” 
+ the researchers put the presenilin through various mutations, which had little to no effect on its cleaving abilities. that could mean that its baseline functioning is nearly immune to genetic interference. 
+ on a chilling note, when the researchers observed the microbial presenilin cousin, mmiap, cutting amyloid-beta precursor peptides, it always made the chop in a way notorious for amyloid’s association with  alzheimer’s disease . 
+ “we never saw the cut that made what is typically viewed as the ‘good’ amyloid, a-beta-40,” lieberman said. “we only saw cuts that led to the ‘bad’ amyloid, a-beta-42.” 
+ more research would be needed to explain why that happened; if the same is true for presenilin in human cell membranes, and also if some regulator prevents the creation or accumulation of so much bad amyloid in healthy cells. 
+ like this article?  get our email newsletter here. 
+ also read: 
+ alzheimer's: killing the mind first 
+ kevin weiss from oak ridge national laboratory coauthored the study in biophysical journal. sibel kalyoncu, david smalley, hyojung kim, xingjian tao, josh george, alex jonke, ryan oliver, and matthew torres coauthored the study in the journal of biological chemistry. research was funded by the national science foundation’s division of molecular and cellular biosciences (grant 0845445), and the national institutes of health (grant r01gm112662 and r01gm118744). neutron scattering research conducted at the bio-sans instrument, a doe office of science, office of biological and environmental research resource, used resources at the high flux isotope reactor, a doe office of science, scientific user facility operated by the oak ridge national laboratory.   any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ additional images 
+ contact 
+ writer & media representative : ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,33 @@
+Morphing Origami Takes a New Shape, Expanding Use Possibilities
+Researchers at the Georgia Institute of Technology have created a new type of origami that can morph from one pattern into a different one, or even a hybrid of two patterns, instantly altering many of its structural characteristics.
+A new type of origami can morph from one pattern into a different one, or even a hybrid of two patterns, instantly altering many of its structural characteristics. (Credit: Allison Carter)
+Apr 17, 2019
+— Atlanta, GA
+Origami-based structures have been used to create deployable solar arrays for space, adaptable acoustic systems for symphony halls and even crash protection systems for flying drones.
+Now researchers at the Georgia Institute of Technology have created a new type of origami that can morph from one pattern into a different one, or even a hybrid of two patterns, instantly altering many of its structural characteristics.
+The research, which was supported by the National Science Foundation and is to be published April 19 in the journal
+Physical Review Letters , could unlock new types of origami-based structures or metamaterials that leverage the characteristics of two types of origami.
+“This hybrid origami allows for reprogrammable mechanical properties and the ability to change those properties while the material is in service,” said Glaucio Paulino, a professor in the Georgia Tech School of Civil and Environmental Engineering.
+The researchers started with two types of origami patterns: the Miura-ori and the eggbox, both of which can be formed into sheets of repeating patterns. The Miura-ori looks like rows of folded zig-zags, while the eggbox pattern resembles a mountain range with repeating peaks and valleys.
+Both are capable of being compressed into a very small space, but when expanded they behave differently from one another in how they respond to bending. The eggbox pattern resembles a dome when bent, and the Miura-ori takes the shape of a saddle.
+“Traditionally, if you have an eggbox pattern, you are locked into the characteristics of that particular pattern,” said Paulino, who is also the Raymond Allen Jones Chair of Engineering in the School of Civil and Environmental Engineering. “With this new pattern, which we are calling morph, that’s no longer the case.”
+The new origami pattern achieves its morphing ability by a redesign of the geometry of two of the four planes that comprise one section of the origami. By shrinking those two planes on one side, it enables their creases to shift from a mountain to a valley, or in other words, to fold in the opposite direction.
+And importantly, the transition from peak to valley can occur whether the origami is formed from a flexible material such as paper or a rigid material such as metal.
+That means, for example, that origami-based structures used for acoustic systems – which already are capable of expanding and contracting to increase or decrease the volume of the sound response – could go one step further, changing how they bend to potentially offer an even greater range of resonant responses. In the example of the drone crash protection system, the new origami pattern could potentially offer other customization options or alter aspects of its impact resistance, Paulino said.
+“NSF’s investments in fundamental research of architected materials has pushed the frontiers and created ‘shape-shifting’ structures for applications in space exploration, robotics and medicine,” said Robert B. Stone, NSF’s Civil, Mechanical and Manufacturing Innovation division director.
+The new origami pattern is also capable of taking on a hybrid structure, where certain rows are folded into one configuration and others were folded in the other. In such a configuration, the structure would exhibit characteristics of both types.
+“There are a large number of combinations in terms of how these could be configured, which offers a lot of customization possibilities for structures based on the morph pattern,” said Ke Liu, a former graduate student at Georgia Tech and now a postdoctoral scholar at the California Institute of Technology.
+Another unique characteristic of the morph pattern is what happens when a Miura-ori row is situated between two eggbox rows. Typically, when tension is applied to pull apart either of the patterns, they respond by giving in and flattening their shape. However, in this new instance, the Miura-ori pattern locks into place.
+“The locking is very strong, and there is no way to break that hold other than to tear the entire structure apart,” said Phanisri Pratapa, a former postdoctoral fellow at Georgia Tech and now an assistant professor of civil engineering at the Indian Institute of Technology Madras.
+The locking could enable structures to limit the amount of expansion possible and change that limit on the fly, Pratapa said.
+This research was supported by the National Science Foundation (NSF) under grant CMMI-1538830 and the Raymond Allen Jones Chair at the Georgia Institute of Technology. The content is solely the responsibility of the authors and does not necessarily represent the official views of those organizations.
+CITATION : Phanisri P. Pratapa, Ke Liu, Glaucio H. Paulino, “Geometric mechanics of origami patterns exhibiting Poisson's ratio switch by breaking Mountain/Valley assignment,” (Physical Review Letters, April 2019). https://doi.org/10.1103/PhysRevLett.122.155501
+Additional Images
+Contact
+John Toon
+Research News
+Email
+john.toon@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

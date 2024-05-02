@@ -1,0 +1,30 @@
+using stories to teach human values to artificial agents 
+ researchers from interactive computing unveil “quixote” to teach ai positive behavior. 
+ mark riedl is associate professor in the school of interactive computing at georgia tech and director of the entertainment intelligence lab. 
+ feb 12, 2016 
+ — atlanta, ga 
+ atlanta 
+ — 
+ feb. 12, 2016 
+ — the rapid pace of artificial intelligence (ai) has raised fears about whether robots could act unethically or soon choose to harm humans. some are calling for bans on robotics research; others are calling for more research to understand how ai might be constrained. but how can robots learn ethical behavior if there is no “user manual” for being human? researchers 
+ mark riedl 
+ and 
+ brent harrison 
+ from the school of interactive computing at the georgia institute of technology believe the answer lies in “quixote” – to be unveiled at the 
+ aaai-16 conference 
+ in phoenix, ariz. (feb. 12 – 17). quixote teaches “value alignment” to robots by training them to read stories, learn acceptable sequences of events and understand successful ways to behave in human societies. “the collected stories of different cultures teach children how to behave in socially acceptable ways with examples of proper and improper behavior in fables, novels and other literature,” says riedl, associate professor and director of the entertainment intelligence lab. “we believe story comprehension in robots can eliminate psychotic-appearing behavior and reinforce choices that won’t harm humans and still achieve the intended purpose.” quixote is a technique for aligning an ai’s goals with human values by placing rewards on socially appropriate behavior. it builds upon riedl’s prior research – the 
+ scheherazade system 
+ – which demonstrated how artificial intelligence can gather a correct sequence of actions by crowdsourcing story plots from the internet. scheherazade learns what is a normal or “correct” plot graph. it then passes that data structure along to quixote, which converts it into a “reward signal” that reinforces certain behaviors and punishes other behaviors during trial-and-error learning. in essence, quixote learns that it will be rewarded whenever it acts like the protagonist in a story instead of randomly or like the antagonist. for example, if a robot is tasked with picking up a prescription for a human as quickly as possible, the robot could a) rob the pharmacy, take the medicine, and run; b) interact politely with the pharmacists, or c) wait in line. without value alignment and positive reinforcement, the robot would learn that robbing is the fastest and cheapest way to accomplish its task. with value alignment from quixote, the robot would be rewarded for waiting patiently in line and paying for the prescription. riedl and harrison demonstrate in their research how a value-aligned reward signal can be produced to uncover all possible steps in a given scenario, map them into a plot trajectory tree, which is then used by the robotic agent to make “plot choices” (akin to what humans might remember as a choose-your-own-adventure novel) and receive rewards or punishments based on its choice. the quixote technique is best for robots that have a limited purpose but need to interact with humans to achieve it, and it is a primitive first step toward general moral reasoning in ai, riedl says. “we believe that ai has to be enculturated to adopt the values of a particular society, and in doing so, it will strive to avoid unacceptable behavior,” he adds. “giving robots the ability to read and understand our stories may be the most expedient means in the absence of a human user manual.” download 
+ the complete research paper. this project undertaken was or is sponsored by the u.s. defense advanced research projects agency (darpa) under grant # d11ap00270 and the office of naval research (onr) under grant # n00014-14-1-0003. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the view of darpa or the onr. 
+ additional images 
+ contact 
+ tara la 
+ bouff 
+ communications manager 
+ 404-894-7253 (office) 
+ 404-769-5408 (mobile) 
+ email 
+ tlabouff@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

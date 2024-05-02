@@ -1,0 +1,51 @@
+Tech Study Stands Up for Flamingos' Unique Pose
+Tech researchers have a new theory on why flamingos stand and sleep on one leg.
+May 24, 2017
+— Atlanta, GA
+When it comes to Big Questions About Birds, here’s one that rivals those about chickens crossing roads and that whole chicken-and-egg quandary: Why do flamingos stand on one leg?
+“Anytime I go to the zoo, I always hear a kid ask why or how they do that,” says
+Young-Hui Chang , a professor in the School of Biological Sciences who studies locomotion in animals from both a neurological and a biomechanical lens. “It’s a natural question.”
+Because science has yet to provide a definitive answer, Chang and fellow researcher
+Lena Ting
+investigated how flamingos are able to stand and sleep on one leg so easily for so long. Ting is a professor in the
+Wallace H. Coulter Department of Biomedical Engineering
+at Emory University and Georgia Tech who studies balance control in humans and mammals.
+Their findings, published this week in
+Biology Letters , suggest a reason that differs from most previous suggestions: it’s about reducing muscular effort.
+Potential applications stretch from better robotics, orthopedic braces, and artificial limbs, to more focused treatments for neurological or balance problems.
+But Chang argues that simply providing clarity to long-standing questions about long-standing flamingos has great value as well.
+“There’s something to be said for just scientific curiosity and learning how nature works,” he says. Flamingos aren’t the only birds that stand on one leg, he adds, but “the extreme example is the flamingo. It’s precisely from these extreme examples in nature where you can really gain a lot of insight.”
+A firmer foundation for flamingos
+Surprisingly, Chang says, given how long the question about flamingos has been around, “there hasn’t been a whole lot of research done.” Others have suggested that the birds engage in this behavior to avoid muscle fatigue or to conserve body heat.
+Chang and Ting studied live birds at the
+Zoo Atlanta
+flock, one of the largest breeding flocks of Chilean flamingos in the U.S. They also used two cadaver birds from the
+Birmingham Zoo
+and flamingo skeletons from the
+University of California at Berkeley’s Museum of Paleontology .
+Zoo Atlanta and  Georgia Tech Institutional Animal Care and Use Committees  (IACUCs) approved all procedures using live animals. No animal was killed or harmed for the purposes of the study.
+Their research shows that a “passively engaged gravitational stay apparatus” helps the birds support their weight and maintain balance while on one reed-thin leg. The bird’s specialized anatomy, clever posture, and gravity combine to give the flamingo this ability, which does
+not
+involve bones locking into position. Chang says it’s more like a hammock or sling than a lock, but it does require the unique anatomy of flamingos.
+“The biomechanics are such that when they stand on one leg, they become very stable and are able to maintain that posture without activating muscle,” Ting says. “If they deviate from that posture to two legs, that no longer holds. It’s very posture-specific, a one-legged posture that can support their body weight.”
+The “passively engaged” part of the flamingo’s gravitational stay apparatus is exactly as it sounds: It requires minuscule, if any, active muscular or nerve control, Chang adds.
+Those who marvel at a large, fluffy pink lump of flamingo body held up by one slender leg may be surprised to learn that the “joint” in the middle of that leg is actually an ankle, not a knee. “Most people don’t realize that knee and hip joints are not actually in view in most birds,” Chang says. “They’re near the body, kind of behind the wing. The flamingo thigh is almost perfectly horizontal.”
+All that contributes to biomechanics that might actually require greater muscular effort if not for the flamingo’s ability to “stay” in a pose, which flamingos can get out of easily in flight-or-fight situations.
+Giving robots - and people – stronger legs to stand on
+A one-legged standing test, actually termed a “flamingo test,” is used to diagnose human balance disorders with the help of pressure plates, instruments that measure balance, force, and other data. Humans are usually more than willing to stand on pressure plates. But flamingos? They tend to squawk at things foreign in their environment.
+“The zoo didn’t want us to interact with the adult flamingos because they don’t handle change in their environment very well,” Ting says. But zoo workers could handle juvenile flamingos and placed them near the plates after they were fed, hoping that postprandial sleepiness would yield measurable data.
+The cadaver birds actually provided a eureka moment for Chang. After putting one into the one-legged pose, “I don’t know what made me do it, but I just kind of grabbed the leg and picked it up,” he says. The bird maintained its posture. “Here we have a non-living animal able to stand on one leg. Obviously, if it’s not alive, then the muscles are not activated.”
+Can flamingo biomechanics help treat human movement and balance disorders?
+“If we know how much is passive mechanics and how much the nervous system has to control, it puts researchers in a better position to treat people,” Chang says. Flamingo biomechanics can mean better wearable artificial limbs and longer battery life for stability supports.
+Robots could also benefit. Getting robots to balance can be difficult; sensing the environment and making adjustments is how they currently do it. “But if you design the biomechanics of a robot in the right way, not so much sensing but a sort of feedback control,” Ting says, “then they would have this passive ability, and they would be more robust in uncertain environments.”
+Additional Images
+Contact
+Renay San Miguel
+Communications Officer/Science Writer
+College of Sciences
+404-894-5209
+Email
+renay.san@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,53 @@
+skewing the aim of targeted cancer therapies 
+ the aim of targeted gene-based cancer therapies could be skewed from the start more often than not, a new study shows. 
+ an artist's rendering of cancer cells clustering among healthy cells. credit: istock via rights purchase / not a press handout / not for redistribution outside georgia tech 
+ generic cancer cell illustrations available at istock / getty images. 
+ aug 15, 2017 
+ — atlanta, ga 
+ [note to researchers: mrna-protein level disparities found in metastatic ovarian cancer in more than 60% of measurements across 4,436 genes; evidence of micro rna regulation] 
+ headlines, of late, have touted the successes of targeted gene-based cancer therapies, such as immunotherapies, but, unfortunately, also  their failures . 
+ broad inadequacies in a widespread biological concept that affects cancer research could be significantly deflecting the aim of such targeted drugs,  according to a new study . a team exploring genetic mechanisms in cancer at the georgia institute of technology has found evidence that a prevailing concept about how cells produce protein molecules, particularly when applied to cancer, could be erroneous as much as two-thirds of the time. 
+ prior studies by other researchers have also critiqued this concept about the pathway leading from genetic code to proteins, but this new study,  led by cancer researcher john mcdonald , has employed rare analytical technology to explore it in unparalleled detail. the study also turned up novel evidence for regulating mechanisms that could account for the prevailing concept’s apparent shortcomings. 
+ rna concept incomplete 
+ the concept stems from common knowledge about the assembly line inside cells that produces protein molecules. it starts with code in dna, which is transcribed to messenger rna, then translated into protein molecules, the cell’s building blocks. 
+ that model seems to have left the impression that cellular protein production works analogously to an old-style factory production line: that the amount of a messenger rna encoded by dna on the front end translates directly into the amount of a corresponding protein produced on the back end. that idea is at the core of how gene-based cancer drug developers choose their targets. 
+ to put that assumed congruence between rna production and protein production to the test, the researchers examined -- in ovarian cancer cells donated by a patient -- 4,436 genes, their subsequently transcribed messenger rna, and the resulting proteins. the assumption, that proverbial factory orders passed down the dna-rna line determine in a straightforward manner the amount of a protein being produced, proved incorrect 62 percent of the time. 
+ rna skews drug cues 
+ “the messenger rna-protein connection is important because proteins are usually the targets of  gene-based cancer therapies ,” mcdonald said. “and drug developers typically measure messenger rna levels thinking they will tell them what the protein levels are.” but the significant variations in ratios of messenger rna to protein that the researchers found make the common method of targeting proteins via rna seem much less than optimal. 
+ mcdonald,  mengnan zhang  and ronghu wu published their results  on august 15, 2017 in the journal  scientific reports . the work was funded by the ovarian cancer institute, the deborah nash endowment, atlanta’s northside hospital and the national science foundation. the spectrophotometric technology needed to closely identify a high number of proteins is not widespread and is quite costly but is  available in wu’s lab at georgia tech . 
+ whereas many studies look at normal tissue versus cancerous tissue, this new study focused on cancer progression, or  metastasis, which is what usually makes cancer deadly . the researchers looked at primary tumor tissue and also metastatic tissue. 
+ hiding drug targets 
+ “the idea that any change in rna level in cancerous development flows all the way up to the protein level could be leading to drug targeting errors,” said  mcdonald, who heads georgia tech’s integrated cancer research center . drug developers often look for oddly high messenger rna levels in a cancer then go after what they believe must be the resulting oddly high levels of a corresponding protein. 
+ taking messenger rna as a protein level indicator could actually work some of the time. in the mcdonald team’s latest experiment, in 38 percent of the cases, the rise of rna levels in cancerous cells did indeed reflect a comparable rise of protein levels. but in the rest of cases, they did not. 
+ “so, there are going to be many instances where if you’re predicting what to give therapeutically to a patient based on rna, your prescription could easily be incorrect,” mcdonald said. “drug developers could be aiming at targets that aren’t there and also not shooting for targets that are there.” 
+ rna muted or magnified 
+ the analogy of a factory producing building materials can help illustrate what goes wrong in a cancerous cell, and also help describe the study’s new insights into protein production. to complete the metaphor: the materials produced are used in the construction of the factory’s own building, that is, the cell’s own structures. 
+ in cancer cells, a mutation makes protein production go awry usually not by deforming proteins but by overproducing them. “a lot of mutations in cancer are mutations in production levels. the proteins are being overexpressed,” said mcdonald, who is also a  professor in georgia tech’s school of biological sciences . 
+ a bad factory order can lead to the production of too much of a good material and then force it into the structures of the cell, distorting it. the question is: where in the production line do bad factory orders appear? 
+ according to the new study, the answer is less straightforward than previously thought. 
+ micro rna managing 
+ the orders don’t all appear on the front end of the assembly line with dna over-transcribing messenger rna. additionally, some mutations that do over-transcribe messenger rna on the front end are tamped down or canceled by regulating mechanisms further down the line, and may never end up boosting protein levels on the back end. 
+ regulating mechanisms also appear to be making other messenger rna, transcribed in normal amounts, unexpectedly crank out inordinate levels of proteins. 
+ at the heart of those regulating systems, another rna called micro rna may be micromanaging how much, or little, of a protein is actually produced in the end. 
+ “we have evidence that micro rnas may be responsible for the non-correlation between the proteins and the rna, and that’s completely novel,” mcdonald said. “it’s an emerging area of research.” 
+ micro rna, or  mirna , is an extremely short strand of rna. 
+ no one at fault 
+ mcdonald would like to see tissues from more cancer patients undergo similar testing. “right now, with just one patient, the data is limited, but i also really think it shows that the phenomenon is real,” mcdonald said. 
+ “many past studies have looked at one particular protein and a particular gene, or a particular handful. we looked at more than 4,000,” mcdonald said. “what that brings up is that the phenomenon is probably not isolated but instead genome-wide.” 
+ the study’s authors would also like to see currently less accessible, advanced protein detecting technology become more widely available to biomolecular researchers, especially in the field of cancer drug development. “targeted gene therapy is a good idea, but you need the full knowledge of whether it’s affecting the protein level,” mcdonald said. 
+ he pointed out that no one is at fault for the possible incompleteness of commonly held concepts about protein production. 
+ as science progresses, it naturally illuminates new details, and formerly useful ideas need updating. with the existence of new technologies, it may be time to flesh out this particular concept for the sake of cancer research progress. 
+ also read: punching cancer with rna knuckles – with john mcdonald 
+ the research was supported by grants from the ovarian cancer institute, the deborah nash endowment fund, northside hospital (atlanta), and the national science foundation (che-452 1454501). cancer tissues from ovary and omental sites were collected from a cancer patient at northside hospital with informed consent under georgia institute of technology institutional review board protocols (h14337). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those agencies. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

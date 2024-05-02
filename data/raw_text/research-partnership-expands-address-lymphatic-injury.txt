@@ -1,0 +1,38 @@
+Research Partnership Expands to Address Lymphatic Injury
+Researchers at Georgia Tech are working to understand the lymph system through a partnership with the Global Center for Medical Innovation (GCMI).
+Brandon Dixon, researcher in the School of Mechanical Engineering, with Dr. Zhanna Nepiyushchikh in the lab.
+Jun 17, 2022
+— Atlanta, GA
+Years after cancer surgery, many patients’ lymphatic systems start to fail. They can experience swelling and fluid retention, a condition known as lymphedema that has no cure. But researchers at the Georgia Institute of Technology are working to understand the lymph system through a partnership with the
+Global Center for Medical Innovation (GCMI).
+“We want to know: ‘Why does the lymphatic system fail?’” said
+Brandon Dixon , a professor in the
+School of Mechanical Engineering . “What are some of the mechanisms that drive its failure? We want a basic understanding of the rules that govern lymphatic remodeling.”
+To uncover this basic understanding, Dixon and his fellow mechanical engineering investigators
+Alexander Alexeev
+and
+Zhanna Nepiyushchikh
+are studying the lymph system in sheep. Sheep make ideal candidates as they have limbs that must transport fluid against gravity and these limbs have a consistent architecture of lymphatic vessels. Previously, the researchers had worked with mice and rats, but there are inherent limitations to this.
+“Gravity is a key component of lymphedema, especially in the lower legs or arms, places where the fluid has to travel a long distance against gravity,” he said. “You just can't recapitulate that in a mouse or a rat, so we wanted a large animal model of lymphatic failure.”
+Initially, the researchers partnered with the
+University of Georgia College of Veterinary Medicine
+to study sheep. Their results won a $3 million National Institutes of Health (NIH) grant for the next four years to build a computational model and framework to understand lymphatic growth and adaptation after injury.
+Part of the grant was moving the research from Athens to Atlanta by partnering with GCMI.
+“The challenge of the large animal work is it's very expensive, and we could not have done this project without both NIH support and in-kind contributions from GCMI which were made available through support from the Office of the Executive Vice President for Research,” said Dixon, who is also a researcher in the
+Petit Institute for Bioengineering and Bioscience . “GCMI has really created a unique environment that's allowed us to do this work here.”
+Studying the System
+To conduct the research, the team surgically dissects a section of lymphatic vessel but leaves all the remaining vasculature intact to determine how the remaining lymphatic vessels compensate for this loss of lymphatic vessels over time. As a point of comparison the researchers use the other limb, which does not receive an injury to its lymphatics, as a control, and then employ
+in vivo
+near-infrared lymphatic imaging (indirect visual imaging that utilizes specialized tracers taken up by the lymphatic system) to determine how the vessels adapt over time.
+From here, they develop computational models to understand how the structural changes in the lymphatic vessels alter their ability to pump fluid. Although it’s a biological system, the mechanics plays a very important role in the understanding of its function, according to Alexeev.
+“In contrast to the circulatory system where we have a centralized pump, or the heart, that pumps the fluid and drives the flow, in lymphatics we have a distributed system of pumps that contract periodically, and there are also numerous elastic valves that open and close to create a unidirectional lymph flow,” he said.
+The modeling of a lymphatic system presents an extra challenge because the researchers need to consider how the fluid flow interacts with elastic valves and contracting vessel walls. Yet an advantage of computational modeling is that it provides detailed insights into how the system should work and helps to rationalize the observations from the sheep studies.
+“The problem we are addressing is the gap in understanding what triggers lymphatics to fail and why one patient develops lymphedema while another does not,” said Nepiyushchikh. “It is very exciting to work with a team where everybody brings a high level of expertise and experience towards understanding such a complex disease as lymphedema. It will be tremendous for the lymphedema field to be able to predict lymphatic failure and find the best preventative options, as well as narrow the treatment possibilities in already existing conditions.”
+Additional Images
+Contact
+Tess Malone
+Email
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

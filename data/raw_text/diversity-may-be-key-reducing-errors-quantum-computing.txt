@@ -1,0 +1,45 @@
+Diversity May Be Key to Reducing Errors in Quantum Computing
+In quantum computing, as in team building, a little diversity can help get the job done better, computer scientists have found.
+In quantum computing, as in team building, a little diversity can help get the job done better, computer scientists have discovered. A new technique, known as Ensemble of Diverse Mappings, depends on using different qubits to create diversity in errors to mitigate the errors.
+Oct 14, 2019
+— Atlanta, GA
+In quantum computing, as in team building, a little diversity can help get the job done better, computer scientists have discovered.
+Unlike conventional computers, the processing in quantum-based machines is noisy, which produces error rates dramatically higher than those of silicon-based computers. So quantum operations are repeated thousands of times to make the correct answer stands out statistically from all the wrong ones.
+But running the same operation over and over again on the same qubit set may just generate the same incorrect answers that can appear statistically to be the correct answer. The solution, according to researchers at the Georgia institute of Technology, is to repeat the operation on different qubit sets that have different error signatures – and therefore won’t produce the same correlated errors.
+“The idea here is to generate a diversity of errors so you are not seeing the same error again and again,” said
+Moinuddin Qureshi,
+a professor in Georgia Tech’s
+School of Electrical and Computer Engineering , who worked out the technique with his senior Ph.D. student, Swamit Tannu. “Different qubits tend to have different error signatures. When you combine the results from diverse sets, the right answer appears even though each of them individually did not get the right answer,” said Tannu.
+Tannu compares the technique, known as Ensemble of Diverse Mappings (EDM), to the game show Who Wants to be a Millionaire. Contestants who aren’t sure of the answer to a multiple choice question can ask the studio audience for help.
+“It’s not necessary that the majority of the people in the audience know the right answer,” Qureshi said. “If even 20% know it, you can identify it. If the answers go equally in the four buckets from the people who don’t know, the right answer will get 40% and you can select it even if only a relatively small number of people get it right.”
+Experiments with an existing Noisy Intermediate Scale Quantum (NISQ) computer showed that EDM improves the inference quality by 2.3 times compared to state-of-the-art mapping algorithms. By combining the output probability distributions of the diverse ensemble, EDM amplifies the correct answer by suppressing the incorrect ones.
+The EDM technique, Tannu admits, is counterintuitive. Qubits can be ranked according to their error rate on specific types of problems, and the most logical course of action might be to use the set that’s most accurate. But even the best qubits produce errors, and those errors are likely to be the same when the operation is done thousands of times.
+Choosing qubits with different error rates – and therefore different types of error – guards against that by ensuring that the one correct answer will rise above the diversity of errors.
+“The goal of the research is to create several different versions of the program, each of which can make a mistake, but they will not make identical mistakes,” Tannu explained. “As long as they make diverse mistakes, when you average things out, the mistakes get canceled out and the right answer emerges.”
+Qureshi compares the EDM technique to team-building techniques promoted by human resource consultants.
+“If you form a team of experts with identical backgrounds, all of them may have the same blind spot,” he said, adding a human dimension. “If you want to make a team resilient to blind spots, collect a group of people who have different blind spots. As a whole, the team will be guarded against specific blind spots.”
+Error rates in conventional silicon-based computers are practically negligible, about one in a thousand-trillion operations, but today’s NISQ quantum computers produce an error in a mere 100 operations.
+“These are really early-stage machines in which the devices have a lot of error,” Qureshi said. “That will likely improve over time, but because we are dependent on matter that has extremely low energy and lacks stability, we will never get the reliability we have come to expect with silicon. Quantum states are inherently about a single particle, but with silicon you are packing a lot of molecules together and averaging their activity.
+“If the hardware is inherently unreliable, we have to write software to make the most of it,” he said. “We have to take the hardware characteristics into account to make these unique machines useful.”
+The notion of running a quantum operation thousands of times to get what’s likely to be the right answer at first seems counterproductive. But quantum computing is so much faster than conventional computing that nobody would object to doing a few thousand duplicate runs.
+“The objective with quantum computers is not to take a current program and run it faster,” Qureshi said. “Using quantum, we can solve problems that are virtually impossible to solve with even the fastest supercomputers. With several hundred qubits, which is beyond the current state of the art, we could solve problems that would take a thousand years with the fastest supercomputer.”
+Added Qureshi: “You don’t mind doing the computation a few thousand times to get an answer like that.”
+The quantum error mitigation scheme is scheduled to be presented on Oct. 14 at the 52nd Annual IEEE/ACM International Symposium on Microarchitecture. The work was supported by a gift from Microsoft.
+CITATION : Swamit S. Tannu and Moinuddin Qureshi, “Ensemble of Diverse Mappings: Improving Reliability of Quantum Computers by Orchestrating Dissimilar Mistakes.” (MICRO-52).
+https://dx.doi.org/10.1145/3352460.3358257
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Assistance : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,49 @@
+smartphone apps may connect to vulnerable backend cloud servers 
+ cybersecurity researchers have discovered vulnerabilities in the backend systems that feed content and advertising to smartphone applications. 
+ a portion of the four-phase process used by skywalker to vet backend systems that support mobile apps. 
+ aug 12, 2019 
+ — atlanta, ga 
+ cybersecurity researchers have discovered vulnerabilities in the backend systems that feed content and advertising to smartphone applications through a network of cloud-based servers that most users probably don’t even know exists. 
+ in research to be reported august 15 at the 2019 usenix security symposium, researchers from the georgia institute of technology and the ohio state university identified more than 1,600 vulnerabilities in the support ecosystem behind the top 5,000 free apps available in the google play store. the vulnerabilities, affecting multiple app categories, could allow hackers to break into databases that include personal information – and perhaps into users’ mobile devices. 
+ to help developers improve the security of their mobile apps, the researchers have created an automated system called skywalker to vet the cloud servers and software library systems. skywalker can examine the security of the servers supporting mobile applications, which are often operated by cloud hosting services rather than individual app developers. 
+ “a lot of people might be surprised to learn that their phone apps are communicating with not just one, but likely tens or even hundreds of servers in the cloud,” said 
+ brendan saltaformaggio, 
+ an assistant professor in georgia tech’s 
+ school of electrical and computer engineering . “users don’t know they are communicating with these servers because only the apps interact with them and they do so in the background. until now, that has been a blind spot where nobody was looking for vulnerabilities.” 
+ the air force office of scientific research and the national science foundation supported the research. 
+ in their study, the researchers discovered 983 instances of known vulnerabilities and another 655 instances of zero-day vulnerabilities spanning across the software layers – operating systems, software services, communications modules and web apps – of the cloud-based systems supporting the apps. the researchers are still investigating whether attackers could get into individual mobile devices connected to vulnerable servers. 
+ “these vulnerabilities affect the servers that are in the cloud, and once an attacker gets on the server, there are many ways they can attack,” saltaformaggio said. “it’s a whole new question whether or not they can jump from the server to a user’s device, but our preliminary research on that is very concerning.” 
+ the researchers identified three types of attack that could be made on the backend servers: sql injection, xml external entity and cross-site scripting, explained omar alrawi, a georgia tech graduate research assistant and co-first author with chaoshun zuo at ohio state. by taking control of these machines in the cloud, attackers could gain access to personal data, delete or alter information or even redirect financial transactions to deposit funds in their own accounts. 
+ to study the system, alrawi and zuo ran applications in a controlled environment on a mobile device that connected to backend servers. they then watched the communications between the device and servers, and repeated the process for all of the applications studied. 
+ “we found that a lot of applications don’t encrypt the communications between the mobile app and the cloud service, so an attacker that is between the two points or on the same network as the mobile could get information about the user – their location and user name – and potentially execute password resets,” alrawi said. 
+ the vulnerabilities were not easy to spot. “you have to understand the context through which the app communicates with the cloud server,” he said. “these are very deep bugs that cannot be identified by simply scanning and using traditional tools that are used for web application security.” 
+ the operators of vulnerable systems were notified of the findings. concerns about who is responsible for securing those backend servers is one of the issues to come out of the study. 
+ “it’s actually a significant problem because of how many different software developers may have their hands in building these cloud servers,” saltaformaggio said. “it’s not always clear who is responsible for doing the patching and who is responsible for the vulnerabilities. it’s tough to track down these vulnerabilities, but it’s also tough to get them patched.” 
+ to save app developers from having to do the security research they did, the researchers are offering skywalker, an analysis pipeline to study mobile backends. developers will be able to submit their apps to skywalker at 
+ https: / / mobilebackend.vet 
+ and get a report on what it finds. 
+ “skywalker will watch how the application communicates with those cloud servers, and then it will try to communicate with the servers to find vulnerabilities,” said alrawi. “this information can give an app developer a heads-up about potential problems before they make their application public.” 
+ the researchers studied only applications in the google play store. but applications designed for ios may share the same backend systems. 
+ “these servers provide backend services for mobile apps that any device could use,” alrawi said. “these cloud services are essential components of modern mobile apps. they are part of the always-connected world.” 
+ for the future, the researchers hope to study how the vulnerabilities could affect smartphone users, and to check on whether the problems they identified have been addressed. 
+ “we are going to keep doing these sorts of studies and will revisit them later to see how the attack landscape has improved,” said saltaformaggio. “we will keep looking for more blind spots that need to be studied. in the new world of smartphones and mobile applications, there are unique problems that need to be rooted out.” 
+ in addition to those already mentioned, the research team included ruian duan and ranjita pai kasturi from georgia tech and zhiqiang lin from ohio state. 
+ this work was partially supported by the air force office of scientific research (afosr) under grant fa9550-14-1-0119 and by national science foundation (nsf) awards 1834215 and 1834216. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations. 
+ citation : omar alrawi, chaoshun zuo, ruian duan, ranjita pai kasturi, zhiqiang lin and brendan saltaformaggio, “the betrayal at cloud city: an empirical analysis of cloud-based mobile backends,” 2019 usenix security symposium. 
+ https: / / www.usenix.org / conference / usenixsecurity19 / presentation / alrawi 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,25 @@
+SGA IT Board Creates Student-Focused Solutions
+Members of the Student Government Association’s IT Board help students improve their digital experience and receive on-the-job training to jump-start their careers.
+Tyler Katchen, the outgoing SGA joint vice president of IT, works on his laptop on Tech Green.
+Apr 19, 2024
+In a competitive industry like information technology (IT), real-world experience can make all the difference as students prepare for jobs after Commencement.
+The Student Government Association's IT Board
+allows students to enhance their skills while creating solutions that benefit the Georgia Tech community.
+Made up of software engineers, product managers, and UI (user interface) designers, the board assists campus partners with constructing and maintaining the Institute's technology infrastructure. Projects overseen by the board, including student-focused sites such as
+Course Critique , are run through the Institute's AWS and Plesk platforms, mirroring industry trends.
+“The IT Board creates helpful products for students, but it also helps our members by giving them the tools to work within this professional setting. With so many companies using cloud-based systems, our students are getting hands-on experience with these tools, so they already have that on their resumé and are set up to find jobs when they leave Georgia Tech," said Tyler Katchen, the outgoing SGA joint vice president of IT (JVPIT).
+The board is responsible for tweaking existing sites, but its members are always seeking innovative ways to improve the student experience. The board is close to completing an app that enhances the career fair queueing process by allowing students to secure their place in line to speak with major industry players. By simplifying this process, the board hopes that attendees can spend less time waiting and more time speaking with prospective employers.
+Much of the IT Board's work is done behind the scenes, but Katchen and his team aren't in search of the spotlight.
+“When people see an app we develop, they may not realize how much work goes into it, but we feel the impact in other ways. The projects that are well received by students are ones where they maybe don't recognize the product; they just see themselves using it,” he said. For him, the reward is “seeing it all come together. A lot of it is just taking pride in your work.”
+Since the formulation of the JVPIT role — serving both undergraduate and graduate SGA — in 2020, the board has continued to expand membership and take on larger tasks, including rebuilding the Course Critique site, which originated in 1976 as a tool to help students plan their schedules. Looking ahead, Katchen identified improvements to security measures in GitHub, as well as streamlining surveying efforts for student organizations, as some of the board’s top priorities.
+The third-year computer science student recently handed over a 28-page transition document to his successor, outlining the status of current projects and day-to-day responsibilities. While he enjoyed his time at the helm, Katchen is ready to return to the keyboard.
+"I'm a computer science nerd through and through," he said. "So, I'm ready to put my head down and code."
+Additional Media
+Contact
+Steven Gagliano
+- Institute Communications
+Email
+Steven.gagliano@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

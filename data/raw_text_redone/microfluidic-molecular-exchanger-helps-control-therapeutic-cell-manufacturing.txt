@@ -1,0 +1,43 @@
+microfluidic molecular exchanger helps control therapeutic cell manufacturing 
+ researchers have demonstrated an integrated technique for monitoring specific biomolecules. 
+ close-up image shows the dynamic mass spectrometry probe developed to monitor the health of living cell cultures. (credit: rob felt, georgia tech) 
+ oct 10, 2018 
+ — atlanta, ga 
+ researchers have demonstrated an integrated technique for monitoring specific biomolecules – such as growth factors – that could indicate the health of living cell cultures produced for the burgeoning field of cell-based therapeutics. 
+ using microfluidic technology to advance the preparation of samples from the chemically complex bioreactor environment, the researchers have harnessed electrospray ionization mass spectrometry (esi-ms) to provide online monitoring that they believe will provide for therapeutic cell production the kind of precision quality control that has revolutionized other manufacturing processes. 
+ “the way that the production of cell therapeutics is done today is very much an art,” said 
+ andrei fedorov , woodruff professor in the 
+ george w. woodruff school of mechanical engineering 
+ at the georgia institute of technology. “process control must evolve very quickly to support the therapeutic applications that are emerging from bench science today. we think this technology will help us reach the goal of making these exciting cell-based therapies widely available.” 
+ by measuring very low concentrations of specific compounds secreted or excreted by cells, the technique could also help identify which biomolecules – of widely varying sizes – should be monitored to guide the control of cell health. ultimately, the researchers hope to integrate their label-free monitoring directly into high-volume bioreactors that will produce cells in quantities large enough to make the new therapies available at a reasonable cost and consistent quality. 
+ development of the dynamic mass spectrometry probe (dmsp) was supported by the national science foundation (nsf) engineering research center for cell manufacturing technologies (cmat), which is headquartered at georgia tech. the work was reported september 10 in the journal 
+ biotechnology and bioengineering . 
+ traditional esi-ms techniques have revolutionized analytical chemistry by allowing precise identification of complex biological compounds. because of complex sample preparation requirements, existing approaches to esi-ms require too much time to be useful for continuous monitoring of cell growth in bioreactors, where maintaining narrow parameters for specific indicators of cellular health is critical. biological samples also contain salts, which must be removed before introduction into the esi-ms system. 
+ to accelerate the analytical process, fedorov and a team that included graduate research assistant mason chilmonczyk and research engineer peter kottke used microfluidic technology to help separate compounds of interest from the salts. salt removal uses a monolithic device in which a size-selective membrane with nanoscale pores is placed between two fluid flows, one the chemically complex sample drawn from the bioreactors and the other salt-free water with conditioning compounds. 
+ the smaller salt molecules readily diffuse out of the sampled bioreactor flow through the nanopores, while the larger biomolecules mostly remain for the subsequent esi-ms analysis. meanwhile, chemical additives are at the same time introduced into the sample mixture through the same membrane nanopores to enhance ionization of the target biomolecules in the sampled mixture for improved esi-ms analysis. 
+ “we have used advanced microfabrication techniques to create a microfluidic device that will be able to treat samples in less than a minute,” said chilmonczyk. “traditional sample preparation can require hours to days.” 
+ the process can currently remove as much as 99 percent of the salt, while retaining 80 percent of the biomolecules. introduction of the conditioning chemicals allows the molecules to accept a greater charge, improving the capability of the mass spectrometer to detect low concentration biomolecules, and to measure large molecules. 
+ “we can detect really high molecular weight molecules that the mass spectrometer normally wouldn’t be able to detect,” fedorov said. “the size difference in the molecules of interest can be dramatic, so the improvement in the limit of detection across a broad range of analyte molecular weights will allow this technique to be more useful in cell manufacturing.” 
+ because they use state of the art microfabrication techniques, the dmsp devices can be mass produced, allowing sampling to be scaled up to include multiple bioreactors at low cost. the small size of the device channels – which are just five microns tall – allows the system to produce results with samples as small as 20 nanoliters – with the potential for reducing that to as little as a single nanoliter. 
+ “we need to monitor small concentrations of large biomolecules in this messy environment in a production line in such a way that we can check at any point how the cells are doing,” fedorov said. “this system could continuously monitor whether certain molecules are excreted or secreted at a reduced or increased rate. by correlating these measurements with cell health and potency, we could improve the manufacturing process.” 
+ before the analytical techniques can be applied to quality control, the researchers must first identify biomolecules that indicate health of the growing cells. by sampling the bioreactor content locally in the immediate vicinity of cells and allowing identification of very small quantities of biochemicals, the dmsp technology can help researchers identify changes in molecular concentrations – which range from pico-molar to micro-molar – that may indicate the state of cells in the bioreactors. this would prompt adjustment of conditions in a bioreactor just in time to return to the state of healthy cell growth. 
+ “in this situation, we often can’t see the trees for the forest,” said fedorov. “there is a lot of material available, but we are looking for just a handful of individual trees that indicate the health of the cells. because the forest is overgrown, the few selected trees we need to examine are hard to find. this is a grand challenge technologically.” 
+ the research team also included research scientist hazel stevens and professor robert guldberg, who is now at the university of oregon. 
+ citation : mason a. chilmonczyk, peter a. kottke, hazel y. stevens, robert e. guldberg and andrei g. fedorov, “dynamic mass spectrometry probe (dmsp) for esi?ms monitoring of bioreactors for therapeutic cell manufacturing,” (biotechnology and bioengineering, 2018). 
+ https: / / dx.doi.org / 10.1002 / bit.26832 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

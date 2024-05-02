@@ -1,0 +1,54 @@
+'Demolition Handshakes' Kill Precursor T Cells that Pose Autoimmune Dangers
+A mechanism tries to stop our T cells from causing autoimmune disorders, and it's like a tight handshake that kills overly aggressive T cells.
+A healthy human T cell. Credit: National Institute of Allergy and Infectious Disease / National Institutes of Health
+Nov 12, 2018
+— Atlanta, GA
+A person reaches out for a handshake; the other person takes their hand with two hands and tugs then dies as a consequence. That’s a rough description of newly discovered cellular mechanisms that eliminate
+T cells
+that may cause autoimmune disorders.
+Although the mechanisms are intertwined with biochemical processes, they also work mechanically, grasping, tugging and clamping, say researchers at the Georgia Institute of Technology, who, for a
+new study in the journal  Nature Immunology , measured responses to physical force acting upon these elimination mechanisms.
+The mechanisms’ purpose is to make dangerously aggressive developing immune cells called thymocytes destroy themselves to keep them from attacking the body, while sparing healthy thymocytes as they mature into T cells. Understanding these selection mechanisms, which ensure T cells aggressively pursue hordes of infectors and cancers but not damage healthy human tissue, could someday lead to new immune-regulating therapies.
+Two-handed handshake
+Usually, researchers pursue such mechanisms using chemistry experiments, but Georgia Tech’s Cheng Zhu, who led the study, makes atypical discoveries via physical experiments to observe effects of forces between key proteins in living cells.
+“Experiments where the proteins are isolated and used in chemical reactions  in vitro  miss this force dynamic,” said Zhu, a  Regents Professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University . “Before our work, force was not considered as a factor in  thymocyte  selection and now it is.”
+In this study, they discovered a loop of physical signals resembling a double-handed handshake that encourages cell apoptosis. It is described in more detail below.
+The medical significance of this field of research was highlighted by the  2018 Nobel Prize in medicine , which was awarded to other researchers at other institutions, James Allison of MD Anderson Cancer Center and Tasuku Honjo of Kyoto University. Allison and Honjo received the prize for their cancer therapies exploiting T cell regulating mechanisms intertwined with those that the Georgia Tech researchers study.
+Georgia Tech's Zhu and first authors Jinsung Hong and Chenghao Ge published their new research paper on November 12, 2018. The research was funded by the National Cancer Institute, the National Institute of Allergy and Infectious Diseases, and the National Institute of Neurological Disorders and Stroke. The agencies are part of the National Institutes of Health.
+Thymocyte selection gauntlet
+Like blood cells, human thymocytes are born in bone marrow, but they travel to the thymus, a small organ just below the neck, where they run a gauntlet of selection tests. Failing any one selection means cell self-destruction; passing all selections promotes thymocytes to T cells that depart the thymus to battle our bodies’ foes.
+One selection checks T cell receptors (TCR), which are on the thymocyte’s membrane, to ensure they are properly formed then to see if they recognize self-antigens, i.e. molecules that identify the body’s own cells. Then another selection, called negative selection, tests TCRs to make sure they don’t react too aggressively to self-antigens.
+Cells that pass these checks then have TCRs that tolerate self- yet react to enemy antigens.
+“You don’t want the cells with strongly grabbing receptor sites to turn against the body itself,” said Zhu, whose study focused on negative selection.
+Self-antigen grip
+In negative selection, other cells extend self-antigens on their membrane to interact with the thymocytes’ T cell receptors. Those interactions seal the thymocytes’ fate: advance or die.
+Studying forces in those interactions revealed a new signaling loop with mechanical properties analogous to a two-handed grip and tug by the thymocyte.
+The first hand would be the T cell receptor itself, and the other cell presenting the self-antigen would be like someone else’s hand holding a special ball out to the T cell’s first hand. The handshake begins as the self-antigen gives a signal to the T cell receptor.
+If the TCR reacts too strongly to the self-antigen, the thymocyte adds the second, assisting hand, which comes in from the side to make a two-handed handshake. The additional hand is a lever called CD8 (cluster of differentiation 8), which connects to key mechanisms inside the thymocyte and is considered part of the TCR site.
+Demolition handshakes
+For about two weeks in the thymus, multiple T cell receptor sites engage in one- or two-handed handshakes, which send signals into the thymocyte that make it either mature into a T cell or begin the process of programmed cell death.
+The researchers found that the two-handedness markedly resisted the force applied to break the grip between the T cell receptor and the self-antigen, thus prolonging the duration of the handshake. A long grip sent signals for the thymocyte to die.
+“That’s the study’s elegant finding,” Zhu said. “That the force is significant for the selection to work.”
+New signaling loop
+The researchers also made the novel discovery that CD8’s handshake participation constitutes a signal coming from inside the thymocyte back out to the self-antigen in answer to its initial signal.
+“The inside-out return signal had not yet been reported for this T cell receptor,” Zhu said.
+Together, the outside-in and inside-out signals create a feedback loop that perpetuates the handshake:
+Self-antigen touches receptor.
+Receptor fires signal into cell and interacts with self-antigen too aggressively.
+Inside cell membrane, signal pulls CD8 closer.
+Outside cell membrane, CD8 strengthens handshake.
+When the self-antigen slips a bit, the double-handed grip can coax it back into the receptor, kicking off another signal, restarting the signaling cycle again and again.
+Many feedback loops increase likelihood of programmed cell death.
+Like this article?  Subscribe to our email newsletter
+Also READ:   Remote-Control Shoots Laser at Nano-Gold to Turn on Cancer-Killing T Cells
+Coauthors on the study were: Prithiviraj Jothikumar, Zhou Yuan, Baoyu Liu, Ke Bai, Kaitao Li, William Rittase, all of Georgia Tech at the time of the research; Miho Shinzawa and Alfred Singer of the National Cancer Institute at the National Institutes of Health; Brian Evavold, Khalid Salaita and Yun Zhang of Emory University; Amy Palin and Paul Love of the NIH Eunice Kennedy Shriver National Institute of Child Health and Development; and Xinhua Yu of University of Memphis. The research was funded by the National Cancer Institute (NCI) (grant CA214354), the National Institute of Allergy and Infectious Diseases (NIAID) (grants AI124680, AI096879), the National Institute of Neurological Disorders and Stroke (NINDS) (grant NS071518). The funders belong to the National Institutes of Health. Hong and Bai now research at NIAID; Liu and Evavold now research at the University of Utah. Zhu is also in Georgia Tech’s George W. Woodruff School of Mechanical Engineering and in Georgia Tech’s Petit Institute for Bioengineering and Bioscience. Any findings, opinions or recommendations are those of the authors and not necessarily of the funding agencies
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media relations assistance : Ben Brumfield (404) 660-1408, ben.brumfield@comm.gatech.edu
+Writer:  Ben Brumfield
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

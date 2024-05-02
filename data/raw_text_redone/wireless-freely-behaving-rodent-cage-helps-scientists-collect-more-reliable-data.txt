@@ -1,0 +1,33 @@
+wireless, freely behaving rodent cage helps scientists collect more reliable data 
+ enercage wirelessly powers electronic devices and sensors traditionally used during rodent research experiments, without interconnect wires or batteries. 
+ a toy rat inside the enercage system. 
+ sep 28, 2016 
+ — atlanta, ga 
+ instead of building a better mouse trap, georgia institute of technology researchers have built a better mouse cage. they’ve created a system called enercage (energized cage) for scientific experiments on awake, freely behaving small animals. it wirelessly powers electronic devices and sensors traditionally used during rodent research experiments, but without the use of interconnect wires or bulky batteries. their goal is to create as natural an environment within the cage as possible for mice and rats in order for scientists to obtain consistent and reliable results. the enercage system also uses microsoft’s kinect video game technology to track the animals and recognize their activities, automating a process that typically requires researchers to stand and directly observe the rodents or watch countless hours of recorded footage to determine how they react to experiments. 
+ the wirelessly energized cage system was presented this month at the 
+ international conference of the ieee engineering in medicine and biology society 
+ (embc) in orlando, florida. 
+ the georgia tech enercage is wrapped with carefully oriented strips of copper foils that can inductively power the cage and the electronics implanted in, or attached to, one or more animal subjects inside the cage. the system can run indefinitely and collect data without human intervention because of wireless communication and power transmission. 
+ “it’s always better to keep an animal in its natural settings with minimum burden or stress to improve the quality of an experiment,” said maysam ghovanloo, an associate professor in the school of electrical and computer engineering, who developed the enercage. “anything that is abnormal or unnatural may bias the experiment, no matter what experiment in any field. that includes grabbing the animal to attach or detach wires, change batteries or transferring it from one cage to another.” 
+ ghovanloo uses four resonating copper coils to create a homogenous magnetic field inside the cage. the built-in closed loop power control mechanism supplies enough power to compensate for all freely behaving animal subject activities, whether they’re standing up, crouching down, or walking around the cage. the small headstage for the animal is also wrapped with resonators to deliver power to a receiver coil. 
+ the kinect is suspended about three feet above the cage. it has a high-definition camera, an infrared depth camera, and four microphones to record and analyze the animal behavior. it can capture both a two-dimensional high-resolution image of a rat’s location and a three-dimensional image that would identify its body posture. 
+ “we’re building computer algorithms to determine if the animal is standing, sitting, sleeping, grooming, eating, drinking or doing nothing,” said ghovanloo. “we’re hoping to reduce the expensive costs of new drug and medical device development by allowing machines to do mundane, repetitive tasks now assigned to humans.” 
+ the georgia tech team is working in partnership with emory university, hoping to impact the clinical efficacy of deep brain stimulation (dbs). a growing number of clinical trials are using dbs to treat disorders of the central nervous system, such as parkinson’s disease, depression and obsessive compulsive disorder. the cellular mechanisms that contribute to the clinical efficacy of dbs remain largely unknown, however. 
+ emory’s donald (tig) rainnie and his research team use freely moving rodent models to examine the effects of dbs on neural circuits thought to be disrupted in depression. they have tested the enercage system. 
+ “the requirement to use a tethered headstage to record neural data and apply the dbs has hindered progress in this field,” said rainnie, a researcher at emory’s yerkes national primate research center and professor in the department of psychiatry and behavioral science. “we provided critical feedback, via beta testing of the enercage system, on how to maximize the utility of the system for different behavioral applications. we found a key advantage of the enercage system is that it will allow researchers to conduct chronic dbs and track associated behavioral changes for days, if not weeks, without disturbing the test animals.” 
+ until now, rainnie says, that hasn’t been possible, and it is key to understanding the long-term benefits of dbs in patients. 
+ the next steps at georgia tech are designing enercage-compatible implants, such as one for delivering drugs, and expanding the system to a network of dozens of cages that can collect data from multiple animals at the same time. 
+ the conference paper, “a wirelessly powered homecage with animal behavior analysis and closed-loop power control,” is co-authored by yaoyao jia, zheyuan wang, daniel canales, morgan tinkler, chia-chun hsu, teresa e. madsen and s. abdollah mirbozorgi. 
+ the work is supported in part by the national science foundation (eccs-1407880 and eccs-1408318) and the national institute of health’s national institute of biomedical imaging bioengineering (1r21eb018561). 
+ any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ additional images 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

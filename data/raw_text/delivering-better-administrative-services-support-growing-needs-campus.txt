@@ -1,0 +1,58 @@
+Delivering Better Administrative Services to Support the Growing Needs of Campus
+The Administrative Services Center is eight months into its journey to improve the delivery of administrative services to the Georgia Tech community.
+In addition to hiring transactions, the ASC has welcomed 4,991 employees through its doors to assist with completing the final stages of the onboarding process onsite which includes I-9 completion for 4,696 employees and generating more than 731 BuzzCards.&nbsp;
+In addition, the ASC has managed customer inquiries totaling more than 6,600 phone calls and 6,766 general help tickets.
+Jun 06, 2023
+Since the Administrative Services Center (ASC) began operating last fall as Georgia Tech’s first administrative shared services center, the ASC team has focused much of their resources on shifting transactional, human resources-related activities, like direct hiring, to a shared services model while improving processes and procedures related to the overall hiring process. This summer, they will continue to refine and support HR-related transactions while integrating additional administrative support teams from the Office of Information Technology (OIT) and the Georgia Tech Research Institute (GTRI) into their service portfolio.
+“The Institute is growing, and we need to change the way we deliver administrative services to better support the evolving needs of our students, faculty, researchers, and staff,” said Ira Bragg, ASC executive director. “Our mission is to make high-volume, routine administrative transactions less complicated and easier to accomplish with fewer headaches. We are currently working with central functional units to identify, transition, and enhance the types of activities that will ease the administrative burden and generate a significant benefit for the community at large.”
+A Focused Approach to Service Improvements
+To date, the ASC has had several successes as the team works toward improving the hiring experience for hiring managers, HR Partners (HR Business Partners and HR Directors), and candidates.
+For example, the majority of student hiring is done through the Direct Hire eRequest Form, which digitizes the process of capturing and routing the information needed to process direct hire requests in a more accurate, complete, and timely manner. In addition, the ASC introduced the real-time Direct Hire Reporting Tool, which helps reduce the guesswork and alleviate the administrative burden associated with tracking and troubleshooting candidates throughout the hiring process. Together, these improvements are helping to reduce the time to process a direct hire from an average of 15.8 days to 10.4 days — a 34% improvement.
+The ASC also processes all Manager Self-Service (MSS) transactions submitted via OneUSG Connect. The transactions, which span the employee life cycle, range from name changes to retirements. Even with a reported 12% increase in MSS transactions for the first quarter of 2023, the ASC reported a 34% reduction in denied transactions. Bragg attributes this success to a “try before you deny” approach supported by increased tracking and analytics to better understand the cases flowing through OneUSG Connect, as well as enhanced training for the ASC teams involved in hiring. As with direct hires, the ASC is seeing notable improvements in the hiring cycle time for MSS transactions, from 4.2 to 2.5 days — a 41% improvement.
+Additionally, the ASC customer service team is improving its ability to resolve customer inquiries on first contact. At launch, the team was able to successfully resolve 45% of incoming inquiries
+without needing to take the matter to a higher level of support . Today, the team is resolving 66% of incoming inquiries and aims to reach 85% — the industry standard — by year end.
+In addition to making tangible service improvements, the ASC has also been streamlining content articles in Service-Now that are designed to address commonly asked questions and provide a better self-service experience. The ASC team has collaborated with central functional units, like GTHR, to review more than 1,500 articles and is on track to reduce the number of articles to approximately 700 by July, through updates, consolidation, and removal of duplicate content. The articles are now role-based, which helps ensure users are finding information that is most relevant to their job responsibilities.
+More Services and Enhancements Coming This Summer
+Looking ahead, the ASC will welcome several new teams into its portfolio and continue to position itself as the one-stop shop for other high-volume, routine administrative services and assist in retooling resources for an improved user experience.
+Beginning this fiscal year, several services in OIT will be transitioning to the ASC. This includes teams from Audio Visual, the Enterprise Service Desk, and Directory Services. The ASC team will also be collaborating with central functional units to define a clear scope of finance and research administrative functions that could be improved by a shared-services model.
+GTRI’s recruiting team will also be integrated into the ASC in alignment with Tech’s overarching
+people-focused strategy to provide consistent HR services that support growth across all areas of the Institute — including GTRI.
+In further support of this strategy, the ASC will also continue supporting GTHR in improving policies, procedures, and tools to provide greater efficiencies and transparency.
+Pay Equity Report Tool : Provide HR Partners and compensation teams with access to internal faculty and staff pay data and external candidate data for improved transparency and faster decision-making.
+Compensation Policies : Update select Georgia Tech compensation policies to enable greater flexibility (i.e., removing approval steps) while aligning with the University System of Georgia’s requirements.
+Compensation Intake Form : Deploy an online Compensation Intake Form, which will make submitting inquiries to the GTHR compensation team more accurate and efficient.
+Performance Management @Tech : Add the Probationary Period Evaluation to the Performance Management @Tech online tool for staff, with self-evaluation and annual performance evaluations planned for fall.
+Employee Records:
+Digitize the process of accessing employee files through ServiceNow requests.
+Hiring and Hosting Eligibility Determination eForms:
+Streamline the
+processing of hiring and hosting foreign national employees and affiliates.
+In eight months of operation, the ASC is seeing tangible results from its efforts. Bragg added that while these initial improvements are targeted to select campus audiences, their ripple effect, and future administrative service improvements, will have a positive impact on the entire Georgia Tech community.
+You are invited to explore the ASC at
+asc.gatech.edu .
+Additional Images
+Contact
+Rachael Pocklington
+Institute Communications
+Email
+rpocklington@gatech.edu
+Additional information
+An Example of Administrative Excellence
+The ASC is one of many outcomes of the much broader Administrative Excellence initiative,
+AdminX , that was envisioned nearly three years ago to rethink and retool how administrative services are
+performed across centralized functions and campus units. The overarching goal of AdminX is to enable students, faculty, and staff to maintain a focus on the core instructional, research, and service mission by reducing administrative burden with more effective and efficient administrative structures, processes, and systems.
+In support of Administrative Excellence, the ASC is guided by the following tenets:
+Customer Satisfaction
+–
+ASC will continuously improve administrative services to achieve higher customer satisfaction.
+Data-Informed Decisions
+–
+Institute-level data will be more accurate, accessible, and organized for effective use in decision-making.
+Administrative Staff Benefits
+– Administrative staff will gain a greater depth of expertise, a more balanced workload, and options for career growth and development.
+Efficient and Effective Processes
+–
+The Institute will have common, consistent, efficiently designed standard processes that also improve compliance and mitigate risk.
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

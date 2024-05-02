@@ -1,0 +1,32 @@
+Robot Gives Out Candy on Halloween
+A robot gave out candy at the home of an assistant professor.
+Wearing a mask, cape and hat, Sawyer the robot gives out candy on Halloween.
+Nov 01, 2017
+— Atlanta, GA
+Last Halloween, Sonia Chernova hardly left her doorstep in Decatur, Georgia, handing out candy to a constant stream of kids.
+This year, she put an autonomous robot on the porch to do it for her. It gave out 1,000 pieces in three hours to hundreds of kids.
+“Best Halloween ever,” said Chernova, an assistant professor in the School of Interactive Computing. “Both kids and parents loved getting candy from a real robot, and many people stayed around to watch it work. Now all of my neighbors want one for their house next year!”
+The credit for the event goes to Chernova’s research team, who got the idea after she mentioned that Halloween is overwhelming at her house because of the crowds. The students went to work, training Sawyer,
+a collaborative machine built by Rethink Robotics , in less than an hour. They simply showed the robot the motions that were required. The robot did the rest of the work the rest of the night.
+“It was fun to watch the faces of the kids when they walked up to the house,” Chernova said. “Everyone wanted to know who was remotely controlling the robot, but everything was autonomous. It was a lot of fun!”
+The robot wore a hat, cape and mask.
+What’s next?
+“Maybe we’ll have Sawyer carve a turkey on Thanksgiving,” Chernova said. “Or hang ornaments during the holidays.”
+Chernova oversees Georgia Tech’s
+Robot Autonomy and Interactive Learning (RAIL) lab ,
+which works to make robots more accessible to people. Andrew Silva, Jonathan Balloch, David Kent, Siddhartha Banerjee, Angel Daruna, Asif Rana and Weiuy Liu are the students who worked on the Halloween project.
+Additional Images
+Related links
+Controlling a Robot Using Point and Click
+Georgia Tech Women in Robotics
+Visit the RAIL Lab
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

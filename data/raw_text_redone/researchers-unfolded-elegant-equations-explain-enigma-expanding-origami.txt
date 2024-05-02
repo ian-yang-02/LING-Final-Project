@@ -1,0 +1,38 @@
+researchers unfolded elegant equations to explain the enigma of expanding origami 
+ researchers use origami to explore how structures respond to certain kinds of mechanical stress. 
+ researchers unfolded elegant equations to explain the enigma of expanding origami 
+ aug 23, 2022 
+ — atlanta, ga 
+ most materials – from rubber bands to steel beams – thin out as they are stretched, but engineers can use origami’s interlocking ridges and precise folds to reverse this tendency and build devices that grow wider as they are pulled apart. 
+ researchers increasingly use this kind of technique, drawn from the ancient art of origami, to design spacecraft components, medical robots, and antenna arrays. however, much of the work has progressed via instinct and trial and error. now, researchers from princeton engineering and georgia tech have developed a general formula that analyzes how structures can be configured to thin, remain unaffected, or thicken as they are stretched, pushed, or bent. 
+ in a 
+ paper 
+ published august 3 in the 
+ proceedings of the national academy of sciences , the researchers lay out their general rule for the way a broad class of origami responds to stress. the rule applies to origami formed from parallelograms (such as a square, rhombus, or rectangle) made of thin material. in their article, the researchers use origami to explore how structures respond to certain kinds of mechanical stress – for example, how a rectangular sponge swells in a bowtie shape when squeezed in the middle of its long sides. of particular interest was how materials behave when stretched, like a stick of chewing gum that thins as it is pulled at both ends. the ratio of compression along one axis with stretching along the other is called the poisson ratio. 
+ “most materials have a positive poisson ratio. if, for example, you pick up a rubber band and stretch it, it will become thinner and thinner before it breaks,” said 
+ glaucio paulino , professor at princeton. “cork has a zero poisson ratio, and that is the only reason you can put the cork back in a wine bottle. otherwise, you would break the bottle.” 
+ the researchers were able to write a set of equations to predict how origami-inspired structures will behave under this kind of stress. they then used the equations to create origami structures with a negative poisson ratio – origami structures that grew wide instead of narrower when their ends were pulled, or structures that snapped into dome shapes when bent instead of sagging into a saddle shape. 
+ “with origami you can do this,” said paulino, who is a professor of civil and environmental engineering and the princeton materials institute. “it’s an amazing effect of geometry.” 
+ james mcinerney , who is the study’s first author and a postdoctoral researcher at the university of michigan, said the team created the equations to understand the property of symmetry in the structures. symmetry means something that remains the same under certain transformation. for example, if you spin a square 180 degrees around an axis running between the centers of two sides, its shape remains the same. 
+ “things that are symmetrical deform in expected ways in certain conditions,” mcinerney said. by finding those symmetries in the origami, the researchers were able to create a system of equations that governed how the structure would respond to stress. 
+ mcinerney said that the process was more complex than defining the symmetry rules because some of the folds resulted in deformations that did not obey the rules. he said generally the deformations made in the same plane as the paper (or thin material being folded) obeyed the rules, and those out of the plane broke the rules. “they broke the symmetry, but they broke the symmetry in a way that we could predict,” he said. 
+ d. zeb rocklin , an assistant physics professor at the georgia tech school of physics and a co-author, said that origami presented a fascinating and contradictory behavior. 
+ “usually, if you take a thin sheet or slab and you pull on it, it will retract in the middle. if you take the same sheet and bend it upwards, it will usually form a pringle – or saddle – shape. some materials instead thicken when you pull on them, and those always form domes rather than saddles. the amount of thinning always predicts the amount of bending” he said. “the bending of these origami is exactly the opposite of all conventional materials. why is that?” 
+ researchers have spent years seeking to define rules governing different classes of origami, with different folding patterns and shapes. but rocklin said the research team discovered the class of origami was not important. it was the way the folds interacted that was key. to understand why origami seemed to defy movement usually defined by poisson’s ratio – growing wider when pulled, for example – he researchers needed to understand how the interaction affected the movement of the entire structure. when artists fold the sheet so that it moves along its plane – for example, corrugating it so it can expand and contract – they also introduce a bend that moves the sheet into the saddle shape. 
+ “it is a hidden mode that comes along for the ride,” rocklin said. 
+ rocklin said by examining this hidden connection, the researchers were able to explain “this weird mode of the sheet doing opposite of what was expected.” 
+ “and we have a symmetry of that that explains why it does the exact opposite,” he said. 
+ in the future, the researchers intend to build on their work by examining more complex systems. 
+ “we would like to try to validate this for different patterns, different configurations; to make sense of the theory and validate it,” paulino said. “for example, we need to investigate patterns such as the blockfold pattern, which is quite intriguing.” 
+ the research article 
+ discrete symmetries control geometric mechanics in parallelogram-based origami 
+ was published online aug 3 in the 
+ proceedings of the national academy of sciences . 
+ additional images 
+ contact 
+ georgia parmelee 
+ email 
+ georgia.parmelee@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

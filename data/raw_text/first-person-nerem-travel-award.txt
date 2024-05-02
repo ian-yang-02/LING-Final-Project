@@ -1,0 +1,28 @@
+FIRST PERSON: Nerem Travel Award
+Five weeks in Barcelona adds visual dimension to grad student's research
+Nerem Travel Award winner Sabiha Runa works on her research at the Institute of Photonic Sciences in Barcelona, Spain.
+Oct 03, 2016
+— Atlanta, GA
+By Sabiha Runa
+Thinking back to the beginning of the 2016 school year, I had very little ambition to spend any portion of it outside of Atlanta. A homebody and workaholic, I did not want to step away from the comfort of familiarity. However, I also knew that professional growth would come out of expanding my research base, so with the encouragement of my advisor, I applied for the 2016 Nerem Travel Award. Then I had the honor of being selected as the winner.
+The Nerem Travel Award gave me the amazing opportunity to spend five weeks in Castelldefels, a town outside of Barcelona, Spain, and work at the Institute of Photonic Sciences (ICFO). There, I conducted advanced microscopic experiments on protein-nanoparticle systems. While I am a chemist by training, joining the ICFO Advanced Fluorescence Imaging and Biophysics (AFIB) group was hardly daunting due to the interdisciplinary nature of the field as well as the welcoming environment at ICFO.
+My research project explores the biological effects of sub-lethal levels of industrial grade titanium dioxide nanoparticles – how do cells respond to these widely used nanoparticles? A part of the answer relies on studying the protein corona, or the serum proteins that adsorb onto the nanoparticle surface and ultimately interact with the cell membrane.
+At ICFO, I was able to use direct stochastic optical reconstruction microscopy (dSTORM), a single molecule microscopy technique, to image individual corona proteins adsorbed onto a nanoparticle. Single molecule imaging revolutionized the field of super-resolution microscopy (2014 Nobel Prize winners in chemistry, Eric Betzig, Stefan W. Hell, and William E. Moerner were honored for its development). dSTORM uses laser control combined with optimal buffer conditions to produce fluorescent images with nanometer resolution. This is a critical component since the average size of a protein ranges within 10 nanometers.
+The trick behind dSTORM lies in the ability to turn on and off each fluorescent entity ‘stochastically’ such that individual fluorescent proteins can be differentiated from others surrounding it. Images collected over a period of time are then ‘reconstructed’ into one image as the collection of all the fluorescent signals are overlaid.
+Adding this visual dimension to my project allows for recognizing spatial organization of proteins on the nanoparticle surface, which begins to answer questions about the interactions not only between proteins and nanoparticles, but among proteins themselves. Can the proteins organize or ‘cluster’ themselves differently on different nanostructures? Simply answered, yes. And that is dependent on the nanoparticle surface characterization aspects, among others.
+Moving forward, I hope to continue lingering dSTORM experiments at the Parker H. Petit Institute’s microscopy core using the training I gathered at ICFO.
+I am thankful for the research experience the Nerem Travel Award granted me, but I am equally indebted for the cultural experience.
+Castelldefels is a beach town and quite different from the suburban lifestyle I was raised in and the city life I have in Atlanta. ICFO was a mere 10-minute walk from the Mediterranean coast, and for those nights I didn’t stargaze, the hustle of Barcelona nightlife was a short bus-ride away. The contrasting experiences even between these two cities made for an internal culture shock. While Barcelona is a tourist city with English as a main language, many of the locals in Castelldefels conversed in Catalan and Spanish. Being submerged in these different cultures gave me an appreciation for the variety of ways people live their lives.
+I wanted to conclude by thanking my ICFO group leader Dr. Melike Lakadamyali, who welcomed me to AFIB and the extremely helpful graduate students and post-docs who have contributed towards my training. Lastly, I wanted to thank my advisor, Dr. Christine Payne, in the School of Chemistry and Biochemistry, as well as creators of the Nerem Travel Award.
+Sabiha Runa is pursuing her Ph.D. in the School of Chemistry and Biochemistry at the Georgia Institute of Technology, where she also serves as a communications assistant in the Center for Education Integrating Science, Mathematics, and Computing (CEISMC).
+Additional Images
+Contact
+Jerry Grillo
+Communications Officer II
+Parker H. Petit Institute for
+Bioengineering and Bioscience
+Email
+Jerry.grillo@ibb.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

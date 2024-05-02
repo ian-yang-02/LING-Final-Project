@@ -1,0 +1,47 @@
+test for life-threatening nutrient deficit made from bacteria entrails 
+ thousands die of zinc deficiency, but this test could detect it easily. 
+ food distribution in a center for internally displaced people in yemen in the saudi-houthi rebel conflict. credit: international committee of the red cross  / yahya arhab / creative commons by-nc-nd / no commercial use 
+ sep 25, 2019 
+ — atlanta, ga 
+ in a remote village, an aid worker pricks a sickly toddler’s fingertip, and like most of the other children’s blood samples, this one turns a test strip yellow. that’s how an experimental malnutrition test made with bacterial innards could work one day in the field to expose widespread zinc deficiencies that kill thousands every year. 
+ these innards include plasmids, which are loops of dna. they are not the same dna strands behind reproduction and cell construction, but function instead like nano-organs with genetic programs that normally guide bacterial cell processes. 
+ in a study led by the georgia institute of technology , researchers engineered their own plasmids to direct other parts extracted from bacteria to make the blood test work. 
+ the new technology showed high potential as a basis for an inexpensive, easy malnutrition test that could be expanded to include many vital nutrients and other health indicators. 
+ the new, experimental test is freeze-dried to a powder that is kept at everyday temperatures, could be read in the field, and may be suitable for precise analysis with an applicable smartphone app. it could overcome the clinical and logistical travails of other tests, including refrigerated transport to the field or back to a lab, as well as lost time. 
+ the test not only detects zinc but also quantifies its clinically relevant levels, which is necessary to detect malnourishment and is one of the new test’s main innovations. aid agencies could use a field version of the test to get immediate information to quickly influence policy decisions on nutritional interventions. 
+ hidden hunger 
+ two billion people worldwide suffer from micronutrient deficiencies, which claim millions of lives each year,  according to the centers for disease control and prevention . zinc deficiency alone was blamed  for more than 450,000 deaths  in 2009, according to a study in the  european journal of clinical nutrition . 
+ but spotting malnutrition is tricky. 
+ “in the developing world today, many people may get enough calories but miss out on a lot of nutrients. you can look at someone and tell if they're getting enough calories but not if they're getting sufficient amounts of developmentally important nutrients,” said mark styczynski, who led the study and is  an associate professor in georgia tech’s school of chemical and biomolecular engineering . 
+ “the impact is greatest on pregnant mothers and children under the age of 5, which is when they have the highest mortality,” he said. 
+ the research team, which included collaborators from northwestern university, 
+ published their study in the journal  science advances  on september 25, 2019. the research was funded by the national institutes of health, the national science foundation, the air force research laboratory ,  the defense advanced research projects agency, the david and lucille packard foundation, and the camille dreyfus teacher-scholar program. 
+ [ready for graduate school?  here's how to apply to georgia tech. ] 
+ small is huge 
+ engineering with bacterial innards is at least 25 years old, with research accelerating in the past decade. but this new test flags small molecules, like zinc or iodine, another big innovation. 
+ the quantification of zinc ions in this particular study was the proof of concept for plans to measure many small molecules relevant to in-field tests. the researchers could quickly expand the test to assess levels of the six vital small-molecule nutrients, micronutrients, that are highly relevant to nutritional fieldwork. 
+ “we may be able to reasonably quickly make new tests for iron, b12, folate, iodine, and vitamin a,” styczynski said. “we could also quantify bigger molecules like dna and proteins to help figure out how bad a viral outbreak is.” 
+ “detecting the presence or absence of something like ebola or pregnancy is important. but being able to say how much of something you have, like a nutrient or a virus, without having to haul equipment through the field to do it has been lacking. the ability to do it could open a lot of doors in diagnostics and treatment,” styczynski said. 
+ disemboweling bacteria 
+ the ease of use of the experimental zinc test stands in stark contrast to the labors required to engineer it. the researchers started off using live bacteria that changed colors in reaction to zinc, but that approach hit snags. 
+ “the test took too long, and the volume of blood and bacteria we would need was not clear,” styczynski said. “so, we went cell-free. you take the bacteria and remove the outside and the genome –– the main dna –– and you’re left with this rich mixture of heavily reactive parts, to which you can add your own genetic program on the plasmids.” 
+ cell-free approaches allow bacterial innards to be dosed like compounds in a chemical reaction, making the test predictable, reliable, and suitable for standardization. the researchers built two plasmids to drive the test's processes. 
+ “one has the genes taken from  e. coli  for an enzyme that breaks down a big sugar into smaller sugars. the other one controls how much of a regulator gene is being turned on in response to levels of zinc,” styczynski said. 
+ turning purple 
+ the test uses a signal molecule that is partly a big sugar and starts out yellow, but once the plasmid makes an enzyme that cleaves the sugar, the molecule turns purple. zinc levels regulate how much enzyme is made –– more zinc means more enzyme and more purple. if the test remains yellow, zinc is perilously low. 
+ when tested in serum, i.e. blood, its rich biology clutters the reaction, and in the real world, that clutter differs from person to person and would skew color schemes from patient to patient. 
+ the researchers solved this with a chemical trick to make a calibration system that flows with that skew. for the actual test, the zinc regulated how the plasmids alter the color, but the study’s first author, monica mcnerney, flipped things for the calibrator. 
+ to make its reference points, she maxed out zinc levels and varied the levels of plasmids point by point, resulting in a scale of colors. 
+ the test and the plasmid-varied calibration points both received the serum to be tested, and the clutter shifted the test and the calibration points in an identical manner. the changed color of the test could be accurately compared to the colors of the calibration points to ascertain zinc levels. 
+ the colors are in the visible range, not fluorescent, so they require no device to read. the speed of color change could reveal more detail about nutrient levels, perhaps via an analysis of smartphone video taken of the test. 
+ also read: 
+ long-held view is wrong about microbiomes' exclusive, generous bacterial collaborations 
+ these researchers coauthored the study: yan zhang and paige steppe from georgia tech, and adam silverman and michael jewett from northwestern university. the research was funded by the national institutes of health’s national institute of biomedical imaging and bioengineering (grants r01-eb022592 and r35-gm119701), the national science foundation (grants mcb-1254382 and dge-1650044), the air force research laboratory center for excellence for advanced bioprogrammable nanomaterials (grant fa8650-15-2-5518), the defense advanced research projects agency’s living foundries (award hr0011-15-c-0084) the david and lucille packard foundation, and the camille dreyfus teacher-scholar program. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funders. 
+ writer & media representative : ben brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

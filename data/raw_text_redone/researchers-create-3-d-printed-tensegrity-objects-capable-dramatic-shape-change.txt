@@ -1,0 +1,29 @@
+researchers create 3-d printed tensegrity objects capable of dramatic shape change 
+ a team of researchers from the georgia institute of technology has developed a way to use 3-d printers to create objects capable of expanding dramatically that could someday be used in applications ranging from space missions to biomedical devices. 
+ researchers at georgia tech 3-d printed an object made with tensegrity, a structural system of floating rods in compression and cables in continuous tension. (credit: rob felt) 
+ jun 14, 2017 
+ — atlanta, ga 
+ a team of researchers from the georgia institute of technology has developed a way to use 3-d printers to create objects capable of expanding dramatically that could someday be used in applications ranging from space missions to biomedical devices. 
+ the new objects use tensegrity, a structural system of floating rods in compression and cables in continuous tension. the researchers fabricated the struts from shape memory polymers that unfold when heated. 
+ “tensegrity structures are extremely lightweight while also being very strong,” said glaucio paulino, a professor in georgia tech’s school of civil and environmental engineering. “that’s the reason there’s a heavy amount of interest right now in researching the use of tensegrity structures for outer space exploration. the goal is to find a way to deploy a large object that initially takes up little space.” 
+ the research, which was reported june 14 in the journal  scientific reports , was sponsored by the national science foundation and the air force office of scientific research. 
+ the researchers used 3-d printers to create the struts that make up one of the primary components of the tensegrity structure. to enable the struts to be temporarily folded flat, the researchers designed them to be hollow with a narrow opening that runs the length of the tube. each strut has an attachment point on each end to connect to a network of elastic cables, which are also made with 3-d printers. 
+ once the struts were heated to 65 degrees celsius, the researchers could partially flatten and fold them into a shape resembling the letter w. the cooled structures then retain the temporary shape. 
+ with all cables attached, the objects can be reheated to initiate the transformation into tensegrity structures. 
+ “we believe that you could build something like an antenna that initially is compressed and takes up little space, but once it’s heated, say just from the heat of the sun, would fully expand,” said jerry qi, a professor in the george w. woodruff school of mechanical engineering at georgia tech. 
+ a key component of making 3-d printed objects that can transform into tensegrity structures was controlling the rate and sequence of expansion. the shape memory polymers enable the researchers to fine-tune how quickly each strut expands by adjusting at which temperature the expansion occurs. that enables structures to be designed with struts that expand sequentially. 
+ “for bigger and more complicated structures, if you don’t control the sequence that these struts expand, it tangles and you have a mess,” paulino said. “by controlling the temperature at which each strut expands, we can have a phased deployment and avoid this entanglement.” 
+ the term “tensegrity” comes from a combination of the words “tensional integrity,” and the concept has been used as the structural basis for several notable projects through the years, including a large pedestrian bridge in brisbane, australia, and stadium roofs such as the georgia dome stadium in atlanta and the olympic gymnastics arena in seoul, south korea. 
+ the researchers envision that the new 3-d printed structures could be used for super light-weight structures needed for space exploration or even shape-change soft robots. 
+ “these active tensegrity objects are very elegant in design and open up a range of possibilities for deployable 3-d structures,” paulino said. 
+ this research was supported by the national science foundation under grant no. cmmi-1538830 and air force office of scientific research under grant no. 15rt0885. the content is the responsibility of the authors and does not necessarily represent the official views of the sponsoring agencies. 
+ citation :  ke liu, jiangtao wu, glaucio h. paulino, and h. jerry qi, “programmable deployment of tensegrity structures by stimulus-responsive polymers,” (scientific reports, 2017). http: / / dx.doi.org / 10.1038 / s41598-017-03412-6 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

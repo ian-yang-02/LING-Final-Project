@@ -1,0 +1,54 @@
+“First Arrival” Hypothesis in Darwin’s Finches Gets Some Caveats
+Researchers have extended the hypothesis for how early arriving species gain an ecosystem advantage through adaptive radiation.
+Image shows blue-green colonies of Pseudomonas fluorescens SBW-25 and red colonies of competitor Serratia marcescens on plates. (Credit: Rob Felt, Georgia Tech)
+Apr 26, 2017
+— Atlanta, GA
+Being first in a new ecosystem provides major advantages for pioneering species, but the benefits may depend on just how competitive later-arriving species are. That is among the conclusions in a new study testing the importance of “first arrival” in controlling adaptive radiation of species, a hypothesis famously proposed for “Darwin’s Finches,” birds from the Galapagos Islands that were first brought to scientific attention by the famous naturalist.
+Researchers at the Georgia Institute of Technology tested the importance of first arrival with bacterial species competing in a test tube. Using a bacterium that grows on plant leaves, they confirmed the importance of first arrival for promoting species diversification, and extended that hypothesis with some important caveats.
+“We wanted to understand the role of species colonization history in regulating the interaction between the rapidly-evolving bacterium
+Pseudomonas fluorescens SBW-25
+and competing species and how that affected
+P. fluorescens
+adaptive radiation in the ecosystem,” said Jiaqi Tan, a research scientist in Georgia Tech’s
+School of Biological Sciences . “The general pattern we find is that the earlier arrival of P. fluorescens allowed it to diversify to a greater extent. If the competing and diversifying species are very similar ecologically, we find a stronger effect of species colonization history on adaptive radiation.”
+The research is reported April 26th in the journal
+Evolution
+and was supported by the National Science Foundation. The study is believed to be the first rigorous experimental test of the role colonization history plays in adaptive radiation.
+Evolutionary biologist David Lack studied a group of closely-related bird species known as Darwin’s Finches, and popularized them in a book first published in 1947. Among his hypotheses was that the birds were successful in their adaptive radiation – the evolutionary diversification of morphological, physiological and behavior traits – because they were early colonizers of the islands. The finches filled the available ecological niches, taking advantage of the resources in ways that limited the ability of later-arriving birds to similarly establish themselves and diversify, he suggested.
+“The bird species that arrived after the finches could only use the resources that the finches weren’t using,” Tan explained. “The other birds could not diversify because there weren’t many resources left for them.”
+Tan and other researchers in the laboratory of Georgia Tech Professor
+Lin Jiang
+tested that hypothesis using
+P. fluorescens , which rapidly evolves into two general phenotypes differentiated by the ecological niches they adopt in static test tube microcosms.  Within the two major phenotypes – known as “fuzzy spreaders” and “wrinkly spreaders” – there are additional minor variations.
+The researchers allowed the bacterium to colonize newly-established microcosms and diversify before introducing competing bacterial species. The six competitors, which varied in their niche and competitive fitness compared to
+P. fluorescens , were introduced individually and allowed to grow through multiple generations. Their success and level of diversification were measured by placing microcosm samples onto agar plates and counting the number of colonies from each species and sub-species.
+The study also included the reverse of the earlier colonization history, allowing the competitor bacteria to establish themselves in microcosms before introducing the
+P. fluorescens.
+The competitors included a broad range of organisms common in the environment, some of them retrieved from a lake near the Georgia Tech campus.
+The experiment allowed the scientists to extend the hypothesis that Lack advanced 70 years ago.
+“If the diversifying species and the competing species are very similar, you can have a strong priority effect in which the first-arriving species can strongly impact the ability of the later species to diversify,” said Jiang, a professor in Georgia Tech’s School of Biological Sciences. “If the species are different enough, then the priority effect is weaker, so there would be less support for the first arrival hypothesis.”
+Adaptive radiation has important implications for new ecosystems, particularly with organisms that evolve rapidly.
+P. fluorescens
+produces as many as ten generations a day under the reported experimental conditions, which allowed the Georgia Tech scientists to study how they evolved over 120 generations – changes that would have taken hundreds of years in finches.
+The bacterial population studied in Jiang’s lab included as many as 100 million organisms, far more than the number of birds on the Galapagos Islands. The asexual reproduction of the bacteria meant the mutation rate likely also differed from that of the birds. Still, Jiang and Tan believe their study offers insights into how different species interact in new environments based on historical advantages.
+“From the perspective of evolutionary biology, scientists often focus only on the particular species that interest them,” said Jiang, who studies community ecology. “We also need to think about the surrounding ecological context of the evolutionary process.”
+In future work Jiang hopes to study how the introduction of predators may combine with species competition to affect adaptive radiation. In addition to those already mentioned, the research team also included Georgia Tech Ph.D. student Xi Yang, who conducted the data analysis.
+This research was supported by the National Science Foundation under grants DEB-1257858 and DEB-1342754.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+CITATION : Jiaqi Tan, Xian Yang and Lin Jiang, “Species ecological similarity modulates the importance of colonization history for adaptive radiation,” (Evolution 2017).
+http://dx.doi.org/ 10.1111/evo.13249
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

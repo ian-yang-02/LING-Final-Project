@@ -1,0 +1,44 @@
+print no evil: three-layer technique helps secure additive manufacturing 
+ researchers have developed a three-layer technique for protecting the additive manufacturing (3-d printing) process. 
+ raheem beyah, the motorola foundation professor and associate chair in georgia tech’s school of electrical and computer engineering, is shown in a 3-d printing lab at the woodruff school of mechanical engineering. (credit: christopher moore, georgia tech) 
+ aug 16, 2017 
+ — atlanta, ga 
+ additive manufacturing, also known as 3-d printing, is replacing conventional fabrication processes in critical areas ranging from aerospace components to medical implants. but because the process relies on software to control the 3-d printer, additive manufacturing could become a target for malicious attacks – as well as for unscrupulous operators who may cut corners. 
+ researchers from the georgia institute of technology and rutgers university have developed a three-layer system to verify that components produced using additive manufacturing have not been compromised. their system uses acoustic and other physical techniques to confirm that the printer is operating as expected, and nondestructive inspection techniques to verify the correct location of tiny gold nanorods buried in the parts. the validation technique is independent of printer firmware and software in the controlling computer. 
+ the verification and intrusion detection research will be described august 18 at the 
+ 26th usenix security symposium 
+ in vancouver, british columbia. the two institutions recently received a grant from the national science foundation to further develop the process described at the symposium. 
+ “these 3-d printed components will be going into people, aircraft and critical infrastructure systems,” said 
+ raheem beyah , the motorola foundation professor and associate chair in georgia tech’s 
+ school of electrical and computer engineering . “malicious software installed in the printer or control computer could compromise the production process. we need to make sure that these components are produced to specification and not affected by malicious actors or unscrupulous producers.” 
+ the three components of the new system include: 
+ acoustic measurement of the 3-d printer in operation . when compared to a reference recording of a correct print, this acoustic monitoring – done with an inexpensive microphone and filtering software – can detect changes in the printer’s sound that may indicate installation of malicious software. 
+ physical tracking of printer components . to create the desired object, the printer’s extruder and other components should follow a consistent mechanical path that can be observed with inexpensive sensors. variations from the expected path could indicate an attack. 
+ detection of nanorods in finished components . using raman spectroscopy and computed tomography (ct), the researchers were able to detect the location of gold nanorods that had been mixed with the filament material used in the 3-d printer. variations from the expected location of those particles could indicate a quality problem with the component. the variations could result from malicious activity, or from efforts to conserve printer materials. 
+ the researchers tested their technique on three different types of 3-d printers and a computer numerical control (cnc) machine using a polyethylene tibial knee prosthesis as a test case. beyond detecting malicious activity or quality problems, the technique could stop inadvertent production problems, reducing materials waste. 
+ in their technique to detect flaws in 3-d printed components, the researchers were inspired to apply the same kind of contrast agents used in medical imaging techniques for detecting tumors, said mehdi javanmard, assistant professor in the department of electrical and computer engineering at rutgers university. 
+ the gold contrast materials were tested to make sure they wouldn’t compromise the structural integrity of the printed components. 
+ now that they’ve demonstrated the feasibility of the techniques, the researchers plan to use the nsf funding awarded august 1 to improve the validation methods and move them closer to application. “our focus now will be on testing the resilience of this technology and its resistance to intrusion and malicious attacks,” javanmard said. 
+ among the challenges ahead will be obtaining good acoustic data in the noisy environments in which 3-d printers typically operate. in the research reported by the researchers, operation of other 3-d printers near the one being observed cut the accuracy significantly, but beyah believes that challenge can be addressed with additional signal processing. the technique will also be applied to additional types of printers, and to different materials. 
+ with the capabilities of 3-d printers growing and their cost declining, beyah believes the use of additive manufacturing techniques will continue to expand. the validation and intrusion detection system will therefore become more critical. 
+ “the idea that additive manufacturing processes could be compromised to intentionally hurt someone hasn’t really been considered with some of these applications,” he said. “there is a good bit of room to improve the security of 3-d printers, and we think that will start with applications that are closest to humans, such as implants and medical devices.” 
+ in addition to those already mentioned, the research included christian bayens from georgia tech, and saman zonouz, tuan le, and luis garcia from rutgers university. 
+ citation: christian bayens, tuan le, luis garcia, raheem beyah, mehdi javanmard and saman zonouz, “see no evil, hear no evil, feel no evil, print no evil? malicious fill patterns detection in additive manufacturing,” (26th usenix security symposium, august 18, 2017). 
+ https: / / www.usenix.org / conference / usenixsecurity17 / technical-sessions / presentation / bayens 
+ research described in this news release is being funded under award 1739259 from the national science foundation. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the national science foundation. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (jtoon@gatech.edu) (404-894-6986) or josh brown (josh.brown@comm.gatech.edu) (404-385-0500). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

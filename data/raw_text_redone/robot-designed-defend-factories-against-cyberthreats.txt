@@ -1,0 +1,32 @@
+robot designed to defend factories against cyberthreats 
+ this robot is designed to lure in digital troublemakers who have set their sights on industrial facilities. honeybot will then trick the bad actors into giving up valuable information to cybersecurity professionals. 
+ cybersecurity experts have a new tool in the fight against hackers – a decoy robot. researchers at georgia tech built the “honeybot” to lure hackers into thinking they had taken control of a robot, but instead the robot gathers valuable information about the bad actors, helping businesses better protect themselves from future attacks. 
+ mar 29, 2018 
+ — atlanta, ga 
+ it’s small enough to fit inside a shoebox, yet this robot on four wheels has a big mission: keeping factories and other large facilities safe from hackers. 
+ meet the honeybot. 
+ developed by a team of researchers at the georgia institute of technology, the diminutive device is designed to lure in digital troublemakers who have set their sights on industrial facilities. honeybot will then trick the bad actors into giving up valuable information to cybersecurity professionals. 
+ the decoy robot arrives as more and more devices – never designed to operate on the internet – are coming online in homes and factories alike, opening up a new range of possibilities for hackers looking to wreak havoc in both the digital and physical world. 
+ “robots do more now than they ever have, and some companies are moving forward with, not just the assembly line robots, but free-standing robots that can actually drive around factory floors,” said raheem beyah, the motorola foundation professor and interim steve w. chaddick school chair in georgia tech’s school of electrical and computer engineering. “in that type of setting, you can imagine how dangerous this could be if a hacker gains access to those machines. at a minimum, they could cause harm to whatever products are being produced. if it’s a large enough robot, it could destroy parts or the assembly line. in a worst-case scenario, it could injure or cause death to the humans in the vicinity.” 
+ internet security professionals long have employed decoy computer systems known as “honeypots” as a way to throw cyberattackers off the trail. the research team applied the same concept to the honeybot, which is partially funded with a grant from the national science foundation. once hackers gain access to the decoy, they leave behind valuable information that can help companies further secure their networks. 
+ “a lot of cyberattacks go unanswered or unpunished because there’s this level of anonymity afforded to malicious actors on the internet, and it’s hard for companies to say who is responsible,” said celine irvene, a georgia tech graduate student who worked with beyah to devise the new robot. “honeypots give security professionals the ability to study the attackers, determine what methods they are using, and figure out where they are or potentially even who they are.” 
+ the gadget can be monitored and controlled through the internet. but unlike other remote-controlled robots, the honeybot’s special ability is tricking its operators into thinking it is performing one task, when in reality it’s doing something completely different. 
+ “the idea behind a honeypot is that you don’t want the attackers to know they’re in a honeypot,” beyah said. “if the attacker is smart and is looking out for the potential of a honeypot, maybe they’d look at different sensors on the robot, like an accelerometer or speedometer, to verify the robot is doing what it had been instructed. that’s where we would be spoofing that information as well. the hacker would see from looking at the sensors that acceleration occurred from point a to point b.” 
+ in a factory setting, such a honeybot robot could sit motionless in a corner, springing to life when a hacker gains access – a visual indicator that a malicious actor is targeting the facility. 
+ rather than allowing the hacker to then run amok in the physical world, the robot could be designed to follow certain commands deemed harmless – such as meandering slowly about or picking up objects – but stopping short of actually doing anything dangerous. 
+ so far, their technique seems to be working. 
+ in experiments designed to test how convincing the false sensor data would be to individuals remotely controlling the device, volunteers in december 2017 used a virtual interface to control the robot and could not to see what was happening in real life. to entice the volunteers to break the rules, at specific spots within the maze, they encountered forbidden “shortcuts” that would allow them to finish the maze faster. 
+ in the real maze back in the lab, no shortcut existed, and if the participants opted to go through it, the robot instead remained still. meanwhile, the volunteers – who have now unwittingly become hackers for the purposes of the experiment – were fed simulated sensor data indicating they passed through the shortcut and continued along. 
+ “we wanted to make sure they felt that this robot was doing this real thing,” beyah said. 
+ in surveys after the experiment, participants who actually controlled the device the whole time and those who were being fed simulated data about the fake shortcut both indicated that the data was believable at similar rates. 
+ “this is a good sign because it indicates that we’re on the right track,” irvene said. 
+ this material is based upon work supported by the national science foundation under grant no. 1544332. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the national science foundation. 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

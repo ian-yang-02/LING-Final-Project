@@ -1,0 +1,32 @@
+tech student brings artificial intelligence to basketball officiating 
+ block or charge? an ai-powered basketball official could help make the call. 
+ ayush pai's ai basketball official detects a traveling violation. 
+ jul 25, 2023 
+ every sports fan can recall a moment that had them screaming from their seat or their couch as their favorite team landed on the wrong end of an official’s crucial call. now, artificial intelligence could offer assistance. 
+ ayush pai, an avid nba viewer, set out to create a solution as he watched fouls go uncalled and outcomes be decided by officials rather than the players. 
+ with a self-taught knowledge of computer vision ai, he created the initial model for the official­­ –– dubbed version 1.0 –– in the summer of 2022 after graduating high school. with soccer's video assistant referee (var) system and the hawk-eye review system in tennis as a guide, pai felt that basketball was missing an ai component to supplement referees on the court. 
+ "the officials are running up and down the court constantly. basketball in general, especially the nba, is one of the most fast-paced sports, and the entire court is difficult for officials to see at all times. why not implement a system that can enhance their ability to see the floor using multiple cameras with real-time processing and detection of the basketball and the players?" he said. 
+ version 1.0 of pai's system was trained to detect the color of the basketball and used a pedometer to track steps, but lighting issues and the use of a cumbersome step counter proved limiting. in june, the denver nuggets capped a 4-1 series victory over the miami heat to earn their first nba championship, but officiating mistakes in the heat's lone win propelled pai to get back to work on his concept. by the end of the month, version 2.0 of the ai official was complete. 
+ to improve accuracy, he used over 3,000 photos of basketballs to better train the model to track the ball's movement, and he also used pose estimation for tracking the position of a player's ankles and wrists to detect double dribbling and traveling violations. he is now working on version 3.0, which will include the capacity for multiple players, cameras, and the ability to detect shooting fouls and reach-ins. pai is also developing a mobile app that he hopes will bring accurate officiating to youth leagues and pickup games worldwide. 
+ the ai craze shows no signs of slowing down, and pai sees his creation as a way to introduce the concept to new audiences. "everyone should see the potential of ai, and it's important that everyone has a basic understanding of its implications and how it can be used in different fields. you can use ai for chatgpt, in tesla's autonomous systems, and even in sports," he said. 
+ an ongoing debate amid the rise of ai is its potential to displace people. pai sees the benefit of his system as one of coexistence rather than a replacement for the human element of officiating. 
+ "you don't want to make ai feel like a threat to the people in any industry. it's a much better approach to consider this a partnership between ai and officials. in basketball, there are so many physical aspects of the job that ai can't do," he said. 
+ the florida native will trade his university of florida gator blue and orange for yellow jacket white and gold this fall as a transfer student, and the incoming second-year student is eager to get started. 
+ "one of the main reasons i transferred is because of the opportunities the institute offers within ai and computer science,” he said. “the chance to participate in the 
+ college of computing's threads program 
+ will help me with my projects, and i’m looking forward to exploring the entrepreneurial side of tech with great programs that foster innovation." 
+ pai’s interest in the capabilities of ai isn’t limited to basketball. he has also created systems that attempt to 
+ discourage texting and driving 
+ and 
+ keep students on task while studying . 
+ georgia tech continues to cement itself as a leader in the emerging space, highlighted by the 
+ recent launch of the ai hub on campus , which will drive education and research while developing real-world, responsible applications for ai. 
+ additional images 
+ contact 
+ steven gagliano - communications officer 
+ institute communications 
+ email 
+ steven.gagliano@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

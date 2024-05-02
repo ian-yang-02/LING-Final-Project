@@ -1,0 +1,35 @@
+Renters Need Better Policies To Cope With Natural Disasters, New Research Shows
+New joint research from the Georgia Institute of Technology and the Brookings Institution is some of the first to expose the disaster impact on rental housing markets.
+Feb 27, 2024
+After Hurricane Katrina, 29% of single-family homes were damaged in Louisiana versus 35% of rental units, but while 62% of homeowners received disaster recovery assistance, only 18% of renters got similar aid.
+Louisiana isn’t unique. Renters are an especially vulnerable population after natural disasters. They are generally less able to afford to move but are more likely to pay exorbitant markups when rental options are depleted. How renters are affected after a disaster is a key indicator of climate vulnerability, yet most political discourse and public policies focus on single-family homeowners.
+New
+joint research
+from the Georgia Institute of Technology and the Brookings Institution is some of the first to expose the disaster impact on rental housing markets, examining whether the
+U.S. Department of Housing and Urban Development (HUD)
+disaster recovery policies
+work effectively to protect renters.
+The researchers sought to answer the question of how the rental market shifts after a natural disaster and whether rents increase. They used data from 2000 to 2020 that broke down rental rates by ZIP code and quarter in major metro areas in California, Michigan, Arkansas, Georgia, and Florida. Any presidentially declared major disasters were included, totaling 180,000 ZIP code-based rental rate data points. The researchers combined federal emergency information with proprietary rental price data and stakeholder interviews. Brookings also hosted
+a workshop to provide qualitative insights and lived experiences from federal, state, and local government officials; tenants; and nonprofit organizations.
+“I think the marriage between the two, the quantitative analysis and qualitative insights, is something that really makes this report unique,” said
+Brian An , assistant professor in the
+School of Public Policy
+in Georgia Tech’s
+Ivan Allen College of Liberal Arts .
+Their quantitative analysis showed that rents do increase after disasters — by 4 to 6% for the first disaster; rents elevate for the first three years and then stabilize over the next few years, but they do not revert to the initial rate for at least five years. Subsequent disasters also increase the rent by 2 to 3 percentage points and have lasting impacts. On average, ZIP codes in high climate-risk areas where multiple disasters often serially occur experience 12% higher rents.
+Renters need more representation, according to the qualitative analysis. Stakeholders wanted better renter protections even outside of disasters but also noted that disaster relief needed to be more equitable and come from federal resources.
+Policy typically favors single-family homeowners over renters in multifamily apartments. But after Hurricane Katrina, HUD imposed new rental development requirements in the Community Development Block Grant – Disaster Recovery (CDBG-DR), the largest federal funding for disaster recovery. For their analysis, the researchers scanned thousands of pages in federal register notices to track what types of rental development requirements were in place in the largest federal funds and whether those stipulations improved renters’ situation. They found rents appreciated at a much slower rate in areas with the CDBG-DR grants than those without.
+The An group’s analysis suggests that the new requirements embedded in CDBG-DR seem to be working, but a more thorough investigation is needed. For example, in its follow-up study, the team is investigating which requirements are more effective than others and whether similar policies could be more broadly applied to help renters. The authors also note that more fundamental policy changes for renters are imperative, such as universal renter protections, disaster assistance prioritizing low-income renters, and state and local government requirements to enforce tenant protections and rental housing in exchange for federal funding.
+“We embarked on this research for evidence-based policymaking,” An said. “While CDBG-DR has played a major role in disaster recovery, no one has examined their efficacy on rental housing until now. A major part of the challenge was due to the complexities in tracking the fund allocation notices and understanding nuanced rental requirements. But rigorous efforts and evaluations can inform policy design, our research demonstrates.”
+After the report
+was published by Brookings, HUD’s Office of Policy Development and Research invited the researchers to present their findings to its staff.
+“The unique academic-practitioner collaboration with philanthropic support is what made our research policy relevant, with actionable insights,” An said. “We need more policy research and evidence to build a resilient future for all renter populations.”
+Martin, C., Drew, R., Orlando, A., Moody, J., Rodnyansky, S., An, B., Jakabovics, A., Patton, N., and
+Donoghoe, M. (2023). “Disasters and the rental housing community: Setting a research and policy agenda.” Brookings Institution. https://www.brookings.edu/wp-content/uploads/2023/09/Disasters-and-the-Rental-
+Housing_final.pdf
+Contact
+Tess Malone, Senior Research Writer/Editor
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

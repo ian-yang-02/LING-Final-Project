@@ -1,0 +1,28 @@
+selenium anchors could improve durability of platinum fuel cell catalysts 
+ researchers at the georgia institute of technology have developed a new platinum-based catalytic system that is far more durable than traditional commercial systems and has a potentially longer lifespan. 
+ zhengming cao, a visiting graduate student at georgia tech, is working on improving durability for platinum-based fuel cell catalysts. (credit: christopher moore) 
+ sep 05, 2019 
+ — atlanta, ga 
+ platinum has long been used as a catalyst to enable the oxidation reduction reaction at the center of fuel cell technology. but the metal’s high cost is one factor that has hindered fuel cells from competing with cheaper ways of powering automobiles and homes. 
+ now researchers at the georgia institute of technology have developed a new platinum-based catalytic system that is far more durable than traditional commercial systems and has a potentially longer lifespan. the new system could, over the long term, reduce the cost of producing fuel cells. 
+ in the study, which was published july 15 in the acs journal 
+ nano letters , the researchers described a possible new way to solve one of the key causes of degradation of platinum catalysts, sintering, a process in which particles of platinum migrate and clump together, reducing the specific surface area of the platinum and causing the catalytic activity to drop. 
+ to reduce such sintering, the researchers devised a method to anchor the platinum particles to their carbon support material using bits of the element selenium. 
+ “there are strategies out there to mitigate sintering, such as using platinum particles that are uniform in size to reduce chemical instability among them,” said zhengming cao, a visiting graduate student at georgia tech. “this new method using selenium results in a strong metal-support interaction between platinum and the carbon support material and thus remarkably enhanced durability. at the same time, the platinum particles can be used and kept at a small to attain high catalytic activity from the increased specific surface area.” 
+ the process starts by loading nanoscale spheres of selenium onto the surface of a commercial carbon support. the selenium is then melted under high temperatures so that it spreads and uniformly covers the surface of the carbon. then, the selenium is reacted with a salt precursor to platinum to generate particles of platinum smaller than two nanometers in diameter and evenly distributed across the carbon surface. 
+ the covalent interaction between the selenium and platinum provides a strong link to stably anchor the platinum particles to the carbon. 
+ “the resulting catalyst system was remarkable both for its high activity as a catalyst as well as its durability,” said younan xia, professor and brock family chair in the wallace h. coulter department of biomedical engineering at georgia tech and emory university. 
+ because of the increased specific surface area of the nanoscale platinum, the new catalytic system initially showed catalytic activity three and a half times higher than the pristine value of a state-of-the-art commercial platinum-carbon catalyst. then, the research team tested the catalytic system using an accelerated durability test. even after 20,000 cycles of electropotential sweeping, the new system still provided a catalytic activity more than three times that of the commercial system. 
+ the researchers used transmission electron microscopy at different stages of the durability test to examine why catalytic activity remained so high. they found that the selenium anchors were effective in keeping most of the platinum particles in place. 
+ “after 20,000 cycles, most of the particles remained on the carbon support without detachment or aggregation,” cao said. “we believe this type of catalytic system holds great potential as a scalable way to increase the durability and activity of platinum catalysts and eventually improve the feasibility of using fuel cells for a wider range of applications.” 
+ part of the research was supported by the u.s. department of energy through the electron microscopy work performed at the center for nanophase materials sciences. the work was also supported by the china scholarship council through the graduate student fellowship. the content is the responsibility of the authors and does not necessarily represent the official views of the sponsoring agencies. 
+ citation :  haoyan cheng, zhenming cao, zitao chen, ming zhao, minghao xie, zhiheng lyu, zhihong zhu, miaofang chi and younan xia, “catalytic system based on sub-2 nm pt particles and its extraordinary activity and durability for oxygen reduction,” (nano letters, july 2019).  http: / / dx.doi.org / 10.1021 / acs.nanolett.9b01221 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ email 
+ john.toon@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

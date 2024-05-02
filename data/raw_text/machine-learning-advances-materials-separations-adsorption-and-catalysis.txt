@@ -1,0 +1,59 @@
+Machine Learning Advances Materials for Separations, Adsorption, and Catalysis
+Machine learning is helping accelerate the development of highly tunable materials known as metal-organic frameworks.
+The vial shown contains a blue powder, HKUST-1, a metal-organic framework (MOF) material. (Credit, Tania Evans, Georgia Tech)
+Nov 09, 2020
+— Atlanta, GA
+An artificial intelligence technique — machine learning — is helping accelerate the development of highly tunable materials known as metal-organic frameworks (MOFs) that have important applications in chemical separations, adsorption, catalysis, and sensing.
+Utilizing data about the properties of more than 200 existing MOFs, the machine learning platform was trained to help guide the development of new materials by predicting an often-essential property: water stability. Using guidance from the model, researchers can avoid the time-consuming task of synthesizing and then experimentally testing new candidate MOFs for their aqueous stability. Already, researchers are expanding the model to predict other important MOF properties.
+Supported by the Office of Science’s Basic Energy Sciences program within the U.S. Department of Energy (DOE), the research was reported Nov. 9 in the journal
+Nature Machine Intelligence . The research was conducted in the
+Center for Understanding and Control of Acid Gas-Induced Evolution of Materials for Energy
+(UNCAGE-ME), a DOE Energy Frontier Research Center located at the Georgia Institute of Technology.
+“The issue of water stability with MOFs has existed in this field for a long time, with no easy way to predict it,” said
+Krista Walton , professor and Robert "Bud" Moeller faculty fellow in Georgia Tech’s
+School of Chemical and Biomolecular Engineering . “Rather than having to do the synthesis and experimentation to figure this out for each candidate MOF, this machine learning model now provides a way to predict water stability given a set of desired features. This will really speed up the process of identifying new materials for specific applications.”
+MOFs are a class of porous and crystalline materials that are synthesized from inorganic metal ions or clusters connected to organic ligands. They are known for their easily tunable components that can be customized for specific applications, but the large number of potential combinations makes it difficult to choose MOFs with the desired properties. That’s where artificial intelligence can help.
+Machine learning is playing an increasingly important role in materials science, said
+Rampi Ramprasad , professor and Michael E. Tennenbaum Family Chair in the Georgia Tech School of
+Materials Science and Engineering
+and
+Georgia Research Alliance
+Eminent Scholar in Energy Sustainability.
+“When materials scientists plan the next set of experiments, we use the intuition and insights that we have accumulated from the past,” Ramprasad said. “Machine learning allows us to fully tap into this past knowledge in the most efficient and effective manner. If 200 experiments have already been done, machine learning allows us to exploit all that has been learned from them as we plan the 201st experiment.”
+Beyond experimental data, machine learning can also use the results of physics-based simulations. And unlike simulations, the results from machine learning models can be instantaneous. The machine learning algorithm improves as it receives more information, he noted, and both negative and positive results are useful.
+“Great discoveries are as important as not-so-exciting discoveries — failed experiments — because machine learning uses both ends of the spectrum to get better at what it does,” Ramprasad said.
+The machine learning model used information Walton and her research team had gathered on hundreds of existing MOF materials, both from compounds developed in her own lab and those reported by other researchers. To prepare the information for the model to learn from, she categorized each MOF according to four measures of water stability.
+“The couple hundred data points used to build the model represented years of experiments,” Walton said. “I spent basically the first half of my career working to understand this water stability problem with MOFs, so it’s something we have studied extensively.”
+Using the model, researchers who are developing new adsorbents and other porous materials for specific applications can now check their proposed formulas to determine the likelihood that a new MOF would be stable in the presence of water. That could be particularly helpful for researchers who don’t have this particular expertise or who don’t have easy access to experimental methods for examining stability.
+“The MOF community is diverse, with a variety of subfields. Not everyone has the chemical intuition about which materials’ features lead to good framework stability, and experimental evaluation often requires specialty equipment that many labs may not have or wouldn’t otherwise need for their specific subfield. However, with good predictive models, they wouldn’t necessarily need to develop it to choose a material for a specific application,” Walton said. “This capability potentially opens up this field to a broader group of researchers that could accelerate application development.”
+While screening for water stability is important, Ramprasad says it’s just the beginning of the potential benefits from the project. The machine learning model can be trained to predict other properties as long as a sufficient amount of data exists. For instance, the team is already teaching their model about factors affecting methane absorption under varying levels of pressure. In that case, simulations will provide much of the data from which the model will learn.
+“We will have a very strong predictor that will tell us if a new MOF would be stable under aqueous conditions and a good candidate for methane uptake,” he said. “What we are doing is creating a universal and scalable machine learning platform that can be trained on new properties. As long as the data is available, the model can learn from it, and make predictions for new cases.”
+In addition to those already mentioned, recent Georgia Tech postdoctoral fellow Rohit Batra and Georgia Tech graduate students Carmen Chen and Tania G. Evans were also coauthors on the
+Nature Machine Intelligence
+paper.
+Ramprasad has experience with machine learning techniques applied to other materials and application spaces, and recently coauthored a review article, “Emerging materials intelligence ecosystems propelled by machine learning,” about a range of artificial intelligence applications in materials science and engineering. Intended to demystify machine learning and to review success stories in the materials development space, it was published, also on Nov. 9, 2020, in the journal
+Nature Reviews Materials .
+In addition to Ramprasad, coauthors on the
+Nature Review Materials
+paper included Batra and Le Song, associate professor in the Georgia Tech College of Computing.
+This work was supported as part of the Center for Understanding and Control of Acid Gas-Induced Evolution of Materials for Energy (UNCAGE-ME), an Energy Frontier Research Center funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences under award no. DE-SC0012577.
+CITATION : Rohit Batra, Carmen Chen, Tania G. Evans, Krista S. Walton, and Rampi Ramprasad, “Prediction of water stability in metal–organic frameworks using machine learning.” ( Nature Machine Intelligence , 2020)
+https://doi.org/10.1038/s42256-020-00249-z
+CITATION : Rohit Batra, Le Song, and Rampi Ramprasad, “Emerging materials intelligence ecosystems propelled by machine learning.” ( Nature Reviews Materials , 2020)
+https://www.nature.com/articles/s41578-020-00255-y.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

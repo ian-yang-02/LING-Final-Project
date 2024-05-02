@@ -1,0 +1,72 @@
+Wildfires Pollute Much More Than Previously Thought
+Data from flights through wildfire plumes reveal three times the officially noted levels for fine particles
+Wildfires burn much more biomass per area than professional prescribed burns, and pollute at a much higher rate. Credit: Kari Greer/USFS Gila National Forest via NASA
+Jun 14, 2017
+— Atlanta, GA
+Summer wildfires boost air pollution considerably more than previously believed.
+Naturally burning timber and brush launch what are called
+fine particles
+into the air at a rate three times as high as levels officially noted in emissions inventories at the U.S. Environmental Protection Agency,
+according to a new study . This does not mean that burning biomass produces more pollution than it previously did, but the new research makes clearer how much and what pollutants are inside a wildfire plume.
+Fine particles, the microscopic, sooty specks that form
+aerosols , are a hazard to human health, particularly to the lungs and heart.
+“Burning biomass produces lots of pollution. These are really bad aerosols to breathe from a health point of view,” said researcher
+Greg Huey from the Georgia Institute of Technology , which led the study. The research also describes other chemicals in wildfire smoke, some never before measured, and it will likely raise the EPA estimated annual emission of
+fine particles, or particulate matter,
+in the western United States significantly.
+The previous
+EPA
+data had been based on plume samples taken in controlled burns ignited by forestry professionals. Measuring naturally occurring plumes so thoroughly, from the sky, directly in the thick of a wildfire had not been possible before this study.
+Plunging into plumes
+Unique research missions deployed planes to plow through the plumes of three major wildfires, including the 2013 Rim Fire,
+the third-largest wildfire in California history.   An ensemble of instruments bristling from the flanks of NASA and U.S. Department of Energy aircraft allowed teams of researchers on board to measure chemicals and particles in real time and cull masses of data, which the new study is based on.
+“We actually went to measure, right above the fire, what was coming out,” said Huey, a professor in Georgia Tech’s School of Earth and Atmospheric Sciences, which he also chairs.
+Bob Yokelson, a professor of atmospheric chemistry at the University of Montana
+has taken a leadership role in many aspects of the research and was in a group of about 20 scientists who selected the instruments to be installed on the large NASA plane. “We really didn’t have to go without anything we wanted really badly,” he said. Yokelson also helped design the flight paths.
+Georgia Tech had instruments and scientists on the NASA DC-8 plane. Researchers associated with a total of more than a dozen universities and organizations participated in data collection or analysis. The scientists published their findings on June 14 in the
+Journal of Geophysical Research: Atmospheres .
+“This paper is expected to serve as a basis for the next NASA fire chemical monitoring mission,” Huey said.
+Refinery in flames
+Methanol, benzene, ozone precursors and other noxious emissions collected from wildfire plumes may make it sound like an oil refinery went up in flames. That’s not so far-fetched, as oil and other fossil fuels derive from ancient biomass.
+“You can see the smoke, and it’s dark for a reason,” Huey said. “When you go measuring wildfires, you get everything there is to measure. You start to wonder sometimes what all is in there.”
+The study found many organic chemicals in the wildfire plumes, and technological advancements allowed them to detect certain nitrates in the smoke for the first time. But burning biomass does not appear to be a dominant source of these chemical pollutants.
+The major findings of the study involved the fine particles, which are dusty, sooty particles much thinner than a grain of sand or a human hair. They can go airborne, as aerosols, on their own or combined with moisture.
+Then people can inhale them. Some particulate matter contains oxidants that cause genetic damage. They can drift over long distances and pollute populated areas.
+Industrial sources also expose people to harmful aerosols, but fires produce more aerosol per amount of fuel burned. “Cars and power plants with pollution controls burn things much more cleanly,” Huey said.
+Various aerosols also rise up in the atmosphere, but their net effect on global warming or cooling is still uncertain, as some aerosols reflect sunlight away from the Earth, and others, in contrast, trap warmth in the atmosphere.
+Also read: Brown carbon from wildfires may boost climate change
+Prescribed burnings
+As global warming expands wildfires in size and number, the ensuing pollution stands to grow along with them. Stepping up professionally controlled man-made burnings may help cut these emissions, the study suggests.
+So-called
+prescribed burnings
+prevent or reduce wildfires, and they appear to produce far less pollution per unit area than wildfires.
+“A prescribed fire might burn five tons of biomass fuel per acre, whereas a wildfire might burn 30,” said Yokelson, who has dedicated decades of research to biomass fires. “This study shows that wildfires also emit three times more aerosol per ton of fuel burned than prescribed fires.”
+While still more needs to be known about professional prescribed burnings’ emissions, this new research makes clear that wildfires burn much more and pollute much more. The data will also help improve overall estimates of wildfire emissions.
+Fire prevention professionals follow stringent rules to carry out prescribed burns to avoid calamity and sending pollution downwind into populated areas. The researchers do not recommend that inexperienced people burn biomass, as this contributes to air pollution and can trigger tragic blazes, including wildfires.
+Daunting flights
+Experiments like these, in real natural disasters, are uncommon not only because of the challenge of assembling so many great instruments and taking them airborne. The flights are also potentially dangerous. Plumes are not only filled with toxins, but their turbulence tosses planes about, rattling technology and researchers.
+“The smoke leaks into the cabin and makes you nauseous,” said Yokelson, who started flying plume missions many years ago. “You’re trying to take notes, run your instrument, look at the fire, talk on the headset, and get pictures. And at the same time, it’s crazy bumpy. Normally, if you’re in a smaller plane, your stomach is not too happy.”
+Also, wildfires pop up unannounced, so flight schedules must be hammered out on short notice around strict regulations that normally prohibit flights near wildfires. Research aircraft also have to coordinate with regional authorities to avoid crossing paths with fire-fighting planes.
+The rare data the flights from
+NASA’s SEAC 4 RS mission
+and the
+Department of Energy’s BBOP mission
+have provided stand to greatly increase understanding of the pollutants naturally burning biomass flings into the air.
+Citation:
+Flight projects that collected the data and also tropical storm data were: SEAC 4 RS by NASA and BBOP by the U.S. Department of Energy. SEAC4R stands for Studies of Emissions and Atmospheric Composition, Clouds and Climate Coupling by Regional Surveys. BBOP stands for Burning Biomass Observation Project.
+The following researchers associated with these institutions also contributed to research included in this paper: Xiaoxi Liu (first author), Laura King and David Tanner, Georgia Tech; Vanessa Selimovic and Markus Müller, University of Montana (Müller also University of Innsbruck); Armin Wisthaler, University of Innsbruck and University of Oslo; Isobel Simpson, Donald Blake and Simone Meinardi, University of California, Irvine; Jose Jimenez, Pedro Campuzano-Jost, Weiwei Hu, Brett Palm, Jeff Peischl and Illana Pollack, University of Colorado, Boulder, (Peischl also NOAA; Pollack also NOAA and Colorado State University); Glen Sachse, Andreas Beyersdorf, Thomas Hanicso and Glenn Wolfe, NASA (Beyersdorf also California State University; Wolfe also University of Maryland); Glenn Diskin, California State University; Zachary Butterfield and Manvendra Dubey, Los Alamos National Laboratory (Butterfield also University of Michigan); John D. Crounse, Jason St. Clair, Alexander Teng and Paul Wennberg, California Institute of Technology (St. Clair also NASA and University of Maryland); Edward Fortner and Timothy Onasch, Aerodyne Research Inc.; Lawrence Kleinman, Arthur Sedlacek and Stephen Springston, Brookhaven National Laboratory; Tomas Mikoviny, University of Oslo; Thomas Ryerson, National Oceanic and Atmospheric Administration; and John Shilling, Pacific Northwest National Laboratory
+Research in this paper was funded by NASA via grants: NNX12AB77G, NNX15AT90G, NNX12AC06G, and NNX14AP46GACCDAM. Findings and opinions are those of the authors and not of the funding agencies.
+Study DOI: 10.1002/2016JD026315
+Additional Images
+Contact
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : Ben Brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu)
+Writer : Ben Brumfield
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

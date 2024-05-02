@@ -1,0 +1,21 @@
+robotic process automation to drive efficiencies in paying invoices 
+ this week, procurement and business services will begin deploying a bot to help reduce the number of supplier invoices that go unpaid due to missing receipts. 
+ feb 07, 2023 
+ — atlanta, ga 
+ since the start of 2022, several offices in finance and planning, including grants and contracts accounting and procurement and business services, have been exploring the possibilities of deploying robotic process automation (rpa) technology, commonly called bots, to help drive efficiencies in processing routine transactions like the receiving of goods and services. 
+ this week, procurement and business services will begin deploying a bot to help reduce the number of supplier invoices that go unpaid due to missing receipts. the procurement receipt bot will create receipts for these invoices and route the receipt to the requisition requester for approval. since any employee can initiate a requisition, the procurement receipt bot has the potential to reduce the administrative burden for anyone involved in making purchases. 
+ “we are excited about the potential of technology, like rpa, to automate manual and repetitive processes in our day-to-day business activities,” said ajay patel, executive director of procurement and business services. “the procurement receipt bot will enable us to process and pay georgia tech’s invoices in a timelier manner while reducing the administrative burden on employees — it creates a win-win outcome.” 
+ it is important to note that the procurement receipt bot is not intended to replace the existing receipt process. it will only assist with creating receipts to pay invoices that have missing receipts, which accounts for approximately 300 to 400 invoices in the daily queue. as a reminder, it is best practice for users to create receipts as items are delivered to georgia tech as opposed to waiting for the invoice. 
+ once operational, the procurement receipt bot will run daily and initiate receipts for purchase orders where an invoice has been submitted and a receipt has not been created. requisition requesters will receive workday inbox notifications alerting them to approve the automated receipts. once approved, the invoice will be routed for payment. 
+ resources: 
+ a 
+ guide for requisition requesters 
+ to use when reviewing and approving these receipts. 
+ if you have additional questions on how to enter a receipt, please review the servicenow article 
+ creating a receipt in workday . 
+ questions and comments can be submitted via 
+ servicenow . 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

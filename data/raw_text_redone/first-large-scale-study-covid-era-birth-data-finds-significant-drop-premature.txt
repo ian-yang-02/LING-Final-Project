@@ -1,0 +1,43 @@
+first large-scale study of covid-era birth data finds significant drop in premature cesarean, induced deliveries 
+ published april 6 in the journal pediatrics, the study by school of economics assistant professor daniel dench is the first to examine pandemic-era birth data at scale. 
+ apr 06, 2022 
+ — atlanta, ga 
+ premature births from cesarean (c-sections) and induced deliveries fell by 6.5% during the first month of the covid-19 pandemic and remained consistently lower throughout — a likely result of fewer prenatal visits due to efforts to slow the spread of the virus, according to new research from 
+ georgia tech's school of economics. 
+ published april 6 in the journal pediatrics, 
+ the study 
+ is the first to examine pandemic-era birth data at scale. the research raises questions about medical interventions in pregnancy and whether some decisions by doctors may result in unnecessary preterm deliveries, according to assistant professor 
+ daniel dench , the paper's lead author. 
+ "while much more research needs to be done, including understanding how these changes affected fetal deaths and how doctors triaged patient care by risk category during the pandemic, these are significant findings that should spark discussion in the medical community," dench said. 
+ notable findings 
+ in effect, the study begins to answer a question that never could have been resolved in a traditional experiment: what would happen to the rate of premature c-sections and induced deliveries if women didn’t see doctors as often, especially in person, during pregnancy? 
+ such an experiment would be unethical, of course. but stay-at-home orders had a side effect of reducing prenatal care visits by more than a third, according to one 
+ analysis . that gave dench and his colleagues — theodore joyce at baruch college and dr. howard minkoff at maimonides medical center — an opportunity to evaluate the impacts, after all. 
+ the researchers examined records of nearly 39 million u.s. births from 2010 to 2020. they used the data from the national center for health statistics to forecast expected premature births — defined as babies born before 37 weeks of pregnancy — from march to december 2020. then they compared the predictions to the actual numbers. 
+ dench and his co-authors found that in march 2020 — when the world health organization declared covid-19 a pandemic, sparking business closures and stay-at-home orders around the country — preterm births from c-sections or induced deliveries immediately fell from the forecasted number by 0.4 percentage points. from march 2020 to december 2020, the number remained on average 0.35 percentage points below the predicted values. that translates to 350 fewer preterm c-sections and induced deliveries per 100,000 live births, or 10,000 fewer overall. 
+ before the pandemic, the number of preterm c-sections and induced deliveries had been rising. spontaneous preterm births — those that were not induced or cesarean — also fell by a small percentage in the first months of the pandemic, but much less than births involving those two factors. the number of full-term cesarean and induced deliveries increased. 
+ the big picture 
+ dench and his co-authors were the first researchers to look at this data on a large scale. 
+ "if you look at 1,000 births in a single hospital, or even at 30,000 births across a hospital system, you wouldn't be able to see the drop as clearly," said dench. "the drop we detected is a huge change, but you might miss it in a small sample." 
+ the researchers also corrected for seasonality — for example, preterm births are higher on average in february than in march — which helped them get a clearer picture of the data. 
+ the research comes with caveats. up to half of all preterm c-sections and induced deliveries are due to a ruptured membrane, which is a spontaneous cause. but in the data dench and his team used, it’s impossible to distinguish these c-sections from the ones caused by doctors’ interventions. so, dench and co-authors are seeking more detailed data to get a clearer picture of preterm deliveries. 
+ still, these findings are significant because the causes for preterm births are not always known. 
+ "however, we know for certain that doctors' interventions cause preterm delivery, and for good reason most of the time," dench said. "so, when i saw the change in preterm births, i thought, if anything changed preterm delivery, it probably had to be some change in how doctors were treating patients." 
+ what's next? 
+ the researchers' findings raise a critical question: was the pre-pandemic level of doctor intervention necessary? 
+ "it's really about, how does this affect fetal health?" said dench. "did doctors miss some false positives — did they just not deliver the babies that would have survived anyway? or did they miss some babies that would die in the womb without intervention?" 
+ dench plans to use fetal death records from march 2020 to december 2020 to answer this question. if he finds no change in fetal deaths at the same time as the drop in preterm births, that could point to "false positives" in doctor intervention that can be avoided in the future. learning which pregnancies required care during the pandemic and which ones didn’t could help doctors avoid unnecessary interventions in the future. 
+ "this is just the start of what i think will be an important line of research," dench said. 
+ the article, “u.s. preterm birth rate and covid-19,” was published online in 
+ pediatrics 
+ on april 6, 2022: it is available at 
+ https: / / doi.org / 10.1542 / peds.2021-055495 . 
+ additional images 
+ contact 
+ di minardi 
+ di.minardi@gatech.edu 
+ email 
+ dminardi3@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,28 @@
+New Water Treatment Approach Helps to Avoid Harmful Chemicals
+Georgia Institute of Technology researchers developed the minus approach to handle these harmful byproducts.
+Sep 11, 2023
+The water coming out of your faucet is safe to drink, but that doesn’t mean it’s completely clean. Chlorine has long been the standard for water treatment, but it often contains trace levels of disinfection byproducts and unknown contaminants. Georgia Institute of Technology researchers developed the minus approach to handle these harmful byproducts.
+Instead of relying on traditional chemical addition (known as the plus approach), the minus approach avoids disinfectants, chemical coagulants, and advanced oxidation processes typical to water treatment processes. It uses a unique mix of filtration methods to remove byproducts and pathogens, enabling water treatment centers to use ultraviolet light and much smaller doses of chemical disinfectants to minimize future bacterial growth down the distribution system.
+“The minus approach is a groundbreaking philosophical concept in water treatment,” said
+Yongsheng Chen , the Bonnie W. and Charles W. Moorman IV Professor in the School of Civil and Environmental Engineering. “Its primary objective is to achieve these outcomes while minimizing the reliance on chemical treatments, which can give rise to various issues in the main water treatment stream.”
+Chen and his student Elliot Reid, the primary author, presented the minus approach in the paper, “ The Minus Approach Can Redefine the Standard of Practice of Drinking Water Treatment ,” in
+The American Chemical Society .
+The minus approach physically separates emerging contaminants and disinfection byproducts from the main water treatment process using these already proven processes:
+Bank filtration withdraws water from naturally occurring or constructed banks like rivers or lakes. As the water travels through the layers of soil and gravel, it naturally filters out impurities, suspended particles, and certain microorganisms.
+Biofiltration uses biological processes to treat water by passing it through filter beds made of sand, gravel, or activated carbon that can support the growth of beneficial microorganisms, which in turn can remove contaminants.
+Adsorption occurs when an adsorbent material like activated carbon is used to trap contaminants.
+Membrane filtration uses a semi-permeable membrane to separate particles and impurities from the main treatment process.
+The minus approach is intended to engage the water community in designing safer, more sustainable, and more intelligent systems. Because its technologies are already available and proven, the minus approach can be implemented immediately.
+It can also integrate with artificial intelligence (AI) to improve filtration’s effectiveness. AI can aid process optimization, predictive maintenance, faulty detection and diagnosis, energy optimization, and decision-support systems. AI models have also been able to reliably predict the origin of different types of pollution in source water, and models have also successfully detected pipeline damage and microbial contamination, allowing for quick and efficient maintenance.
+“This innovative philosophy seeks to revolutionize traditional water treatment practices by providing a more sustainable and environmentally friendly solution,” Chen said. “By reducing the reliance on chemical treatments, the minus approach mitigates the potential risks associated with the use of such chemicals, promoting a safer water supply for both human consumption and environmental protection.”
+CITATION:
+Elliot Reid, Thomas Igou, Yangying Zhao, John Crittenden, Ching-Hua Huang, Paul Westerhoff, Bruce Rittmann, Jörg E. Drewes, and Yongsheng Chen
+Environmental Science & Technology   2023   57  (18), 7150-7161
+DOI: 10.1021/acs.est.2c09389
+Additional Images
+Contact
+Tess Malone, Senior Research Writer/Editor
+tess.malone@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

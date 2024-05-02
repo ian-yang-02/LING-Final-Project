@@ -1,0 +1,32 @@
+A Promising Fingerprint of Extraterrestrial Life
+Scientists are developing the use of dynamic biosignatures – based on seasonal changes in the Earth’s atmosphere – in the search for life in distant planets.
+May 21, 2018
+— Atlanta, GA
+For the foreseeable future, the only real tool to find life on potentially habitable planets that are light years away from Earth is to probe their atmospheres for biological fingerprints of life, called biosignatures.
+This approach has two drawbacks, according to School of Earth and Atmospheric Sciences Assistant Professor Christopher Reinhard. “Some biosignatures can be made by abiotic processes, leading to false positives. Others can be masked by processes that consume biosignatures, leading to false negatives.”
+To overcome these problems, Reinhard and colleagues in the NASA Astrobiology Institute Alternative Earths and Virtual Planetary Laboratory Teams are proposing use of dynamic biosignatures based on seasonal changes in Earth’s atmosphere. The approach – described recently in
+Astrophysical Journal Letters
+– uses the seasonal variation of biologically important gases as a way to deal with false positives and false negatives, Reinhard says.
+Seasonality of Atmospheric Gases
+As Earth orbits the sun, its tilted axis means different regions receive more rays at different times of the year. The most visible signs of this phenomenon are changes in the weather and length of the days, but atmospheric composition is also affected. For example, in the Northern Hemisphere, which contains most the world’s vegetation, plant growth in summer results in noticeably lower levels of carbon dioxide in the atmosphere. The reverse is true for oxygen.
+“Atmospheric seasonality is a promising biosignature because it is biologically modulated on Earth and is likely to occur on other inhabited worlds,” says lead author Stephanie Olson, a graduate student in the
+Department of Earth Sciences
+of the University of California, Riverside (UCR). “Inferring life based on seasonality wouldn’t require a detailed understanding of alien biochemistry because it arises as a biological response to seasonal changes in the environment, rather than as a consequence of a specific biological activity that might be unique to Earth.”
+In the study – funded by the NASA Astrobiology Institute and the National Science Foundation Frontiers in Earth System Dynamics – the researchers identify the opportunities and pitfalls in monitoring the seasonal ebbs and flows of oxygen, carbon dioxide, methane, and ozone. They also modeled fluctuations of atmospheric oxygen on a life-bearing planet with low oxygen content, just as Earth was billions of years ago. “Based on these evaluations,” Reinhard says, “seasonal variations in ozone could be a sensitive biosignature on planets with undetectable levels of oxygen in their atmospheres.”
+Ozone as Indicator of Life
+At Georgia Tech, the Reinhard research group develops comprehensive models for the production and maintenance of robust atmospheric biosignatures on habitable planets, and it played a key role in developing the concept of ozone seasonality as a fingerprint for life on low-oxygen planets. The idea emerged in part as an answer to the “biosignature blind spot” problem Reinhard and colleagues posed in the 2017
+Astrobiology
+paper “ False Negatives for Remote Life Detection on Ocean-Bearing Planets: Lessons from Early Earth .”
+“We are particularly excited about the prospect of characterizing oxygen fluctuations at the low levels we would expect to find on an early version of Earth,” says Timothy Lyons, a professor of biogeochemistry in UCR’s Department of Earth Science and director of the
+Alternative Earths Astrobiology Center . “Seasonal variations as revealed by ozone would be most readily detectable on a planet like Earth was billions of years ago, when most life was still microscopic and ocean dwelling.”
+“Although we think the conceptual framework for this approach is robust,” Reinhard says, “observing and quantifying seasonality represents a daunting challenge. Research will need to take into account modulation of seasonal signals by the angle at which we observe a planet and the shape of its orbit, among other factors. Nevertheless, seasonality represents a potentially powerful approach toward finding life beyond our solar system.”
+Additional Images
+Contact
+A. Maureen Rouhi, Ph.D.
+Director of Communications
+College of Sciences
+Email
+maureen.rouhi@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

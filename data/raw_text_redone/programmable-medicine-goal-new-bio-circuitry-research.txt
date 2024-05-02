@@ -1,0 +1,42 @@
+‘programmable medicine’ is the goal for new bio-circuitry research 
+ a team of researchers is now using what they’ve learned about bio-circuits to lay the groundwork for the future of programmable medicine. 
+ looking like an innocuous vial of liquid, programmable drugs will be able to communicate directly with our biological systems. (credit: allison carter, georgia tech) 
+ oct 07, 2020 
+ — atlanta, ga 
+ in the world of synthetic biology, the development of foundational components like logic gates and genetic clocks has enabled the design of circuits with increasing complexity, including the ability to solve math problems, build autonomous robots, and play interactive games. a team of researchers at the georgia institute of technology is now using what they’ve learned about bio-circuits to lay the groundwork for the future of programmable medicine. 
+ looking like any other small vial of clear liquid, these programmable drugs would communicate directly with our biological systems, dynamically responding to the information flowing through our bodies to automatically deliver proper doses where and when they are needed. these future medicines might even live inside us throughout our lives, fighting infection, detecting cancer and other diseases, essentially becoming a therapeutic biological extension of ourselves. 
+ we are years away from that, but the insights gained from research in gabe kwong’s lab are moving us closer with the development of ‘enzyme computers’ — engineered bio-circuits designed with biological components, with the capacity to expand and augment living functions. 
+ “the long-term vision is this concept of programmable immunity,” said 
+ kwong , associate professor in the 
+ wallace h. coulter department of biomedical engineering 
+ at georgia tech and emory university, who partnered with fellow researcher brandon holt on the paper, “ protease circuits for processing biological information ,” published oct. 6 in the journal 
+ nature communications . the research was sponsored by the national institutes of health. 
+ the story of this paper begins two years ago when, holt said, “our lab has a rich history of developing enzyme-based diagnostics; eventually we started thinking about these systems as computers, which led us to design simple logic gates, such as and gates and or gates. this project grew organically and we realized that there were other devices we can build, like comparators and analog-digital convertors. eventually this led to the idea of taking an analog-to-digital converter and using that to digitize bacterial activity.” 
+ ultimately, they assembled cell-free bio-circuits that can combine with bacteria-infected blood, “with the basic idea that it would quantify the bacterial infection — the number of bacteria — then calculate and release a selective drug dose, essentially in real time,” said holt, a ph.d. student in kwong’s 
+ laboratory for synthetic immunity 
+ and lead author of the paper. 
+ the researchers sought to construct bio-circuits that use protease activity to process biological information under a digital or analog framework (proteases are enzymes that break down proteins into smaller polypeptides and amino acids). the team built its analog-to-digital converter with a tiny device, made only of biological materials, that changed signals from bacteria into ones and zeroes. then, the circuit used these numbers to choose the proper dosage of drugs needed to kill the bacteria without overdosing. 
+ that’s the traditional approach — bio-circuits digitizing molecular signals, allowing operations to be carried out by boolean logic. the second part of the team’s new paper takes a more nuanced approach, with a focus on analog circuits as opposed to digital. “we treat protease activity as multi-valued, signals between one and zero,” holt said. 
+ that multi-valued approach led to yet another idea, and ultimately to the bigger picture of analog bio-circuits. 
+ “we got tempted by this idea of fuzzy logic, where you can think about what happens if there’s a signal between zero and one,” he added. “that’s more like an analog circuit. we were really inspired by this concept, so we decided to build analog bio-circuits with the same basic materials as before — proteases and peptides. and we were able to solve a mathematical oracle problem, learning parity with noise.” 
+ the ability to process information from the biomolecular environment with an analog framework is critical, according to kwong. 
+ “fuzzy logic is interesting because biology doesn’t think in zeroes and ones,” he said. “biology operates as a spectrum. so if you think about enzymatic activity, it’s never just on and off. it’s on, and the activity can be anywhere between zero and one. so the long term goal is to recognize that biology is not as simple as a digital electronic circuit. you actually need some capacity to work with analog signals.” 
+ this work was funded by an nih director’s new innovator award (award no. dp2hd091793) as well as an r01 from the nci (gr10003709). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the nih. 
+ competing interests: gabe kwong is co-founder of and consultant to glympse bio, which is developing products related to the research described in this paper. this study could affect his personal financial status. the terms of this arrangement have been reviewed and approved by georgia tech in accordance with its conflict of interest policies. holt and kwong are listed as inventors on a patent application pertaining to the results of the paper. the patent applicant is the georgia tech research corporation. the application 24 number is pct / us19 / 051833. the patent is currently pending / published (publication no. wo 25 2020 / 061257). the biological analog-to-digital converter and the analog protease circuits are covered in the patent. 
+ citation : brandon holt, gabe kwong. “protease circuits for processing biological information.” ( nature communications , 2020)  ( https: / / www.nature.com / articles / s41467-020-18840-8 ) 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : jerry grillo 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,76 @@
+Data Detectives Shift Suspicions in Alzheimer's from Usual Suspect to Inside Villain
+It may be high time to refocus Alzheimer's research, as a new study strongly points to a biochemical culprit traditionally less pursued.
+The brain of an Alzheimer's sufferer can dramatically lose mass and shrink. In particular, center structures of the brain usually diminish early on. One such region susceptible to early and severe damage is the hippocampus, which can lead to memory loss and disorientation. Illustration credit: National Institute on Aging, National Institutes of Health
+Feb 19, 2018
+— Atlanta, GA
+The mass pursuit of a conspicuous suspect in Alzheimer’s disease may have held back research success for decades. Now, a
+new data analysis
+that has untangled evidence amassed in years of Alzheimer’s studies encourages researchers to refocus their investigations.
+Heaps of plaque formed from amyloid-beta that accumulate in afflicted brains are what stick out under the microscope in tissue samples from
+Alzheimer’s
+sufferers, and that eye-catching junk has long seemed an obvious culprit in the disease. But data analysis of the cumulative evidence doesn’t support giving so much attention to that usual suspect, according to a
+new study from the Georgia Institute of Technology .
+Though the bad amyloid-beta protein does appear to be an accomplice in the disease, the study has pointed to a seemingly more likely red-handed offender, another protein-gone-bad called phosphorylated
+tau
+(p-tau). What’s more, the Georgia Tech data analysis of multiple studies done on mice also turned up signs that multiple biochemical actors work together in Alzheimer’s to tear down neurons, the cells that the brain uses to do its work.
+Suspect line-up: P-tau implicated, plaque not so much
+And the corrupted amyloid-beta that appeared more directly in cahoots with p-tau in the sabotage of brain function was not tied up in that plaque. In the line-up of the biochemical suspects examined, principal investigator
+Cassie Mitchell, an assistant professor in the Wallace H. Coulter Department of Biomedical Engineering
+at Georgia Tech and Emory University, said the data pointed to a pecking order of culpability.
+“The most important one would be the level of phosphorylated tau present. It had the strongest connection with cognitive decline,” Mitchell said. “The correlation with
+amyloid
+plaque
+was there but very weak; not nearly as strong as the correlation between p-tau and cognitive decline.”
+Mitchell, a biomedical informaticist, and first author Colin Huber statistically analyzed data gleaned from 51 existing lab studies in mice genetically augmented with a human form of Alzheimer’s. They published their analysis
+in the current edition of the
+Journal of Alzheimer’s Disease . The research was funded by the National Institutes of Health.
+The crime: Eviscerating the brain
+One look at an image of an Alzheimer’s afflicted brain is unflinching testimony to the disease’s cruelty: It
+destroys of up to 30 percent of a brain’s mass , carving out ravines and depositing piles of molecular junk, most visibly amyloid plaque.
+The plaque builds up outside of neurons, while inside neurons, p-tau forms similar junk known as
+neurofibrillary tangles
+that many researchers believe push the cells to their demise. But many biochemical machinations behind Alzheimer’s are still unknown, and the fight to uncover them has vexed researchers for decades.
+Since the
+first patient was diagnosed by Dr. Aloysius Alzheimer between 1901 and 1906 , little medical progress has been made. Though some available medications may mitigate symptoms somewhat, none significantly slow disease progression, let alone stop it.
+Alzheimer’s mostly strikes late in life. Longer lifespans in industrialized countries have ballooned the caseload, advancing the disease to a major cause of death.
+Meet the syndicate: Assassin, accomplices, stooges
+Even though p-tau showed the strongest correlation with cognitive decline, and amyloid-beta only a slight correlation, that doesn’t mean that p-tau is committing the crime inside cells all by itself while amyloid loiters in spaces outside of cells in large gangs, creating a distraction. Mitchell’s data analysis has pointed to dynamics more enmeshed than that.
+“Though the study had clear trends, it also had a good bit of variance that would indicate multiple factors influencing outcomes,” Mitchell said. And a particular manifestation of amyloid-beta has piqued the researchers’ ire.
+Little pieces are water soluble, that is, not tied up in clumps of plaque. The data has shown that these tiny amyloids may be up to no good. After p-tau levels, the study revealed that those of soluble amyloid-beta had the second-strongest correlation with cognitive decline.
+“Lumpy amyloid-beta, the stuff we see, ironically doesn’t correlate as well with cognitive decline as the soluble amyloid,” Mitchell said. “The amyloid you don’t see is like the sugar in your tea that dissolves and hits your taste buds versus the insoluble amyloid, which is more like the sugar that doesn’t dissolve and stays at the bottom of the cup.”
+Some Alzheimer’s researchers have cited evidence indicating that free-floating amyloid helps produce the corrupted p-tau via a chain of reactions that centers around
+GSK3
+(Glycogen synthase kinase 3), an enzyme that arms tau with phosphorous, turning it into a potential biochemical assassin.
+Incidentally, Mitchell’s study also looked at un-phosphorylated tau and found its levels do not correlate with cognitive decline. “That makes sense,” Mitchell said. “Regular tau is the backbone of our neurons, so it has to be there.”
+Also, p-tau is a normal part of healthy cells, but in Alzheimer’s it is wildly overproduced.
+Massive dataset: 528 mice rat out p-tau
+One advantage of
+data mining
+51 existing studies versus doing one new lab experiment, is that the cumulative analysis adds the sample sizes of so many studies together for a whopping grand total. Mitchell’s analysis encompassed results from past experiments carried out on, all totaled, 528 Alzheimer’s mice.
+A previous study Mitchell led had already indicated that amyloid-beta plaque levels may not be the most productive target for drug development. Separate reports by other researchers on failed human trials of drugs that fought plaque would seem to corroborate this.
+Mitchell’s prior analysis examined lab studies that used an Alzheimer’s lab mouse model that did not allow for the study of p-tau. Mitchell’s current analysis covered studies involving a different mouse model that did allow for the observation of p-tau.
+Mitchell’s latest findings have corroborated the prior study’s findings on amyloid, and also added p-tau as a key suspect in cognitive decline.
+Principal investigator: My take on possible treatments
+To arrive at the 51 studies with data suitable for inclusion in their analysis, Mitchell’s research team sifted through hundreds of Alzheimer’s research papers, and over time, Mitchell has examined a few thousand herself. She has gained some impressions of how biomedical research may need to tackle the disease’s slippery biochemical labyrinth.
+“When we see multifactorial diseases, we tend to think we’ll need multifactorial treatments,” Mitchell said. “That seems to be working well with cancer, where they combine chemotherapy with things like immunotherapy.”
+Also, Alzheimer’s diagnosticians might be wise to their adopt cancer colleagues’ early detection stance, she said, as Alzheimer’s disease appears to start long before amyloid-beta plaque appears and cognitive decline sets in.
+Above all, basic research should cast a broader net.
+“I think p-tau is going to have to be a big part,” she said. “And it may be time to not latch onto amyloid-beta plaque so much like the field has for a few decades.”
+Did you know? Cassie Mitchell is also an Olympic medalist!
+Watch her video here .
+Also READ: Our feature on Alzheimer’s research
+–
+Killing the Mind First
+Like this article?  Get our email newsletter here.
+Georgia Tech’s Connor Yee, Taylor May, and Apoorva Dhanala coauthored the study. Funding was provided by the National Institute of Neurological Disorders and Stroke at the National Institutes of Health (grants NS069616, NS098228, and NS081426). Any findings or conclusions are those of the authors and not necessarily of the sponsor.
+Additional Images
+Contact
+Writer & Media Representative : Ben Brumfield (404-660-1408)
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

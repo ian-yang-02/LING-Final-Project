@@ -1,0 +1,48 @@
+Positive Signs, But Diversity Still Lagging in AP Computer Science Exam Participation
+A 2017 analysis of AP CS exam results by Georgia Tech has revealed that much remains to be done to increase diversity in CS.
+Dec 04, 2017
+— Atlanta, GA
+More than 32 states doubled minority participation and six states doubled female participation in Advanced Placement Computer Science exams in 2017, but according to a
+new analysis from the Georgia Institute of Technology , more needs to be done to improve outcomes for underrepresented students.
+The analysis – released to coincide with
+National Computer Science Education Week
+– examines
+College Board
+data on 2017 national results of the Advanced Placement Computer Science (AP CS) A exam and the recently introduced AP CS Principles (P) exam.
+Increasing female & minority access
+According to
+Barbara Ericson , Georgia Tech research scientist and author of the analysis, the introduction this year of a new AP CS P course and exam contributed to the increases.
+“This is exactly what we hoped for. The CS principles course is on par with a college-level intro course for non-CS majors, so it is more accessible to more people,” said Ericson.
+Officials had estimated nearly 20,000
+AP CS P
+exams would be taken this year. However, Ericson said the actual number topped 40,000.
+“Although overall growth in female and minority participation in the AP CS A exam was relatively flat this year, we’re hopeful that the introduction of the P exam will help swell A exam participation rates in the next few years.”
+AP Computer Science A
+Despite marginal growth among underrepresented students, overall participation in the
+AP CS A exam
+grew by 11.2 percent year-over-year in 2017. A record 60,519 U.S. high school students took the exam with an overall pass rate of 61.8 percent, up more than a percentage point from the previous year.
+“It’s great to see growth across the board, but there’s still a long way to go before AP computer science is as available in U.S. classrooms as, say, AP Physics or Calculus,” said Ericson.
+More than 170,000 students took the AP Physics 1 exam this year, while more than 316,000 took the AP Calculus AB exam.
+Negative stereotypes impacting outcomes
+“Increasing the penetration rate for CS is critically important to the U.S. remaining competitive in an international marketplace increasingly reliant on computing and hungry for highly skilled and well-trained computer science talent,” said Ericson.
+Despite some positive movement this year, the analysis shows that more needs to be done to improve outcomes for female and underrepresented students. The CS A exam had the lowest participation rate among female students than any other AP exam this year.
+The pass rate nationally for women taking the AP CS A exam was 64 percent, which was lower than males by 3.8 percent. The pass rate for African American females was 26.1 percent. In 12 states, no African American females took the exam.
+Comprising just 16 percent of all exam takers, the pass rate for underrepresented students was 44 percent.
+“Many of these students have less exposure and less confidence in their ability to do computer science,” Ericson said. “They also encounter negative stereotypes about computer science, either people telling them CS is not for them or that CS is boring, antisocial, and doesn’t help anybody.”
+AP Computer Science P
+In its initial year, 43,780 AP CS Principles exams were given following the 2016 introduction of the new course offering.
+Female students represented 30 percent of AP CS P exam takers, while 26 percent were from underrepresented groups, which include American Indian/Alaska Native, Black, Hispanic/Latino, and Native Hawaiian/Other Pacific Islanders. This was the second highest rate of underrepresented minority participation for all STEM (science, technology, engineering, and math) AP exams.
+Opportunity to build on success
+Overall, the pass rate for the AP CS P exam was 75.1 percent. However, the same disparity that exists between majority and minority outcomes on the AP CS A exam is also evident in the P exam.
+The pass rate for women was 70 percent, lower than their male counterparts by 6 percent. At 53 percent, the pass rate for underrepresented students was nearly 30 percent lower than the majority on the CS principles exam.
+“The goal of the CS P course is to provide an engaging and rigorous introduction to computer science to a broad diversity of students. While the CS P exam takers are more diverse than those who took the CS A exam, the percentage of females is still low and under-represented students have a lower pass rate on both exams," said Ericson.
+“More work needs to be done to recruit and support females and minorities in computer science. Hopefully, as a nation, we can build on the initial success of CS P to truly offer computer science for all students.”
+Additional Images
+Contact
+Albert Snedeker, Communications Manager
+albert.snedeker@cc.gatech.edu
+Email
+albert.snedeker@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

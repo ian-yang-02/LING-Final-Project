@@ -1,0 +1,48 @@
+novel solar cells arrive at international space station for testing 
+ five different types of solar cells fabricated by georgia tech researchers have arrived at the international space station to be tested. 
+ a northrop grumman cygnus spacecraft carrying the georgia tech solar cells lifts off from nasa’s wallops island facility on nov. 2 as part of a routine resupply mission. (photo: canek fuentes-hernandez) 
+ nov 06, 2019 
+ — atlanta, ga 
+ five different types of solar cells fabricated by research teams at the georgia institute of technology have arrived at the international space station (iss) to be tested for their power conversion rate and ability to operate in the harsh space environment as part of the misse-12 mission. one type of cell, made of low-cost organic materials, has not been extensively tested in space before. 
+ textured carbon nanotube-based photovoltaic cells designed to capture light from any angle will be evaluated for their ability to efficiently produce power regardless of their orientation toward the sun. other cells made from perovskite materials and a low-cost copper-zinc-tin-sulfide (czts) material – along with a control group of traditional silicon-based cells – will be among the 20 photovoltaic (pv) devices placed on the materials international space station experiment flight facility on the exterior of the iss for a six-month evaluation. for two of the cells, the launch marked their second trip into space. 
+ “the research questions are the same for all the photovoltaic cells: can these photo-absorbers be used effectively in space?” said 
+ jud ready , principal research engineer in the 
+ georgia tech research institute 
+ (gtri), associate director of georgia tech’s center for space technology and research, and deputy director of georgia tech’s institute for materials. “with this test, we will gain insights into the degradation mechanisms of these materials and be able to compare their power production under varying conditions.” 
+ organic solar cells developed in the laboratory of professor 
+ bernard kippelen 
+ at georgia tech are processed at low temperatures using solution-based processes over large areas to produce cells with an absorber that can be about 200 times thinner than the width of a human hair. 
+ “with a very low weight and power conversion efficiency values of up to 16%, organic solar cells could yield power values in the hundreds of thousands of watts per kilogram of active material, which is very attractive for space applications,” said kippelen, the joseph m. pettit professor in the 
+ school of electrical and computer engineering . “however, the effects of continuous exposure of these devices in a space environment have not been thoroughly explored. our interest is in investigating the robustness of the interfaces formed in these devices in a space environment, as well as to improve our understanding of the mechanisms of degradation for organic solar cells in space.” 
+ traditional flat solar cells are most efficient when the sunlight is directly overhead. because the direction of the solar flux varies with the orbit, large space vehicles like the iss use mechanical pointing mechanisms to keep the cells properly aimed. those complex mechanisms create maintenance issues, however, and are too heavy for use on very small spacecraft such as cubesats. 
+ to overcome the pointing problem, ready’s team developed 3d textured solar cells that can efficiently capture sunlight arriving at different angles. the cells use “towers” made from carbon nanotubes and covered with pv material to trap light that would bounce off standard cells when they are not angled toward the sun. 
+ “with our light-trapping structure, we are agnostic to the sun angle,” said ready. “our cells actually work better at glancing angles. on cubesats, that will allow efficient capture regardless of the orientation of the sun.” 
+ perovskite cells produced in the laboratory of 
+ zhiqun lin , professor in the 
+ school of materials science and engineering , will also be tested. these materials have known failure mechanisms caused by moisture and oxygen absorption. “these two failure mechanisms won’t be present on the outside of the international space station, so this test will allow us to see the performance of these materials without those issues. we should be able to determine whether these known issues might be masking other degradation causes,” ready said. 
+ czts materials are potentially next-generation solar cells made up of low-cost, earth-abundant materials: copper, zinc, tin and sulfur. the materials have a high absorption coefficient and may be resistant to radiation – useful for space applications – and offer an attractive tradeoff between cost and performance, ready said. 
+ silicon-based solar cells produced by the 
+ university center of excellence in photovoltaic research and education 
+ at georgia tech will provide a way to compare the performance of the other cells. the laboratory, headed by regents professor 
+ ajeet rohatgi 
+ from the school of electrical and computer engineering, provided boron-doped p-type cells with a phosphorus-doped n+ emitter and aluminum-doped p+ back surface field. 
+ “these silicon photo-absorber cells will serve as controls to compare the performance of other photo-absorber materials in space,” said rohatgi. 
+ the 20 pv cells will briefly join three other cells fabricated by georgia tech researchers that are already on the iss. those three, and two on the newest mission, were part of a 2016 experiment that was unable to record data, though it did provide information about the effects of the space environment on the solar cells. 
+ the georgia tech photovoltaic cells were launched to the iss on nov. 2 aboard the s.s. alan bean, a northrop grumman cygnus spacecraft from nasa’s wallops island facility, as part of a routine resupply mission. for their testing, the cells were integrated into a test package by alpha space test & research alliance of houston. 
+ in addition to those already mentioned, the project also included canek fuentes-hernandez, matthew rager, hunter chan, christopher tran, christopher blancher, zhitao kang and conner awald and brian rounsaville, all from georgia tech. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

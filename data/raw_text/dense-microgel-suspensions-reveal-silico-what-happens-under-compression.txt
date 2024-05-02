@@ -1,0 +1,45 @@
+Dense Microgel Suspensions Reveal In-silico What Happens Under Compression
+Simulations of microgel suspensions show the surprising behavior of these materials when they are compressed.
+Snapshots illustrating changes in microgel suspension for different packing conditions for the (A–D) volumetric and (E–J) solvency packing methods. (Credit: Georgia Tech)
+Nov 04, 2020
+— Atlanta, GA
+Microgel suspensions made up of microscopic liquid-filled polymer particles occupy a curious physical state somewhere between liquid and solid, giving them unique properties and potential uses in self-healing structures, optically active materials, microreactors, drug-delivery systems, and templates for regenerating living structures such as bone and muscle.
+Using large-scale computer simulations, researchers at the Georgia Institute of Technology have now mapped out the surprising behavior and mechanics of these complex particle-solvent systems, learning how the “soft and squishy” particles deform, swell, de-swell, and penetrate each other as they respond to compression. The findings could help guide the design of microgel-based applications with unique and useful properties.
+“We wanted to understand broadly what happens to these particles if you put them together and start compressing them,” said
+Alexander Alexeev , professor and Anderer Faculty Fellow in Georgia Tech’s
+George W. Woodruff School of Mechanical Engineering . “Unlike rigid particles that fill the available space and then stop compressing, these particles have multiple processes that can work in parallel inside the suspension. Microgels can change shape, shrink, and penetrate one another. We found that these processes play a varying role when you increase the particle number density and compress them enough.”
+Findings of the study were reported October 19 in the journal
+Proceedings of the National Academy of Sciences . The research was supported by the National Science Foundation (NSF) and the MCIU/AEI/FEDER EU, and simulations utilized the NSF’s Extreme Science and Engineering Discovery Environment.
+Using mesoscale computer simulations, the researchers studied the behavior of compressed suspensions consisting of shape-shifting microgels with different architectures at a variety of packing fractions and solvent conditions. They found that under compression, the “fluffy” microgels — which resemble microscopic sponges with polymer threads extending from them — change shape and shrink, with limited interpenetration among particles.
+“You can use their softness and the fact that they change shape to pack them even more,” said
+Alberto Fernandez-Nieves , ICREA Professor in the Department of Condensed Matter Physics at the University of Barcelona and adjunct professor in Georgia Tech’s
+School of Physics . “There are a variety of mechanisms to pack them into an available volume, and these mechanisms may play a different role depending on the situation. Until this study, we didn’t quite know how the microgels could be packed together beyond random close packing.”
+Their ability to release solvent allows the microgels to shrink and deform, unlike hard particles in regular colloidal suspensions. In addition, the polymer threads allow them to interpenetrate and overlap to pack more particles into a given space. The microgel particles range in size from 50 nanometers up to as much as 10 microns in diameter. In their simulations, Alexeev, Fernandez-Nieves, and recent Ph.D. graduate Svetoslav Nikolov studied suspensions containing about a hundred microgel particles.
+“Their compressibility is a new ingredient that is not present in other soft particles, and it can bring about the fascinating and unique aspects of these microgel systems,” said Fernandez-Nieves. “This study gives us information we need to exploit this softness to achieve things we wouldn’t be able to do otherwise.”
+The simulations provided information about the effects of variables such as solvent type and degree of compression on the mechanical properties of the microgels in the suspension.
+“If you look at the mechanical properties of the suspension in different solvents, you see the curves are very different,” Alexeev said. “If they are swollen, they are fluffy and can move around in the suspension. If they expel solvent, they can become almost dry, so the mechanical properties can change dramatically. What we found is surprising and not at all what people expected.”
+Among the key fundamental findings is that the mechanical properties of the suspension can be quantified in terms of the single microgel bulk modulus. “It is how these particles compress that determines the material properties of the whole suspension when it is sufficiently concentrated,” Fernandez-Nieves said.
+“You can have many different kinds of behavior, but when you scale all the behaviors by the actual compressibility of one microgel, all the behaviors come together,” he added. “That means this quantity seems to be the important one to consider to understand the macroscopic properties of the suspension.”
+The researchers used the NSF’s
+Extreme Science and Engineering Discovery Environment
+to simulate the microgel systems. While the behavior of ordinary particle-based systems might seem straightforward to study, the compressibility of the microgels coupled with the complexity of the polymer crosslinking made the simulation quite large, Alexeev noted.
+“A single particle is already a quite complicated system,” he said. “The computational complexity provided findings that we hope will encourage experimentalists to further explore what these unique systems can do.”
+This research was supported by the NSF Faculty Early Career Development (CAREER) Award DMR-1255288, the MCIU/AEI/FEDER, EU (Grant PGC2018-336 097842-B-I00), and NSF Graduate Research Fellowship DGE-1650044. The simulations were performed using the computational resources of the Extreme Science and Engineering Discovery Environment provided through NSF Awards DMR-180038 and DMR-180026. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding agencies.
+CITATION : Svetoslav V. Nikolov, Alberto Fernandez-Nieves, and Alexander Alexeev, “Behavior and mechanics of dense microgel suspensions” ( Proceedings of the National Academy of Sciences , 2020).
+https://doi.org/10.1073/pnas.2008076117
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

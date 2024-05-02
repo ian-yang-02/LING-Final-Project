@@ -1,0 +1,44 @@
+Faster Detection, Cleanup of Network Infections are Goals of $12.8 Million Project
+Georgia Tech has received a $12.8 contract award to accelerate detection of network infections.
+Cybersecurity researchers at the Georgia Institute of Technology have been awarded a $12.8 million contract to develop fundamentally new techniques designed to dramatically accelerate the detection and remediation of infections in local and remote networks. (Credit: Branden Camp, Georgia Tech Research Institute)
+May 14, 2018
+— Atlanta, GA
+Cybersecurity researchers at the Georgia Institute of Technology have been awarded a $12.8 million contract to develop fundamentally new techniques designed to dramatically accelerate the detection and remediation of infections in local and remote networks. Using novel machine learning techniques that take advantage of large datasets, the researchers will develop ways to detect network infections within 24 hours – before invaders can do serious damage.
+The technical goal for the new system, dubbed “Gnomon,” is to detect changes in individual computer systems by analyzing suspicious network traffic that appears weeks or months before any evidence of malicious software – or malware – can be identified. As a proof-of-concept, the researchers will work with two major U.S. telecommunication companies and several petabytes of data in basic research aimed at detecting signals of malicious activity on their networks.
+Funded by the Defense Advanced Research Projects Agency (DARPA), the four-year award is part of the agency’s Harnessing Autonomy for Countering Cyberadversary Systems (HACCS) program. Beyond rapid detection of infections, the project will also accelerate the cleanup after such infections, creating a clearer pathway in a process known as remediation.
+“A compromise becomes a breach only if the original infection remains undetected long enough for the adversaries to do damage,” said
+Manos Antonakakis , an assistant professor in Georgia Tech’s
+School of Electrical and Computer Engineering
+and the project’s co-principal investigator. “If you look at the major breaches that have occurred, you see that the adversaries were in the systems for months. We want to identify them in a matter of hours to contain the infection before any real damage can be done.”
+The new techniques to be developed will address the realization that network attacks cannot be completely blocked by existing defenses and malware-based detection systems. Dynamic intelligence will be a key feature of the system, with the intent of creating a continuously-updated dossier of every address in IPv4 space.
+“Gnomon will search for illicit behavior in computer systems and network signals that indicate the start of an infection,” said
+Michael Farrell , chief strategist at the
+Georgia Tech Research Institute
+(GTRI), and the principal investigator on the program. “We’ll use our experience with taking down botnets – networks of infected computers – to accelerate the detection and remediation process. It’s imperative to evolve our view of the internetwork infrastructure at the same pace that the threat evolves.”
+To protect millions of computers on the networks of the two companies, the researchers must find ways to identify troubling behavior on individual IP addresses without endangering the privacy of individuals. Among the signs of trouble are communications with network locations known to house malicious activity. Such communication is necessary for malicious groups to control computers that have been compromised, and to move data stolen from them.
+“If you know where the infecting groups are located, you can very easily exclude most of the benign activities occurring on the network,” Antonakakis said. “We need to be able to identify what has changed in computers throughout the network, understand why the change has happened, and determine whether that change can be attributed to benign or malicious activity. This is a groundbreaking new approach to network security that will require tremendous computing power and infrastructure.”
+Ever since the first viruses hit computers in the 1980s, cybersecurity has seen rapid evolution of detection and attack tactics. The success of Gnomon will likely drive adversaries to new attack techniques that may be more complex – and expensive – than existing activities. Making cyberattacks more costly to launch may reduce the profit from such activities, making them less attractive.
+“If we can clean up our networks faster and more efficiently, that will increase the cost of the attack, making the adversaries work harder,” Antonakakis said. “If you raise the cost of an attack, the return on investment becomes smaller, while the risk of getting identified becomes higher. We would like to make the business of an attack so unprofitable and so risky for the adversaries that it will not make sense for them to conduct major operations in our networks.”
+Success in developing new techniques with the first two telecommunication companies could open the door for scaling up Gnomon to other large networks in industry – and to U.S. government systems.
+“Not only will deployment have an obvious benefit of improved hygiene for a significant portion of the U.S. internet infrastructure, but the public-private partnership will allow us to provide valuable feedback throughout the HACCS program on the sort of prototypes that will be necessary to have true business and mission impact in the real world,” Farrell said. “The goals are very ambitious, but if we’re successful, we’ll be able to close the gap between an infection and remediation.”
+This program is the latest interdisciplinary research collaboration in cybersecurity at Georgia Tech, orchestrated by the
+Institute for Information Security & Privacy
+(IISP). In addition to the School of Electrical and Computer Engineering and GTRI, the project will include Professor Brian Kennedy from Georgia Tech’s School of Physics.
+Attribution of malicious cyber activity is an established research thrust at Georgia Tech, and this new contract builds on the early success of another Department of Defense (DoD) sponsored program to enhance attribution. The “ Rhamnousia ” program is now a $25.3 million contract being led by the same research team of Farrell and Antonakakis.
+This material is based upon work supported by the Defense Advanced Research Projects Agency (DARPA) under contract number HR001118C0057. Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the Defense Advanced Research Projects Agency (DARPA).
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

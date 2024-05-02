@@ -1,0 +1,38 @@
+app detects harsh side effect of breast cancer treatment 
+ many breast cancer survivors suffer from lymph collection known as lymphedema, and a new phone app detects it early. 
+ an app and a camera attachment are now all that are needed to check for early onset lymphedema in breast cancer survivors. credit: lymphatech / georgia tech 
+ mar 16, 2020 
+ — atlanta, ga 
+ some 20 percent of breast cancer survivors will suffer from lymphedema, a potentially severe side effect of treatment that makes arms swell with lymph. the disease is often overlooked, but commercially available app-based technology now makes early detection easier, allowing for proactive treatment. 
+ the lymphedema monitoring technology originated through research at the georgia institute of technology and was further developed for market by the company lymphatech, which also emerged from georgia tech. now,  a new study  has benchmarked the technology, finding that it effectively detects early arm swelling associated with  lymphedema  in breast cancer patients. 
+ the detection technology is intended to improve not only patients’ physical health but also their peace of mind and finances. 
+ severe depression 
+ “the most immediate awful consequence of lymphedema is seen in mental health. severe depression is very high,” said brandon dixon, who co-led the study and is an  associate professor in georgia tech’s george w. woodruff school of mechanical engineering . “if you detect it early, managing it could cost as little as $2,500 in a patient’s lifetime. if you catch it too late, the costs can rise as high as $200,000.” 
+ “lymphedema is under-researched, so we don’t know directly how it may lead to deadly health conditions, but there are more cases than aids, parkinson’s disease, and alzheimer’s disease combined, and it diminishes patients’ health,” dixon said. 
+ the researchers published the detector’s test results  in the journal  physical therapy  in february 2019 . dixon and georgia tech graduates founded lymphatech through the initiative  ti:ger, technology innovation: generating economic results  at georgia tech’s scheller college of business. the startup received early funding from the georgia research alliance. 
+ no cure 
+ lymphedema can strike breast cancer survivors if surgery includes the removal of a lymph node, slowing the flow of  lymph . the liquid waste can congest the arm, at first subtly but later so drastically that patients may no longer fit into their clothing. 
+ “it makes the stigma of cancer stick out,” dixon said. “and it is a very underappreciated disorder in medical treatment, so patients can feel stuck with it with no way out.” 
+ a german device called a perometer accurately detects arm swelling caused by lymphedema, but perometers are seldom available in the u.s. the research team could find only one in metropolitan atlanta to benchmark the  lymphatech  system against. it was located at  turningpoint breast cancer rehabilitation , a non-profit center that co-led the new study in collaboration with dixon. 
+ the advantages of the new technology over  perometers  are cost and convenience. perimeters are bulky, costly machines, while the lymphatech system runs on iphone or ipad and requires only a $400 camera attachment and a paid smartphone app. both perometers and the app technology simply determine total volume of the arm for swelling diagnosis. 
+ the new app system performed comparably in its accuracy to the perometer in the study. 
+ [ready for graduate school?  here's how to apply to georgia tech. ] 
+ awareness barriers 
+ developing lymphatech has faced a more challenging component – spreading lymphedema awareness – and a less challenging component – arriving at the technology to make the app measurements work. 
+ “in the past 20 years, depth-sensor cameras have become significantly cheaper and better. video games, self-driving cars, robotics – they have all required better depth sensors, and we took advantage of that by using a commercially available lens attachment,” dixon said. 
+ the camera attachment creates point clouds, 3d representations of objects, in this case of human arms, which the app uses to calculate the total arm volume. usually, only one arm is afflicted with lymphedema, allowing clinicians to compare it with the unaffected arm for easier gauging of disease severity. 
+ as with perometers, the lymphatech technology avoids human error that creeps in when recording arm volume with a tape measure, a currently common method to assess lymphedema. 
+ “the real battle has been to convince a medical market that has not much cared about lymphedema in the past or sought solutions to care,” dixon said. “hopefully, the high accessibility of our solution will make it easier to care.” 
+ in a separate study involving the lymphatech system, a research team traveled to sri lanka to measure lymphedema in legs, dixon said. and in germany, the technology is catching on with medical garment manufacturers to help them custom-fit compression sleeves to treat lymphedema. 
+ also read: 
+ experimental flickering light device to treat alzheimer's triggers special brain chemistry 
+ here's how to 
+ subscribe to our free science and technology newsletter 
+ these researchers and clinicians co-authored the study: jill binkley and lauren bober from turningpoint breast cancer rehabilitation, and lymphatech’s michael weiler and nathan frank, both of whom graduated from georgia tech. paul stratford from mcmaster university also co-authored the study.  disclosures: b. dixon owns equity in lymphatech   and may benefit financially from the technology. j.b. dixon is   affiliated with lymphatech inc and serves as a scientific advisor.   georgia institute of technology has licensed to lymphatech   technology that is related to this study and that is covered by patent applications for which j.b. dixon is an inventor. in addition,   j.b. dixon is eligible to receive royalties under the license   agreement for lymphatech. 
+ this content is a public domain news release and may also be republished without charge. 
+ writer & media representative : ben brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

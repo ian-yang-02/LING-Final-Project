@@ -1,0 +1,43 @@
+Tiny Supersonic Jet Injector Accelerates Nanoscale Additive Manufacturing
+By energizing precursor molecules, researchers have dramatically accelerated the fabrication of nanometer scale structures.
+Cross-section view shows molecular density of the supersonic gas jet as it expands in vacuum and impinges onto a substrate, leading to accelerated material deposition from an energized adsorbed precursor. (Credit: Matthew R. Henry)
+Jul 02, 2019
+— Atlanta, GA
+By energizing precursor molecules using a tiny, high-energy supersonic jet of inert gas, researchers have dramatically accelerated the fabrication of nanometer scale structures. The rapid additive manufacturing technique also allows them to produce structures with high aspect ratios. Now, a theory developed to describe the technique could lead to new applications for additive nanomanufacturing and new nanoscale materials.
+Based on focused electron beam deposition, the technique allows structures to be fabricated from gas-phase precursors at rates approaching what could be expected in the liquid phase – all without raising the temperature of substrates. That could lead to manufacturing of the nanometer-scale structures at rates that could make them practical for use in magnetic memory, high-frequency antennas, quantum communication devices, spintronics and atomic-scale resonators.
+“We are controlling matter on the atomic scale to bring about new modes of additive manufacturing,” said
+Andrei Fedorov , a professor in the
+George W. Woodruff School of Mechanical Engineering
+at the Georgia Institute of Technology. “This new science could bring about additive manufacturing applications that might otherwise be impossible. The resulting new technology will open up new dimensions for additive manufacturing at the atomic scale.”
+The work grew out of frustration with trying to create small structures using the electron beams, which can be just a few nanometers in diameter. The research was supported by the U.S. Department of Energy’s Office of Science, and was reported May 28 in the journal
+Physical Chemistry Chemical Physics .
+“When we went to the lab to use nanofabrication with focused electron beams, which are the size of a few nanometers, we could not grow structures that were just a few nanometers. They grew to be 50 or 100 nanometers,” Fedorov explained. “And it also took a long time to produce the structures, which meant that, without improvements, we’d never be able to produce them at high volume.”
+Fedorov and collaborators Matthew Henry and Songkil Kim realized the reactions producing the structures were slow, and tied to the thermodynamic state of the substrate on which they are being grown. They decided to add some energy to the process to speed things up – as much as a hundred times faster.
+The result was the invention of a micro-capillary injector just a few micrometers in diameter that could introduce tiny jets of gaseous molecules into the deposition chamber to activate the precursors for the nanometer-scale structures. Partly because the jet is entering a vacuum chamber, the gas accelerates to supersonic speeds. Energy from the supersonic jet excites the precursor molecules that are adsorbed to the substrate.
+“This energetic thermal state allows the electrons from the beam to much more easily break chemical bonds, and as a result, structures grow much faster,” Fedorov said. “All of this amplification, both the molecule transport and the rate of reaction, are exponential, meaning a small change can lead to a dramatic increase in outcome.”
+That much has been observed experimentally, but to understand how to control the process and expand its applications, the researchers wanted to create a theory for what they were seeing. They used nano-scale thermometric techniques to measure the temperature of the adsorbed atoms – also known as adatoms – subjected to the jet, and used that information to help understand the basic physics at work.
+“Once we have a model, it essentially becomes a design tool,” Fedorov said. “With this understanding and the capabilities we have demonstrated, we can expand them to other fields such as directed self-assembly, epitaxial growth and other areas. This could enable a whole host of new capabilities to use this kind of direct-write nanofabrication.”
+Development of the model and understanding of the first-principles physics behind it could also allow other researchers to find new applications.
+“With this, you can have almost the same order of magnitude growth rate as you’d have with liquid phase precursors, but still have access to the richness of possible precursors, the ability to manipulate alloying, and all the experience that has been developed over the years with gas phase deposition,” Fedorov said. “This technology will allow us to do things at a scale that is meaningful from a practical standpoint and cost-effective.”
+The ability to rapidly produce small, three-dimensional structures could open up a range of new applications.
+“If you can adapt additive direct-write techniques, this could bring a lot of unique capabilities for magnetic memory, superconducting materials, quantum devices, 3D electronic circuitry, and many more things,” he said. “These structures are currently very hard to make using conventional methods.”
+Beyond using the jets to accelerate deposition of precursor materials already on the substrate, the researchers have also created hybrid jets that contain both high-energy inert gas and precursor gases, which allow not only dramatic acceleration of nanostructure growth but also precisely control the material composition during growth. In future work, the researchers plan to use these hybrid approaches to enable formation of nanostructures with phase and topology that cannot be achieved by any existing nanofabrication techniques.
+This research was supported by the U.S. Department of Energy (DOE), Office of Science, Basic Energy Sciences (BES), under Award #DE-SC0010729.
+CITATION : Matthew R. Henry, Songkil Kim and Andrei G. Fedorov, “Non-equilibrium adatom thermal state enables rapid additive nanomanufacturing.” (Physical Chemistry Chemical Physics, 2019)
+http://dx.doi.org/10.1039/c9cp01478k
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,64 @@
+thinning ice sheets may drive sharp rise in subglacial waters 
+ up to twice the amount of subglacial water that was originally predicted might be draining into the ocean – potentially increasing glacial melt, sea level rise, and biological disturbances. 
+ aug 21, 2023 
+ two 
+ georgia tech 
+ researchers, 
+ alex robel 
+ and 
+ shi joyce sim , have collaborated on a new model for how water moves under glaciers. the new theory shows that up to twice the amount of subglacial water that was originally predicted might be draining into the ocean – potentially increasing glacial melt, sea level rise, and biological disturbances. 
+ the paper, 
+ published in 
+ science advances , 
+ “contemporary ice sheet thinning drives subglacial groundwater exfiltration with potential feedbacks on glacier flow,” is co-authored by 
+ colin meyer 
+ ( dartmouth ), 
+ matthew siegfried 
+ ( colorado school of mines ), and 
+ chloe gustafson 
+ ( usgs ). 
+ while there are pre-existing methods to understand subglacial flow, these techniques involve time-consuming computations. in contrast, robel and sim developed a simple equation, which can predict how fast exfiltration, the discharge of groundwater from aquifers under ice sheets, using satellite measurements of antarctica from the last two decades. 
+ “in mathematical parlance, you would say we have a closed form solution,” explains robel, an assistant professor in the 
+ school of earth and atmospheric sciences . “previously, people would run a hydromechanical model, which would have to be applied at every point under antarctica, and then run forward over a long time period.” since the researchers’ new theory is a mathematically simple equation, rather than a model, “the entirety of our prediction can be done in a fraction of a second on a laptop,” robel says. 
+ robel adds that while there is precedence for developing these kinds of theories for similar kinds of models, this theory is specific in that it is for the particular boundary conditions and other conditions that exist underneath ice sheets. “this is, to our knowledge, the first mathematically simple theory which describes the exfiltration and infiltration underneath ice sheets.” 
+ “it's really nice whenever you can get a very simple model to describe a process — and then be able to predict what might happen, especially using the rich data that we have today. it’s incredible” adds sim, a research scientist in the 
+ school of earth and atmospheric sciences . “seeing the results was pretty surprising.” 
+ one of the main arguments in the paper underscores the potentially large source of subglacial water — possibly up to double the amount previously thought — that could be affecting how quickly glacial ice flows and how quickly the ice melts at its base. robel and sim hope that the predictions made possible by this theory can be incorporated into ice sheet models that scientists use to predict future ice sheet change and sea level rise. 
+ a dangerous feedback cycle 
+ aquifers are underground areas of porous rock or sediment rich in groundwater. “if you take weight off aquifers like there are under large parts of antarctica, water will start flowing out of the sediment,” robel explains, referencing a diagram sim created. while this process, known as exfiltration, has been studied previously, focus has been on the long time scales of interglacial cycles, which cover tens of thousands of years. 
+ there has been less work on modern ice sheets, especially on how quickly exfiltration might be occurring under the thinning parts of the current-day antarctic ice sheet. however, using recent satellite data and their new theory, the team has been able to predict what exfiltration might look like under those modern ice sheets. 
+ “there's a wide range of possible predictions,” robel explains. “but within that range of predictions there is the very real possibility that groundwater may be flowing out of the aquifer at a speed that would make it a majority, or close to a majority of the water that is underneath the ice sheet.” 
+ if those parameters are correct, that would mean there's twice as much water coming into the subglacial interface than previous estimates assumed. 
+ ice sheets act like a blanket, sitting over the warm earth and trapping heat on the bottom, away from antarctica’s cold atmosphere — and this means that the warmest place in the antarctic ice sheet is at the bottom of a sheet, not on the surface. as an ice sheet thins, the warmer underground water can exfiltrate more readily, and this heat gradient can accelerate the melting that an ice sheet experiences. 
+ “when the atmosphere warms up, it takes tens of thousands of years for that signal to diffuse through an ice sheet of the size, of the thickness, of the antarctic ice sheet,” robel explains. “but this process of exfiltration is a response to the already-ongoing thinning of the ice sheet, and it's an immediate response right now.” 
+ broad implications 
+ beyond sea level rise, this additional exfiltration and melt has other implications. some of the places of richest marine productivity in the world occur off the coast of antarctica, and being able to better predict exfiltration and melt could help marine biologists better understand where marine productivity is occurring, and how it might change in the future. 
+ robel also hopes this work will open the doorway to more collaborations with groundwater hydrologists who may be able to apply their expertise to ice sheet dynamics, while sim underscores the need for more fieldwork. 
+ “getting the experimentalists and observationalists interested in trying to help us better constrain some of the properties of these water-laden sediments — that would be very helpful,” sim says. “that's our largest unknown at this point, and it heavily influences the results.” 
+ “it's really interesting how there's a potential to draw heat from deeper in the system,” she adds. “there's quite a lot of water that could be drawing more heat out, and i think that there's a heat budget there that could be interesting to look at.” 
+ moving forward, collaboration will continue to be key. “i really enjoyed talking to joyce (sim) about these problems,” rober says, “because joyce is an expert on heat flow and porous flow in the earth's interior, and those are problems that i had not worked on before. that was kind of a nice aspect of this collaboration. we were able to bridge these two areas that she works on and that i work on.” 
+ doi: 
+ doi.org / 10.1126 / sciadv.adh3693 
+ funding: 
+ this work was supported by startup funds from the georgia tech research corporation (a.a.r. and s.j.s.) and nasa grant 80nssc21k0912 (m.r.s.). alex robel (a.a.r.) is also the recipient of a 
+ national science foundation career grant . 
+ additional media 
+ related links 
+ robel awarded nsf career grant for new ice melt modeling tool 
+ turning the tide on climate change 
+ seawater seep may be speeding glacier melt, sea level rise 
+ coastal glacier retreat linked to climate change 
+ exploring a greenland glacier reservoir, plumbing sea level rise uncertainties 
+ contact 
+ by: selena langner 
+ media contact: 
+ jess hunt-ralston 
+ about the photos: images of change 
+ glaciers are shrinking along western antarctica, and nasa is documenting the melt. 
+ explore and toggle satellite images 
+ with the nasa earth observatory. 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,42 @@
+researchers use eclipse data to create musical composition 
+ composition uses sounds to symbolize the movements of the sun and moon and the gradual darkness they will produce during monday's eclipse. 
+ bruce walker is a professor in the college of computing and college of sciences. 
+ aug 18, 2017 
+ — atlanta, ga 
+ updated: august 20 — the live stream of both the atlanta and hopkinsville compositions can be heard 
+ at this link . each will begin at 2 p.m. eastern time on monday. the article below was written on friday, august 18. it references a nine-minute demo that was produced in advanced of the eclipse. it will be used as a base soundtrack for the live versions. 
+ a team of georgia institute of technology researchers has created an 
+ original music composition for monday’s eclipse . the georgia tech sonification lab uses drums, synthesized tones and other sounds to symbolize the movements of the sun and moon and the gradual darkness they will produce during the august 21 event. 
+ the audio experience, which at times sounds both hopeful and ominous as it builds anticipation toward the moment of the total eclipse, includes several segments ( hear it now ). 
+ during first contact, as the moon starts to slide in front of the sun, high tonal sounds (representing the moon) gradually increase in volume and consistency. during second contact, or the beginning of totality, the musical tension continues to rise, even as the overall pitch and loudness begin to diminish as light levels fade. during this portion of the music, the sound of crickets is also heard to signify the “false dusk” effect created when the moon completely covers the sun. 
+ during maximum totality, or halfway through second contact, the piece falls nearly silent. the composition continues with the end of totality, or third contact, as the tension diminishes and the feeling of hope dominates. as the sun re-emerges from behind the moon, the light returns, and the music becomes brighter and more active; bird chirps highlight this “false dawn.” a continually more uplifting tone concludes the composition. 
+ the base soundtrack is available to stream now. on monday, the georgia tech team will use live data to add more musical instruments to the existing piece. for example, as the outside air temperature drops during the eclipse, the notes played by a trumpet will trend toward lower pitches. similar live musical changes will signal variations in brightness and barometric pressure. 
+ in the end, the researchers will create a musical work of how the eclipse “sounded.” 
+ the project was created when at&t asked professor bruce walker if he would create an audio file to allow visually impaired persons to experience the eclipse. 
+ “our sonification lab uses data to translate visual information into auditory experiences for people with disabilities or visual impairment,” said walker, who holds appointments within the georgia tech college of computing and college of sciences. “all people need access. sonification, or turning data into audible cues, is one way to provide it.” 
+ walker and his students have used technology to sonify fish movements for guests at the georgia aquarium. they also once 
+ turned exoplanet data into a melody 
+ for a national recording artist. 
+ this is the first time they’ve made music with eclipse information. the team watched countless vides of total eclipses to develop the correct tone and pacing for the piece. 
+ avrosh kumar , who graduated from georgia tech this past spring, also talked to two blind people. one had previously seen an eclipse. the other described how she listens to her surroundings, allowing kumar to better understand how visually impaired people use ambient sounds to develop a sense of their environment and the moments in their lives. 
+ “there are so many things during an eclipse that you can attempt to translate through audio,” said kumar, who recently received his master’s degree in music technology. “our main motive was to use music and sound to demonstrate what’s going on in the sky. at the same time, we wanted to create a pleasing, dramatic composition. it was a fine line to walk in order to achieve both goals.” 
+ kumar, walker and current student takahiko tsuchiya built and paced the soundtrack with a focus on hopkinsville, kentucky. the city is on the center line of the eclipse and will experience two minutes and 40 seconds of totality. nearly 100,000 people, including nasa scientists, are expected in the small town. at&t will play the soundtrack for a visually impaired attendee as he “watches” the eclipse in kentucky with specially designed smart glasses. 
+ a second pre-recorded composition, which uses the same sounds but with different pacing, was developed to match eclipse conditions in atlanta. the georgia tech campus will experience 97 percent totality. live sounds will also be added to that piece during monday’s eclipse. the music will be streamed live during georgia tech’s telescope feed of the event. 
+ “think of this as a celestial orchestra, as the sun and moon dance above our planet,” said walker. “it’s been an exciting project.” 
+ “i’ve never seen a total eclipse. but i’ve learned that witnessing totality is an emotional experience for many people,” said kumar. “listening to music is also an emotional experience. it makes sense to combine both for monday’s once-in-a-lifetime event.” 
+ additional images 
+ related links 
+ listen to the live streams on eclipse day 
+ listen to the pre-recorded composition 
+ georgia tech sonification lab 
+ avrosh kumar: tech performances (video) 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

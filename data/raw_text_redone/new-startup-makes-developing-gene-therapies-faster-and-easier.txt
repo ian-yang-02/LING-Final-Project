@@ -1,0 +1,45 @@
+new startup makes developing gene therapies faster and easier 
+ a new startup, andson biotech, hopes to make the development and production of these gene and cell therapies easier. 
+ mason chilmonczyk in a clean room. 
+ mar 03, 2022 
+ — atlanta, ga 
+ today, cell and gene therapies treat and could even cure terminal diseases like leukemia and spinal muscular atrophy, but unlocking their full potential is still a challenge for therapy developers. 
+ both types of therapies rely on living cells comprised of hundreds of thousands of biomolecules to work in unison. and in order for therapy developers to meet safety and production standards, they must rely on complex and time-consuming analytical approaches that are slow and inaccurate. 
+ now, a new startup, 
+ andson biotech , hopes to make the development and production of these therapies easier. andson was launched from a partnership between the georgia institute of technology and the 
+ national science foundation engineering research center for cell manufacturing technologies 
+ (cmat). the company develops new sensors to discover the next groundbreaking cell and gene therapies. 
+ andson’s sensors make it possible to measure important biomolecules rapidly and accurately to ensure drug product quality with a tool called mass spectrometry. used for decades in the biopharmaceutical field, mass spectrometry’s potential has been severely limited because of how slow and complicated the analysis can be. andson biotech’s solutions simplify workflows and enable direct-from-production line mass spectrometry analysis. this means it can serve not only as a discovery tool to identify biomolecules, but also as a sensor to measure the most important biomolecules for feedback control. traditional mass spectrometry can take hours to days, but andson’s approach cuts the time down to just minutes. 
+ “it really changes the game because it unlocks the capabilities of mass spectrometry to serve as an actual process analytical technology, not just an r&d tool that only ph.d. scientists can use to do deep characterization,” said mason chilmonczyk, a postdoctoral researcher in the 
+ george w. woodruff school of mechanical engineering 
+ and andson biotech’s cofounder and ceo. 
+ measuring limitations 
+ sensors are integral to enabling new advanced therapies. they help determine how the therapies function in the lab and control the processes that eventually produce them at scale in factories. yet measuring these molecules is often so complex that only some specialized laboratories have the capability, which causes delays in drug development due to slow turnaround times and makes in-process measurements for feedback control impossible. to complicate matters further, many sensors are outdated, according to chilmonczyk. 
+ “production on the next generation of drugs is severely lacking because drug manufacturers are relying on sensors that were generated 20 to 30 years ago,” said chilmonczyk. “we’re developing sensors that can rapidly and precisely measure the biomolecules that indicate quality, which is one of the key voids in modern biomanufacturing capabilities as there is a big question around what do we measure and how do we measure it when it matters.” 
+ working with the mass spectrometer 
+ andson’s innovations enable rapid mass spectrometry, an analytical tool that measures the mass of a biomolecule. knowing the mass of a biomolecule helps developers identify what the biomolecule is, hypothesize how it might correlate with a drug process, and develop drugs accordingly. 
+ during chilmonczyk’s ph.d. studies, he created a microfabrication process in the 
+ georgia tech institute for electronics and nanotechnologies (ien) 
+ cleanrooms that relies on advanced microelectronic processing capabilities, the same technology used to manufacture computers, to create sensors that interface with mass spectrometers. this process enabled him to develop platforms that simplify the sample handling and preparation, making mass spectrometry more accessible for process development and in-process control. the systems are designed with the needs of modern biomanufacturing in mind. 
+ the innovation was only possible because of georgia tech’s relationship with 
+ cmat , a partnership between 
+ parker h. petit institute for bioengineering and biosciences 
+ and the national science foundation engineering research center on cell manufacturing technology based at georgia tech as a lead institution. the program’s goal is to make cell-based therapeutics manufacturing scalable, robust, and low-cost to expand treatment against incurable chronic diseases. chilmonczyk was first a ph.d. trainee and then a post-doctoral trainee within cmat before spinning out andson; the collaborative effort has been crucial for the technical development. 
+ “cmat essentially bet on us that our technology — in combination with all the georgia tech infrastructure and facilities — would bring innovation,” said andrei fedorov, the cofounder of andson and a georgia tech professor in mechanical engineering. “and then they brought in a unique analyzer – a new mass spectrometer – into their good manufacturing practice facility so that we could develop our systems in environments that are relevant for industry. so in every single way that they can support us, they pretty much have done it.” 
+ by making drug discovery easier, andson’s sensors could have major impacts on medical treatment and public health. gene and cell therapies don’t just ameliorate symptoms, but they fundamentally cure diseases. ultimately, this is what drew the founders of the andson to the project. 
+ “i feel a personal responsibility for us to bring it to the market,” said fedorov, who is also rae s. and frank h. neely chair. “we need it to be successful, not just for our own fulfillment as entrepreneurs, but the world needs it to be successful.” what’s next 
+ chilmonczyk and fedorov have worked together since 2014 on the projects that led to the formation of andson biotech. the first sign of commercialization was the 2020 backing of the project by the 
+ biolocity program 
+ then follow-on funding from the 
+ georgia research alliance . it was the backing by these programs that allowed chilmonczyk and fedorov to develop the technology in partnership with cmat and the 
+ marcus center for therapeutic cell characterization and manufacturing 
+ (mc3m). these partnerships are still significant for andson biotech, which has joined cmat as a member company and continues to collaborate with mc3m in their unique facility. 
+ now, the largest and most prestigious accelerator, y combinator, has backed andson biotech. the company will use this investment to pilot studies with pharmaceutical companies and to scale the company in the next 12 months. 
+ additional images 
+ contact 
+ tess malone, research writer / editor 
+ email 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

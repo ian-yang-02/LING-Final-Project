@@ -1,0 +1,54 @@
+Advanced Materials Power Next-Generation Molecular Separations
+Researchers have identified opportunities for scalable membrane materials.
+Photo shows the manufacture of polymer hollow fiber membranes, which are precursors to more advanced carbon molecular sieve hollow fiber membranes. (Credit: Rob Felt, Georgia Tech)
+Jan 25, 2017
+— Atlanta, GA
+Chemical separation processes account for as much as 15 percent of the world’s total energy consumption. Development of next-generation molecularly-selective synthetic membranes will be among the drivers for more efficient, large-scale separation processes that could dramatically reduce that number.
+In a paper published this week in the journal
+Nature Materials , researchers from the Georgia Institute of Technology identified the opportunities they see ahead for scalable membrane materials based on rigid, engineered pore structures. They say the most promising materials are scalable for use in compact modules and take advantage of entropy at the molecular level to moderate the separation selectivity of membranes.
+“It’s all about energy and carbon dioxide,” said
+William Koros , professor and Roberto C. Goizueta Chair in Georgia Tech’s
+School of Chemical and Biomolecular Engineering . “Chemical separations now consume half as much energy as the entire transportation sector – land, sea and air. Our goal is to assist industry to cut that by a factor of ten, which also means cutting the CO2 emissions. That’s not going to happen right away, but we have shown that the fundamentals of this technology work.”
+A membrane is an engineered barrier that controls the sorting of components by selectively allowing molecules of a certain size to pass between the incoming feed stream and an outgoing permeate stream. Because they don’t require large inputs of energy – which usually would come from combustion of fuels – use of these membranes can dramatically reduce both energy consumed and carbon dioxide produced. The membranes are made from advanced polymers, hybrid materials and molecular sieves, with pore sizes tailored for the intended use.
+The success of aqueous membranes used to produce purified water demonstrates the potential for lowering energy consumption. Spiral-wound module membranes dramatically reduced the cost of producing clean water, though large size differences between water molecules and contaminants made those processes technically easier than gas and liquid organics separations.
+Koros’ lab focuses on gas separations, but the article also addresses liquid separation processes. For both applications, he and co-author Chen Zhang point out that to be practical, new materials must be scalable – able to be packed tightly to provide large amounts of surface area inside small modules. That is best done using hollow-fiber membranes produced using advanced versions of processes that were originally developed to make ordinary textile fibers.
+“You’ve got to have something that is both high performance and able to be processed on the scale of acres per day,” said Koros, who is also a
+Georgia Research Alliance
+eminent scholar in membrane technology. “Scalability is every bit as important as the capability to do the separation. Exciting materials that are the size of a postage stamp won’t make a contribution.”
+The two authors also argue for entropic separation techniques that are enabled by limiting the ability of molecules to diffuse through pores, depending on their molecular geometry. A molecule whose geometry makes it difficult to diffuse through a narrow opening may be excluded, while a molecule of approximately the same size but different geometry may diffuse through.
+“You may ultimately be able to get the first molecule to go through, but it pays a price in entropy,” said Koros. “If a molecule has many options for passing through the membrane, it is actually in a lower energy state. When you reduce the number of options, you are raising the free energy.”
+Research in the Koros lab has been supported for more than 20 years by the U.S. Department of Energy’s Office of Energy Science. Koros also has research projects with major energy producers and chemical companies, as well as the Georgia Research Alliance.
+In their paper, Koros and Zhang, a research engineer in the School of Chemical and Biomolecular Engineering, identified five materials technologies with potential for improving gas separation processes. These include:
+Flexible polymers
+Molecular sieves
+Semi-rigid polymers
+Hybrid materials
+CMS materials
+Liquid separation processes also have significant opportunities for improvement based on new materials being developed. These processes include:
+Pervaporation
+Osmotically moderated aqueous separation
+Organic solvent nanofiltration (OSN)
+Organic solvent reverse osmosis (OSRO)
+The
+Nature Materials
+article focused on progress that had been made in the technology and future potential, with highlights on recent advances in Koros lab at Georgia Tech. The goal was to encourage development of new materials and make membrane scientists aware of the most promising paths.
+“We want everybody to see this next-generation of materials and understand the processes that help attain the goals of reducing energy consumption and carbon dioxide production,” Koros added.
+This research was supported by the Office of Energy Science of the U.S. Department of Energy (grant DE-FG02-04ER15510). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Department of Energy.
+CITATION : William J. Koros and Chen Zhang, “Materials for next-generation molecularly selective synthetic membranes,” (Nature Materials, 2017).
+http://dx.doi.org/10.1038/nmat4805 .
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (jtoon@gatech.edu) (404-894-6986) or Ben Brumfield (ben.brumfield@comm.gatech.edu) (404-385-1933).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

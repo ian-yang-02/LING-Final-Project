@@ -1,0 +1,27 @@
+advanced systems packaging at georgia tech: the leader in us academic research for 3 decades 
+ professor rao tummala and his prc team advance system-on -package vs. system-on- chip vision as moore’s law reaches its limit 
+ history of prc && rao tummala, professor emeritus 
+ may 14, 2021 
+ — atlanta, ga 
+ when rammohana rao tummala, the son of a farmer, left his village in andhra pradesh for engineering school, he knew he was a first. the first in his family to achieve higher education, attending andhra loyola college in vijayawada, then the top ranked indian institute of science, bangalore. he then became the first in his family to leave india for his m.s. degree in canada and later attained his ph.d. at the university of illinois. now recognized as the father of modern microelectronics packaging innovations, he did not know when he took that first leap across continents, how many times, and in how many ways, he would be a first. 
+ in 1969, tummala began his career at ibm in new york where he invented and led two major technologies: industry’s first gas panel plasma display and industry’s first 100-chip package .  “my claim to fame at ibm is heading the materials team that invented the first plasma display and manufacturing it. ibm made a fortune with it. an even bigger gain for ibm was his 100-chip mcm invention that he conceived of in 1975, now called “chiplets” in the industry.” tummala and his large team of researchers and developers conceived and developed a 61-layer glass-ceramic / copper multichip module, now called ltcc in the industry. ibm manufactured this technology in us and in germany for all its mainframes and servers, from 1992 till 2014, making it the highest value -add package in the history, more than a $100b.  for these and many other contributions, ibm named him its first ibm fellow in packaging in 1984, a very prestigious and rare title that ibm awarded to merely one in 10,000 employees. in 1986, he became director of ibm's advanced packaging research laboratory, responsible for all of ibm's strategy and programs in the u.s., europe, and japan. at the same time, he was appointed as a member of the national academy of engineering and named an ieee fellow . 
+ after so many firsts in the corporate arena, tummala turned his attention to the world of academics, when his youngest son wanted to attend the georgia institute of technology for his undergraduate degree in ece. tummala accepted an endowed chair faculty position with the georgia institute of technology to lead a new interdisciplinary research center focused on electronics packaging. less than a month after his arrival at georgia tech, rao authored and submitted his winning proposal for the first nsf erc at georgia tech, reflecting his vision of system-on package (sop) vs. the industry standard system-on-chip (soc). in 1994, the national science foundation awarded the georgia tech 3d systems packaging research center (3d-prc) a $35m grant over 11 years to create a pioneering sop program integrating research, education and industry collaborations. to meet these goals, 20 new faculty were recruited with expertise in every electronics area. additionally, a first of its kind, a 300 mm panel-size cleanroom room for substrate, assembly, and reliability testing facility at a cost of $47m was established for both research and educational use. he raised more than $ 200m during his tenure at gt from 1993-2018. 
+ under the leadership of tummala, the 3d systems packaging research center began to engage with 50 u.s and global supply-chain companies and the state of georgia to contribute additional funding for the endeavor. in 1988 while at ibm, tummala published the first modern handbook in packaging, 
+ microelectronics packaging handbook ; followed by the first undergraduate level textbook   fundamentals of microsystem packaging 
+ (2001). in 2006 he introduced the concept of system-on-package  design and fabrication with the publication of 
+ introduction to system-on-package , 
+ and in 2020 the second edition of 
+ fundamentals of device and systems packaging 
+ was released. 
+ due to tummala’s extensive outreach and collaboration with educational and industry entities from the u.s., europe and asia coupled with the stellar research record during the 11 years of nsf funding, the 3d-prc evolved into a successful global industry consortium involving researchers, developers, users and supply-chain manufacturing companies. the consortia focused on the development of many  new technologies, all focused on the concept 
+ system-on-package (sop), 
+ a process of scaling electronics systems for highly functional yet smaller and cheaper  systems such as modern smartphones. 
+ in 2018 after educating more than 400 ph.d., 450 m.s. and 300 b.s. students in packaging technologies, tummala passed the directorship flame and retired. in 2019, based on an international search, prof. madhavan swaminathan was appointed as the next director of prc, which celebrated its 25 th 
+ anniversary the following year. the 3d-prc is a model of what a successful government, academic and industry partnership can achieve, however it is fair to say that it would not exist at all without the many firsts of emeritus professor and innovative thinker rao tummala. 
+ christa m. ernst 
+ additional images 
+ email 
+ christa.ernst@research.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

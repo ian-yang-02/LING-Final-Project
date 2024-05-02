@@ -1,0 +1,40 @@
+self-assembled “hairy” nanoparticles could give a double punch to cancer 
+ a new class of light-sensitive self-assembling nanoparticles could give cancer a double punch. 
+ image shows vials containing samples of hairy nanoparticles. the right and left images contain photo-responsive polymer-capped gold nanoparticles prior to and after self-assembly, respectively. the center vial shows dye released from self-assembled gold nanoparticles. the nanoparticles are made with light-sensitive materials that assemble and disassemble themselves when exposed to light of different wavelengths. (credit: rob felt, georgia tech) 
+ jan 31, 2018 
+ — atlanta, ga 
+ “hairy” nanoparticles made with light-sensitive materials that assemble themselves could one day become “nano-carriers” providing doctors a new way to simultaneously introduce both therapeutic drugs and cancer-fighting heat into tumors. that’s one potential application for a new technology that combines water-repelling yet light-sensitive and water-absorbing materials into polymeric nano-reactors for creating photo-responsive gold nanoparticles. 
+ light of specific wavelengths causes the nanoparticles to assemble and disassemble on demand, allowing the dynamic organization of the nanoparticles for smart in vitro drug release. by including chemotherapy molecules in the nanoparticle structures when they are assembled, the molecules could be drawn into tumors – and then released with the application of a light at a shorter wavelength that triggers disassembly through photo-cleavage. 
+ in addition to such a dynamic self-assembly and disassembly, the encapsulation and release of chemotherapy molecules could also be achieved by reversible covalent bonding of anticancer drugs to the polymeric “hairs” situated on the surface of nanoparticles. and by absorbing the same light that triggers the drug release, the gold nanoparticles could also heat the cancer cells, providing a double punch. 
+ in a broad range of other applications, the nanoparticle self-assembly process could also be triggered by environmental factors including temperature, ph or solvent polarity by rationally designing the polymeric hairs. in this study, gold nanoparticles were used, but the process could also make self-assembled nanoparticles from a variety of metals and metal oxides. by tailoring the surface of nanoparticles with water-absorbing polymers containing near-infrared responsive components, the drug release could be performed 
+ in vivo . 
+ the spherical gold nanoparticles can be replaced with more complex shaped nanomaterials – such as hollow nanoparticles, nanorods, or nanotubes – to render a better absorption of near-infrared light to penetrate biological tissues. no testing of these nanoparticles has been done so far in living cells or organisms. 
+ the research was supported by the air force office of scientific research and the national science foundation, and was reported january 31 in the early edition of the journal 
+ proceedings of the national academy of sciences . materials scientists from the georgia institute of technology and south china university of technology co-authored the paper. 
+ “we envision that these photo-responsive polymer-capped gold nanoparticles could one day serve as nano-carriers for drug delivery into the body using our robust and reversible process for assembly and disassembly,” said 
+ zhiqun lin , a professor in the georgia tech 
+ school of materials science and engineering . “used in cancer therapy, this process could increase the impact of a treatment by heating the cancer cells while introducing the drug compound into the tumor.” 
+ under light, the assemblies of photo-sensitive nanoparticles separate over a period of hours at a rate that can be controlled by the intensity and wavelength of the light. “because the disassembly can be turned on and off at will, we could provide a timed release of the drug by controlling the short-wavelength light exposure,” lin added. 
+ the hairy nanoparticles are fabricated around a tiny core of beta-cyclodextrin from which polymer chains of poly(acrylicacid)-block-poly(7-methylacryloyloxy-4-methylcoumarin) (paa-b-pmamc) are grown. that material attracts water-soluble metal precursors, which use the space within the polymer hairs as nano-reactors to form gold nanoparticles. 
+ to these inner structures – which are hydrophilic paa polymers – the researchers add hairs made from the hydrophobic monomer mamc. these materials are sensitive to light, and cause the nanoparticles to self-assemble through a photo-dimerization process – crosslinking – when subjected to light at a wavelength of 365 nanometers. 
+ the assembly process can be reliably reversed on demand using a shorter wavelength at 254 nanometers. 
+ “once the polymer chains from adjacent gold nanoparticles begin to photo-crosslink, they bring nanoparticles together via a self-assembly process to generate large assemblies of nanoparticles,” said lin. “this process is completely reversible and can be repeated in many cycles.” 
+ the research team incorporated dye molecules into the self-assembled nanoparticles to simulate what might be done to incorporate and then release chemotherapy agents. a magnetic oxide material incorporated into the nanoparticles could allow the assemblies to be directed to a tumor site by an external magnet, and could also support diagnostic imaging. 
+ beyond the activity of the drugs, the plasmonic effects of the gold nanoparticles could heat the nanoparticles when they are subjected to light, attacking the cancer cells through a second route. 
+ in addition to the potential medical uses, the self-assembly technique could have applications in optics, optoelectronics, magnetic technologies, sensing materials and devices, catalysis and nanotechnology. the technique could also lead to new basic research in crystallization kinetics, using the self-assembly process to create “artificial crystals” held together by polymer chains. 
+ lin’s lab has worked on the amphiphilic star-shaped block polymers for several years, adding new features and exploring new capabilities for the nanoparticle systems. 
+ “our work provides a design strategy that allows the manipulation of both the outer block and the inner block of a star-shaped block co-polymer,” he said. “our fundamental contribution in this work is to judiciously prepare a star-shaped block co-polymer in which the inner block has the capability to coordinate with metal precursors while the outer block allows photo-responsive materials to interact, which in turn renders the crafting of photo-responsive gold nanoparticles for light-enabled reversible and reliable self-assembly.” 
+ the research team included yihuang chen, associated with both georgia tech and the south china university of technology; zewei wang, yanjie he, young jun yoon, and jaehan jung, associated with georgia tech, and guangzhao zhang from south china university of technology. 
+ this work is supported by the air force office of scientific research (grant fa9550-16-1-0187) and the national science foundation (civil, mechanical, and manufacturing innovation grants 1562075 and 1727313; division of materials research grant 1709420). any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsors. 
+ citation : yihuang chen, et al., “light-enabled reversible self-assembly and tunable optical properties of stable hairy nanoparticles,” (proceedings of the national academy of sciences, 2018). 
+ http: / / www.pnas.org / content / early / 2018 / 01 / 30 / 1714748115 . 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

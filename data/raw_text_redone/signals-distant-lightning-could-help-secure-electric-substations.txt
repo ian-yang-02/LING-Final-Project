@@ -1,0 +1,44 @@
+signals from distant lightning could help secure electric substations 
+ a new technique could one day help prevent hackers from sabotaging electric power substations and other critical infrastructure. 
+ georgia tech researchers tohid shekari, raheem beyah, morris cohen, and lukas graber are shown with a substation that is part of the electric grid. the researchers have developed a new technique to secure the substations. (image: christopher moore, georgia tech) 
+ feb 26, 2019 
+ — atlanta, ga 
+ side channel signals and bolts of lightning from distant storms could one day help prevent hackers from sabotaging electric power substations and other critical infrastructure, a new study suggests. 
+ by analyzing electromagnetic signals emitted by substation components using an independent monitoring system, security personnel could tell if switches and transformers were being tampered with in remote equipment. background lightning signals from thousands of miles away would authenticate those signals, preventing malicious actors from injecting fake monitoring information into the system. 
+ the research, done by engineers at the georgia institute of technology, has been tested at substations with two different electric utilities, and by extensive modeling and simulation. known as radio frequency-based distributed intrusion detection system (rfdids), the technique was described february 26 at the 2019 network and distributed system security symposium (ndss) in san diego. 
+ “we should be able to remotely detect any attack that is modifying the magnetic field around substation components,” said 
+ raheem beyah , motorola foundation professor in georgia tech’s 
+ school of electrical and computer engineering 
+ and co-founder of fortiphyd logic, inc. “we are using a physical phenomenon to determine whether a certain action at a substation has occurred or not.” 
+ opening substation breakers to cause a blackout is one potential power grid attack, and in december 2015, that technique was used to shut off power to 230,000 persons in the ukraine. attackers opened breakers in 30 substations and hacked into monitoring systems to convince power grid operators that the grid was operating normally. topping that off, they also attacked call centers to prevent customers from telling operators what was happening. 
+ “the electric power grid is difficult to secure because it is so massive,” beyah said. “it provides an electrical connection from a generating station to the appliances in your home. because of this electrical connection, there are many places where a hacker could potentially insert an attack. that’s why we need an independent way to know what’s happening on grid systems.” 
+ that independent approach would use an antenna located in or near a substation to detect the unique radio-frequency “side channel” signatures produced by the equipment. the monitoring would be independent of systems now used to monitor and control the grid. 
+ “without trusting anything at all on the grid, we can use an rf receiver to determine if an impulse occurred in the shape of an ‘open’ operation,” beyah said. “the system operates at 60 hertz, and there are few other systems that operate there, so we can be sure of what we’re monitoring.” 
+ however, hackers might be able to figure out how to insert fake signals to hide their attacks. that’s where the lightning emissions known as “sferics” come in. 
+ “when a lightning flash hits the ground, it forms an electrical path miles tall, potentially carrying hundreds of thousands of amps of current, so that makes for a really powerful antenna radiating energy,” said 
+ morris cohen , an associate professor in the georgia tech school of electrical and computer engineering. each flash creates signals in the very low frequency (vlf) band, which can reflect from the upper atmosphere to travel long distances. 
+ “signals from lightning can zigzag back and forth and make it all the way around the world,” cohen noted. “lightning from south america, for example, is easily detectable in atlanta. we’ve even seen lightning echo multiple times around the world.” 
+ security staff remotely monitoring substations would be able compare the lightning behind the 60 hz substation signals to lightning data from other sources, such as one of the 70,000 or so other substations in the united states or a global lightning database. that would authenticate the information. since lightning occurs more than three million times every day on average, there is plenty of opportunity to authenticate, he noted. 
+ “even if you could synthesize the rf receiver’s data feed digitally, generating something realistic would be difficult because the shape of the pulse from lightning detected by our receivers varies as a function of the distance from the lightning, the time of day, latitude and more,” cohen said. “it would take a lot of real-time computation and knowledge of sophisticated physics to synthesize the lightning signals.” 
+ working with two different electric utilities, the researchers – including graduate research assistant tohid shekari – analyzed the rf signals produced when breakers were turned off for substation maintenance. they also used computer simulations to study a potential attack against the systems. 
+ “the signal from a lightning stroke is very distinct – it is short, around a millisecond, and covers a huge frequency range,” cohen added. “the only other process on earth that is known to generate something similar is a nuclear explosion. the emissions from the power grid are very different and none of it looks like a pulse from lightning, so it is easy enough to separate the signals.” 
+ the researchers have filed a provisional patent on rfdids, and hope to further refine the security strategy, which independent of equipment manufacturer. beyah believes there could be applications beyond the power industry for remote monitoring of other rf-emitting devices. the system could tell transit operators if a train were present, for example. 
+ “the power grid is our most critical piece of infrastructure,” beyah notes. “nothing else matters if you don’t have electrical power.” 
+ in addition to those already mentioned, the research team also included recent master’s degree graduate christian bayens and assistant professor lukas graber, both from georgia tech. 
+ citation : tohid shekari, et al., “rfdids: radio frequency-based distributed intrusion detection system for the power grid,” (2019 network and distributed system security symposium). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

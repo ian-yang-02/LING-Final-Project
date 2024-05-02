@@ -1,0 +1,37 @@
+augmenting reality: gt students fare well at annual hackmit 
+ gt computing students earns top honor at a recent hackathon event hosted by mit. 
+ oct 03, 2016 
+ — atlanta, ga 
+ what if you could access crucial stock information with little more than the movement of a finger? what if education, which often relies on static images within the confines of a textbook, could become a more interactive experience for students? 
+ these are a pair of questions that georgia tech students 
+ nathan dass 
+ and 
+ kshitij kulkarni 
+ were attempting to address when they attended 
+ hackmit 
+ last month at the massachusetts institute of technology. utilizing microsoft’s hololens, both dass’ and kulkarni’s teams fared well at the event, the former earning the nasdaq api prize for using the api in the most creative way and the latter placing in the top 10. 
+ dass, who is in his third year as a computer science major, enjoys artificial intelligence and human-computer interaction. he has worked in the past on a virtual reality project at google, and said that helped direct his specific interests. 
+ although he had never participated in a hackathon before, when he heard that the 
+ hololens , an augmented reality device that enhances the experience of your physical surroundings, would be available for use, he wanted to participate. 
+ “i knew there was really no other place that students could get basically a whole weekend with the hololens and make anything,” dass said. “this was the opportunity in my opinion, so i sort of pushed my team toward that.” 
+ what they came up with was an application that could retrieve and display stock information from the 
+ nasdaq api 
+ on the hololens display in real time. when a user is wearing the device, they can simply look at a logo of a company, indicate through one of the device’s built-in gestures that they would like to access its information, and a graphic showing items such as current price and percent change would appear on the screen. 
+ for their work, dass’ team won the nasdaq sponsor prize, which was awarded for the most creative use of nasdaq’s api. the group will be flown to new york to meet with nasdaq executives. organizers are also trying to coordinate with representatives from microsoft to attend the demonstration, as well. that trip is tentatively planned for some time during winter break, dass said. 
+ while in new york, dass and his teammates will take part in the closing bell ceremony at the new york stock exchange, which will be broadcast live on the big screen in times square. 
+ kulkarni, who is a second-year undergraduate in electrical engineering, and his team finished among the top 10, earning the opportunity to present their project on stage to the hackathon attendees. their hack, which also utilized the hololens, involved providing a more interactive experience for students in and out of the classroom. the goal was to create an application that could associate interactive graphs with specific key words on a page. 
+ the team achieved the independent functionality for reading text off an image and putting it onto the hololens, as well as a separate function for visualizing the algorithm. 
+ “what we were not able to do is put them together,” kulkarni said. “our next step is to bridge those two worlds together so that you have a seamless experience of having a book open, looking at it with the hololens, highlighting a word and then attaching an interactive visual display to that word.” 
+ kulkarni and his teammates came up with the concept when considering the shared experience they had during their first two years of undergraduate studies. learning in-depth scientific and technological concepts out of a textbook presents challenges because of the difficulty in visualizing information that should be interactive. 
+ “for example, if someone is trying to learn sorting or another algorithm, it’s very difficult to visualize that on a static sheet of paper,” kulkarni said. “so we harnessed the power of the hololens and its augmented reality to attempt to overlay onto it educational modules that, in real time, show these algorithms happening.” 
+ kulkarni said their work at hackmit was a proof of concept for many future modules. 
+ dass plans to finish his undergraduate degree in december 2017, then pursue a graduate degree and, eventually, work in technological innovation with the goal of eventually integrating artificial intelligence and human-computer interaction into our everyday lives. kulkarni, who is interested in data visualization and processing and machine learning, plans to pursue a graduate degree upon his graduation and continue to work on those large-scale problems “that are currently stumping people.” 
+ hackmit is mit’s headline hackathon, with more than 1,000 undergraduate attendees from around the world. during a 24-hour period, hackers collaborated and experimented on an assortment of software and hardware projects. 
+ additional images 
+ contact 
+ ben snedeker, communications manager 
+ email 
+ albert.snedeker@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

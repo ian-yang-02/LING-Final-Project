@@ -1,0 +1,56 @@
+georgia tech sciences, engineering, and space: for a longtime campus partnership, the sky’s still the limit 
+ colleges of sciences, engineering continue their collaboration on space science projects, including nasa’s return to the moon 
+ oct 04, 2021 
+ — atlanta, ga 
+ georgia tech’s  colleges of sciences  and  engineering  have long collaborated to launch successful joint space science research projects with the national aeronautics and space administration (nasa). researchers across both colleges and the  georgia tech research institute  (gtri) are now hard at work on several ambitious projects related to nasa’s planned return to earth’s moon — and beyond. 
+ lunar flashlight to search for ice on the moon 
+ thomas orlando  says nasa is always looking for multidisciplinary research programs at the higher education level. he uses a recent win of a key nasa partnership, dubbed the  lunar flashlight mission , as an example of what’s been a very successful approach for the institute. 
+ orlando is a professor in the  school of chemistry and biochemistry , principal investigator for nasa  reveals  (radiation effects on volatiles and exploration of asteroids and lunar surfaces), and former co-founder and director of georgia tech’s  center for space technology and research  (c-star.) 
+ reveals is researching ways to prepare nasa for the next generation of its crewed space missions, and is, itself, part of a larger nasa  program,  sservi 
+ (solar system exploration research virtual institute). 
+ the project includes designing spacesuits with radiation detection materials sewn into the suits — and using the moon’s natural resources (buried ice for water, minerals at or near the surface) to support astronaut habitats. that ice could also provide drinking water for astronauts and possibly help fuel engines built on site. 
+ “reveals is focusing on the water on the moon issue. this involves understanding how it is made or delivered, how it is transported, and where it is. the work also involves developing technologies to extract it, a project lead by  peter loutzenhiser  ( george w. woodruff school of mechanical engineering ). we obviously need to know how much is there and whether we can get it and utilize it. this is where lunar flashlight comes in,” orlando says. 
+ the lunar flashlight project also focuses on deep collaboration and coordination across several agencies and teams.  this past summer , the  nasa jet propulsion laboratory  (jpl) in southern california shipped all spacecraft parts to tech's atlanta campus to begin assembly and testing. gtri is now providing the clean room for assembly, and a team of researchers, led by  jud ready , is managing all the integration and testing of lunar flashlight before it is shipped to the marshall space flight center in huntsville, alabama, for fueling, then on to  kennedy space center  in cape canaveral, florida, for launch in 2022. 
+ “our new center for space hardware assembly, fabrication and testing will provide the cleanroom space to assemble lunar flashlight and put it through a rigorous series of tests,” says ready, who is principal investigator of the lunar flashlight project. ready also serves as deputy director of innovation initiatives for the  georgia tech institute for materials  (imat), is an adjunct professor in the  school of materials science and engineering , and is a principal research engineer at gtri. 
+ “there’s no instruction manual right now — it’s our role to collaborate with the scientists and engineers at jpl and the other partners to write the test and integration procedures, do them, and at the same time to conclusively verify our work,” ready says. 
+ tiny cubesats take to the sky 
+ the lunar flashlight is a  cubesat  — a mini-satellite that’s basically what its name implies: a 6u cubesat (30 x 20 x 10cm), about the size of a desktop tower computer. cubesats can weigh anywhere from 3 to 20 pounds, and can be deployed much easier and at a lower cost than traditional satellites. 
+ since their introduction in 1999, cubesats have become  popular  for science and commercial satellite deployment, while allowing engineering and sciences students at schools such as georgia tech to design and deploy their own satellites. 
+ “that’s great in and of itself, for our students to have an opportunity to build a satellite and send it into space,”  glenn lightsey , david lewis professor of space systems technology in the  daniel guggenheim school of aerospace engineering , and current c-star director, says. “they can apply to a company with a resume that says, ‘i’ve already built a satellite and it’s in space talking to others.’ twenty years ago, that just didn’t happen.” 
+ lunar flashlight cubesat will have sensitive instrumentation for locating buried ice on the moon, and lightsey’s team has already built its propulsion system. after launch from kennedy space center, lunar flashlight will have its mission control operations run out of lightsey’s lab. 
+ engineering hardware with scientific instrumentation — lightsey says you can’t illustrate georgia tech’s strengths as a nasa partner any better than with interdisciplinary projects like the lunar flashlight. 
+ “i think georgia tech has a competitive advantage based on how it is really emphasizing interdisciplinary research from the beginning, from idea generation on. there aren’t many institutions like it in my opinion. it’s in georgia tech’s bones.” 
+ lunar dust-busting in nasa’s big ideas challenge 
+ the reveals program is also looking at ways to wipe out the problem of lunar dust, which can have an inherent electrical charge and can be more damaging to equipment than earth dust. it can also be a health hazard if it sneaks into an astronaut’s habitat. 
+ “it’s an engineering project, but a science problem,” orlando says. “here’s an example of where engineering and science got together, and something great came out of it.” 
+ nasa’s  big (breakthrough, innovative, and game-changing) ideas challenge , a competition for undergraduates and graduate students to brainstorm away problems for the space agency, was dedicated to lunar dust mitigation for the 2021 version. that project is led by  julie linsey , a professor in the  george w. woodruff school of mechanical engineering 
+ who is mentored by orlando and lightsey, along with reveals research scientists  micah schaible  and  zach seibers , a student team of engineering students —  varun bose, john fitton, zhen liu, dicky silitonga, kristoffer (kris) sjolund,  and  jeffery zhang . the crew came up with a hybrid brush, which uses both an electrodynamic system (eds) and ultraviolet (uv) technology to keep dust from building up on lunar spacesuits. 
+ the team, which called itself  shoot for the moon , is among six big ideas challenge finalists. shoot for the moon will give a presentation on the hybrid brush at the big ideas forum in november. 
+ two members of the reveals team also recently presented their work on human space exploration.  faris almatouq , a graduate student in the  school of physics  working on novel radiation detectors, and  kris sjolund , a graduate research assistant in mechanical engineering working on the dust brush, both won first prize in the poster contest at the sservi / nasa exploration science forum and european lunar workshop in july. 
+ “these students and co-investigators are all doing great and impactful work,” orlando says. “there’s an interesting distribution of students working on big ideas projects. they’re mechanical engineering, electrical engineering, and aerospace engineering students. and there were chemists and other scientists advising them. it was a multidisciplinary student team — and a multidisciplinary advisory team.” 
+ from our state to our solar system 
+ orlando and lightsey also note that tech’s graduates are already finding jobs with  blue origin  and  spacex , two of the new commercial space businesses with successful crewed maiden flights earlier in the summer. that’s in addition to how georgia tech has seeded nasa and jpl, plus lockheed, boeing, and other established aerospace companies, with former students. 
+ “almost half of my students are getting a graduate degree in engineering  and  a graduate degree in science,” orlando says. “they typically get a master’s in engineering or materials science and a ph.d. in chemistry or physics. it markets them much more for spacex or nasa. it’s this hybrid training that people are looking for, and i can’t think of a better place for it than georgia tech.” 
+ lightsey and orlando hope to one day welcome nearby universities, such as emory university and the university of georgia, as partners in some of these initiatives. the move would combine resources and expertise from all three institutions to create a first-of-its-kind statewide space science initiative or institute in georgia. 
+ that kind of collaboration could also help create a new powerhouse for planetary and space science research close to home research institutions — and could help create more job opportunities to retain georgia talent, with young alumni working in a range of aerospace-related industries with freshly minted georgia-grown degrees in hand. 
+ “there’s a lot of interest,” lightsey says. “who doesn’t want to work on space exploration? this is something that resonates with everyone in every discipline. i think all the institutions have different areas of expertise they can contribute. i think collectively we can be much more complete than just one institution by itself.” 
+ world space week 2021: georgia tech to host space day atlanta 
+ the daniel guggenheim school of aerospace engineering at georgia tech will host 
+ space day atlanta 
+ on 
+ october 9, 2021 as an effort to launch local k-12 students’ interest in science, technology, engineering, and mathematics (stem). 
+ the day-long event on campus, organized by nasa’s 
+ georgia space grant consortium 
+ (gsgc), will allow local schoolchildren to see demonstrations of current aerospace research at georgia tech, as well as participate in various hands-on activities such as virtual flights to mars and rocket building and launching. 
+ learn more . 
+ additional images 
+ contact 
+ renay san miguel 
+ communications officer ii / science writer 
+ college of sciences 
+ 404-894-5209 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

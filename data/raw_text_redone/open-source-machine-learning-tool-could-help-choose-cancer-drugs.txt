@@ -1,0 +1,49 @@
+open source machine learning tool could help choose cancer drugs 
+ a new decision support tool could help clinicians choose the right chemotherapy drugs. 
+ sample tubes from sequencing equipment are shown in georgia tech’s petit institute for bioengineering and bioscience. (credit: rob felt, georgia tech) 
+ nov 06, 2018 
+ — atlanta, ga 
+ the selection of a first-line chemotherapy drug to treat many types of cancer is often a clear-cut decision governed by standard-of-care protocols, but what drug should be used next if the first one fails? 
+ that’s where georgia institute of technology researchers believe their new open source decision support tool could come in. using machine learning to analyze rna expression tied to information about patient outcomes with specific drugs, the open source tool could help clinicians chose the chemotherapy drug most likely to attack the disease in individual patients. 
+ in a study using rna analysis data from 152 patient records, the system predicted the chemotherapy drug that had provided the best outcome 80 percent of the time. the researchers believe the system’s accuracy could further improve with inclusion of additional patient records along with information such as family history and demographics. 
+ “by looking at rna expression in tumors, we believe we can predict with high accuracy which patients are likely to respond to a particular drug,” said 
+ john mcdonald , a professor in the georgia tech 
+ school of biological sciences 
+ and director of its 
+ integrated cancer research center . “this information could be used, along with other factors, to support the decisions clinicians must make regarding chemotherapy treatment.” 
+ the research, which could add another component to precision medicine for cancer treatment, was reported november 6 in the journal 
+ scientific reports . the work was supported in part by the atlanta-based ovarian cancer institute, the georgia research alliance, and a national institutes of health fellowship. 
+ as with other machine learning decision support tools, the researchers first “trained” their system using one part of a data set, then tested its operation on the remaining records. in developing the system, the researchers obtained records of rna from tumors, along with with the outcome of treatment with specific drugs. with only about 152 such records available, they first used data from 114 records to train the system. they then used the remaining 38 records to test the system’s ability to predict, based on the rna sequence, which chemotherapy drugs would have been the most likely to be useful in shrinking tumors. 
+ the research began with ovarian cancer, but to expand the data set, the research team decided to include data from other cancer types – lung, breast, liver and pancreatic cancers – that use the same chemotherapy drugs and for which the rna data was available. “our model is predicting based on the drug and looking across all the patients who were treated with that drug regardless of cancer type,” mcdonald said. 
+ the system produces a chart comparing the likelihood that each drug will have an effect on a patient’s specific cancer. if the system were to be used in a clinical setting, mcdonald believes doctors would use the predictions along with other critical patient information. 
+ because it measures the expression levels for genes, analysis of rna could have an advantage over sequencing of dna, though both types of information could be useful in choosing a drug therapy, he said. the cost of rna analysis is declining and could soon cost less than a mammogram, mcdonald said. 
+ the system will be made available as open source software, and mcdonald’s team hopes hospitals and cancer centers will try it out. ultimately, the tool’s accuracy should improve as more patient data is analyzed by the algorithm. he and his collaborators believe the open source approach offers the best path to moving the algorithm into clinical use. 
+ “to really get this into clinical practice, we think we’ve got to open it up so that other people can try it, modify if they want to, and demonstrate its value in real-world situations,” mcdonald said. “we are trying to create a different paradigm for cancer therapy using the kind of open source strategy used in internet technology.” 
+ open source coding allows many experts across multiple fields to review the software, identify faults and recommend improvements, said 
+ fredrik vannberg , an assistant professor in the georgia tech 
+ school of biological sciences . “most importantly, that means the software is no longer a black box where you can’t see inside. the code is openly shared for anybody to improve and check for potential issues.” 
+ vannberg envisions using the decision-support tool to create “virtual tumor boards” that would bring together broad expertise to examine rna data from patients worldwide. 
+ “the hope would be to provide this kind of analysis for any new cancer patient who has this kind of rna analysis done,” he added. “we could have a consensus of dozens of the smartest people in oncology and make them available for each patient’s unique situation.” 
+ the tool is available on the open source github repository for download and use. hospitals and cancer clinics may install the software and use it without sharing their results, but the researchers hope organizations using the software will help the system improve. 
+ “the accuracy of machine learning will improve not only as the amount of training data increases, but also as the diversity within that data increases,” said evan clayton, a ph.d. student in the georgia tech school of biological sciences. “there's potential for improvement by including dna data, demographic information and patient histories. the model will incorporate any information if it helps predict the success of specific drugs." 
+ in addition to those already mentioned, the research team included cai huang, lilya matyunina, and deette mcdonald from the georgia tech school of biological sciences, and benedict benigno from the georgia tech integrated cancer research center and the ovarian cancer institute. 
+ support for the project came from the ovarian cancer institute, and equipment used was provided by the georgia research alliance. in addition, the national institutes of health supported a graduate fellowship. 
+ citation : cai huang, et al., “machine learning predicts individual cancer patient responses to therapeutic drugs with high accuracy,” ( scientific reports 
+ 2018). 
+ http: / / dx.doi.org / 10.1038 / s41598-018-34753-5 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

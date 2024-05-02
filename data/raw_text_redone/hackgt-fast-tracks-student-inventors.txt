@@ -1,0 +1,25 @@
+hackgt fast-tracks student inventors 
+ more than 1,000 students from 80 different schools came to georgia tech for a weekend of fast-paced ideation and innovation. 
+ hackgt, a high-energy weekend of inventing and innovation aims to spread the spirit of application, innovation, and creativity in computer science education. 
+ oct 29, 2018 
+ — atlanta, ga 
+ for the uninitiated, a hackathon is an exercise in collaboration. people get creative through the power and potential of technology ­– and teams consider a problem or an idea and then develop websites, apps, and other high-tech solutions to address it. think of it as a high-tech invention marathon. 
+ it is no surprise that for the past five years georgia tech has hosted one of the largest collegiate hackathons in the u.s., or that dozens of companies have lined up to sponsor the event, including facebook, lyft, gm, disney, microsoft, coca-cola, and ncr, among others. 
+ this year, more than 1,000 participants from 80 different colleges and institutions gathered on the 
+ tech campus for hackgt . 
+ from oct. 19 to 21, as student teams worked nonstop on formulating their ideas and developing their projects, hackgt provided workshops and fireside chats with event sponsors, as well as mentors from business and industry to share their guidance and expertise. 
+ new to the world of hackathons? no problem. georgia tech’s student organizers say they wanted to create an environment in which everyone felt welcome. forty-four percent of the attendees at this year’s hackathon were newcomers. 
+ winning projects were selected at the end of three days — and they were unfailingly impressive, especially given the time constraints. 
+ four students from four different schools developed a tool they call vocapture. it uses computer vision to identify objects to help english learners expand their vocabulary. the technology incorporates a smartphone camera to provide real-time text identifying the objects in view. (in one demonstration, “chair,” “desk,” “table,” and “door” appeared when scanning a classroom.) 
+ the team noted that 2 billion people will be learning english by 2020, and hoped a tool like this might give them an advantage in honing their language skills. 
+ a student from auburn university spent his hackathon weekend developing a bot to write a freestyle rap on any given topic. wikibeat uses natural language processing to scan for information from the internet and matches phrases up into couplets, then lays down a beat to match the generated lyrics. 
+ to learn more about hackgt and related events, click here . 
+ additional images 
+ contact 
+ steven norris 
+ georgia tech social media 
+ email 
+ snorris@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

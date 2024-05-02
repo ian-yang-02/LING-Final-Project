@@ -1,0 +1,40 @@
+New Instrument Will Uncover Structure and Chemical Composition on Sub-Cell Scale
+A new imaging instrument will be able to simultaneously study both the surface of a biological sample and its chemical composition.
+BeamMap uses an electron beam to image topology, provide localized heating to promote desorption and allow precise determination of the location of the spray capillary and electrospray impact area for imaging. The electrosprayed liquid beam at a controlled energy level is used to desorb and charge analytes for chemical imaging in BeamMap.
+Jan 11, 2021
+— Atlanta, GA
+A new imaging instrument able to simultaneously study both the surface of a biological sample and its chemical composition is the goal of a three-year, $1.2 million National Institutes of Health (NIH) research award. Combining information from analysis of the chemical composition and physical structure of the surface of cells, tissues and even individual biomolecules inside the cells could provide a new way to study tumor growth, disease progression, cell function, and other key issues.
+The technology being developed, termed Beam Enabled Accurate Mapping & Molecular Analyte Profiling (BeamMap), combines data from scanning electron microscopy and a new mode of desorption electrospray ionization mass spectrometry (DESI-MS) to simultaneously determine surface topology and chemical makeup. BeamMap uses an electron beam and a focused nanospray of electrified liquid to gather the two types of information, which is correlated with help of image processing software. The research is funded by the National Institute of Health’s National Institute of General Medical Sciences (NIGMS).
+“To make this breakthrough tool, we need to be able to provide both topological and chemical information at resolutions on the scale of micrometers and sub-micrometers to be able to discover molecular makeup and biological function at a sub-cellular level,” said
+Andrei Fedorov , Professor and Rae S. and Frank H. Neely Chair in the
+George W. Woodruff School of Mechanical Engineering
+at the Georgia Institute of Technology. “This will require simultaneous advances, and we will be pushing the limits of both imaging tools and what mass spectrometers can do.”
+Because of the use of mass spectrometry for molecular sensing, BeamMap will be able to characterize proteins, metabolites, and lipid chemistry without requiring an a priori knowledge of what chemical species are present. With its ability to correlate chemical information with topological information acquired with focused electron and ion-spray beams in vacuum, the new instrument is expected to provide an order of magnitude improvement in the resolution of electrospray-based techniques, with chemical imaging resolution of approximately 250 nanometers and electron microscopy topological resolution of about 50 nanometers. BeamMap should be useful in fundamental and clinical biology, medicine, analytical chemistry, and bioengineering.
+“Processes that are currently invisible to us could actually be seen using BeamMap, so we will have evidence for things we can only speculate about now,” Fedorov said. “Being able to see what is happening at the subcellular level will allow us to get a better understanding of how biological systems behave. That will allow us to create hypotheses for how cells and tissues interact with the environment, potentially leading to a whole host of new therapeutic applications.”
+Among the major challenges that require an innovative research approach are the creation of soft ionization and highly local sample extraction necessary for keeping the biomolecules intact and the ability to effectively deliver the charged molecules to the vacuum environment of the mass spectrometer, he said.
+“We will need to fine-tune the energy of the beam that sprays on the substrate to provide the resolution we need,” Fedorov said. “We need to extract live biomolecules and ionize them without disrupting their structure. To do this, we will have to use the softest possible ionization.”
+The instrument will use the electrospray technique to create charged molecules of solvent focused in a beam about 100 nanometers in diameter. As the beam of charged solvent molecules hits the surface of the biological sample, it will ablate molecules from sample’s surface and move them into the surrounding vacuum environment of the SEM imaging chamber. The molecules will be charged and volatilized by the impinging nano-electrospray at a precisely tuned energy input, and then be extracted for immediate analysis in the mass spectrometer.
+In parallel, an electron beam that can be focused down to 10 nanometers will be scanning and profiling the structures and features of the surfaces from which the molecules are being extracted by the electrospray. Correlating data from the two beams will provide information about the chemical makeup of the cell surface, the organelles and intracellular structures being imaged topologically.
+Using multiple passes of the two beams will allow removal of layers from the samples, allowing internal structures to be mapped. Fedorov said producing each image will require several minutes, the timing limited by the speed at which the samples can be moved into the mass spectrometer and analyzed.
+The characterization will be done in an electron microscope vacuum chamber, with the samples on a stage that can be moved in three dimensions. The stage will also provide cooling and hydration for the living samples during the imaging process.
+The idea for the instrument came from a discussion with
+Andrés García , Regents' Professor in the George Woodruff School of Mechanical Engineering and executive director of Georgia Tech’s
+Institute for Bioengineering and Bioscience . García studies pancreatic cells as part of research into diabetes, and plans to use information from the new technique to develop a better understanding of the disease.
+“BeamMap is an exciting technological advance that will provide unparalleled biological and chemical information with high spatial resolution to analyze complex biological processes,” García said. “We are very much looking forward to applying it to understand diabetes disease progression.”
+This research was supported by Award 1R01GM138802-01 from the National Institute of General Medical Sciences (NIGMS) of the National Institutes of Health. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the NIH.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

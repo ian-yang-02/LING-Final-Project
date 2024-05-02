@@ -1,0 +1,62 @@
+bacterial conversations in cystic fibrosis 
+ georgia tech researchers obtain benchmark data for the impact of spatial arrangement in bacterial signaling in a cystic fibrosis model. 
+ may 31, 2018 
+ — atlanta, ga 
+ “a large part of my research is thinking about how bacteria communicate,” says 
+ sophie darch . the postdoctoral researcher works with school of biological sciences professor 
+ marvin whiteley , studying the social lives of bacteria. 
+ darch observes the conversations of bacteria, which take place via molecules they release into the environment and are sensed by other bacteria. in darch’s experiments, completed messages are marked by the red-to-green change in the color of the bacterium sensing the molecule. 
+ by sending and receiving extracellular signals, bacteria sense their neighbors. when enough bacteria are in the conversation, things happen. sometimes it leads to changes in virulence or ability to establish an infection. the phenomenon is called quorum sensing. 
+ yet little is known about how quorum sensing proceeds during infection “much of what is known about quorum sensing,” darch says, “comes from studies of large populations of bacteria in an environment that does not compare with the natural infection site.” in infections, for example, bacteria are often found in small, dense clusters, called aggregates. “it’s really important for us as scientists to think about what bacterial growth looks like in an infection,” darch says. 
+ in a paper in the 
+ proceedings of the national academy of sciences usa , darch, whiteley, and colleagues describe for the first time how close bacteria need to be to “talk” with each other in an environment similar to an infection. their findings could reveal new ways to disrupt bacterial signaling and provide other targets to treat infections. 
+ the work was supported by the national institutes of health, the cystic fibrosis foundation, human frontiers science, and the welch foundation. 
+ cystic fibrosis model 
+ the study uses an environment similar to the chronic infection of the cystic fibrosis (cf) lung. 
+ cf is a genetic disease that causes buildup of sticky mucus in the lung. the viscous setting cf creates makes the organ prime real estate for disease-causing bacteria. among the most prevalent of these in the cf lung is 
+ pseudomonas aeruginosa. 
+ p. aeruginosa 
+ infections pose a huge problem because they are resistant to many antibiotics and are difficult to treat. often 
+ p. aeruginosa 
+ infection is what causes death among patients with cf. 
+ the team used a synthetic cf sputum media (scfm2), based on the makeup of lung secretions from patients. in nutritional content and physical form, the medium is similar to sputum from the lung. importantly, 
+ p. aeruginosa 
+ forms aggregates in scfm2 that are similar in size to those observed in cf lung tissue. 
+ 3-d printed bacteria 
+ to begin to answer the question “how close do you have to be to talk to your neighbor?” the team collaborated with 
+ jason shear 
+ at the university of texas, austin. the 
+ shear lab 
+ had developed a micro-3d-printing platform that could be used to engineer the growth of bacteria to mimic infections. 
+ bacteria are not uniformly distributed in infections. “instead we see bacterial aggregates that vary in size and can be separated by large distances,” whiteley says. “we needed an experimental method to engineer these types of infection landscapes in the lab.” 
+ using shear’s micro-3d-printing platform, the team printed bacterial aggregates of exact positions and sizes. 
+ a typical experiment starts by enclosing one producer cell in a picoliter-sized trap, using micro-3d-printing. after multiple cell divisions, the population fills the volume of the trap. then scfm2-containing aggregates of responder cells are overlaid the porous trap. 
+ they observe the one-way flow of signals from aggregates in a trap (producers) to aggregates outside receiving signals (responders). they could see the response of completed conversations by responders changing color from red to green. 
+ implications for cystic fibrosis 
+ “we found that bacterial aggregates slightly larger than those in cf lung – containing about 2,000 cells – were not large enough to signal to other aggregates,” darch says. 
+ prior to this study, it was thought that bacterial signaling could occur over extended distances. however, in the cf lung, small populations of bacteria are scattered across a large volume and separated by large distances. aggregates are unlikely to “talk” to each other. 
+ it took aggregates containing at least 5,000 cells to successfully send signals to neighbors as far away as 176 micrometers. “these aggregates are around five times the size of the average aggregate observed in cf lung tissue” darch says “from these data, communication is likely confined within an individual aggregate rather than being a population-wide phenomenon”. 
+ among cf patients who are at least 20 years old, 
+ 80% are infected with p. aeruginosa . “infection with 
+ p. aeruginosa 
+ remains a significant clinical problem in immunocompromised patients, particularly those with cf,” darch says. “understanding better how bacteria communicate has the potential to find ways of disrupting the communication and potentially diminishing bacterial virulence.” 
+ “the study provides benchmark data for how quorum sensing might proceed in an environment similar to the cf lung,” says 
+ whiteley, who is a member of the parker h. petit institute for bioengineering and bioscience . “in different settings, where 
+ p. aeruginosa 
+ and other bacteria exist as aggregates of different sizes, communication may look different. future studies will involve experimental and modeling work to further examine the spatial parameters of quorum sensing in cf and other infections, such as a chronic wound.” 
+ figure caption 
+ (left) rendered confocal laser-scanning micrograph of a micro-3d-printed trap (red)  surrounded by 
+ p. aeruginosa 
+ aggregates responding to quorum-sensing signals (green) in a synthetic cf sputum media (scfm2). 
+ (right) rendered confocal laser-scanning micrograph of responding (green) and non-responding (red)  p. aeruginosa 
+ aggregates formed in a synthetic cf sputum media (scfm2). 
+ additional images 
+ contact 
+ a. maureen rouhi, ph.d. 
+ director of communications 
+ college of sciences 
+ email 
+ maureen.rouhi@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

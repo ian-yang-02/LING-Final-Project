@@ -1,0 +1,21 @@
+Zia Places Second in the Georgia Tech Three Minute Thesis Competition
+ECE Ph.D. student Muhammad Saad Zia, a Ph.D. student in the Georgia Tech School of Electrical and Computer Engineering (ECE), placed second in the recent Georgia Tech Three Minute Thesis (3MT) Competition.
+Muhammad Saad Zia
+Apr 29, 2021
+— Atlanta, GA
+Muhammad Saad Zia, a Ph.D. student in the Georgia Tech School of Electrical and Computer Engineering (ECE), placed second in the recent Georgia Tech Three Minute Thesis (3MT) Competition. The event was held on April 9 in a virtual format.
+Zia was among 11 graduate students from units in the College of Engineering and the College of Sciences who presented their research in three minutes or less and in a way that anyone can understand. A second Ph.D. student from ECE, Mohammad S.E. Sendi, also took part in the competition.
+Zia is advised by ECE Professor Mary Ann Weitnauer and is co-advised by ECE Professor Douglas Blough. The topic of his 3MT talk was “Mitigating Beam Alignment Errors in Millimeter-Wave Communications to Go Beyond 5G.”
+Zia’s research focuses on the mathematical modeling and performance analysis of 5G and beyond wireless communications networks. The traditional cellular systems, such as 4G, operate at frequencies that are towards the lower end of the wireless frequency spectrum. These lower frequencies have become very congested due to the operation of various wireless systems, and have almost been utilized to their maximum potential.
+To satisfy the requirements of future communication networks, the use of millimeter-wave frequencies has recently gathered a lot of attention. The millimeter-wave frequencies lie towards the higher end of the spectrum and can support significantly high data rates. However, such frequencies also have very strict engineering requirements. An extremely important requirement is the alignment of the transmitter beam with the receiver beam. Errors in beam alignment are inevitable and degrade the performance of the wireless network. In Zia’s research, he models the effects of such beam alignment errors and investigates their impact on system performance. He aims to address how the system performance can be improved in the presence of such alignment errors.
+Zia has been a Ph.D. student in ECE since 2017 and is a Fulbright Scholar. He received his bachelor’s and master’s in 2012 and 2015, respectively, in electrical engineering from the National University of Sciences and Technology in Pakistan. Prior to starting his Ph.D., Zia was an Assistant Director with the spectrum regulatory authority of Pakistan. In the future, he would like to work in industry as a researcher that focuses on developing innovative wireless communication technologies.
+Zia is active in the Georgia Tech community. He was a Senator in the Student Government Association during Fall 2019, and he regularly participates in the events of the Fulbright Student Association of Georgia Tech. Zia also takes part in the activities organized by the Fulbright Georgia Chapter. When he is not busy with his research and on campus activities, Zia likes to travel and explore different places.
+Additional Images
+Contact
+Jackie Nemeth
+School of Electrical and Computer Engineering
+Email
+jackie.nemeth@ece.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

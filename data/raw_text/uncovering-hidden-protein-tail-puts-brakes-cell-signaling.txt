@@ -1,0 +1,51 @@
+Uncovering a Hidden Protein “Tail” that Puts the Brakes on Cell Signaling
+Researchers have found a "braking" mechanism in G protein signaling.
+Georgia Tech Associate Professor Matthew Torres and Doctoral Candidate Shilpa Choudhury are shown with images showing cells with a localized green fluorescent protein signal at the membrane. (Credit: Rob Felt, Georgia Tech)
+May 07, 2018
+— Atlanta, GA
+Using an informatics tool that identifies “hotspots” of post-translational modification (PTM) activity on proteins, researchers have found a previously-unknown mechanism that puts the brakes on an important cell signaling process involving the G proteins found in most living organisms.
+The mechanism, dubbed a “tail,” is part of a small protein known mostly for its role in attaching larger structures to the cell membrane. When researchers inactivated the tail, a signaling response that had previously taken 30 minutes to occur happened almost immediately – with an intensity four times greater than normal.
+The research took place in yeast, but if a similar process occurs in human G proteins, the discovery could provide a new drug target for controlling important cellular processes – and potentially offer a new class of biosensors able to more sensitively detect and respond to certain chemical agents. The research, supported by the National Institutes of Health’s
+National Institute of General Medical Sciences
+(NIGMS), was reported May 1 in the journal
+Cell Reports .
+“We have discovered the mechanism that regulates how quickly a pathway gets turned on by an external stimulus,” said
+Matthew Torres , an associate professor in the
+School of Biological Sciences
+at the Georgia Institute of Technology. “By genetically altering the control mechanism underlying this process, we are able to modulate how much of a signal from outside the cell gets inside the cell and how quickly it gets through. It’s all the more astonishing because this mechanism has been hiding in plain sight for decades.”
+G proteins, also known as guanine nucleotide-binding proteins, are a family of molecules that operate as molecular switches inside cells. They transmit signals acquired from a variety of extracellular stimuli to the interior of a cell – through the membrane, which otherwise wouldn’t allow communication.
+The tail found by Torres and Doctoral Candidate Shilpa Choudhury likely escaped attention because it is flexibly attached to the G protein gamma subunit of a closely-collaborating protein team known as G beta/gamma. Protein structures have generally been identified by X-ray crystallography techniques which cannot resolve structures that are in motion.
+Prior to their work, the G gamma subunit has been known primarily as the protein that connects the larger G beta subunit to the cell membrane. Without the work of
+SAPH-ire
+– an informatics program that maps PTM activity using machine learning – the role of the tail structure might not have been identified.
+“For years, people had focused on G beta/gamma as a complete unit, and not as separate components,” said Choudhury, the paper’s first author. “The gamma is a tiny protein compared to the larger G beta subunit, but we now know that it has a major role in the activity of the signaling system.”
+In yeast, G beta/gamma subunits activate a signaling pathway in response to pheromones, a process which normally takes about 30 minutes after stimulation of a pheromone receptor at the cell membrane. Torres and Choudhury suspected that protein modifications, PTMs, were somehow causing the delay. Their computer program SAPH-ire – developed in the Torres lab and announced in 2015 – pointed the finger straight at the G gamma subunit.
+The program analyzes existing meta-data repositories of protein sequence and PTM activity to reveal “hotspots” of protein alteration. SAPH-ire was designed to accelerate the search for important regulatory targets on protein structures and to provide a better understanding of how proteins communicate with one another inside cells.
+Pulling from worldwide PTM databases that use mass spectrometry to identify sequences that are chemically altered, SAPH-ire pointed to a specific location on the G gamma protein. Using genetic mutation techniques, Choudhury modified a section of the protein to render the tail structure inactive.
+But removing the tail from the process by itself wasn’t enough. To activate the signaling process, structures on the tail had to interact with a separate effector protein. When both were inactivated, the researchers saw a dramatic effect when the receptor was stimulated.
+“You can think of the signaling pathway like a wheel travelling down a hill where two pads of the bicycle brake are gripping the wheel to slow it down,” said Torres. “Activating the pheromone receptor is like releasing the wheel down the hill. When both brakes are active, the wheel moves very slowly because the two brakes are working together to slow its speed and momentum. This turns out to be how the pathway behaves in normal cells immediately after receptor stimulation.”
+“If you take away one of the brakes, you get partial braking and the wheel is allowed to move slightly faster, but is still restrained from moving as fast as it can. This is how the pathway behaves in normal cells within the first 20 minutes after receptor stimulation. But if you eliminate both brakes, releasing the wheel down the hill results in very high speed and momentum – kind of like a golf cart without a governor.”
+This is exactly what happened when Choudhury prevented PTMs on both G gamma and the effector protein. “When we do that, we see a rapid activation of the signaling pathway that occurs six times faster, and is four times more intense than with the normal condition with the pathway brakes intact.”
+Beyond identifying the control mechanism for the pathway, the researchers also learned how it controls the ability of yeast to respond to pheromones in a “switch-like” manner that is either on or off versus an analog manner that is analogous to a volume knob on a stereo.
+While Torres and Choudhury made their discovery in yeast, they believe it will have broad implications because all organisms that have G proteins, including humans, have G gamma tails that are riddled with PTMs. Among the next steps will be to see if the same type of braking system is exhibited by G gamma subunits and G beta/gamma effectors in human cells. If so, that could provide insights that could identify potentially new drug targets.
+“The tail exists, and it’s important in this process of controlling interactions with G beta/gamma effectors, which are essential for turning on signaling pathways,” Torres said. “We suspect the importance of G gamma as a regulator G protein signaling will extend beyond any single organism.”
+SAPH-ire Helps Scientists Prioritize Protein Modification Research
+This research was supported by the National Institutes of Health’s National Institute of General Medical Sciences (NIGMS) grants R01GM117400 and R00GM094533. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
+CITATION : Shilpa Choudhury, Parastoo Baradaran-Mashinchi and Matthew Torres, “Negative Feedback Phosphorylation of Gy Subunit Ste18 and the Ste5 Scaffold Synergistically Regulates MAPK Activation in Yeast,” (Cell Reports, 2018).
+https://doi.org/10.1016/j.celrep.2018.03.135
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

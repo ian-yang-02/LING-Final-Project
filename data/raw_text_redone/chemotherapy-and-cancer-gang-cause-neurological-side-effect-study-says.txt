@@ -1,0 +1,35 @@
+chemotherapy and cancer gang up to cause a neurological side effect, study says 
+ chemotherapy has gotten the blame for this neurological side effect, but it's cancer's fault, too. 
+ stock photo illustrating the administering of chemotherapy. credit: national cancer institute 
+ jun 08, 2020 
+ — atlanta, ga 
+ contrary to common medical guidance, chemotherapy does not appear to be the only culprit in neuropathy, a neurological side effect of cancer treatment,  a new study  says. cancer itself contributes heavily, too, and the stresses on neurons appear far worse than the sum of the two causes. 
+ “there was some distress caused by cancer alone and some distress from chemo alone, but when you put the two things together, it was off the charts, seven times the trauma to neurons of the two things added together,” said nick housley, first author of the study performed in rats at the georgia institute of technology. “it turned out to be the first-ever evidence that there is this exacerbation going on.” 
+ every year in the u.s., there are 1.8 million new cancer diagnoses, and about half of patients receive platinum-based drugs, which are very effective. about 40 percent of patients receiving platinum chemotherapy come down with neuropathy, suffering strange sensations, pain, fatigue, or loss of muscle coordination that impedes day-to-day life. neuropathy can persist for years after chemotherapy ends. 
+ hope for treatment 
+ the new study also challenges established medical explanations that neuropathy is caused by structural damage to nerves alone and that it is untreatable. 
+ “the idea of damage has been the standard explanation – that these neurons are dying back and that they are retracting. and we have found time and time again zero evidence of this in the neurons we studied here,” housley said. 
+ “the evidence does not support physical damage as the basis for the disabilities we observe. we find functional problems that might be fixable,” said tim cope, one of two principal investigators of the study. functional problems usually refer to neurons not firing properly versus actual tears or shrinkage in neurons. 
+ cope is  a professor in georgia tech’s school of biological sciences  and in the wallace h. coulter department of biomedical engineering at georgia tech and emory university. housley is a postdoctoral researcher in his lab. 
+ the researchers published their results  in the journal  cancer research  on april 28, 2020 . the research was funded by the national institutes of health’s national cancer institute. john mcdonald, the other principal investigator, is a professor in georgia tech’s school of biological sciences and the  director of georgia tech’s integrative cancer research center . 
+ gene expression surprises 
+ to explore neuropathy’s causes, the researchers cast a broad net. they examined gene expression in neurons,  protein expression , and neuron signaling, and they measured body movements, which became markedly uncoordinated. 
+ gene dysregulation went into overdrive in reaction to chemo and cancer, including boosting inflammatory responses while suppressing some of neurons’ protective mechanisms. but despite the plethora of  gene regulation  red flags, there were also surprising signs of intact neuron health. 
+ “many things the neuron relies on to live and function were unscathed on the gene expression level. that’s potentially good news for patients and for fixing neuropathy because it means there may be just one thing or a few things to fix to restore normal functioning,” cope said. “the downregulation of just a few genes may be responsible for the problems we’ve seen.” 
+ ion channel mystery 
+ clues from one downregulated gene took a twist that led to a new scientific discovery in neuronal biology before arriving at what appeared to be a pathology. 
+ the downregulated gene is responsible for creating protein structures called ion channels that appear in a neuron’s cell wall and  enable the neuron to fire electrical impulses , i.e. action potentials. ion channels abruptly shuttle potassium ions (k+) and sodium ions (na+) in and out of cells, flipping the net negative and net positive charges on either side of cell walls, which creates the action potentials. 
+ this particular downregulated gene was for a potassium ion channel called  kv3.3 , which was not previously known to exist in muscle spindles – neural receptors embedded in muscles to sense when they are contracting or stretching. the researchers found the channel to be prolific there. 
+ “that was a discovery in its own right in basic neuroscience. finding its involvement in this sensory-motor problem was also profound,” housley said. 
+ most kv3.3 expression disappeared under the combination of chemo and cancer. more research is needed to establish whether the lack of kv3.3 is indeed an important contributor to neuropathy, but in this study, it strongly correlated with observed neural pathology. 
+ “despite the neurons still having the ability to fire action potentials, the process of neurons encoding information was really corrupted,” housley said. 
+ also read:  app detects harsh side effect of breast cancer treatment 
+ the following researchers from georgia tech coauthored the study: paul nardelli, dario carrasco, travis rotterman, emily pfahl, and lilya matyunina. the research was funded by the national institutes of health’s national cancer institute (grants r01ca221363 and r01hd090642). any findings, conclusions, and recommendations are those of the authors and not necessarily of the nci. 
+ here's how to  subscribe to our free science and technology email newsletter 
+ writer & media inquiries : ben brumfield (404-272-2780), 
+ ben.brumfield@comm.gatech.edu  or john toon (404-894-6986), jtoon@gatech.edu. 
+ georgia institute of technology 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

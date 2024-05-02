@@ -1,0 +1,26 @@
+Georgia Tech receives $1.6 million for nuclear energy projects
+Two new grants for materials testing from DoE total $1.6 million
+Farzad Rahnema, Georgia Power Company Distinguished Professor, Director of Computational Reactor and Medical Physics Laboratory Nuclear &amp; Radiological Engineering and Medical Physics Programs
+Jul 12, 2018
+— Atlanta, GA
+The Department of Energy (DOE) recently awarded the Georgia Institute of Technology $1.6 million in two grants for testing materials used in producing nuclear energy.
+DOE is awarding $47 million through its Nuclear Energy University Program (NEUP) to support 63 university-led nuclear energy research and development projects in 29 states. NEUP seeks to maintain U.S. leadership in nuclear research across the country by providing top science and engineering faculty and their students opportunities to develop innovative technologies and solutions for civil nuclear capabilities.
+“Because nuclear energy is such a vital part of our nation’s energy portfolio, these investments are necessary to ensuring that future generations of Americans will continue to benefit from safe, clean, reliable, and resilient nuclear energy,” said Ed McGinnis, DOE’s principal deputy assistant secretary for nuclear energy. “Our commitment to providing researchers with access to the fundamental infrastructure and capabilities needed to develop advanced nuclear technologies is critical.”
+The awards are dispersed under three DOE nuclear energy programs: the Nuclear Energy University Program (NEUP), the Nuclear Energy Enabling Technologies (NEET) program, and the Nuclear Science User Facilities (NSUF) program.
+Georgia Tech’s projects are funded by the NEUP. The first is for corrosion testing of new alloys and accompanying on-line reduction oxidation measurements in the flow loops of Oak Ridge National Laboratory (ORNL) eutectic alkaline metal fluoride salt mixture, specifically the molten salts lithium fluoride, sodium fluoride, and potassium fluoride (also called FLiNaK) as well as lithium fluoride and beryllium fluoride (or FLiBe.)
+“The structural alloys in fluoride salt-cooled high-temperature reactors (FHR) will be exposed to molten fluoride salt mixtures at high temperatures, which can be very corrosive depending on the alloy composition and the presence of impurities in the molten salt. It is very important to test the candidate alloys under potential FHR conditions and understand the corrosion mechanisms in order to select the right alloys to use in building the structure of a reactor,” said Preet M. Singh, principal investigator on the project from Georgia Tech’s School of Materials Science and Engineering.
+In the second project, a modeling and simulation tool will be developed to perform highly accurate and efficient transient calculations in the FHRs.
+“Accurate and efficient modeling and simulation tools are needed to support design optimization, analysis, licensing, and eventual deployment of any reactor,” said Farzad Rahnema, the project’s principal investigator and Georgia Power Company Distinguished Professor of Nuclear Engineering in Georgia Tech’s George W. Woodruff School of Mechanical Engineering. “The current tools are inadequate for modeling advanced reactors such as the FHRs because of their complex geometry and high heterogeneity. The capability to perform transient calculations with high fidelity is an important component of licensing first-of-a-kind reactors, where experimental data are lacking or scarce.”
+The DOE awards are for three years.
+Learn more at the DOE’s
+Office of Nuclear Energy website .
+Additional Images
+Related links
+Office of Nuclear Energy News
+Contact
+lance.wallace@comm.gatech.edu
+Email
+lance.wallace@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

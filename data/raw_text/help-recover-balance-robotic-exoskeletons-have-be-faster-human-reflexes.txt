@@ -1,0 +1,18 @@
+To Help Recover Balance, Robotic Exoskeletons Have to be Faster Than Human Reflexes
+Researchers at Georgia Tech and Emory found wearable ankle exoskeletons helped subjects improve standing balance only if they activated before muscles fired.
+Feb 15, 2023
+— Atlanta, GA
+Wearable robotics promise to help older people retain their mobility and paraplegic patients regain theirs. They could help make humans stronger and faster. But, so far, they’re not great at keeping people from falling.
+Human balance is a complicated dance, and even the most advanced robots and wearables like robotic exoskeletons have trouble replicating how our brains and bodies work together to keep us upright. A new study from researchers at the Georgia Institute of Technology and Emory University is taking the first step toward addressing the balance problem.
+In a paper published Feb. 15 in
+Science Robotics , the group showed an ankle exoskeleton must react faster than our bodies to improve balance. Participants didn’t recover any more quickly when the exoskeleton delayed applying power until the same time muscles in the leg and ankle activated to restore balance.
+Read about the study on the College of Engineering website.
+Additional Images
+Contact
+Joshua Stewart
+College of Engineering
+Email
+jstewart@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

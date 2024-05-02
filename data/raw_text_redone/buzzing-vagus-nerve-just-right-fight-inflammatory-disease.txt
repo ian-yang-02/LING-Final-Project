@@ -1,0 +1,57 @@
+buzzing the vagus nerve just right to fight inflammatory disease 
+ an electric buzz to the vagus can fight chronic inflammation -- this fine-tune makes it even better. 
+ a vagus nerve implant with two electrodes - one to apply desired stimulation going down into the body, the other to block unwanted stimulation going up to the brain.  georgia tech / rob felt 
+ jan 05, 2017 
+ — atlanta, ga 
+ is a treatment only making things better or maybe also making some things a little worse? 
+ that can be a nagging question in some medical decisions, where side effects are possible. but researchers at the georgia institute of technology have figured out a way to keep what helps, while blocking what harms, in a type of therapy to fight serious chronic inflammatory diseases. 
+ it’s simple and works a little like a pacemaker: an implanted device electrically stimulates the vagus nerve, but, in addition, inhibits unwanted nerve activity in a targeted manner. 
+ forms of vagus nerve stimulation treatment against chronic inflammation have already been 
+ successfully tested in humans by private industry 
+ with the intent to make them available to patients. but the 
+ innovation by georgia tech researchers 
+ of adding an inhibiting signal could increase the clinical efficacy and therapeutic benefit of existing treatments. 
+ temporarily snipping a nerve 
+ “we use an electrode with a kilohertz frequency that blocks unwanted nerve conduction in addition to the electrode that stimulates nerve activity,” said principal investigator 
+ robert butera, a professor jointly appointed in georgia tech’s school of electrical and computer engineering 
+ and the 
+ wallace h. coulter department of biomedical engineering . “we’ve arranged the two near each other, so the blocking electrode forces the stimulation from the stimulating electrode to only go in one direction.” 
+ the researchers’ innovation could theoretically by implemented relatively quickly by augmenting 
+ existing clinical devices . so far, tests in rats have returned very encouraging results, and they have been achieved without taking more drastic measures notable in other experiments to optimize this kind of treatment – such as a vagotomy, the cutting of part of the vagus. 
+ “the original studies in animals on the anti-inflammatory benefits of vagus nerve stimulation resorted to nerve transections to achieve directional stimulation as well as boost effectiveness of nerve stimulation. but cutting the vagus is not clinically viable, due to the multitude of vital bodily functions it monitors and regulates. our approach provides the same therapeutic benefit, but is also immediately reversible, controllable, and clinically feasible,” said 
+ lead researcher yogi patel , a bioengineering graduate student. 
+ “we call it a virtual vagotomy,” butera said. 
+ patel, butera and former georgia tech researchers 
+ tarun saxena 
+ and 
+ ravi v. bellamkonda , published the results of 
+ their study in the journal 
+ scientific reports , which is published by nature publishing group, on thursday, january 5, 2017. the research was funded by the national institutes of health and the ian’s friends foundation. 
+ vagus nerve: what is it? 
+ to understand how this new bioelectronic fine-tuning works, let’s start with the vagus nerve itself. 
+ it lies outside the spinal column and runs in two parts down the front of your neck on either side. it’s easy to forget about because, though it does help you feel some limited sensations like pain and heat from a handful of internal organs, those sensations are not as blatant and common as when you reach out and touch something with your hand. 
+ your voluntary, or somatic, nervous system is responsible for the reaching, touching, and feeling, and the vagus nerve belongs to your 
+ in voluntary nervous system – actually called the autonomic nervous system. though you may experience the effects less consciously, you couldn’t survive without a vagus. 
+ “the vagus nerve conveys an incredible amount of information related to the state and function of the visceral organs – your digestive tract, your heart, your lungs, information about the nutrients you eat – anything required for homeostasis (physiological balance),” patel said. 
+ the vagus nerve is the lifeline between the vital function control centers of your brain and your visceral organs, passing messages constantly between your hypothalamus and organs to control things like pulse and respiration, certain secretions, and the limiting of immune response. 
+ inflammation: what role does the vagus nerve play? 
+ that last one is where inflammation comes in, because it's part of the body's natural immune response. but when the immune system becomes hyperactive, it can attack not just pathogens but also uninfected tissue, as with patients suffering from diseases such as rheumatoid arthritis, irritable bowel syndrome or crohn’s disease. drug-based therapies often fail to significantly benefit them. 
+ the two parts of the autonomic (involuntary) nervous system -- the sympathetic and the parasympathetic -- strongly influence your immune system. the vagus nerve belongs to the parasympathetic. 
+ “it’s like a seesaw system. your sympathetic nervous system helps kick the immune system on, and the parasympathetic nervous system tempers it,” patel said. 
+ electrical stimulation is good: any downsides? 
+ stimulating the vagus nerve supports that tempering effect, but it can also somewhat excite the part of the nervous system that stimulates the immune response, which is counterproductive if you're looking to calm it. 
+ “every circuit has a path coming from the brain and one going to the brain, and when you stimulate electrically, you usually have no control over which one you get. you usually get both.” patel said. these paths are often in the same nerve being stimulated. 
+ the path leaving the brain and going toward other organs, called the efferent pathway, is the one to stimulate to temper the immune system and help relieve chronic inflammatory conditions. the one going to the brain, called the afferent pathway, if stimulated, leads eventually to the hypothalamus, a pea-sized region in the center of the brain. that triggers a chain of hormonal responses, eventually releasing cytokines, messaging molecules that promote inflammation. 
+ “you get a heightened inflammatory response when you stimulate the afferent pathways, which are actively conveying information about your internal state and trigger the immune system when necessary,” patel said. “and if a patient is already in a hyperactive immune state, you don’t want to push that even more." 
+ stimulating downward (efferent), while blocking upward (afferent) vagus nerve activity keeps the good effect while preventing possible bad effects. in animals that received this treatment, blood tests showed that inflammation markedly decreased. most importantly, this treatment can be turned on or off, and be tuned to the needs of each patient. 
+ no additional authors were involved in the study, which was performed at georgia tech. two of the authors, saxena and bellamkonda, are now at duke university. research was funded by the national institutes of health (grant 2r01eb016407) and ian’s friends foundation. all findings, conclusions, and opinions are those of the authors and do not represent views of the funding agencies. 
+ additional images 
+ contact 
+ writer and media contact: ben brumfield 
+ 404-660-1408 
+ ben.brumfield@comm.gatech.edu 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

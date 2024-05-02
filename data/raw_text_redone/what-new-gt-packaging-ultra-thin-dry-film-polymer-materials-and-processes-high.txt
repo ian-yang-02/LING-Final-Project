@@ -1,0 +1,33 @@
+what is new @ gt in packaging? ultra-thin dry film polymer materials and processes for high density 2.5d and fanout packages 
+ georgia tech and its industry partners are developing the next generation of ultra-thin polymers to form 20-40µm pitch rdl for 2.5d and fan-out packages. 
+ dec 01, 2016 
+ — atlanta, ga 
+ georgia tech and its industry partners are developing the next generation of ultra-thin polymers to form 20-40µm pitch rdl for 2.5d and fan-out packages. 
+ advanced polymer materials are the key to high density packaging by enabling ultra-small vias and wiring layers to achieve 50 ohm impedance rdl wiring layers. 
+ traditional polymer dielectrics are thicker films (>20µm) and thus are unsuitable to rdl wiring layers at fine pitch and at 50 ohm impedance. although liquid spin-on polymers such as polyimide and pbo have been used widely in wafer level packaging, such materials are difficult to apply as thin dry films on large panels. 
+ in contrast to these materials, georgia tech and its industry partners have been developing ultra-thin (3-10µm) dry film polymer materials and associated rdl via and line formation processes. ultra-thin polymer dry films provide added benefits of better thickness control, improved planarization on underlying copper, large panel processing, and environmental friendliness. the georgia tech program involves a number of material partners in photo-sensitive from tok japan, dry film bcb from dow chemical, as well as non-photo dry film dielectrics from ajinomoto japan. the georgia tech programs that benefit from these polymer dielctrics include all digital applications using glass, advanced laminates and ceramic substrates. 
+ the georgia tech team has demonstrated wafer and panel substrates with 2µm lines and spaces by advanced semi-additive processes (sap) using 7µm thin dry film photo resists and projection lithography tool provided by ushio japan. wafer and panel metallization was performed using a 300 mm panel plating line at georgia tech installed by atotech, germany. various approaches are being investigated to demonstrate ultra-small micro-vias below 10µm including solid state uv laser, using a cornerstone™ system installed at georgia tech by esi, excimer laser ablation supported by suss photonic systems, photo lithography processes with advanced dry films provided by tok japan, dow chemical and other partners. by combining these materials and processes, multi-layer structures with 10µm vias and 2.5µm lines and spaces were successfully demonstrated to fabricate a 2.5d logic-hbm emulator designed with guidance from ibm / globalfoundries, amd, intel and others (top figure). 
+ to address the limitations of sap processes in pitch scaling,a novel via-in-trench (vit) and via-in-line (vil) embedded trench+via methods have been invented and demonstrated to achieve ultra-small liness and vias on large panels. advantages of the embedded approach are the elimination of seed etching processes and the formation of conductive wires with higher aspect ratios for better electrical conductivity. two different approaches are studied in the georgia tech program; excimer laser ablation by suss photonic systems with non-photo polymer dielectrics and photolithography with photo-polymers. after the trench and via formation, trench and via fill plating from atotech and a low-cost surface planarization process (tool installed at georgia tech by disco japan) to remove copper overburden were used to metallize the fine pitch rdl. using this approach, 2µm lines and spaces with embedded vias have been successfully demonstrated (bottom figure).this is one of the first demonstrations of silicon-like rdl that georgia tech team achieved using glass panels with potential for lower cost cu-polymer rdl materials and processes. 
+ this research is being performed in partnership with a large global team of material and tool companies and with support from several on-site industry engineers at georgia tech. 
+ this project is part of georgia tech industry consortium in system scaling which includes about 40 end-user and supply chain companies. 
+ about the authors 
+ yuya suzuki is a phd student under the advisement of prof. rao tummala. his research focus is on thin film dielectrics and small micro-vias. 
+ ysuzuki3@mail.gatech.edu . 
+ fuhan liu is the assistant program manager for electronic and photonic substrates at georgia tech prc. 
+ fliu@ece.gatech.edu 
+ dr. venky sundaram is the program manager of substrate programs and associate director of industry programs at georgia tech prc. 
+ vs24@mail.gatech.edu 
+ prof. rao tummala is joseph. m. pettit chair professor in ece and mse and director of georgia tech’s packaging research center. 
+ rao.tummala@ece.gatech.edu . 
+ additional images 
+ contact 
+ karen may 
+ marketing & communications coordinator 
+ packaging research center 
+ karen.may@ece.gatech.edu 
+ (404) 385-1220 
+ email 
+ karen.may@ece.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

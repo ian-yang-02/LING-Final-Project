@@ -1,0 +1,57 @@
+running roaches, flapping moths create a new physics of organisms 
+ researchers are interested in the strategies creatures have developed to overcome the challenges of moving though their environments. 
+ a hawk moth is shown on a robotic flower used to study the insect’s ability to track the moving flower under low-light conditions. the research shows that the creatures can slow their brains to improve vision under low-light conditions – while continuing to perform demanding tasks. (credit: rob felt, georgia tech) 
+ sep 19, 2017 
+ — atlanta, ga 
+ sand-swimming lizards, slithering robotic snakes, dusk-flying moths and running roaches all have one thing in common: they're increasingly being studied by physicists interested in understanding the shared strategies these creatures have developed to overcome the challenges of moving though their environments. 
+ by analyzing the rules governing the locomotion of these creatures, "physics of living systems" researchers are learning how animals successfully negotiate unstable surfaces like wet sand, maintain rapid motion on flat surfaces using the advantageous mechanics of their bodies, and fly in ways that would never work for modern aircraft. the knowledge these researchers develop could be useful to the designers of robots and flying vehicles of all kinds. 
+ “locomotion is a very natural access point for understanding how biological systems interact with the world,” said 
+ simon sponberg , an assistant professor in the 
+ school of physics 
+ and 
+ school of biological sciences 
+ at the georgia institute of technology. “when they move, animals change the environment around them so they can push off from it and move through it in different ways. this capability is a defining feature of animals.” 
+ sponberg has spent his career bridging the gap between physics and organismal biology – the study of complex creatures. his work includes studying how hawk moths slow their nervous systems to maintain vision during low-light conditions, and how muscle is a versatile material able to change function from a brake to a motor or spring. 
+ he recently published a feature article, the cover story for the september issue of the american institute of physics magazine 
+ physics today , on the role of physics in animal locomotion. the article was not intended as a review of the entire field, but rather to show how organismal physics – integrating complex physiological systems, the mechanics and the surrounding environment into a whole animal – has inspired his career. 
+ “the intersection of physics and organismal biology is a very exciting one right now,” said sponberg, who is also a researcher with the 
+ petit institute for bioengineering and bioscience 
+ at georgia tech said. “the assembly and interaction of multiple natural components manifests new behaviors and dynamics. the collection of these natural components manifests different patterns than the individual parts, and that’s fascinating.” 
+ supported by new initiatives at such organizations as the 
+ army research office / army research laboratory 
+ and the 
+ national science foundation 
+ – which are embracing these frontiers – georgia tech scientists are learning the equations that dictate how snakes move, understanding how the hair spacing on the bodies of bees help them stay clean, and using x-ray equipment to see how an unusual african lizard “swims” through dry sand. 
+ “it’s a really exciting time to be working at the intersection of evolutionary organismal biology that is realized in these living systems that have come about through the process of evolution, composed of seemingly very complex systems,” he said. “biological systems are inescapably complex, but that doesn’t mean there aren’t simple patterns of behavior that we can understand. we now have the modern tools, approaches and theory that we need to be able to extract physical patterns from biological systems.” 
+ in his article, sponberg makes predictions about the research that will be needed for the physics of living systems to advance as a field: 
+ how feedback transforms physiological dynamics, 
+ how aggregations of living components, from humans to ants to molecular motors, arise at multiple scales, and 
+ how robo-physical models of these complex systems can lead to new discoveries and advance engineering. 
+ engineered systems use feedback about the effects of their actions to adjust their future activities, and animals do the same to control their movement. scientists can manipulate this feedback to understand how complex systems are put together and use the feedback to design experiments rather than just analyzing what is there. 
+ “we use feedback all the time to move through our environment, and feedback is a really special thing that fundamentally affects how dynamics occur,” said sponberg. “but using feedback to design experiments is really sort of new.” 
+ for example, in the study of how hawk moths track flowers during low-light conditions, he and his colleagues used feedback dynamics to isolate how the moth’s brain adjusts its processing in dim light. the moths can still accurately track flower movements that occur less than two times per second – which matches the frequency at which the flowers sway in the wind. 
+ animals are composed of many systems operating at multiple time scales simultaneously – brain neurons, nerves and the individual fibers of muscles with molecular motors. these muscle fibers are arranged in an active crystalline lattice such that x-rays fired through them create a regular diffraction pattern. understanding these multiscale living assemblages provides new insights into how animals manage complex actions. 
+ finally, sponberg notes in his article that robots are playing a larger and larger role in the physics laboratory as functional models that can examine principles of movement by interacting with the real world. in the laboratory of georgia tech associate professor dan goldman – one of sponberg’s colleagues – robotic snakes, turtles, crabs and other creatures help scientists understand what they’re observing in the natural world. 
+ “moving physical models – robots – can be very powerful tools for understanding these complex systems,” sponberg said. “they can allow us to do experiments on robots that we couldn’t do on animals to see how they interact with complex environments. we can see what physics in these systems is essential to their behaviors.” 
+ sponberg was inspired to study the interaction of organismal biology and physics by the remarkable diversity of animal movement and by nonlinear dynamics, a field made popular when he was a young student by the 1987 best-selling book 
+ chaos: making a new science, 
+ authored by former new york times reporter james gleick. sponberg hopes today’s students – readers of 
+ physics today 
+ – will also be inspired. 
+ “i voted on this with my career choice, so i think this is a very exciting areas of science,” he added. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

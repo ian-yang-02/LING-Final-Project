@@ -1,0 +1,50 @@
+Biomaterial Particles Educate Immune System to Accept Transplanted Islets
+Researchers have opened a potentially new pathway for treating type 1 diabetes.
+Immunomodulatory signal presentation via synthetic hydrogel material promotes generation of T regulatory cells (green) in the local graft microenvironment (CD3+ T cells in red, and nuclei staining in blue) after implantation into a clinically relevant transplant model for the treatment of type 1 diabetes. (Credit: Georgia Tech)
+Jun 05, 2018
+— Atlanta, GA
+By instructing key immune system cells to accept transplanted insulin-producing islets, researchers have opened a potentially new pathway for treating type 1 diabetes. If the approach is ultimately successful in humans, it could allow type 1 diabetes to be treated without the long-term complications of immune system suppression.
+The technique, reported June 4 in the journal
+Nature Materials , uses synthetic hydrogel particles (microgels) to present a protein known as the Fas ligand (FasL) to immune system T-effector cells along with the pancreatic islets being transplanted. The FasL protein “educates” the effector cells – which serve as immune system watchdogs – causing them to accept the graft without rejection for at least 200 days in an animal model.
+The FasL-presenting particles are simply mixed with the living islets before being transplanted into the mice, which suffer from chemically-induced diabetes. The researchers believe the FasL-presenting hydrogels would not need to be personalized, potentially allowing an “off-the-shelf” therapy for the transplanted islets.
+Researchers from the Georgia Institute of Technology, University of Louisville and University of Michigan collaborated on the work, which was supported by the
+Juvenile Diabetes Research Foundation
+and the
+National Institutes of Health . A follow up study testing the approach in non-human primates has already begun.
+“We have been able to demonstrate that we can create a biomaterial that interrupts the body’s desire to reject the transplant, while not requiring the recipient to remain on continuous standard immunosuppression,” said
+Haval Shirwan , the Dr. Michael and Joan Hamilton Endowed Chair in Autoimmune Disease at the
+University of Louisville School of Medicine
+and director of the Molecular Immunomodulation Program at the Institute for Cellular Therapeutics at the university. “We anticipate that further study will demonstrate potential use for many transplant types, including bone marrow and solid organs.”
+In the United States, some 1.25 million persons have type 1 diabetes, which is different from the more common type 2 diabetes. Type 1 diabetes is caused by immune system destruction of the pancreatic islet cells that produce insulin in response to blood glucose levels. Treatment involves frequent injection of insulin to replace what the islets no longer produce. There is no long-term cure for the disease, though persons with type 1 diabetes have been treated experimentally with islet cell transplants – which almost always fail after a few years even with strong suppression of the immune system.
+“Drugs that allow the transplantation of the islet cells are toxic to them,” said
+Andrés García , the Rae S. and Frank H. Neely Chair and Regents' Professor in Georgia Tech’s
+George W. Woodruff School of Mechanical Engineering . “Clinical trials with transplantation of islets showed effectiveness, but after a few years, the grafts were rejected. There is a lot of hope for this treatment, but we just can’t get consistent improvement.”
+Among the problems, García said, is toxicity to the islet cells from the immune system suppression, which also makes patients more susceptible to other adverse effects such as infections and tumors. Other researchers are exploring techniques to protect the islets from attack, but have so far not been successful.
+The research reported in
+Nature Materials
+takes a totally different approach. By presenting the FasL protein – which is a central regulator of immune system cells – the researchers can prevent the immune system from attacking the cells. Once they are educated at the time of transplantation, the cells appear to retain their acceptance of the transplanted islet cells long after the FasL has disappeared.
+“At the time of transplantation, we take the islets that are harvested from cadavers and simply mix them with our particles in the operating room and deliver them to the animal,” García explained. “We do not have to modify the islets or suppress the immune system. After treatment, the animals can function normally and are cured from the diabetes while retaining their full immune system operation.”
+The hydrogels can be prepared up to two weeks ahead of the transplant, and can be used with any islet cells. “The key technical advance is the ability to make this material that induces immune acceptance that can simply be mixed with the islets and delivered. We can make the biomaterial in our lab and ship them to where the transplantation will be done, potentially making it an off-the-shelf therapeutic.”
+In the experimental mice, the islets were implanted into the kidneys and into an abdominal fat pad. If the treatment is ultimately used in humans, the islets and biomaterial would likely be placed laparoscopically into the omentum, a tissue with significant vasculature that is similar to the fat pad in mice. Garcia’s lab has previously shown that it can stimulate blood vessel growth into islet cells transplanted into this tissue in mice.
+In future work, the researchers want to see if the graft acceptance can be retained in more complex immune systems, and for longer periods of time. By reducing damage to the cadaver islets, the new technique may be able to expand the number of patients that can treated with available donor cells.
+García’s lab uses polymer hydrogel particles that are about 150 microns in diameter, about the same size as the islet cells. They engineer the particles to capture the FasL – a novel recombinant protein developed by Shirwan and Esma S. Yolcu, associate professor of microbiology and immunology at the University of Louisville – on the particle surface, where it can be seen by the effector cells.
+In addition to those already mentioned, the research team included Devon M. Headen, Maria M. Coronel, Jessica Weaver, Michael D. Hunckler and Christopher T. Johnson from Georgia Tech; Kyle B. Woodward, Pradeep Shrestha, Hong Zhao, Min Tan, William S. Bowen and Esma S. Yolcu from the University of Louisville, and Lonnie Shea from the University of Michigan.
+This work was funded in part by the Juvenile Diabetes Research Foundation (2-SRA-2014-287-Q-R) and NIH (R21EB020107, R21AI113348, R56AI121281, and U01AI132817). Any conclusions or opinions are those of the authors and do not necessarily represent the official views of the sponsoring organizations.
+CITATION : Devon B. Headen, et al., “Local immunomodulation with Fas ligand-engineered biomaterials achieves allogeneic islet graft acceptance,” (Nature Materials, 2018).
+http://dx.doi.org/10.1038/s41563-018-0099-0
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181 USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

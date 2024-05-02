@@ -1,0 +1,50 @@
+finally, a robust fuel cell that runs on methane at practical temperatures 
+ cheap fuel, cool temperatures, low material costs: this fuel cell could spread to homes and cars. 
+ this could actually become a practical, marketable energy solution. practical to run at cooler temperatures and on cheap fuel: the new fuel cell in the lab of meilin liu at georgia tech. credit: georgia tech / christopher moore 
+ oct 29, 2018 
+ — atlanta, ga 
+ fuel cells have not been particularly known for their practicality and affordability, but that may have just changed. there’s a new cell that runs on cheap fuel at temperatures comparable to automobile engines and which slashes materials costs. 
+ though the cell is in the lab, it has high potential to someday electrically power homes and perhaps cars, say the researchers at the georgia institute of technology who led its development. in a 
+ new study in the journal  nature energy   the researchers detailed how they reimagined the entire fuel cell with the help of a newly invented fuel catalyst. 
+ the catalyst has dispensed with high-priced hydrogen fuel by making its own out of cheap, readily available methane. and improvements throughout the cell cooled the seething operating temperatures that are customary in methane fuel cells dramatically, a striking engineering accomplishment. 
+ methane fuel cells usually require temperatures of 750 to 1,000 degrees celsius to run. this new one needs only about 500, which is even a notch cooler than automobile combustion engines, which run at around 600 degrees celsius. 
+ that lower temperature could trigger cascading cost savings in the ancillary technology needed to operate a fuel cell, potentially pushing the new cell to commercial viability. the researchers feel confident that engineers can design electric power units around this fuel cell with reasonable effort, something that has eluded previous methane fuel cells. 
+ ‘sensation in our world’ 
+ “our cell could make for a straightforward, robust overall system that uses cheap stainless steel to make  interconnectors ,” said meilin liu, who led the study and is a  regents professor in georgia tech’s school of materials science and engineering.  interconnectors are parts that help bring together many fuel cells into a  stack , or functional unit. 
+ “above 750 degrees celsius, no metal would withstand the temperature without oxidation, so you’d have a lot of trouble getting materials, and they would be extremely expensive and fragile, and contaminate the cell,” liu said. 
+ “lowering the temperature to 500 degrees celsius is a sensation in our world. very few people have even tried it,” said ben deglee, a graduate research assistant in liu’s lab and one of the first authors of the study. “when you get that low, it makes the job of the engineer designing the stack and connected technologies much easier.” 
+ the new cell also eliminates the need for a major ancillary device called a  steam reformer , which is normally required to convert methane and water into hydrogen fuel. 
+ liu, deglee, co-first author yu chen, who is a postdoctoral researcher in liu’s lab, and co-first author yu tang of the university of kansas,  published the results 
+ of their research on october 29, 2018 . their work was funded by the office of basic energy sciences and the advanced research projects agency-energy (arpa-e), both in the u.s. department of energy. it was also funded by the national science foundation’s division of chemistry. 
+ ‘distributed generation’ 
+ the research was based on a type of fuel cell with high potential for commercial viability, the  solid oxide fuel cell (sofc) . sofcs are known for their versatility in fuels they can use. 
+ if it goes to market, though the new cell might not power automobiles for a while, it could land sooner in basements as part of a more decentralized, cleaner, cheaper electrical power grid. the  fuel cell stack  itself would be about the size of a shoebox, plus ancillary technology to make it run. 
+ “the hope is you could install this device like a tankless water heater. it would run off of natural gas to power your house,” liu said. “that would save society and industry the enormous cost of new power plants and large electrical grid expansions.” 
+ “it would make homes and businesses more power independent,” liu said. “that kind of system would be called distributed generation, and our sponsors want to develop that.” 
+ homemade hydrogen 
+ hydrogen is the best fuel for powering fuel cells, but its cost is exorbitant. the researchers figured out how to convert methane to hydrogen in the fuel cell itself via the new catalyst, which is made with cerium, nickel and ruthenium and has the chemical formula ce 0.9 ni 0.05 ru 0.05 o 2,  abbreviated cnr. 
+ when methane and water molecules come into contact with the catalyst and heat, nickel chemically cleaves the methane molecule. ruthenium does the same with water. the resulting parts come back together as that very desirable hydrogen (h 2 ) and carbon monoxide (co), which the researchers surprisingly put to good use. 
+ “co causes performance problems in most fuel cells, but here, we’re using it as a fuel,” chen said. 
+ making electricity 
+ h 2  and co continue on to further catalyst layers that make up the anode, the part of the fuel cell that yanks off electrons, making the carbon monoxide and hydrogen positively charged ions. the electrons travel via a wire - creating the electricity flow - toward the cathode. 
+ there, oxygen, which is very electron-hungry, sucks up the electrons, closing the electrical circuit and becoming o 2-  ions. ionized hydrogen and oxygen meet and exit the system as water condensation; the carbon monoxide and oxygen ions meet to become pure carbon dioxide, which could be captured. 
+ for the energy produced, fuel cell technology creates far, far less carbon dioxide than combustion engines. 
+ in some fuel cells, the water in the initial reactions must be introduced from the outside. in this new fuel cell, it’s replenished in the last reaction phase, which forms water that cycles back to react with the methane. 
+ catalysts converge 
+ the new catalyst, cnr, manufactured by research collaborators at the university of kansas, is the outer layer of the anode side of the cell and doubles as a protectant against decay, extending the life of the cell. cnr has strong cohort catalysts in inner layers and on the other side of the cell, the cathode. 
+ on the cathode end, oxygen’s reaction and movement through the system are usually notoriously slow, but liu’s lab has recently sped it up to raise the electricity output by using what’s called nanofiber cathodes, which liu’s lab developed in a prior study. ( a tailored double perovskite nanofiber catalyst enables ultrafast oxygen evolution .) 
+ “the structures of these various catalysts, as well as the nanofiber cathodes, all together allowed us to drop the operating temperature,” chen said. 
+ like this article?  subscribe to our email newsletter 
+ also read:  turbocharging fuel cells with a multifunctional catalyst 
+ the following people coauthored the research: b ote  zhao,   l ei  zhang,   s eonyoung  yoo,  kai pei, jun hyuk kim  and  yong ding of georgia tech; yuechang wei and franklin  f eng  tao of the university of kansas, and z iyun  wang and p .  hu of the queen’s university of belfast. the research was funded by the  u.s. department of energy under the following agencies and programs: advanced research projects agency-energy (arpa-e) rebels program (award de-ar0000502), and  seca core technology program (award de-fe0031201) , the catalysis program of the office of basic energy sciences (grant de- sc0014561). it was also funded by the division of chemistry of the national science foundation (award 1462121). any results, conclusions, and opinions are those of the authors and not necessarily of the funding agencies. 
+ doi:   10.1038 / s41560-018-0262-5 
+ writer & media representative : ben brumfield (404-660-1408), ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

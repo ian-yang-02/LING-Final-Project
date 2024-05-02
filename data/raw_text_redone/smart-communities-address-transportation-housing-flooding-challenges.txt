@@ -1,0 +1,104 @@
+smart communities address transportation, housing, flooding challenges 
+ four georgia communities are exploring innovative technologies and collaborating with georgia tech and local partners. 
+ georgia tech researchers are working with chatham county to develop a sensor network partnered with data analytics for more accurate, localized flooding forecasts for improved emergency planning and response. (credit: russell clark, georgia tech) 
+ apr 15, 2019 
+ — atlanta, ga 
+ four georgia communities are exploring innovative technologies and collaborating with local partners and georgia institute of technology research teams to help drive the state’s smart development. 
+ georgia tech leads the pilot 
+ georgia smart communities challenge , which supports one-year projects to develop and implement smart design solutions to some of the biggest challenges facing the state. 
+ the four selected localities were chosen from a pool of applicants statewide.the cities of albany and chamblee and the counties of chatham and gwinnett are focusing on pilot projects to improve local housing investments, address traffic and transportation challenges, and develop more targeted flooding forecasts of storms and sea level rise along georgia’s coast. 
+ a local government coordinates each project. but community and neighborhood groups, industry, and others are crucial collaborators. a georgia tech researcher conducts studies and provides guidance in pursuit of each project’s goals, supported by graduate and undergraduate students. 
+ each community has received $50,000 in grants and $25,000 from georgia tech in research support. communities also raised matched funds. georgia power is the lead sponsor, with additional financial support from the atlanta regional commission. the work began in september 2018 and will continue through september 2019. 
+ students are engaged through the research projects but also through two additional summer programs. the 
+ georgia smart community corps 
+ is a full-time, paid summer fellowship for georgia tech students to become part of the project team. it is a joint collaboration with the strategic energy institute, center for serve-learn-sustain, center for career discovery and development, and the student government association. 
+ the georgia tech civic data science program, led by 
+ ellen zegura 
+ and 
+ christopher le dantec , competitively recruits students nationally to come to the atlanta campus for the summer and work in smaller teams with the georgia smart community on data analytics. 
+ and the competition will soon begin for the next group of communities, to be announced in june. 
+ “we define ‘smart development’ as the integration and application of technologies to improve the quality of life,” said debra lam, managing director of smart cities and inclusive innovation at georgia tech. these advanced tools can be intelligent infrastructures, information, and communication technologies, internet of things devices, and other computational or digital systems, such as data centers and portals, web and smartphone applications, and automated digital services. 
+ “there is a misconception that smart community innovations always must start in a major city and trickle down to smaller places,” said lam. “but innovations can trickle up as well. they can be developed more quickly in smaller communities because you have all stakeholders in the room — the mayor and city manager, public agencies, community and neighborhood groups, industry and business. a next step will be to spread what’s learned from these smart development projects to other georgia communities and beyond.” 
+ smart sea level tools for emergency planning and response 
+ climate change is driving sea levels higher, increasing flooding events during coastal storms and extreme high tides in chatham county. but the county has only one official water level gauge, located at fort pulaski. the georgia coast, however, is a complex environment where rising water impacts can vary dramatically from place to place. 
+ “some neighborhoods are flooding more frequently now, while in other neighborhoods not far away the flooding is more modest or erratic, depending on which way the wind is blowing, how much rain falls, and many other factors,” said 
+ russell clark , georgia tech senior research scientist in the college of computing. 
+ that’s why residents want more targeted flood warnings and forecasts. 
+ chatham county is using its smart communities support to partner with georgia tech researchers to develop a sensor network partnered with data analytics for more accurate, localized flooding forecasts for improved emergency planning and response. 
+ “coastal communities are desperate for solutions,” said 
+ kim cobb , the project’s faculty leader, georgia power chair, and professor in the school of earth and atmospheric sciences. “through many partnerships, georgia tech can design strategies to help communities adapt to climate change and sea level rise. we see this pilot as only the first step of a multi-year effort to advance real solutions with different combinations of partners, expertise, and funding.” 
+ local high school students are helping to build and install a new batch of 30 sensors that will soon augment the 12 units already deployed. the sensor network will transmit data to computer models for analysis and prediction of storm strength and flooding. 
+ the smart sea level sensor project is a partnership among chatham emergency management agency officials, city of savannah officials, and georgia tech scientists and engineers. the pilot project’s data could be used to plan more resilient bridge, road, and water treatment infrastructure. the sensors could be adapted later to collect other environmental monitoring data, including rainfall and water quality parameters. 
+ “residents are excited to see that localized sensor data will be visible for them,” said clark. “we hear a lot of ‘thank you for doing this in my neighborhood.’” 
+ emanuele di lorenzo , professor of ocean and climate dynamics, will integrate sensor data into models for predictive flood-risk assessments specifically for the chatham county coast. david frost, elizabeth and bill higginbotham professor of civil engineering, will provide resilience planning tools for community leaders. 
+ residents can offer their input during a may 16 showcase for the project sponsored by the georgia smart communities program. on smartphones and ipads, georgia tech undergraduates will guide residents through web-based visualizations of flood-risk scenarios for different coastal locations with augmented reality tools. 
+ “we continue to look for community feedback, which is so important,” said cobb. “there will be many more opportunities for local community members, students, and educators to get involved.” 
+ albany housing data initiative 
+ why do public investments in housing and infrastructure fail to revitalize some blighted neighborhoods? albany, a city in the southwest corner of the state, is drawing on georgia smart support and guidance to develop and evaluate an automated housing registry that could help answer this question. 
+ “as is the case in many communities, housing has fallen into disrepair in some albany neighborhoods,” said 
+ omar isaac asensio , assistant professor in the georgia tech school of public policy and principal investigator for the albany project. “abandoned or uninhabitable properties have been purchased and cleaned up. but the community says, ‘we're spending a lot of money on revitalization, but because data are siloed in different city departments and are not easily accessible, it’s hard for us to really quantify the benefits of these investments.’ in an effort to promote transparency, the city wants to integrate and analyze albany’s housing data, which would help the community answer questions about the effectiveness of various policies or programs designed to help neighborhoods.” 
+ for example, the community home investment program (chip) assists low- and moderate- income households with up to $25,000 in home repairs that affect the health or safety of those residing in the home. eligible repairs include costly items such as roof replacement, heating, ventilation, and air conditioning (hvac) systems, and other energy efficiency measures. today there is no way to link housing investment information with energy performance data in the city. as a result, the data needed to evaluate the effectiveness of housing programs are inaccessible, not just to the public. 
+ asensio’s team is collaborating with the city to bring together multiple databases to map housing address information as well as 10 years’ worth of utility records held by the city. additional information from other city departments, including transit, code enforcement data, crime data, and other open data is part of the overall initiative, and will be added later. 
+ “under the leadership of steven carter, albany’s chief information officer, we’ve already made strides on data collection, aggregation, and curation,” he said. “now an open-data portal needs to be built, and data from more departments will be integrated into one place.” using record linkage and statistical algorithms, the georgia tech team will create maps to visualize locations of blight and housing investments and tell the hidden stories behind the data, backed by rigorous analysis. 
+ albany is hosting participatory design workshops for the public and others to develop priorities about the initiatives that can be run through the portal and arcgis hub in collaboration with georgia tech’s christopher le dantec and debra lam. project partners include dougherty county, the city’s department of community and economic development, and the nonprofit fight albany blight. 
+ “we need input from both the public and private sectors about what’s important to them because ultimately this process is meant to benefit communities,” asensio said. the open-data portal will evolve with new data that the city adds over time, helping officials to do their jobs, improving fiscal efficiency and enhancing transparency throughout city government. 
+ urban policy scientists are often stymied by lack of access to data. “the albany initiative allows researchers access to granular data about public investment and performance needed for rigorous policy and program evaluation,” he said. “this project could provide a blueprint to other cities to open up and visualize city data in collaboration with the academic research community, the public, government, and industry. albany’s experience will be indispensable for other communities in our state, putting the city on the map for developing the latest analytical tools on open data.” 
+ connected vehicle technology master plan 
+ suburban gwinnett county, northeast of atlanta, has experienced sprawling growth and increasingly heavy traffic in recent decades. county leaders, looking for solutions, took note of atlanta’s north avenue smart corridor and similar high-tech projects around the country. smart technologies can improve traffic flow and driver safety when vehicles share real-time locations with each other and with traffic signals. high-tech sensors on vehicles and roadways tell connected vehicles when to maneuver to avoid collisions, reducing crashes and traffic snarls on suburban arteries. 
+ now gwinnett county is partnering with georgia smart in a project to engage multiple stakeholders across the state to set the standard for application of connected vehicle technology that can improve mobility and traffic safety. 
+ the county aims to develop and implement a master plan for autonomous real-time data sharing among connected vehicle applications, signals, and other roadway sensors. the peachtree industrial boulevard corridor has been chosen as the pilot smart corridor for technology deployment, which is scheduled to begin later in 2019. 
+ first, though, the county needs accurate baseline data about current traffic patterns. 
+ “we’ve had access to high-fidelity traffic signal data, but data from vehicles on the road are very sparse,” said 
+ angshuman guin , the project’s faculty leader and senior research engineer in the school of civil and environmental engineering. 
+ “we were only getting a location point for emergency response vehicles every five minutes, but we need gps points every second to understand the bottlenecks in traffic, as well as where and why the vehicles are losing time on the roadway during an emergency response.” he is collaborating with the county fire chief to outfit 15 fire department vehicles with georgia tech-designed sensor packages. 
+ “we are using the fire department data to know exactly where and how long the delays are for emergency response vehicles — and compare those data to signal data. was a delay associated with the signal being red? or was it associated with traffic alone? this study is only possible because of our collaboration with the county, the fire department, and the other partners involved. we would not be able to gather the data we need without them.” 
+ guin will help the county assess the benefits of connected vehicle applications such as emergency vehicle preemption, which help responders reach emergency scenes more quickly and safely. he will also simulate traffic operations and apply safety analyses across all systems. 
+ “we are helping the county develop strategies, leveraging connected vehicle technology, for extending the benefits of preemption by implementing anticipatory queue flush operations at intersections to reduce the delays experienced by emergency vehicles, and to also improve safety at intersections,” he said. 
+ gwinnett county and georgia tech are collaborating on the project with the georgia department of transportation and the cities of berkeley lake, duluth, norcross, and suwanee. 
+ most connected-vehicle pilot efforts focus on interstates or high-density business districts. but many commuters and other drivers in the atlanta metro spend more miles on suburban roadways than in the city. 
+ suburban arterials are typically more challenging for smart communications technologies. heavily traveled suburban roads with higher operating speeds and irregularly spaced intersections make driving more complex and dangerous. that’s why the suburban gwinnett county corridor could form the backbone of the connected vehicle technology master plan to improve driving experience with connected vehicle technology across city and county lines throughout the state. 
+ chamblee shared autonomous vehicle study 
+ the city of chamblee is attracting young people and others who seek a walkable, lively urban experience without the steep rents of atlanta’s popular, higher-density neighborhoods. the chamblee marta rail station in suburban dekalb county has been a crucial drawing card for commuters relocating to apartments in the city’s redeveloping core. 
+ chamblee has succeeded in redeveloping properties near marta with urban apartments and new restaurants. “now the city wants to expand local transit opportunities to link the marta station to other nearby neighborhoods, some with redevelopment projects already underway,” said 
+ ellen dunham-jones , director of the georgia tech urban design program. 
+ chamblee is using georgia smart funding to partner with a georgia tech team, led by dunham-jones, to study how improving urban design and passenger experiences can help build ridership for an experimental mode of transportation — the shared autonomous vehicle. 
+ chamblee anticipates operating an autonomous shuttle along a mile of peachtree road with five stops for 10 hours a day, seven days a week. a second phase could extend the shuttle east to assembly yards, a mixed-use development under construction in doraville. at first, the shuttle would operate semi-autonomously with an onboard attendant in case of emergencies. 
+ the georgia tech team is developing a set of recommendations for the city and a best practices manual to improve the user experience of getting to, waiting for, and riding on autonomous shuttle buses. how might they expand walkability throughout chamblee and build social capital? can bus stops serve as community infrastructure? the guide could be applied in other communities in georgia and around the country. 
+ dunham-jones and ph.d. student zachary lancaster studied 18 autonomous shuttle projects in pilot stages worldwide, the great majority of which operate on private streets or in office parks. they interviewed industry experts, visited pilot projects, and surveyed potential passengers of chamblee’s shuttle. 
+ the autonomous shuttle experience must be appealing to compete with other transit options including private cars, electric scooters, and ride-share services. 
+ “once the shuttle is operating, it’s important to have a data management plan that allows for feedback from users,” she said. “that will help the city improve the shuttle system by learning more about how people respond to it.” 
+ the pilot project will also develop an operations plan for the shuttle and conduct preliminary engineering while engaging the community through public meetings, city strolls, and other events. other city partners include the city of doraville, stantec, marta, and the assembly community improvement district. 
+ introducing small autonomous transit vehicles to city streets could eventually transform how people get around. 
+ “with autonomous shared vehicles, you could replace the typical big bus that comes once an hour with four or five small shuttles along the same route arriving every 10 minutes, and that would be a game changer for encouraging more people to use transit,” she said. 
+ concluding the projects and next steps 
+ as the inaugural georgia smart projects draw to a close in september, the team with support from the strategic energy institute will produce a georgia smart community playbook. distilling best practices and findings for all communities, the playbook is being developed by christopher le dantec, associate professor in the digital media program in the school of literature, media, and communication. 
+ the playbook will include a data guide. 
+ “the guide prompts communities to answer a number of questions about data they found useful in their projects,” says le dantec. “where did these data come from? what are the data standards? what are the data’s limitations? what might another community do with similar data and where can it go for help?” 
+ each project concludes in september with a local public event to explain how the community pursued its goals, gained results, and made plans for the future. each cohort, then, provides a road map for the next one. 
+ but projects supported by georgia smart won’t necessarily come to an end after one year. they may evolve with new sources of funding. 
+ “georgia tech scientists and engineers have become part of the local team,” said lam. “many of the researchers want to continue engaging in this work, expanding the pilot projects with new grants and other opportunities.” 
+ georgia smart is supported by the georgia power company and the atlanta regional commission, the lead sponsors, as well as the association county commissioners of georgia, georgia chamber, georgia department of community affairs, georgia department of economic development, georgia municipal association, georgia planning association, global city teams challenge, metro atlanta chamber, and technology association of georgia. 
+ for more information about georgia smart, visit 
+ www.smartcities.gatech.edu / georgia-smart . 
+ the links below have additional information (in pdf format) on each project: 
+ chatham county 
+ albany 
+ chamblee 
+ gwinnett county 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact: 
+ john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john tibbetts 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

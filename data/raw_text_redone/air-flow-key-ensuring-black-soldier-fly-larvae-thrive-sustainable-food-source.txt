@@ -1,0 +1,42 @@
+air flow key to ensuring black soldier fly larvae thrive as a sustainable food source 
+ georgia tech research provides insights into how this insect superfood can be raised and fed in dense groups without overheating 
+ living larvae inside the apparatus between fluidization experiments at georgia tech’s school of physics’ howey physics building. (photo credit: grace cassidy, georgia tech) 
+ dec 14, 2021 
+ — atlanta, ga 
+ black soldier fly larvae devour food waste and other organic matter and are made of 60% protein, making them an attractive sustainable food source in agriculture. but increasingly, black soldier larvae are dying before they reach livestock facilities as animal feed. 
+ georgia tech researchers, recognizing the culprit is the collective heat generated when the maggots eat in crowded conditions, have found that delivering the right amount of airflow could help solve the overheating issue. their findings were published this month in 
+ frontiers in physics 
+ as part of a special issue on the 
+ “physics of social interactions.” 
+ “black soldier fly larvae are widely used in an emerging food-recycling industry. the idea is to feed the larvae with food waste and then turn them into chicken feed,” explained first author hungtang ko, a ph.d. student in the 
+ george w. woodruff school of mechanical engineering .  “these larvae make a great candidate for this process because they eat just about everything.” 
+ each year humans waste more than one billion tons of food, or a third of all food production, and many countries are running out of options for disposing of this waste. 
+ the larvae thrive in and around compost piles, where their larvae help break down organic material, from rotten produce to animal remains and manure. black soldier fly larvae commonly grow to about 1,000 times their size, noted david hu, professor in the school of mechanical engineering. 
+ “it’s like going from the size of a person to the size of a big truck,” he said of the larvae’s growth from eggs to adults. 
+ hu has appeared on 
+ science friday 
+ graphically showing the voracious appetite of black soldier fly larvae, which can eat twice their body mass in food per day. but when these maggots feed while tightly packed in container bins, they generate metabolic heat that collectively can turn lethal for them. 
+ air flow matters 
+ ko and hu collaborated with daniel goldman, dunn family professor in the 
+ school of physics , to set up the experiments. goldman uses fluidized beds —widely used in industrial applications like oil refining ― to control properties of granular media in animal and robot locomotion studies. fluidized beds operate by forcing a vertical flow of fluid through a collection of particulate matter; above a certain flow rate, the grains transition from a solid pile to a fluid-like arrangement, where they collide and jostle. 
+ the researchers placed the larvae in a container subjected to regular air flow at a consistent temperature. they then attached a leaf blower to supply air flow into the chamber, manually ramping up and down the air speed in five-minute trials. 
+ because of the larvae’s constant activity, the collectives’ behavior under air fluidization differs from what is observed in traditional fluidized beds: larvae were un-jammable when air flow became low. instead, they behave like a fluid that adapted and adjusted to external forces. 
+ “an interesting aspect of this work is that it probes a regime of ‘active matter,’ which has received less attention from physicists: instead of 3d swarms composed of widely separated, non-colliding flying birds and insects, our `swarm’ exists in another regime, where animals are packed tightly together,” goldman said. 
+ in a second experiment, the team used x-ray imaging and constant air speed to see how fast larvae eat. specifically, ko measured the average velocity and pressure of the larvae, as well as how much food they ate under various airflow speeds. 
+ “as you continue to increase the flow, you’ll reach a point where all the larvae are flying [through the air]. the airflow is too fast, and they won’t eat well,” he said. 
+ optimal air velocity will ensure the larvae are cooled off properly and can still feed effectively. “probing optimal flow velocity will be a good next step. also, from an engineering perspective, we need to consider other ways that we can cool the larvae down, including using heat transfer,” he added. 
+ the results indicated that as larvae are agitated by rapid flows, the insects are more likely to be suspended in mid-air without contacting the food, suggesting that a moderate flow rate would be optimal for feeding dense groups of larvae. 
+ the researchers also hope this work will enable black soldier fly larvae to be more readily available as recyclers of food waste, which totals 
+ 1.3 billion tons per year , according to the food and agriculture organization of the united nations. but just as important is the potential of these protein-rich insects to reduce the carbon effects of feeding animals. global food production contributes more than 17 billion metric tons of human-made greenhouse gas emissions every year, according to a study published in september in 
+ nature food . animal-based foods produce more than twice the emissions of plant-based food, the study found. 
+ “there's no sustainable protein source for the animals that we eat,” noted ko. “the black soldier fly larvae could play a role in reducing the environmental impact of feeding these animals.” 
+ citation: 
+ h. ko, et. all, “air-fluidized aggregates of black soldier fly larvae,” ( frontiers in physics,  2021) https: / / doi.org / 10.3389 / fphy.2021.734447 
+ additional images 
+ contact 
+ anne wainscott-sargent 
+ email 
+ asargent7@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

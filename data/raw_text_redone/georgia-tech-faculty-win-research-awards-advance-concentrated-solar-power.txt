@@ -1,0 +1,38 @@
+georgia tech faculty win research awards to advance concentrated solar power 
+ georgia tech has won a portion of a new department of energy initiative on concentrated solar power. 
+ georgia tech is part of a new u.s. department of energy (doe) initiative to develop the next generation of concentrated solar power (csp). shown (l-r) are researchers sheldon jeter, devesh ranjan, shannon yee, peter loutzenhiser and zhuomin zhang. (credit: candler hobbs, georgia tech) 
+ jun 13, 2018 
+ — atlanta, ga 
+ georgia institute of technology researchers are part of a new u.s. department of energy (doe) initiative to develop the next generation of concentrated solar power (csp), a technology that uses heat from the sun to turn power-generating turbines. csp is an alternative to the better known photovoltaic technology, which produces electricity directly from sunlight. 
+ six georgia tech researchers will receive a portion of a $72 million doe investment that will ultimately lead to construction and demonstration of an operating generation 3 csp facility. the georgia tech researchers will collect information on the thermophysical properties of molten salts used in concentrated solar facilities and study particle flows and heat transfer that may be part of thermal storage applications. 
+ “concentrated solar power is another option that allows us to generate electricity from sunlight,” said shannon yee, assistant professor in georgia tech’s george w. woodruff school of mechanical engineering and one of the award recipients. “concentrated solar allows storage of the sun’s heat, so we can generate electricity even when the sun isn’t shining – at night, for example.” 
+ concentrated solar facilities use mirrors to concentrate sunlight that is then captured by solar receivers installed at the top of towers. some existing installations use the heat to generate steam, which then drives a turbine to produce electric power. engineers want to operate the facilities at higher temperatures – 700 degrees celsius or above – to more effectively use the concentrated sunlight from fields of mirrors (i.e., heliostat fields) that deliver more concentrated sunlight to solar receivers than the widely used parabolic troughs. 
+ “we have to move to higher and higher temperatures, which means we have to use materials that are more and more exotic,” said yee, whose research team will receive a total of about $2 million during the five-year program. “we really don’t have the information we need about the thermophysical properties of these materials. our goal will be to learn more about these materials, and to disseminate that information to the organizations that will be designing the new facility.” 
+ an alternative to using molten salts is to use solid particle flows as a thermal energy carrier and storage medium to transfer thermal energy from the receiver to a working fluid to produce electricity. understanding these materials will be the work of associate professors peter loutzenhiser and devesh ranjan, and professor zhuomin zhang, all faculty members in the woodruff school of mechanical engineering. 
+ “we will be working together to characterize flow and model the heat transfer for different particles under different conditions as they are applied to csp applications,” said loutzenhiser, whose team will receive $1.4 million from the doe over three years. “the end goal will be supporting the use of particles as solar energy storage and carrier media to provide on-demand electricity derived from supercritical co 2 
+ and / or air brayton cycles. solid particles are advantageous because they have high energy densities and can operate to higher temperatures without much degradation compared to molten salts.” 
+ ranjan compared the particle flow to that of volcanic lava. “the particles can absorb a lot of heat and allow us to move the thermal energy,” he said. “we will be looking at these particle flows in detail.” 
+ the work will include both theoretical and applied aspects, loutzenhiser noted. “we will examine fundamental behavior of the particle flows and heat transfer for different solar particle heating receiver configurations. this work will then be used to support the design and development of real technologies at scale-up that are being pursued by other generation 3 researchers within the scope of the program. the project will culminate in a suite of experiments that will use our high-flux solar simulator to closely mimic the conditions that the particle flows would experience under sunlight in an actual solar receiver.” 
+ in addition to yee, loutzenhiser, ranjan and zhang, the overall doe project will also include said abdel-khalik and sheldon jeter, also mechanical engineering professors, who will support the development of the demonstration csp facility proposed by sandia national laboratories. the proposed sandia design will use particle heating technology. the team led by abdel-khalik and jeter has been developing particle heating csp technology in collaboration with sandia and others for several years. 
+ ultimately one test facility will be built by a team to be chosen from among sandia or competitors brayton energy and the national renewable energy laboratory. those three organizations received preliminary awards from the doe. 
+ the new doe funding will extend previous research on high-temperature components, develop them into integrated assemblies, and test these components and systems through a wide range of operational conditions, the agency said. 
+ if successful, the doe expects that this will result in reducing the cost of a csp system by approximately $0.02 per kilowatt-hour, which is 40 percent of the way to the 2030 cost goals of $0.05 per kilowatt-hour (kwh) for baseload csp plants. 
+ “doe has led the world in csp research,” said daniel simmons, principal deputy assistant secretary for the doe’s office of energy efficiency and renewable energy. “these projects will help facilitate the next wave of new technologies and continue the effort to maintain american leadership in this space.” 
+ through the generation 3 csp program, three teams will compete to build an integrated system that can efficiently receive solar heat and deliver it to a working fluid at a temperature greater than 700 degrees celsius, while incorporating thermal energy storage, the agency said in its news release. 
+ over the first two-year period, those teams will work to de-risk various aspects of diversified csp technology pathways, prepare a detailed design for a test facility, and be subjected to a rigorous review process to select a single awardee to construct their proposed facility. if selected, they will receive an additional $25 million over the subsequent three years to build a test facility that allows diverse teams of researchers, laboratories, developers and manufacturers to remove key technological risks for the next generation csp technology, the doe said. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

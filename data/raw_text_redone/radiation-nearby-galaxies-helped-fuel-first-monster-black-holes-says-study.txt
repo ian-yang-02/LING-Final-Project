@@ -1,0 +1,40 @@
+radiation from nearby galaxies helped fuel first monster black holes, says study 
+ study suggests how first massive black holes grew so quickly after the birth of the universe. 
+ john wise, dunn family associate professor in georgia tech’s college of physics 
+ mar 13, 2017 
+ — atlanta, ga 
+ the appearance of supermassive black holes at the dawn of the universe has puzzled astronomers since their discovery more than a decade ago. a supermassive black hole is thought to form over billions of years, but more than two dozen of these behemoths have been sighted within 800 million years of the big bang 13.8 billion years ago. 
+ in a new study in the journal 
+ nature astronomy , a team of researchers from dublin city university, georgia tech, columbia university and the university of helsinki add evidence to one theory of how these ancient black holes, about a billion times heavier than our sun, may have formed and quickly put on weight. 
+ in computer simulations, the researchers show that a black hole can rapidly grow at the center of its host galaxy if a nearby galaxy emits enough radiation to switch off its capacity to form stars. thus disabled, the host galaxy grows until its eventual collapse, forming a black hole that feeds on the remaining gas, and later, dust, dying stars, and possibly other black holes, to become super gigantic. 
+ “the collapse of the galaxy and the formation of a million-solar-mass black hole takes 100,000 years — a blip in cosmic time,” says study co-author zoltan haiman, an astronomy professor at columbia university. “a few hundred million years later, it has grown into a billion-solar-mass supermassive black hole. this is much faster than we expected.” 
+ in the early universe, stars and galaxies formed as molecular hydrogen cooled and deflated a primordial plasma of hydrogen and helium. this environment would have limited black holes from growing very big as molecular hydrogen turned gas into stars far enough away to escape the black holes’ gravitational pull. astronomers have come up with several ways that supermassive black holes might have overcome this barrier. 
+ in a 
+ 2008 study , haiman and his colleagues hypothesized that radiation from a massive neighboring galaxy could split molecular hydrogen into atomic hydrogen and cause the nascent black hole and its host galaxy to collapse rather than spawn new clusters of stars. 
+ a 
+ later study 
+ led by eli visbal, then a postdoctoral researcher at columbia, calculated that the nearby galaxy would have to be at least 100 million times more massive than our sun to emit enough radiation to stop star formation. though relatively rare, enough galaxies of this size exist in the early universe to explain the supermassive black holes observed so far. 
+ the current study, led by john regan, a postdoctoral researcher at ireland’s dublin city university, modeled the process using software developed by columbia’s greg bryan. this study includes the effects of gravity, fluid dynamics, chemistry and radiation. 
+ after several days of crunching the numbers on a supercomputer, the researchers found that the neighboring galaxy could be smaller and closer than previously estimated. “the nearby galaxy can’t be too close, or too far away, and like the goldilocks principle, too hot or too cold,” said study coauthor john wise, the dunn family associate professor in georgia tech’s college of physics. 
+ though massive black holes are found at the center of most galaxies in the mature universe, including our own milky way, they are far less common in the infant universe. the earliest supermassive black holes were first sighted in 2001 through a telescope at new mexico’s 
+ apache point observatory 
+ as part of the sloan digital sky survey. 
+ the researchers hope to test their theory when nasa’s james webb space telescope, the successor to hubble, goes online next year and beams back images from the early universe. 
+ other models of how supermassive black holes evolved, including one in which black holes grow by merging with millions of smaller black holes and stars, await further testing. “understanding how supermassive black holes form tells us how galaxies, including our own, form and evolve, and ultimately, tells us more about the universe in which we live,” said regan, of dublin city university. 
+ the study is titled “rapid formation of massive black holes in close proximity to embryonic protogalaxies.” the other authors are 
+ eli visbal , now a postdoctoral researcher at the simons foundation flatiron institute; 
+ peter johansson , an astrophysics professor at the university of helsinki; and 
+ greg bryan , an astronomy professor at columbia and the flatiron institute. written by kim martineau, columbia university 
+ additional images 
+ related links 
+ john wise faculty page 
+ contact 
+ jason maderer 
+ national media relations 
+ 404-660-2926 
+ maderer@yahoo.com 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

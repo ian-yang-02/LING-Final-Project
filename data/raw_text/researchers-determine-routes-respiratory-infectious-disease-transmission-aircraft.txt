@@ -1,0 +1,41 @@
+Researchers Determine Routes of Respiratory Infectious Disease Transmission on Aircraft
+Researchers have studied how passengers move about on aircraft to evaluate potential transmission of respiratory infections.
+This chart shows the number of passenger contacts by row, for aisle, middle, and window seats for a flight studied by the researchers.
+Mar 19, 2018
+— Atlanta, GA
+A recent study conducted by researchers from Emory University and the Georgia Institute of Technology found that an infectious passenger with influenza or other droplet-transmitted respiratory infection will most likely not transmit infection to passengers seated farther away than two seats laterally and one row in front or back on an aircraft. The study was designed to assess rates and routes of possible infectious disease transmission during flights.
+Co-researchers Vicki Hertzberg, Ph.D., professor at Emory University's Nell Hodgson Woodruff School of Nursing and Howard Weiss, Ph.D., professor in the School of Mathematics at the Georgia Institute of Technology, led tracking efforts in their FlyHealthy(TM) study, developing a model that combines estimated infectivity and patterns of contact among aircraft passengers and crew members to determine likelihood of infection.
+FlyHealthyTM team members were assigned to monitor specific areas of the passenger cabin, and made five round trips from the East to West Coast recording movements of passengers and crew. In addition, they collected air samples and obtained surface samples from areas most likely to harbor microbes. They leveraged the movement data to create thousands of simulated flight scenarios and possibilities for direct exposure to droplet-transmitted respiratory diseases.
+“Respiratory diseases are often spread within populations through close contact,” explained Hertzberg. “We wanted to determine the number and duration of social contacts between passengers and crew, but we could not use our regular tracking technology on an aircraft. With our trained observers, we were able to observe where and when contacts occurred on flights. This allows us to model how direct transmission might occur.”
+“We now know a lot about how passengers move around on flights. For instance, around 40 percent of passengers never leave their seats, another 40 percent get up once during the flight, and 20 percent get up two or more times. Proximity to the aisle was also associated with movement. About 80 percent of passengers in aisle seats got up during flights, in comparison to 60 percent of passengers in middle seats and 40 percent in window seats. Passengers who leave their seats are up for an average of five minutes.”
+Researchers also noted fomite transmission – exposure to viruses that remain on certain surfaces such as tray tables, seat belts and lavatory handles – as additional likely contributors to disease transmission. They provide public health recommendations to help prevent the spread of infectious disease.
+“We found that direct disease transmission outside of the one-meter area of an infected passenger is unlikely,” explained Weiss. Respiratory infections can also be transmitted indirectly through contact with an infected surface. This could happen if a sick passenger coughs into their hand, and later touches a lavatory surface or overhead bin handle. “Passengers and flight crews can eliminate this risk of indirect transmission by exercising hand hygiene and keeping their hands away from their nose and eyes.”
+The study, which was funded in partnership with aerospace leader Boeing, evaluated only the potential spread of infectious agents on an aircraft. Transmission could also occur at other points in a passenger’s journey, underscoring the need to maintain healthy habits, he added.
+Complete findings of the study are available in the journal
+Proceedings of the National Academy of Sciences .
+External News:  this article was featured in many national news stories, including
+The Washington Post
+The NY Times
+Mashable
+Popular Science
+AP - Associated Press
+The Smithsonian
+TODAY Online
+El Pais (Spanish)
+CITATION : Vicki Stover Hertzberg and Howard Weiss (co-first authors), Lisa Elon, Wenpei Si, Sharon L. Norris, and The FlyHealthy Research Team, “Behaviors, movements, and transmission of droplet-mediated respiratory diseases during transcontinental airline flights,” (Proceedings of the National Academy of Sciences, 2018).  http://www.pnas.org/content/early/2018/03/13/1711611115
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : Georgia Tech: John Toon (jtoon@gatech.edu) (404-894-6986) or Emory University: Melva Robertson: (melva.robertson@emory.edu) (404-416-0822) or Allison Caughey (allison.caughey@emory.edu) (404-727-1225).
+Note: This post originally appeared as a Georgia Tech News Center story by John Toon on Mar 19, 2018.
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

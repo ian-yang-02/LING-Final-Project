@@ -1,0 +1,36 @@
+cheerful chatbots don’t necessarily improve customer service 
+ gt researchers conducted experimental studies to determine if positive emotional displays improved customer service and found that emotive ai is only appreciated if the customer expects it, and it may not be the best avenue for companies to invest in. 
+ han zhang, georgia tech scheller college of business, steven a. denning professor of technology & management and faculty director, denning technology & management program 
+ dec 21, 2022 
+ — atlanta, ga 
+ imagine messaging an artificial intelligence (ai) chatbot about a missing package and getting the response that it would be “delighted” to help. once the bot creates the new order, they say they are “happy” to resolve the issue. after, you receive a survey about your interaction, but would you be likely to rate it as positive or negative? 
+ this scenario isn’t that far from reality, as ai chatbots are already taking over online commerce. by 2025, 95% of companies will have an ai chatbot, according to 
+ finance digest . 
+ ai might not be sentient yet, but it can be programmed to express emotions. 
+ humans displaying positive emotions in customer service interactions have long been known to improve customer experience, but researchers at the georgia institute of technology’s 
+ scheller college of business 
+ wanted to see if this also applied to ai. they conducted experimental studies to determine if positive emotional displays improved customer service and found that emotive ai is only appreciated if the customer expects it, and it may not be the best avenue for companies to invest in. 
+ “it is commonly believed and repeatedly shown that human employees can express positive emotion to improve customers’ service evaluations,” said 
+ han zhang , the steven a. denning professor in technology & management. “our findings suggest that the likelihood of ai’s expression of positive emotion to benefit or hurt service evaluations depends on the type of relationship that customers expect from the service agent.” 
+ the researchers presented their findings in the paper, “ bots with feelings: should ai agents express positive emotion in customer service? ,” in 
+ information systems research  in december. 
+ studying ai emotion 
+ the researchers conducted three studies to expand the understanding of emotional ai in customer service transactions. although they changed the participants and scenario in each study, ai chatbots imbued with emotion used positive emotional adjectives, such as excited, delighted, happy, or glad. they also deployed more exclamation points. 
+ the first study focused on whether customers responded more favorably to positive emotion if they knew the customer agent was a bot or person. participants were told they were seeking help for a missing item in a retail order. the 155 participants were then randomly assigned to four different scenarios: human agents with neutral emotion, human agents with positive emotion, bots with neutral emotion, and bots with positive emotion. then they asked participants about service quality and overall satisfaction. the results indicated that positive emotion was more beneficial when human agents exhibited it, but it had no effect when bots exhibited it. 
+ the second study examined if customers’ personal expectations determined their reaction to the bot. in this scenario, the 88 participants imagined returning a textbook and were randomly assigned to either emotion-positive or emotion-neutral bots. after chatting with the bot, they were asked to rate if they were communal (social) oriented or exchange (transaction) oriented on a scale. if the participant was communal-focused, they were more likely to appreciate the positive emotional bot, but if they expected the exchange as merely transactional, the emotionally positive bot made their experience worse. 
+ “our work enables businesses to understand the expectations of customers exposed to ai-provided services before they haphazardly equip ais with emotion-expressing capabilities,” zhang said. 
+ the final study explored why a bot’s positive emotion influences customer emotions, following 177 undergraduate students randomly assigned to emotive or non-emotive bots. the results explained why positive bots have less of an effect than anticipated. because customers do not expect machines to have emotions, they can react negatively to emotion in a bot. 
+ the results across the studies show that using positive emotion in chatbots is challenging because businesses don’t know a customer’s biases and expectations going into the interaction. a happy chatbot could lead to an unhappy customer. 
+ “our findings suggest that the positive effect of expressing positive emotion on service evaluations may not materialize when the source of the emotion is not a human,” zhang said. “practitioners should be cautious about the promises of equipping ai agents with emotion-expressing capabilities.” 
+ citation: han, elizabeth and yin, dezhi and zhang, han (2022) bots with feelings: should ai agents express positive emotion in customer service?. information systems research. 
+ published online in articles in advance 02 dec 2022 
+ doi: 
+ https: / / doi.org / 10.1287 / isre.2022.1179 
+ additional images 
+ contact 
+ tess malone, senior research writer / editor 
+ email 
+ tess.malone@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

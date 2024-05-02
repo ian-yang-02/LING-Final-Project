@@ -1,0 +1,44 @@
+study provides new guidance on use of first-line antihypertensive drugs 
+ a new study provides guidance for the use of drug therapies to fight hypertension. 
+ a new study based on insurance claim data and electronic health records from 4.9 million patients provides new guidance for clinicians choosing antihypertensive drugs for their patients. 
+ oct 24, 2019 
+ — atlanta, ga 
+ thiazide diuretics demonstrate better effectiveness and cause fewer side effects than ace inhibitors as first-line antihypertensive drugs, according to a report published october 24 in the journal 
+ lancet . 
+ the study factors insurance claim data and electronic health records from 4.9 million patients across nine observational databases, making it the most comprehensive one ever on first-line antihypertensives. it also provides additional context to the 2017 guidelines for high blood pressure treatment developed by the american college of cardiology (acc) and american heart association (aha). 
+ collaborators in the observational health data sciences and informatics (ohdsi) network produced the paper, “comprehensive comparative effectiveness and safety of first-line antihypertensive drug classes: a systematic, multinational, large-scale analysis,” as part of the collaborative’s ongoing large-scale evidence generation and evaluation across a network of databases (legend) project, which applies high-level analytics to perform observational research on hundreds of millions of patient records within ohdsi’s international database network. 
+ ohdsi researchers believe legend will continue to significantly enhance how real-world evidence is used to study important health care questions that affect millions of patients worldwide. the research team that published the paper includes jon duke, m.d., director of georgia tech’s center for health analytics and informatics in the georgia tech research institute and college of computing. 
+ first-line thiazide diuretic users experience 15% fewer adverse cardiovascular outcomes than ace inhibitor users 
+ the 2017 acc / aha guidelines on antihypertensives recommend initiating hypertension (high blood pressure) treatment with prescription medications from any of five drug classes, including both thiazides and ace inhibitors. within the legend project, ace inhibitors produced both worse cardiovascular outcomes and worse side effects than thiazides. 
+ new users of first-line thiazide experienced three major medical outcomes (heart attack, hospitalization for heart failure, and stroke) at an approximately 15% lower event rate than those who began treatment with an ace inhibitor. furthermore, among potential side effects associated with first-line hypertensive drugs, ace inhibitor new-users experienced a higher rate of 19 potential side effects — and a lower rate of two — than thiazide diuretic new-users. 
+ in spite of these differences, the majority of patients from this study who initiated treatment were prescribed ace inhibitors (48%) over thiazides (17%). the results, however, indicate that over 3,100 major cardiovascular events could potentially have been avoided had those approximately 2.4 million ace inhibitor new-users chosen a thiazide diuretic instead. 
+ filling the evidence gaps 
+ “the legend project attempts to fill the evidence gaps in treatment choices that randomized controlled trials (rcts) leave unanswered,” said lead author marc a. suchard, m.d., ph.d., from ucla. “we were able to compare all antihypertensive drug classes against each other at a massive scale and in a transparent and reproducible manner to study what patients worry about: heart attack, stroke, heart failure, and drug safety. legend synthesizes real-world evidence to determine how different drug classes impact the people who have to choose between them.” 
+ “we did not execute our study to prove one particular drug class was most effective,” suchard added. “instead, we used the high-level analytics and best practices developed within ohdsi to study all of these drug classes against each other and openly report on all possible comparisons. researchers can then interpret specific results in the context of their own research questions.” 
+ the paper also reported that non-dihydropyridine calcium channel blockers proved inferior to the four other first-line antihypertensive drug classes recommended in the 2017 guidelines; other classes included are angiotensin receptor blockers and dihydropyridine calcium channel blockers. 
+ a legend-ary approach to observational science 
+ “legend is a unique, sophisticated approach to using observational data in a way that is reliable, rich, and relevant,” suchard said. “with the availability of existing health data, we can start to answer important clinical questions in a reproducible manner.” 
+ the legend hypertension project used state-of-the-art causal methods to address both observed confounding and residual bias. covering patients from july 1996 to march 2018, the study filled in evidence gaps that were unavailable for the 2017 acc / aha guidelines. the rcts from those guidelines factored approximately 31,000 users of either thiazide diuretics or ace inhibitors, far fewer than the approximately 3.2 million new-users available in the legend project. 
+ “legend is a novel approach that could transform the way we use real-world evidence in health care,” said corresponding author patrick ryan, ph.d., at columbia university. “rather than inefficiently conducting bespoke analyses one question, one method, one database at a time, leaving us vulnerable to various threats to scientific validity, legend provides a systematic framework that can reproducibly generate evidence by applying advanced analytics across a network of disparate databases for a wide array of exposures and outcomes.” 
+ he added, “not only does legend offer a path to scale to the real needs of the health care community, but it also provides the complementary diagnostics to help us understand how much we can trust the evidence we've produced.” 
+ the project underscores the importance of health analytics for extracting useful information that might otherwise not be available to physicians who are making important decisions about the treatment of hypertension, duke said. 
+ “massive data sets now enable us to look at health decisions from a perspective never before possible,” he said. “physicians can look beyond the experience of hundreds or even thousands of patients and instead leverage the knowledge generated by the experience of millions. this radically changes what is possible in the quality and consistency of health care delivery.” 
+ the paper by suchard et al. was developed through tools and best practices set by the ohdsi network, a multi-stakeholder, interdisciplinary collaborative established to bring out the value of health data through large-scale analytics. ohdsi is an open-science community, which, through its central coordinating center at columbia university, has established an international network of research and observational health databases. ohdsi, which has produced scores of peer-reviewed papers since its 2014 inception, developed open-source analytics tools to generate and disseminate real-world evidence. 
+ support for the project came from the national science foundation, the national institutes of health, janssen research & development, iqvia, and the australian national health and medical research council. 
+ citation : marc a. suchard, et al., “comprehensive comparative effectiveness and safety of first-line antihypertensive drug classes: a systematic, multinational, large-scale analysis.” ( lancet , 2019) 
+ - adapted from a news release produced by the observational health data sciences and informatics (ohdsi) network. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-69086) (jtoon@gatech.edu) 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

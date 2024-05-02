@@ -1,0 +1,57 @@
+Flu Vaccine Supply Gaps Can Intensify Flu Seasons, Make Pandemics Deadlier
+A tweak to our flu vaccine resupply logistics could save thousands of lives
+An ambulance in St. Louis, Missouri, picks up a patient believed to be infected with influenza in the 1918-19 Spanish flu pandemic, which killed 50 million people or more worldwide. Credit: National Archives
+Jan 07, 2019
+— Atlanta, GA
+More than 50 million people died in the  Spanish flu  pandemic of 1918-19. Its  100th anniversary  this flu season serves as a reminder to close flu vaccine supply gaps that may be costing hundred to thousands of lives now and could cost many more when  the next “big one” strikes , researchers say.
+U.S. flu vaccine distribution logistics could use an update, according to Pinar Keskinocak. The researcher at the Georgia Institute of Technology
+co-led a recent study
+that compared the current approach with a proposed allocation method calculated to save many more lives in a pandemic or similarly intense influenza outbreak that taxes vaccine supplies.
+The study's recommendations, which apply to resupplying vaccine stocks during a running outbreak, boil down to this: To put a bigger dent in the spread of flu, replenish vaccine stocks in regions where they are being used up and don't replenish them in areas where vaccines are just sitting on shelves, because few people are getting flu shots there.
+A simple tweak
+The tweak in the supply chain could also save thousands of lives annually in regular flu seasons in the U.S., which can be plenty deadly. A flu season can take more lives than murders in the same time period.
+“Even seasonal flu
+kills tens of thousands of people
+each year, so we would benefit immediately,” said Keskinocak, who is  William W. George Chair and Professor in Georgia Tech’s H. Milton Stewart School of Industrial and Systems Engineering and Director for the Center of Health and Humanitarian Systems .
+“In a pandemic, nearly no one would have natural immunity, so the death toll could be significantly high if we don’t improve vaccine coverage.”
+What makes a pandemic a pandemic? The flu virus represents a mutation that human immune systems have not had a chance to build prior resistance to, thus the lack of natural immunity. When the next one strikes, in addition to the many lives saved, the researchers’ recommendations could massively prevent  flu infections, secondary infections like bronchitis, hospitalizations, and unnecessarily high medical costs .
+Keskinocak, co-principal investigator
+Julie Swann
+from North Carolina State University, and first author Zihao Li of Georgia Tech  published their results in the journal  Plos One   in October 2018, around the start of the 2018-19 flu season. The research was supported by the Harold R. and Mary Anne Nash Junior Faculty Endowment Fund.
+A logic breakdown
+When a pandemic hits, or a flu season that taxes the vaccine stocks, vaccine supply may become limited but then catch up over time. When that happens, the vaccine distributors commonly take what’s called the population-based approach.
+“Areas with larger populations get more vaccine, proportional to the population. It’s a straightforward approach that seems fair,” Swann said.
+As more vaccine becomes available over time, restocking follows the same principle, and that is where distribution logic breaks down. In some regions, few people get vaccinated, but under population-based allocation, resupply stocks go there anyway and may go to waste. Meanwhile, restocking may fall short of demand elsewhere, where people are lining up for inoculations.
+A mathematical fix
+As a result, in a pandemic, people eager for a vaccination might not get one despite adequate vaccine production, and the resulting additional unvaccinated people are more likely to get the flu and also spread it to others. That intensifies the outbreak for the entire population.
+The wasted vaccine stocks also drain medical finances, and the new model would releave some of that strain even in regular flu seasons.
+“Production, storage, and delivery of vaccine are costly, and unused inventory can’t just be thrown away. It costs money to dispose of,” Keskinocak said.
+Restocking doses where they are actually being used would benefit the entire population by boosting the total number of vaccinated individuals, who would then be less likely to get sick and to infect other people. That would tamp down the flu wave for everybody.
+A data dearth
+Leftover inventory could be slashed to about 20 percent of current levels, saving considerable costs, and the data about which areas were not resupplied could be used to identify areas where more people need encouragement to get vaccinated.
+“The data would tell you where you need continued education about the importance of vaccination, and some of the money saved from unnecessary resupplying could be invested in public health campaigns,” said Swann, who collaborated with the Centers for Disease Control and Prevention during the
+2009-10 H1N1 Swine flu pandemic.
+But the needed data is missing at present in the U.S. vaccine distribution system.
+“Surprisingly few states have systems in place that tell them how much vaccine has been administered where and how much is still left in inventory at provider locations,” Swann said.
+The next “big one”
+The next “big one” flu pandemic will sneak up on humanity someday.
+Ultimately, the best way to cut its death toll by more than half and save possibly hundreds of thousands of lives will be for virtually everyone to get vaccinated against influenza annually. Currently,  fewer than 50 percent  of Americans do.
+The 1918-19 outbreak, which may have consisted of multiple concurrent influenzas, killed 678,000 people in the U.S. Other “ big ones :” The 1957 “Asian flu” killed 116,000 in the U.S.; the 1968 “Hong Kong flu” killed 100,000. The 2009 bird flu pandemic, which was a less contagious virus, killed 12,500 people in the U.S. and hospitalized some 275,000.
+Also Read: Want to beat antibiotic-resistant superbugs? Rethink that strep throat remedy.
+FDA Taps Georgia Tech to Help Reduce Cost of Making Antibiotics
+Thinking about grad school?  Here's how to apply to Georgia Tech.
+The study was supported by the Harold R. and Mary Anne Nash Junior Faculty Endowment Fund, and by the following Georgia Tech benefactors: William W. George, Andrea Laliberte, Joseph C. Mello, Richard “Rick” E. and Charlene Zalesky. Any findings, conclusions, or recommendations are those of the author(s) and not necessarily of the funders.
+Media relations assistance : Ben Brumfield
+(404) 660-1408
+ben.brumfield@comm.gatech.edu
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Writer:  Ben Brumfield
+Additional Images
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

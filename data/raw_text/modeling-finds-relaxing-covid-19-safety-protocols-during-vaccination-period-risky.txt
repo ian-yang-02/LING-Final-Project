@@ -1,0 +1,44 @@
+Modeling Finds Relaxing Covid-19 Safety Protocols During Vaccination Period Risky
+A new mathematical simulation has concluded that the continued practice of mask wearing and social distancing during ongoing vaccinations could help stem a potential surge in Covid-19 cases, particularly as more infectious variants emerge.
+(L to R) Pinar Keskinocak and Julie Swann during a Georgia Tech Health and Humanitarian Supply Chain Management Professional Education Certificate program in 2017. The two co-founders of Georgia Tech’s Center for Health and Humanitarian Systems  have collaborated on infectious disease modeling for over a decade. (Photo Credit: Georgia Tech)
+Jun 25, 2021
+— Atlanta, GA
+A new mathematical simulation has concluded that the continued practice of mask wearing and social distancing during ongoing vaccinations could help stem a potential surge in Covid-19 cases, particularly as more infectious variants emerge.
+The study was conducted collaboratively by researchers at the Georgia Institute of Technology, the University of North Carolina (UNC), and North Carolina State University (NCSU) and the findings published in the research journal JAMA Network Open. The study methods were based on a mathematical simulation originally developed at Georgia Tech.
+The study evaluated how many Covid-19 cases could be avoided in the Tar Heel State if more people get vaccinated and continue to follow mask and physical distancing guidelines. As of June 3, North Carolina has had 1 million reported cases of Covid-19 and more than 13,000 recorded deaths.
+“The main takeaway from the paper is that while the increasing vaccine coverage in the U.S. has a positive impact, we are not really there yet. We still need to follow preventive measures such as mask wearing,” said contributing author
+Pinar Keskinocak , the William W. George Chair and Professor in the H. Milton Stewart School of Industrial and Systems Engineering at Georgia Tech and co-founder and director of the
+Center for Health and Humanitarian Systems .
+The caution is well founded when the researchers account for viral mutations, including the variant currently dominant in the United States that was initially identified in the UK and was associated with the surge in Michigan. There, as recently as May 2, the state averaged nearly 3,500 cases a day, according to a June 2 story in
+Bridge Michigan .
+According to one scenario from the simulation, which was populated with data from the state of North Carolina, if 75% of the population gets fully vaccinated but continues to wear masks and socially distance,  there is a sustained decline down to very few new Covid-19 cases over a six-month period.  But, if only 25% of the population gets fully vaccinated and does not adhere to these non-pharmaceutical interventions (NPIs), there could be a steady increase in daily Covid-19 cases, peaking around 8,000 before there is another decline.
+Keskinocak points to the
+Georgia Covid-19 Vaccination Dashboard
+that tracks county-level differences in vaccination rates based on race as further evidence of the need for caution.
+“Our dashboard shows that there has been high variability in the level of vaccination in different geographic regions and communities,” she said. “So even if we say over half of U.S. adults are vaccinated, it’s not uniform across the entire country. This further raises concerns about quickly lifting the NPIs.”
+Julie Swann, department head, North Carolina State University’s Fitts Department of Industrial and Systems Engineering, and long-time research collaborator with Keskinocak, concurs. “Current variants are more infectious, and there are still locations with less than 30% of the population vaccinated.”
+Swann adds that ongoing spread “endangers people now. It also increases the chance of a future mutation that could increase the risk even to people who are vaccinated.”
+Swann and Keskinocak are two of three researchers who co-founded Georgia Tech’s Center for Health and Humanitarian Systems in 2007, the year they developed a comprehensive, agent-based simulation model for pandemic flu, which has since been at the core of their modeling efforts for Covid-19. Over the years the two industrial engineers have collaborated closely to advance the model and make results available to decision makers as new pandemics emerged.
+“Julie and I have been working on infectious disease modeling for over a decade now. We had developed this agent-based model for pandemic flu and then when Covid-19 hit, Georgia Tech adapted that model to Covid-19 and shared it with Julie’s team at NC State who then modified the model to test additional scenarios and calibrated it with North Carolina data,” Keskinocak said.
+“I am grateful that Pinar and I had spent such a long time trying to understand pandemics and improving the science behind them,” Swann added. “If we had not invested that time, we would not be able to have such a fast turnaround and the high participation level that we have this year.”
+According to Keskinocak, the simulation model is extremely detailed – in essence, it recreated demographics of the population down to the state’s household size, and even individuals’ workflow, to give a clear picture of how people move from one geographic area to another.
+“The model is flexible and can change based on the research question being asked, including the current research question, ‘What is the impact of lifting NPIs in increasing vaccine coverage?’”
+Swann credited the close partnership with public health partners in Georgia and North Carolina, as well as their work under a grant funded by the Centers for Disease Control and Prevention and the Council for State and Territorial Epidemiologists, with the speed of developing models to test interventions during the pandemic.
+“It’s really key because sometimes we get additional ideas or research questions from the stakeholders with whom we interact,” Swann said.
+Both researchers emphasized the critical role students played in advancing these models under tight deadlines while juggling coursework. Between them they estimate more than two dozen graduate students across the partnering institutions have been engaged in the Covid-19 modeling work since the pandemic began. The two also were integral in establishing a professional education HHSCM certificate program.
+# # #
+The Georgia Institute of Technology, or Georgia Tech, is a top 10 public research university developing leaders who advance technology and improve the human condition.
+The Institute offers business, computing, design, engineering, liberal arts, and sciences degrees. Its nearly 40,000 students, representing 50 states and 149 countries, study at the main campus in Atlanta, at campuses in France and China, and through distance and online learning.
+As a leading technological university, Georgia Tech is an engine of economic development for Georgia, the Southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society.
+Writer:
+Anne Wainscott-Sargent
+Additional Images
+Contact
+Tracey Reeves
+Research News
+(404) 660-2929
+Email
+tracey.reeves@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

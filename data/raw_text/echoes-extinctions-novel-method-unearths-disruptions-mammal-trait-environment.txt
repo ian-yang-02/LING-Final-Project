@@ -1,0 +1,45 @@
+Echoes of Extinctions: Novel Method Unearths Disruptions in Mammal Trait-Environment Relationships
+Their novel approach showed how mammal traits evolved with changing environments over time and revealed factors that contributed to biodiversity loss.
+Sep 06, 2023
+Large-bodied mammals play crucial roles in ecosystems. They create habitats, serve as prey, help plants thrive, and even influence how wildfires burn. But now, fewer than half of the large mammal species that were alive 50,000 years ago exist today, and those that remain are threatened with extinction from intensifying climate change and human activities.
+While mammal extinctions are well-documented, very little research has explored the impact those losses had on the nuanced ways in which mammal communities interact with their environments. Researchers at the Georgia Institute of Technology are using a novel methodology to investigate how mammals’ ability to function in their environments has been threatened in the past, and what challenges they can expect to face in the future.
+Jenny McGuire , associate professor in the School of Biological Sciences and leader of the
+Spatial Ecology and Paleontology Lab , and Daniel Lauer, a graduate student, looked millions of years into the past, observing how and why eastern African herbivores’ relationships with their environments changed across space and time in the face of biodiversity loss. They used a novel approach to build models that show how specific mammal traits — like body mass and tooth shape — evolved with their changing environments over time, revealing the factors that caused the biodiversity losses and how the losses affected the functioning of mammal communities. Their method offers a new strategy for investigating the implications of changing ecologies and prioritizing conservation efforts toward helping mammal communities flourish in the future.
+Their
+research paper
+was published in the journal
+Nature Communications .
+Combing the Data
+The researchers began by diving into a collection of data from 186 sites across eastern Africa. The data contained records of over 200 extinct and 48 modern herbivore species (including the African elephant, giraffe, and hippopotamus), showing where and when each species lived at a given point in time over the past 7.4 million years. The data showed that mammal biodiversity in eastern Africa began to decline around 5 million years ago. It also revealed that aspects of biodiversity decline happened at multiple points, and that extinctions coincided with environmental changes and the emergence of early humans. But McGuire and Lauer wanted to know more.
+“We wondered what we would find if we investigated how the mammals’ physical traits changed as their environments changed over time, rather than just looking at patterns in their biodiversity,” Lauer said. “This is important because if a mammal species possesses traits that are well-suited to its environment, it’s better able to contribute to the functioning of that environment. But if that is not the case, environments may not function as well as they could.”
+To paint a fuller picture, they needed to examine biodiversity from a different perspective. This required a fresh approach, which led them to adapting a methodology known as ecometrics.
+Ecometrics is an approach that looks at the relationships between the environmental conditions where animal communities are found — such as weather and vegetation — and the animal’s functional traits, which are traits that affect its biological performance. The team chose to focus on three traits: body mass, tooth height, and loph count (the number of ridges on molars).
+Each of these traits exhibits a relationship based on the degree to which an environment is dominated by grasses versus woody plants. For example, if a species has a taller tooth, it can more durably consume the abrasive grassy vegetation of grasslands. With a shorter tooth, a species is instead suited to consume softer, woody vegetation, like shrubs.
+For each of the three traits, they built a model of trait-environment relationships. They used trait data to estimate what the surrounding vegetation was like in each mammal community over time, specifically the percentage of trees and shrubs versus grassland.
+“Using our models, we were able to use information about the traits occurring within mammal communities to estimate how the surrounding vegetation looked,” Lauer said. “Because these communities existed at different points in time, this enabled us to observe how consistent the mammals’ relationships with their environments remained through time.”
+Analyzing Disruptions
+Using their ecometric framework, the researchers uncovered a key difference between the mammal biodiversity declines that occurred before approximately 1.7 million years ago and those that occurred after. While biodiversity began declining around 5 million years ago, trait-environment relationships remained consistent despite that loss.
+Their analysis demonstrated that earlier biodiversity losses were a result of species adapting to grassland environments or tracking their preferred environments across geographies. In short, those biodiversity losses didn't necessarily have any sort of negative impact on the ability of mammal communities to function properly in their environments.
+But later, around 1.7 million years ago, when climates became more arid and variable and tree cover declined to below 35%, a major shift occurred. Rapid losses in the number and variety of species occurred, along with a significant disruption in trait-environment relationships. The researchers’ findings suggest that, unlike prior biodiversity losses, those occurring over the past 1.7 million years likely threatened the ability for many mammal species to function well in local environmental conditions.
+“Our findings fascinated us, because we were able to differentiate between the different biodiversity losses that were happening and their implications,” Lauer said. “This work reinforces the idea that not all biodiversity losses are the same.”
+Protecting the Vulnerable
+Their findings have important implications for the types of environmental and climatic changes that could affect mammals going forward. In the past, when changes were gradual and wildlife were able to move freely on the landscape, they could readily adapt to these environmental conditions.
+Now, fragmentation of wildlife habitats by fences, roadways, and cities has the potential to limit the ability of wildlife to adapt to the rapid environmental changes occurring today. That is exacerbated by both the fast pace and increasing variability of today’s climate, which puts animals at risk of losing their ability to function properly in their local environments.
+Moving forward, the team’s analysis can shed light on which mammal communities should be prioritized for future conservation efforts. The study demonstrates that among all the communities that are experiencing biodiversity losses, priority should be given to those most at-risk — the communities for whom future biodiversity losses will profoundly affect their ability to function properly.
+“By examining the past, we can get a remarkably clear understanding of how animals have responded to prior environmental changes,” McGuire said. “We plan to work with conservation practitioners to use our findings to develop well-informed strategies for conserving the most at-risk mammal communities.”
+***
+Co-authors include A. Michelle Lawing (Texas A&M University), Rachel A. Short (South Dakota State University), Fredrick K. Manthi (National Museums of Kenya), Johannes Müller (Leibniz Institute for Evolution and Biodiversity Science), and Jason J. Head (University of Cambridge).
+Citation : Lauer, D.A., Lawing, A.M., Short, R.A.  et al.   Disruption of trait-environment relationships in African megafauna occurred in the middle Pleistocene .  Nat Commun   14 , 4016 (2023).
+DOI :
+https://doi.org/10.1038/s41467-023-39480-8
+Funding : This work was completed as part of a collaborative initiative from NSFDEB-NERC, with funding from NSF 2124836 to A.M.L., F.K.M., and J.M.; NSF 2124770 to J.L.M.; and NERC NE/W007576/1 to J.J.H. R.A.S. was supported by the NSF Postdoctoral Research Fellowships in Biology Program under grant DBI 2010680 and the USDA NIFA Hatch project SD00H787-23 (7004129 and 7004187). J.L.M. was also funded through NSF-CAREER and NSF 1945013.
+Additional Media
+Contact
+Catherine Barzler, Senior Research Writer/Editor
+Institute Communications
+catherine.barzler@gatech.edu
+Email
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

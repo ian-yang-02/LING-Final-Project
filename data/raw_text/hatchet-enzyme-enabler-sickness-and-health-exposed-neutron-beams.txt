@@ -1,0 +1,53 @@
+Hatchet Enzyme, Enabler of Sickness and of Health, Exposed by Neutron Beams
+A pioneering glimpse inside elusive cell membranes exposes a major player in cell health but also in hepatitis C and in Alzheimer's.
+The High Flux Isotope Reactor at Oak Ridge National Laboratory is the highest flux reactor-based source of neutrons for research in the United States. Credit: Genevieve Martin/ORNL
+Feb 06, 2018
+— Atlanta, GA
+Tucked away inside cell membranes, a molecular butcher does the bidding of healthy cells but also of disease agents. It has been operating out of clear view, but researchers just shined a mighty spotlight on it.
+The butcher is a common enzyme called presenilin, which chops lengthy protein building blocks down to useable shorter lengths. It resides in membrane spaces that evade ready experimental detection, but  in a new study, researchers  at the Georgia Institute of Technology and Oak Ridge National Laboratory (ORNL) have illuminated  presenilin  using a neutron beam produced by the world's most powerful research nuclear reactor.
+Presenilin is one of many mysterious protein structures residing in our cell membranes, where they are essential to life.
+“One-third of our genome goes to work to encode intramembrane proteins,” said  Raquel Lieberman, an associate professor  in Georgia Tech’s School of Chemistry and Biochemistry. “Some of them are huge and do super complex biochemistry.”
+Presenilin is an enzyme, more particularly an  intramembrane protease . There are four classes of these, and they are needed, among other things, for: Alerting to and defending against infectors, and cell differentiation and development.
+If the latter two go wrong, that can lead to cancer.
+Grainy neutron mugshot
+Now, the researchers have gotten their first figurative mugshot of an intramembrane protein, the presenilin. Technically speaking, the researchers worked with a presenilin cousin found in microbes --  M. marisnigri  intramembrane aspartyl protease or MmIAP -- but here we will use presenilin and MmIAP interchangeably for simplicity’s sake.
+The measurement was low-resolution but revealed enough to establish that the protein structure is more simply put together than previously believed, and that surprised the scientists.
+“Our sample shows that this is  a monomer all by itself,” Lieberman said. “We were expecting a dimer or a trimer .” That means it was made up of one long strand, mostly coiled up like a spring, instead of doubled-up or tripled-up curly strands.
+Presenilin (MmIAP) is armed with two chemical knives,  aspartates , that reliably make cuts on peptides, subunits that make up proteins.  And a second new study  by the same researchers illuminated how the cleaving works.
+Anybody’s peptide butcher
+Presenilin can trim peptides into building blocks helpful to its own cells, or whittle bad peptide chunks that end up in amyloid-beta plaque, a suspect in  Alzheimer’s disease . Or presenilin can aid and abate  hepatitis C  viruses by carving components it needs to reproduce.
+Understanding how presenilin works could one day prove useful to medical research. “If you could find a way to interfere with it selectively, you could stop the spread of hepatitis C in the body,” Lieberman said.
+The researchers, led by Lieberman and neutron scattering scientist  Volker Urban from ORNL , published the revelations of the neutron scattering  on February 6, 2018, in  Biophysical Journal . The new insights into presenilin functioning are to officially publish in March  in the  Journal of Biological Chemistry  but the study is currently available online without embargo . First authors were Swe-Htet Naing of Georgia Tech and Ryan Oliver of Oak Ridge.
+Research was funded by the National Science Foundation, the National Institutes of Health, and the U.S. Department of Energy.
+Herding hydrophobic hiders
+By going to the High Flux Isotope Reactor (HFIR), the scientists were reaching for the big gun to make presenilin (MmIAP) come out of hiding.
+HFIR’s neutron beams were cooled to minus 253 degrees Celsius (minus 424 degrees Fahrenheit) to slow the neutrons down, so they could probe molecular features of the biological samples.
+Presenilin and other intramembrane proteins warrant such proverbial desperate measures. They live in a lipid environment and hate water about the way cats do, and that’s a problem for researchers studying them.
+“When you have proteins that are not soluble in water, you’re in trouble,” Lieberman said. “The usual techniques to analyze them become very, very difficult, if not impossible. And when you chemically bootstrap these proteins to be able use these water-soluble methods, you have really poor chances of seeing the protein’s actual structure that performs its function.”
+Form follows function
+Images derived from water-based analytical methods in Lieberman’s lab have not completely jibed with presenilin’s function. For one, the enzyme’s cutting surfaces have been too far apart. The neutron beam’s revelations indicated a form that seemed more logical.
+“Our shape was tighter, and made more sense with presenilin’s function in its natural setting in the membrane,” Lieberman said.
+The presenilin (MmIAP) samples examined at the HFIR were suspended in a solution friendly to the  hydrophobic protein . Ironically, presenilin and other intramembrane proteases often  hydrolyze  peptides, in other words, they add water to them.
+“These proteases are confined to the lipid cell membrane where there is no water. Since water is required for hydrolysis, it has to come from outside the membrane,” Lieberman said. “How that happens is yet another mystery that needs uncovering.”
+Robust, reliable cleavers
+The precision and consistency, with which the presenilin  homologue  MmIAP cleaved peptides, impressed the researchers.
+“When we used a model synthetic peptide, it cleaved only at very specific positions on the peptide,” Lieberman said. “When we switched to a real biological peptide, it also cleaved very exactly.”
+The researchers put the presenilin through various mutations, which had little to no effect on its cleaving abilities. That could mean that its baseline functioning is nearly immune to genetic interference.
+On a chilling note, when the researchers observed the microbial presenilin cousin, MmIAP, cutting amyloid-beta precursor peptides, it always made the chop in a way notorious for amyloid’s association with  Alzheimer’s disease .
+“We never saw the cut that made what is typically viewed as the ‘good’ amyloid, A-beta-40,” Lieberman said. “We only saw cuts that led to the ‘bad’ amyloid, A-beta-42.”
+More research would be needed to explain why that happened; if the same is true for presenilin in human cell membranes, and also if some regulator prevents the creation or accumulation of so much bad amyloid in healthy cells.
+Like this article?  Get our email newsletter here.
+Also READ:
+Alzheimer's: Killing the Mind First
+Kevin Weiss from Oak Ridge National Laboratory coauthored the study in Biophysical Journal. Sibel Kalyoncu, David Smalley, Hyojung Kim, Xingjian Tao, Josh George, Alex Jonke, Ryan Oliver, and Matthew Torres coauthored the study in the Journal of Biological Chemistry. Research was funded by the National Science Foundation’s Division of Molecular and Cellular Biosciences (grant 0845445), and the National Institutes of Health (grant R01GM112662 and R01GM118744). Neutron scattering research conducted at the Bio-SANS instrument, a DOE Office of Science, Office of Biological and Environmental Research resource, used resources at the High Flux Isotope Reactor, a DOE Office of Science, Scientific User Facility operated by the Oak Ridge National Laboratory.   Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors.
+Additional Images
+Contact
+Writer & Media Representative : Ben Brumfield (404-660-1408)
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

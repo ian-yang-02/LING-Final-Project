@@ -1,0 +1,38 @@
+Artificial Intelligence Improves Outcomes of Heart Valve Patients
+DASI Simulations, uses AI and computer vision in its technology for personalized and more accurate heart valve replacement modeling.
+Professor Lakshmi "Prasad" Dasi
+Feb 13, 2023
+— Atlanta, GA
+The 68-year-old man was admitted to the Texas hospital with severe complications stemming from a previously implanted heart valve. Sales reps from two different heart valve manufactures told his surgical team they couldn’t help.
+The surgeons reached out to a startup — co-founded by a Georgia Tech researcher — to see if its technology could help them save his life.
+The company,  DASI Simulations , uses artificial intelligence (AI) and computer vision in its technology for personalized and more accurate heart valve replacement modeling. The result, the company says, a reduction in errors and better patient outcomes as in the case of the Texas patient.
+The company’s modeling gave the Texas medical team four safe device options, as well as ways to solve the original problem and the patient was discharged 24 hours later.
+“The physicians sent this case to our headquarters. And basically, we were able to send them these 3D images, where the physicians can exactly see what will happen. Not only that, but they were also able to go in boldly and dilate the previous valve and perform the procedure of implanting a second trans-catheter heart valve within the first,” said  Lakshmi Prasad Dasi , co-founder, chief technology officer, and renowned scholar in heart valve engineering and cardiovascular biomechanics.
+Doctors saved the man’s life, but in 2023, cardiovascular disease — the world’s leading cause of death — will claim the lives of more than 22,000 Georgians, some 700,000 people across the U.S., and 19 million around the globe. Even more daunting, that global death toll is expected to surpass 23 million by 2030.
+The company is looking to improve those outcomes by utilizing AI to focus on the leading cause of cardiovascular afflictions: valvular heart disease, which occurs when any of the heart’s four valves are damaged, compromising the blood flow.
+“When the surgeons run these patients through our system, the physician team can clear many of the complications that they’re worried about. And they’ll be able to go in and treat with a personalized plan,” said Dasi, who is associate chair for undergraduate studies and Rozelle Vanda Wesley Professor in the  Wallace H. Coulter Department of Biomedical Engineering  at Emory University and Georgia Tech.
+Launched in 2019, the company, which is currently in a bridge round and anticipates a Series A capital raise in the fall of 2023, has already secured investment funding of about $4 million, including a non-dilutive $600,000 grant. DASI Simulations has 40 client hospitals in the U.S. and is working with Georgia Tech’s  VentureLab , which works with faculty and students on their research commercialization, to secure capital investments.
+The hospitals leveraging Dasi Simulations’ technology are using it exclusively on a group of high-risk patients. Surgeons don’t want to operate on these patients due to the complexities that come with an advanced state of disease. Without surgical intervention, these patients will die within six months to two years. Dasi Simulations technology can help surgeons navigate these high-risk surgeries with advanced AI based simulations.
+“The problem is that currently, when doctors are planning the treatment of patients, such as valve replacement, their process is extremely limited in its flexibility and adaptability to specific patient anatomical features.”
+All patients undergo CT scans of their hearts followed by time consuming measurements, said Dasi, who is also a faculty member of Georgia Tech’s  Parker H. Petit Institute for Bioengineering and Bioscience . The physician imager today uses a computer mouse and takes measurements of a patient’s heart from those 2D scans to determine what size replacement valve would be needed.
+It's a time-consuming and inexact process made even more complicated now because heart valve sales representatives — not the surgeons — do the bulk of those scan measurements at the majority of the 800 hospitals in the U.S. that perform structural heart procedures, Dasi said.
+“So, sales reps are doing the measurements, as part of their sales service to the hospitals,” he said. “Overall, there's increased human error of between 15% to 20% variability, and a lot of time is lost when multiple people make discordant measurements.”
+Because of that scenario, the resulting decisions made about what to do with any given patient’s case can be compromised.
+“The decisions that the heart team makes are compromised not only because measurements may be inaccurate but also because they're unable to predict risks that the patient may have with a particular device selection. Consequently, there is hardly any personalization of the procedure to the patient,” Dasi said. “Oftentimes, when these surgeons perform a surgical procedure, five years down the line, they realize that ‘we shouldn't have done the surgery the way we did.’ Now, you're stuck in this difficult scenario because a different device choice back then could have made today’s surgery less risky.”
+It’s a scenario that translates into complications that occur at high rates and increased costs to hospitals that aren’t reimbursable if they occur within 30 days of the patient’s discharge.
+Reducing risk through bias elimination
+DASI Simulations technology, which is based on research conducted at Georgia Tech, Ohio State University, Emory University, and Piedmont Hospital, uses AI to create 3D models for accurate measurements based on the CT scans. It’s a process that takes a computer seconds, compared with the 30 minutes it might take a doctor or sales rep.
+The company says because the 3D modeling and AI measurements are accurate, it removes the possibility of manual errors. Also, because sales reps are not performing the modeling as is current practice to drive sales, there is no potential for bias toward using any one heart valve replacement device.
+The company’s technology also includes 3D predictive modeling, which gives medical teams a better understanding of potential outcomes and the likelihood of complications. Under the current approach, doctors make the decisions about what kind of stents or valves based on the 2D scans, but they can’t necessarily predict the complications that may arise.
+With DASI Simulations’ predictive technology, surgical teams don’t have to guess what the likely complications might be with a given valve and can make better decisions for the patient, Dasi said.
+“The real benefit here is that now they have science in their hands, and they can make data driven scientific decisions as opposed to clinical intuition-based guesswork.”
+Additional Images
+Contact
+Péralte C. Paul
+404.316.1210
+peralte.paul@comm.gatech.edu
+Email
+peralte.paul@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

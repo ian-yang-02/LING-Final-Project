@@ -1,0 +1,34 @@
+rubber material holds key to long-lasting, safer ev batteries 
+ georgia tech engineers have solved common problems (slow lithium-ion transport and poor mechanical properties) using rubber electrolytes. 
+ prof. seung woo lee (left) and michael j. lee (right) have demonstrated a more cost-effective, safer solid polymer electrolyte (rubber material) for all-solid-state batteries. (photo credit: georgia tech) 
+ jan 12, 2022 
+ — atlanta, ga 
+ for electric vehicles (evs) to become mainstream, they need cost-effective, safer, longer-lasting batteries that won’t explode during use or harm the environment. researchers at the georgia institute of technology may have found a promising alternative to conventional lithium-ion batteries made from a common material: rubber. 
+ elastomers, or synthetic rubbers, are widely used in consumer products and advanced technologies such as wearable electronics and soft robotics because of their superior mechanical properties. the researchers found that the material, when formulated into a 3d structure, acted as a superhighway for fast lithium-ion transport with superior mechanical toughness, resulting in longer charging batteries that can go farther.  the research, conducted in collaboration with the korea advanced institute of science and technology, was published wednesday in the journal 
+ nature. 
+ in conventional lithium-ion batteries, ions are moved by a liquid electrolyte. however, the battery is inherently unstable: even the slightest damage can leak into the electrolyte, leading to explosion or fire. the safety issues have forced the industry to look at solid-state batteries, which can be made using inorganic ceramic material or organic polymers. 
+ “most of the industry is focusing on building inorganic solid-state electrolytes. but they are hard to make, expensive and are not environmentally friendly,” said seung woo lee, associate professor in the 
+ george w. woodruff school of mechanical engineering , who is part of a team of researchers who have uncovered a rubber-based organic polymer superior to other materials. solid polymer electrolytes continue to attract great interest because of their low manufacturing cost, non-toxicity and soft nature.  however, conventional polymer electrolytes do not have sufficient ionic conductivity and mechanical stability for reliable operation of solid-state batteries. 
+ novel 3d design leads to jump in energy density, performance 
+ georgia tech engineers have solved common problems (slow lithium-ion transport and poor mechanical properties) using the rubber electrolytes. the key breakthrough was allowing the material to form a three-dimensional (3d) interconnected plastic crystal phase within the robust rubber matrix. this unique structure has resulted in high ionic conductivity, superior mechanical properties and electrochemical stability. 
+ this rubber electrolyte can be made using a simple polymerization process at low temperature conditions, generating robust and smooth interfaces on the surface of electrodes. these unique characteristics of the rubber electrolytes prevent lithium dendrite growth and allow for faster moving ions, enabling reliable operation of solid-state batteries even at room temperature. 
+ “rubber has been used everywhere because of its high mechanical properties, and it will allow us to make cheap, more reliable and safer batteries,” said lee. 
+ “higher ionic conductivity means you can move more ions at the same time,” said michael lee, a mechanical engineering graduate researcher. “by increasing specific energy and energy density of these batteries, you can increase the mileage of the ev.” 
+ the researchers are now looking at ways to improve the battery performance by increasing its cycle time and decreasing the charging time through even better ionic conductivity. so far, their efforts have seen a two-time improvement in the battery's performance / cycle time. 
+ the work could enhance georgia’s reputation as a center for ev innovation.  sk innovation, a global energy and petrochemical company, is funding additional research of the electrolyte material as part of its ongoing collaboration with the institute to build next-generation solid-state batteries that are safer and more energy dense than conventional li-ion batteries. sk innovation 
+ recently announced construction of a new ev battery plant 
+ in commerce, georgia, expected to produce an annual volume of lithium-ion batteries equal to 21.5 gigawatt-hours by 2023. 
+ “all-solid-state batteries can dramatically increase the mileage and safety of electric vehicles. fast-growing battery companies, including sk innovation, believe that commercializing all-solid-state batteries will become a game changer in the electric vehicle market,” said kyounghwan choi, director of sk innovation’s next-generation battery research center. “through the ongoing project in collaboration with sk innovation and professor seung woo lee of georgia tech, there are high expectations for rapid application and commercialization of all-solid-state batteries." 
+ citation: 
+ m. lee, et. al, "elastomeric electrolytes for high-energy solid-state lithium batteries," ( nature , 2022) 
+ https: / / doi.org / 10.1038 / s41586-021-04209-4 
+ *** 
+ the georgia institute of technology, or georgia tech, is a top 10 public research university developing leaders who advance technology and improve the human condition. the institute offers business, computing, design, engineering, liberal arts, and sciences degrees. its nearly 44,000 students representing 50 states and 149 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ additional images 
+ contact 
+ anne wainscott-sargent (404-435-5784) 
+ email 
+ asargent@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

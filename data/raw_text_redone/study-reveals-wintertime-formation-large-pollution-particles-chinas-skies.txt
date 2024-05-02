@@ -1,0 +1,67 @@
+study reveals wintertime formation of large pollution particles in china’s skies 
+ school of earth and atmospheric sciences researchers find dangerous sulfates are formed, and their particles get bigger, within the plumes of pollution belching from coal-fired power plants. 
+ nov 16, 2023 
+ previous 
+ studies 
+ have found that the particles that float in the haze over the skies of beijing include sulfate, a major source of outdoor air pollution that damages lungs and aggravates existing asthmatic symptoms, 
+ according 
+ to the 
+ california air resources board . 
+ sulfates usually are produced by atmospheric oxidation in the summer, when ample sunlight facilitates the oxidation that turns sulfur dioxide into dangerous aerosol particles. how is it that china can produce such extreme pollution loaded with sulfates in the winter, when there’s not as much sunlight and atmospheric oxidation is slow? 
+ yuhang wang , professor in the 
+ school of earth and atmospheric sciences 
+ at georgia tech, and his research team have conducted a study that may have the answer: all the chemical reactions needed to turn sulfur dioxide into sulfur trioxide, and then quickly into sulfate, primarily happen within the smoke plumes causing the pollution. that process not only creates sulfates in the winter in china, but it also happens faster and results in larger sulfate particles in the atmosphere. 
+ “we call the source ‘in-source formation,’” wang says. “instead of having oxidants spread out in the atmosphere, slowly oxidizing sulfur dioxide into sulfur trioxide to produce sulfate, we have this concentrated production in the exhaust plumes that turns the sulfuric acid into large sulfate particles. and that's why we're seeing these large sulfate particles in china.” 
+ the findings of in-source formation of larger wintertime sulfate particles in china could help scientists accurately assess the impacts of aerosols on 
+ radiative forcing 
+ — how climate change and global warming impact the earth’s energy and heat balances — and on health, where larger aerosols means larger deposits into human lungs. 
+ “wintertime formation of large sulfate particles in china and implications for human health,” 
+ is published in 
+ environmental science & technology , 
+ an 
+ american chemical society 
+ publication. the co-authors include 
+ qianru zhang 
+ of peking university and 
+ mingming zheng 
+ of wuhan polytechnic university, two of wang’s former students who conducted the research while at georgia tech. 
+ explaining a historic smog 
+ china still burns a lot of coal in power plants because its costs are lower compared to natural gas, wang says. it also makes for an easy comparison between china’s hazy winters and a historic event that focused the united kingdom’s attention on dangerous environmental hazards — the great london smog. 
+ the event, depicted in the netflix show 
+ “the crown,” 
+ saw severe smog descend on london in december 1952. unusually cold weather preceded the event, which brought the coal-produced haze down to ground level. uk officials later said the great london smog (also called the great london fog) was responsible for 4,000 deaths and 100,000 illnesses, although later studies estimated a higher death toll of 10,000 to 20,000. 
+ “from the days of the london fog to extreme winter pollution in china, it has been a challenge to explain how sulfate is produced in the winter,” wang says. 
+ wang and his team decided to take on that challenge. 
+ aerosol size and heavy metal influence? 
+ the higher sulfate levels in china, notably in january 2013, defy conventional explanations that relied on standard photochemical oxidation. it was thought that nitrogen dioxide or other mild oxidants found in alkaline or neutral particles in the atmosphere were the cause. but measurements revealed the resulting sulfate particles were highly acidic. 
+ during zheng’s time at georgia tech, “she was just looking for interesting things to do,” wang says of the former student. “and i said, maybe this is what we should do — i wanted her to look at aerosol size distributions, how large the aerosols are.” 
+ zheng and wang noticed that the size of the sulfate particles from china’s winter were much larger than those that resulted from photochemically-produced aerosols. usually measuring 0.3 to 0.5 microns, the sulfate was closer to 1 micron in size. (a human hair is about 70 microns.) aerosols distributed over a wider area would normally be smaller. 
+ “ the micron-sized aerosol observations imply that sulfate particles undergo substantial growth in a sulfur trioxide-rich environment,” wang says. larger particles increase the risks to human health. 
+ “when aerosols are large, more is deposited in the front part of the respiratory system but less on the end part, such as alveoli,” he adds. “when accounting for the large size of particles, total aerosol deposition in the human respiratory system is estimated to increase by 10 to 30 percent.” 
+ something still needs to join the chemical mix, however, so the sulfur dioxide could turn into sulfur trioxide while enlarging the resulting sulfate particles. wang says a potential pathway involves the catalytic oxidation of sulfur dioxide to sulfuric acid by “transition metals.” 
+ high temperatures, acidity, and water content in the exhaust can greatly accelerate catalytic sulfur dioxide oxidation “compared to that in the ambient atmosphere. it is possible that similar heterogeneous processes occurring on the hot surface of a smokestack coated with transition metals could explain the significant portion of sulfur trioxide observed in coal-fired power plant exhaust,” wang says. 
+ “a significant amount of sulfur trioxide is produced, either during combustion or through metal-catalyzed oxidation at elevated temperatures.” 
+ an opportunity for cleaner-burning coal power plants 
+ the impact of in-source formation of sulfate suggests that taking measures to cool off and remove sulfur trioxide, sulfuric acid, and particulates from the emissions of coal-combustion facilities could be a way to cut down on pollution that can cause serious health problems. 
+ “the development and implementation of such technology will benefit nations globally, particularly those heavily reliant on coal as a primary energy source,” wang says. 
+ doi: 
+ https: / / doi.org / 10.1021 / acs.est.3c05645 
+ funding: 
+ this study was funded by the national natural science foundation of china (nos. 41821005 and 41977311). yuhang wang was supported by the national science foundation atmospheric chemistry program. qianru zhang would also like to thank the china postdoctoral science foundation (2022m720005) and china scholarship council for support. mingming zheng is also supported by the fundamental research funds for the central universities, peking university (7100604309). 
+ additional media 
+ related links 
+ georgia tech study sheds light on toxicity of atmospheric particulate matter po… 
+ sea spray, water worlds, and the search for life 
+ canadian wildfire smoke affects atlanta 
+ sciencematters - season 3, episode 5 - clearing the air about aerosol science 
+ contact 
+ writer: renay san miguel 
+ communications officer ii / science writer 
+ college of sciences 
+ 404-894-5209 
+ editor: jess hunt-ralston 
+ email 
+ renay.san@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

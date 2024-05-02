@@ -1,0 +1,53 @@
+Punching Cancer With RNA Knuckles
+Eye-popping reduction of tumors achieved with help of siRNA inside targeted delivery gel.
+Researcher Roman Mezencev holds a sample of nanohydrogel developed for targeted delivery of siRNA to cancer cells and successfully tested in vivo in mice in John McDonald's Georgia Tech lab. Credit: Georgia Tech / Micah Eavenson / Adam Karcz
+Nov 07, 2016
+— Atlanta, GA
+In the fight against cancer, doctors dish out combination-blows of surgery, chemotherapy and other drugs to beat back a merciless foe. Now, scientists have taken early steps toward adding a stinging punch to clinicians’ repertoire.
+With a novel targeted therapy researchers at the Georgia Institute of Technology have purged ovarian tumors in limited,  in vivo  tests in mice. “The dramatic effect we see is the massive reduction or complete eradication of the tumor, when the ‘nanohydrogel’ treatment is given in combination with existing chemotherapy,” said chief researcher John McDonald.
+That nanohydrogel, a type of nanoparticle, is a minute gel pellet that honed in on malignant cells with a payload of an RNA strand. The RNA entered the cell, where it knocked down a protein gone awry that is involved in many forms of cancer.
+In trials on mice, it put the brakes on ovarian cancer growth and broke down resistance to chemotherapy. That allowed a common chemotherapy drug, cisplatin, to drastically reduce or eliminate large carcinomas, with very similar speed and manner. The successful results treating four mice with the combination of siRNA and cisplatin showed little variance.
+Chink in the armor
+The therapeutic short interfering RNA (siRNA) developed by McDonald and Georgia Tech researchers Minati Satpathy and Roman Mezencev, thwarted cancer-causing overproduction of cell structures called epidermal growth factor receptors (EGFRs), which extend out of the wall of certain cell types. EGFR overproduction is associated with aggressive cancers.
+The researchers from  Georgia Tech’s School of Biological Sciences  published their results on Monday, November 7, 2016,  in the journal
+Scientific Reports . Research was funded by the National Institutes of Health’s IMAT Program, the Ovarian Cancer Institute, the Deborah Nash Endowment Fund, the Curci Foundation and the Markel Foundation.
+The new treatment has not been tested on humans, and research  would be required by science and by law  to demonstrate consistent results – efficacy – among other things, before preliminary human trials could become possible.
+The current  in vivo  success strengthens the idea that knocking out EGFR at the RNA level may be a worthy goal to explore in the fight against  carcinomas  in general. The same
+patented nanohydrogel packed with other types of therapeutic RNA is currently being tested
+for the treatment of other types cancers.
+Helper turned killer
+EGFRs are receptors found in epithelial cells, which line organs throughout the body: Lungs, mouth, throat, intestines and others. In women, it also lines reproductive organs: Ovaries, uterus and cervix.
+They are long proteins that poke through the cell membrane, connecting the cell’s interior with the outside. They look like squiggly worms with tiny mouths on the outside that take up a  messenger protein .
+In a healthy cell, those messenger molecules cause EGFRs to trigger long chains of biochemical reactions that lead to the activation of genes involved in a variety of cellular functions. In carcinoma cells, the number of EGFRs present typically skyrockets.
+“In many cancers, EGFR is overexpressed,” said McDonald, who
+heads Georgia Tech's Integrated Cancer Research Center . “The problem is that because of this overexpression, many cellular functions, including cell replication and resistance to certain chemotherapy drugs, are dramatically cranked up.”
+The cell goes haywire, metabolizes too much sugar, divides too much, and resists chemotherapy. The cancer grows into a tumor and can spread through the body.
+An overabundance of EGFRs found in a biopsy is usually a sign that cancer patient prognosis is poor. “In 70 percent of ovarian cancer patients, EGFR is overexpressed at very high levels,” McDonald said.
+Cell suicide: apoptosis
+EGFR overexpression also makes cancer cells resistant to chemotherapy by thwarting a natural defense mechanism.
+“The platinum-based chemotherapies used to treat ovarian cancers cause DNA damage, which switches on apoptosis,” McDonald said. Apoptosis is cell suicide. When cells can’t repair DNA damage, they’re programmed to kill themselves to keep the damaged cells from spreading.
+The primary chemotherapy used to treat ovarian cancer works by coaxing cancer cells to trigger the suicide program, but having too many epidermal growth factor receptors gets in the way.
+“EGFR overexpression hinders apoptosis; they won’t die. By knocking down EGFR, we make the cell hypersensitive to the drug. Apoptosis is reactivated,” McDonald said.
+Existing EGFR targeted drugs called tyrosine-kinase inhibitors disrupt an EGFR function, but their success in treating ovarian cancer has been limited. “Clinicians have tried EGFR inhibitors to treat ovarian cancers for some years, and they only get about 20% of patients responding to it,” McDonald said. “Apparently, the particular EGFR function inhibited by these drugs is not critical to ovarian cancer.”
+Guided brass knuckles
+The short interfering (si) RNA designed by the Georgia Tech researchers attacks the cancer much closer to its root.
+To make the protein for EGFR, RNA has to transfer its genetic code from DNA. The researchers’ siRNA binds to the cell’s RNA and stops it from working.
+“We’re knocking down EGFR at the RNA level,” he said. “Since EGFR is multi-functional, it’s not exactly clear which malfunctions contribute to ovarian cancer growth. By completely knocking out its production in ovarian cancer cells, all EGFR functions are blocked.”
+The nanohydrogel that delivers the siRNA to the cancer cells is a colloid ball of a common, compact organic molecule and about 98 percent water. Another molecule is added to the surface of the nanohydrogel as a guide. It makes the pellets adhere to the cancer cells like sticky cluster bombs.
+Cancerous tissue may also be aiding the nanohydrogel in targeting it. “When you get into a tumor, there are a lot of blood vessels, and many are broken,” McDonald said. “This may help the nanoparticles get passively trapped in the neighborhood of tumorous tissues.”
+In the  in vivo  trials, the siRNA, which contained a fluorescent tag, allowed researchers to observe nanoparticles successfully honing in on the cancer cells. Fortuitous victory
+“We originally selected to target the EGFR gene because its activity is easily measured, and we wanted to use it simply as an indicator that our nanoparticle siRNA delivery system was working,” McDonald said. “The fact that the EGFR knockdown so dramatically sensitized the cells to standard chemotherapy came as a bit of a surprise.”
+At first, his team observed how the tumors responded to chemotherapy alone. Then they combined it with the nanoparticle treatment.
+“When we gave the chemotherapy alone, the response was moderate, but with the addition of the nanoparticles, the tumor was either significantly reduced or completely gone,” McDonald said.
+But he tempered enthusiasm with caution. “Further work will be required to see if the treatment completely destroyed every trace of cancer cells in the tumors that disappeared, or if future recurrence is possible.”
+If the researchers’ continuing studies further prove to be consistent, the combination of the nanohydrogel with other therapeutic RNAs could represent a significant advancement in the treatment of a wide spectrum of cancers.
+Georgia Tech’s Lijuan Wang and Dr. Benedict Benigno from Atlanta’s Northside Hospital coauthored the paper. Research was funded by the National Institutes of Health’s Program for Innovative Molecular Analysis Technologies Program (grant 1R21CA155479-01), the Ovarian Cancer Institute at Northside Hospital, the Deborah Nash Endowment Fund, the Curci Foundation, and the Markel Foundation. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring agencies.
+Additional Images
+Contact
+Writer and media contact: Ben Brumfield
+(404) 660-1408
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

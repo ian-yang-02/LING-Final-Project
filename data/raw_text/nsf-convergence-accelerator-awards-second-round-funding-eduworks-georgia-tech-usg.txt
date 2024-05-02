@@ -1,0 +1,26 @@
+NSF Convergence Accelerator Awards Second Round of Funding to Eduworks, Georgia Tech, USG, Credential Engine for $5 Million Competency Catalyst Initiative
+Over two years, Competency Catalyst will receive $5 million in funding from the NSF Convergence Accelerator.
+Over two years, Competency Catalyst will receive $5 million in funding from the NSF Convergence Accelerator.
+[Image credit: National Science Foundation]
+Sep 22, 2020
+— Alexandria, Va.
+The National Science Foundation (NSF) has named Competency Catalyst, an initiative focused on innovative tools for workforce reskilling and led by partners including Eduworks Corporation (Eduworks), Georgia Tech, and the University System of Georgia (USG), as
+one of nine teams selected to receive Phase II Convergence Accelerator funding . Over two years, Competency Catalyst will receive $5 million in funding from the NSF Convergence Accelerator.
+The Phase I Convergence Accelerator cohort was announced in 2019 and included the Competency Catalyst team as one of 43 projects to receive Phase I funding. The Phase II cohort includes just nine teams of the original 43 and will provide Competency Catalyst with up to $5 million in funding for prototype development and pilot projects. During the two years of Phase II funding, the Competency Catalyst team, which includes Eduworks, Georgia Tech’s Center for 21st Century Universities (C21U), USG, and the Credential Engine, will develop prototypes of digital tools to support critical workforce reskilling in the United States.
+“The unpredictability of the job market over the past year has prompted many people to consider their current career trajectory and skills,” said
+Ashok Goel , co-PI and chief scientist for C21U. “It is critical that we leverage technology to develop better tools to sync up employers and educators so that job seekers have clear paths to reskilling. This type of tool is exactly what we hope to develop through the Competency Catalyst project.”
+Over the next two years, Competency Catalyst will create two digital resources to support reskilling – a Skillsync application and a C2 platform. The Skillsync application enables companies to succinctly express reskilling needs for their workforce. This information is then distilled to colleges and universities so that they can design accelerated educational programs with the needed skills as specific learning outcomes. The Skillsync application is built on the C2 platform, which is designed to better describe and align job requirements and opportunities for reskilling in specific knowledge, skill, and ability (KSA) terminology. Georgia Tech’s Jill Watson AI-based educational assistant, the Credential Engine’s open data infrastructure, and Eduworks’ digital competency extraction tools and open-source Competency and Skills System (CaSS) will provide the framework for these two innovative new tools.
+“The pairing of C2 and Skillsync will empower direct, real-time communication between companies and education providers through an AI-powered digital tool,” said
+Matt Lisle , director of digital learning technologies for C21U and member of the Competency Catalyst development team. “We believe that this will have an immediate and positive impact on the efficiency and effectiveness of reskilling America’s workforce.”
+This Convergence Accelerator Phase II Grant is overseen by the National Science Foundation’s Convergence Accelerator Program in the Office of Integrative Activities and is associated with the Convergence Accelerator topic area of AI and Future Jobs, and National Talent Ecosystem.
+You can read more about the National Science Foundation’s Convergence Accelerator Grant program and find the list of grant recipients in their September 2020 announcement, “ Accelerating research to impact society at scale ”.
+Additional Images
+Contact
+Brittany Aiello
+Communications Program Manager, C21U
+brittany@c21u.gatech.edu
+Email
+brittany@c21u.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

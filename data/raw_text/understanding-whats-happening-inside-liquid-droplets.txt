@@ -1,0 +1,43 @@
+Understanding What’s Happening Inside Liquid Droplets
+Georgia Tech researchers are studying how unstable toroidal droplets evolve.
+A sheet laser illuminates a toroidal droplet formed in silicone oil to help researchers image the flow field movement inside the droplet. (Credit: John Toon, Georgia Tech)
+Mar 07, 2017
+— Atlanta, GA
+For most people, the drip, drip, drip of a leaking faucet would be an annoyance. But for Georgia Institute of Technology Ph.D. candidate Alexandros Fragkopoulos, what happens inside droplets is the stuff of serious science.
+In the laboratory of
+Alberto Fernandez-Nieves
+in Georgia Tech’s
+School of Physics , Fragkopoulos is studying how toroidal droplets – which initially take the shape of a donut – evolve into spherical droplets by collapsing into themselves or breaking up into smaller droplets.
+Work with droplets has implications for the life sciences, where biological materials, including cells, undergo shape changes reminiscent of droplet behavior. And the findings could improve industrial processes ranging from fuel injectors to chemical processes that depend on droplet formation. In the work, researchers in the Fernandez-Nieves lab have developed a new understanding of the processes that control the evolution of unstable, donut-shaped droplets, helping them clarify the complex interplay of forces relevant to the problem.
+“Surface tension drives the evolution of the droplets,” said Fragkopoulos. “Fluids tend to minimize their surface area for a given volume because that minimizes the energy required to have an interface between different fluids. Spherical shapes minimize that energy, and as a result, toroidal droplets want to evolve to become spherical. We’re studying how that transition occurs.”
+Using a sheet of laser light to observe the scattering from polystyrene particles placed into droplets formed within thick silicone oil, the researchers have observed in detail how droplets change shape – and which factors set the droplets on the path to either collapse or breakup. The research, which was supported by the National Science Foundation, was reported March 1 in the journal
+Proceedings of the National Academy of Sciences .
+“The viscous forcing as the torus collapses exerts stress on the interface, which causes it to both have a circulation inside the torus and deform its surface,” said Fragkopoulos. “We need to take into account these stresses to completely understand the evolution of the droplets.”
+The impetus for the experimental work was inconsistencies between theoretical predictions and computer simulation of toroidal droplet transitions. What the Georgia Tech researchers found tends to back up the simulation results. “However, the earlier theoretical work was essential in guiding the theory efforts and in illustrating what the problem was in order to correctly describe the experimental results,” said Fernandez-Nieves.
+“Parameters such as the aspect ratio – the overall dimension of the torus divided by the dimensions of the tube – determine whether the toroidal droplet can break up, or if it will simply collapse into itself,” said Fragkopoulos. “We found that the toroidal droplet deforms a lot from the donut shape as it collapses. It flattens as it develops, which was initially unexpected. We had expected the torus to be symmetrical and nicely circular, which is not what we found.”
+The breakup or collapse of ordinary raindrops is known to involve the formation of a donut-like rim. However, the process is rather uncontrolled and takes place quickly, so quickly that only high-speed cameras could see it. To allow detailed study of the transition and imaging the flow field within the drops, Fragkopoulos dramatically slowed down the evolution by creating droplets within a type of silicone oil that is six times more viscous than honey. Instead of ordinary water, he used distilled water into which polyethylene glycol has been mixed to further slow the dynamics.
+The water is introduced into a rotating bath of the silicone oil using a tiny needle injector. By controlling the pumping rate and where the needle inserts the water, the researchers can control the geometrical parameters of the toroidal droplets, specifically the thickness of the ring and the relative size of the hole inside it. The droplets they study range in size up to about a centimeter in diameter. “This simple strategy affords exquisite control,” said Fernandez-Nieves.
+Polystyrene beads in the water allow the researchers to use particle image velocimetry (PIV) to see the flow fields within the droplets, showing how the cross section deviates from circular over time.
+“We are using the difference in viscosity to generate the torus,” Fragkopoulos explained. “We are using viscous forces to generate the droplets, because it’s important to slow down the dynamics of the torus collapse so we can have enough time and resolution to see the flow fields developing inside it.”
+Research into droplet formation has tended to be applications-focused. Now Fragkopoulos and Fernandez-Nieves are using their experimental and theoretical work to address other science problems.
+“We are now using the methods for creating toroidal objects made from different materials to study problems in condensed matter and bioengineering,” said Fernandez-Nieves. “We started working on toroidal droplets with the idea of studying how topology and geometry affected how ordered materials are affected by these aspects, and later to address how curvature affects cell behavior. We wanted to make nontrivial geometries so we could study how this affects behavior,” added Fragkopoulos.
+The next step in the work is to study electrically-charged droplets, which are widely used industrially. The electrical charges add a new wrinkle to the flow fields and change how the toroidal droplets transform. In addition to those already mentioned, the research included former graduate and undergraduate students in the Fernandez-Nieves lab, Ekapop Pairam and Eric Berger, and Prof. Phil Segre at Oxford College, Georgia.
+The research was supported by the National Science Foundation. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+CITATION : Alexandros A. Fragkopoulos, et al., “The shrinking instability of toroidal droplets,” (Proceedings of the National Academy of Sciences, 2017).
+http://dx.doi.org/10.1073/pnas.1619073114
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

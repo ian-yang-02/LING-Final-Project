@@ -1,0 +1,45 @@
+simple robots, smart algorithms: meet the bobbots 
+ inspired by a theoretical model of particles moving around on a chessboard, new robot swarm research shows that, as magnetic interactions increase, dispersed “dumb robots” — dubbed bobbots — can gather in compact clusters to accomplish complex tasks. 
+ a collection of "bobbots" in motion (credit: shengkai li, georgia tech) 
+ apr 29, 2021 
+ — atlanta, ga 
+ anyone with children knows that while controlling one child can be hard, controlling many at once can be nearly impossible. getting swarms of robots to work collectively can be equally challenging, unless researchers carefully choreograph their interactions — like planes in formation — using increasingly sophisticated components and algorithms. but what can be reliably accomplished when the robots on hand are simple, inconsistent, and lack sophisticated programming for coordinated behavior? 
+ a team of researchers led by 
+ dana randall , advance professor of 
+ computing 
+ and 
+ daniel goldman , dunn family professor of 
+ physics , sought to show that even the simplest of robots can still accomplish tasks well beyond the capabilities of one, or even a few, of them. the goal of accomplishing these tasks with what the team dubbed "dumb robots" (essentially mobile granular particles) exceeded their expectations, and the researchers report being able to remove all sensors, communication, memory and computation — and instead accomplishing a set of tasks through leveraging the robots' physical characteristics, a trait that the team terms "task embodiment." 
+ the team's simple bobbots, or "behaving, organizing, buzzing bots" were named for granular physics pioneer bob behringer," explains randall. "their cylindrical chassis have vibrating brushes underneath and loose magnets on their periphery, causing them to spend more time at locations with more neighbors." the experimental platform was supplemented by precise computer simulations led by georgia tech physics student 
+ shengkai li , as a way to study aspects of the system inconvenient to study in the lab. 
+ despite the simplicity of the bobbots, the researchers discovered that, as the robots move and bump into each other, "compact aggregates form that are capable of collectively clearing debris that is too heavy for one alone to move," according to goldman. "while most people build increasingly complex and expensive robots to guarantee coordination, we wanted to see what complex tasks could be accomplished with very simple robots." 
+ their work, 
+ as reported april 23, 2021 in the journal 
+ science advances , 
+ was inspired by a theoretical model of particles moving around on a chessboard. a theoretical abstraction known as a self-organizing particle system was developed to rigorously study a mathematical model of the bobbots. using ideas from probability theory, statistical physics and stochastic algorithms, the researchers were able to prove that the theoretical model undergoes a phase change as the magnetic interactions increase — abruptly changing from dispersed to aggregating in large, compact clusters, similar to phase changes we see in common everyday systems, like water and ice. 
+ "the rigorous analysis not only showed us how to build the bobbots, but also revealed an inherent robustness of our algorithm that allowed some of the robots to be faulty or unpredictable," notes randall, who also serves as a professor of 
+ computer science 
+ and adjunct professor of 
+ mathematics 
+ at georgia tech. 
+ the collaboration is based on experiments and simulations also designed by bahnisikha dutta, ram avinery and enes aydin from georgia tech, as well as on theoretical work by andrea richa and joshua daymude from arizona state university, and sarah cannon from claremont mckenna college, who is a recent georgia tech graduate. 
+ this work is part of a multidisciplinary university research initiative (muri) funded by the army research office (aro) to study the foundations of emergent computation and collective intelligence. 
+ funding: this work was supported by the department of defense under muri award no. w911nf-19-1-0233 and by nsf awards dms-1803325 (s.c.); ccf-1422603, ccf-1637393, and ccf-1733680 (a.w.r.); ccf-1637031 and ccf-1733812 (d.r. and d.i.g.); and ccf-1526900 (d.r.). 
+ this story was first published on 
+ eurekalert! 
+ by georgia tech. 
+ additional images 
+ contact 
+ jess hunt-ralston 
+ director of communicaitons 
+ college of sciences 
+ georgia institute of technology 
+ tracey a. reeves 
+ associate vice president for research and academic communications 
+ institute communications 
+ georgia institute of technology 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

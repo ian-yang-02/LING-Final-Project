@@ -1,0 +1,79 @@
+was the primordial soup a hearty pre-protein stew? 
+ proteins are tough to make outside a living cell, so how did their components evolve on pre-life earth? perhaps easier than thought. 
+ georgia tech's broad array of earth chemistry, astrophysics, and evolution research, bolstered by related engineering fields, could offer insight into the possibility of complex life on exoplanets. much of our research in these areas is funded in part by nasa astrobiology institute. photo: nasa / ames / jpl-caltech 
+ sep 01, 2017 
+ — atlanta, ga 
+ the primordial soup that sloshed around billions of years ago, and eventually led to first life on our planet, might have been teeming with primal precursors of proteins. 
+ ancestors of the first protein molecules, which are key components of all cells, could have been bountiful on pre-life earth, according to 
+ a new study led by researchers at the georgia institute of technology , who formed hundreds of possible precursor molecules in the lab. then they meticulously analyzed the molecules with latest technology and new algorithms. 
+ they found that the molecules, called depsipeptides, formed quickly and abundantly under conditions that would have been common on prebiotic earth, and with ingredients that would have likely been plentiful. 
+ and some of the depsipeptides evolved into new varieties in just a few days, an ability that, eons ago, could have accelerated the birth of long molecules, called peptides, that make up proteins. 
+ without cataclysm, please 
+ the new nasa-affiliated research adds to a growing body of evidence suggesting that the first polymers of life may have arisen in variations of daily processes still observed on earth today, such as the repeated drying and refilling of pond water. they may not have all zapped into existence as a result of blazing cataclysms, an image often associated with the creation of the first chemicals of life. 
+ “we want to stay away from scenarios that are not readily possible,” said 
+ facundo fernández, a professor in georgia tech’s school of chemistry and biochemistry , and one of the study’s principal investigators. “don’t deviate from conditions that would have been realistic and reasonably common on prebiotic earth. don’t invoke any unreasonable chemistry.” 
+ scientists have long puzzled over how the very first proteins formed. their long-chain molecules, polypeptides, can be tough to make in the lab under abiotic conditions. 
+ some researchers have toiled to build tiny chains, or peptides, sometimes under more extreme scenarios that probably occurred less often on early earth. the yields have been modest, and the resulting peptides have had only a couple of component parts, whereas natural proteins have a large variety of them. 
+ step-by-step evolution 
+ but complex molecules of life likely did not arise in one dramatic step that produced final products. that’s the hypothesis that drives the research of fernández and his colleagues at the 
+ nsf / nasa center for chemical evolution , headquartered at georgia tech and based on close collaboration with the 
+ scripps research institute . 
+ instead, multiple easier chemical steps produced plentiful in-between products that were useful in subsequent reactions that eventually led to the first biopolymers. the depsipeptides produced in this latest study could have served as such a chemical stepping stone. 
+ they look a lot like regular peptides and can be found today in biological systems. “many antibiotics, for example, are depsipeptides,” fernández said. 
+ fernández, his georgia tech colleagues 
+ martha grover 
+ and 
+ nicholas hud , and 
+ ram krishnamurthy 
+ from scripps published their 
+ study on august 28, 2017, in the journal proceedings of the national academy of sciences . first author 
+ jay forsythe , formerly a postdoctoral researcher at georgia tech, is now an assistant professor at the college of charleston. research was funded by the national science foundation and the nasa astrobiology program. 
+ the new study joins similar work about the formation of 
+ rna precursors 
+ on prebiotic earth, and about possible 
+ scenarios for the formation of the first genes . the collective insights may someday help explain how first life arose on earth and also aid astrobiologists in determining the probability of life existing on other planets. 
+ understanding depsipeptide lego 
+ to understand depsipeptides and the significance of the researchers’ results, it’s helpful to start by looking at peptides, which are chains of amino acids. when the chains get really long they are called polypeptides, and then proteins. 
+ living cells have machinery that reads instructions in dna on how to link up amino acids in a specific order to build very specific peptides and proteins that have functions in a living cell. for a protein to have function in a cell, its polypeptide chains have to clump up like sticky yarn to form useful shapes. 
+ before cells and dna existed on an earth devoid of life, for polypeptides to form, amino acids had to somehow jostle together in puddles or on the banks of rivers or lakes to form chains. but 
+ peptide bonds 
+ can be tough to form, especially long chains of them. 
+ amino stand-in double 
+ other bonds, called 
+ ester bonds , form more easily, and they can link up amino acids with very similar molecules called 
+ hydroxy acids . hydroxy acids are so much like amino acids that they can, in some cases, function as their stand-in doubles. 
+ the researchers mixed three amino acids with three hydroxy acids in a water solution and they formed depsipeptides, chains of amino acids and hydroxy acids held together by intermittent ester and peptide bonds. the hydroxy acids acted as an enabler to put the chains together that would have otherwise been difficult to form. 
+ the primordial soup may have lapped its depsipeptides onto rocks, where they dried out in the sun, then rain or dew dissolved them back into the soup, and that happened over and over. the researchers mimicked this cycle in the lab and watched as the depsipeptide chains further developed. 
+ death valley heat 
+ “we call it an environmental cycling approach to making these early peptides,” said fernández, who is vasser woolley foundation chair in bioanalytical chemistry. like nature: make the soup, dry it out, repeat. 
+ in the lab, the drying temperature was 85 degrees celsius (185 degrees fahrenheit), although the reaction has been shown to work at temperatures of 55  and 65 degrees celsius (131 to 149 degrees fahrenheit). “if you think about early earth having a lot of volcanic activity and an atmospheric mix that promoted warming, those temperatures are realistic on many parts of an early earth,” fernández said. 
+ early earth took hundreds of millions of years to cool, and 
+ temperatures in the hundreds of degrees 
+ are hypothesized to have been commonplace for a long time. even today, the hottest deserts can reach over 55 degrees celsius. 
+ ester do-si-do 
+ since ester bonds break more easily, in the experiment, the chains tended to come apart more at the hydroxy acids and hold together between the amino acids, which were connected by the stronger peptide bonds. as a result, chains could re-form and link up more and more amino acids with each other into sturdier peptides. 
+ in a kind of square-dance, the stand-in hydroxy acids often left their amino acid partners in the chain, and new amino acids latched onto the chain in their place, where they held on tight. in fact, a number of the depsipeptides ended up being composed almost completely of amino acids and had only remnants of hydroxy acids. 
+ “now we know how peptides can form easily,” fernández said. “next, we want to find out what’s needed to get to the level of a functional protein.” 
+ read: possible precursor of rna forms spontaneously in water 
+ 10,000,000,000,000 depsipeptides 
+ to identify the more than 650 depsipeptides that formed, the researchers used mass spectrometry combined with ion mobility, which could be described as a wind tunnel for molecules. along with mass, the additional mobility measurement gave the researchers data on the shape of the depsipeptides. 
+ algorithms created by georgia tech researcher 
+ anton petrov 
+ processed the data to finally identify the molecules. 
+ to illustrate how potentially bountiful depsipeptides could have been on prebiotic earth: the researchers had to limit the number of amino acids and hydroxy acids to three each. had they taken 10 each instead, the number of theoretical depsipeptides could have climbed over 10,000,000,000,000. 
+ “ease and bounty are key,” fernández said. “chemical evolution is more likely to progress when components it needs are plentiful and can join together under more ordinary conditions.” 
+ also read: was the secret spice in primal gene soup a thickener? 
+ also read: the work of the nsf / nasa center for chemical evolution 
+ georgia tech’s calvin millar and sheng-sheng yu also coauthored this study. the research was funded by the national science foundation and the nasa astrobiology program, under the nsf / nasa center for chemical evolution (che-1504217). any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring agencies. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

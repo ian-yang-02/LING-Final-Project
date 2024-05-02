@@ -1,0 +1,45 @@
+RNA Information Transfer Could Be Used in Repairing DNA
+Researchers have provided new insights into how RNA can help repair major DNA damage.
+Researchers have found that not only can RNA serve as a template for the repair of double-strand breaks, but that it was modifying genomic information in the absence of double-strand breaks. Shown are Georgia Tech Professor Francesca Storici and first author Chance Meers. (Credit: Chance Meers)
+Sep 15, 2020
+— Atlanta, GA
+Genomes are routinely subjected to DNA damage. But most cells have DNA repair systems that enforce genome stability and, ideally, prevent diseases like cancer. The trouble gets serious when these systems break down. When that happens, damage such as unrepaired DNA lesions can lead to tumors, and genomic chaos ensues.
+“Double-strand breaks are one of the most dangerous types of DNA damage a cell can experience,” said Chance Meers, a postdoctoral researcher at Columbia University who earned his Ph.D. in molecular genetics in 2019 in the lab of
+Francesca Storici
+at the Georgia Institute of Technology. “They inhibit the cell’s ability to replicate its DNA, stalling cell division until the damage is repaired.”
+The most accurate pathway of DNA-break repair is by using a homologous DNA sequence to template the re-synthesis of the damaged DNA region. Researchers in the Storici lab previously showed that a homologous RNA sequence could also mediate this break repair, and sought to understand the molecular mechanisms that control this process. They wrote about it in a recently published paper for the journal
+Molecular Cell .
+“This is really about RNA’s capacity to transfer information to DNA that could be used in repairing damage,” explained Storici, professor in the
+School of Biological Sciences
+and a researcher in the
+Petit Institute for Bioengineering and Bioscience
+at Georgia Tech.
+In a 2014 article published in
+Nature , her team explained how transcript-RNA could serve as a template for the repair of a DNA double-strand break. In this new study, according to lead author Meers, “we found that not only can RNA serve as a template for the repair of double-strand breaks, but that it was modifying genomic information in the absence of double-strand breaks.”
+This modification of DNA even in the absence of an induced double-strand break was very surprising to the team. Also unanticipated, said Meers, was that the process of transferring information depended on the presence of an unexpected enzyme, DNA polymerase Zeta.
+“This is quite surprising, because DNA polymerase Zeta is part of a large class of enzymes known as DNA polymerases characterized by their ability to catalyze the synthesis of DNA molecules from a DNA template,” Meers said.
+Polymerase Zeta is part of a subset of DNA polymerases known as translesion DNA polymerases, which have unique properties that allow them to synthesize damaged DNA caused by mutagens like UV radiation. Translesion DNA polymerases also are important in cellular processes like the diversification of B-cell receptors used to recognize foreign elements like viruses.
+Meers explained that RNA molecules can be thought of as the cache on a computer – or a short-term memory that is not stably maintained.
+“We use a novel assay in which the yeast chromosomal DNA was genetically engineered to contain a piece of DNA sequence that allows it to be removed only in the RNA that is actively transcribed from the chromosomal DNA, generating a change in the RNA sequence but not in the DNA,” he said.
+If this “short-term memory,” in the form of RNA, is transferred back into the DNA sequence during the process of RNA-templated DNA repair, it becomes “long-term memory” stored in the DNA, which can be thought of as the hard drive.
+“We placed this system into a particular gene in yeast, which gives an observable characteristic trait if this process occurred, allowing us to track the repair process,” Meers said.
+Exploiting such an assay, along with the discovery of a new role for DNA polymerase Zeta in RNA-templated DNA repair and modification, the study contains a series of new findings that helped the team better understand the genetic and molecular mechanisms by which RNA can change DNA sequences in cells.
+This research essentially lays the groundwork for exploring the role that RNA can play in modifying genomic sequence and should allow future studies to more directly explore the role of RNA in genomic instability and, in particular, in other organisms, like humans.
+This work was supported by the National Cancer Institute (NCI) and the National Institute of General Medical Sciences (NIGMS) of the NIH (grant numbers CA188347, P30CA056036 and GM136717 to A.V.M.), Drexel Coulter Program Award (to A.V.M.), the National Institute of General Medical Sciences (NIGMS) of the NIH (grant number GM115927 to F.S.), the National Science Foundation fund (grant number 1615335 to F.S.), the Howard Hughes Medical Institute Faculty Scholar (grant number 55108574 to F.S.), and grants from the Southeast Center for Mathematics and Biology (NSF, DMS-1764406 and Simons Foundation, 594594 to F.S.). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the NSF.
+CITATION : Chance Meers, Havva Keskin, Gabor Banyai, Olga Mazina, Taehwan Yang, Alli L. Gombolay, Kuntal Mukherjee, Efiyenia I. Kaparos, Gary Newnam, Alexander Mazin, and Francesca Storici. “Genetic characterization of three distinct mechanisms supporting RNA-driven DNA repair and 3 modification reveals major role of DNA polymerase Zeta.” (Molecular Cell, 2020) ( https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30554-2
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Assistance : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : Jerry Grillo
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

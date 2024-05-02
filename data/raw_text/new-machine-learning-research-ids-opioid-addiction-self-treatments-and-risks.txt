@@ -1,0 +1,38 @@
+New Machine Learning Research ID’s Opioid Addiction Self-Treatments and Risks
+Findings provide new insights into how people use clinically untested opioid recovery methods.
+Apr 25, 2019
+— Atlanta, GA
+Using advanced machine-learning techniques, Georgia Tech researchers have examined nearly 1.5 million Reddit posts to identify risks associated with several of the most common alternative treatments for opioid addiction.
+These clinically untested, self-directed treatments are often developed and promoted through online communities like Reddit, which commonly encourage their use without professional medical consultation. According to the study, the three most commonly used are:
+Kratom – an unregulated herbal stimulant
+Imodium – a common anti-diarrheal medication
+Xanax – a psychiatric medication used to treat anxiety and panic disorders
+The findings – part of what the researchers say is one of the first large-scale social media study of clinically unproven, alternative treatments (ATs) used in opioid addiction recovery – indicate that these treatments offer:
+Risky results
+Potentially substantial side effects
+High chance of abuse for those struggling with recovery
+“Along with identifying what potentially are the most commonly used alternative treatments, we documented a number of important trends and gained valuable insights into how people use ATs, which will be used in part to better inform current treatment strategies,” said
+Stevie Chancellor , Georgia Tech College of Computing Ph.D. student and chief author of the study.
+[PODCAST: Social Media's Role in Opioid Addiction Recovery with Stevie Chancellor]
+One of the key trends documented among AT users is the growing use of “stacks” or “kits.” These combine several substances­ – prescription drugs, illicit drugs, over the counter medications, vitamins/minerals, or other substances – to combat withdrawal symptoms and facilitate recovery.
+An anonymous Reddit post evaluated in the study read, “I’ve decided to quit [opioids] for good - what you guys think about my withdrawal strategy?” The post goes on to list what can reasonably be considered as a risky mix of anti-anxiety drugs, OTCs, alcohol, and more. Added to this, the study also found that many of these “stacks” have specific dosing patterns that users follow.
+To identify these posts from among the initial dataset of 1.44 million posts from 63 subreddits, Chancellor and her colleagues developed a machine learning binary classifier. The classifier, which used a transfer learning approach to improve results as it scanned from one subreddit to the next, automatically labeled each post as either recovery or non-recovery related.
+[RELATED: Researchers Plumb Reddit to Reveal New Insights into Stress Following Campus Violence]
+The research team – which included an addiction research scientist – applied natural language processing techniques to the resulting dataset of 93,104 recovery-related posts. Known as “word embeddings,” the process allows a system to find and learn contextual relationships between words and phrases in a large dataset. These relationships often reveal connections between words that may be misspelled or slang terms for common words.
+The results were verified through a series of automated and human-in-the-loop validation tests of the machine learning algorithm.
+“We found that Imodium, commonly used to relieve nausea and diarrhea, is often referred to as ‘lope’, which is short for the active ingredient Loperamide. We also confirm that it is prone to misuse and dependence,” said Chancellor.
+It’s this kind of insight the Georgia Tech team wants to share with treatment and recovery researchers and care providers.
+“Because there is little empirical research into alternative treatments for opioid use disorder, professionals overseeing detoxification and behavioral interventions are at a disadvantage,” said Munmun DeChoudhury, School of Interactive Computing assistant professor and co-author of the research study.
+“Broadly speaking, we’re interested in reducing harm that can be caused by alternative treatments. We are moving in the right direction by identifying and giving some context to the most commonly used of these, which ultimately gives behavioral health clinicians more insight into how ATs impact their patients.”
+Chancellor and De Choudhury’s work on this project was supported in part by a grant from the National Institutes of Health, #R01GM112697.
+Complete details about the study are in a paper titled
+Discovering Alternative Treatments for Opioid Use Recovery Using Social Media , which has been accepted to the 2019 ACM CHI Conference on Human Factors in Computing Systems, set for May 4 through 9 in Glasgow, UK.
+Additional Images
+Contact
+Albert Snedeker, Communications Manager
+albert.snedeker@cc.gatech.edu
+Email
+albert.snedeker@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

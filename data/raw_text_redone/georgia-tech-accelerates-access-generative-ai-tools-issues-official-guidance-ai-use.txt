@@ -1,0 +1,28 @@
+georgia tech accelerates access to generative ai tools, issues official guidance on ai use 
+ georgia tech is accelerating access to generative artificial intelligence (genai) tools with the recent addition of the microsoft copilot enterprise ai chat service. 
+ mar 25, 2024 
+ georgia tech is accelerating access to generative artificial intelligence (genai) tools with the recent addition of the microsoft copilot enterprise ai chat service. the office of information technology (oit) has also issued guidance for responsible adoption and use of genai tools. 
+ the copilot chat tool offers text, graphic, and code generation with commercial data protection. the tool delivers the same gpt 4.0 capabilities as other popular genai tools like chatgpt without leveraging georgia tech data to train its model. copilot also provides copyright protection and ensures that any content generated using the tool is the intellectual property of georgia tech. 
+ “as with the rollout of any new and emerging technology , we want to ensure each tool offers the best protection for our institute data and intellectual property, while also providing a variety of features and capabilities,” said 
+ leo howell, 
+ interim vice president for information technology and chief information officer. “with this in mind, we collaborated with the office of general counsel, cyber security, and institute communications to develop guidance around data privacy and security best practices as well as a set of dos and don’ts when leveraging genai.” 
+ the guidance advises against using tools that have not been reviewed and approved by oit or sharing various types of data in ai tools. data includes, but is not limited to, personally identifiable information such as name, social security number, and date of birthday, and ferpa data, which includes any student information. other dos and don’ts include: 
+ do  verify the accuracy and validity of ai-generated content with reliable sources. 
+ do  regularly review and comply with ai guidance and key georgia tech data policies ( data privacy policy ,  personal information privacy policy ,  data governance and management policy ,  and  protected data practices ). 
+ don’t  assume that generated content is free of another entity’s intellectual property. familiarize yourself with the service’s copyright terms. 
+ “because of the rapidly evolving nature of ai, we expect this guidance to expand over the next several months,” said howell. 
+ oit’s future state road map includes other ai service offerings such as copilot for microsoft 365, which integrates with popular office tools like word, powerpoint, and excel, and the advanced microsoft azure openai platform, which allows developers to build and 
+ train their own custom ai models. an interdisciplinary team will investigate other tools, explore ai capabilities within existing technology services, strengthen adoption efforts, and build out governance and ethical frameworks for ai at georgia tech. 
+ “we have laid the groundwork for rolling out generative ai services through a series of small educational workshops in some of our administrative spaces and the development of general use guidance,” said howell. 
+ “the goal of the interdisciplinary team is to bring together voices from across academic, research, student life, and administrative areas to scale our efforts and explore the enterprise use of other generative ai tools at georgia tech.” 
+ to view official guidance on ai use or learn more about generative ai tools, visit 
+ oit.gatech.edu / ai . 
+ contact 
+ malynda dorsey smith 
+ senior director, it organizational change management & communications 
+ malynda@gatech.edu 
+ email 
+ malynda@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

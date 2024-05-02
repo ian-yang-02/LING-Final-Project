@@ -1,0 +1,42 @@
+New Master of Science in Urban Analytics to Launch in the Fall
+Urban planning, computing, and industrial and systems engineering combine to fix big city problems
+Atlanta Skyline
+May 25, 2021
+— Atlanta, GA
+Georgia Tech is launching a new interdisciplinary degree this fall: the Master of Science in Urban Analytics (MSUA). The
+School of City and Regional Planning
+will administer the degree in partnership with the
+H. Milton Stewart School of Industrial and Systems Engineering
+(ISyE), the
+School of Computational Science and Engineering
+(CSE), and the
+School of Interactive Computing
+(IC).
+Urban analytics is an emerging field that incorporates smart cities, urban informatics, and urban science. The goal of urban analytics is to leverage data science in addressing major issues cities continue to face, including air, water, and land pollution; carbon emissions; traffic congestion; inadequate housing options; and disparities in access to services. The skills and knowledge necessary to tackle such challenges require an integrated multidisciplinary approach, which this degree is designed to provide.
+It is aimed at students who are interested in solving urban problems through the acquisition, integration, and analysis of various forms of data. Undergraduate preparation for this degree can include a range of fields such as engineering, planning, computing, and various social science disciplines.
+Georgia Tech is the only university in the University System of Georgia offering an urban analytics degree. Programs of this kind are quickly gaining national relevancy — similar graduate programs exist at Carnegie Mellon University, New York University, Northeastern University, and the University of California at Berkeley.
+Subhro Guhathakurta , chair of the School of City and Regional Planning and the director of the
+Center for Spatial Planning Analytics and Visualization , noted that Tech’s urban analytics program stands out from the others given its strategic partnership with top-ranked programs in engineering and computing to offer this multidisciplinary degree.
+“The objective is to harness Georgia Tech’s recognized strengths and expertise in data analytics to focus on the critical problems facing urban regions,” he said.
+Read also: Gulsah Akar Appointed New School of City and Regional Planning Chair
+Additionally, there are many aspects of industrial engineering that can be applied to urban analytics,
+Pascal Van Hentenryck , associate chair for Innovation and Entrepreneurship and A. Russell Chandler III Chair and Professor in ISyE, said.
+“Many supply chain logistics concepts and solutions can be applied to address the inefficiencies in public transportation, accessibility, and the relationship between mobility and the built environment. This program is pioneering in that it links many viewpoints holistically, from the concepts to the mathematical and computational tools, and their applications to problems faced by our growing cities,” he said.
+Georgia Tech’s ISyE program is ranked as the No. 1 graduate program in in the industrial, manufacturing, and systems specialty and has held the top rank for 31 years.
+Advances in computation are also essential to ensure the sustainable development of modern cities and guarantee that they operate effectively,
+Haesun Park , Regents' Professor and chair of CSE, said.
+“Understanding and planning for the interdependent and interactive quality of city infrastructures require computational models and tools of increasing complexity and scale. This is where data, computing, and networks are ubiquitous, with computation playing unprecedented new roles in the management and operation of cities,” she said.
+Besides new introductory courses, several existing classes in the degree-participating schools are available as part of a well-rounded curriculum. These courses are carefully selected to meet four core competencies: urban systems, spatial analysis, computational statistics including machine learning, and modeling and visualization.
+The curriculum will place special emphasis on social end-values such as sustainability, justice, and resilience, and on individual data rights including: permission for collection; privacy through aggregation; and transparency through open data.
+"One of the most exciting aspects of this new degree is the diversity of academic programs working together on this topic of urban analytics. It will unite faculty and students from across campus to work on solving many important challenges,"
+John Stasko , Regents' Professor and interim chair of IC, said.
+Specialization within the degree is encouraged. The one-year program spans fall and spring semesters, with a summer workshop.
+Applications for the Fall 2021 cohort open this summer. For more information,
+click here .
+Additional Images
+Contact
+Ann Hoevel
+College of Design
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

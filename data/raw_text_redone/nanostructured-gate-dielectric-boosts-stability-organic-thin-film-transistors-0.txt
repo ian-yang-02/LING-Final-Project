@@ -1,0 +1,46 @@
+nanostructured gate dielectric boosts stability of organic thin-film transistors 
+ researchers have addressed one of the most significant challenges to the use of organic thin-film transistors. 
+ georgia tech senior research scientist canek fuentes-hernandez (left) and professor bernard kippelen examine a sample of organic thin-film transistors created with a new nanostructured gate dielectric that gives the devices unprecedented stability. (credit: rob felt, georgia tech) 
+ jan 12, 2018 
+ — atlanta, ga 
+ a nanostructured gate dielectric may have addressed the most significant obstacle to expanding the use of organic semiconductors for thin-film transistors. the structure, composed of a fluoropolymer layer followed by a nanolaminate made from two metal oxide materials, serves as gate dielectric and simultaneously protects the organic semiconductor – which had previously been vulnerable to damage from the ambient environment – and enables the transistors to operate with unprecedented stability. 
+ the new structure gives thin-film transistors stability comparable to those made with inorganic materials, allowing them to operate in ambient conditions – even underwater. organic thin-film transistors can be made inexpensively at low temperature on a variety of flexible substrates using techniques such as inkjet printing, potentially opening new applications that take advantage of simple, additive fabrication processes. 
+ “we have now proven a geometry that yields lifetime performance that for the first time establish that organic circuits can be as stable as devices produced with conventional inorganic technologies,” said 
+ bernard kippelen , the joseph m. pettit professor in georgia tech’s 
+ school of electrical and computer engineering 
+ (ece) and director of georgia tech’s 
+ center for organic photonics and electronics 
+ (cope). “this could be the tipping point for organic thin-film transistors, addressing long-standing concerns about the stability of organic-based printable devices.” 
+ the research was reported january 12 in the journal 
+ science advances . the research is the culmination of 15 years of development within cope and was supported by sponsors including the office of naval research, the air force office of scientific research, and the national nuclear security administration. 
+ transistors comprise three electrodes. the source and drain electrodes pass current to create the “on” state, but only when a voltage is applied to the gate electrode, which is separated from the organic semiconductor material by a thin dielectric layer. a unique aspect of the architecture developed at georgia tech is that this dielectric layer uses two components, a fluoropolymer and a metal-oxide layer. 
+ “when we first developed this architecture, this metal oxide layer was aluminum oxide, which is susceptible to damage from humidity,” said canek fuentes-hernandez, a senior research scientist and coauthor of the paper. “working in collaboration with georgia tech professor samuel graham, we developed complex nanolaminate barriers which could be produced at temperatures below 110 degrees celsius and that when used as gate dielectric, enabled transistors to sustain being immersed in water near its boiling point.” 
+ the new georgia tech architecture uses alternating layers of aluminum oxide and hafnium oxide – five layers of one, then five layers of the other, repeated 30 times atop the fluoropolymer – to make the dielectric. the oxide layers are produced with atomic layer deposition (ald). the nanolaminate, which ends up being about 50 nanometers thick, is virtually immune to the effects of humidity. 
+ “while we knew this architecture yielded good barrier properties, we were blown away by how stably transistors operated with the new architecture,” said fuentes-hernandez. “the performance of these transistors remained virtually unchanged even when we operated them for hundreds of hours and at elevated temperatures of 75 degrees celsius. this was by far the most stable organic-based transistor we had ever fabricated.” 
+ for the laboratory demonstration, the researchers used a glass substrate, but many other flexible materials – including polymers and even paper – could also be used. 
+ in the lab, the researchers used standard ald growth techniques to produce the nanolaminate. but newer processes referred to as spatial ald – utilizing multiple heads with nozzles delivering the precursors – could accelerate production and allow the devices to be scaled up in size. “ald has now reached a level of maturity at which it has become a scalable industrial process, and we think this will allow a new phase in the development of organic thin-film transistors,” kippelen said. 
+ an obvious application is for the transistors that control pixels in organic light-emitting displays (oleds) used in such devices as the iphone x and samsung phones. these pixels are now controlled by transistors fabricated with conventional inorganic semiconductors, but with the additional stability provided by the new nanolaminate, they could perhaps be made with printable organic thin-film transistors instead. 
+ internet of things (iot) devices could also benefit from fabrication enabled by the new technology, allowing production with inkjet printers and other low-cost printing and coating processes. the nanolaminate technique could also allow development of inexpensive paper-based devices, such as smart tickets, that would use antennas, displays and memory fabricated on paper through low-cost processes. 
+ but the most dramatic applications could be in very large flexible displays that could be rolled up when not in use. 
+ “we will get better image quality, larger size and better resolution,” kippelen said. “as these screens become larger, the rigid form factor of conventional displays will be a limitation. low processing temperature carbon-based technology will allow the screen to be rolled up, making it easy to carry around and less susceptible to damage. 
+ for their demonstration, kippelen’s team – which also includes xiaojia jia, cheng-yin wang and youngrak park – used a model organic semiconductor. the material has well-known properties, but with carrier mobility values of 1.6 cm2 / vs isn’t the fastest available. as a next step, they researchers would like to test their process on newer organic semiconductors that provide higher charge mobility. they also plan to continue testing the nanolaminate under different bending conditions, across longer time periods, and in other device platforms such as photodetectors. 
+ though the carbon-based electronics are expanding their device capabilities, traditional materials like silicon have nothing to fear. 
+ “when it comes to high speeds, crystalline materials like silicon or gallium nitride will certainly have a bright and very long future,” said kippelen. “but for many future printed applications, a combination of the latest organic semiconductor with higher charge mobility and the nanostructured gate dielectric will provide a very powerful device technology.” 
+ this research was supported in part by the center for organic photonics and electronics at georgia tech, by the department of the navy, office of naval research awards n00014-14-1-0580 and n00014-16-1-2520, through the muri center for advanced photovoltaics (caop), by the air force office of scientific research through award no. fa9550-16-1-0168, by the national nuclear security administration award de-na0002576 through the consortium for nonproliferation enabling technologies (cnec). seminal work on the concept of using a bilayer gate dielectric in ofets was funded in part by solvay s.a. and described in part in issued patent no. us 9,368,737 b2. 
+ citation : xiaojia jia, canek fuentes-hernandez, cheng-yin wang, youngrak park, bernard kippelen, “stable organic thin-film transistors,” (science advances, 2018). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or josh brown (404-385-0500) (josh.brown@comm.gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

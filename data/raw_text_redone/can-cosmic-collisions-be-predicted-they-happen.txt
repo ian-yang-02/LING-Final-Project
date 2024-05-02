@@ -1,0 +1,60 @@
+can cosmic collisions be predicted before they happen? 
+ ligo researchers are developing early-warning software to nab neutron-star mergers faster 
+ ligo researchers surabhi sachdev, ryan magee, and shreya anand. 
+ mar 18, 2023 
+ this story by whitney clavin, california institute of technology, was first published in the 
+ caltech newsroom . 
+ on august 17, 2017, around 70 telescopes collectively turned their gaze to a fiery collision between two dead stars that took place millions of light-years away. the telescopes watched the event unfold in a rainbow of wavelengths, from radio waves to visible light to the highest-energy gamma rays. as the pair of ultra-dense neutron stars crashed into each other, they flung debris outward that glowed for days, weeks, and months. some of the onlooking telescopes spotted gold, platinum, and uranium in the searing blast, confirming that most heavy elements in our universe are forged in this type of cosmic collision. 
+ were that the end of the story, this cosmic event would have been remarkable in itself, but three other detectors were present for astronomical gathering that day—two belonging to the national science foundation-funded 
+ ligo 
+ (laser interferometer gravitational-wave observatory) and one belonging to europe's 
+ virgo . ligo and virgo observe not light waves but gravitational waves, or shivers in space and time produced by massive accelerating objects. as neutron stars spiral together, they generate gravitational waves before they merge and explode with light. it was the ligo–virgo gravitational-wave network that 
+ alerted the dozens of telescopes around the world 
+ that something astonishing was taking place in the skies above. without ligo and virgo, august 17, 2017, would have been a typical day in astronomy. 
+ since that time, the ligo–virgo network has detected only one other neutron star merger; in that case, which occurred in 2019, light-based telescopes were not able to observe the event. (ligo-virgo has also detected dozens of binary black hole mergers, but those are not expected to produce light in most instances.) with ligo–virgo scheduled to turn back on this may, astronomers are excitedly preparing for more explosive neutron star mergers. one pressing question on the minds of some ligo team members is: can they detect these events sooner—perhaps even 
+ before 
+ the dead stars collide? 
+ to that end, the researchers are developing early-warning software to alert astronomers to neutron star mergers up to seconds or even a full minute before the impact. 
+ "it's a race against time," says ryan magee, a caltech postdoctoral scholar who is co-leading the development of early-warning software along with surabhi sachdev (ms '17, phd '19), a professor at georgia tech. "we are missing precious time to understand what happens before and right after these mergers," he says. 
+ eleven hours later, the source is found 
+ once ligo detects a likely neutron star collision, the race begins for telescopes on the ground and in space to follow up and pinpoint its location. the ligo–virgo network, which consists of three gravitational-wave detectors, helps narrow in on the approximate location where the fireworks are happening while light-based telescopes are required to identify the exact galaxy in which the neutron stars reside. 
+ for the august 17 event, known as gw170817, most of the light-based telescopes were not able to start searching for the source of the gravitational-wave event until nine hours later. the ligo–virgo team sent its first alert to the astronomical community 40 minutes after the neutron star collision and the first sky maps, outlining the event's rough location, 4.5 hours after the event. but by that time, the region of interest in the southern skies had dipped below the horizon and out of view of the southern telescopes capable of seeing it. astronomers would have to anxiously wait until nine hours after the event to begin combing the skies. by about 11 hours after the neutron star collision, several ground-based optical telescopes had at last pinned down the location of the source of the waves: a galaxy called ngc 4993, which lies about 130 million light-years away. 
+ gearing up for the next run 
+ with 11 hours missing from the story of how neutron stars slam into each other and seed the universe with heavy elements, astronomers are eagerly awaiting more neutron star smashups. for ligo–virgo's upcoming run, which will also include observations made by 
+ japan's kagra , the detectors have been undergoing a series of upgrades to make them even better at catching gravitational-wave events and thus neutron star mergers. the team expects to detect four to 10 neutron star mergers in next run and as many as 100 in the fifth observing run of the current advanced detector network, planned to begin in 2027. future runs with more advanced detectors are planned for the 2030s. 
+ one new feature to be employed at the next run is the early-warning alert system. the specialized software will complement the main software that has been routinely used to detect all the gravitational-wave events so far. 
+ the main software, also called a search pipeline, looks for weak gravitational-wave signals buried in noisy ligo data by matching the data to a library of known signals, or waveforms, that represent different types of events, such as black hole and neutron star mergers. if a match is found and confirmed, an alert is sent to the astronomical community. the early-warning software works in the same way but uses only truncated versions of the waveforms so that it can work faster. 
+ "the detectors are constantly taking new data in an observing run, and we are comparing our waveforms to the data as they come in. if we use truncated waveforms, we don't have to wait for as much data to be collected to do our comparison," magee says. "the trade-off is that the signal needs to be loud enough to be detected using truncated waveforms. it's important to still run the main pipelines alongside the early-warning pipeline to pick up the weaker signals and get the best final localizations." magee, sachdev, and their colleagues are working on an early-warning pipeline called gstlal; additional early-warning pipelines for ligo–virgo are also in the works. 
+ before the fireworks 
+ as neutron stars spiral around each other like a pair of ice dancers, they orbit faster and faster and give off gravitational waves of increasingly higher frequencies. the final dance between neutron stars lasts longer than those between black holes, up to several minutes in the frequency bands ligo is most sensitive to , 
+ and this gives ligo and virgo more time to catch the lead-up to the stars' dramatic finale. in the case of gw170817, the pair of mingling neutron stars spent six minutes at the frequency ranges detectable by ligo–virgo before the two bodies ultimately coalesced. 
+ the ligo early-warning software's truncated waveforms are designed to catch snippets of this last dance; in fact, the researchers think the software will eventually catch a neutron star merger up to one minute before the collision. if so, that will give telescopes around the world more time to find and study the explosions. 
+ "in the next run, we might be able to catch one of the neutron star mergers 10 seconds ahead of time," says sachdev. "by the fifth run, we believe we can catch one with a full minute of warning." 
+ for astronomers, one minute is a lot of time. caltech professor of astronomy gregg hallinan, the director of caltech's owens valley radio observatory, says that early warnings of imminent neutron star mergers will be particularly important for gamma-ray, x-ray, and radio telescopes because the collisions may burst at these wavelengths right at the very start. "radio telescope arrays like the long wavelength array at the owens valley radio observatory (ovro-lwa) and caltech's future 2,000-antenna deep synoptic array (dsa-2000) might be able to detect a radio flash that is theorized to occur at the time the neutron stars merge and in some models during the final inspiral before the merger," says hallinan. "that will teach us about the immediate environments of these massively destructive events. what's more, seeing a radio flash could also help us quickly pin down the location of the mergers." 
+ shreya anand, a caltech graduate student, says that early optical and ultraviolet observations of the mergers can reveal new information about their evolution, such as how elements are formed in the fast-moving material ejected from the collisions. 
+ anand, who works in the group of caltech professor of astronomy 
+ mansi kasliwal 
+ (ms '07, phd '11), is busy developing software herself, not for early-warning systems but to search the skies for neutron star mergers and other cosmic events once an alert from ligo is received. kasliwal's group is currently developing software for the zwicky transient facility (ztf) and the upcoming wide-field infrared transient explorer (winter), two survey instruments based at caltech's palomar observatory. ztf and winter can follow up on a ligo alert to find and observe a neutron star merger. anand is developing software that would speed up this search. 
+ "our algorithms figure out how to best cover different patches of sky and for how long to ensure the maximum chance of finding the target," she says. "we are missing interesting physics in the early phases of the mergers. the early-warning software from the ligo team and the software for our telescope searches will speed up our chances of finding an event early. this will ultimately give us a more complete picture of what is going on." 
+ the 
+ early-warning study led by magee 
+ appears in 
+ the astrophysical journal letters . 
+ the study led by sachdev 
+ also appears in 
+ the astrophysical journal letters . the research is funded by the national science foundation. 
+ additional images 
+ contact 
+ georgia tech: 
+ jess hunt-ralston 
+ director of communications 
+ college of sciences at georgia tech 
+ caltech: 
+ whitney clavin 
+ (626) 395‑1944 
+ wclavin@caltech.edu 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

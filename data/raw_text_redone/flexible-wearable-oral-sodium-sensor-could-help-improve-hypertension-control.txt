@@ -1,0 +1,41 @@
+flexible, wearable oral sodium sensor could help improve hypertension control 
+ researchers have developed a flexible, wearable sensor for measuring how much salt a person consumes. 
+ the intraoral electronics with a sodium sensor is based on a breathable elastomeric membrane that resembles a dental retainer. the ultrathin device is flexible and stretchable, and can wirelessly transmit data up to 10 meters. (credit: rob felt, georgia tech). 
+ may 07, 2018 
+ — atlanta, ga 
+ for people who have hypertension and certain other conditions, eating too much salt raises blood pressure and increases the likelihood of heart complications. to help monitor salt intake, researchers have developed a flexible and stretchable wireless sensing system designed to be comfortably worn in the mouth to measure the amount of sodium a person consumes. 
+ based on an ultrathin, breathable elastomeric membrane, the sensor integrates with a miniaturized flexible electronic system that uses bluetooth technology to wirelessly report the sodium consumption to a smartphone or tablet. the researchers plan to further miniaturize the system – which now resembles a dental retainer – to the size of a tooth. 
+ “we can unobtrusively and wirelessly measure the amount of sodium that people are taking in over time,” explained woon-hong yeo, an assistant professor in the woodruff 
+ school of mechanical engineering 
+ at the georgia institute of technology. “by monitoring sodium in real-time, the device could one day help people who need to restrict sodium intake and learn to change their eating habits and diet.” 
+ details of the device are reported may 7 in the 
+ early edition of the journal proceedings of the national academy of sciences . the device has been tested in three adult study participants who wore the sensor system for up to a week while eating both solid and liquid foods including vegetable juice, chicken soup and potato chips. 
+ according to the american heart association, americans on average eat more than 3,400 milligrams of sodium each day, far more than the limit of 1,500 milligrams per day it recommends. the association surveyed a thousand adults and found that “one-third couldn’t estimate how much sodium they ate, and another 54 percent thought they were eating less than 2,000 milligrams of sodium a day.” 
+ the sodium sensing system could address that challenge by helping users better track how much salt they consume, yeo said. “our device could have applications for many different goals involving eating behavior for diet management or therapeutics,” he added. 
+ key to development of the intraoral sensor was replacement of traditional plastic and metal-based electronics with biocompatible and ultrathin components connected using mesh circuitry. sodium sensors are available commercially, but yeo and his collaborators developed a flexible micro-membrane version to be integrated with the miniaturized hybrid circuitry. 
+ “the entire sensing and electronics package was conformally integrated onto a soft material that users can tolerate,” yeo explained. “the sensor is comfortable to wear, and data from it can be transmitted to a smartphone or tablet. eventually the information could go a doctor or other medical professional for remote monitoring.” 
+ the flexible design began with computer modeling to optimize the mechanical properties of the device for use in the curved and soft oral cavity. the researchers then used their model to design the actual nanomembrane circuitry and choose components. 
+ the device can monitor sodium intake in real-time, and record daily amounts. using a smartphone or tablet application, the system could advise users planning meals how much of their daily salt allocation they had already consumed. the device can communicate with a smartphone up to ten meters away. 
+ next steps for the sodium sensor are to further miniaturize the device, and test it with users who have the medical conditions to address: hypertension, obesity or diabetes. 
+ the researchers would like to do away with the small battery, which must be recharged daily to keep the sensor in operation. one option would be to power the device inductively, which would replace the battery and complex circuit with a coil that could obtain power from a transmitter outside the mouth. 
+ the project grew out of a long-term goal of producing an artificial taste system that can sense sweetness, bitterness, ph and saltiness. that work began at virginia commonwealth university, where yeo was an assistant professor before joining georgia tech. 
+ in addition to yeo, the paper’s authors include yongkuk lee, saswat mishra, and musa mahmood of georgia tech; matthew piper, youngbin kim, connor howe, dong sup lee, katie tieu, james coffey and richard costanzo of virginia commonwealth university; hun-soo byun of chonnam national university in korea, and mahdis shayan and youngjae chun of the university of pittsburgh. 
+ this research was funded with a research grant from the medarva foundation, a seed grant from the georgia tech institute for electronics and nanotechnology, a grant by the fundamental research program (pnk5061) of the korea institute of materials science, and startup funding from georgia tech. 
+ citation : yongkuk lee et al., “wireless, intraoral hybrid electronics for real-time quantification of sodium intake toward hypertension management,” (proceedings of the national academy of sciences, 2018). 
+ http: / / www.pnas.org / content / early / 2018 / 05 / 01 / 1719573115 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations assistance : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

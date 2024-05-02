@@ -1,0 +1,75 @@
+‘Y’ a Protein Unicorn Might Matter in Glaucoma
+Unheard of: A Y-shaped part found in the middle of a mysterious protein studied in glaucoma.
+The road to blindness via glaucoma: A depiction of how blockage of fluid flow in the trabecular meshwork, located near the cornea, can lead to pressure build-up in the aqueous humor of the eye, resulting in optic nerve and retinal damage. Credit: BrightFocus Foundation
+Oct 19, 2017
+— Atlanta, GA
+So unheard of was a discovery that researchers made in a protein associated with glaucoma that for over two years they ran it
+through a gauntlet of lab tests and published a new research paper on it.
+The tests validated what they initially saw.
+It was a Y-shape. That made it an extreme oddity significant to science, and possibly someday to medicine, too, particularly in the treatment of certain types of blindness.
+“A protein like this one has never been reported before. There are extremely few Y-shapes in
+protein s at all,” said Raquel Lieberman, who led the study. Lieberman is a structural biologist at the Georgia Institute of Technology, and an expert on myocilin, a protein sometimes  implicated in a form of hereditary glaucoma .
+Glaucoma
+is the second most common cause of blindness globally, and hereditary glaucoma is just one category of the disease. Genetic mutations in myocilin are a major cause of hereditary glaucoma, which can strike at a particularly young age, including in childhood.
+'Absolutely unique'
+There are other shapes in proteins that look similar to the Y, but there are key differences.
+“Antibodies look a little like this, but
+in antibodies, separate proteins
+that are the products different genes fit together to make a kind of Y-shape,” Lieberman said. “This Y is encoded by one single gene sequence. That makes this absolutely unique.”
+In addition to being the ostensible unicorn of protein structures, it turned out to be the central binding element of myocilin. The Y ties together major components to nail down myocilin’s overall form, overturning previous conceptions about the protein's appearance.
+Myocilin and blindness
+Although the Y hasn’t been particularly implicated in glaucoma, its existence could meaningfully alter the way researchers understand myocilin and how it works in the eye. When myocilin
+goes wrong, or “misfolds,”
+it makes
+fibrils
+that damage tissue called the
+trabecular meshwork
+that normally allows the fluid inside the eye to drain and relieve interior pressure.
+“If you kill the cells that make this drainage work, it’s going to clog, and pressure inside the eye will increase,” said Lieberman, who is an
+associate professor in Georgia Tech’s School of Chemistry and Biochemistry . That pressure can kill parts of the retina or optic nerve, leading to irreversible partial or total blindness.
+But though myocilin is common in many parts of our bodies, its normal, healthy role in the eye and, for that matter, what functions the protein has in the body at all are still a mystery.
+“I think if we knew what this protein was doing in the
+trabecular meshwork , we would understand much more about glaucoma in general,” Lieberman said. “This research lets us know more about what myocilin is.”
+Lieberman published her
+results on October 19, 2017, in the journal
+Structure .  The research was funded by the National Eye Institute and the National Institute of General Medical Sciences, both at the National Institutes of Health, by the National Science Foundation, and by the U.S. Department of Energy Office of Science.
+Propellers come undone
+The focus of studies so far has been on a part of myocilin that is the main culprit in a form of hereditary glaucoma, a
+protein structure called the olfactomedin domain , which Lieberman has also studied extensively. It looks like a protein
+propeller
+with five blades that surround a hole in the center.
+“When a myocilin propellor misfolds, it unravels and forms
+amyloid fibrils
+(stringy abnormal proteins) that kill cells that maintain the trabecular network,” Lieberman said. "Until now, our work led us to believe that the propellers floated around individually as independent units, and not bound together in groups."
+“All we knew before was that, in solution, those olfactomedins were just
+monomers . They didn’t seem to make up anything of a higher order, except when they unraveled into amyloid fibers, stuck together and blocked fluid flow,” Lieberman said.
+Also READ: A fake virus unleashes immune system on an ugly tropical disease
+Super sticky Y
+The Y alters the picture.
+It anchors the propellers in groups of four. Two propellers (olfactomedin domains) each appear to be connected to either tip of the Y’s branches probably by amino acid strings. With the Y, the overall myocilin looks like four pinwheels on strings tied to a slingshot.
+Adding to the new discoveries: The Y itself is sticky, like glue. It’s even annoying to handle in the lab.
+“It was sticking to the plastic, sticking to the glass, sticking to the membrane, to beads,” Lieberman said. “It’s super sticky. That may serve a biological function.”
+Perhaps the Y fastens the propellers to surfaces. It’s not yet known. “But we think the main function is to pair and separate out these olfactomedin domains,” Lieberman said.
+Revisiting misfolding
+Mutations in the Y aren’t significantly associated with glaucoma. “When it mutates, it misfolds, but not in a way that causes all that cell death,” Lieberman said.
+But in its normal role, the Y just might promote the speed of misfolding of the propeller protein (olfactomedin domain) that’s implicated in hereditary glaucoma. When misfolded proteins come into contact with good proteins, the misfolded ones tend to make the good ones misfold, too.
+“If these propeller proteins are clustered together because of the Y, and one of them misfolds, it’s going to recruit the others,” Lieberman said. “Having them tied together in groups will only magnify the contagion.”
+Slinkys make a Y
+The Y-shape, also termed tripartite, is made up of what are called “coiled coils.” They’re pairs of short protein coils, a bit like two pieces of Slinky or coiled telephone cords, and they can be stretched similarly to a Slinky and then contract back in a similar way.
+Coiled coils are very common in our bodies.
+“Coiled coils represent three to five percent of our genome,” Lieberman said. “They’re found in muscle contraction, in molecule transport up and down neurons. Lots of extracellular proteins (proteins that function outside of cells) also have them.”
+The Y’s branches are each a pair of coiled coils, each called a dimer, and in the trunk, they come together to form a group of four coiled coils called a tetramer.
+Also READ: New nano-fight against #1 killer clogged arteries
+Coauthors of this study were Shannon Hill, Elaine Nguyen, Rebecca Donegan, Athéna Patterson-Orazem, Anthony Hazel, and James Gumbart. The research was funded by the National Institutes of Health’s National Eye Institute (grant R01EY021205) and National Institute of General Medical Sciences (grants 9P41 GM103622 and 1S10OD018090-01); by the National Science Foundation (grant MCB-1452464); by the U.S. Department of Energy Office of Basic Energy Sciences (contract W-31-109-Eng-38). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsors.
+Additional Images
+Contact
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : Ben Brumfield (404-660-1408)
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

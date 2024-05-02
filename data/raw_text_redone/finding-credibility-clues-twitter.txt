@@ -1,0 +1,29 @@
+finding credibility clues on twitter 
+ words of millions of people on social media have considerable information about an event’s credibility 
+ jan 26, 2017 
+ — atlanta, ga 
+ by scanning 66 million tweets linked to nearly 1,400 real-world events, georgia institute of technology researchers have built a language model that identifies words and phrases that lead to strong or weak perceived levels of credibility on twitter.  their findings suggest that the words of millions of people on social media have considerable information about an event’s credibility – even when an event is still ongoing. 
+ “there have been many studies about social media credibility in recent years, but very little is known about what types of words or phrases create credibility perceptions during rapidly unfolding events,” said tanushree mitra, the georgia tech ph.d. candidate who led the research. 
+ the team looked at tweets surrounding events in 2014 and 2015, including the emergence of ebola in west africa, the charlie hebdo attack in paris and the death of eric garner in new york city. they asked people to judge the posts on their credibility (from “certainly accurate” to “certainly inaccurate”). then the team fed the words into a model that split them into 15 different linguistic categories. the classifications included positive and negative emotions, hedges and boosters, and anxiety. 
+ the georgia tech computer then examined the words to judge if the tweets were credible or not. it matched the humans’ opinions about 68 percent of the time. that’s significantly higher than the random baseline of 25 percent. 
+ “tweets with booster words, such as ‘undeniable,’ and positive emotion terms, such as ‘eager’ and ‘terrific,’ were viewed as highly credible,” mitra said. “words indicating positive sentiment but mocking the impracticality of the event, such as ‘ha,’ ‘grins’ or ‘joking,’ were seen as less credible. so were hedge words, including ‘certain level’ and ‘suspects.’” 
+ higher numbers of retweets also correlated with lower credibility scores. replies and retweets with longer message lengths were thought to be more credible. 
+ “it could be that longer message lengths provide more information or reasoning, so they’re viewed as more trustworthy,” she said. “on the other hand, a higher number of retweets, which was scored lower on credibility, might represent an attempt to elicit collective reasoning during times of crisis or uncertainty.” 
+ the system isn’t deployable yet, but the georgia tech team says it could eventually become an app that displays the perceived trustworthiness of an event as it unfolds on social media. 
+ “when combined with other signals, such as event topics or structural information, our linguistic result could be an important building block of an automated system,” said eric gilbert, mitra’s advisor and an assistant professor in georgia tech’s school of interactive computing. “twitter is part of the problem with spreading untruthful news online. but it can also be part of the solution.” 
+ the paper, “a parsimonious language model of social media credibility across disparate events,” will be presented in february at the 
+ 20th acm conference on computer-supported cooperative work and social computing 
+ in portland, oregon. 
+ additional images 
+ related links 
+ eric gilbert's comp.social lab 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

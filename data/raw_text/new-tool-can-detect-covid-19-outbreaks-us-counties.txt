@@ -1,0 +1,21 @@
+New Tool Can Detect COVID-19 Outbreaks in U.S. Counties
+Using machine learning, the online tool can predict outbreaks in different counties across the U.S.
+Turgay Ayer, George Family Foundation Early Career Professor and associate professor, ISyE
+Sep 18, 2020
+— Atlanta, GA
+A new machine learning–based online tool developed by researchers at Georgia Tech, Massachusetts General Hospital (MGH)/Harvard Medical School, and Boston Medical Center allows for early detection of Covid-19 outbreaks in different U.S. counties. The  Covid-19 Outbreak Detection Tool  is updated two to three times per week, and it predicts how fast an outbreak is spreading within a given county by estimating the doubling time of Covid-19 cases.
+To make these predictions, the tool accounts for reported Covid-19 cases and deaths, face mask mandates, social distancing policies, changes in tests performed, rates of positive tests, and the
+Centers for Disease Control’s Social Vulnerability Index
+(which assesses the health-related resilience of individual communities when confronted with external stresses, such as natural or human-caused disasters or disease outbreaks).
+The tool offers an interactive map and a “data explorer” that allows users to select a specific county to see that county’s population, total new cases of Covid-19 in the past week, average daily cases in the past week, and the Covid-19 doubling rate (i.e., how many days it takes for the number of cases to double in a given county).
+“For effectively controlling the pandemic, it is critical to detect an outbreak in a timely manner so that the affected area can be isolated and the spread of Covid-19 infections to neighboring areas can be minimized; however, due to several reasons, it may take days or even weeks for humans to manually detect an outbreak. Our data-driven machine learning–based solution significantly speeds up and automates that process,” said Turgay Ayer, Ph.D., the director of Business Intelligence and Healthcare Analytics at the
+Center for Health and Humanitarian Systems
+and the George Family Foundation Early Career Professor and associate professor in Georgia Tech's H. Milton Stewart School of Industrial and Systems Engineering.
+“While earlier mitigation responses focused on state-level measures—such as a lockdown of an entire state—detecting local outbreaks will allow policy makers to implement measures at the county level—such as closing restaurants in a single county—to effectively contain the pandemic,” said Jagpreet Chhatwal, Ph.D., the associate director at the MGH Institute for Technology Assessment and an assistant professor at Harvard Medical School. “The model is able to detect many of the prior outbreaks within a matter of days.”
+Using the Covid-19 Outbreak Tool, the research team verified an outbreak in Johnson county in Iowa last week, which was linked to an outbreak at the University of Iowa. In addition, the tool identified several counties where outbreaks could be happening now. These include Harrisonburg County in Virginia, Wheeler County in Georgia, Monroe County in Indiana, and Whitman County in Washington, where infections are doubling in less than one week.
+Additional Images
+Email
+swundersmith3@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

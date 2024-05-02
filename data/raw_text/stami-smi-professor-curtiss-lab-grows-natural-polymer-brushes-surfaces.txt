@@ -1,0 +1,43 @@
+STAMI-SMI Professor Curtis's Lab Grows Natural Polymer Brushes from Surfaces Enzymatically
+A fortuitous slip in the lab leads to the creation of a monstrously large polymer brush
+Microscopic monster: A fortuitous moment in the lab led to the creation of polymer brushes 100 times the customary size. The brushes are visible under the microscope, whereas polymer brushes are usually detected with atomic force microscopes or other non-optical means. The faint, green line at the bottom in this photo is a surface the bristles have grown on. The bristles are seen as a green-black mass reaching up to the red dots from the surface. Credit: Georgia Tech / Allison Carter
+Jan 17, 2020
+— Atlanta, GA
+Adapted from
+Georgia Tech Research Horizons .
+Medical devices often require sophisticated biointerfaces for biocompatibility and biofunctions
+in situ
+and
+in vivo . Polymer brushes are a class of biomaterials that have been used in a range of applications such as sensors, drug delivery, and implants. In these applications and many others, such polymers are usually desired in high density at the interface, which typically requires synthesizing and growing the biopolymers from the surface. Unfortunately, few methodologies exist for the synthetic catalysis of
+natural
+biopolymers from surfaces, and natural biopolymers are often desirable for biomaterials applications to improve biocompatibility and provide natural functions. Overcoming these barriers is part of new work reported from the labs of SMI Professor Jennifer Curtis (School of Physics), which introduces a versatile platform to grow ultra-thick (100 times the usual length), dense hyaluronan (HA) polymer brushes from surfaces. This new method for growing HA brushes provides a path to improved biocompatibility and dynamic control of biointerfaces that potentially can be grown
+in vivo
+or regenerated after wear.
+In Professor Curtis’s group, a lab goof with an enzyme taken from bacteria led to the creation of the Leviathan polymer brushes. “We were putting the enzyme onto a surface to observe it for a totally different experiment, but we put too much on the surface too densely, and – boom – we ended up with the thickest, longest polymer brush we’d ever seen or heard of,” said Jennifer Curtis, who led the study and is  an associate professor in Georgia Tech’s School of Physics . “They were so big you could actually see them under an optical microscope instead of having to feel them with an  atomic force microscope  or use other methods needed for more customary polymer brushes.”
+The researchers diverted attention from the original study to pursue the freakishly large new brush.
+To bacteria encroaching on them, the brush’s bristles are a virtually impenetrable, squishy thicket that keeps microbes out in lab observations. It hinders the spread of biofilms, bacterial colonies that join together to form a tough material that makes killing the bacteria difficult.
+Biofilm bulwark
+“The human immune system has a hard time with biofilms. Antibiotics don’t work very well on them either. In water filtration, biofilms can stick tenaciously, too. If you have a hyaluronan brush on a surface, a biofilm can’t stick to it,” Curtis said.
+Hyaluronan, the compound in the bristles, is a polysaccharide, a chain of sugar molecules, and is naturally widespread in and around our cells. It is also known to many from its use in cosmetic moisturizers.
+The enzyme that makes the hyaluronan bristles on the brush is  hyaluronan synthase , and it circumvents more tedious chemical synthesis by effortlessly extruding extremely long bristles. The enzymes also can replace bristles when they break off, something chemically synthesized brushes cannot do, which limits those brushes’ durability. Still, use of the synthase is unorthodox.
+“Brush people say, ‘What are these enzymes doing here?’ because they’re looking for chemistry, and biologists wonder what the brush has to do with biology,” Curtis said.
+The team published  the new study,  Self-regenerating giant hyaluronan polymer  brushes,  in the journal  Nature Communications  in December 2019 . The research was funded by the National Science Foundation.
+Engineered  E. coli
+The researchers engineered bacteria to overabundantly produce the enzyme by inserting hyaluronan synthase genes from the bacteria  Streptococcus equisimilis  into  E. coli  then they harvested the enzyme.
+“We shattered the bacteria into a bunch of non-living gooey fragments then adhered their membrane to surfaces, and the synthase extruded the brushes,” Curtis said.
+The enzymes can be switched on and off, and adjusting salt concentration or pH in the solution around the brushes makes the bristles extend to a straight form or curl up into a retracted form. Functional additives like antibacterials could be embedded in brushes.
+Something like a catheter could conceivably one day be coated with brushes to remain bacteria-free, and the thickness of the wiggly brushes would also act as a lubricant by preventing frictive contact with the surface beneath them. Some human cells key to the healing process are actually able to sink through the bristles, which could have potential for medicine.
+“For a chronic wound that won’t heal, you may be able to design a bandage that encourages new cell growth but keeps bacteria out,” Curtis said.
+Biophysics research
+The researchers’ fortuitous detour into the giant brush has expanded possibilities for their original intent of studying enzymatic hyaluronan in isolation.
+“We constantly deal with the coupling of biochemistry, chemical signaling, and mechanics, so having something that isolates the mechanics from the signaling so we can focus on just the mechanics is really useful,” Curtis said.
+Wenbin Wei and Jessica Faubel of Georgia Tech were the study’s first authors. These researchers co-authored the study: Hemaa Selvakumar, Daniel T. Kovari, Joanna Tsao, Amar T. Mohabir, Michelle Krecker, and Michael A. Filler from Georgia Tech; Felipe Rivas, Elaheh Rahbar, and Adam Hall from the Virginia Tech-Wake Forest University School of Biomedical Engineering and Sciences; and Jennifer Washburn and Paul Weigel from the University of Oklahoma. The research was funded by the National Science Foundation (grants #0955811, 1709897 and 1205878). Any findings, conclusions, and recommendations are those of the authors and not necessarily of the National Science Foundation.
+Senior Science Writer & Media Representative : Ben Brumfield (404-272-2780)
+Email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

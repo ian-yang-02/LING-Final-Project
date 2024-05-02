@@ -1,0 +1,76 @@
+a future colorfully lit by the mystifying physics of paint-on semiconductors 
+ bucking conventional wisdom about semiconductors, a new class of light-emitting materials is flexible, easily produced from solution, and could be painted onto a surface. 
+ laser light in the visible range is processed for use in the testing of quantum properties in materials in carlos silva's lab at georgia tech. credit: georgia tech / allison carter 
+ mar 19, 2018 
+ — atlanta, ga 
+ [yes, hoip quantum properties look extremely robust, and their physics are mystifying] 
+ some novel materials that sound too good to be true turn out to be true and good. an emergent class of semiconductors, which could affordably light up our future with nuanced colors emanating from lasers, lamps, and even window glass, could be the latest example. 
+ these materials are very radiant, easy to process from solution, and energy-efficient. the nagging question of whether hybrid organic-inorganic perovskites (hoips) could really work just received a very affirmative answer 
+ in a new international study 
+ led by physical chemists at the georgia institute of technology. 
+ with significant effort, researchers succeeded in testing an existing hoip and observed a “richness” of semiconducting physics created by what could be described as electrons dancing on chemical underpinnings that wobble like a funhouse floor in an earthquake. that bucks conventional wisdom because established 
+ semiconductors 
+ rely upon rigidly stable chemical foundations, that is to say, quieter molecular frameworks, to produce the desired quantum properties. 
+ “we don’t know yet how it works to have these stable quantum properties in this intense molecular motion,” said first author felix thouin, a graduate research assistant at georgia tech. “it defies physics models we have to try to explain it. it’s like we need some new physics.” 
+ quantum properties surprise 
+ their gyrating jumbles have made hoips challenging to examine, but the team of researchers from a total of five research institutes in four countries succeeded in measuring a prototypical hoip and found its quantum properties on par with those of established, molecularly rigid semiconductors, many of which are 
+ graphene -based. 
+ “the properties were at least as good as in those materials and may be even better,” said 
+ carlos silva, a professor in georgia tech’s school of chemistry and biochemistry . not all semiconductors also absorb and emit light well, but hoips do, making them 
+ optoelectronic 
+ and thus potentially useful in lasers, leds, other lighting applications, and also in photovoltaics. 
+ the lack of molecular-level rigidity in hoips also plays into them being more flexibly produced and applied. 
+ silva co-led the study with physicist 
+ ajay ram srimath kandada . their team published the results of their study on two-dimensional hoips on march 8, 2018, 
+ in the journal 
+ physical review materials . their research was funded by eu horizon 2020, the natural sciences and engineering research council of canada, the fond québécois pour la recherche, the research council of canada, and the national research foundation of singapore. 
+ the ‘solution solution’ 
+ commonly, semiconducting properties arise from static crystalline lattices of neatly interconnected atoms. in silicon, for example, which is used in most commercial solar cells, they are interconnected silicon atoms. the same principle applies to graphene-like semiconductors. 
+ “these lattices are structurally not very complex,” silva said. “they’re only one atom thin, and they have strict two-dimensional properties, so they’re much more rigid.” 
+ “you forcefully limit these systems to two dimensions,” said srimath kandada, who is a 
+ marie curie international fellow 
+ at georgia tech and the italian institute of technology. “the atoms are arranged in infinitely expansive, flat sheets, and then these very interesting and desirable optoelectronic properties emerge.” 
+ these proven materials impress. so, why pursue hoips, except to explore their baffling physics? because they may be more practical in important ways. 
+ “one of the compelling advantages is that they’re all made using low-temperature processing from solutions,” silva said. “it takes much less energy to make them.” 
+ by contrast, graphene-based materials are produced at high temperatures in small amounts that can be tedious to work with. “with this stuff (hoips), you can make big batches in solution and coat a whole window with it if you want to,” silva said. 
+ funhouse in an earthquake 
+ for all an hoip’s wobbling, it’s also a very ordered lattice with its own kind of rigidity, though less limiting than in the customary two-dimensional materials. 
+ “it’s not just a single layer,” srimath kandada said. “there is a very specific perovskite-like geometry.” 
+ perovskite 
+ refers to the shape of an hoips crystal lattice, which is a layered scaffolding. 
+ “the lattice self-assembles,” srimath kandada said, “and it does so in a three-dimensional stack made of layers of two-dimensional sheets. but hoips still preserve those desirable 2d quantum properties.” 
+ those sheets are held together by interspersed layers of another molecular structure that is a bit like a sheet of rubber bands. that makes the scaffolding wiggle like a funhouse floor. 
+ “at room temperature, the molecules wiggle all over the place. that disrupts the lattice, which is where the electrons live. it’s really intense,” silva said. “but surprisingly, the quantum properties are still really stable.” 
+ having quantum properties work at room temperature without requiring ultra-cooling is important for practical use as a semiconductor. 
+ going back to what hoip stands for -- hybrid organic-inorganic 
+ perovskites 
+ – this is how the experimental material fit into the hoip chemical class: it was a hybrid of inorganic layers of a lead iodide (the rigid part) separated by organic layers (the rubber band-like parts) of phenylethylammonium (chemical formula (pea) 2 pbi 4 ). 
+ the lead in this prototypical material could be swapped out for a metal safer for humans to handle before the development of an applicable material. 
+ electron choreography 
+ hoips are great semiconductors because their electrons do an acrobatic square dance. 
+ usually, electrons live in an orbit around the nucleus of an atom or are shared by atoms in a chemical bond. but hoip chemical lattices, like all semiconductors, are configured to share electrons more broadly. 
+ energy levels in a system can free the electrons to run around and participate in things like the flow of electricity and heat. the orbits, which are then empty, are called electron holes, and they want the electrons back. 
+ “the hole is thought of as a positive charge, and of course, the electron has a negative charge,” silva said. “so, hole and electron attract each other.” 
+ the electrons and holes race around each other like dance partners pairing up to what physicists call an “ exciton .” excitons act and look a lot like particles themselves, though they’re not really particles. 
+ hopping biexciton light 
+ in semiconductors, millions of excitons are correlated, or choreographed, with each other, which makes for desirable properties, when an energy source like electricity or laser light is applied. additionally, excitons can pair up to form biexcitons, boosting the semiconductor’s energetic properties. 
+ “in this material, we found that the biexciton binding energies were high,” silva said. “that’s why we want to put this into lasers because the energy you input ends up to 80 or 90 percent as biexcitons.” 
+ biexcitons bump up energetically to absorb input energy. then they contract energetically and pump out light. that would work not only in lasers but also in leds or other surfaces using the optoelectronic material. 
+ “you can adjust the chemistry (of hoips) to control the width between biexciton states, and that controls the wavelength of the light given off,” silva said. “and the adjustment can be very fine to give you any wavelength of light.” 
+ that translates into any color of light the heart desires. 
+ like this article?  get our email newsletter here. 
+ also read this materials article: turbocharging fuel cells with a multifunctional nanocatalyst 
+ coauthors of this paper were stefanie neutzner and annamaria petrozza from the italian institute of technology (iit); daniele cortecchia from iit and nanyang technological university (ntu), singapore; cesare soci from the centre for disruptive photonic technologies, singapore; teddy salim and yeng ming lam from ntu; and vlad dragomir and richard leonelli from the university of montreal. the research was funded 
+ by: 
+ the eu horizon 2020’s curie fellowship (project 705874); the eu 2020 research and innovation program (grant # 643238 synchronics); the natural sciences and engineering research council of canada and fond québécois pour la recherche: nature et technologies; the canadian foundation for innovation, the natural science and engineering research council of canada; and the national research foundation of singapore (nrf-crp14-2014-03). any findings and opinions are those of the authors and not necessarily of the funding agencies. 
+ additional images 
+ contact 
+ writer & media representative : ben brumfield (404-660-1408) 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

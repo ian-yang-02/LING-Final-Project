@@ -1,0 +1,36 @@
+Georgia Tech Awarded $1.5M to Build People-Centric Network for National Research Database
+The $1.5M project aims to raise visibility for researchers at HBCUs and Minority Serving Institution (MSIs).
+The project team includes faculty members from HBCUs and MSIs. From left to right: Kinnis Gosha (Morehouse College), Sajid Hussain (Fisk University), Lila Ghemri (Texas Southern University), Lew Lefton (Georgia Tech), and Kexin Rong (Georgia Tech).
+Nov 13, 2023
+Open access to research data and information will be key to spur the next wave of solutions to the world’s most complex problems. With that in mind, the National Science Foundation (NSF) is creating the first-ever
+prototype open knowledge network .
+Known as Proto-OKN, it will be a free, publicly available, searchable database containing troves of research data from major U.S. government agencies. The project aims to fuel the next data revolution in support of data-centric solutions to societal challenges. A team at the Georgia Institute of Technology is going to help build it.
+With an award of $1.5 million, the Georgia Tech team will design a layer of the network known as a knowledge graph – a tool that facilitates data and knowledge sharing using nodes and edges and is similar to a social network. But unlike the other 17 teams working on the NSF effort, Georgia Tech’s contribution will focus on the entity most crucial for scientific breakthroughs: people. One of the team’s primary goals is to raise visibility for researchers often left out of the current research collaboration landscape.
+Lew Lefton , emeritus faculty in the
+School of Mathematics
+and former associate vice president for Research Computing, will lead the project. The team includes
+Kexin Rong , assistant professor in the
+College of Computing , and
+Didier Contis , executive director of Academic Technology, Innovation, Research Computing in the  Office of Information Technology . Their knowledge graph will be centered on people, research topics, and organizations with a focus on elevating researchers at Historically Black Colleges and Universities (HBCUs) and Minority Serving Institutions (MSIs).
+“Research collaborations are driven by people making connections, but how do you connect to other researchers if you don’t know who they are?” Lefton said. “Current tools or search engines are biased to showing people with the most funding and prestige. Our tool will identify potential collaborators who have similar research interests but who may not be as well-known.”
+Most tools and databases on research activity start with data from the top R1 institutions where the most federal funding is concentrated. Lefton’s team will instead build the network starting with data from researchers at HBCUs and MSIs. While often doing cutting-edge research like their counterparts at institutes like Georgia Tech and MIT, these researchers face challenges in finding collaborators and securing federal funding due to heavy teaching loads and a lack of internal research support infrastructure.
+“In talking to our partners, we found that their biggest challenges are not in researching the state of the field or doing a literature review – the biggest challenge is finding collaborators,” Rong said.
+Using a human-centered design approach, the Georgia Tech team will incorporate open data sources and infrastructures to create a tool to help researchers at these institutions find collaborators. The team will work with colleagues at HBCUs – Fisk University, Texas Southern University, Morehouse College, and the University at Buffalo – to both build the network and do iterative design based on that target audience's needs. In the design process, they will work together to identify gaps to make sure researchers are sufficiently represented.
+The team will advance and refine state-of-the-art algorithms and machine learning models that take in research journal articles, conference proceedings, preprints, patents, and theses, and extract who worked on them and what topics they cover.
+The team will also use the award to expand and launch CollabNext, a proof-of-concept tool created at Georgia Tech that helps HBCU and Georgia Tech researchers connect. The
+CollabNext portal
+will serve as the front-end interface for the team’s knowledge graph.
+“The current research collaboration landscape leans toward ‘winner takes all,’ and because extremely successful researchers are more visible, they become even more successful,” Rong said. “With this project, we want to give talented researchers more visibility, which will hopefully increase their chances of success.”
+Georgia Tech is particularly invested in expanding research collaborations with HBCUs and has undertaken several
+initiatives towards that effort . The team hopes the tool will make it easier for both researchers at HBCUs and MSIs to find collaborators and researchers at other universities to find collaborators at HBCUs and MSIs.
+It is statistically impossible to know who or where the next big scientific breakthrough will come from, Lefton said. It could be from a researcher who is not well known but who happened to have the right idea at the right time. But with money and influence concentrated in specific places, it is all too easy to not notice a great new idea.
+“As a society we are facing difficult and complex challenges,” Lefton said. “In my opinion, the best approach to solving these problems is to consider many different perspectives and ideas, and that means we need everyone at the table.”
+Additional Images
+Contact
+Catherine Barzler, Senior Research Writer/Editor
+catherine.barzler@gatech.edu
+Email
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

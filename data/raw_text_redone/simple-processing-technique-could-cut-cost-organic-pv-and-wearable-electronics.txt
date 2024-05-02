@@ -1,0 +1,42 @@
+simple processing technique could cut cost of organic pv and wearable electronics 
+ a simple solution-based processing technique could help reduce the cost of polymer solar cells. 
+ close-up of a polymer film on a glass substrate before immersion in a polyoxometalte solution to electrically dope the film over a limited depth. (credit: christopher moore, georgia tech) 
+ dec 05, 2016 
+ — atlanta 
+ a simple solution-based electrical doping technique could help reduce the cost of polymer solar cells and organic electronic devices, potentially expanding the applications for these technologies. by enabling production of efficient single-layer solar cells, the new process could help move organic photovoltaics into a new generation of wearable devices and enable small-scale distributed power generation. 
+ developed by researchers at the georgia institute of technology and colleagues from three other institutions, the technique provides a new way of inducing p-type electrical doping in organic semiconductor films. the process involves briefly immersing the films in a solution at room temperature, and would replace a more complex technique that requires vacuum processing. 
+ “our hope is that this will be a game-changer for organic photovoltaics by further simplifying the process for fabricating polymer-based solar cells,” said 
+ bernard kippelen , director of georgia tech’s 
+ center for organic photonics and electronics 
+ and a professor in the 
+ school of electrical and computer engineering . “we believe this technique is likely to impact many other device platforms in areas such as organic printed electronics, sensors, photodetectors and light-emitting diodes.” 
+ sponsored by the office of naval research, the work was reported december 5 in the journal 
+ nature materials . the research also involved scientists from the university of california at santa barbara, kyushu university in japan, and the eindhoven university of technology in the netherlands. 
+ the technique consists of immersing thin films of organic semiconductors and their blends in polyoxometalate (pma and pta) solutions in nitromethane for a brief time – on the order of minutes. the diffusion of the dopant molecules into the films during immersion leads to efficient p-type electrical doping over a limited depth of 10 to 20 nanometers from the surface of the film. the p-doped regions show increased electrical conductivity and high work function, reduced solubility in the processing solvent, and improved photo-oxidation stability in air. 
+ this new method provides a simpler alternative to air-sensitive molybdenum oxide layers used in the most efficient polymer solar cells that are generally processed using expensive vacuum equipment. when applied to polymer solar cells, the new doping method provided efficient hole collection. for the first time, single-layer polymer solar cells were demonstrated by combining this new method with spontaneous vertical phase separation of amine-containing polymers that leads to efficient electron collection at the opposing electrode. the geometry of these new devices is unique as the functions of hole and electron collection are built into the light-absorbing active layer, resulting in the simplest single-layer geometry with few interfaces. 
+ “the realization of single-layer photovoltaics with our approach enables both electrodes in the device to be made out of low-cost conductive materials,” said canek fuentes-hernandez, a senior research scientist in kippelen’s research group. “this offers a dramatic simplification of a device geometry, and it improves the photo-oxidation stability of the donor polymer. although lifetime and cost analysis studies are needed to assess the full impact of these innovations, they are certainly very exciting developments on the road to transform organic photovoltaics into a commercial technology.” 
+ by simplifying the production of organic solar cells, the new processing technique could allow fabrication of solar cells in areas of africa and latin america that lack capital-intensive manufacturing capabilities, said felipe larrain, a ph.d. student in kippelen’s lab. 
+ “our goal is to further simplify the fabrication of organic solar cells to the point at which every material required to fabricate them may be included in a single kit that is offered to the public,” larrain said. “the solar cell product may be different if you are able to provide people with a solution that would allow them to make their own solar cells. it could one day enable people to power themselves and be independent of the grid.” 
+ organic solar cells have been studied in many academic and industrial laboratories for several decades, and have experienced a continuous and steady improvement in their power conversion efficiency with laboratory values reaching 13 percent – compared to around 20 percent for commercial silicon-based cells. though polymer-based cells are currently less efficient, they require less energy to produce than silicon cells and can be more easily recycled at the end of their lifetime. 
+ “being able to process solar cells entirely at room temperature using this simple solution-based technique could pave the way for a scalable and vacuum-free method of device fabrication, while significantly reducing the time and cost associated with it,” said vladimir kolesov, a ph.d. researcher and the paper’s lead author. 
+ beyond solar cells, the doping technique could be more broadly used in other areas of organic electronics, noted ph.d. researcher wen-fang chou. “with its simplicity, this is truly a promising technology offering adjustable conductivity of semiconductors that could be applied to various organic electronics, and could have huge impact on the industry for mass production.” 
+ also at georgia tech, the research involved professors samuel graham and seth marder, both from the center for organic photonics and electronics. beyond georgia tech, the project also involved naoya aizawa from kyushu university; ming wang, guillermo bazan and thuc-quyen nguyen from the university of california santa barbara, and alberto perrotta from eindhoven university of technology, 
+ this work was funded in part by the department of the navy, office of naval research award no. n00014-14-1-0580 and n00014-16-1-2520, through the muri center caop, office of naval research award n00014-04-1-0313 and by the department of energy through the bay area photovoltaic consortium under award number de-ee0004946. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsors. 
+ citation : vladimir a. kolesov, et al., “solution-based electrical doping of semiconducting polymer films over a limited depth,” (nature materials, 2016). 
+ http: / / dx.doi.org / 10.1038 / nmat4818 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,40 @@
+researchers uncover new instruction manual to repair broken dna 
+ researchers have discovered how the rad52 protein is a crucial player in rna-dependent dna repair. 
+ georgia tech researcher havva keskin observes the frequencies of rna-templated dna repair in yeast cells. (credit: rob felt, georgia tech) 
+ jun 08, 2017 
+ — atlanta, ga 
+ drexel university and georgia institute of technology researchers have discovered how the rad52 protein is a crucial player in rna-dependent dna repair. the results of their study, published june 8 
+ in the journal 
+ molecular cell , uncover a surprising function of the homologous recombination protein rad52. they also may help to identify new therapeutic targets for cancer treatment. 
+ radiation and chemotherapy can cause a dna double-strand break, one of the most harmful types of dna damage. the process of homologous recombination — which involves the exchange of genetic information between two dna molecules — plays an important role in dna repair, but certain gene mutations can destabilize a genome. for example, mutations in the tumor suppressor brca2, which is involved in dna repair by homologous recombination, can cause the deadliest form of breast and ovarian cancer. 
+ alexander mazin, a professor at drexel university’s college of medicine, and francesca storici, an associate professor at georgia tech’s school of biological sciences, have dedicated their research to studying mechanisms and proteins that promote dna repair. 
+ in 2014, storici and mazin made a major breakthrough when they discovered that rna can serve as a template for the repair of a dna double-strand break in budding yeast, and rad52, a member of the homologous recombination pathway, is an important player in that process. 
+ “we provided evidence that rna can be used as a donor template to repair dna and that the protein rad52 is involved in the process,” said mazin. “but we did not know exactly how the protein is involved.” 
+ in their current study, the research team uncovered the unusual, important role of rad52: it promotes “inverse strand exchange” between double-stranded dna and rna, meaning that the protein has a novel ability to bring together homologous dna and rna molecules. in this rna-dna hybrid, rna can then be used as a template for accurate dna repair. 
+ it appeared that this ability of rad52 is unique in eukaryotes, as otherwise similar proteins do not possess it. 
+ “strikingly, such inverse strand exchange activity of rad52 with rna does not require extensive processing of the broken dna ends, suggesting that rna-templated repair could be a relatively fast mechanism to seal breaks in dna,” storici said. 
+ as a next step, the researchers hope to explore the role of rad52 in human cells. 
+ “dna breaks play a role in many degenerative diseases of humans, including cancer,” storici added. “we need to understand how cells keep their genomes stable. these findings help bring us closer to a detailed understanding of the complex dna repair mechanisms.” 
+ the research was supported by the national institutes of health, the national science foundation and the howard hughes medical institute. 
+ these results offer a new perspective on the multifaceted relationship between rna, dna and genome stability. they also may help to identify new therapeutic targets for cancer treatment. it is known that active rad52 is required for proliferation of brca-deficient breast cancer cells. targeting this protein with small molecule inhibitors is a promising anticancer strategy.  however, the critical activity of rad52 required for cancer proliferation is currently unknown. 
+ this new rad52 activity in dna repair, discovered by mazin, storici and their team, may represent this critical protein activity that can be targeted with inhibitors to develop more specific — and less toxic — anti-cancer drugs. understanding of the mechanisms of rna-directed dna repair may also lead to development of new rna-based mechanisms of genome engineering. 
+ this research was supported by the national institute of general medical sciences (nigms) of the nih (grant gm115927), the national science foundation (grant 1615335), and the howard hughes medical institute faculty scholar program (grant 55108574). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ written by drexel university. 
+ citation : olga m. mazina, havva keskin, kritika hanamshet, francesca storici, 
+ alexander v. mazin, “rad52 inverse strand exchange drives rna templated 
+ dna double-strand break repair,” (molecular cell, 2017). http: / / dx.doi.org / 10.1016 / j.molcel.2017.05.019 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : georgia tech – john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu) or drexel university -- lauren ingeno, (215-895-2614) (lmi28@drexel.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

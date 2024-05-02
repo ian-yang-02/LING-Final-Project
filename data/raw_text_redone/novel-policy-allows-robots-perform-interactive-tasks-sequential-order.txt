@@ -1,0 +1,25 @@
+novel policy allows robots to perform interactive tasks in sequential order 
+ a georgia tech ph.d. student has created a new framework that enables a four-legged robot to perform increasingly complex tasks without relearning motions. 
+ aug 18, 2023 
+ georgia tech ph.d. student niranjan kumar created the cascaded compositional residual learning (ccrl) framework, enabling a quadrupedal robot to perform increasingly complex tasks without relearning motions, mirroring human learning, showcased by the robot opening a heavy door using energy transfer, a remarkable achievement in robotics. 
+ the ccrl, however, functions as a “library” that allows the robot to remember everything it has learned while performing the simple tasks. each newly obtained skill is added to the library and leveraged for more complex skills. a turning motion, for instance, can be learned on top of walking while serving as the basis for navigation skills. 
+ kumar said ccrl has broken new ground on interactive navigation research. interactive navigation is one of several navigation solutions that allow robots to navigate in the real world. these solutions include point navigation, which trains a robot to reach a point on a map, and object navigation, which teaches it to reach a selected object. 
+ interactive navigation requires a robot to reach a goal location while interacting with obstacles on the way, which has proven to be the most difficult for robots to learn. 
+ the key, kumar said, to get a robot to go from walking to pushing an object is in the joints and the robot discovering the different types of motions it can make with them. 
+ so far, kumar’s policy has reached 10 skills that a robot can learn and deploy. the number of skills it can learn on one policy depends on the hardware the programmer is using. 
+ “it just takes longer to train as you keep adding more skills because now the policy also has to figure out how to incorporate all these skills in different situations,” he said. “but theoretically, you can keep adding more skills indefinitely as long as you have a powerful enough computer to run the policies.” 
+ kumar said he sees ccrl being useful for home assistant robots, which are required to be agile and limber to navigate around a cluttered household. he also said it could possibly serve as a guide dog for the visually impaired. 
+ “if you have obstacles in front of someone who is visually impaired, the robot can just clear up the obstacles as the person is walking, open the door for them, and things like that,” he said. 
+ additional images 
+ related links 
+ four-legged robot kicks open door at georgia tech 
+ contact 
+ nathan deen 
+ communications officer i 
+ school of interactive computing 
+ nathan.deen@cc.gatech.edu 
+ email 
+ nathan.deen@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,52 @@
+A New Framework for Measuring Stability During Walking
+By using mechanical energetics to measure stability, Georgia Tech researchers gain deeper insights into how and why we fall.
+Pawel Golyski uses a computer to operate the CAREN during experiments.
+Jul 29, 2022
+— Atlanta, GA
+Falls are a serious public health issue, resulting in tens of thousands of deaths annually and racking up billions of dollars in healthcare costs. While there has been extensive research into the biomechanics of falls, most current approaches study how the legs, joints, and muscles act separately to respond, rather than as a system. The ability to measure how these different levels relate to each other could paint a much clearer picture of why someone falls and precisely how their body compensates. Until recently, however, an integrated measuring approach has been elusive.
+In newly published research, Pawel Golyski and his Ph.D. advisor
+Gregory Sawicki , associate professor of
+mechanical engineering
+and
+biological sciences
+at Georgia Tech, investigate whether mechanical energy can be used as a “common currency” to measure how humans use lower limbs to stabilize during walking.
+Their research , published in the
+Journal of the Royal Society Interface , lays the groundwork for using mechanical energetics to understand the roles of joints and muscles during unsteady locomotion. The paper also contributed to Golyski’s selection as this year’s recipient of the
+American Society of Biomechanics’
+(ASB)
+Pre-Doctoral Achievement Award
+— a prestigious honor that considers a candidate’s entire portfolio of publications.
+Golyski, a graduating member of Sawicki’s
+Physiology of Wearable Robotics (PoWeR) Lab , previously worked as a research scientist with individuals with lower-limb amputation at
+Walter Reed National Military Medical Center . For his graduate work at Georgia Tech, his aim was to develop an understanding of how devices and the human body work together, specifically at the intersection of three elements: muscle mechanics, wearable exoskeletons, and stability during walking.
+Each of the three elements relates to the others. Exoskeletons affect a person’s stability while also affecting how their muscles work, and vice versa. But to examine how muscles both interact with exoskeletons and affect stability makes for an interesting challenge, Golyski says. Because, while one can observe how muscle dynamics change with the use of an exoskeleton, how those changes relate to stability is not understood. To understand how all three pillars work together to help humans compensate during a fall, Golyski and Sawicki needed to come up with a new framework to measure stability.
+Energy Accountants
+The researchers knew that for a person walking at a steady speed on level ground, the net mechanical energy of the person and each leg over one stride — from the heel strike of one leg to the next heel strike of that same leg — is zero. They also knew that energy needed to be equal to mechanical energy at all levels of description of the leg, specifically the joints and muscles.
+"The idea is that if we can relate stability to a demand in energy, then we can become accountants, and track how the energy — our currency — changes at the level of the person, muscle, and exoskeleton," Golyski said. “That provides a really powerful framework to relate all three of those areas.”
+Golyski and Sawicki designed an experiment with a person walking on a treadmill. Using a split-belt treadmill, they applied short, quick disturbances, known as perturbations, in the form of increases in belt speed to one leg during walking. The purpose was to inject or extract energy during a stride, so that they could then measure how the person’s leg and joint energies change.
+For the experiment they used Georgia Tech’s
+CAREN
+(Computer Assisted Rehabilitation Environment) — an integrated system used to study stability during movement. It features cameras mounted above a treadmill to track a person’s movement using motion capture markers attached to the person. Using an algorithm designed by Golyski, Sawicki, PoWeR lab Ph.D. student Jennifer Leestma, and a high school mentee, Esmeralda Vazquez, the CAREN can execute perturbations based on a person’s movements — enabling the researchers to initiate perturbations at specific times in the gait cycle. By combining the force of the treadmill with the positional data collected by the CAREN, Golyski and Sawicki can calculate the changes in energy in a person’s individual joints.
+Their new framework could assist in determining which part of a person’s body manages responses to destabilizing energy, pointing to specific muscles or joints to target with rehabilitation therapy. It could also open doors to advanced exoskeletons and prostheses that target specific joints to restore stabilizing responses in individuals with impaired balance.
+“The body of research that Pawel completed during his doctoral studies is nothing short of impressive. He broke new ground by developing new experimental techniques and a new hip exoskeleton assistive device, making first-of-a-kind muscle imaging measurements, and ultimately answering the question of how exoskeletons modify joint and muscle dynamics to influence human walking stability,” Sawicki said. “I was thrilled that Pawel’s outstanding contributions as a scientist-engineer were recognized by ASB, and I’m even more thrilled that he will return to Walter Reed — his dream job — to apply his new skillset to help people get from here to there.”
+This summer, as part of this recognition, Golyski will deliver a research talk during an awards session at the
+North American Congress on Biomechanics
+in Ottawa, Ontario. He will also be graduating from Georgia Tech and resuming his work with veterans and active service members at Walter Reed.
+Citation : Golyski, Pawel R. and Gregory S. Sawicki, “Which lower limb joints compensate for destabilizing energy during walking in humans?” Journal of the Royal Society Interface.192022002420220024 01 June 2022
+DOI :
+doi.org/10.1098/rsif.2022.0024
+Funding : This research was supported by the U.S. Army Natick Soldier Research, Development, and Engineering Center (grant no. W911QY18C0140) to G.S.S. and the National Science Foundation (grant no. DGE-1650044) to P.R.G.
+Writer : Catherine Barzler
+Photography : Rob Felt
+Media Contact : Catherine Barzler |
+catherine.barzler@gatech.edu
+###
+The Georgia Institute of Technology, or Georgia Tech, is a top 10 public research university developing leaders who advance technology and improve the human condition. The Institute offers business, computing, design, engineering, liberal arts, and sciences degrees. Its nearly 44,000 students, representing 50 states and 149 countries, study at the main campus in Atlanta, at campuses in France and China, and through distance and online learning. As a leading technological university, Georgia Tech is an engine of economic development for Georgia, the Southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society.
+Additional Images
+Contact
+Catherine Barzler, Senior Research Writer/Editor
+Email
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

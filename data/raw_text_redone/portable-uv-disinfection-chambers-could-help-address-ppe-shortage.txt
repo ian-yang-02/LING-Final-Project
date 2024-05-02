@@ -1,0 +1,38 @@
+portable uv disinfection chambers could help address ppe shortage 
+ portable disinfection chambers that use ultraviolet (uv) light to inactivate virus particles could allow ppe to be quickly disinfected. 
+ the portable uv disinfection chamber was designed to accommodate at least one face shield, along with multiple face masks. mercury vapor tubes on both sides provide ultraviolet light to disinfect the ppe. (credit: robert harris) 
+ aug 10, 2020 
+ — atlanta, ga 
+ portable disinfection chambers that use ultraviolet (uv) light to inactivate virus particles could allow emergency medical technicians, police officers, healthcare workers, pharmacy technicians, and others to quickly disinfect their personal protective equipment (ppe) as they need it. 
+ researchers at the 
+ georgia tech research institute 
+ (gtri) have built two prototype chambers to evaluate ppe disinfection using different sources of uv-c light: mercury vapor lamps and light-emitting diodes (leds). they used the prototypes to evaluate different power levels and disinfection times with a variety of face shields and face masks used to protect workers from the coronavirus. 
+ “there are tradeoffs in terms of cost, lifetime, and potential heat generated,” said t. robert harris, a gtri research engineer. “we wanted to evaluate these issues so that when others use uv-c for disinfecting ppe, they will have information to make good choices.” 
+ the goal was to provide disinfection chambers as small as possible to allow portability. the chambers were built to accommodate face masks and at least one face shield – a curved sheet of clear plastic that covers the entire face and protects against large droplets that could contain coronavirus. the portability of the chambers could allow them to be used anywhere ppe disinfection is needed. 
+ “we wanted a box that would fit on an ambulance or in a police car so that public service staff who are coming into contact with a lot of people on a regular basis would be able to disinfect their ppe,” harris said. “this method offers an advantage over chemical disinfection because it doesn’t require drying time or risk of chemical absorption.” 
+ originally, the project aimed at disinfecting ppe while it was being worn by having healthcare workers walk past an ultraviolet source while going from one hospital room to another. that idea was dropped because the wavelengths needed to inactivate the virus – 280 nanometers – can cause skin and eye damage in humans. 
+ for that reason, the prototype portable disinfection chambers include a safety interlock to prevent the door from being opened while the uv light is on. disinfection takes about eight minutes, depending on the intensity of uv emissions, which vary by the lighting source. the chambers are designed to be cleaned between uses. 
+ “healthcare workers would put their face masks and face shields into the box, close the lid, and set the timer,” harris explained. “they would swap out one set of ppe while the other set was being disinfected.” 
+ ultraviolet light can damage plastic items, but harris and his colleagues didn’t attempt to evaluate how many disinfection cycles the ppe could withstand. “you would expect uv to ultimately degrade ppe materials in the same way that sunlight slowly degrades polymer materials,” he said. 
+ the research team designed the chambers to provide the level of uv exposure that earlier studies had shown would inactivate the closely related sars-cov virus by damaging its outer shell and rna. the researchers did not attempt to evaluate the ability of the uv light to inactivate the sars-cov-2 virus that causes covid-19. 
+ other engineering considerations included the need for cooling the uv sources, providing consistent exposure of the ppe to uv light using reflective walls in the chambers, and protecting the mercury vapor lamps from damage during use. 
+ ultraviolet light is now used in water and wastewater sanitation, food disinfection, killing pathogens in hvac systems, and other purposes. because of the growing number of applications, finding enough mercury vapor lamps and led sources was a challenge for the research program, which was funded by gtri’s independent research and development program. 
+ harris hopes the project will encourage others to further develop uv-based portable disinfection systems to supplement other methods for protecting people who encounter the coronavirus. 
+ “this work is part of a realization that multiple tools – including handwashing, surface disinfection, face masks, uv disinfection, social distancing, and other steps – are important and much more powerful when done together,” he said. “we should all use every tool we have at our disposal to combat this virus and really think about things carefully to break every link in the chain of contagious transmission.” 
+ beyond harris, the research team included roger campbell, ashton hattori, eric brown, christopher hollis, max schureck, howard atchley, john stone, michael grady, and benjamin yang. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,52 @@
+Searching for Science in the Solar Darkness
+Scientists have long used eclipses to learn more about the sun and the Earth.
+Aug 15, 2017
+— Atlanta, GA
+Eclipses darken our skies, but for centuries they’ve shed light about how the sun works and affects Earth. When the moon blocks the sun’s rays, a window opens for scientists to study the heavens in ways they usually can’t.
+In the 21st century, science is no longer limited by the rarity of total eclipses. These events can now be simulated in computers. The instruments of the orbiting
+Solar Dynamics Observatory
+and the
+Solar and Heliospheric Observatory
+are constantly trained on our life-giving star.
+With all this technology, can eclipses still serve as old-school windows into scientific discoveries? They can, says
+Morris Cohen , assistant professor in the
+School of Electrical and Computer Engineering
+and a member of the
+Center for Space Technology and Research (C-STAR ).
+Eclipses allow experiments to take place in natural daylight and darkness at the same time. Simultaneous light and dark is what Cohen needs to study how the sun affects radio waves in Earth’s ionosphere. “We are using the unique properties of the eclipse to get a window into the physics of the upper atmosphere,” he says.
+In the weeks leading to the Aug. 21, 2017, total solar eclipse, Cohen’s team will deploy 30 receivers on either side of the path of totality. As the eclipse occurs, a patch of nighttime (shadow) surrounded by daytime will move cross-country.
+“Because the sun dominates the electrical properties of the upper atmosphere, this moving patch affects radio communications,” Cohen says. The ionosphere is tough to study because it’s too high for balloons and too low for satellites. A better understanding of this part of the atmosphere can improve satellite-based navigation and airline communications, which depend on radio waves in this region.
+To monitor the sun’s impact on the upper atmosphere, Cohen’s team will look at radio waves in this frequency band and examine how they are affected by the rapid shifts between light and dark that an eclipse enables. “We’ve never had a controlled experiment where we can shut off the sun so rapidly in a defined area,” Cohen says.
+Cohen is part of a long tradition – since 1223 B.C., the
+first record of a solar eclipse
+– of scientists and historians using the rare phenomenon to record observations, test theories, and conduct experiments. Earlier eclipses helped establish the existence of the solar corona, prominences (those loops of gas that shoot from the sun’s surface), and the element helium.
+Wild west eclipse
+Still reeling from the Civil War, America decided in 1878 to use a solar eclipse to establish its scientific credibility to the rest of the world.
+“I was fascinated by how this country pulled together and intentionally wanted to prove that we weren’t just this backward country that was strong economically and good at industrial production, but frankly wasn’t that intellectual,” says
+David Baron , science journalist and author of “ American Eclipse .”
+The book is about the July 29, 1878 event and how it galvanized the country’s scientific community. “This eclipse inspired this nation to come together,” Baron says.
+Scientists traveled by train to Wyoming and Colorado to investigate the 1878 total solar eclipse. They included a young Thomas Edison, eager to try his new solar heat measurement device, a tasimeter; Maria Mitchell, one of the few women U.S. scientists at the time; and James Craig Watson, a noted astronomer and discoverer of asteroids.
+Mitchell and Watson risked attacks from bandits and warring Indian tribes to search for Vulcan, a planet believed to exist between Mercury and the sun. They hoped to find it during the eclipse’s totality. They didn’t.
+Edison’s tasimeter, meanwhile, “was a terrible flop,” Baron says, although it could be viewed as the first step in the development of detectors used in infrared astronomy.
+“From a scientific standpoint, the 1878 eclipse didn’t amount to anything,” he says. Yet from a cultural and intellectual perspective, it lit the way for future breakthroughs. “It made a huge difference,” Baron says. “It rallied the country to get behind its scientists.”
+Einstein was right
+If the statue of Albert Einstein near Tech Green could talk, it would remind everyone that a total solar eclipse helped confirm the
+theory of general relativity .
+Einstein’s 1915 theory challenged Isaac Newton’s long-established theory of gravity. According to Einstein, space and time form a fabric, which would bend and twist around the gravity of massive objects. The theory predicted that light passing near the warped fabric would curve rather than move in a straight line. The prediction was difficult to prove with early 20th-century technologies.
+British astronomers saw an opportunity in the May 29, 1919, total solar eclipse. On that day, the sun would pass in front of a large cluster of stars, the Hyades. The eclipse would temporarily extinguish the sun’s overpowering brightness, making visible any Hyades starlight skewed by the sun’s gravity.
+Astronomers noted the stars’ positions in the months before the eclipse. During the solar eclipse on May 29, 1919, they photographed the same stars’ positions.
+The photographs showed the stars in slightly different places, proving Einstein’s theory of general relativity. For this reason, the European Space Agency calls the 1919 event
+“probably the most important eclipse in the history of science.”
+Additional Images
+Related links
+How to Watch the Solar Eclipse at Georgia Tech
+Contact
+Renay San Miguel
+Communications Officer/Science Writer
+College of Sciences
+404-894-5209
+Email
+renay.san@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

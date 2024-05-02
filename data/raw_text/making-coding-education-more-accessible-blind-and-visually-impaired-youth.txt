@@ -1,0 +1,24 @@
+Making Coding Education More Accessible for Blind and Visually Impaired Youth
+A research team led by Brian Magerko is working to solve this problem by adapting EarSketch for blind and visually impaired youth.
+From left to right: Brian Magerko, Jason Freeman, Stephen Garrett
+Jun 21, 2023
+There are many fun and exciting ways to engage young people with coding — animation, games, robotics. The only problem: they’re largely visual and not accessible for those who are blind or visually impaired.
+A research team led by  Brian Magerko , professor of Digital Media at Georgia Tech, is working to solve this problem by adapting  EarSketch , a platform designed to teach students to code in Python or JavaScript through music and creative discovery, for blind and visually impaired youth. Since launching in 2011, the free EarSketch platform has been used by more than a million students from all 50 U.S. states and in more than 100 countries.
+The effort will be supported by an almost $3 million grant from the National Science Foundation (NSF).
+“EarSketch is about using music as a mechanism for giving an expressive, interesting, and personally meaningful medium for kids to learn about programming,” says Magerko. “With this grant, we’re looking at the role of sonification, taking data and making it audible, as a way to improve accessibility not only for the blind and visually impaired but also as a more natural way for people to engage with these interfaces.”
+Magerko, a professor in the School of Literature, Media, and Communication in the Ivan Allen College of Liberal Arts, will work with  Jason Freeman , professor and chair of Georgia Tech’s  School of Music  in the  College of Design ;  Stephen Garrett , research scientist in the School of Music;  Stephanie Ludi , professor of computer science at the University of North Texas;  Bryan Pardo , professor of computer science at Northwestern University; and the California School for the Blind.
+The group will also be working with blind and visually impaired musicians and producers to get their input on successful and unsuccessful musical interfaces.
+"Over the years, we've received many requests from teachers to make our EarSketch platform more accessible to students who are blind or visually impaired. We're thrilled to embark on this project that will help the platform to better serve these students—and indeed all students, engaging them in the unique combination of music and coding," says Freeman, co-creator of EarSketch.
+While a large part of the effort will be exploring what elements are needed to make EarSketch a successful learning tool for the blind and visually impaired, there are a few initial ideas including optimizing the system for screen reader compatibility and integrating collaborative AI (like ChatGPT) to discuss and help with building code, like an Alexa for coding, Magerko says.
+“Hopefully some of this work will influence how we design for everyone. There’s an idea that by designing toward the margins you can capture everyone in between. That’s really what we’re trying to do,” Magerko says.
+Additional Images
+Related links
+/node/661098
+Contact
+Megan McRainey
+megan.mcrainey@gatech.edu
+Email
+megan.mcrainey@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

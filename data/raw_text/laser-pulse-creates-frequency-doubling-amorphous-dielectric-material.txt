@@ -1,0 +1,43 @@
+Laser Pulse Creates Frequency Doubling in Amorphous Dielectric Material
+Researchers have demonstrated a new all-optical technique for creating robust second-order nonlinear effects in materials that don’t normally support them.
+A red laser creates nonlinear effects with tiny triangles of gold. The blue beam shows the frequency-doubled light and the green beam controls the hot-electron migration. (Credit: Rob Felt, Georgia Tech)
+Jan 07, 2020
+— Atlanta, GA
+Researchers have demonstrated a new all-optical technique for creating robust second-order nonlinear effects in materials that don’t normally support them. Using a laser pulse fired at an array of gold triangles on a titanium dioxide (TiO 2 ) slab, the researchers created excited electrons that briefly doubled the frequency of a beam from a second laser as it bounced off the amorphous TiO 2
+slab.
+By widening the range of optical materials useful for micro- and nanoscale optoelectronic applications, the work could give optical engineers new options for creating second-order nonlinear effects, which are important in such areas as optical computers, high-speed data processors and bioimaging safe for use in the human body.
+“Now that we can optically break the crystalline symmetry of traditionally linear materials such as amorphous titanium dioxide, a much wider range of optical materials can be adopted in the mainstream of micro- and nanotechnology applications such as high-speed optical data processors,” said Wenshan Cai, a professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology.
+The proof-of-concept findings were reported January 2 in the journal
+Physical Review Letters . The research received support from the Office of Naval Research, the National Science Foundation, and the U.S. Department of Energy Office of Science.
+A majority of optical materials tend to have a symmetric crystal structure that limits their ability to create second-order nonlinear effects such as frequency doubling that have important technological applications. Until now, this symmetry could only be interrupted by applying electrical signals or mechanical strain to the crystal.
+In the laboratory, Cai and collaborators Mohammad Taghinejad, Zihao Xu, Kyu-Tae Lee and Tianquan Lian created an array of tiny plasmonic gold triangles on the surface of a centrosymmetric TiO 2
+slab. They then illuminated the TiO 2 /gold structure with a pulse of red laser light, which acted as an optical switch for breaking the crystal symmetry of the material. The amorphous TiO 2
+slab would not naturally support strong second-order nonlinear effects.
+“The optical switch excites high-energy electrons inside the gold triangles, and some of the electrons migrate to the titanium dioxide from the triangles’ tips,” Cai explained. “Since the migration of electrons to the TiO 2
+slab primarily happens at the tips of triangles, the electron migration is spatially an asymmetric process, fleetingly breaking the titanium dioxide crystal symmetry in an optical fashion.”
+The induced symmetry breaking effect is observed almost instantaneously after the red laser pulse is triggered, doubling the frequency of a second laser that is then bounced off the titanium dioxide containing the excited electrons. The lifetime of the induced second-order nonlinearity generally depends on how fast electrons can migrate back from the titanium dioxide to the gold triangles after the disappearance of the pulse. In the case study reported by the researchers, the induced nonlinear effect lasted for a few picoseconds, which the researchers say is enough for most applications where short pulses are used. A stable, continuous wave laser can make this effect last for as long as the laser is on.
+“The strength of the induced nonlinear response depends on the number of electrons that can migrate from gold triangles to the titanium dioxide slab,” Cai added. “We can control the number of migrated electrons through the intensity of the red laser light. Increasing the intensity of the optical switch generates more electrons inside the gold triangles, and therefore sends more electrons into the TiO 2
+slab.”
+Additional research will be needed to build on the proof of concept, which showed for the first time that the crystal symmetry of centrosymmetric materials can be broken by optical means, via asymmetric electron migrations.
+“To approach the practical criteria detailed on the essence of our technique, we still need to develop guidelines that tell us what combination of metal/semiconductor material platform should be used, what shape and dimension would maximize the strength of the induced second-order nonlinear effect, and what range of laser wavelength should be used for the switching light,” Cai noted.
+Frequency doubling is just one potential application for the technique, he said.
+“We believe that our findings not only provide varieties of opportunities in the field of nonlinear nanophotonics, but also will play a major role in the field of quantum electron tunneling,” Cai added. “Indeed, built upon the accumulated knowledge in this field, our group is devising new paradigms to employ the introduced symmetry breaking technique as an optical probe for monitoring the quantum tunneling of electrons in hybrid material platforms. Nowadays, achieving this challenging goal is only possible with scanning tunneling microscopy (STM) techniques, which are very slow and show low yield and sensitivity.”
+This work was performed in part at the Georgia Tech Institute for Electronics and Nanotechnology, a member of the National Nanotechnology Coordinated Infrastructure, which is supported by the National Science Foundation (Grant No. ECCS-1542174). This material is based upon work partially supported by the Office of Naval Research under Grant No. N00014-17-1-2555, by the National Science Foundation under Grant No. ECCS-1609567, and by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Solar Photochemistry Program under Grant No. DE-FG02-12ER16347. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations.
+CITATION : Mohammad Taghinejad, Zihao Xu, Kyu-Tae Lee, Tianquan Lian, and Wenshan Cai, “Transient Second-Order Nonlinear Media: Breaking the Spatial Symmetry in the Time Domain via Hot-Electron Transfer.” ( Physical Review Letters , 2020).
+https://doi.org/10.1103/PhysRevLett.124.013901
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,44 @@
+extraction of largely unexplored bodily fluid may provide new biomarkers 
+ microneedle patches could provide a means for extracting interstitial fluid to study possible new biomarkers. 
+ interstitial fluid (right) may provide an alternative source of biomarkers compared to blood (left) that could be useful in diagnosing human illness. (credit: allison carter, georgia tech) 
+ nov 25, 2020 
+ — atlanta, ga 
+ using an array of tiny needles that are almost too small to see, researchers have developed a minimally invasive technique for sampling a largely unexplored human bodily fluid that could potentially provide a new source of information for routine clinical monitoring and diagnostic testing. 
+ biochemical information about the body most commonly comes from analysis of blood — which represents only 6% of bodily fluids — but valuable information may also be found in other bodily fluids that are traditionally hard to get. researchers have now developed a way to extract dermal interstitial fluid (isf), which circulates between cells in bodily tissues, using a simple through-the-skin technique that could provide a new approach for studying the metabolic products of cells, obtaining diagnostic biomarkers, and identifying potential toxins absorbed through the skin. because the dermal interstitial fluid doesn’t clot like blood, the microneedle-based extraction could offer a new approach for continuous monitoring of glucose and other key health indicators. 
+ results of a human trial on the microneedle-based isf sampling is reported nov. 25 in the journal 
+ science translational medicine . the study, conducted by researchers from the georgia institute of technology and emory university, was supported in part by the national institutes of health and children’s healthcare of atlanta. 
+ “interstitial fluid originates in the blood and then leaks out of capillaries to bring nutrients to cells in the body’s tissues. because interstitial fluid is in direct communication with the cells, it should have information about the tissues themselves beyond what can be measured from testing the blood,” said 
+ mark prausnitz , regents professor and j. erskine love jr. chair in georgia tech’s 
+ school of chemical and biomolecular engineering . “this microneedle-based technique could provide a minimally invasive and simple way to access this interstitial fluid to make it available for medical diagnostic and research applications.” 
+ isf has been difficult to sample. indwelling instruments for monitoring glucose in isf already exist, and other researchers have used surgically implanted tubing and vacuum-created blisters to extract isf through the skin, but these techniques are not suitable for routine clinical diagnostic use. 
+ the researchers, led by first author pradnya samant, used a patch containing five solid stainless steel microneedles that were a hundredth of an inch in length. by pressing the patch at an angle into the skin of 50 human subjects, they created shallow micropores that reached only into the outer layer of skin containing isf. the researchers then applied a suction to the area of skin containing the pores and obtained enough isf to do three types of analysis. for comparison, they also took blood samples and obtained isf using the older blister technique. 
+ to accurately determine the biomarkers available in the isf, the researchers needed to avoid getting blood mixed with the isf. though major blood vessels don’t exist in the outer layers of skin, capillaries there can be damaged by the insertion of the microneedles. in their studies, the researchers found that if they slowly ramped up the suction after inserting the microneedles, they could obtain fluid clear of blood. 
+ the overall extraction procedure took about 20 minutes for each test subject. the procedure was well tolerated by the volunteers, and the microscopic pores healed quickly within a day, with minimal irritation. 
+ the extracted fluid was analyzed at emory university using liquid chromatography-mass spectrometry techniques to identify the chemical species it contained. overall, there were about 10,000 unique compounds, most of which were also found in the blood samples. however, about 12% of the chemical species were not found in the blood, and others were found in the isf at higher levels than in the blood. 
+ “the skin is metabolically active, and it is full of cells that are changing the fluid,” prausnitz said. “we found that some of the compounds were unique to the isf, or enriched there, and that is what we were hoping to find.” 
+ while not all the compounds unique to the isf could be analyzed, the research team identified components of products that are applied to the skin — such as hand lotions — and pesticides that may enter the body through the skin. this discovery could set the stage for use of the microneedle technique for dermatological and toxicology studies. 
+ “if you want to look at what accumulates in the skin over time, this may provide a way to obtain information about those kinds of exposures,” prausnitz said. “these are materials that may accumulate in the tissues of our body, but are not found in the bloodstream.” 
+ the researchers also determined the pharmacokinetics of caffeine and the pharmacodynamics of glucose — both small molecules — from the isf, indicating that that dynamic biomarker information could be obtained from the technique. those measurements suggested that isf could provide a means for continuously monitoring such compounds, taking advantage of the fact that the fluid does not clot. 
+ “we were encouraged that we found a good correlation between the blood and interstitial fluid glucose, which suggests we might be able to have a continuous glucose monitoring system based on this technology,” prausnitz said. a microneedle-based system could provide a less invasive alternative to existing implantable glucose sensors by allowing the sensing components to remain on the surface of the skin. 
+ in future research, prausnitz would like to reduce the time required to extract the isf and simplify the process by eliminating the vacuum pump. additional study of the compounds found in the fluid could also show whether they have medical diagnostic value. 
+ “we’d like to make this microneedle-based technique available to the research community to make isf routinely available for study,” he said. “tissue interstitial fluid could be a novel source of biomarkers that complements conventional sources. this research provides a means to study this further.” 
+ the research team also included nicholas raviele and juan mena-lapaix from georgia tech; and megan m. niedzwiecki, douglas i. walker, gary w. miller, vilinh tran, eric i. felner, and dean p. jones from emory university. 
+ citation: pradnya p. samant, "sampling interstitial fluid for human skin using a microneedle patch." (science translational medicine, 25 november 2020)  https: / / stm.sciencemag.org / content / 12 / 571 / eaaw0285 
+ this work was supported in part by the u.s. national institutes of health (u2ces026560, p30es020953, r01es023485, p30es019776, s10od018006) and by children’s healthcare of atlanta. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding agencies. 
+ mark prausnitz is an inventor of patents licensed to companies developing microneedle-based products, is a paid advisor to companies developing microneedle-based products, and is a founder / shareholder of companies developing microneedle-based products (micron biomedical). this potential conflict of interest has been disclosed and is managed by georgia tech. pradnya p. samant and prausnitz are inventors on a patent application (wo2019126735a1) submitted by georgia tech research corporation that covers isf collection methods presented in this study. 
+ research news 
+ georgia institute of technology 
+ atlanta, georgia  30332-0181 
+ www.rh.gatech.edu 
+ media relations contact : john toon (jtoon@gatech.edu) (404-894-6986) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

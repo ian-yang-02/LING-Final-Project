@@ -1,0 +1,46 @@
+$21.9 million gene modulation research effort targets influenza pandemics 
+ a new $21.9 million research initiative will modulate gene expression to help protect against pandemic flu. 
+ a digitally-colorized, negatively-stained transmission electron microscope image shows the details of an influenza virus particle. (credit: cdc - frederick murphy) 
+ jun 28, 2019 
+ — atlanta, ga 
+ a multifaceted research effort aimed at temporarily modulating gene expression using rna-based techniques could help protect against pandemic flu by boosting lung resistance to infection, attacking the influenza virus directly, enhancing immune system response and improving the effects of existing vaccines. 
+ drugs developed through the up to $21.9 million effort, which is funded by the defense advanced research projects agency (darpa), would provide rapid response against a broad range of flu variants — and could potentially be used against other viruses in the future. the rna-based drugs could be delivered to the lungs through a nebulizer or inhaler, which are well-established techniques. 
+ led by researchers at the georgia institute of technology, the planned four-year initiative includes scientists from duke university, emory university, the university of georgia, the university of louisiana, rockefeller university and acorda therapeutics. the centers for disease control and prevention will also partner with the team and will be funded separately by darpa. the funding was announced june 27 as part of darpa’s 
+ prepare 
+ (preemptive expression of protective alleles and response elements) initiative. 
+ “viruses are very good at adapting, but they are not very good at adapting when we can use orthogonal methods of fighting them,” said 
+ philip santangelo , a professor in the 
+ wallace h. coulter department of biomedical engineering at georgia tech and emory university . “if we can make this simple and easy for people to use, we will have the ability to fight the virus in multiple ways.” 
+ key to the project is modulating gene response — up-regulating or down-regulating certain gene expression — but not permanently affecting dna. “we need for what we do to be transient,” santangelo said. “the immediate threat from a flu pandemic won’t last that long, so we may need the rna effects to last for a couple of weeks to months.” 
+ the first line of defense would be equipping the lungs to better resist infection by the influenza virus. that strategy will involve first identifying genetic targets that could help ward off the virus by making the lungs very resistant to infection. researchers will then develop drugs to bring about those changes. 
+ “our major goal is to identify host genes that, when either suppressed or activated, make cells refractory to influenza virus infection,” said nicholas heaton, assistant professor in the department of molecular genetics and microbiology at duke university medical center. “we will perform a series of genetic screens to identify these host factors, and then also perform a series of target validation studies both 
+ in-vitro 
+ and 
+ in-vivo .” 
+ no drug works perfectly, however, so some people treated to boost resistance to the virus will be infected anyway. but that would open the door to another component of the strategy: drugs that destroy virus rna. 
+ “we have already shown that we can chew up viral rna, and in this project we will demonstrate that first in small animal models,” said santangelo. 
+ other strategies will be designed to boost the body’s immune system, modifying the neutrophils that respond to influenza to help them more effectively and more rapidly clear infection from the lungs. 
+ “neutrophils are the first white blood cells coming into the lung, within minutes of an encounter with the virus,” said rabindra tirouvanziam, associate professor in the emory university school of medicine. “because neutrophils are fast acting, their ability to change rna expression to adapt to particular conditions was thought to be limited. however, we discovered that neutrophils change their rna very rapidly after coming into the lung, which opens a critical avenue for rna-based modulation at the very beginning of inflammation, in order to minimize damaging side effects and maximize protection.” 
+ finally, the initiative will attempt to take advantage of influenza vaccines that most people have received during their lifetimes. flu vaccines made available each year differ according to the expected flu variants, and their effectiveness is rarely more than about 45 percent. 
+ “for people who have been vaccinated against flu, we want to strengthen the vaccine to boost the effectiveness of b cells and t cells,” santangelo said. 
+ the research team will develop gene modulation tools that would alter expression in the lungs using rna-based modulators. the task will involve identifying potential targets, verifying them, and developing drugs that can induce temporary changes. the goal is to have drugs ready for clinical trials by the end of the four-year period. 
+ “this is incredibly ambitious,” santangelo said. “this work should open a lot of doors for completely new classes of drugs. conceptually, the ability to temporarily modulate genes to make people more resistant to a pathogen is incredibly exciting.” 
+ ultimately, the work will open up new means for protecting humans against the effects of viruses. 
+ “vaccines have a well-established protective capacity against seasonal flu, but they take time to act and become obsolete because of continuous evolution of the flu virus,” tirouvanziam noted. “this project proposes to enact rapid modulation of host responses to the flu virus by manipulating rna in cells. rna is the transient template that cells use to make proteins, and rapid rna regulation therefore has the potential to impact acute symptoms and transmission in settings of a flu epidemic with aggressive strains where vaccines would be largely ineffective.” 
+ in addition to those already named, the research team will include: james dahlman, gabe kwong and krish roy at the georgia institute of technology; rafi ahmed, richard compans, jacob kohlmeier, sanjeev gumber and eliver ghosn at emory university; ian york from the centers for disease control and prevention; jessica kissinger and mustafa nural at the university of georgia; charles gersbach, gregory crawford, timothy reddy and xiling shen at duke university; francois villinger at the university of louisiana at lafayette; jeffrey ravetch from rockefeller university; and michael tauber at acorda therapeutics. 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

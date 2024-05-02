@@ -1,0 +1,30 @@
+Poor and Disadvantaged People Sit in the Dark Longer After a Storm Outage
+The research shows that people in lower socioeconomic tiers wait nearly three hours longer on average for their power to be restored.
+Dec 14, 2023
+Hurricanes and other extreme weather events often affect disadvantaged communities more severely, and extended power outages are some of the most harmful effects. Concerns over the intensification of hurricanes has led to new environmental justice policies that aim to mitigate the unequal impacts of major storms. Now, policy experts and engineers are directing their attention toward illuminating the causes.
+Researchers at the Georgia Institute of Technology sought to investigate whether socioeconomically vulnerable households experienced longer power outage durations after extreme weather events. The team analyzed data from the top eight major Atlantic hurricanes between 2017 and 2020 that knocked out power for over 15 million customers in nine states across the southeastern U.S. The team found that people in lower socioeconomic tiers wait significantly longer to have power restored after a major storm — nearly three hours longer on average.
+The interdisciplinary research team consists of
+Chuanyi Ji , an associate professor in the
+School of Electrical and Computer Engineering ; Scott Ganz, a policy researcher at Georgetown University and a former Georgia Tech faculty member; and Chenghao Duan, a Ph.D. student in Ji’s lab.
+Their research paper, titled “ Socioeconomic Vulnerability and Differential Impact of Severe Weather-Induced Power Outages ,” was published in the journal
+PNAS Nexus .
+“Not only do extreme weather events impact disadvantaged communities more harshly, but power disruption can be dangerous and even life-threatening in certain contexts,” Ji said.  “Those with fewer resources are limited in their ability to evacuate from severe weather situations, and for individuals with electric medical equipment, an extended power outage can be disastrous.”
+Ji, who specializes in large-scale data analytics for power grid resilience, has done previous work on power restoration procedures involving infrastructure and utility services, but wanted to expand the work into the realm of communities. The team hypothesized that disadvantaged communities likely wait longer for power to be restored, but to get a realistic picture of the mechanisms at play, the team needed to analyze troves of data.
+They obtained weather data for eight major hurricanes between 2017 and 2020 from the National Oceanic and Atmospheric Administration and additional flood databases. They also examined power failure data for 15 million customers for the same time period, which spanned nine states, 588 counties, and 108 utility service regions in the Southeast.
+The team used spatial data analytics to model weather impact across regions. They then measured customers’ socioeconomic status by using the social vulnerability index, a tool produced by the Centers for Disease Control that considers indicators related to poverty, housing costs, education, health insurance, and other factors to determine socioeconomic status. Duan and Ji designed the models and estimates, and then analyzed the results to reveal the underlying relationship between customers' socioeconomic status and their power outage durations.
+Their results show that, when comparing affluent communities and poor communities given the same kind of impact from weather events, poor communities experienced power outages that average 170 minutes longer. Specifically, they found that a one-decile drop in socioeconomic status is associated with a 6.1% longer outage duration. Their results indicate that there is a statistically significant relationship between socioeconomic vulnerability and the duration of time that elapses before power is restored.
+“Our study also tries to rule out some possible explanations for why socioeconomically disadvantaged people take longer to get their power back on,” Ganz said. “For example, our study controls for population density in a county and the peak number of outages in that county, and we still observe that socioeconomically disadvantaged communities experience longer outages.”
+He theorized that the “primary cause is that poorer communities are also likely to be more distant from critical infrastructure or require more significant repairs to power lines, but these are important questions for future research.”
+The results can have important implications for policymakers, pointing to the necessity of reexamining post-storm recovery and resource allocation policies. Service and utility providers approach power recovery by adhering to procedures and regulations that are policy-driven. Current research shows that the standard procedures for restoring power following big storms, while procedurally fair, may contribute to unequal outcomes. A greater focus on communities could help to correct the issue.
+“Power grid resilience is not just about the infrastructure and utility companies — it’s also about the people they serve,” Ji said. “Success in achieving policy goals depends on our ability to identify the features that contribute most to these unequal impacts, which can in turn help us design appropriate interventions to improve outcomes.”
+Citation : Scott C Ganz, Chenghao Duan, Chuanyi Ji, Socioeconomic vulnerability and differential impact of severe weather-induced power outages,  PNAS Nexus , Volume 2, Issue 10, October 2023.
+DOI :
+https://doi.org/10.1093/pnasnexus/pgad295
+Contact
+Catherine Barzler, Senior Research Writer/Editor
+catherine.barzler@gatech.edu
+Email
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

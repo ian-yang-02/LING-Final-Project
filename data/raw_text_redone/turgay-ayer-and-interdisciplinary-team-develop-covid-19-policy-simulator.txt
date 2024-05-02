@@ -1,0 +1,27 @@
+turgay ayer and interdisciplinary team develop covid-19 policy simulator 
+ the simulator, an interactive tool designed to inform covid-19 intervention policy decisions in the u.s., is also available to the general public. 
+ may 14, 2020 
+ — atlanta, ga 
+ in late january, the first case of the novel coronavirus — the virus which causes covid-19, a highly contagious disease that originated in china — was confirmed in the u.s. due to the rapid spread of the disease in other areas of the world, many u.s.-based researchers began working to help keep americans safe. 
+ one such researcher was 
+ turgay ayer , george family foundation early career professor and associate professor in the h. milton stewart school of industrial and systems engineering (isye). he has focused his career on health care analytics and has created models to help slow the spread of various infectious diseases, including 
+ hepatitis c . he also serves as the research director for health care analytics and business intelligence in the center for health and humanitarian systems at georgia tech and holds a courtesy appointment at emory medical school. 
+ along with isye ph.d. student jade yingying xiao, ayer partnered with a research team from harvard medical school and massachusetts general hospital, led by assistant professor jagpreet chhatwal, and a team from boston medical center, led by associate professor benjamin linas. together this group created the 
+ covid-19 simulator . the simulator, an interactive tool designed to inform covid-19 intervention policy decisions in the u.s., is also available to the general public. it evaluates the impact of different social distancing interventions on the reduction in spread of coronavirus in the u.s., on both a national and state level. 
+ “we have leveraged our previous expertise in epidemiological and infectious disease modeling, from a model-building perspective,” explained ayer. “however, we could not utilize our knowledge from any other diseases in terms of the spread of this virus because it is so different. the speed at which the virus spreads from one person to another and how long an infected individual can be asymptomatic — these values are unique to covid-19. we needed to dig deeper into the literature and observed statistics to parameterize the model.” 
+ in early march, many states in the u.s. began implementing social distancing practices — which included limiting social gatherings, staying six feet away from others, wearing masks in public, closing schools and businesses, teleworking, and other measures to “flatten the curve” and slow the spread of the disease. the covid-19 simulator is designed to predict the outcomes of the various levels of social distancing to help policy makers make educated decisions when lifting the various restrictions and give individuals information to determine their own actions going forward. 
+ according to ayer, the simulator, which is updated on a weekly basis, is an seir compartmental model — the data sorts individuals into groups in various stages of the disease: susceptible, exposed, infected, and recovered. it combines established epidemiological and infectious disease modeling with state-of-the-art statistical modeling to reflect the most recent forecasts given a variety of scenarios. intervention levels include “minimal restrictions,” like increased handwashing and avoiding sick individuals; “stay-at-home” orders, where people are advised to stay at home unless they need to pick up groceries or other essential goods; and lockdown, the most extreme level, as exercised in other parts of the world such as china and india. 
+ the simulator has received a great deal of attention since its april 24 launch. in the first week, the website received more than 100,000 hits, and the simulator has been featured on msnbc’s rachel maddow show, 
+ npr , 
+ the u.k.’s daily mail , 
+ fox news , and numerous other media outlets. 
+ the team is currently working to incorporate cell phone tracking data into the model to assess how increased mobility as businesses open will influence projections. in the future, they plan to expand the simulator globally. 
+ additional images 
+ contact 
+ laurie haigh 
+ communications manager 
+ email 
+ laurie.haigh@isye.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

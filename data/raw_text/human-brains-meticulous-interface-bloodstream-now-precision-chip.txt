@@ -1,0 +1,38 @@
+The Human Brain’s Meticulous Interface with the Bloodstream now on a Precision Chip
+This blood-brain barrier on a chip represents important features more accurately than animal models and previous chips
+The blood-brain barrier on a chip is as small as many organs on chips, but it gives astrocytes lots of room to unfold in 3D. Credit: Georgia Tech / YongTae Kim lab
+Feb 10, 2020
+— Atlanta, GA
+A scrupulous gatekeeper stands between the brain and its circulatory system to let in the good and keep out the bad, but this porter, called the blood-brain barrier, also blocks trial drugs to treat diseases like Alzheimer’s or cancer from getting into the brain.
+Now a team led by researchers at the Georgia Institute of Technology has engineered a way of studying the barrier more closely with the intent of helping drug developers do the same.  In a new study , the researchers cultured the human blood-brain barrier on a chip, recreating its physiology more realistically than predecessor chips.
+The new chip devised a healthy environment for the barrier’s central component, a brain cell called the astrocyte, which is not a neuron, but which acts as neurons’ intercessors with the circulatory system. Astrocytes interface in human brains with cells in the vasculature called endothelial cells to collaborate with them as the blood-brain barrier.
+But astrocytes are a particularly fussy partner, which makes them a great part of the gatekeeper system but also challenging to culture in a physiologically accurate manner. The new chip catered to astrocytes’ sensibilities by culturing in 3D instead of in a flat manner, or 2D.
+The 3D space allowed astrocytes to act more naturally, and this improved the whole barrier model by also allowing cultured endothelial cells to function better. The new chip presented researchers with more healthy blood-brain barrier functions to observe than in previous barrier models.
+‘Astro’ in astrocyte
+“You need to be able to closely mimic a tissue on a chip in a healthy status and in homeostasis. If we can’t model the healthy state, we can’t really model disease either, because we have no accurate control to measure it against,” said YongTae Kim,  an associate professor in Georgia Tech’s George W. Woodruff School of Mechanical Engineering  and the study’s principal investigator.
+In the new chip, the astrocytes even looked more natural in the 3D space, unfolding the star-like shape that gives them their “astro” name. In the 2D cultures, by contrast, astrocytes looked like fried eggs with fringes. With this 3D setting, the chip has added possibilities for reliable research of the human blood-brain barrier, where currently alternatives are few.
+“No animal model comes close enough to the intricate function of the human blood-brain barrier. And we need better human models because experimental drugs that have successfully entered animal brains have failed at the human barrier,” Kim said.
+The team  published its results on January 10, 2020, in the journal  Nature Communications . The research was funded by the National Institutes of Health. Kim has founded a company with plans to mass-produce the new chip in the future for use in academic and potentially pharmaceutical research.
+[Ready for graduate school?  Here's how to apply to Georgia Tech. ]
+Choosy, bossy astrocytes
+The brain is the only part of the body outfitted with astrocytes, which regulate nourishment uptake and waste removal in their own, unique way.
+“Upon the brain’s request, astrocytes collaborate with the vasculature in real-time what the brain needs and opens its gates to let in only that bit of water and nutrients. Astrocytes go to get just what the brain needs and don’t let much else in,” Kim said.
+Astrocytes form a protein structure called aquaporin-4 in their membranes that are in contact with vasculature to let in and out water molecules, which also contributes to clearing waste from the brain.
+“In previous chips, aquaporin-4 expression was not observed. This chip was the first,” Kim said. “This could be important in researching Alzheimer’s disease because aquaporin-4 is important to clearing broken-down junk protein out of the brain.”
+One of the study’s co-authors,  Dr. Allan Levey  from Emory University, a  highly cited researcher  in neurological medicine, is interested in the chip’s potential in tackling Alzheimer’s. Another,  Dr. Tobey McDonald , also of Emory, researches pediatric brain cancer and is interested in the chip’s possibilities in studying the delivery of potential brain cancer treatments.
+Barrier acting healthy
+Astrocytes also gave signs that they were healthier in the chip’s 3D cultures than in 2D cultures by expressing less of a gene triggered by pathology.
+“Astrocytes in 2D culture expressed significantly higher levels of LCN2 than those in 3D. When we cultured in 3D, it was only about one fourth as much,” Kim said.
+The healthier state also made astrocytes better able to show an immune reaction.
+“When we purposely confronted the astrocyte with pathological stress in a 3D culture, we got a clearer reaction. In 2D, the ground state was already less healthy, and then the reaction to pathological stresses did not come across so clearly. This difference could make the 3D culture very interesting for pathology studies.”
+Nanoparticle delivery
+In testing related to drug delivery, nanoparticles moved through the blood-brain-barrier after engaging endothelial cell receptors, which caused these cells to engulf the particles then transport them to what would be inside the human brain in a natural setting. This is part of how endothelial cells worked better when connected to astrocytes cultured in 3D.
+“When we inhibited the receptor, the majority of nanoparticles wouldn’t make it in. That kind of test would not work in animal models because of cross-species inaccuracies between animals and humans,” Kim said. “This was an example of how this new chip can let you study the human blood-brain barrier for potential drug delivery the way you can’t in animal models.”
+Also Read:   Flickering Light Mobilizes Brain Chemistry That May Fight Alzheimer’s
+These researchers also coauthored the study: Song Ih Ahn, Yoshitaka Sei, Hyun-Ji Park, Jinhwan Kim, Yujung Ryu, and Jeongmoon Choi, and Hak-Joon Sung of Georgia Tech. The research was funded by National Institutes of Health’s Director’s New Innovator Award (1DP2HL142050), the National Institute of Neurological Disorders and Stroke (grant R21NS091682), and the National Institutes on Aging (grant R21AG056781). Tony Kim is also affiliated with Georgia Tech’s  Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory , Georgia Tech’s  Parker H. Petit Institute for Bioengineering and Bioscience , and Georgia Tech’s  Institute for Electronics and Nanotechnology . Any findings, conclusions, and recommendations are those of the authors and not necessarily of the National Institutes of Health.
+Writer & Media Representative : Ben Brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

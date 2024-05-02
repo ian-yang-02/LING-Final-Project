@@ -1,0 +1,37 @@
+New Architected Material Shape-Changes to Tune Its Qualities
+A flick of a switch, and this new architected material changes shape and holds it until new current reverses it.
+Structures in a new architected material change shape when a very low current is applied. Left is before current is applied, right is after. Credit: CalTech
+Oct 04, 2019
+— Atlanta, GA
+Like Transformers, toy cars that change into robots and back, researchers have made a material that can transform its deep structure at the flick of a switch to take on different physical properties. Or it can transition smoothly between those properties.
+Architected materials are comprised of micron and nanoscale structures like crossbeams, arches, domes, and spirals, much like the elements of a building’s architecture. Researchers from the California Institute of Technology, the Georgia Institute of Technology, and ETH Zurich have made an architected material that shifts the shapes of these structures.
+When a slight current is applied, nanoscale beams thicken and bend into arches that increasingly bow as the current is boosted. The material maintains the new shape even when the current is off, and the shape can be changed back by reversing the current. Both are novel characteristics.
+Most materials that are designed to change their internal structure require a persistent external stimulus to remain in the new form. The new nanomaterial deforms through an electrochemical silicon-lithium alloy reaction that holds its form without applied current.
+The study’s authors describe the material and its variable properties in detail in a
+study published in the journal
+Nature
+on Sept. 12, 2019. The research was funded by the Office of Naval Research and the National Science Foundation.
+Battery chemistry
+“At the core of this accomplishment, you’re changing the geometry not by a little, which would be easy to do, but by a lot and variably, which is hard. And you’re doing it by electrochemistry that works the way a battery does,” said Claudio Di Leo,
+an assistant professor in the Daniel Guggenheim School of Aerospace Engineering at Georgia Tech .
+Di Leo’s team modeled the architectures’ nanoscale mechanics, which are driven by lithium ions and silicon, for the research, which was led by
+Caltech materials science professor Julia Greer . Her lab then created the material using an innovative ultra-high-resolution 3D printing process called
+two-photon lithography
+and tested it.
+[Ready for graduate school?  Here's how to apply to Georgia Tech. ]
+Architectures of this class of materials can be periodic – uniformly tiled or stitched like a lattice – or non-periodic, that is, a tailored knit that molds physical properties. They can also be applied creatively, as the study’s first author, Caltech graduate research assistant Xiaoxing Xia, demonstrated by working structural “defects” into the material. The defects formed Caltech’s logo when current was applied.
+“The most intriguing part of this work to me is the critical role of defects in such dynamically responsive architected materials,” Xia said.
+“I have always had a particular liking for defects, and this time Xiaoxing managed to first uncover the effect of different types of defects on these metamaterials and then used them to program a particular pattern that would emerge in response to electrochemical stimulus,” Greer said.
+In the future, materials like this could make batteries and other energy storage devices lighter, safer, and more durable. Also, waves of
+phonons
+– special excitations in certain materials that help determine their conductivity – propagate through one architecture in the material, but then the shift in architecture blocks the waves. This was not the study’s main achievement, but still a promising feature and possible opportunity for expanded research.
+Also READ:
+Nanohydrogel Delivers Healing Stem Cells to Injured Elderly Muscles
+Coauthors include Caltech postdoctoral researcher Carlos Portela, as well as Arman Afshar of Georgia Tech, and Dennis M. Kochmann of ETH Zurich in Switzerland. The research was funded by the Vannevar-Bush Faculty Fellowship, the Office of Naval Research, and the National Science Foundation (grant CMMI-1825132). Any findings, conclusions or recommendations are those of the authors and not necessarily of the funding agencies.
+CalTech media relations contact:
+Robert Perkins, rperkins@caltech.edu
+Georgia Tech media relations contact:  Ben Brumfield, ben.brumfield@comm.gatech.edu
+Additional Images
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

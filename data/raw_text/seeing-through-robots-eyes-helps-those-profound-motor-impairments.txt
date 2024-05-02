@@ -1,0 +1,48 @@
+Seeing through a Robot’s Eyes Helps Those with Profound Motor Impairments
+An interface system that uses augmented reality technology could help individuals with profound motor impairments operate a humanoid robot to feed themselves and perform routine personal care tasks.
+Image shows the view through the PR2’s cameras showing the environment around the robot. Clicking the yellow disc allows users the control the arm. (Credit: Phillip Grice, Georgia Tech)
+Mar 15, 2019
+— Atlanta, GA
+An interface system that uses augmented reality technology could help individuals with profound motor impairments operate a humanoid robot to feed themselves and perform routine personal care tasks such as scratching an itch and applying skin lotion. The web-based interface displays a “robot’s eye view” of surroundings to help users interact with the world through the machine.
+The system, described March 15 in the journal
+PLOS ONE , could help make sophisticated robots more useful to people who do not have experience operating complex robotic systems. Study participants interacted with the robot interface using standard assistive computer access technologies — such as eye trackers and head trackers — that they were already using to control their personal computers.
+The paper reported on two studies showing how such “robotic body surrogates” – which can perform tasks similar to those of humans – could improve the quality of life for users. The work could provide a foundation for developing faster and more capable assistive robots.
+“Our results suggest that people with profound motor deficits can improve their quality of life using robotic body surrogates,” said Phillip Grice, a recent Georgia Institute of Technology Ph.D. graduate who is first author of the paper. “We have taken the first step toward making it possible for someone to purchase an appropriate type of robot, have it in their home and derive real benefit from it.”
+Grice and Professor
+Charlie Kemp
+from the
+Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University
+used a PR2 mobile manipulator manufactured by Willow Garage for the two studies. The wheeled robot has 20 degrees of freedom, with two arms and a “head,” giving it the ability to manipulate objects such as water bottles, washcloths, hairbrushes and even an electric shaver.
+“Our goal is to give people with limited use of their own bodies access to robotic bodies so they can interact with the world in new ways,” said Kemp.
+In their first study, Grice and Kemp made the PR2 available across the internet to a group of 15 participants with severe motor impairments. The participants learned to control the robot remotely, using their own assistive equipment to operate a mouse cursor to perform a personal care task. Eighty percent of the participants were able to manipulate the robot to pick up a water bottle and bring it to the mouth of a mannequin.
+“Compared to able-bodied persons, the capabilities of the robot are limited,” Grice said. “But the participants were able to perform tasks effectively and showed improvement on a clinical evaluation that measured their ability to manipulate objects compared to what they would have been able to do without the robot.”
+In the second study, the researchers provided the PR2 and interface system to Henry Evans, a California man who has been helping Georgia Tech researchers study and improve assistive robotic systems since 2011. Evans, who has very limited control of his body, tested the robot in his home for seven days and not only completed tasks, but also devised novel uses combining the operation of both robot arms at the same time – using one arm to control a washcloth and the other to use a brush.
+“The system was very liberating to me, in that it enabled me to independently manipulate my environment for the first time since my stroke,” said Evans. “With respect to other people, I was thrilled to see Phil get overwhelmingly positive results when he objectively tested the system with 15 other people.”
+The researchers were pleased that Evans developed new uses for the robot, combining motion of the two arms in ways they had not expected.
+“When we gave Henry free access to the robot for a week, he found new opportunities for using it that we had not anticipated,” said Grice. “This is important because a lot of the assistive technology available today is designed for very specific purposes. What Henry has shown is that this system is powerful in providing assistance and empowering users. The opportunities for this are potentially very broad.”
+The interface allowed Evans to care for himself in bed over an extended period of time. “The most helpful aspect of the interface system was that I could operate the robot completely independently, with only small head movements using an extremely intuitive graphical user interface,” Evans said.
+The web-based interface shows users what the world looks like from cameras located in the robot’s head. Clickable controls overlaid on the view allow the users to move the robot around in a home or other environment and control the robot’s hands and arms. When users move the robot’s head, for instance, the screen displays the mouse cursor as a pair of eyeballs to show where the robot will look when the user clicks. Clicking on a disc surrounding the robotic hands allows users to select a motion. While driving the robot around a room, lines following the cursor on the interface indicate the direction it will travel.
+Building the interface around the actions of a simple single-button mouse allows people with a range of disabilities to use the interface without lengthy training sessions.
+“Having an interface that individuals with a wide range of physical impairments can operate means we can provide access to a broad range of people, a form of universal design,” Grice noted. “Because of its capability, this is a very complex system, so the challenge we had to overcome was to make it accessible to individuals who have very limited control of their own bodies.”
+While the results of the study demonstrated what the researchers had set out to do, Kemp agrees that improvements can be made. The existing system is slow, and mistakes made by users can create significant setbacks. Still, he said, “People could use this technology today and really benefit from it.”
+The cost and size of the PR2 would need to be significantly reduced for the system to be commercially viable, Evans suggested. Kemp says these studies point the way to a new type of assistive technology.
+“It seems plausible to me based on this study that robotic body surrogates could provide significant benefits to users,” Kemp added.
+This work was supported by the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), grant 90RE5016-01-00 via RERC TechSAge, National Science Foundation Award IIS-1150157, by a National Science Foundation Graduate Research Fellowship Program Award, and the Residential Care Facilities for the Elderly of Fulton County Scholar Award.
+Kemp is a cofounder, a board member, an equity holder, and the CTO of Hello Robot Inc., which is developing products related to this research. This research could affect his personal financial status. The terms of this arrangement have been reviewed and approved by Georgia Tech in accordance with its conflict of interest policies.
+CITATION : Phillip M. Grice and Charles C. Kemp, “In-home and remote use of robotic body surrogates by people with profound motor deficits” (PLOS ONE 2019).  https://doi.org/10.1371/journal.pone.0212904
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta,Georgia  30332-0171  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

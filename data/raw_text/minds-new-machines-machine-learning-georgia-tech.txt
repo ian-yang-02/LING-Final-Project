@@ -1,0 +1,24 @@
+The Minds of the New Machines - Machine Learning at Georgia Tech
+Georgia Tech researchers are advancing the basic and applied science of machine learning.
+The Minds of the New Machines
+Mar 09, 2018
+— Atlanta, GA
+Machine learning has been around for decades, but the advent of big data and more powerful computers has increased its impact significantly — ­moving machine learning beyond pattern recognition and natural language processing into a broad array of scientific disciplines.
+A subcategory of artificial intelligence, machine learning deals with the construction of algorithms that enable computers to learn from and react to data rather than following explicitly programmed instructions. “Machine-learning algorithms build a model based on inputs and then use that model to make other hypotheses, predictions, or decisions,” explained  Irfan Essa , professor and associate dean in Georgia Tech’s  College of Computing  who also directs the Institute’s  Center for Machine Learning .
+Established in June 2016, the Center for Machine Learning is comprised of researchers from six colleges and 13 schools at Georgia Tech — a number that keeps growing. “Among our goals is to better coordinate research efforts across campus, serve as a home for machine learning leaders, and train the next generation of leaders,” Essa said, referring to Georgia Tech’s new  Ph.D. program in machine learning .
+Within the center, researchers are striving to advance both basic and applied science. “For example, one foundational goal is to really understand deep learning at its core,” Essa said. “We want to develop new theories and innovative algorithms, rather than just using deep learning as a black box for inputs and outputs.” And on the applied research front, the center has seven focal areas: health care, education, logistics, social networks, the financial sector, information security, and robotics.
+See the
+complete article
+from
+Research Horizons
+magazine.
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

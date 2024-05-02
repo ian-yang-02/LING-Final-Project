@@ -1,0 +1,45 @@
+reframing antarctica’s meltwater pond dangers to ice shelves and sea level 
+ there's a speed limit on the damage surface ponds can do to ice shelves, but that doesn't mean the ponds aren't dangerous. 
+ before its sudden shattering, numerous meltwater ponds riddled antarctic ice shelf larsen b. they are seen in this 2002 satellite image as a matrix of aquamarine spots. scientists believe that the ponds hydrofractured the kilometer-thick ice shelf, causing its swift destruction. credit: nasa earth observatory 
+ oct 29, 2019 
+ — atlanta, ga 
+ dangers to ancient antarctic ice portend a future of rapidly rising seas, but  a new study  may relieve one nagging fear: that ponds of meltwater fracturing the ice below them could cause protracted chain reactions that unexpectedly collapse floating ice shelves. though pooled meltwater does fracture ice, ensuing chain reactions appear short-ranged. 
+ still, massive increases in surface melting due to unusually warm weather can trigger catastrophic ice shelf collapses like that of the  iconic shelf “larsen b,” which shattered in 2002 . now, a study led by a researcher at the georgia institute of technology has modeled fracture chain reactions and how much water it would take for a repeat of that rare, epic collapse. 
+ larsen b’s disintegration was preceded by an atypical heatwave that riddled it with meltwater ponds, focusing researchers’ attention on pond fracturing, also called hydrofracturing. they discovered that a melt pond hydrofracturing the ice shelf can prompt neighboring ponds to do the same. concerns grew of possible extensive chain reactions, which the new study addressed. 
+ too much meltwater 
+ “the chain reactions will not spread that far on the ice shelf,” said alex robel,  an assistant professor in georgia tech’s school of earth and atmospheric sciences . “normally, it would take many years for the chain reactions to have an effect on the integrity of the ice shelves. but there’s a caveat. ponds that are close together and growing rapidly deeper could destroy the ice’s integrity.” 
+ “there is a speed limit in the study that shows that an ice shelf can’t collapse ridiculously fast,” said co-author alison banwell, a  glaciology researcher at the university of colorado boulder . “however, if it becomes as covered in meltwater ponds very quickly like larsen b was, it can collapse in a similar way.” she added, “multiple hydrofracture chains originating in different areas of an ice shelf could also lead to a larger-scale ice shelf breakup.” 
+ the researchers  published their results in the journal  geophysical research letters  on october 24, 2019. the research was funded by the national science foundation and the cooperative institute for research in environmental sciences at cu boulder. an unrelated,  recent study  reported a record number of meltwater ponds on antarctica. 
+ “currently there are not nearly enough ponds on any ice shelf for a repeat of larsen b, but much meltwater is weighing on ice shelves and contributing damage to them,” said banwell, who helped pioneer hydrofracture research on ice shelves. 
+ q&a 
+ broken ice shelves themselves don’t add much to sea level. so, why care? 
+ ice shelves float in the ocean, where they already contribute to sea level, so when they break up or melt, they don’t add much more to it. but many ice shelves push back against glaciers on land that do drive up sea level when they enter the ocean. 
+ with the shelf gone, the speed of glacial flow can jump four- to tenfold. glaciologists were not aware of this until larsen b, which was a kilometer (0.62 miles) thick with a surface of 3,250 square km (1,250 square miles), splintered within weeks, and glacial flow behind it surged. 
+ “our research field thought ice shelves weren’t too important, then larsen b showed us that was incorrect. buttressing by ice shelves really is the thing that stabilizes the glaciers. few issues are more significant than those that this study addresses,” said brent minchew, an  assistant professor of geophysics at the massachusetts institute of technology . 
+ minchew was not involved in the study but recently co-published another study that relates to it. the mit study rules out one absolutely nightmarish scenario of rapid glacier fracture due to the disappearance of ice shelves. but he and the other researchers reiterated that glacial flow nonetheless speeds up strikingly when ice shelves disappear. 
+ also, most antarctic ice shelves probably formed in the last ice age, and it could take another ice age to replace them. 
+ [ready for graduate school?  here's how to apply to georgia tech. ] 
+ how does hydrofracturing work, and how did the study model its effects? 
+ when meltwater ponds on top of cracks in the ice grow heavy, they can hydrofracture the ice. 
+ “the water pressure concentrates down to a point called a crack tip. it tries to push the crack apart and make it deeper, and the ice pushes back. when the water gets deep enough, it can win out and propagate the crack to the bottom of the ice shelf,” robel said. 
+ the water drains down the crack, into the ocean, then the ice hops back up, making new cracks that can trigger neighboring ponds to hydrofracture, too. the study showed that this would encompass only small numbers of ponds. 
+ conveniently for robel, who explores ice dynamics with math, physics, and computer science, as ice shelves form, regimented matrices of surface dents appear in them, and that’s where the ponds collect. 
+ robel could apply computer science modeling called  cellular automata  – known from pixelated matrix-like  video games  – to model hydrofracture chain reactions. the model even outputs animations that the researchers named “minesweeper plots” after the  classic 1990s computer game . 
+ does the study mean there is less danger than before of glacial flow accelerating? 
+ no, the study simply adds to scientific knowledge, and actually, the flow of some glaciers on antarctica has already sped up a lot. 
+ “maybe this mechanism is not something we have to worry as much about. but we shouldn’t breathe a sigh of relief because there are plenty of other ways of getting a whole lot of ice out of west antarctica quickly,” minchew said. 
+ perhaps the greatest potential for glacier loss is instability where glaciers rest on the ground next to seawater. a  study robel published in july  projected that instability to be extremely likely to accelerate sea level rise. 
+ how does this study help advance glacier research? 
+ it makes it easier to look for harbingers of ice shelf damage. 
+ “looking at the volume of water on the surface of the ice is much easier than looking for stress failures within the ice,” said banwell, who will visit antarctica in november to study melt ponds on the george iv ice shelf. 
+ also read:  instability in antarctic ice projected to make sea level rise rapidly 
+ the research was funded by the national science foundation (grants nsf plr-1735715 and nsf plr-1841607) and by the cooperative institute for research in environmental sciences at cu boulder. any findings, conclusions or recommendations are those of the authors and not necessarily of the funding agencies. 
+ writer & media representative : ben brumfield (404-272-2780) 
+ email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

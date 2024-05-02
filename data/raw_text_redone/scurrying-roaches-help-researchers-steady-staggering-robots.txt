@@ -1,0 +1,45 @@
+scurrying roaches help researchers steady staggering robots 
+ researchers have leveraged cockroaches' scurrying skills for a cleverly simple method to assess and improve locomotion in robots. 
+ the robot used in this experiment was a minotaur brand machine with legs. georgia tech / neveln 
+ aug 22, 2019 
+ — atlanta, ga 
+ ew, a cockroach! but it zips off before the swatter appears. now, researchers have leveraged the bug’s superb scurrying skills to create a cleverly simple method to assess and improve locomotion in robots. 
+ normally, tedious modeling of mechanics, electronics, and information science is required to understand how insects’ or robots’ moving parts coordinate smoothly to take them places. but  in a new study , biomechanics researchers at the georgia institute of technology boiled down the sprints of cockroaches to handy principles and equations they then used to make a test robot amble about better. 
+ the method told the researchers about how each leg operates on its own, how they all come together as a whole, and the harmony or lack thereof in how they do it. despite bugs’ and bots’ utterly divergent motion dynamics, the new method worked for both and should work for other robots and animals, too. 
+ the biological robot, the roach, was the far superior runner with neurological signals guiding six impeccably evolved legs. the mechanical robot, a consumer model, had four stubby legs and no nervous system but relied instead for locomotion control on coarse physical forces traveling through its chassis as crude signals to roughly coordinate its clunky gait. 
+ “the robot was much bulkier and could hardly sense its environment. the cockroach had many senses and can adapt better to rough terrain. bumps as high as its hips wouldn’t slow it down at all,” said  izaak neveln , the study’s first author, who was a postdoctoral researcher in the  lab of simon sponberg at georgia tech during the study. 
+ advanced simplicity 
+ the method, or “measure,” as the study calls it, transcended these huge differences, which pervade animal-inspired robotics. 
+ “the measure is general (universal) in the sense that it can be used regardless of whether the signals are neural spiking patterns,  kinematics , voltages or forces and does not depend on the particular relationship between the signals,” the study’s authors wrote. 
+ no matter how a bug or a bot functions, the measure’s mathematical inputs and outputs are always in the same units. the measure will not always eliminate the need for modeling, but it stands to shorten and guide modeling and avert anguishing missteps. 
+ the authors  published the study in the journal  nature communications  in august 2019. the research was funded by the national science foundation.  sponberg is an assistant professor  in georgia tech’s school of physics and in the school of biological sciences. 
+ centralization vs. decentralization 
+ often a bot or an animal sends many walking signals through a central system to harmonize locomotion, but not all signals are centralized. even in humans, though locomotion strongly depends on signals from the central nervous system, some neural signals are confined to regions of the body; they are localized signals. 
+ some insects appear to move with little centralization -- such as stick bugs, also known as walking sticks, whose legs prod about nearly independently. stick bugs are  wonky runners . 
+ “the idea has been that the stick bugs have the more localized control of motion, whereas a  cockroach goes very fast  and needs to maintain stability, and its motion control is probably more centralized, more clocklike,” neveln said. 
+ strong centralization of signals generally coordinates locomotion better. centralized signals could be code traveling through an elaborate robot’s wiring, a cockroach’s central neurons synching its legs, or the clunky robot's chassis tilting away from a leg thumping the ground thus putting weight onto an opposing leg. 
+ roboticists need to see through the differences and figure out the interplay of a locomotor’s local and central signals. 
+ [ready for graduate school?  here's how to apply to georgia tech. ] 
+ cool physics 
+ the new “measure” does this by focusing on an overarching phenomenon in the walking legs, which  can be seen as pendula  moving back and forth. for great locomotion, they need to synch up in what is called phase-coupling oscillations. 
+ a fun, easy experiment illustrates this physics principle. if a few, say six, metronomes – ticking rhythm pendula that piano teachers use -- are swinging out of sync, and you place them all on a platform that freely sways along with the metronomes’ swings,  the swings will sync up in unison . 
+ the  phases, or directions, of their oscillations  are coupling with each other by centralizing their composite mechanical impulses through the platform. this particular example of phase-coupling is mechanical, but it can also be computational or neurological -- like in the roach. 
+ its legs would be analogous to the swinging metronomes, and central neuromuscular activity analogous to the free-swaying platform. in the roach, not all six legs swing in the same direction. 
+ “their synchronization is not uniform. three legs are synchronized in phase with each other -- the front and back legs of one side with the middle leg of the other side -- and those three are synchronized out of phase with the other three,” neveln said. “it’s an alternating tripod gait. one tripod of three legs alternates with the other tripod of three legs.” 
+ useless pogoing 
+ and just like pendula, each leg’s swings can be graphed as a wave. all the legs’ waves can be averaged into an overall roach scurry wave and then developed into more useful math that relates centralization with decentralization and factors like  entropy  that can throw locomotion control off. 
+ the resulting principles and math benefited the clunky robot, which has strong decentralized signals in its leg motors that react to leg contact with the ground, and centralized control weaker than that of the stick bug. the researchers graphed out the robot's movements, too, but they didn't result in the neatly synced group of waves that the cockroach had produced. 
+ the researchers turned with the principles and math to the clunky robot, which initially was out of sorts -- bucking or hopping uselessly like a pogo stick. then the scientists strengthened centralized control by re-weighting its chassis to make it move more coherently. 
+ “the metronomes on the platform are mechanical coupling, and our robot coordinates control that way,” neveln said. “you can change the mechanical coupling of the robot by repositioning its weights. we were able to predict the changes this would make by using the measure we developed from the cockroach.” 
+ cockroach surprises 
+ the researchers also wired up specific roach muscles and neurons to observe their syncopations with the scurry waves. seventeen cockroaches took 2,982 strides to inform the principles and math, and the bugs also sprung surprises on the researchers. 
+ one stuck out: the scientists had thought signaling centralized more when the roach sped up, but instead, both central and local signaling strengthened, perhaps doubling down on the message: run! 
+ georgia tech’s amoolya tiramulai coauthored the paper. the national science foundation funded the research (grant # nsf career mps / pols 1554790). any findings, conclusions, and recommendations are those of the authors and not necessarily of the nsf. 
+ writer & media representative : ben brumfield (404-660-1408), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

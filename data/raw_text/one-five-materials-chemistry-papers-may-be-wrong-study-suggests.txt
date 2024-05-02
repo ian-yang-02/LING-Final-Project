@@ -1,0 +1,48 @@
+One in Five Materials Chemistry Papers May be Wrong, Study Suggests
+A new study assesses scientific papers in materials chemistry.
+A new study that compared the results reported in thousands of papers published about the properties of metal organic framework (MOF) materials – which are prominent candidates for carbon dioxide adsorption and other separations – suggests the replicability problem should be a concern for materials researchers.
+Dec 14, 2017
+— Atlanta, GA
+Can companies rely on the results of one or two scientific studies to design a new industrial process or launch a new product? In at least one area of materials chemistry, the answer may be yes — but only 80 percent of the time.
+The replicability of results from scientific studies has become a major source of concern in the research community, particularly in the social sciences and biomedical sciences. But many researchers in the fields of engineering and the hard sciences haven’t felt the same level of concern for independent validation of their results.
+A new study that compared the results reported in thousands of papers published about the properties of metal organic framework (MOF) materials – which are prominent candidates for carbon dioxide adsorption and other separations – suggests the replicability problem should be a concern for materials researchers, too.
+One in five studies of MOF materials examined by researchers at the Georgia Institute of Technology were judged to be “outliers,” with results far beyond the error bars normally used to evaluate study results. The thousands of research papers yielded just nine MOF compounds for which four or more independent studies allowed appropriate comparison of results.
+“At a fundamental level, I think people in materials chemistry feel that things are reproducible and that they can count on the results of a single study,” said
+David Sholl , a professor and John F. Brock III School Chair in the Georgia Tech
+School of Chemical and Biomolecular Engineering . “But what we found is that if you pull out any experiment at random, there’s a one in five chance that the results are completely wrong – not just slightly off, but not even close.”
+Whether the results can be more broadly applied to other areas of materials science awaits additional studies, Sholl said. The results of the study, which was supported by the U.S. Department of Energy, were published November 28 in the ACS journal
+Chemistry of Materials.
+Sholl chose MOFs because they’re an area of interest to his lab – he develops models for the materials – and because the National Institute of Standards and Technology (NIST) and the Advanced Research Projects Agency-Energy (ARPA-E) had already assembled a database summarizing the properties of MOFs. Co-authors Jongwoo Park and Joshua Howe used meta-analysis techniques to compare the results of single-component adsorption isotherm testing – how much CO 2
+can be removed at room temperature.
+That measurement is straightforward and there are commercial instruments available for doing the tests. “People in the community would consider this to be an almost foolproof experiment,” said Sholl, who is also a Georgia Research Alliance Eminent Scholar in Energy Sustainability.
+The researchers considered the results definitive when they had four or more studies of a given MOF at comparable conditions.
+The implications for errors in materials science may be less than in other research fields. But companies could use the results of a just one or two studies to choose a material that appear to be more efficient, and in other cases, researchers unable to replicate an experiment may simply move on to another material.
+“The net result is non-optimal use of resources at the very least,” Sholl said. “And any report using one experiment to conclude a material is 15 or 20 percent better than another material should be viewed with great skepticism, as we cannot be very precise on these measurements in most cases.”
+Why the variability in results? Some MOFs can be finicky, quickly absorbing moisture that affect adsorption, for instance. The one-in-five “outliers” may be a result of materials contamination.
+“One of the materials we studied is relatively simple to make, but it’s unstable in an ambient atmosphere,” Sholl explained. “Exactly what you do between making it in the lab and testing it will affect the properties you measure. That could account for some of what we saw, and if a material is that sensitive, we know it’s going to be a problem in practical use.”
+Other factors that may prevent replication include details that were inadvertently left out of a methods description – or that the original scientists didn’t realize were relevant. That could be as simple as the precise atmosphere in which the material is maintained, or the materials used in the apparatus producing the MOFs.
+Sholl hopes the paper will lead to more replication of experiments so scientists and engineers can know if their results really are significant.
+“As a result of this, I think my group will look at all reported data in a more nuanced way, not necessarily suspecting it is wrong, but thinking about how reliable that data might be,” he said. “Instead of thinking about data as a number, we need to always think about it as a number plus a range.”
+Sholl suggests that more reporting of second, third or fourth efforts to replicate an experiment would help raise the confidence of data on MOF materials properties. The scientific publishing system doesn’t currently provide much incentive for reporting validation, though Sholl hopes that will change.
+He also feels the issue needs to be discussed within all parts of the scientific community, though he admits that can lead to “uncomfortable” conversations.
+“We have presented this study a few times at conferences, and people can get pretty defensive about it,” Sholl said. “Everybody in the field knows everybody else, so it’s always easier to just not bring up this issue.”
+And, of course, Sholl would like to see others replicate the work he and his research team did. “It will be interesting to see if this one-in-five number holds up for other types of experiments and materials,” he added. “There are other certainly other areas of materials chemistry where this kind of comparison could be done.”
+This research was supported by the U.S. Department of Energy through grant DE-FE0026433 and by the Center for Understanding and Control of Acid Gas-Induced Evolution of Materials for Energy (UNCAGE-ME), an Energy Frontier Research Center funded by U.S. Department of Energy, Office of Science, Basic Energy Sciences under Award #DE-SC0012577. Any opinions, findings, conclusions or recommendations expressed herein are those of the author(s) and do not necessarily reflect the views of sponsors.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+CITATION : Jongwoo Park, Joshua D. Howe, and David S. Sholl, “How Reproducible Are Isotherm Measurements in Metal-Organic Frameworks?,” (Chemistry of Materials, 2017).
+http://pubs.acs.org/doi/10.1021/acs.chemmater.7b04287
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

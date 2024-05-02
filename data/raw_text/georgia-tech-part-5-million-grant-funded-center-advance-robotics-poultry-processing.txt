@@ -1,0 +1,44 @@
+Georgia Tech Part of $5 Million Grant-Funded Center to Advance Robotics in Poultry Processing
+Researchers at Georgia Tech and four other institutes were awarded the grant to increase use of artificial intelligence and robotics in chicken processing.
+The Center for Scalable and Intelligent Automation in Poultry Processing, established by a $5 million USDA-NIFA grant, aims to adapt robotic automation to the poultry processing industry.
+Mar 10, 2023
+— Atlanta, GA
+This news release first appeared in the  University of Arkansas Division of Agriculture
+newsroom, and has been tailored for Georgia Tech readers.
+Researchers at Georgia Tech, the University of Arkansas System, the University of Nebraska-Lincoln, and Fort Valley State University in Georgia were awarded a $5 million grant to increase use of artificial intelligence and robotics in chicken processing to reduce waste in deboning and detect pathogens.
+The grant from the U.S. Department of Agriculture’s National Institute of Food and Agriculture will establish the Center for Scalable and Intelligent Automation in Poultry Processing. The center, led by the University of Arkansas System Division of Agriculture, will join researchers from five institutions in three states in efforts to adapt robotic automation to chicken meat processing.
+Douglas Britton, manager of the Agricultural Technology Research Program at the Georgia Tech Research Institute (GTRI), said his team was very excited to work on this project with experts at the four other institutions.
+“The ultimate goal is to drive transformational innovation into the poultry and meat processing industry through automation, robotics, AI, and VR technologies,” Britton said. “Building on years of work in the GTRI Agricultural Technology Research Program, we are pleased to see that the USDA-NIFA has chosen this team to continue these efforts.”
+Georgia Tech is a major partner in the project, and was awarded $2 million to focus on automating the processing lines that turn chickens into meat, said Jeyam Subbiah, professor and head of the food science department for the Division of Agriculture and the Dale Bumpers College of Agricultural, Food and Life Sciences at the University of Arkansas, and director of the project. The grant is for four years.
+The Arkansas Agricultural Experiment Station, the research arm of the Division of Agriculture, will receive $2.2 million from the grant primarily to focus on food safety automation for poultry processing plants.
+The remaining grant money will be divided between Julia McQuillan, Willa Cather professor of sociology at the University of Nebraska-Lincoln, and Brou Kuoakou, associate dean for research at Fort Valley State University in Georgia.
+Jeff Buhr, a USDA Agricultural Research Service scientist, will contribute his expertise in broiler physiology to guide robotic deboning of meat, Subbiah said.
+Georgia is the nation’s top broiler producer. Arkansas is number 3, according to 2021 figures from USDA.
+Meeting the challenge
+The recent impetus to automate chicken processing began with the Covid-19 pandemic, Subbiah said. The illness spread quickly among workers on the processing line. Since the worst of the pandemic, the poultry industry, like many others, has been having trouble hiring enough workers.
+“Poultry processing lines began 70 to 80 years ago,” Subbiah said. “Since then, there have been only incremental changes in technology. Today, there’s a need for transformative change.”
+Humans can feel when a knife hits a bone. In contrast, existing automation in poultry processing, like deboners, wastes a lot of meat.
+“Human deboners leave about 13 percent of meat on the bones,” Subbiah said. “Automated deboners leave 16 to 17 percent. On an industrial scale, that’s a significant loss in value. We will use artificial intelligence and virtual reality to improve precision and reduce wastage.”
+Automation can relieve labor shortages, Subbiah said. It also allows plants to locate in rural areas with a smaller labor force but nearer poultry houses and with lower property costs.
+Initially, people working remotely may help advance robotic processing. Subbiah envisions workers logging on from home with virtual-reality goggles and haptics gloves to control robots located miles away.
+While working remotely, the labor force will teach artificial intelligence how to cut up chickens of varying sizes and shapes.
+“Automated machines right now are programmed to debone or cut up chickens based on an average size and shape. But no chicken is that size or shape,” Subbiah said. “Robot-wielded knives cut meat poorly. The machines have to learn how to adjust to the reality of random sizes and shapes.”
+Georgia Tech’s participating scientists are all part of GTRI:
+Douglas Britton, manager of the Agricultural Technology Research Program
+Colin Trevor Usher, senior research scientist and branch head of robotics systems and technology, Agricultural Technology Research Program
+Ai-Ping Hu, principal research engineer, Agricultural Technology Research Program
+Konrad Ahlin, research engineer, Intelligent Sustainable Technologies Division
+Michael Park, research engineer, Intelligent Sustainable Technologies Division
+Benjamin Joffe, research scientist, Intelligent Sustainable Technologies Division
+Shreyes Melkote, the Morris M. Bryan, Jr. Professorship in Mechanical Engineering, associate director of the Georgia Tech Manufacturing Institute and executive director of the Novelis Innovation Hub
+“We are thrilled to partner with our colleagues here in the Division of Agriculture, as well as our colleagues at Georgia Tech and the other participating institutions on this exciting project,” said David Caldwell, head of the Division of Agriculture’s poultry science department and director of the Center of Excellence for Poultry Science.
+“We expect the findings from these coordinated research projects will be impactful for our stakeholders in the commercial poultry industry here in Northwest Arkansas and throughout the entire industry,” Caldwell said. “This project will help keep moving technology forward in processing and food safety of poultry.”
+For more information about the project,
+see the original press release
+on the University of Arkansas Division of Agriculture website .
+Additional Images
+Contact
+Catherine Barzler , Senior Research Writer and Editor
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

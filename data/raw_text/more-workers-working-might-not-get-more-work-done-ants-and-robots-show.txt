@@ -1,0 +1,46 @@
+More Workers Working Might Not Get More Work Done, Ants (and Robots) Show
+A new study shows that ants have a lot to teach robots about working in confined spaces.
+To understand their strategies for working effectively without clogging traffic jams, researchers studied how fire ants dug tunnels in glass particles that simulated soil. (Credit: Rob Felt, Georgia Tech)
+Aug 16, 2018
+— Atlanta, GA
+For ants and robots operating in confined spaces like tunnels, having more workers does not necessarily mean getting more work done. Just as too many cooks in a kitchen get in each other’s way, having too many robots in tunnels creates clogs that can bring the work to a grinding halt.
+A study published August 17 in the journal
+Science
+shows that in fire ant colonies, a small number of workers does most of the digging, leaving the other ants to look somewhat less than industrious. For digging nest tunnels, this less busy approach gets the job done without ant traffic jams – ensuring smooth excavation flow. Researchers found that applying the ant optimization strategy to autonomous robots avoids mechanized clogs and gets the work done with the least amount of energy.
+Optimizing the activity of autonomous underground robots could be useful for tasks such as disaster recovery, mining or even digging underground shelters for future planetary explorers. The research was supported by the National Science Foundation’s Physics of Living Systems program, the Army Research Office and the Dunn Family Professorship.
+“We noticed that if you have 150 ants in a container, only 10 or 15 of them will actually be digging in the tunnels at any given time,” said
+Daniel Goldman , a professor in the
+School of Physics
+at the Georgia Institute of Technology. “We wanted to know why, and to understand how basic laws of physics might be at work. We found a functional, community benefit to this seeming inequality in the work environment. Without it, digging just doesn’t get done.”
+By monitoring the activities of 30 ants that had been painted to identify each individual, Goldman and colleagues, including former postdoctoral fellow Daria Monaenkova and Ph.D. student Bahnisikha Dutta, discovered that just 30 percent of the ants were doing 70 percent of the work – an inequality that seems to keep the work humming right along. However, that is apparently not because the busiest ants are the most qualified. When the researchers removed the five hardest working ants from the nest container, they saw no productivity decline as the remaining 25 continued to dig.
+Having a nest is essential to fire ants, and if a colony is displaced – by a flood, for instance – the first thing the ants will do upon reaching dry land is start digging. Their tunnels are narrow, barely wide enough for two ants to pass, a design feature hypothesized to give locomotion advantages in the developing vertical tunnels. Still, the ants know how to avoid creating clogs by retreating from tunnels already occupied by other workers – and sometimes by not doing anything much at all.
+To avoid clogs and maximize digging in the absence of a leader, robots built by Goldman’s master’s degree student Vadim Linevich were programmed to capture aspects of the dawdling and retreating ants. The researchers found that as many as three robots could work effectively in a narrow horizontal tunnel digging 3D printed magnetic plastic balls that simulated sticky soil. If a fourth robot entered the tunnel, however, that produced a clog that stopped the work entirely.
+“When we put four robots into a confined environment and tried to get them to dig, they immediately jammed up,” said Goldman, who is the Dunn Family Professor in the School of Physics. “While observing the ants, we were surprised to see that individuals would sometimes go to the tunnel and if they encountered even a small amount of clog, they’d just turn around and retreat. When we put those rules into combinations with the robots, that created a good strategy for digging rapidly with low amounts of energy use per robot.”
+Experimentally, the research team tested three potential behaviors for the robots, which they termed “eager,” “reversal” or “lazy.” Using the eager strategy, all four robots plunged into the work – and quickly jammed up. In the reversal behavior, robots gave up and turned around when they encountered delays reaching the work site. In the lazy strategy, dawdling was encouraged.
+“Eager is the best strategy if you only have three robots, but if you add a fourth, that behavior tanks because they get in each other’s way,” said Goldman. “Reversal produces relatively sane and sensible digging. It is not the fastest strategy, but there are no jams. If you look at energy consumed, lazy is the best course.” Analysis techniques based on glassy and supercooled fluids, led by former Ph.D. student Jeffrey Aguilar, gave insight into how the different strategies mitigated and prevented clog-forming clusters.
+To understand what was going on and experiment with the parameters, Goldman and colleagues – including Will Savoie, a Georgia Tech Ph.D. student, Research Assistant Hui-Shun Kuan and Professor Meredith Betterton from the Department of Physics at the University of Colorado Boulder – used computer modeling known as cellular automata that has similarities to the way in which traffic engineers model the movement of cars and trucks on a highway.
+“On highways, too few cars don’t provide much flow, while too many cars create a jam,” Goldman said. “There is an intermediate level where things are best, and that is called the fundamental diagram. From our modeling, we learned that the ants are working right at the peak of the diagram. The right mix of unequal work distributions and reversal behaviors has the benefit of keeping them moving at maximum efficiency without jamming.”
+The ability to avoid clumping seems to meet a need that many systems have, Betterton noted. “The ants work in a sweet spot where they can dig quickly without too many clogs. We see the same physics in ant digging, simulation models, and digging by robots, which suggests that for groups of animals that need to excavate, avoiding clogs is crucial.”
+The researchers used robots designed and built for the research, but they were no match for the capabilities of the ants. The ants are flexible and robust, able to squeeze past each other in confines that would cause the inflexible robots to jam. In some cases, the robots in Goldman’s lab even damaged each other while jostling into position for digging.
+The research findings could be useful for space exploration where tunnels might be needed to quickly shield humans from approaching dust storms or other threats. “If you were a robot swarm on Mars and needed to dig deeply in a hurry to get away from dust storms, this strategy might help provide shelter without having perfect information about what everybody was doing,” Goldman explained.
+Beyond the potential robotics applications, the work provides insights into the complex social skills of ants and adds to the understanding of active matter.
+“Ants that live in complex subterranean environments have to develop sophisticated social rules to avoid the bad things that can happen when you have a lot of individuals in a crowded environment,” Goldman said. “We are also contributing to understanding the physics of task-oriented active matter, putting more experimental knowledge into phenomenon such as swarms.”
+In addition to those already mentioned, the research included Michael Goodisman, associate professor in Georgia Tech’s School of Biological Sciences.
+This research was supported by the National Science Foundation through grant numbers PoLS-0957659, PHY-1205878 and DMR-1551095 as well as a grant W911NF-13-1-0347 from the Army Research Office, and the National Academies Keck Futures Initiative. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation or Army Research Office.
+CITATION : J. Aguilar, et. al., “Collective clog control: optimizing traffic flow in confined biological and robophysical excavation,” (Science 2018).
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181 USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

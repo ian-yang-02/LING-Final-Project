@@ -1,0 +1,34 @@
+Creating the Tools to Conserve Our Wildlife
+Scientists at the Georgia Institute of Technology and Max Planck Institute for Intelligent Systems in Stuttgart have published a perspectives piece on the different tools used throughout the world aiding in the conservation of wildlife and biodiversity.
+Sep 06, 2023
+The sixth mass extinction is currently happening on Earth. Rapid biodiversity loss is affecting every corner of the globe, as species of plants, mammals, fish, and reptiles disappear due to the changing climate. While much of the climate crisis and biodiversity loss looks grim, a group of researchers has recently highlighted some of the newest tools being used to address it.
+Scientists at the Georgia Institute of Technology and Max Planck Institute for Intelligent Systems in Stuttgart have published a perspectives piece on the different tools used throughout the world that are aiding in the conservation of wildlife and biodiversity.
+They highlight advances in technology, including both hardware and software, as well as frugal resources that are changing the way animals are protected. The research was published in the
+Journal of The Royal Society Interface
+in August.
+“We are experiencing technological advancements of low-cost hardware, open-source software, machine learning, and more that can help with global conservation efforts,” said Andrew Schulz, postdoctoral researcher in the haptic intelligence department at Max Planck Institute and recent Ph.D. graduate from the
+George W. Woodruff School of Mechanical Engineering . “ For
+researchers and people interested in learning about the ways conservation technology and tools are created, this piece serves as a starter guide to the field.”
+In the article, the researchers presented five case studies of conservation tools, including open-source innovation, environmental DNA, computer vision, game theory and optimization, and frugal technology. Researchers also highlighted the importance of indigenous design in these conservation tool interventions and warned not to employ toxic practices, such as colonization of conservation or parasitic conservation. These practices take advantage of native lands, where conservationists refuse to work with local or indigenous populations and often do not cite or credit their help or expertise.
+One
+case study looked at
+AudioMoth , a device that allows low-cost access to bioacoustics research. Recently, an AudioMoth was paired with an animal observation tower to track bird migrations over Georgia Tech’s campus. AudioMoth can also monitor aquatic environments, like coral colonies, to assist with species identification and habitat restoration. It’s used in a wide range of fields to monitor the biodiversity of a habitat or even help with the
+early detection of poachers to prevent wildlife decline.
+“One of the best parts about this project was working with so many excellent researchers,” Schulz said. They included Suzanne Stathatos from Caltech and the project’s co-leaders, Cassie Shriver and Benjamin Seleb, from Georgia Tech’s
+quantitative biosciences Ph.D. program . “As early-career researchers working together, it is great to see that the conversations about conservation tool construction are growing and being led by outstanding Ph.D. students.”
+At Georgia Tech, conservation tools are constantly being built and implemented. The Tech4Wildlife student organization is working to implement conservation tech solutions, including a
+rabies dispenser for our campus foxes, bird monitors in the EcoCommons,
+and
+forage feeders for Zoo Atlanta’s gorillas .
+"I'm proud to see Cassie, Ben, and Andrew collaborating across fields and institutions to move conservation technology forward, and it inspires me about the future of conservation science,” said William Ratcliff, associate professor in the
+School of Biological Sciences
+and director of the quantitative biosciences program.
+CITATION:
+Conservation tools: the next generation of engineering–biology collaborations   Andrew K. Schulz ., Cassie Shriver, Suzanne Stathatos, and Benjamin Seleb et. Al,
+Journal of The Royal Society Interface Volume 20, Issue 205 . Published:16 August 2023. https://doi.org/10.1098/rsif.2023.0232
+Additional Media
+Contact
+Georgia Parmelee | georgia.parmelee@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

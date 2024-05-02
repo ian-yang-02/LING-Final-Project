@@ -1,0 +1,58 @@
+fight against top killer, clogged arteries, garners acclaimed nih award 
+ the fight to discover hdl cocktails that actually work against atherosclerosis, the # 1 killer of our times, receives major funding. 
+ atherosclerosis is the foremost cause of coronary artery disease, the number one killer of people in the united states. credit: national institutes of health 
+ oct 05, 2017 
+ — atlanta, ga 
+ very many lives may someday depend on the work of researchers like tony kim. he’s fighting atherosclerosis, the foremost cause of coronary artery disease, which is  america’s single greatest killer . 
+ the national institutes of health has awarded kim over $2.3 million in funding to boost his innovative research using  life-mimicking laboratory chips  to explore the treatment of atherosclerosis. no other health hazard appears to be deadlier, as the condition is also behind stroke, some chronic kidney diseases, peripheral artery disease, and carotid artery disease. 
+ known for its high prestige, the  nih director’s new innovator award  is one of four  high-risk, high-reward awards  given annually, which recognize promising new projects that address challenges in biomedical research of pressing importance to human health. 
+ everyone is at risk 
+ we are all at risk for clogged arteries or hardening of the arteries, common terms for  atherosclerosis . 
+ if atherosclerosis is detected in time, bypass surgery,  drugs that lower bad cholesterol , and lifestyle changes can save lives. but many patients’ conditions worsen in spite of these, and there is a strong need for better treatment options. 
+ failures in clinical trials of new potential treatments that raise levels of “good cholesterol”  have underscored the need for better understanding of the therapeutic role of good cholesterols known as  high-density lipoprotein (hdl) . they are the focus of the research for which kim’s grant was awarded. 
+ bad   ‘good cholesterol’ 
+ recently, researchers have uncovered that good cholesterols are not always good. there are thousands of different hdls, and, take together, they don’t work as they should in patients with coronary artery disease. some hdls even do bad things. 
+ “researchers tried raising hdl levels in patients’ bloodstreams thinking patients’ conditions might improve, but the coronary artery disease did not get better,” said  kim, an assistant professor in the george w. woodruff school of mechanical engineering  at the 
+ georgia institute of technology . “also, high levels of hdls in the bloodstream don’t always protect people from atherosclerosis.” 
+ kim is interested in hdls’ hit-or-miss qualities in atherosclerosis patients, and in how inflammation leads to hdls’ diminished effectiveness.  proinflammatory proteins in the bloodstream junk up good hdl s. “hdls remake themselves all the time, and they can incorporate proinflammatory proteins, which disturb the traditional good cholesterol functions that hdl is known for,” kim said. 
+ the kim group could better understand the mechanisms behind that, and also find ways to leverage these for treatments. his team may be able to identify some hdl cocktails that reduce atherosclerosis despite raised proinflammatory proteins levels in the bloodstream of patients with coronary artery disease or chronic kidney disease. 
+ artery-on-a-chip 
+ kim’s proposed research that won the  nih  award illuminates hdl interactions with proinflammatory proteins and with vascular tissues by mimicking some of them in the lab. kim makes aspects of these interactions observable via a special slide called a  human-coronary-artery-on-a-chip . 
+ it’s a clear  plastic chip with microfluidic passages  lined with living arterial cells to form an artificial coronary artery. inside the artificial arteries,  kim’s research group  experiments with what are called engineered high-density lipoproteins (ehdls), nanoparticles synthesized to be near faultless samples of specific hdls. 
+ natural hdls are often not as uniform in composition and size because of interactions with other proteins. on the other hand, kim’s group can produce ehdls with uniform properties, allowing for reliable experimental parameters. the ehdls are  highly reproducible, as are the experiments, the latter of which is essential in research  for cementing trustworthy results. 
+ innovative  microfluidic technology  allows for the robust production of 
+ multicomponent nanomaterials , in this case, the ehdls and inflammatory proteins, in large quantities and varieties. as a result, kim’s team can compile a comprehensive ehdl library with various functional proteins to see how they affect the artificial artery the way actual hdls might in combination with inflammatory proteins affect real arteries in the body. 
+ once the  in vitro  chip experiments yield results, kim’s research group will work to corroborate them  in vivo  in experiments on a mouse model of atherosclerosis in collaboration with cardiology engineering researcher  hanjoong jo at emory university school of medicine . 
+ atherosclerosis brief description 
+ the old explanation about how cholesterol gunk coats blood vessels like lard is not quite correct, but animal fats are involved in atherosclerosis. here’s a brief description of how the disease clogs arteries. 
+ oil and water don’t mix. 
+ so, lipoproteins, which are large collections of particular protein molecules, wrap around lipids, which include  oily fats called triglycerides , to transport them through the bloodstream, which is water-based. some lipoproteins, like the infamous  low-density lipoproteins (ldls) , deliver lipids to cells, but hdls pick them up from cells when it’s time for them to leave and take them to the liver for breakdown, a process called  reverse cholesterol transport . 
+ if there aren’t enough well-functioning hdls in the bloodstream, reverse cholesterol transport can slow down, and the lipids amass in artery walls behind  endothelial cells, which make up the lining inside of arteries . 
+ a healthy body maintains a balance between anti-inflammatory and proinflammatory proteins, so normally not too many hdls are corrupted too badly. but when levels of proinflammatory proteins in the bloodstream rise, more hdls get corrupted. 
+ as a result, lipids congregate in the arterial wall, along with immune cells that get stuck there, together forming plaque, which causes the arteries to narrow and constrict blood flow. the plaque can burst into the artery, clogging it even more. 
+ a heart attack or stroke can result. 
+ also read: alzheimer's research, its vexing past, its future hopes 
+ high-risk, high-reward 
+ the name of the category of the nih grant kim received is high-risk, high-reward for a reason. the risk refers to a bold move into uncharted territory, according to the nih. 
+ the potential reward, in this case, could mean discovering new effective treatments against what appears to be the single deadliest killer of our times. 
+ kim sees high reward potential in the unique possibilities combining the human- organ-on-a-chip technology  and the bioinspired nanotechnology provides. “you can’t do this type of work  in vivo ,” kim said. “and the high reproducibility is very valuable to sort out truly good candidates for treatment trials.” 
+ should the experiments result in nailing down a drug candidate, kim’s lab will leverage its high-throughput manufacturing method to produce ample substances with high consistency for drug testing. 
+ and the high risk in his view? 
+ “even if we find hdls with specific functions, they may not work in the same way in our bodies because of hdls’ compositional and functional complexity. the body can still introduce unidentified proteins into the hdls,” kim said. “it’s always like that in human trials. things we still don’t know about the body’s enormous biochemistry can get in the way.” 
+ “even so, the experiments may provide unprecedented insights into these complex nanoparticles and still move research forward toward better treatments. i think that, combined with all the engineering and scientific possibilities the work taps into, the high rewards dampen the potential risk.” 
+ the nih director’s new innovator award covers five years of research funding and is given to a principal investigator who is in an early career stage and has never received a large-category nih grant before. 
+ tony kim is also affiliated with georgia tech’s  wallace h. coulter department of biomedical engineering at georgia tech and emory , georgia tech’s  parker h. petit institute for bioengineering and bioscience , and georgia tech’s  institute for electronics and nanotechnology . 
+ also read: successful human trials of painless vaccine you give to yourself: microneedle patches 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) 
+ writer : ben brumfield 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,62 @@
+Remote-Control Shoots Laser at Nano-Gold to Turn on Cancer-Killing Immune Cells
+A near-infrared light, similar to that of a TV remote, combines with gold nano-particles to flip a gene switch in T-cells to hyper-activate them inside of tumors.
+Three T-cells attack a cancer cell in this artist's depiction.
+Source: Getty Images / rights not transferable / not a press handout
+Apr 19, 2018
+— Atlanta, GA
+A remote command could one day send immune cells on a rampage against a malignant tumor. The ability to mobilize, from outside the body, targeted cancer immunotherapy inside the body has taken a step closer to becoming reality.
+Bioengineers at the Georgia Institute of Technology have installed a heat-sensitive switch into
+T-cells
+that can activate the T-cells when heat turns the switch on. The method, tested in mice and
+published in a new study , is locally targeted and could someday help turn immunotherapy into a precision instrument in the fight against cancer.
+Immunotherapy
+has made headlines with startling high-profile successes like saving  former U.S. President Jimmy Carter  from brain cancer. But the treatment, which activates the body’s own immune system against cancer and other diseases,
+has also, unfortunately, proved to be hit-or-miss .
+“In patients where radiation and traditional chemotherapies have failed, this is where T-cell therapies have shined, but the therapy is still new,” said principal investigator Gabe Kwong. “This study is a step toward making it even more effective.”
+Cancer is notoriously wily, and when T-cells crawl into a tumor, the tumor tends to switch off the T-cells’ cancer-killing abilities. Researchers have been working to switch them back on.
+Laser, gold, and T-cells
+Kwong’s remote control has done this in the lab, while also boosting T-cell activity.
+In
+the study , Kwong’s team successfully put their remote-control method through initial tests in mice with implanted tumors (so-called tumor phantoms, specially designed for certain experiments). The remote works via three basic components.
+First, the researchers modified T-cells, a type of white blood cell, to include a genetic switch that, when switched on, increased the cells’ expression of specific proteins by more than 200 times. That ability could be used to guide T-cells’ cancer-fighting activities.
+The T-cells, with the switch off, were introduced into the tumor phantom which was placed into the mice. The tumor phantom also included
+gold nanorods , just dozens of atoms in size. The researchers shone pulses of a gentle laser in the near-infrared (NIR) range from outside the mouse’s body onto the spot where the tumor was located.
+The nanorods receiving the light waves turned them into useful, localized mild heat, allowing the researchers to precisely warm the tumor. The elevated heat turned on the T-cells’ engineered switch.
+Hyper-activated T-cells
+This study honed the method and confirmed that its components worked in living animals. It was not the intention of the study to treat cancer yet, although undertaking that is the next step, which is already on its way.
+“In upcoming experiments, we are implementing this approach to treat aggressive tumors and establish cancer-fighting effectiveness,” said Kwong, who is an
+assistant professor in the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University .
+The researchers published their results
+in the current edition of the journal ACS Synthetic Biology . The study’s first author was graduate research assistant Ian Miller. The research was funded by the National Institutes of Health, the National Science Foundation, the Burroughs Wellcome Fund, and the Shurl and Kay Curci Foundation.
+Better immunotherapy
+Bioengineers have been able to do a lot with T-cells already when they’re outside of the body.
+“Right now, we’re adept at harvesting a patient’s own T-cells, modifying to target cancer, growing them outside the body until there are hundreds of millions of them,” Kwong said. “But as soon as we inject them back into a patient, we lose control over the T-cells’ activity inside the body.”
+The on-switch changes that.
+T-cell toxicities
+Having an off-switch is also important. If T-cells were engineered to be always-on and hyper-activated, as they moved through the body, they could damage healthy tissue.
+“There would be off-target toxicities, so you really want to pinpoint their activation,” Kwong said. “Our long-term goal for them is to activate site-specifically, so T-cells can overcome immunosuppression by the tumor and become better killers there.”
+When the heat remote is turned off, so are Kwong’s engineered T-cells, because customary body temperatures are not high enough to activate their switch.
+Heat-shock switch
+The switch is a natural safety mechanism in human cells that has evolved to protect against heat shock and turns on when tissue temperatures rise above the body’s normal operating range, which centers on 37 degrees Celsius (98.6 F). But the researchers re-fitted T-cells with the switch to make it turn on other functions, and it could be used to hyper-activate the cells.
+The Georgia Tech bioengineers found that the switch worked in a range of 40 to 42 degrees Celsius (104 - 107.6 F), high enough to not react to the majority of high fevers and low enough to not damage healthy tissue nor the engineered T-cells.
+“When the local temperature is raised to 45 degrees (113 F), some cells in our body don’t like it,” Kwong said. “But if heating is precisely controlled in a 40 to 42 degrees window with short pulses of the NIR light, then it turns on the T-cells’ switch, and body cells are still very comfortable.”
+Immuno-goals and dreams
+The researchers want to combine the switch with some additional cancer-fighting weapons they envision engineering into T-cells.
+For example, secreted molecules called cytokines can boost immune cells’ ability to kill cancer, but cytokines, unfortunately, can also be toxic. “Our long-term goal is to engineer T-cells to make and release powerful immune system stimulants like cytokines on command locally and sparingly,” Kwong said.
+In other studies,
+gently heated gold nanorods have been shown to kill tumors or hinder metastasis . But T-cell treatments could be even more thorough and, in addition, hopefully, one day give patients treated with them a long-lasting memory immune response to any recurrence of their cancer.
+Like this article?  Get our email newsletter here.
+[Note: This experimental method is in laboratory stages in mice and is not available as a treatment of any type for human patients.]
+The study was co-authored by Marielena Castro, Joe Maenza and Jason Weis of Coulter BME at Georgia Tech. The research was funded by the National Institutes of Health Director’s New Innovator Award (grant #DP2HD091793), the NIH National Center for Advancing Translational Sciences (grant #UL1TR000454), the NIH GT BioMAT Training Grant (#5T32EB006343), the National Science Foundation (grant # DGE-1451512), the Shurl and Kay Curci Foundation, and the Burroughs Wellcome Fund. Any findings or opinions are those of the authors and not necessarily of the funding agencies.
+Gabe Kwong is also a member of the following research departments at Georgia Tech: The Institute for Electronics and Nanotechnology, the Parker H. Petit Institute of Bioengineering and Bioscience, and the Integrated Cancer Research Center. Kwong is also part of the Georgia Immunoengineering Consortium at Georgia Tech and Emory.
+Additional Images
+Contact
+Writer & Media Representative : Ben Brumfield (404-660-1408)
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

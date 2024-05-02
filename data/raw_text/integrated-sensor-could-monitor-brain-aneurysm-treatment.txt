@@ -1,0 +1,46 @@
+Integrated Sensor Could Monitor Brain Aneurysm Treatment
+A proof-of-concept sensor could help with monitoring treatment of brain aneurysms.
+A proof-of-concept flow sensor is shown here on a stent backbone. (Credit: John Toon, Georgia Tech)
+Aug 02, 2018
+— Atlanta, GA
+Implantation of a stent-like flow diverter can offer one option for less invasive treatment of brain aneurysms – bulges in blood vessels – but the procedure requires frequent monitoring while the vessels heal. Now, a multi-university research team has demonstrated proof-of-concept for a highly flexible and stretchable sensor that could be integrated with the flow diverter to monitor hemodynamics in a blood vessel without costly diagnostic procedures.
+The sensor, which uses capacitance changes to measure blood flow, could reduce the need for testing to monitor the flow through the diverter. Researchers, led by Georgia Tech, have shown that the sensor accurately measures fluid flow in animal blood vessels in vitro, and are working on the next challenge: wireless operation that could allow in vivo testing.
+The research was reported July 18 in the journal
+ACS Nano
+and was supported by multiple grants from Georgia Tech’s Institute for Electronics and Nanotechnology, the University of Pittsburgh and the Korea Institute of Materials Science.
+“The nanostructured sensor system could provide advantages for patients, including a less invasive aneurysm treatment and an active monitoring capability,” said
+Woon-Hong Yeo , an assistant professor in Georgia Tech’s
+George W. Woodruff School of Mechanical Engineering
+and
+Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University . “The integrated system could provide active monitoring of hemodynamics after surgery, allowing the doctor to follow up with quantitative measurement of how well the flow diverter is working in the treatment.”
+Cerebral aneurysms occur in up to five percent of the population, with each aneurysm carrying a one percent risk per year of rupturing, noted Youngjae Chun, an associate professor in the Swanson School of Engineering at the University of Pittsburgh. Aneurysm rupture will cause death in up to half of affected patients.
+Endovascular therapy using platinum coils to fill the aneurysm sac has become the standard of care for most aneurysms, but recently a new endovascular approach – a flow diverter – has been developed to treat cerebral aneurysms. Flow diversion involves placing a porous stent across the neck of an aneurysm to redirect flow away from the sac, generating local blood clots within the sac.
+“We have developed a highly stretchable, hyper-elastic flow diverter using a highly-porous thin film nitinol,” Chun explained. “None of the existing flow diverters, however, provide quantitative, real-time monitoring of hemodynamics within the sac of cerebral aneurysm. Through the collaboration with Dr. Yeo's group at Georgia Tech, we have developed a smart flow-diverter system that can actively monitor the flow alterations during and after surgery.”
+Repairing the damaged artery takes months or even years, during which the flow diverter must be monitored using MRI and angiogram technology, which is costly and involves injection of a magnetic dye into the blood stream. Yeo and his colleagues hope their sensor could provide simpler monitoring in a doctor’s office using a wireless inductive coil to send electromagnetic energy through the sensor. By measuring how the energy’s resonant frequency changes as it passes through the sensor, the system could measure blood flow changes into the sac.
+“We are trying to develop a batteryless, wireless device that is extremely stretchable and flexible that can be miniaturized enough to be routed through the tiny and complex blood vessels of the brain and then deployed without damage,” said Yeo. “It’s a very challenging to insert such electronic system into the brain’s narrow and contoured blood vessels.”
+The sensor uses a micro-membrane made of two metal layers surrounding a dielectric material, and wraps around the flow diverter. The device is just a few hundred nanometers thick, and is produced using nanofabrication and material transfer printing techniques, encapsulated in a soft elastomeric material.
+“The membrane is deflected by the flow through the diverter, and depending on the strength of the flow, the velocity difference, the amount of deflection changes,” Yeo explained. “We measure the amount of deflection based on the capacitance change, because the capacitance is inversely proportional to the distance between two metal layers.”
+Because the brain’s blood vessels are so small, the flow diverters can be no more than five to ten millimeters long and a few millimeters in diameter. That rules out the use of conventional sensors with rigid and bulky electronic circuits.
+“Putting functional materials and circuits into something that size is pretty much impossible right now,” Yeo said. “What we are doing is very challenging based on conventional materials and design strategies.”
+The researchers tested three materials for their sensors: gold, magnesium and the nickel-titanium alloy known as nitinol. All can be safely used in the body, but magnesium offers the potential to be dissolved into the bloodstream after it is no longer needed.
+The proof-of-principle sensor was connected to a guide wire in the in vitro testing, but Yeo and his colleagues are now working on a wireless version that could be implanted in a living animal model. While implantable sensors are being used clinically to monitor abdominal blood vessels, application in the brain creates significant challenges.
+“The sensor has to be completely compressed for placement, so it must be capable of stretching 300 or 400 percent,” said Yeo. “The sensor structure has to be able to endure that kind of handling while being conformable and bending to fit inside the blood vessel.”
+The research included multiple contributors from different institutions, including Connor Howe from Virginia Commonwealth University; Saswat Mishra and Yun-Soung Kim from Georgia Tech, Youngjae Chun, Yanfei Chen, Sang-Ho Ye and William Wagner from the University of Pittsburgh; Jae-Woong Jeong from the Korea Advanced Institute of Science and Technology; Hun-Soo Byun from Chonnam National University; and Jong-Hoon Kim from Washington State University.
+CITATION : Connor Howe, et. al., “Stretchable, Implantable, Nanostructured Flow-Diverter System for Quantification of Intra-aneurysmal Hemodynamics” (ACS Nano, 2018).
+http://dx.doi.org/10.1021/acsnano.8b04689
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia 30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu)
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

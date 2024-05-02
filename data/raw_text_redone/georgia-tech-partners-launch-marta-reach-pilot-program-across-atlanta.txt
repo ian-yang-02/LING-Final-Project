@@ -1,0 +1,42 @@
+georgia tech partners to launch marta reach pilot program across atlanta 
+ new on-demand program will connect riders to stations 
+ georgia tech and marta are partnering on a 6-month pilot of a new on-demand rideshare service, connecting riders in three zones across the region to marta bus and rail service. this pilot is meant to test how on-demand shuttles can be used to make it easier and faster for riders to get to and from their destinations using marta. 
+ feb 28, 2022 
+ — atlanta, ga 
+ great solutions often start with a simple idea. 
+ for georgia tech industrial engineering professor 
+ pascal van hentenryck , it started four years ago: an idea to tackle one of the biggest challenges for america’s eight largest rapid transit systems. 
+ “one of the big issues is connecting to and from the system. first and last mile,” van hentenryck said. 
+ so, during the pandemic, van hentenryck decided to contact marta officials directly, and, with his team of student researchers at georgia tech, 
+ he developed a system to make marta more efficient 
+ and able to better serve communities that have a vital need for reliable transit. 
+ that’s how marta reach was born. 
+ “we were contacted by pascal in late 2020 about the possibility of an on-demand network,” said marta interim general manager and ceo collie greenwood. 
+ van hentenryck describes marta reach as an on-demand multimodal transportation solution — smartphones and shuttles outfitted with tablets connected to an app that helps riders find a quick route to their nearest marta station. think ridesharing platforms like lyft or uber — except this ride is a flat, low-cost fee. marta says this program is meant to work with the city of atlanta’s existing transportation services and will help minimize waiting and walking, eliminating the inconvenience of users having to walk a mile or more to their nearest marta station. 
+ “public transit is the most cost-effective way to move people,” said van hentenryck , 
+ a. russell chandler iii chair and professor in the 
+ h. milton stewart school of industrial and systems engineering . 
+ “but in atlanta, some people may face challenges getting to the marta station.” thanks to this new pilot program, they can download the smartphone app and request a ride. 
+ on march 1, marta and georgia tech will begin pilot testing this program in three strategic neighborhoods: west atlanta, belvedere park, and fort gillem. van hentenryck says there’s never been a piloted on-demand public transit system like this in a major u.s. metropolitan area like atlanta. 
+ the chosen neighborhoods were selected not only because they are lacking in transportation options but because of the different communities they serve. fort gillem is an area with a high number of distribution centers with employees who could use more efficient transportation. west atlanta is highly residential, with roads often too narrow for marta’s full-sized buses. and belvedere park is a mixed-use neighborhood that combines business and residential zoning. 
+ during the pilot test, folks in these areas can use the marta reach app to call for a shuttle to pick them up and take them to the nearest marta transportation hub. 
+ when users call for a pickup, their requests will be routed through a server at georgia tech that connects to the drivers on marta’s new fleet of reach vehicles. 
+ “we developed the cloud computing platform, connected riders and drivers, and we’re making sure the whole system is synchronized,” said van hentenryck. 
+ “we couldn’t be happier they are willing to study our ridership to see what the needs are and tailor a solution,” said greenwood. 
+ for the georgia tech researchers, it’s a perfect partnership as well. 
+ “we’ve been thinking about transportation for years. it connects people to everything from jobs and education to groceries,” explained van hentenryck. “it’s amazing that a large agency like marta would allow us to come in and test this.” 
+ the pilot has been funded by a grant from the national science foundation, and from march until august, the service will be available from 6 a.m. to 7 p.m. every weekday. 
+ “georgia tech’s mission calls us to develop leaders who advance technology and improve the human condition. to use our research and expertise to improve lives and livelihoods. that’s why we’re here," said georgia tech president ángel cabrera.  "we’re grateful for the opportunity, for the support of marta and the national science foundation, and for the great work by professor van hentenryck’s team." 
+ marta officials will be looking to see how many users take advantage of this new first-and-last-mile option. georgia tech’s researchers will be watching closely, too, analyzing data including how long it takes to fulfill riders’ requests. 
+ marta officials say if the data shows positive impacts, the pilot could expand to other parts of the city. georgia tech researchers say this on-demand project could also serve as a model for more major metropolitan areas to follow. 
+ “we can take on projects that are not just technologically cool and exciting, but at the same time they also have a big impact on society,”   said van hentenryck. 
+ learn more about the marta reach program and download the app here. 
+ additional images 
+ contact 
+ steven norris 
+ director, media relations & social media 
+ email 
+ snorris@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,30 @@
+researchers create faster and cheaper way to print tiny metal structures with light 
+ the researchers developed a light-based means of printing nano-sized metal structures that is 480 times faster and 35 times cheaper than the current conventional method. 
+ jan 18, 2024 
+ researchers at the georgia institute of technology have developed a light-based means of printing nano-sized metal structures that is significantly faster and cheaper than any technology currently available. it is a scalable solution that could transform a scientific field long reliant on technologies that are prohibitively expensive and slow. the breakthrough has the potential to bring new technologies out of labs and into the world. 
+ technological advances in many fields rely on the ability to print metallic structures that are nano-sized — a scale hundreds of times smaller than the width of a human hair.  sourabh saha , assistant professor in the  george w. woodruff school of mechanical engineering , and jungho choi, a ph.d. student in saha’s lab, developed a technique for printing metal nanostructures that is 480 times faster and 35 times cheaper than the current conventional method. 
+ their research was  published  in the journal  advanced materials . 
+ printing metal on the nanoscale — a technique known as nanopatterning — allows for the creation of unique structures with interesting functions. it is crucial for the development of many technologies, including electronic devices, solar energy conversion, sensors, and other systems. 
+ it is generally believed that high-intensity light sources are required for nanoscale printing. but this type of tool, known as a femtosecond laser, can cost up to half a million dollars and is too expensive for most research labs and small businesses. 
+ “as a scientific community, we don’t have the ability to make enough of these nanomaterials quickly and affordably, and that is why promising technologies often stay limited to the lab and don’t get translated into real-world applications,” saha said. 
+ “the question we wanted to answer is, ‘do we really need a high-intensity femtosecond laser to print on the nanoscale?’ our hypothesis was that we don’t need that light source to get the type of printing we want.” 
+ they searched for a low-cost, low-intensity light that could be focused in a way similar to femtosecond lasers, and chose superluminescent light emitting diodes (sleds) for their commercial availability. sleds emit light that is a billion times less intense than that of femtosecond lasers. 
+ saha and choi set out to create an original projection-style printing technology, designing a system that converts digital images into optical images and displays them on a glass surface. the system operates like digital projectors but produces images that are more sharply focused. they leveraged the unique properties of the superluminescent light to generate sharply focused images with minimal defects. 
+ they then developed a clear ink solution made up of metal salt and added other chemicals to make sure the liquid could absorb light. when light from their projection system hit the solution, it caused a chemical reaction that converted the salt solution into metal. the metal nanoparticles stuck to the surface of the glass, and the agglomeration of the metal particles creates the nanostructures. because it is a projection type of printing, it can print an entire structure in one go, rather than point by point — making it much faster. 
+ after testing the technique, they found that projection-style nanoscale printing is possible even with low-intensity light, but only if the images are sharply focused. saha and choi believe that researchers can readily replicate their work using commercially available hardware. unlike a pricey femtosecond laser, the type of sled that saha and choi used in their printer costs about $3,000. 
+ “at present, only top universities have access to these expensive technologies, and even then, they are located in shared facilities and are not always available,” choi said. “we want to democratize the capability of nanoscale 3d printing, and we hope our research opens the door for greater access to this type of process at a low cost.” 
+ the researchers say their technique will be particularly useful for people working in the fields of electronics, optics, and plasmonics, which all require a variety of complex metallic nanostructures. 
+ “i think the metrics of cost and speed have been greatly undervalued in the scientific community that works on fabrication and manufacturing of tiny structures,” saha said. 
+ “in the real world, these metrics are important when it comes to translating discoveries from the lab to industry. only when we have manufacturing techniques that take these metrics into account will we be able to fully leverage nanotechnology for societal benefit.” 
+ citation : j. choi, s. k. saha, scalable printing of metal nanostructures through superluminescent light projection.  adv. mater.  2024, 36, 2308112. 
+ doi : https: / / doi.org / 10.1002 / adma.202308112 
+ funding : funding includes grants from the g.w.w. school of mechanical engineering and the evpr’s office at the georgia institute of technology. imaging was performed at the georgia tech institute for electronics and nanotechnology, a member of the national nanotechnology coordinated infrastructure (nnci), which is supported by the national science foundation (eccs-2025462). 
+ additional media 
+ contact 
+ catherine barzler, senior research writer / editor 
+ catherine.barzler@gatech.edu 
+ email 
+ catherine.barzler@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

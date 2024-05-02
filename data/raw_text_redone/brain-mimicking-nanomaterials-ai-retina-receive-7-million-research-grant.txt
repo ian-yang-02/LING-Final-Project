@@ -1,0 +1,73 @@
+brain-mimicking nanomaterials for a.i. retina receive $7 million research grant 
+ the dream of computing the way the human brain does comes a step closer thanks to nanomaterials 
+ at the world's most advanced synchrotron, brookhaven national laboratory's newly constructed national synchrotron light source ii, georgia tech's partners from binghamton university will observe quantum properties in the georgia tech neuromorphic computing materials to try to better understand why they work.  credit: brookhaven national laboratory 
+ jul 28, 2017 
+ — atlanta, ga 
+ a future android brain like that of star trek’s commander data might contain neuristors, multi-circuit components that emulate the firings of human neurons. 
+ neuristors 
+ already exist today in labs, in small quantities, and to fuel the quest to boost neuristors’ power and numbers for practical use in brain-like computing, the u.s. department of defense has awarded a $7.1 million grant to a research team led by the georgia institute of technology. the researchers will mainly expand work on new metal oxide materials that buzz electronically at the nanoscale to emulate the way human neural networks buzz with electric potential on a cellular level. 
+ but to walk expectations back from 
+ the distant sci-fi future 
+ into the scientific present: the research team has developed neuristor materials to build, for now, an intelligent light sensor, and not some artificial version of the human brain, which would require hundreds of trillions of circuits. 
+ “we’re not going to reach circuit complexities of that magnitude, not even a tenth,” said 
+ alan doolittle, a professor at georgia tech’s school of electrical and computer engineering . “also, currently science doesn’t really know yet very well how the human brain works, so we can’t duplicate it.” 
+ intelligent retina 
+ but an artificial retina that can learn autonomously appears well within reach of the research team from georgia tech and 
+ binghamton university . despite the term “retina,” the development is not a medical implant, but it could be used in advanced image recognition cameras for national defense and police work. 
+ at the same time, it significantly advances brain-mimicking, or neuromorphic, computing. the research field that takes its cues from what science already does know about how the brain computes to develop exponentially more powerful computing. 
+ the retina is comprised of an array of neuristors, which combines the words “neuron” and “transistor” to refer to ultracompact circuits. the neuristors sense light, compute an image out of it and store the image. all three of the functions would occur simultaneously and nearly instantaneously. 
+ “the same device senses, computes and stores the image,” doolittle said. “the device is the sensor, and it’s the processor, and it’s the memory all at the same time.” a neuristor itself is comprised in part of devices called 
+ memristors 
+ inspired by the way human neurons work. 
+ [also read : 
+ the brain, cosmos in the cranium -- brain research in a nutshell] 
+ brain vs. pc 
+ that cuts out loads of processing and memory lag time that are inherent in traditional computing. 
+ take the device you’re reading this article on: its microprocessor has to tap a separate memory component to get data, then do some processing, tap memory again for more data, process some more, etc. “that back-and-forth from memory to microprocessor has 
+ created a bottleneck ,” doolittle said. 
+ a neuristor array breaks the bottleneck by emulating the extreme flexibility of biological nervous systems: 
+ when a brain 
+ computes , it uses a broad set of neural pathways that flash with enormous data. then, later, to compute the same thing again, it will use quite different neural paths. 
+ traditional computer pathways, by contrast, are hardwired. for example, look at a present-day processor and you’ll see lines etched into it. those are pathways that computational signals are limited to. 
+ the new memristor materials at the heart of the neuristor are not etched, and signals flow through the surface very freely, more like they do through the brain, exponentially increasing the number of possible pathways computation can take. that helps the new intelligent retina compute powerfully and swiftly. 
+ terrorists, missing children 
+ the retina’s memory could also store thousands of photos, allowing it to immediately match up what it sees with the saved images. the retina could pinpoint known terror suspects in a crowd, find missing children, or identify enemy aircraft virtually instantaneously, without having to trawl databases to correctly identify what is in the images. 
+ it could even autonomously learn to extrapolate further information, like calculating the third dimension of a face out of data from a two-dimensional image. even if you take away the optics, the new neuristor arrays still advance 
+ artificial intelligence . instead of light, a surface of neuristors could absorb massive data streams at once, compute them, store them, and compare them to patterns of other data, immediately. 
+ “it will work with anything that has a repetitive pattern like radar signatures, for example,” doolittle said. “right now, that’s too challenging to compute, because radar information is flying out at such a high data rate that no computer can even think about keeping up.” 
+ smart materials 
+ the research project’s title acronym cerebral may hint at distant dreams of an artificial brain, but what it stands for spells out the present goal in neuromorphic computing: cross-disciplinary electronic-ionic research enabling biologically realistic autonomous learning. 
+ the intelligent retina’s neuristors are based on novel metal oxide nanotechnology materials unique to georgia tech. they allow computing signals to flow flexibly across pathways 
+ that are electronic, which is customary in computing, and at the same time make use of ion motion , which is more commonly known from the way batteries and biological systems work. 
+ the new materials have already been created, and they work, but the researchers don’t yet fully understand why. 
+ much of the project is dedicated to examining 
+ quantum states 
+ in the materials and how those states help create useful electronic-ionic properties. researchers will view them by bombarding the metal oxides with extremely bright x-ray photons at the recently constructed 
+ national synchrotron light source ii . 
+ grant sub-awardee binghamton university is located close by, and binghamton physicists will run experiments and hone them via theoretical modeling. 
+ ‘sea of lithium’ 
+ the neuristors are created mainly by the way the metal oxide materials are grown in the lab, which has some advantages over building 
+ neuristors in a more wired way . 
+ this materials-growing approach to creating part of the computational structure is conducive to mass production. also, though neuristors in general free signals to take multiple pathways, georgia tech’s neuristors do it much more flexibly thanks to chemical properties. 
+ “we also have a sea of lithium, and it’s like an infinite reservoir of computational ionic fluid,” doolittle said. the lithium niobite imitates the way ionic fluid bathes  biological neurons  and allows them to flash with electric potential while signaling. in a neuristor array, the lithium niobite helps computational signaling move in myriad directions. 
+ “it’s not like the typical semiconductor material, where you etch a line, and only that line has the computational material,” doolittle said. 
+ commander data’s brain? 
+ “unlike any other previous neuristors, our neuristors will adapt themselves in their computational-electronic pulsing on the fly, which makes them more like a neurological system,” doolittle said. “they mimic biology in that we have ion drift across the material to create the memristors (the memory part of neuristors).” 
+ brains are far superior to computers at most things, but not all. brains recognize objects and do motor tasks much better. but computers are much better at arithmetic and data processing. 
+ neuristor arrays can meld both types of computing, making them biological and algorithmic at once, a bit like 
+ commander data’s brain . 
+ listen: how neurons make the brain compute -- audio report 
+ listen: wondrous facts about the brain -- audio report 
+ the research is being funded through the u.s. department of defense’s multidisciplinary university research initiatives (muri) program under grant number foa: n00014-16-r-fo05. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of those agencies. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu) 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

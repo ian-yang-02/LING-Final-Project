@@ -1,0 +1,34 @@
+bringing augmented reality to warehouses 
+ pickar uses augmented reality so warehouses can process orders more efficiently. 
+ sarthak srinivas, a computer science major, demonstrates an invention that makes it easier to manage warehouse inventory. the device is a finalist for the 2017 collegiate inventors competition. it was also a finalist for georgia tech's inventure prize. photo by rob felt. 
+ mar 14, 2017 
+ — atlanta, ga 
+ sarthak srinivas visited a warehouse a few months ago and worked a shift as a picker. it was his job to get a bunch of items scattered throughout the warehouse and bring them to one location. 
+ after a few hours of manipulating a heavy cart and carrying a tablet and a barcode scanning gun, his back and legs began to hurt. he also had trouble finding his way around the large, unfamiliar warehouse. 
+ shortly after his warehouse visit, srinivas, a computer science major at georgia tech, entered a hackathon with two other computer science majors. the three do research in augmented reality and wondered how the technology could be used in an everyday setting. 
+ they applied their research to the inefficiencies at warehouses and created pickar, a headset that uses augmented reality technology to overlay picking information so warehouses can find and process orders more efficiently. 
+ the invention is one of six competing for the 2017 georgia tech inventure prize. the annual competition awards $35,000 in cash prizes and brings together student innovators from all academic backgrounds to foster creativity, invention and entrepreneurship. 
+ “warehouses have three main problems and pickar can solve them all really well,” explained srinivas, who is from bangalore, india. 
+ the device integrates with existing warehouse management systems so the pickers always have the most relevant information available. the team also built the barcode scanner into the headset, eliminating the need to carry additional equipment. 
+ and they included a navigation system that takes advantage of the headset’s tracking capabilities to map out where to go in the warehouse. the device calculates which package is closest and where it is located and provides this information in the top left corner of the headset. then the headset maps out the shortest path, using green arrows to lead the way. 
+ order picking constitutes up to 60 percent of the operational costs for warehouses, said cheng hann gan, who is from wheaton, ill. and since about 80 percent of order picking in warehouses is manual any improvement will allow companies to save money, he added. 
+ the team envisions the technology being used in warehouses run by large companies such as amazon and wal-mart. but they said it could also benefit large government archives and libraries as well. 
+ “as computer science majors we knew we could create these solutions and design it in a way for everyone to use,” said wenqi xian, who is from beijing. 
+ additional images 
+ related links 
+ georgia tech's inventure prize 
+ contact 
+ laura diamond 
+ media relations 
+ 404-894-6016 
+ @laurardiamond 
+ email 
+ laura.diamond@gatech.edu 
+ additional information 
+ the winning inventure prize team will take home $20,000 and represent georgia tech in the annual acc inventure prize, taking place on campus much march 31. 
+ the second-place team earns $10,000. 
+ both first- and second-place finishers will receive free u.s. patent filings by georgia tech’s office of technology licensing and a spot in georgia tech’s startup accelerator program, flashpoint. 
+ a $5,000 people’s choice award will go to the fans’ favorite invention. voting will be held online and by text messaging during the finale. 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

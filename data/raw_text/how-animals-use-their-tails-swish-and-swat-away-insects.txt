@@ -1,0 +1,40 @@
+How Animals Use Their Tails to Swish and Swat Away Insects
+A new study shows how animals use their tails to keep mosquitoes at bay.
+Marguerite Matherne, a mechanical engineering Ph.D. student, and Professor David Hu examine the mammal tail simulator used to study the airflow needed to keep mosquitoes from landing. (Credit: John Toon, Georgia Tech)
+Oct 16, 2018
+— Atlanta, GA
+An adult elephant weighs in at nearly five tons. Its peskiest threat is a fraction of that. But in order for a pachyderm to slap away a tiny mosquito once it lands on its backside, an elephant must generate the same amount of torque it takes to accelerate a car.
+That’s one finding in a new Georgia Institute of Technology study that looked at how animals use their tails to keep mosquitoes at bay. The researchers also discovered that mammals swish the tips of their tails at a velocity of one meter per second, nearly the same speed as a mosquito flies.
+The study and its findings could help engineers discover new methods of building robots and energy-efficient machines that protect humans and animals from mosquitoes.
+“Most people assume that animals use their tails to swat at bugs, but we wanted to know how they do it,” said
+David Hu , the Georgia Tech professor who supervised the study. “They basically have two methods of attack: the swish and swat.”
+Swishing at one meter per second, an animal creates enough wind to keep nearly 50 percent of mosquitoes from landing on its rear end.
+The Georgia Tech team determined that success rate by building their own mammal tail simulator. They placed a fan atop an acrylic cylinder filled with 10 mosquitoes, then spun the machine at different speeds to see how many insects reached the top.
+“Running the fan faster than an animal’s tail kept even more mosquitoes away, but it takes a lot more energy to spin that quickly,” said Marguerite Matherne, a
+mechanical engineering
+Ph.D. student who led the study. “It’s more efficient to swing their tails at just the right speed.”
+The swish isn’t perfect, with about 15 percent of the biters finding their way to the animal’s skin. That’s why they also rely on the swat, the second layer of defense.
+Matherne went to Zoo Atlanta and pointed a video camera at elephants, zebras and giraffes. She also went to a horse farm. With hours of footage of animals’ backsides, she noticed that their tails have two parts that sway back and forth: the top part is bone and skin, and the bottom part is mostly hair. She found that the researchers could accurately model the tail as a double pendulum. That’s what the mammals use to accurately swat mosquitoes.
+“Our model shows that the swatting movement of both segments of the tail can be reproduced by only controlling the hinge at the top. Roboticists have struggled to accurately control double pendulums,” said Matherne. “By adjusting the torque during our simulations, we could control both movements.”
+An elephant’s tail weighs about 25 pounds. To lift it up and snap it sideways in 1.3 seconds, the huge animal must generate the same amount of torque as the engine of a sedan — 350 Newton meters to be exact.
+Humans have used some kind of fly deterrent for centuries. Matherne and Hu’s paper also looked at one of the more recent devices — the ShooAway — that uses two spinning arms to thwart flying mosquitos. The Georgia Tech team replaced their fan with a ShooAway and found that the product is just as effective as an animal’s tail, although it spins faster than necessary.
+Hu has previously studied how dogs shake to stay dry, how frogs use their sticky tongues to grab prey and how mosquitoes fly in the rain. He chose animal tails after hearing Matherne talk about being hit in the face while riding horses as a child.
+“She’s been swatted enough times to know that horses can deliver a pretty good sting,” said Hu. “We wanted to know why the swat had to be so powerful. It turns out they swish their tails at a tip speed that generates a small air flow, then swat away those that manage to land by activating only the muscles at the base of the tail.”
+The paper, “Mammals repel mosquitoes with their tails,” is published in the Journal of Experimental Biology. The research was funded by the National Science Foundation through award PHY-1255127.
+CITATION : Marguerite E. Matherne, Kasey Cockerill, Yiyang Zhou, Mihir Bellamkonda, and David L. Hu, “Mammals repel mosquitoes with their tails,” (Journal of Experimental Biology 2018) http://jeb.biologists.org/content/221/20/jeb178905
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986)(jtoon@gatech.edu).
+Writer : Jason Maderer
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

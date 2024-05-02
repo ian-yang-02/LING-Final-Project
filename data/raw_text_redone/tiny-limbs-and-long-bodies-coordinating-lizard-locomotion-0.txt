@@ -1,0 +1,56 @@
+tiny limbs and long bodies: coordinating lizard locomotion 
+ using biological experiments, robot models, and a geometric theory of locomotion, researchers investigate how and why intermediate lizard species, with their elongated bodies and short limbs, might use their bodies to move. 
+ closeup of a brachymeles kadwa (an intermediate lizard species) on a leaf. credit: philip bergmann, clark university 
+ jul 15, 2022 
+ — atlanta, ga 
+ snakes and lizards have distinct body movement patterns. lizards bend from side to side as they retract their legs to walk or run. snakes, on the other hand, slither and undulate, like a wave that travels down the body. however, there are species of lizards that have long, snakelike bodies, and limbs so tiny even scientists have wondered about their purpose. understanding how these hybrid-looking lizards move could provide insight into why an evolutionary transition from lizardlike to snakelike motion occurred. 
+ using biological experiments, robot models, and a geometric theory of locomotion from the 1980s, researchers at the georgia institute of technology investigated how and why intermediate lizard species, with their elongated bodies and short limbs, might use their bodies to move. led by living systems physics professor 
+ daniel goldman , the research team studied body-limb coordination in a diverse sample of lizard bodies. their multidisciplinary approach uncovered the existence of a previously unknown spectrum of body movements in lizards, revealing a continuum of locomotion dynamics between lizardlike and snakelike movements. their findings, published in the june issue of 
+ proceedings of the national academy of sciences , deepen the understanding of evolution’s implications for locomotion, and have additional applications for advanced robotics designs. 
+ “we were interested in why and how these intermediate lizards use their bodies and limbs to move around in different terrestrial environments,” goldman said. “this is a fundamental question in locomotion biology and can inspire more capable wiggling robots.” 
+ a multidisciplinary approach 
+ baxi chong, a ph.d. student in 
+ goldman’s lab 
+ and first author of the paper, became interested in the short-limbed, elongated lizard species 
+ brachymeles 
+ at a presentation by 
+ philip bergmann , associate professor of evolutionary biology at clark university, in which bergmann discussed the evolution of the species. chong, a theoretician, had a tool in mind that he believed could help explain how the rare lizard moved, so he reached out to bergmann to collaborate. bergmann sent footage of the lizards in the wild to goldman’s lab for analysis. 
+ eva erickson, a recent graduate from georgia tech and goldman’s lab, then applied new artificial intelligence techniques to analyze the lizards’ body movement in bergmann’s videos as well as other lizard species. known as neural network tracking, the software uses ai to identify features of images — such as legs and bodies — and track those features and their movements. 
+ it has typically been thought that organisms either wiggle like snakes, bend like lizards, or use no body bending at all. when analyzing the footage, however, the researchers saw a wide variety of snakelike waves (traveling waves) and lizardlike movements (standing waves) represented across a diversity of lizard species. 
+ “markerless animal pose estimation software has been greatly improving, allowing much greater insight into the kinematics of organisms,” said erickson, who will enter a ph.d. program at brown university in fall 2022. “through tracking videos with the program deeplabcut, we found that these species perform a diverse array of wave patterns as they locomote.” 
+ the next question was how to make sense of the diversity of wave patterns. according to chong, while there are endless ways to think about the waves and what they mean, the information is so complex that it is nearly impossible for humans to understand without using laborious and time-consuming equations. 
+ instead, chong used a mathematical technique developed by particle physicists and control theorists in the last decades. while the theory, now referred to in the locomotion field as geometric mechanics, was initially introduced to study idealized locomotion — to understand how three connected points might swim in water — chong adapted the theory to include the concept of legs. 
+ using geometric mechanics, chong produced diagrams that visualized the body-limb coordination data, replacing complicated calculations with much simpler diagrammatic analysis. they were able to both see and show the advantage of snakelike waves in short-limbed elongate lizard locomotion and predict that the advantage arises as the primary thrust generation shifts from the limbs to the body. 
+ “the advantage of geometric mechanics is that we don't have to explore every possibility of locomotion to determine which one is the best,” chong said. 
+ findings from the neural network tracking and geometric mechanics enabled the group to form a theory: that the style of lizard movement — whether they move using standing waves to run or a traveling wave to slither — is closely related to degree of limb size and body elongation. 
+ testing the theory with real and robotic lizards 
+ the researchers tested the theory in two ways. first, they changed the environment, putting sand-dwelling lizards in what they would never come across naturally: sand with air blowing up through it. they observed that short-bodied lizards with strong legs were forced to wiggle their way out, in a movement known as “terrestrial swimming.” essentially, they were able to trick lizards into using snakelike locomotion to move, further supporting the existence of a spectrum of locomotion patterns. 
+ the team then built a robot model to investigate the advantages of lizardlike and snakelike body movements in the intermediate lizard species. known as a robophysical model, the robot functions as a physicist’s model of a living system that can also be used to vary parameters such as limb length and how the lizard’s body drags on the ground. with such capabilities, they can test the predictions of their theoretical model while also gaining understanding of the biological system. 
+ the team then built a robot model to investigate the advantages of lizardlike and snakelike body movements in the intermediate lizard species. known as a robophysical model, the robot functions as a physicist’s model of a living system. with the robot, they can test the predictions of their theoretical model while also gaining insights into the intermediate lizard’s biology and locomotion. 
+ “we built the robophysical model to be reconfigurable — we can vary limb length and change how the lizard robot propels itself with the addition and removal of a belly plate,” said tianyu wang, a robotics ph.d. student and member of goldman’s lab. “we then used the robot to run similar experiments in sand while tracking its motions and performance.” 
+ the researchers found that, when more body weight was distributed on the belly rather than the limbs, snakelike body movement had the clear advantage in getting lizards where they need to be — even for those lizards with the strongest legs. 
+ overall, the team observed that the degree of body elongation and limb reduction in lizards is directly related to how body and limb movements are coordinated, indicating a closely intertwined continuum between body shapes and locomotion style. the researchers even found the tiny limbs to be of significant use to the lizards, not only with propulsion, but also with lifting their bellies off the ground. 
+ insights 
+ the researchers’ findings enabled them to conclude that evolution was not just acting to lengthen bodies or shorten limbs, but both — and in a highly coordinated and functional way. 
+ “our work really helps explain why these intermediate species are able to compete with other species and persist in their own right for millions of years,” bergmann said. “they aren’t evolving to be snakelike but are completely functional species with their own ecological roles.” 
+ also, roboticists can apply concepts discovered in the researchers’ work. for example, using the findings from goldman’s lab, roboticists have created snake-, lizard-, and amphibian-inspired robots that could one day be used in search and rescue operations. 
+ “with the robophysical models, we can develop principles that can also inform the next generation of robots that might have to crawl around in rubble or move around in extraterrestrial environments like the surface of moons or planets,” goldman said. 
+ finally, an important aspect of the study was its multidisciplinary approach. by taking videos from an evolutionary biologist, applying ai tracking software and geometric mechanics to understand movement, and building a robophysical model to test their hypothesis, each student brought individual expertise to bear on the research question. 
+ “i have to say, this really was an awesome student-led project,” goldman said. 
+ citation : baxi chong, tianyu wang, eva ericksoa, philip j. bergmann, and daniel i. goldman, “coordinating tiny limbs and long bodies: geometric mechanicsof lizard terrestrial swimming,” pnas, june 2022. doi : 
+ https: / / doi.org / 10.1073 / pnas.2118456119 
+ funding : nsf–simons southeast center for mathematics and biology (simons foundation autism research initiative grant 594594), nsf grant ios-1353703, president’s undergraduate research awards at georgia institute of technology, and army research office grant w911nf-11-1-0514. 
+ writer : catherine barzler 
+ video : steven norris and evan atkinson 
+ photos : philip bergmann and steven norris 
+ media contact : catherine barzler | catherine.barzler@gatech.edu 
+ # # # 
+ the georgia institute of technology, or georgia tech, is a top 10 public research university developing leaders who advance technology and improve the human condition. the institute offers business, computing, design, engineering, liberal arts, and sciences degrees. its nearly 44,000 students, representing 50 states and 149 countries, study at the main campus in atlanta, at campuses in france and china, and through distance and online learning. as a leading technological university, georgia tech is an engine of economic development for georgia, the southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society. 
+ additional images 
+ contact 
+ catherine barzler, senior research writer / editor 
+ email 
+ catherine.barzler@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

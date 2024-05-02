@@ -1,0 +1,22 @@
+Georgia Tech Researchers Reveal Phrases that Pay on Kickstarter
+New study finds that pitch language plays major role in success of projects on popular crowdfunding site
+New Georgia Tech Study Finds Pitch Language Plays Major Role in Success of Crowdfunding Projects
+Jan 14, 2014
+— Atlanta, GA
+Researchers at Georgia Tech studying the burgeoning phenomenon of crowdfunding have learned that the language used in online fundraising hold surprisingly predictive power about the success of such campaigns.  As part of their study of more than 45,000 projects on Kickstarter, Assistant Professor Eric Gilbert and doctoral candidate Tanushree Mitra reveal dozens of phrases that pay and a few dozen more that may signal the likely failure of a crowd-sourced effort.  “Our research revealed that the phrases used in successful Kickstarter campaigns exhibited general persuasion principles,” said Gilbert, who runs the Comp. Social Lab at Georgia Tech. “For example, those campaigns that follow the concept of reciprocity – that is, offer a gift in return for a pledge – and the perceptions of social participation and authority, generated the greatest amount of funding.”  While offering donors a gift may improve a campaign’s success, the study found the language project creators used to express the reward made the difference. For example, the phrases “also receive two,” “has pledged” and “project will be” strongly foretell that a project will reach funding status, while phrases such as “dressed up,” “not been able” and “trusting” are attached to unfunded projects.  The researchers examined the success of Pebble, which is the most successful Kickstarter campaign to date with more than $10 million in pledges, and compared it to Ninja Baseball, a well-publicized PC game that only earned a third of its $10,000 goal.  “The discrepancy in funding success between projects like Pebble and Ninja Baseball prompted us to consider why some projects meet funding goals and others do not,” Mitra said. “We found that the driving factors in crowdfunding ranged from social participation to encouragement to gifts – all of which are distinguished by the language used in the project description.”  For their research, Gilbert and Mitra assembled a list of all Kickstarter projects launched as of June 2, 2012, and had reached their last date of fund collection. Of the more than 45,000 projects, 51.53 percent were successfully funded while 48.47 percent were not.  After controlling for variables such as funding goals, video, social media connections, categories and pledge levels, the researchers focused on more than 20,000 phrases before compiling a dictionary of more than 100 phrases with predictive powers of success or failure.  The research suggested that the language used by creators to pitch their project plays a major role in driving the project’s success, accounting for 58.56 percent of the variance around success. The language generally fit into the following categories:  Reciprocity
+or the tendency to return a favor after receiving one as evidenced by phrases such as “also receive two,” “pledged will” and “good karma and .”   Scarcity
+or attachment to something rare as shown with “option is” and “given the chance.”  Social Proof , which suggests that people depend on others for social cues on how to act as shown by the phrase “has pledged.”  Social Identity
+or the feeling of belonging to a specific social group. Phrases such as “to build this” and “accessible to the” fit this category.  Liking , which reflects the fact that people comply with people or products that appeal to them.  Authority , where people resort to expert opinions for making efficient and quick decisions as shown by phrases such as “we can afford” and “project will be.”  The team’s findings are summarized in the paper “The Language that Gets People to Give: Phrases that Predict Success on Kickstarter.” The
+paper
+will be formally presented at the
+17 th
+ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2014)
+to be held in Baltimore, Md., from Feb. 15 to 19.
+Additional Images
+Contact
+Phillip Taylor College of Computing at Georgia Tech ptaylor@cc.gatech.edu 404.894.7253
+Email
+ptaylor@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

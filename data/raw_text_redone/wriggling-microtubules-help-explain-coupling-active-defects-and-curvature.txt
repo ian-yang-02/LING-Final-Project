@@ -1,0 +1,43 @@
+wriggling microtubules help explain coupling of “active” defects and curvature 
+ scientists have examined an active nematic built with components borrowed from living cells. 
+ image taken with a confocal microscope of a toroidal structure, false-colored by height. the worm-like structures are microtubules driven by kinesin motor proteins. (credit: perry ellis, georgia tech) 
+ oct 23, 2017 
+ — atlanta, ga 
+ imagine a tiny donut-shaped droplet, covered with wriggling worms. the worms are packed so tightly together that they must locally line up with respect to each other. in this situation, we would say the worms form a nematic liquid crystal, an ordered phase similar to the materials used in many flat panel displays. 
+ however, the nematic phase formed by the worms is filled with tiny regions where the local alignment is lost – defects in the otherwise aligned material. in addition, because the worms are constantly moving and changing their configuration, this nematic phase is active and far from equilibrium. 
+ in research reported october 23 in the journal 
+ nature physics , scientists from the georgia institute of technology and leiden university in the netherlands have described the results of a combined theoretical and experimental examination of such an active nematic on the surface of donut-shaped – toroidal – droplets. however, the researchers didn’t use actual worms, but an active nematic composed of flexible filaments covered with microscopic engines that are constantly converting energy into motion. 
+ this particular active material, originally developed at brandeis university, borrows elements of cellular machinery, with bundles of rod-like microtubules forming the filaments, kinesin motor proteins acting as the engines, and atp as the fuel. when this activity is combined with defects, the defects come to life, moving around like swimming microorganisms to explore space – in this case, exploring the surface of the toroidal droplets. 
+ by studying toroidal droplets covered by this active nematic, the researchers confirmed a longstanding theoretical prediction about liquid crystals at equilibrium, first discussed by bowick, nelson and travesset [phys.rev. e 69, 041102 (2004)] that nematic defects on the curved surface of such droplets will be sensitive to the local curvature. however, since the active nematic used in this work is far from equilibrium, the researchers also found how the internal activity changed and enriched the expectations. 
+ “there have been predictions that say defects are very sensitive to the space they inhabit, specifically to the curvature of the space,” said perry ellis, a graduate student in the georgia tech 
+ school of physics 
+ and the paper’s first author. “the torus is a great place to investigate this because the outside of the torus, the part that looks locally like a sphere, has positive curvature while the inner part of a torus, the part that looks like a saddle, has negative curvature.” 
+ “the quantity that characterizes a defect is what we call its topological charge or winding number,” said 
+ alberto fernandez-nieves , a professor in georgia tech’s school of physics and another of the paper’s co-authors. “it expresses how the alignment direction of the nematic liquid crystal changes as we go around the defect. this topological charge is quantized, meaning that it can only take values from a discrete set that are multiples of one-half. “ 
+ in these experiments, each defect has a topological charge of +1 / 2 or -1 / 2. to determine the charge and location of every defect, ellis observed the toroidal droplets over time using a confocal microscope and then analyzed the resulting video using techniques borrowed from computer vision. the researchers found that even with the molecular motors driving the system out of equilibrium, the defects were still able to sense the curvature, with the +1 / 2 defects migrating towards the region of positive curvature and the -1 / 2 defects migrating towards the region of negative curvature. 
+ in this new work, the scientists took a step forward in understanding how to control and guide defects in an ordered material. 
+ “we have learned that we can control and guide partially ordered active matter using the curvature of the underlying substrate,” said fernandez-nieves. “this work opens opportunities to study how the defects in these materials arrange on surfaces that do not have constant curvature. this opens the door for controlling active matter using curvature.” 
+ an unexpected finding of the study was that the constant motion of the defects causes the average topological charge to become continuous, no longer taking only values that are multiples of one-half. 
+ “in the active limit of our experiments, we found that the topological charge becomes a continuous variable that can now take on any value,” said fernandez-nieves. “this is reminiscent of what happens to many quantum systems at high temperature, where the quantum, discrete nature of the accessible states and associated variables is lost. instead of being characterized by quantized properties, the system becomes characterized by continuum properties.” 
+ ellis’ observations of the droplets compared well with those of numerical simulations done by assistant professor luca giomi and postdoctoral researcher daniel pearce at the instituut-lorentz for theoretical physics at the universiteit leiden in the netherlands. 
+ “our theoretical model helped us decipher the experimental results and fully understand the physical mechanism governing defect motion,” said pearce, “but also allowed us to go beyond the current experimental evidence.” added giomi: “activity changes the nature of the interaction between defects and curvature. in weakly active systems, defects are attracted by regions of like-sign gaussian curvature. but in strongly active systems, this effect becomes less relevant and defects behave as persistent random-walkers confined in a closed and inhomogeneous space”. 
+ there are many examples of active systems driven by internal activity, including swimming microorganisms, bird flocks, robot swarms and traffic flows. “active materials are everywhere, so our results aren’t limited to just this system on a torus,” ellis added. “you could see the same behavior in any active system with defects.” 
+ the research sets the stage for future work in active fluids. “our results introduce a new framework to explore the mechanical properties of active fluids and suggest that partially ordered active matter can be guided and controlled via gradients in the intrinsic geometry of the underlying substrate,” the authors wrote in a summary of their paper. 
+ this research was supported by the national science foundation under award 1609841 and the netherlands organization for scientific research. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ citation : perry w. ellis, daniel j. g. pearce, ya-wen chang, guillermo goldsztein, luca giomi, and alberto fernandez-nieves, “curvature-induced defect unbinding and dynamics in active nematic toroids,” (nature physics, 2017). 
+ http: / / dx.doi.org / 10.1038 / nphys4276 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ 404-894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

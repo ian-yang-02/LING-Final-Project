@@ -1,0 +1,52 @@
+new quantum state discovered in trimer-honeycomb material 
+ the transformation allows for a billion percent increase in the material’s conductivity and could lead to a new paradigm for quantum devices. 
+ “as theoretical physicists, we develop new kinds of mathematical models,” says itamar kimchi. “when it’s qualitatively difficult to understand how anything can make sense in experimental data — when there’s something qualitatively shocking — we try to come up with that basic picture.” 
+ feb 23, 2023 
+ — atlanta, ga 
+ a group of physicists, including two georgia tech researchers, have discovered a new quantum state. the study, 
+ published in the journal 
+ nature , uncovered novel looping currents flowing along the edges of octahedral cells in a crystal of 
+ mn 3 si 2 te 6 , 
+ which allowed for a billion percent increase in the material’s electric conductivity. the findings could lead to a new paradigm for quantum devices and superconductors. 
+ the team consisted of georgia tech theoretical physicists sami hakani and itamar kimchi, along with experimental physicists feng ye (oak ridge national lab), lance delong (university of kentucky), and, from the university of colorado at boulder: gang cao, yifei ni, yu zhang, and hengdi zhao. the group was drawn to the research after their 
+ previous study investigated the same material. 
+ “because this material did not fit any preexisting models, we had to develop new ideas to understand it,” said georgia tech graduate student hakani, who played a key role in developing the theory. “these new ideas will help us study related materials that could be used for next-generation magnetic field devices.” 
+ an exception to the rule 
+ the physicists first became interested in the 
+ mn 3 si 2 te 6 
+ material due to its unique electrical properties — in particular, a property called 
+ colossal magnetoresistance , 
+ an extreme enhancement in a material’s electrical conductivity when a magnetic field is applied. 
+ in most materials, applying a magnetic field does not change that material’s conductivity. however, in another class of materials, applying a magnetic field does change conductivity; this is called 
+ magnetoresistance , 
+ and it can scale to “giant” and “colossal” changes in conductivity. in instances of 
+ colossal magnetoresistance , 
+ a material can change from behaving like an insulator (like styrofoam) to being as conductive as a metal wire. 
+ this change is not altogether unusual. materials displaying 
+ giant magnetoresistance 
+ are not uncommon and are often used in computers; however, in all of these known materials, the material does not change its behavior in a way that significantly depends on the direction of the applied magnetic field. this new trimer-honeycomb material does. 
+ “the phenomenon defies all existing theoretical models and experimental precedents,” said kimchi, theoretical physicist and assistant professor in the school of physics at georgia tech. and that’s where he and hakani come in. 
+ uncovering looping currents 
+ “as theoretical physicists, we develop new kinds of mathematical models,” said kimchi. “when it’s qualitatively difficult to understand how anything can make sense in experimental data — when there’s something qualitatively shocking — we try to come up with that basic picture.” 
+ using the information uncovered by the experimental physicists, hakani and kimchi set out to understand why the extreme change in conductivity only happens when the magnetic field is applied perpendicularly to the honeycomb-like surface of the material. 
+ “our idea smelled promising, but, unfortunately, we quickly realized that currents between the magnetic manganese ions would be forbidden by symmetry, which was discouraging,” said kimchi. “however, sami then did the symmetry analysis for the octahedrally arranged tellurium ions, and, for them, currents were symmetry-allowed and could work out!” 
+ viewed from above, the material looks like a series of two-dimensional honeycombs. from the side, however, the material is composed of “sheets,” like a layer cake. within each “sheet” of honeycomb, electrons can move in circular paths around each octahedral cell. these looping, circular-moving currents within the material are responsible for the material’s unique behavior. 
+ on its own, without a magnetic field present, electrons move both counterclockwise and clockwise around the honeycomb “cells,” like cars going in both directions around a roundabout. just like in uncontrolled traffic, “traffic jams” make it difficult for electrons to move quickly throughout the material. without a way to streamline traffic, the material acts more like an insulator. 
+ however, if a magnetic field is applied perpendicular to the honeycomb-like surface, a “flow of traffic” is established, and electrons navigate the loops more quickly. the material then acts as a conductor, showing a seven-magnitude increase in conductivity — equivalent to an increase of a billion percent. 
+ a new paradigm 
+ the transformation from insulator to conductor can also be driven by applying electrical currents in the material, but in that case, it doesn’t happen instantaneously. it can take seconds or even minutes for the material to switch from insulator to conductor. 
+ the team believes that this tunability and slower type of switching, coupled with the material’s sensitivity to currents, could lead to new applications and discoveries in current-controlled quantum devices, a field of devices that range from sensors to computers to secure communication. 
+ the next step? working to better understand the newly discovered quantum state, and finding other materials where the quantum state might exist. 
+ “looking forward, we hope to understand not only what makes this material special, but also which microscopic ingredients are needed for related materials to become useful quantum technologies in our future,” said hakani. 
+ additional images 
+ contact 
+ by: selena langner 
+ writer, college of sciences at georgia tech 
+ media contact: 
+ jess hunt-ralston 
+ director of communications, college of sciences at georgia tech 
+ email 
+ jess@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

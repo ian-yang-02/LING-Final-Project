@@ -1,0 +1,26 @@
+Zajic Receives NSF CAREER Award
+ECE Assistant Professor Alenka Zajic has received the prestigious NSF CAREER Award.
+Jan 06, 2017
+— Atlanta, GA
+Alenka Zajic has received an NSF CAREER Award to support her research project, “Propagation Modeling and Measurements for THz Wireless Chip-to-Chip Communications.” Zajic is an assistant professor in the Georgia Tech School of Electrical and Computer Engineering (ECE).
+New applications such as self-driving cars, smart homes, and/or industrial automation will all require cloud computing that relies on many fast computers in data centers. However, even today, cable management in data centers is a serious challenge and limitation of the number of pins on the processor is becoming a bottleneck in designing faster computers.
+To alleviate these problems, Zajic is exploring ways to design wireless links at terahertz frequencies that can provide data rates of hundreds of gigabytes per second that would alleviate “cable management” and “pin-count” problems. Insights and results from this project will develop fundamental understanding of wireless propagation at terahertz frequencies and also stimulate further related research in wireless communications and computer engineering.
+A member of the ECE faculty since 2012, Zajic leads the Electromagnetic Measurements in Communications and Computing Laboratory, where she advises 11 Ph.D. students. Zajic has won several best paper awards and she is currently an editor for the
+IEEE Transactions on Wireless Communications .
+Additional Images
+Related links
+Alenka Zajic
+Electromagnetic Measurements in Communications and Computing Laboratory
+School of Electrical and Computer Engineering
+Georgia Tech
+National Science Foundation
+Contact
+Jackie Nemeth
+School of Electrical and Computer Engineering
+404-894-2906
+jackie.nemeth@ece.gatech.edu
+Email
+jackie.nemeth@ece.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

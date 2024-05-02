@@ -1,0 +1,52 @@
+New Quantum State Discovered in Trimer-Honeycomb Material
+The transformation allows for a billion percent increase in the material’s conductivity and could lead to a new paradigm for quantum devices.
+“As theoretical physicists, we develop new kinds of mathematical models,” says Itamar Kimchi. “When it’s qualitatively difficult to understand how anything can make sense in experimental data — when there’s something qualitatively shocking — we try to come up with that basic picture.”
+Feb 23, 2023
+— Atlanta, GA
+A group of physicists, including two Georgia Tech researchers, have discovered a new quantum state. The study,
+published in the journal
+Nature , uncovered novel looping currents flowing along the edges of octahedral cells in a crystal of
+Mn 3 Si 2 Te 6 ,
+which allowed for a billion percent increase in the material’s electric conductivity. The findings could lead to a new paradigm for quantum devices and superconductors.
+The team consisted of Georgia Tech theoretical physicists Sami Hakani and Itamar Kimchi, along with experimental physicists Feng Ye (Oak Ridge National Lab), Lance DeLong (University of Kentucky), and, from the University of Colorado at Boulder: Gang Cao, Yifei Ni, Yu Zhang, and Hengdi Zhao. The group was drawn to the research after their
+previous study investigated the same material.
+“Because this material did not fit any preexisting models, we had to develop new ideas to understand it,” said Georgia Tech graduate student Hakani, who played a key role in developing the theory. “These new ideas will help us study related materials that could be used for next-generation magnetic field devices.”
+An Exception to the Rule
+The physicists first became interested in the
+Mn 3 Si 2 Te 6
+material due to its unique electrical properties — in particular, a property called
+colossal magnetoresistance ,
+an extreme enhancement in a material’s electrical conductivity when a magnetic field is applied.
+In most materials, applying a magnetic field does not change that material’s conductivity. However, in another class of materials, applying a magnetic field does change conductivity; this is called
+magnetoresistance ,
+and it can scale to “giant” and “colossal” changes in conductivity. In instances of
+colossal magnetoresistance ,
+a material can change from behaving like an insulator (like Styrofoam) to being as conductive as a metal wire.
+This change is not altogether unusual. Materials displaying
+giant magnetoresistance
+are not uncommon and are often used in computers; however, in all of these known materials, the material does not change its behavior in a way that significantly depends on the direction of the applied magnetic field. This new trimer-honeycomb material does.
+“The phenomenon defies all existing theoretical models and experimental precedents,” said Kimchi, theoretical physicist and assistant professor in the School of Physics at Georgia Tech. And that’s where he and Hakani come in.
+Uncovering Looping Currents
+“As theoretical physicists, we develop new kinds of mathematical models,” said Kimchi. “When it’s qualitatively difficult to understand how anything can make sense in experimental data — when there’s something qualitatively shocking — we try to come up with that basic picture.”
+Using the information uncovered by the experimental physicists, Hakani and Kimchi set out to understand why the extreme change in conductivity only happens when the magnetic field is applied perpendicularly to the honeycomb-like surface of the material.
+“Our idea smelled promising, but, unfortunately, we quickly realized that currents between the magnetic manganese ions would be forbidden by symmetry, which was discouraging,” said Kimchi. “However, Sami then did the symmetry analysis for the octahedrally arranged tellurium ions, and, for them, currents were symmetry-allowed and could work out!”
+Viewed from above, the material looks like a series of two-dimensional honeycombs. From the side, however, the material is composed of “sheets,” like a layer cake. Within each “sheet” of honeycomb, electrons can move in circular paths around each octahedral cell. These looping, circular-moving currents within the material are responsible for the material’s unique behavior.
+On its own, without a magnetic field present, electrons move both counterclockwise and clockwise around the honeycomb “cells,” like cars going in both directions around a roundabout. Just like in uncontrolled traffic, “traffic jams” make it difficult for electrons to move quickly throughout the material. Without a way to streamline traffic, the material acts more like an insulator.
+However, if a magnetic field is applied perpendicular to the honeycomb-like surface, a “flow of traffic” is established, and electrons navigate the loops more quickly. The material then acts as a conductor, showing a seven-magnitude increase in conductivity — equivalent to an increase of a billion percent.
+A New Paradigm
+The transformation from insulator to conductor can also be driven by applying electrical currents in the material, but in that case, it doesn’t happen instantaneously. It can take seconds or even minutes for the material to switch from insulator to conductor.
+The team believes that this tunability and slower type of switching, coupled with the material’s sensitivity to currents, could lead to new applications and discoveries in current-controlled quantum devices, a field of devices that range from sensors to computers to secure communication.
+The next step? Working to better understand the newly discovered quantum state, and finding other materials where the quantum state might exist.
+“Looking forward, we hope to understand not only what makes this material special, but also which microscopic ingredients are needed for related materials to become useful quantum technologies in our future,” said Hakani.
+Additional Images
+Contact
+By: Selena Langner
+Writer, College of Sciences at Georgia Tech
+Media Contact:
+Jess Hunt-Ralston
+Director of Communications, College of Sciences at Georgia Tech
+Email
+jess@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

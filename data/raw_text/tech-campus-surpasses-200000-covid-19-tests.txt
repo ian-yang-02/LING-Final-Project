@@ -1,0 +1,59 @@
+Tech Campus Surpasses 200,000 Covid-19 Tests
+Since last fall the Institute’s regular testing of students, faculty, and staff has kept the number of positive cases relatively low on campus.
+Surveillance Testing Kit
+Feb 04, 2021
+— Atlanta, GA
+This week Georgia Tech surpassed 200,000 Covid-19 tests collected and processed on campus since surveillance testing began last fall. The Institute’s regular testing of students, faculty, and staff has kept the number of positive cases relatively low on campus.
+In January Georgia Tech, in collaboration with the Georgia Department of Public Health (DPH), began administering Covid-19 vaccines. Health experts recommend that, even though the vaccine is being administered, weekly surveillance testing should continue.
+“Studies show that the Moderna and Pfizer vaccines are effective at preventing severe illness from Covid-19. What we don’t know yet is how effective they are at preventing asymptomatic infection and whether they prevent people from carrying the virus and spreading it to other people,” said Dr. Ben Holton, senior director of Stamps Health Services. “That’s why the current recommendations from the CDC are, even if you’ve had two doses of the Covid-19 vaccine, you still need to wear a mask and practice social distancing, because we don’t know yet if you can spread the virus after being vaccinated. We are encouraging people to continue getting tested after they have had the vaccine.”
+Testing is done on a walk-up basis, is free of charge, and takes just a few minutes. Participants should login to
+mytest.gatech.edu
+with their Georgia Tech account, complete the survey, and generate a tracking barcode for the test before visiting one of the
+testing sites
+on campus ,
+How Testing Works
+The samples are transferred to the test lab three times a day for evaluation. To reduce the number of polymerase chain reaction, or PCR, tests that must be run each day, the saliva samples are pooled so that a single test can examine samples from five individuals. An innovative dual pooling strategy can identify one individual in a set of samples who is presumed positive.
+What is dual pooling? Let’s follow your sample:
+Your sample is split into
+two pools . Each pool contains a total of
+five samples . With six pools from 15 participants, everyone is uniquely in two of the pools.
+The samples are mixed together and each
+pooled sample
+is tested with a single test.
+Everyone who participates in surveillance testing
+will receive a notification
+that they are either recommended or not recommended for a follow-up diagnostic test.
+If
+neither of your pools
+comes back positive, then
+you are informed that you are not recommended for a follow-up test
+and no further action is required at this time.
+If
+both of your
+pooled samples are positive , your original sample is then
+tested individually
+in the CLIA lab to confirm the sample has SARS-CoV-2.
+If
+one of your pools
+comes back positive but your
+other pool does not , then usually
+your sample was not the positive one . However, sometimes there is ambiguity and the lab retests it anyway, which is why some people are notified that they are recommended for a diagnostic test, but subsequently test negative. This double positive requirement minimizes false positives.
+The surveillance and diagnostic testing is normally completed within 36 to 48 hours, allowing contact tracers to identify other community members who may have been exposed.
+Surveillance testing participants may notice they are asked to reconsent before their next test when they visit
+mytest.gatech.edu . The lab will now perform additional tests to identify the strain of virus, for the purpose of informing policy to help keep campus safe. The reconsent acknowledges this fact. Individuals will not be provided the strain information, since it does not change any follow-up procedures for a positive result.
+Continued surveillance testing is important in identifying asymptomatic Covid-19 members of the Tech community and keeping the daily case counts low.
+Additional Images
+Related links
+Faces of Testing
+Broad-based Testing Helps Control Covid-19
+Testing Success Depends on Participation
+Testing site locations/hours
+Vaccine Information
+Contact
+Victor Rogers
+Institute Communications
+Email
+victor.rogers@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

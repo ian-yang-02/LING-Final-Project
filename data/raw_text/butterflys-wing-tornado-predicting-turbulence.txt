@@ -1,0 +1,53 @@
+From the Butterfly's Wing to the Tornado: Predicting Turbulence
+Remember the adage about a flapping butterfly's wing triggering a tornado? Physicists are getting better at predicting the wiles of turbulence.
+NOAA stock press handout image of a tornado. Please credit: NOAA/OAR/ERL/NSSL. To be used in turbulence story. (Do not use out of context.)
+Mar 15, 2017
+— Atlanta, GA
+An old adage holds that the flap of a butterfly’s wing in Brazil can trigger a tornado in Texas weeks later. Though chaos theory says it’s basically impossible to compute exactly how that might happen, Georgia Tech scientists are making new advances in getting math around the swirly phenomenon behind it called turbulence.
+Recent progress by physicists from the Georgia Institute of Technology could one day help sharpen weather forecasts and extend their range by making better use of masses of weather and climate data.
+Turbulence can curve as a puff of air, swirl past a river bend or churn as a hurricane, and though its curlicues may appear random, turbulence lays down signature patterns that the physicists are investigating.  They have developed a simple mathematical model that has helped them show how turbulent flows will evolve over intervals .
+And, in a novel experiment, they verified their predictions physically in a two-dimensional turbulent flow produced in a lab.
+‘Butterfly Effect’ catchphrase
+The new Georgia Tech research befits the origins of that adage.
+It was coined more than 55 years ago by  MIT meteorology professor Edward Lorenz  after he established that tiny forces influenced major weather enough to throw long-range forecasts for a loop. The title of his paper, “Predictability: Does the Flap of a Butterfly’s Wing in Brazil Set Off a Tornado in Texas?” morphed into the well-known catchphrase.
+Michael Schatz  and  Roman Grigoriev ,  professors in Georgia Tech’s  School of Physics , along with graduate researchers Balachandra Suri and Jeffrey Tithof, published their research results online in the journal  Physical Review Letters  on Wednesday March 15, 2017 . The research was funded by the National Science Foundation.
+Order in chaos
+For hundreds of years, while scientists used math to get a grip on  Newton’s falling apple , substantiate the  Theory of Relativity  and theorize the existence of  the Higgs boson , turbulence has been like wet soap in math’s grasp. But for all its elusiveness, turbulence impresses with visibly coherent, recurring, recognizable shapes.
+Fluid swirls quickly establish themselves then shift or disappear, but they reappear persistently at different locations, producing transient and varying, yet repeating patterns.
+“People have seen these patterns in turbulent flows for centuries, but we’re finding ways to relate the patterns to mathematical equations describing fluid flows,” Grigoriev said. Some recurrent patterns, in particular, interest Grigoriev and Schatz. They’re called  exact coherent structures (ECSs).
+They give the physicists convenient entry points into computing predictions about what turbulence will do next.
+Turbulent flow snapshots
+But what are these  exact coherent structures ? Visually, in turbulence, they may show up as fleeting moments when the patterns stop changing. And it can look like the flow is temporarily slowing down.
+To the untrained eye, an ECS doesn’t look much different from the rest of the swirls and curls, but one can learn to spot them. “That’s exactly how we go about finding them,” Schatz said. “We watch the turbulence, continually taking snapshots. The flow is moving around, moving around. We look for the instant when it slows down the most, and we pick out a snapshot.”
+“We feed that into the mathematical model,” Schatz said, “and it indicates that we’re close, and shows what the math looks like at that point.” That math solution describes a point in the turbulent flow that can be worked with to compute a prediction of what the turbulence will do next.
+To understand what an  exact coherent structure  is dynamically, we need to step back from what turbulence looks like visually with bunches of curls and swirls. Instead, let’s look at a turbulent flow as a single physical entity by translating it into a crude metaphor, a swinging pendulum -- with some marked oddities.
+Pendulum on its head
+This is going to get a bit abstract: First,  invert the pendulum .
+Instead of picturing the bottom point of a normal pendulum’s swing, the equilibrium, as a stable point in a stable swing, now, with the upside-down pendulum, the equilibrium is the top-most point. And it’s unstable. Also, it doesn’t swing in just two directions but in all directions.
+A turbulent flow’s reliable patterns reflect dynamics that are back-and-forth-to-and-fro but in all kinds of variations.
+As the metaphorical pendulum swings up toward its peak, it comes to a near but never complete stop. Instead it flops over to some other side. That near-halt point is analogous to an  exact coherent structure , but there are a few more kinks in the metaphor.
+“If we change initial dynamics ever so slightly, an inverted pendulum can swing past its  unstable equilibrium  at the peak, or it can stop and then start moving in the opposite direction. In the same way, the turbulent flow can evolve in various different ways after passing by an ECS,” Grigoriev said.
+Multiple  exact coherent structures  with varying qualities turn up in a turbulent flow.
+Turbulence roads to ECS cities
+That all may feel unusual for a reason.
+“Usually, people like to look at stable things that are unchanging like the even, symmetric normal pendulum,” Schatz said. “It turns out it’s really these unstable patterns that form a rough core alphabet that we use to build a sort of predictive theory.”
+Staying with the dynamics of that floppy inverted pendulum, now picture each  exact coherent structure  as being a city on a map. There are paths that guide the turbulent flow “traffic” toward, from, and around each city just like roadways. “This road map around and between cities does not change in time, which enables us to predict the evolution of the flow,” Grigoriev said.
+ECSs occur regularly, almost like clockwork, opening up the possibility of refining predictions at regular intervals.
+Exact coherent structures  were already known to exist, Schatz said. “What no one has done before is demonstrate in a lab experiment how they can be harnessed to describe dynamics, the behavior evolving in time, which is really what you need for prediction.”
+Mining weather data
+In the 19 th  century, math equations were developed to describe the basic flow of fluids. Those who took high school physics may remember  Newton’s Second Law  relating forces, acceleration and mass. The  Navier-Stokes equations ,  used in this study, apply it to fluids.
+Turbulence is challenging to describe mathematically because its swirls contain myriad dimensions, with the flow in each small region appearing to dance to its own tune. But there is clear order that emerges upon finding  exact coherent structures .
+To make their predictions, Schatz and Grigoriev’s research team devised a way to mathematically connect that high dimensionality to the much simpler roadway concept.
+They broke down the turbulent flow into regions, each small enough to apply the equations, then used their solutions to precisely place the flows on the road map.
+Today, the compendium of  data on weather and climate , the shape of ocean floors, dimensions of the atmosphere, effects of gravity, rotation, or concentrations of dissolved minerals is impressive and growing.
+Predictive methods like those in this research offer paths into that data to extract better predictions from it.
+The research was funded by the National Science Foundation under grants  CMMI-1234436 and DMS-1125302. DOI: 10.1103/PhysRevLett.118.114501 .
+Additional Images
+Contact
+Writer and contact: Ben Brumfield
+(404) 660-1408
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

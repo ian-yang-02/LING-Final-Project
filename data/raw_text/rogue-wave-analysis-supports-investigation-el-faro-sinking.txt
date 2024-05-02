@@ -1,0 +1,49 @@
+Rogue Wave Analysis Supports Investigation of the El Faro Sinking
+A new analysis of the potential for rogue waves could help shipping companies understand the risks.
+This simulation shows the expected spatial shape of a rogue wave whose crest height is about 14 meters. (Credit: Claudio Lugni)
+Sep 19, 2017
+— Atlanta, GA
+A new analysis done to support the investigation into the 2015 sinking of the
+El Faro
+cargo ship has calculated the likelihood of a massive rogue wave during Hurricane Joaquin in October of that year – and demonstrated a new technique for evaluating the probability of rogue waves over space and time.
+Using weather and sea data from the time of the sinking, along with a new theoretical model, a Georgia Institute of Technology researcher has calculated that there was as much as a one-in-130 chance – over a period of time and area – that a rogue wave 46 feet high (14 meters) could have occurred during the hurricane. The research, reported September 11 in the journal
+Scientific Reports , may help improve the prediction of rogue waves to help shipping companies and others understand the risks posed by these unusual wave patterns.
+The container ship
+El Faro
+was bound for Puerto Rico from Jacksonville, Florida ahead of Hurricane Joaquin when it sank east of the Bahamas, taking the lives of 33 crew members. The rogue wave study was done for the National Transportation Safety Board as part of its investigation into the disaster.
+“Hurricanes produce very extreme conditions with strong winds, so you have very energetic sea states that can increase the probability of these events,” said
+Francesco Fedele , an associate professor in the Georgia Tech
+School of Civil and Environmental Engineering . “We believe this first study of rogue waves occurring over space and time during hurricanes will help improve real-time forecasting for shipping companies and other organizations that need to understand the risk of extreme events in the oceans.”
+Rogue ocean waves can develop seemingly out of nowhere to sink ships and overwhelm oil platforms with walls of water as much as 25 meters high. The waves stem from a combination of constructive interference – a known wave phenomenon – and nonlinear effects specific to the complex dynamics of ocean waves. The waves have been observed in oceans around the world, typically lasting only 20 seconds or so before disappearing. They are different from tsunami waves that can travel great distances after being created by underwater earthquakes or landslides.
+Fedele and his colleagues have studied rogue waves for several years, and in 2016 used advanced mathematical techniques to develop a new understanding of how the waves form. After the
+El Faro
+sinking, Fedele was asked to evaluate the probability that a rogue wave could have occurred during the hurricane when the ship sank while drifting in violent seas after losing engine power.
+Key to the new prediction technique is accounting for space-time effects that can increase the likelihood of a ship encountering a rogue wave.
+Fedele compared this space-time analysis to the efforts of surfers to find a large wave to ride. Surfers increase their probability of finding an unusually large wave by paddling around area of smaller waves near a beach. If they remain in one place, they would ultimately come across such a wave, but that could take much longer.
+The theoretical model developed by Fedele takes into account the size of the vessel, which also boosts the chances of encountering such a wave. The
+El Faro
+was 240 meters long, comparable to the typical wavelength of a rogue wave. Earlier rogue wave models had not considered the size of the vessel in calculating the probability of encountering a potentially catastrophic wave.
+“A ship moving along a navigation route covers more space-time area, increasing the probability that it would encounter a large wave,” Fedele said. “We simulated the ocean state at the time of the sinking, and to that we added predictions of the ocean conditions. We did wave simulations based on those to understand the kind of conditions the ship encountered.”
+Data and simulations of weather and sea conditions were provided by the National Oceanic and Atmospheric Administration (NOAA). The researchers studied the chances of the ship encountering a wave 14 meters high – about 46 feet. That measurement included only the height above the average level of the sea and did not consider the depth of the wave trough.
+In future work, the researchers would like to improve the accuracy of their predictions to enhance the rogue wave prediction algorithms used by NOAA.
+“The space-time model developed for this study could provide the basis for the next generation of wave forecast models to predict wave extremes and provide early warnings to shipping companies and others to help them avoid dangerous areas at risk of rogue waves,” Fedele said.
+In addition to Fedele, the paper’s co-authors include Claudio Lugni from the CNR-INSEAN & Marine Technology Center of the Italian Research Council, and Arun Chawla of NOAA’s National Center for Weather & Climate prediction, Marine Modeling & Analysis Branch.
+CITATION : Francesco Fedele, Claudio Lugni and Arun Chawla, “The sinking of the
+El Faro : predicting real world rogue waves during Hurricane Joaquin,” (Scientific Reports, 2017).
+https://www.nature.com/articles/s41598-017-11505-5#Sec10
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon (404-894-6986) (jtoon@gatech.edu) or Ben Brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

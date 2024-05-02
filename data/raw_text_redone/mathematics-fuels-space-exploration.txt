@@ -1,0 +1,45 @@
+mathematics fuels space exploration 
+ mathematical advances can help aerospace engineers design space mission routes with lower fuel consumption. 
+ jan 16, 2018 
+ — atlanta, ga 
+ at the start of his class on differential equations, 
+ rafael de la llave 
+ invites students to watch a mesmerizing demonstration. 
+ he hangs two one-inch-diameter hex nuts from a clothesline through strings of the same length. with both hex nuts at rest, the school of mathematics professor taps one slightly. 
+ given the slight energy input, the nut moves. in a while, the nut at rest also starts to swing. eventually, a dance commences, the two hex nuts gracefully oscillating as they transfer energy from one to the other. 
+ when more oscillators are involved, beautiful geometric patterns emerge, 
+ as this video shows. 
+ designers of space missions can harness the dynamics creating these dazzling motions to save fuel. “if we could make the mathematical details very explicit, we can make these work to our advantage,” de la llave says. “we could move spacecraft with very small amounts of fuel. we could extend the life of satellites – or send robots to the moon – inexpensively.” 
+ nasa recently awarded a $100,000 grant to de la llave, 
+ marian gidea of yeshiva university , and 
+ rodney anderson of nasa’s jet propulsion laboratory 
+ (jpl)to take the first steps to realize the potential of mathematics to lower the fuel cost of space travel. the project – “accelerating diffusion to enable rapid tour design” – has a duration of one year. 
+ as part of the project goals, this week in the skiles building, space mission designers from jpl and mathematicians from georgia tech and yeshiva university are gathering for 
+ a four-day workshop . the participants will work together with the mathematical tools of the arnold diffusion mechanism and trajectory design. the goal is to incorporate what is also known as the “butterfly effect” – which is the ability of minuscule changes to cause gigantic effects in certain systems – into space mission design. 
+ “if we want to go around jumping from moon to moon, applying these new advances in mathematics can help us get there at much, much lower cost, making such a mission so much more doable.” 
+ the arnold diffusion mechanism is the underlying mathematical concept. both de la llave and gidea are world-renowned experts in this field. 
+ “in a nutshell, the arnold diffusion mechanism states that small amounts of force, applied at the right moments, can produce large effects over time,” 
+ gidea explained last year . “a familiar example is pushing a playground swing: with a tiny push on the swing each time it comes back to you, the amplitude of the swing will keep increasing. 
+ “in the case of space missions, this small forcing translates into firing the rocket’s engine at the right place and the right moment to accelerate in orbit when the natural dynamics is slow.” other possible small forcings could be the tugs of gravitational tides induced by stars, planets, moons, and even asteroids. 
+ at other times, “the spacecraft will coast along the space superhighway at zero cost,” gidea said. 
+ “celestial bodies are moving all the time,” de la llave says. “and they generate forces that depend on time. if you can ride the wave of those forces, then you can move and accelerate using just the gravitational forces of astronomical objects.” 
+ the arnold diffusion mechanism is rooted in the 
+ kolmogorov-arnold-moser (kam) theorem . the theorem provides a general framework for understanding what happens when a simple physical system is modified slightly, according to school of mathematics professor 
+ howard “howie” weiss . “rafael and others played a big role in extending the kam theorem,” weiss says. “rafael is extremely modest. he is probably the world’s leader in this business.” 
+ design of space mission routes historically has been based mostly on patching orbits of conical geometry. recent mathematical advances in the arnold diffusion mechanism have uncovered other geometries that reveal new potential pathways leveraging the gravitational dynamics in space. adding small maneuvers at precise times and locations to the pathways found via the arnold diffusion mechanism could significantly drop the cost of space missions. 
+ while de la llave and gidea work on the mathematics, jpl’s anderson will focus on applying the mathematical methods to mission concepts. anderson is an expert on the application of dynamical systems theory to trajectory design problems. he is the coauthor of a 
+ 2013 nasa monograph 
+ that explores the use of low-energy paths to transfer a spacecraft from earth to its moon. 
+ one space endeavor of great interest is to visit the moons of jupiter systematically, de la llave says. “if we want to go around jumping from moon to moon, applying these new advances in mathematics can help us get there at much, much lower cost, making such a mission so much more doable.” 
+ additional images 
+ related links 
+ workshop webpage 
+ contact 
+ a. maureen rouhi, ph.d. 
+ director of communications 
+ college of sciences 
+ email 
+ maureen.rouhi@cos.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

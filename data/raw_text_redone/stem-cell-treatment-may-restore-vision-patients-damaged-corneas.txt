@@ -1,0 +1,43 @@
+stem cell treatment may restore vision to patients with damaged corneas 
+ a new cell sorting technique may help restore vision for persons with damaged corneas. 
+ james lauderdale is an associate professor of cellular biology in uga's franklin college of arts and sciences (credit: nancy evelyn). 
+ mar 10, 2017 
+ — atlanta, ga 
+ researchers working as part of the university of georgia’s regenerative bioscience center have developed a new way to identify and sort stem cells that may one day allow clinicians to restore vision to people with damaged corneas using the patient’s own eye tissue. they published their findings in 
+ biophysical journal . 
+ the cornea is a transparent layer of tissue covering the front of the eye, and its health is maintained by a group of cells called limbal stem cells. but when these cells are damaged by trauma or disease, the cornea loses its ability to self-repair. 
+ “damage to the limbus, which is where the clear part of the eye meets the white part of the eye, can cause the cornea to break down very rapidly,” said james lauderdale, an associate professor of cellular biology in uga’s franklin college of arts and sciences and paper co-author. “the only way to repair the cornea right now is do a limbal cell transplant from donated tissue.” 
+ in their study, researchers used a new type of highly sensitive atomic force microscopy, or afm, to analyze eye cell cultures. created by 
+ todd sulchek , an associate professor in the 
+ george w. woodruff school of mechanical engineering 
+ at georgia tech, the technique allowed researchers to probe and exert force on individual cells to learn more about the cell’s overall health and its ability to turn into different types of mature cells. 
+ they found that limbal stem cells were softer and more pliable than other cells, meaning they could use this simple measure as a rapid and cost-effective way to identify cells from a patient’s own tissue that are suitable for transplantation. 
+ “todd’s technology is unique in the tiniest and most sensitive detection to change,” said lauderdale. “just think about trying to gently dimple or prod the top of an individual cell without killing it; with conventional afm it’s close to impossible.” 
+ building on their findings related to cell softness, the research team also developed a microfluidic cell sorting device capable of filtering out specific cells from a tissue sample. 
+ with this device, the team can collect the patient’s own tissue, sort and culture the cells and then place them back into the patient all in one day, said lauderdale. it can take weeks to perform this task using conventional methods. 
+ the researchers are quick to caution that more tests must be done before this technique is used in human patients, but it may one day serve as a viable treatment for the more than 1 million americans that lose their vision to damaged corneas every year. 
+ the group first started this research with the hope of helping children with aniridia, an inherited malformation of the eye that leads to breakdown of the cornea at an early age. 
+ because aniridia affects only one in 60,000 children, few organizations are willing to commit the resources necessary to combat the disease, lauderdale said. 
+ “our first goal in working with such a rare disease was to help this small population of children, because we feel a close connection to all of them,” said lauderdale, who has worked with aniridia patients for many years. “however, at the end of the day this technology could help hundreds of thousands of people, like the military who are also interested in corneal damage, common in desert conditions.” 
+ steven stice, a georgia research alliance eminent scholar who plays an important role in fostering cross-interdisciplinary collaboration as director of the rbc, initially brought the researchers together and encouraged a seed grant application through the center for regenerative engineering and medicine, or rem, a joint collaboration between emory university, georgia tech and uga. 
+ “a culture is developing around seed funding that is all about interdisciplinary collaboration, sharing of resources, and coming together to make things happen,” said stice. “government funding agencies place a high premium on combining skills and disciplines. we can no longer afford to work in an isolated laboratory using a singular approach.” 
+ the rem seed funding program is intended to stimulate new, unconventional collaborative research and requires equal partnership of faculty from two of the participating institutions. 
+ “we tend to get siloed experimentally,” said lauderdale. “to a biologist like me, all cells are very different and all atomic force microscopes are the same. to an engineer like todd it’s just the opposite.” 
+ the study, “cellular stiffness as a novel stemness marker in the corneal limbus,” is available at http: / / www.cell.com / biophysj / fulltext / s0006-3495(16)30771-8. 
+ funding was provided by an nih nigms biotechnology training grant on cell and tissue engineering, the knights templar eye foundation, the center for regenerative engineering and medicine, the sharon stewart aniridia research trust and the nsf cmmi division. 
+ - written by charlene betourney, university of georgia 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

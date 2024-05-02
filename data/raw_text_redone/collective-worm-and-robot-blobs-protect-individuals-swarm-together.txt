@@ -1,0 +1,62 @@
+collective worm and robot “blobs” protect individuals, swarm together 
+ research into "blobs" formed by worms and robots could help developers of swarm robots better utilize emergent behavior. 
+ large groups of california blackworms form “worm blobs” that create collective behaviors that improve the survival of individuals organisms. (credit: christopher moore, georgia tech) 
+ feb 10, 2021 
+ — atlanta, ga 
+ individually, california blackworms live an unremarkable life eating microorganisms in ponds and serving as tropical fish food for aquarium enthusiasts. but together, tens, hundreds, or thousands of the centimeter-long creatures can collaborate to form a “worm blob,” a shape-shifting living liquid that collectively protects its members from drying out and helps them escape threats such as excessive heat. 
+ while other organisms form collective flocks, schools, or swarms for such purposes as mating, predation, and protection, the lumbriculus variegatus worms are unusual in their ability to braid themselves together to accomplish tasks that unconnected individuals cannot. a new study reported by researchers at the georgia institute of technology describes how the worms self-organize to act as entangled “active matter,” creating surprising collective behaviors whose principles have been applied to help blobs of simple robots evolve their own locomotion. 
+ the research, supported by the national science foundation and the army research office, was reported feb. 5 in the journal 
+ proceedings of the national academy of sciences . findings from the work could help developers of swarm robots understand how emergent behavior of entangled active matter can produce unexpected, complex, and potentially useful mechanically driven behaviors. 
+ collective behavior in worms 
+ the spark for the research came several years ago in california, where 
+ saad bhamla 
+ was intrigued by blobs of the worms he saw in a backyard pond. 
+ “we were curious about why these worms would form these living blobs,” said bhamla, an assistant professor in georgia tech’s 
+ school of chemical and biomolecular engineering . “we have now shown through mathematical models and biological experiments that forming the blobs confers a kind of collective decision-making that enables worms in a larger blob to survive longer against desiccation. we also showed that they can move together, a collective behavior that’s not done by any other organisms we know of at the macro scale.” 
+ such collective behavior in living systems is of interest to researchers exploring ways to apply the principles of living systems to human-designed systems such as swarm robots, in which individuals must also work together to create complex behaviors. 
+ “the worm blob collective turns out to have capabilities that are more than what the individuals have, a wonderful example of biological emergence,” said 
+ daniel goldman , a dunn family professor in georgia tech’s 
+ school of physics , who studies the physics of living systems. 
+ why the worms form blobs 
+ the worm blob system was studied extensively by yasemin ozkan-aydin, a research associate in goldman’s lab. using bundles of worms she originally ordered from a california aquarium supply company – and now raises in georgia tech labs – ozkan-aydin put the worms through several experiments. those included development of a “worm gymnasium” that allowed her to measure the strength of individual worms, knowledge important to understanding how small numbers of the creatures can move an entire blob. 
+ she started by taking the aquatic worms out of the water and watching their behavior. first, they individually began searching for water. when that search failed, they formed a ball-shaped blob in which individuals took turns on the outer surface exposed to the air where evaporation was taking place – behavior she theorized would reduce the effect of evaporation on the collective. by studying the blobs, she learned that worms in a blob could survive out of water 10 times longer than individual worms could. 
+ “they would certainly want to reduce desiccation, but the way in which they would do this is not obvious and points to a kind of collective intelligence in the system,” said goldman. “they are not just surface-minimizing machines. they are looking to exploit good conditions and resources.” 
+ using blobs to escape threats 
+ ozkan-aydin also studied how worm blobs responded to both temperature gradients and intense light. the worms need a specific range of temperatures to survive and dislike intense light. when a blob was placed on a heated plate, it slowly moved away from the hotter portion of the plate to the cooler portion and under intense light formed tightly entangled blobs. the worms appeared to divide responsibilities for the movement, with some individuals pulling the blob while others helped lift the aggregation to reduce friction. 
+ as with evaporation, the collective activity improves the chances of survival for the entire group, which can range from 10 worms up to as many as 50,000. 
+ “for an individual worm going from hot to cold, survival depends on chance,” said bhamla. “when they move as a blob, they move more slowly because they have to coordinate the mechanics. but if they move as a blob, 95% of them get to the cold side, so being part of the blob confers many survival advantages.” 
+ a worm gymnasium 
+ the researchers noted that only two or three “puller” worms were needed to drag a 15-worm blob. that led them to wonder just how strong the creatures were, so ozkan-aydin created a series of poles and cantilevers in which she could measure the forces exerted by individual worms. this “worm gymnasium” allowed her to appreciate how the pullers managed to do their jobs. 
+ “when the worms are happy and cool, they stretch out and grab onto one of the poles with their heads and they pull onto it,” bhamla said. “when they are pulling, you can see the deflection of the cantilever to which their tails were attached. yasemin was able to use known weights to calibrate the forces the worms create. the force measurement shows the individual worms are packing a lot of power.” 
+ some worms were stronger than others, and as the temperature increased, their willingness to work out at the gym declined. 
+ applying worm principles to robots 
+ ozkan-aydin also applied the principles observed in the worms to small robotic blobs composed of “smart active particles,” six 3d-printed robots with two arms and two sensors allowing them to sense light. she added a mesh enclosure and pins to arms that allowed these “smarticles” to be entangled like the worms and tested a variety of gaits and movements that could be programmed into them. 
+ “depending on the intensity, the robots try to move away from the light,” ozkan-aydin said. “they generate emergent behavior that is similar to what we saw in the worms.” 
+ she noted that there was no communication among the robots. “each robot is doing its own thing in a decentralized way,” she said. “using just the mechanical interaction and the attraction each robot had for light intensity, we could control the robot blob.” 
+ by measuring the energy consumption of an individual robot when it performed different gaits (wiggle and crawl), she determined that the wiggle gait uses less power than the crawl gait. the researchers anticipate that by exploiting gait differentiation, future entangled robotic swarms could improve their energy efficiency. 
+ expanding what robot swarms can do 
+ the researchers hope to continue their study of the collective dynamics of the worm blobs and apply what they learn to swarm robots, which must work together with little communication to accomplish tasks that they could not do alone. but those systems must be able to work in the real world. 
+ “often people want to make robot swarms do specific things, but they tend to be operating in pristine environments with simple situations,” said goldman. “with these blobs, the whole point is that they work only because of physical interaction among the individuals. that’s an interesting factor to bring into robotics.” 
+ among the challenges ahead are recruiting graduate students willing to work with the worm blobs, which have the consistency of bread dough. 
+ “the worms are very nice to work with,” said ozkan-aydin. “we can play with them and they are very friendly. but it takes a person who is very comfortable working with living systems.” 
+ the project shows how the biological world can provide insights beneficial to the field of robotics, said kathryn dickson, program director of the physiological mechanisms and biomechanics program at the national science foundation. 
+ “this discovery shows that observations of animal behavior in natural settings, along with biological experiments and modeling, can offer new insights, and how new knowledge gained from interdisciplinary research can help humans, for example, in the robotic control applications arising from this work,” she said. 
+ this research was supported by the national science foundation (nsf) under grants career 1941933 and 1817334 and the army research office under grant w911nf-11-1-0514. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ citation : yasemin ozkan-aydin, daniel i. goldman, and m. saad bhamla, “collective dynamics in entangled worm and robot blobs. ( proceedings of the national academy of sciences , 2021). 
+ https: / / doi.org / 10.1073 / pnas.2010542118 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

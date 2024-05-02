@@ -1,0 +1,43 @@
+Researchers Develop Wireless Monitoring to Detect Sleep Apnea at Home
+Georgia Tech researchers have created a wearable device to accurately measure obstructive sleep apnea — when the body repeatedly stops and restarts breathing for a period — as well as the quality of sleep people get when they are at rest.
+Georgia Tech Associate Professor W. Hong Yeo is shown sleeping with the wearable sleep apnea detection and sleep quality monitoring device he and a team of researchers and clinicians created.
+Georgia Tech Associate Professor W. Hong Yeo is shown sleeping with the wearable sleep apnea detection and sleep quality monitoring device he and a team of researchers and clinicians created.
+May 24, 2023
+Georgia Tech researchers have created a wearable device to accurately measure obstructive sleep apnea — when the body repeatedly stops and restarts breathing for a period — as well as the quality of sleep people get when they are at rest.
+Under conventional methods, people who are suspected of having some sleep issue or disorder must go to a medical facility, where they are monitored overnight and tethered to a series of wired probes that record brain, eye, and muscle activity.
+The wearable sleep monitor patch developed by a team of researchers and clinicians, led by
+W. Hong Yeo , an associate professor and Woodruff Faculty Fellow in Tech’s
+George W. Woodruff School of Mechanical Engineering , is made of silicone and fits over the forehead, with a second, smaller silicone attachment that molds to the chin.
+“A lot of people have this disorder, but they don’t know it because it’s very hard to diagnose right now,” Yeo said. “Current smartphone apps don’t capture the specific data doctors and clinicians study to determine if a patient has apnea, rendering them useless.”
+Conventional existing sleep testing is occurring in sleep labs because of device limitations. This at-home wearable device could be the alternative to the more expensive medical procedures at sleep labs.
+Yeo and his team, which included researchers from across Georgia Tech, Emory University School of Medicine, the University of Texas at Austin, the Icahn School of Medicine at Mount Sinai in New York, the Korea Institute of Materials Science, and the Korea Advanced Institute of Science and Technology,
+reported their findings
+in Science Advances in May.
+Rising Prevalence
+While there are two additional types of sleep apnea — central and complex — obstructive sleep apnea is the most common, Yeo said, explaining that in addition to snoring and arrested breathing episodes, it’s generally characterized by waking up suddenly, gasping for air or choking, and high blood pressure.
+Lack of quality sleep can exacerbate other health issues in people with existing illnesses such as heart disease or diabetes, Yeo said. But even those who don’t have other health ailments can have serious complications from sleep apnea because the longer it goes undetected and untreated, the more it will affect their hearts and brains over time.
+Seeing the toll sleep apnea was taking on the U.S. population, Yeo set out to apply his wearable device research to the industry with a wireless sleep monitoring patch system.
+The patches — which have an accuracy rate of 88.5% for sleep apnea detection — have the thickness of an adhesive bandage. Three embedded electronic sensors send signals wirelessly via Bluetooth to record brain, eye, and muscle activity. That data is relayed to an app on a smart device such as a phone or tablet for further study and evaluation.
+The device can be used at home, negating the need to go to a sleep center or medical facility for overnight monitoring.
+“A lot of people have this type of sleep disorder; they just don’t know it,” said Yeo, whose research is centered primarily in advancing healthcare through the development of biosensors and bioelectronics. “In the U.S., more than 18 million people have this type of sleep apnea. That’s basically one out of every 15 Americans, and those numbers are increasing over time.”
+Underlying health issues are partly behind the increase, he said, but key drivers are the types of food and portion sizes of the modern American diet as well as stress.
+There’s also an economic toll on the country. Poor sleep cost the U.S. economy $411 billion in lost productivity in 2015. That figure is projected to exceed $467 billion by 2030.
+Predicting Sleep Apnea
+Using artificial intelligence and machine learning, the technology behind the wearable device records the data to give a sleep score that determines if the patient has sleep apnea or if they are getting enough quality sleep.
+In the study, when measured against a controlled group of eight sleep apnea patients whose issues were detected under conventional testing means, Yeo’s wireless patch detected sleep apnea with an accuracy rate of 88.5%. For comparison, an existing headband device on the market had an accuracy rate of about 71% and cannot measure muscle activities.
+What’s more, the technology Yeo and his team developed, and the machine learning algorithms used, can predict the likelihood that a person who doesn’t show any symptoms of sleep apnea will develop it at some point.
+“By looking at the data, we can say that, if you don’t change something right now — whether it’s diet or sleeping behavior or anything like that — you’re likely to develop sleep apnea because your numbers are bad,” he said.
+Solving a Problem
+The wireless patch solves a multipronged challenge to conventional testing methodology by addressing current patient issues with comfort, time, access, and cost.
+The current process — called a PSG or polysomnography test — proves uncomfortable for some patients. That’s because they must sleep in a fixed position for fear of detaching any one of the 15 wired probes from their skin. Having any of those sensors detach from their bodies risks not capturing enough data for proper assessments.
+It's also time consuming because the patient must go to a sleep center and spend the night being monitored by medical personnel. There can also be a lag to even get tested. Patients who don’t have severe symptoms or other high-risk, underlying factors such as heart disease or hypertension, often must wait after getting a referral from a doctor to be slotted for a bed at a sleep center, pending availability. Finally, the current detection method is costly to patients and insurance systems, tallying roughly $8,000 per person, per night.
+“So that testing barrier is really high for regular people unless you are already sick, then they will screen you to avoid any severe conditions,” Yeo said. “But for people who don’t show symptoms, you won’t know whether you have the sleep disorder until it gets severe. We want to stop sleep apnea before it starts.”
+CITATION: Woon-Hong Yeo, Shinjae Kwon, Hyeon Seok Kim, Kangkyu Kwon, Hodam Kim, Yun Soung Kim, Sung Hoon Lee, Young-Tae Kwon, Jae-Woong Jeong, Lynn Marie Trotti, Audrey Duarte. “At-home wireless sleep monitoring patches for the clinical assessment of sleep quality and sleep apnea.” Science Advances. May 24, 2023. doi/10.1126/sciadv.adg9671.
+Additional Images
+Contact
+Péralte C. Paul
+peralte.paul@comm.gatech.edu
+404.316.1210
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

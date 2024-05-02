@@ -1,0 +1,49 @@
+targeting radiation resistance: why some tumors are so stubborn 
+ kemp lab uses genome-scale modeling to understand tumor metabolism and predict tumors’ responses to radiation therapy 
+ melissa kemp and josh lewis have used genome-scale modeling to predict tumors’ responses to radiation therapy. 
+ may 11, 2021 
+ — atlanta, ga 
+ radiation therapy has been — and will be — a cornerstone of cancer treatment for good reason: it works. 
+ mostly. 
+ currently, more than half of cancer patients receive radiation as part of their treatment. but 20 percent of them, give or take, will find that they need different options because their tumors are resistant to radiation therapy. it’s a bad place to be: they may still face the potential side effects without the therapeutic benefit, and they’ve lost precious time. 
+ what if clinicians had a way to predict and possibly improve radiosensitivity for individual patients? a team of researchers at the georgia institute of technology and emory university is working on something with that ultimate goal in mind. 
+ “there still isn’t a great understanding of why some tumors don’t respond well to radiation, and it’s a significant hurdle to the long-term survival of many patients,” noted 
+ joshua lewis , who sought answers to the radiation resistance question while a graduate student in the lab of 
+ melissa kemp 
+ in the wallace h. coulter department of biomedical engineering. 
+ together, they’ve taken steps to begin to understand the underlying metabolism and build a tool to predict whether specific tumors will be one of the stubborn ones that doesn’t respond. in back-to-back papers, with lewis as lead author, kemp said they created a new pipeline, “in which you can automatically take data, plug it into our whole cell modeling of metabolism, and actually predict the way certain tumors of various cancer types, from various patients, are going to respond.” 
+ she added: “this is the first example of really asking, with respect to radiation resistance, why there are differences that manifest themselves in tumor metabolism.” 
+ in january, they published the first study with collaborators from wake forest and indiana university in the journal 
+ cell systems . 
+ the newest research appears this month in 
+ nature communications . 
+ lewis based the studies on his ph.d. thesis, “genome-scale modeling of redox metabolism and therapeutic response in radiation-resistant tumors,” which he defended a year ago. 
+ shortly after lewis began grad school, wake forest researcher cristina furdui approached the kemp lab with the radiation resistance problem, “asking us to apply our expertise in systems biology,” he said. “it’s a more holistic approach than working with individual molecules or proteins, taking into account many different factors and their interactions, seeing if that leads to a particular response to radiation therapy.” 
+ lewis used a well-established type of cellular modeling called “flux balance analysis,” in which, “you try to model the entire metabolism of a cell — all the different chemical reactions. we model them using different biochemical equations.” the researchers then plug those equations into a computer. within seconds, they can accurately analyze about 13,000 different metabolic reactions. 
+ “we came up with our own approach for making more accurate flux balance analysis models by integrating multiple different types of omics data,” said lewis, now pursuing his medical degree in the emory md / phdprogram. “omics” measure characteristics of molecules like genes, proteins, or metabolites, which comprise the cells of an organism. 
+ by integrating genomics, transcriptomics, and metabolomics data, the researchers could model redox metabolism – the process of oxidation and reduction reactions, or the loss and gain of electrons – in cancer cells, “and use that to accurately predict how certain tumors react to radiation therapy,” said lewis, who mined data from the cancer genome atlas (tcga). 
+ “we looked for metabolic enzymes or metabolic targets where, if you tweaked them, it could affect a tumor’s radiosensitivity,” lewis said. “so, imagine if you’re giving a patient radiation therapy, and you could also give them a chemotherapeutic at the same time that inhibits the action of a particular enzyme to make a tumor more sensitive to radiation.” 
+ that is, essentially, the first paper. in the second — written only by lewis and kemp — the researchers integrated machine learning with genome-scale metabolic modeling, “to see if we can better predict what sort of biological features are associated with a patient’s response to radiation.” 
+ one main challenge for the researchers in either paper, lewis said, was in the datasets they used from tcga. they had good genomics and transcriptomics data, but their metabolomics data was incomplete. the computational models they developed for the 
+ cell systems 
+ paper helped fill in the blanks, making metabolomic predictions. they fed the data from those models into a machine learning model to better identify biomarkers of radiation resistance. 
+ “we can think clinically of a patient giving a blood sample, and from that blood you’re able to measure the levels of different metabolites and determine if the patient would be a good candidate for radiation therapy, or whether we should go ahead and think of other therapies,” lewis said. 
+ that speaks directly to what lewis is training for now in his m.d. program. he wants to be a pathologist and better understand how patients respond to different therapies. 
+ “i’d like to help bridge the gap between research and the clinic,” he said. 
+ he’s off to a good start, and it’s exciting for kemp. 
+ “josh’s computational platform turns easy-to-acquire data into a model representation of hard-to-acquire attributes, like metabolic fluxes and metabolite changes, that are otherwise very challenging to measure with the scale it takes to cover many different patients,” she said. 
+ this research was supported by a national institutes of health / national cancer institute fellowship (f30 ca224968), an nih / nci u01 grant (ca215848), and the wake forest baptist comprehensive cancer center (nih / nci p30 ca12197). 
+ citations: 
+ joshua lewis, tom e. forsha, david a. boothman, cristina furdui, melissa kemp, “personalized genome-scale metabolic models identify targets of redox metabolism in radiation-resistant tumors ” ( cell systems , 2021) 
+ joshua lewis, melissa kemp, “integration of machine learning and genome-scale metabolic modeling identifies multi-omics biomarkers for radiation resistance” ( nature communications , 2021). 
+ related links: 
+ “personalized genome-scale metabolic models identify targets of redox metabolism in radiation-resistant tumors ” ( cell systems , 2021) 
+ “integration of machine learning and genome-scale metabolic modeling identifies multi-omics biomarkers for radiation resistance” ( nature communications , 2021). 
+ additional images 
+ contact 
+ writer: jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

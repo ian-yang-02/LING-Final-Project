@@ -1,0 +1,79 @@
+‘spooky’ sightings in crystal point to extremely rare quantum spin liquid 
+ strong experimental indications of a rare quantum phenomenon could open doors into understanding the mystery of matter. 
+ a massive part of oak ridge national laboratory's spallation neutron source during its construction phase in earlier years. the hole in the center is where the target crystal for neutron scattering is placed. credit: oak ridge national laboratory 
+ dec 05, 2016 
+ — atlanta, ga 
+ inside a new exotic crystal, physicist martin mourigal has observed strong indications of “spooky” action, and lots of it. 
+ the results of his experiments , if corroborated over time, would mean that the type of crystal is a rare new material that can produce a quantum spin liquid. 
+ currently, only a small handful of materials are believed to possibly have these properties. this new crystal was synthesized for the first time only a year ago. corroboration by other physicists of mourigal’s newly produced experimental data could take a decade or more. 
+ confused? meet quantum physics 
+ a “liquid” found inside a solid object may sound confusing to many people. 
+ welcome to quantum materials, part of the twilight zone called quantum physics, which scientists have been struggling for a century to grasp a nanometer at a time, and where they use terms like "liquid" and "solid" to mean things other than water and rocks. though much about it is yet undiscovered, quantum physics describes the underlying reality of matter. 
+ computers, smart phones, superconductors and mri machines are engineered from it. but its laws about the atomic realm defy human perception of what is real, and some sound so preposterous that they have become popular science brain teasers. 
+ ‘spooky’ entanglement bonanza 
+ take quantum entanglement, the core of mourigal’s research on the apparent spin liquid in the crystal: if two particles, electrons, for example, become entangled, they can be physically separated by many miles, and still be intimately linked to one another. actions applied to one particle then instantaneously effect the other. 
+ at first, this theory was too odd even for the father of relativity, albert einstein, 
+ who lampooned it 
+ as “spooky action at a distance.” 
+ entanglement has since been proven in experiments, but now scientists like 
+ mourigal, an experimental physicist at the georgia institute of technology , and his team, have taken it much farther. the synthetic crystal he has examined, an ytterbium compound with the formula ybmggao 4 , is likely brimming with observable ‘spooky’ connections. 
+ “imagine a state of matter where this entanglement doesn’t involve two electrons but involves, three, five, 10 or 10 billion particles all in the same system,” mourigal said. “you can create a very, very exotic state of matter based on the fact that all these particles are entangled with each other. there are no individual particles anymore, but one huge electron ensemble acting collectively.” 
+ mourigal, 
+ former postdoctoral fellow joseph paddison 
+ and graduate student 
+ marcus daum 
+ published their observations 
+ in the journal 
+ nature physics 
+ on monday, december 5, 2016. they collaborated with colleagues at the university of tennessee and oak ridge national laboratory. work was funded by the national science foundation and the u.s. department of energy. 
+ quantum computing dreams 
+ this massive "spooky" entanglement makes a system of electrons a quantum spin “liquid.” the term is not meant in the everyday sense, as in water. here, it describes the collective nature of electrons’ spins in the crystal. 
+ “in a spin ‘liquid,’ the directions of the spins are not tidily aligned, but frenzied, although the spins are interconnected, whereas in a spin ‘solid’ the spin directions have a neat organization,” mourigal said. 
+ if the discovery stands, it could open a door to hundreds of yet unknown quantum spin liquid materials that physicists say must exist according to theory and mathematical equations. in the distant future, new quantum materials could become, by today’s standards, veritable sorcerer’s stones in quantum computing engineers’ hands. 
+ beijing’s ytterbium crystal success? 
+ the ytterbium crystal was first synthesized a year ago 
+ by scientists in china , where the government in beijing has invested heavily in hopes of creating synthetic quantum materials with novel properties. it appears they may have now succeeded, said mourigal, an assistant professor at 
+ georgia tech’s school of physics . 
+ one of the only previously observed apparent quantum spin liquids occurs in a natural crystal called 
+ herbertsmithite, an emerald green stone found in 1972 
+ in a mine in chile. it was named after mineralogist herbert smith, who died nearly 20 years prior to the discovery. 
+ researchers 
+ observed its apparent spin liquid nature in 2012 
+ after massachusetts institute of technology scientists succeeded at reproducing a purified piece of the crystal in their lab. 
+ encyclopedia of spin liquids 
+ that initial discovery was just the beginning of an odyssey. because of its chemical makeup, herbertsmithite produces just one single entanglement scheme. physics math says there must be myriads more. 
+ “finding herbertsmithite was like saying, ‘animals exist.’ but there are so many different species of animals, or mammals, or fish, reptiles and birds,” mourigal said. “now that we have found one, we are looking for different kinds of spin liquids.” 
+ the more spin liquids experimental physicists confirm, the more theoretical physicists will be able to use them to bend their minds around quantum physics. “it’s important to create the encyclopedia of them,” mourigal said. “this new crystal may be only our second or third entry.” 
+ what neutron scattering revealed 
+ physicists from the university of tennessee 
+ succeeded in replicating the original ytterbium crystal, and mourigal examined it at 
+ oak ridge national laboratory (ornl), 
+ where it was cooled down to a temperature of -273.09 degrees celsius (0.06 degrees kelvin). 
+ the cooling slowed the natural motion of the atoms to a near stop, which allowed the researchers to observe the electron spins’ dance around the ytterbium (yb) atoms in the ybmggao 4 
+ crystal. they used a powerful superconducting magnet to line the spins up in an orderly fashion to create a starting point for their observations. 
+ “then we removed the magnetic field, and let them go back to their special kind of wiggling,” mourigal said. his team carried out the observations at the 
+ ornl spallation neutron source , a department of energy office of science user facility. the sns has about the power and size of a particle supercollider, and allowed the scientists to watch the concert of electrons’ spins by bombarding them with neutrons. 
+ normally, when one electron flips its spin, researchers would expect it to create a neat chain reaction, resulting in a wave going through the crystal. the wave of electron spins flipping in sequence might look something like fans at a football game standing and sitting back down to make a wave go around the stadium. 
+ but something odd happened. “this jumbly kind of spin wave broke down into many other waves, because everything is collective, everything is entangled,” mourigal said. “it was a continuum of excitations, but breaking down across many electrons at once.” 
+ it was qualitatively similar to what was observed using the same technique on herbertsmithite. 
+ nobel prize topology donut 
+ to authenticate the observations made by mourigal's team, theoretical physicists will have to crunch the data with methods that, in part, rely on topology,  a focus of the 2016 nobel prize in physics . mourigal thinks chances are they will pass muster. “at first glance, this material is screaming, ‘i’m a quantum spin liquid,’” he said. 
+ but it must undergo a years-long battery of stringent mathematical tests. the theoretical physicists will wrap the data around a mathematical “donut” to confirm whether or not it is a quantum spin liquid. 
+ “that’s meant seriously,” mourigal said. “as a mathematical mental exercise, they virtually spread the spin liquid around a donut shape, and the way it responds to being on a donut tells you something about the nature of that spin liquid.” 
+ though entangled particles appear to defy space and time, the shape of space they occupy affects the nature of the entanglement pattern. 
+ the possibility of a quantum spin liquid was first demonstrated in the 1930s, but only using atoms placed in a straight line. physicists have been searching in the decades since for materials containing them. 
+ zhiling dun and haidong zhou from the university of tennessee, and georg ehlers, yaohua liu and matthew stone from oak ridge national laboratory coauthored the paper ( 10.1038 / nphys3971) . reproduction of the ytterbium crystal at ut was funded by a national science foundation grant (dmr-1350002). ornl, which provided the neutron scattering is part of the u.s. department of energy. 
+ any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring agency. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu). 
+ writer : ben brumfield 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

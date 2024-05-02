@@ -1,0 +1,12 @@
+schizophrenia simulator: when chemistry upends sanity's balance 
+ working memory disturbances wreck the mental coherence of schizophrenia sufferers, yet treatments for it are very limited. biomedical engineers have built an accurate simulator of the brain chemistry behind it to help drug developers change that. 
+ the schizophrenia simulator is a well-ordered, fine-tuned labyrinth of data from thousands of studies mathed with differential equations to be highly accurate. but the output to users is simple and playful -- a rainbow-colored mobile that displays the dynamics of the brain chemicals' interplay. 
+ aug 04, 2016 
+ — atlanta, ga 
+ it’s called mental imbalance for a reason. sanity hangs, in part, in the gentle balance of chemicals strung together within regions of the brain in an intricate matrix. in schizophrenia, the matrix is sharply jarred, debilitating the mind and triggering hallucinations. now, researchers at the georgia institute of technology have created an interactive model of that matrix to fast-track research and treatment of the tormenting disorder. working memory disruptions paralyze the mental coherence of schizophrenia sufferers, yet there is a stark lack of medical treatment for it. researchers zhen qi and eberhard voit hope their new, very accurate computational simulator built around this symptom will help change that to curb anquish for many patients. learn more about the simulator , which puts this brain dysfunction into a virtual setting. 
+ additional images 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

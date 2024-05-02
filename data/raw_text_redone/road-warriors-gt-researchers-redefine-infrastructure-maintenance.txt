@@ -1,0 +1,43 @@
+road warriors: gt researchers redefine infrastructure maintenance 
+ tsai and others in civil engineering are changing the way civil engineers do their work. 
+ sep 09, 2013 
+ — atlanta, ga 
+ transportation officials and researchers from several states gathered at georgia tech on aug. 29 to review the results of the rs-gams2 project, a 2-year, $1.9 million research enterprise that promises to revolutionize the way our nation’s roads are inventoried, managed, and maintained. 
+ to the delight of its principal investigator, cee’s  dr. james tsai , this research will also change the way civil engineers do their work. 
+ “fifty years ago, civil engineers built roads and were done, really. but now the challenge is different. we must maintain those roads in a cost-effective, sustainable way, while not interrupting the flow of traffic,” said tsai, who partnered with georgia tech colleagues   dr. tony yezz i  (ece) and   dr. zhaohua wang   (coa) on this project. 
+ “the rs-gams allows us to easily look at our roads and decide when, where, and what maintenance and rehabilitation methods should be used. it will give us the greatest return on our investment.” 
+ the remote sensing and gis-enabled asset management system (rs-gams) coordinates emerging technologies into a seamless process that more accurately and more cheaply assesses pavement, bridge, and roadway assets. the system employs light detection and ranging (lidar), 3d lasers, imaging, inertia detection, and gps / gis technologies to collect and analyze data on everything from missing road signs to cracked pavement. it also uses multi-sensor data fusion, image / signal processing, and artificial intelligence algorithms to deliver a complete picture of roadway conditions to maintenance and planning officials. 
+ sponsored by grants from the u.s. and georgia departments of transportation, tsai’s multi-disciplinary research team has been developing the system for the past two years, using 18,000 miles of georgia roadways as their laboratory. 
+ the august release of their findings couldn’t have come at a better time, according to  j. b. butch wlaschin , the director of the office of asset management for the federal highway administration (fhwa). 
+ “a new federal law is requiring the states to have comprehensive, data-driven asset management plans in place to show that their pavement and bridges are in a state of good repair. but there are no protocols, no standards, no methodologies for assessing the condition of our roadways from state to state,” says wlaschin. 
+ “every state does it differently, and they all have problems gathering the information they need.” 
+ the rs-gams addresses that shortfall significantly by creating a comprehensive assessment system whose data standards can be used by other states. 
+ “they’ve developed technologies that will be cost-effective for measuring the problems before they get out of hand,” said florida department of transportation official  bouzid choubane,  who attended the project’s release. “in florida, we are excited about using its crack detection abilities.” 
+ the rs-gams relies heavily on lidar, a remote sensing technology that uses lasers to measure and record the distance between objects. an analysis of the data returned from the lidar produces a 3-d model that can pinpoint much of what is lost by video or visual observation alone. installed in a camera-equipped van, this technology can record and collect data while engineers are driving at highway speeds. 
+ “that means what used to take me weeks or months to collect on foot can now be picked up in a 10-minute drive,” said wlaschin. 
+ “and there are going to be some things we can pick up with this system that we couldn’t touch before because the traffic was too heavy. for instance, how are you going to assess the condition of i-75 / 85? divert the traffic onto peachtree street for a couple of days and wish them good luck?” 
+ one of those hidden road maladies that rs-gams can pick up is cracked pavement. 
+ “the laser can effectively pick up the tiniest cracks in the pavement – something that might cost thousands to resolve by sealing it now, but tens of thousands to fix when water enters gets in and deteriorates the base,” said tsai. “if we want to economically maintain our infrastructure, this is the sort of pro-active maintenance we have to do.” 
+ intelligent signal / image processing and artificial intelligence algorithms are built into the system to process the sensor-derived data and intelligently monitor roadway condition changes. a face recognition algorithm, applied to the video footage, allows engineers to identify the location and condition of various assets, like signs and road markings. by simultaneously collecting visual, lidar, and gps-generated data, the rs-gams can give highway engineers a spatially searchable database of assets and problems. 
+ this replaces a clunky, labor-intensive system that placed transportation engineers on busy roadways to inventory and assess asset conditions. 
+ one of the project’s most enthusiastic supporters is  mike moravec , a senior highway engineer working on the obama administration’s “every day counts” – a federal initiative that seeks to expedite the deployment of new highway safety projects and technologies. 
+ “the 3d sensing vehicle and related software that this research has further developed and worked with can collect information about the geometry of the road surface and combine that with inputs on predicted speeds and friction levels to tell us where potential high-crash hot spots are,” he said. 
+ “that’s the sort of pro-active planning that 'every day counts' is designed to promote. it means we can identify accident-prone roadways before we have crashes, and we can implement a preventative fix before there’s a crash.” 
+ moravec and other transportation officials agree that the next step is to identify universal standards and applications for that data so that it can be used in every 
+ “there are lots of different vendors out there who are willing to do some pieces of this, but they have proprietary systems that make it difficult to share data,” tsai said. 
+ in addition to pioneering the use of 3d line-laser-imaging to create crack detection algorithms, tsai's team has developed a protocol for reviewing sensor-based pavement surface data.  the latter development makes the rs-gams a strong candidate for setting national and international standards. 
+ “we’ve been able to do some good work on crack detection, but it’s the whole system that is valuable. because we worked with usdot and gdot on this, we think we may have a system and a standard that everyone can use.” 
+ tsai predicts that the collection of 2d and 3d sensor-based pavement data will eventually advance data collection, data processing, and applications worldwide. closer to home, his efforts have been praised by dr. gary may, dean of the college of engineering. 
+ "i am pleased to see this sort of innovation coming from an interdisciplinary research team,” said may, who was on hand for the august 29 release. “dr. tsai and his colleagues have demonstrated again the importance of collaboration – one of the strengths that makes georgia tech a premiere institution.” 
+ moving forward, tsai will advocate for the rs-gams by working with the advisory committee that guided his initial research. comprised of transportation officials and engineers from florida, north carolina, georgia, kansas, and washington, dc., that group is enthusiastic about bringing the gs-gams to all roadways. 
+ “this could become a tool that every state could use,” said wlaschin. 
+ this story first appeared on the school of civil and evironmental engineering's website. 
+ additional images 
+ related links 
+ school of civil and environmental engineering 
+ contact 
+ kathleen moore 
+ civil engineering 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

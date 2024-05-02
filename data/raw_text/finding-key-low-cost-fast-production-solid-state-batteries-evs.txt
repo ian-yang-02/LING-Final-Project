@@ -1,0 +1,37 @@
+Finding Key to Low-cost, Fast Production of Solid-state Batteries for EVs
+New technique could allow EV industry to make Li-ion batteries more safely with 100% solid-state nonflammable ceramic rather than liquid electrolytes.
+A new Georgia Tech manufacturing process could enable battery makers to produce lighter, safer, and more energy-dense batteries. (Photo credit: Allison Carter, Georgia Tech)
+Mar 08, 2021
+— Atlanta, GA
+A new fabrication technique could allow solid-state automotive lithium-ion batteries to adopt nonflammable ceramic electrolytes using the same production processes as in batteries made with conventional liquid electrolytes.
+The melt-infiltration technology developed by materials science researchers at the Georgia Institute of Technology uses electrolyte materials that can be infiltrated into porous yet densely packed, thermally stable electrodes. The one-step process produces high-density composites based on pressure-less, capillary-driven infiltration of a molten solid electrolyte into porous bodies, including multilayered electrode-separator stacks.
+“While the melting point of traditional solid state electrolytes can range from 700 degrees Celsius to over 1,000 degrees Celsius, we operate at a much lower temperature range, depending on the electrolyte composition, roughly from 200 to 300 degrees Celsius,” explained
+Gleb Yushin , a professor in the
+School of Materials Science and Engineering
+at Georgia Tech. “At these lower temperatures, fabrication is much faster and easier. Materials at low temperatures don’t react. The standard electrode assemblies, including the polymer binder or glue, can be stable in these conditions.”
+The new technique, to be reported March 8 in the journal Nature Materials, could allow large automotive Li-ion batteries to be made safer with 100% solid-state nonflammable ceramic rather than liquid electrolytes using the same manufacturing processes of conventional liquid electrolyte battery production. The patent-pending manufacturing technology mimics low-cost fabrication of commercial Li-ion cells with liquid electrolytes, but instead uses solid state electrolytes with low melting points that are melted and infiltrated into dense electrodes. As a result, high-quality multi-layered cells of any size or shape could be rapidly manufactured at scale using proven tools and processes developed and optimized over the last 30 years for Li-ion.
+“Melt-infiltration technology is the key advance. The cycle life and stability of Li-ion batteries depend strongly on the operating conditions, particularly temperature,” Georgia Tech graduate student Yiran Xiao explained. “If batteries are overheated for a prolonged period, they commonly begin to degrade prematurely, and overheated batteries may catch on fire. That has prompted nearly all electric vehicles (EV) to include sophisticated and rather expensive cooling systems.” In contrast, solid-state batteries may only require heaters, which are significantly less expensive than cooling systems.
+Yushin and Xiao are encouraged by the potential of this manufacturing process to enable battery makers to produce lighter, safer, and more energy-dense batteries.
+“The developed melt-infiltration technology is compatible with a broad range of material chemistries, including so-called conversion-type electrodes. Such materials have been demonstrated to increase automotive cell energy density by over 20% now and by more than 100% in the future,” said co-author and Georgia Tech research scientist Kostiantyn Turcheniuk, noting that higher density cells support longer driving ranges. The cells need high-capacity electrodes for that performance leap.
+Georgia Tech’s technique is not yet commercially ready, but Yushin predicts that if a significant portion of the future EV market embraces solid-state batteries, “This would probably be the only way to go,” since it will allow manufacturers to use their existing production facilities and infrastructure.
+“That’s why we focused on this project – it was one of the most commercially viable areas of innovation for our lab to pursue,” he said.
+Battery cell prices hit $100 per kilowatt hour for the first time in 2020. According to Yushin, they will need to drop below $70 per kilowatt hour before the consumer EV market can fully open. Battery innovation is critical to that occurring.
+The Materials Science lab team currently is focused on developing other electrolytes that will have lower melting points and higher conductivities using the same technique proven in the lab.
+Yushin envisions this research team’s manufacturing advance opening the floodgates to more innovation in this area.
+“So many incredibly smart scientists are focused on solving very challenging scientific problems, while completely ignoring economic and technical practicality. They are studying and optimizing very high-temperature electrolytes that are not only dramatically more expensive to use in cells but are also up to five times heavier compared with liquid electrolytes,” he explained. “My goal is to push the research community to look outside that chemical box.”
+In addition to Yushin, Xiao and Turcheniuk, co-authors included Aashray Narla, Ah-Young Song, Alexandre Magasinski, Ayush Jain, Sheirley Huang, and Haewon Lee from Georgia Tech, and Xiaolei Re from both Georgia Tech and Chongqing Technology and Business University in China.
+This work was mostly supported by Sila Nanotechnologies Inc., a Georgia Tech startup, with characterization performed at the Materials Characterization Center at Georgia Tech. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organization.
+Gleb Yushin is co-founder, CTO, and a stockholder of Sila. Yushin is entitled to royalties derived from Sila’s sale of products related to the research described in this paper. This study could affect his personal financial status. The terms of this arrangement have been reviewed and approved by Georgia Tech in accordance with its conflict of interest policies.
+CITATION:
+Y. Xiao, et al., “Electrolyte Melt-Infiltration for Scalable Manufacturing of Inorganic All-Solid-State Lithium-Ion Batteries.” ( Nature Materials , 2021)
+https://dx.doi.org/10.1038/s41563-021-00943-2 .
+Additional Images
+Contact
+Anne Wainscott-Sargent
+Research News
+(404-435-5784)
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,65 @@
+Department of Defense Funds Georgia Tech to Enhance U.S. Hypersonics Capabilities
+University Consortium for Applied Hypersonics (UCAH) has tapped the Georgia Institute of Technology and key academic partners for four grants valued at $6 million over the next three years.
+A multidisciplinary team of Georgia Tech researchers, pictured in GTRI's radar and antenna characterization laboratory, will bring their expertise to the hypersonics challenge. L to R: James Brent Peavy, William Jud Ready, Anirban Mazumdar, Kenneth Allen, David Reid, Aimee Williams, Ellen Yi Chen Mazumdar, Aaron Stebner (Photo credit: Sam McNeil, GTRI)
+Oct 05, 2021
+— Atlanta, GA
+Vastly different than conventional military weapons and aircraft, hypersonics systems are game-changing for national security, providing unprecedented speed and maneuverability. Operating at more than five times the speed of sound, these systems can alter course after takeoff, making them hard to intercept. The U.S. government’s proposed fiscal year 2022 budget for hypersonics research and development is $3.8 billion, representing a nearly 20% increase from the previous year.
+Developing vehicles capable of traveling at over a mile per second — speeds that cause vehicle surface temperatures to heat up to 2,200 degrees Celsius — presents daunting engineering challenges for hypersonics materials and systems.
+To address these hurdles and enhance U.S. hypersonics capabilities, the
+University Consortium for Applied Hypersonics
+(UCAH) has tapped the Georgia Institute of Technology and key academic partners for four grants valued at $6 million over the next three years. The awards draw on Georgia Tech and the
+Georgia Tech Research Institute
+(GTRI) expertise across advanced, high-temperature materials science and aerospace and mechanical engineering research — areas critical for future advances of these vehicles.
+“Hypersonics research is a big area of focus for Georgia Tech. It’s an area where the College of Engineering and GTRI can really collaborate and build upon GTRI’s strong foundation to be a real force in hypersonics,” said Devesh Ranjan, Ring Family Chair and associate chair for Research in the George W. Woodruff School of Mechanical Engineering, who also serves as co-director of UCAH.
+Building a Future Workforce
+Ranjan, who also co-chairs the Hypersonics Taskforce at Georgia Tech, considers the UCAH grants a huge win for Georgia Tech on three fronts:
+Helping build the future workforce of highly skilled researchers in hypersonics.
+Enabling technology transfer of key research into industry.
+Applying high-temperature material advances in new fields, whether it be better power plant materials, higher efficiency sensors, or new propulsion systems that could enable commercial planes to fly from Los Angeles to New York City in only 15 minutes.
+Georgia Tech expects to engage a broad community of undergraduate, master’s, and Ph.D. students to tackle these projects. The continuity of a three-year research program opens the door for both GTRI and the engineering schools to co-advise graduate students.
+“The UCAH workforce development goal to attract the next generation of scientists and engineers is important and a high priority for us,” said Kenneth Allen, chief scientist for GTRI’s Advanced Concepts Laboratory.
+“Workforce development is one of the key reasons we are doing this consortium,” noted Gillian Bussey, director of the Department of Defense’s Joint Hypersonics Transition Office (JHTO), which funded the awards.
+JHTO’s mission includes engaging with the Science & Technology (S&T) community to develop hypersonics technologies and transition them to operational capabilities.
+“We’re focused on applied hypersonics, which is why we ask proposers to team with industry or national labs to help make their proposed projects more relevant and transitionable,” Bussey said, noting that a key challenge with S&T is connecting the university research community to warfighter needs. “Our goal for this consortium is not only more relevant S&T that can be better inserted into our programs, but also a university ecosystem that better understands our problems.”
+According to Bussey, Georgia Tech researchers excelled at showing they understood the applied research questions posed by UCAH, which restricted the number of white papers from universities to three in the initial phase.
+“Georgia Tech’s three papers got picked for the project proposal phase, and then for three proposal projects. So, they batted a thousand. No one else did that and I think it's a testament to the legacy and experience that Georgia Tech has, particularly with GTRI, in working in the applied area,” Bussey said.
+The awarded grants address several emerging areas of hypersonics, from testing advanced control system strategies to materials and composites capable of withstanding extreme temperatures.
+Contrasting Hypersonics Versus Conventional Systems
+Hypersonic vehicles differ dramatically from conventional vehicles, according to Allen. To illustrate, he pointed out that intercontinental ballistic missiles (ICBMs) travel at roughly 15,000 miles an hour, or over Mach 15, but follow a parabolic trajectory with 80% of their flight time spent in space.
+“Hypersonic vehicles, on the other hand, do not have simple parabolic trajectories and they navigate within the atmosphere. Both facts introduce a host of interesting research problems,” he said.
+The first problem ― maneuverable low-altitude flight ― introduces challenges in tracking for ground-based systems since the Earth’s curvature can block the line of sight. Allen said this maneuverability also eliminates the ability to predict simple trajectories.
+The second problem concerns vehicle velocities beyond Mach 5 within the atmosphere, which  Allen explained causes “a violently disruptive process for the vehicle.”
+“Imagine at speeds on the order of one mile per second, these vehicles must be able to withstand ripping through this sea of gases, which are disruptive enough to tear away electrons and break apart molecules. This has adverse effects on the materials, such as the disintegration of the materials exposed to the vehicle’s hottest surfaces,” he said.
+Planning Better Vehicle Simulation Paths
+One of the UCAH grants will optimize and validate multimodal control strategies for future vehicles. A key challenge facing these aircraft is that they nominally fly on the border of where they are structurally sound, explained Jonathan Rogers, principal investigator for the grant.
+“While most aircraft have buffers designed into the system to handle unexpected loads or heating, hypersonic vehicles have little margin against heating or other aerodynamic loads,” he said. Rogers serves as the Lockheed Martin Associate Professor of Avionics Integration in the Daniel Guggenheim School of Aerospace Engineering. “It's hard to design margin into the system when we don't know a lot about what the system will experience.”
+To combat that uncertainty, Rogers’ research team will design trajectory models so that vehicle operators can plan the path the vehicle will take. These paths will be used in simulations to “make sure the vehicle actually flies them.”
+Rogers and his co-PIs Anirban Mazumdar and Mark Costello will build on previous research collaborations with Sandia National Labs Autonomy for Hypersonic Program, as well as collaborate with researchers at Texas A&M University.
+What most excites Rogers is the prospect of Georgia Tech’s research being applied and adopted by the hypersonics community. He points to the historical challenge of academic research getting published but not adopted.
+“With the funding agency being JHTO, there’s definitely an emphasis on transitioning the technology to use,” he said.
+Building a Thermal-Tolerant Window Prototype
+Another grant involves work with three other universities to validate a prototype window design that can tolerate thermal strains, or be able to withstand the full Mach 5 – 10 service temperature cycle and remain joined and sealed to the frame of the vehicle.
+Aaron Stebner, associate professor in the Woodruff School, is working closely with researchers at Ohio State University, Texas A&M, and North Carolina A&T State University, as well as aerospace designers and fabricators at Spirit AeroSystems.
+According to Stebner, high-temperature alloys and ceramic coatings used on hypersonic vehicles prevent the electronics from communicating through them. “The metals interfere with the electronics communications,” he explained.
+To overcome this problem, hypersonic vehicle builders install a small communications window made from a single crystal version of alumina with low enough density to not interfere with the electronics. However, when the window along with the rest of the vehicle heats up to 900 degrees Celsius, “in a couple seconds, the airframe metal expands much more than the ceramic,” Stebner explained, adding that the phenomenon, called thermal expansion, either causes the ceramic to crack at a cooler temperature or a gap to form between the ceramic and the metal at Mach 5 and above.
+“Our project is about making sealing and joining technologies that are sufficient for solving this problem,” he said.
+Testing New Radome and Window Materials
+A third UCAH grant brings together experts from GTRI and Professors Ellen Yi Chen Mazumdar and Surya Kalidindi from the Woodruff School to test new high-temperature radio frequency (RF) radomes and develop infrared (IR) window materials.
+Many current hypersonic vehicles lack onboard RF and IR sensors because of the lack of high- temperature window and radome materials. Windows and radomes need to simultaneously be transparent to RF or IR wavelengths and handle similar forces and temperatures as the vehicle surface. To make sensors a reality, new methods for developing and characterizing materials is needed. Innovations in these areas will enable next-generation vehicle designs, which “will help the vehicles achieve active decision-making in flight,” said Ellen Yi Chen Mazumdar, the principal investigator and assistant professor in mechanical engineering and aerospace engineering.
+“To enable either radar or optical sensing in hypersonic vehicles, we need to study and develop radome and window materials. Temperature handling is always a challenge, so we are pushing the boundaries of what we can do with existing materials,” she said.
+Part of this research includes developing infrared materials that can self-calibrate. Mazumdar explained that as these vehicles heat up, so will the window. An unfortunate effect is that the window itself will start to heat up and begin to emit brighter in the infrared than the objects the vehicle is looking at. “To eliminate that effect, you have to calibrate out the window emission and wavefront distortion contributions,” she said.
+Another big focus of the project is testing smaller radome samples at higher temperatures. Developing new materials is expensive and building smaller, 1- to 4-inch-diameter samples instead of 12-inch samples could lead to smaller test facilities that are easier and less expensive to build. This can create faster material development cycles. By subjecting the material samples to extremely high temperatures, investigators will recreate, as closely as possible, the conditions that would be experienced during flight.
+GTRI’s Allen said their work on the radome and window materials “is an extension of our existing core competencies in sensors and systems engineering, including materials science for high-temperature composites, material measurements with relevant temperature profiles, sensor development integration, modeling, simulation, and analysis of hypersonics systems.”
+Using Ultrasound to Identify Defects in Hypersonics Materials
+Stebner is driving a fourth UCAH grant that will leverage machine-learning-enhanced ultrasound inspection to better characterize manufacturing defects in hypersonics materials. He said that this research will find application in many industries beyond national defense, from nuclear energy to aerospace.
+He noted that companies that process nuclear fuels need the same high-temperature materials used in hypersonics to contain the fuels while they are being processed.
+“We have proposed a big NASA program manufacturing high-temperature materials for  nuclear engines,” Stebner said. “We also have active projects through the Boeing Georgia Tech Alliance on the manufacturing of these materials. In all cases, across many industries, non-destructive evaluation of internal manufacturing defects is critical to achieve qualification. I really see these UCAH projects not only solving the short-term critical research needs of the government in this particular domain, but also seeding a broader field of study for decades.”
+*Editors note: All photos and video for this story were taken in July, 2021, prior to updated mask  guidance  issued by Georgia Tech.
+Additional Images
+Contact
+Anne Wainscott-Sargent
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,88 @@
+thwarting metastasis by breaking cancer’s legs with gold rods 
+ metastasis virtually halted in human in vitro cultures via gold nanorod photothermal therapy 
+ artist rendering of cancer cells wandering. credit: purchased from istock to illustrate this story. rights not transferable. 
+ jun 26, 2017 
+ — atlanta, ga 
+ “your cancer has metastasized. i’m sorry,” is something no one wants to hear a doctor say. 
+ cancer cells 
+ kill most often 
+ by crawling away from their original tumors to later re-root in vital parts of the body in a process called 
+ metastasis . now, a research team led by the georgia institute of technology 
+ has developed a new treatment 
+ to thwart cancer's spread through the body by, in a sense, breaking cancer cells’ legs. 
+ cancer cells often cover themselves with bristly leg-like protrusions that enable them to creep. the researchers have used minuscule gold rods heated gently by a laser to mangle the protrusions, 
+ according to a new study . the treatment prevented cell migration, a key mechanism in metastasis, in experiments on common laboratory cultures ( in vitro ) of cancerous human cells. 
+ the method could potentially, in the future, offer clinicians going after individual tumors a weapon to combat cancer’s deadly spread at the same time. the medical field is currently less than well-equipped to stop metastasis. 
+ “if cancer stays in a tumor in one place, you can get to it, and it’s not so likely to kill the patient, but when it spreads around the body, that’s what really makes it deadly,” said lead researcher 
+ mostafa el-sayed, julius brown chair and regents professor 
+ at georgia tech’s 
+ school of chemistry and biochemistry. 
+ the treatment can also easily kill cancer cells, but in this experiment, it was vital to specifically show that it greatly slowed cell migration. the method is not scheduled for human testing. 
+ halting cancer softly 
+ the experimental treatment also spared healthy cells, in these and in prior experiments, making the method potentially much less 
+ taxing on patients than commonly used chemotherapy . in past tests in animal models, the researchers have uncovered no toxic side effects from the gold used in the treatment, and have found no observable damage to healthy tissue from the low-energy laser. 
+ and they did not see recurrence of the treated cancer. 
+ “the method appears to be very effective as a locally administered treatment that also protects the body from cancer’s spread away from the treated tumors, and it is also very mild, so it can be applied many times over if needed,” el-sayed said. 
+ el-sayed, 
+ co-lead author ronghu wu , and first authors yue wu and moustafa ali published the results of their current 
+ in vitro 
+ experiments, a new development in 
+ photothermal gold nanorod therapy , on june 26, 2017, in the 
+ proceedings of the national academy of sciences. 
+ the research was funded by the national science foundation and the national institutes of health. 
+ how it works: icky legs 
+ to understand how the treatment works, let’s take a close-up look at a cell and some things that happen to it in malignant cancer. 
+ many people think of cells as watery balloons -- fluid encased in a membrane sheath with organelles floating around inside. but that picture is incomplete. cells have support grids called 
+ cytoskeletons 
+ that give them form and that have functions. 
+ the cytoskeletons also form bristly 
+ protrusions called filopodia, which extend out from a weave of fibers called lamellipodia 
+ that are on the cell’s fringes. the protrusions normally help healthy cells shift their location in the tissue that they are part of. 
+ but in malignant cancer, normally healthy cell functions often lunge into destructive overdrive. lamellipodia and filopodia are wildly overproduced. 
+ “all these lamellipodia and filopodia give the cancer cells legs,” said yue wu, a graduate student in bioanalytical chemistry. “the metastasis requires those protrusions, so the cells can travel.” 
+ how it works: sticky rods 
+ the 
+ gold nanorods 
+ thwart the protrusions in two ways. the rods are comprised of a small collection of gold atoms – nano refers to something being just billionths of meters (or feet) in size. 
+ first, el-sayed’s nanorods are introduced locally, where they encumber the leggy protrusions on cancerous cells. the rods are coated with molecules ( rgd-peptide s) that make them stick specifically to a type of cell protein called 
+ integrin . 
+ “the targeted nanorods tied up the integrin and blocked its functions, so it could not keep guiding the cytoskeleton to overproduce lamellipodia and filopodia,” said yan tang, a postdoctoral assistant in computational biology who worked on the study. the binding of the integrin alone slowed down the migration of malignant cells. 
+ but healthy cells were not targeted. “there are certain, specific integrins that are overproduced in cancerous cells,” said moustafa ali, one of the study’s first authors. “and you don’t find them so much in healthy cells.” 
+ how it works: gentle laser heating 
+ in the second phase, researchers hit the gold nanoparticles with a low-energy laser of near-infrared (nir) light. it brought the migration of the cancer cells to an observable halt. 
+ “the light was not absorbed by the cells, but the gold nanorods absorbed it, and as a result, they heated up and partially melted cancer cells they are connected with, mangling lamellipodia and filopodia,” ali said. “it didn’t kill all the cells, not in this experiment. if we killed them, we would not have been able to observe whether we stopped them from migrating or not.” 
+ if desired, the treatment can also be adjusted to kill the cells. 
+ early experiments in animal models 
+ in vivo 
+ with hotter lasers didn’t work as well.  “that caused inflammation, which made it possible to heat one time only,” ali said. “as a result, that high temperature would wipe out many cancer cells, but not all of them. some hidden ones might have survived, and also still been able to migrate.” 
+ “this gentle laser didn’t burn the skin or damage tissue, so it could be dosed multiple times and more thoroughly stop the cancer cells from being able to travel,” said researcher ronghu wu. 
+ medical possibilities 
+ the researchers presently envision treating head, neck, breast, and skin cancers with direct, local nanorod injections combined with the low-power near-infrared laser, which can hit the gold nanorods 2-3 centimeters (a bit under or over an inch) deep inside tissue. “but it could go as deep as 4-5 centimeters,” ali said. 
+ deeper tumors could conceivably be treated with deeper injections of nanorods. “then you’d need to go in with a fiber optic or endoscopic laser,” el-sayed said. injecting the nanorods directly into the bloodstream as a broad treatment would not currently be a viable option. 
+ el-sayed’s group has previously published 
+ in vivo  experiments in mice 
+ in the proceedings of the national academy of sciences together with emory university school of medicine . that study showed no observable toxicity from the gold in mice 15 months after treatment. 
+ “a lot of it ended up in the liver and spleen,” el-sayed said. “but the functions of these organs appeared intact upon examination, and treated mice were alive and healthy over a year later.” 
+ presidential honors 
+ mostafa el-sayed is one of the world’s most highly decorated and cited living chemists, and a pioneer of nanoscience and technology. among his many recognitions are 
+ the president’s national medal of science, awarded by president george w. bush , and the 
+ priestley medal , the american chemical society’s highest honor. 
+ president barack h. obama appointed el-sayed to the president’s national medal of science committee . el-sayed also participated in the nomination of chemistry 
+ nobel laureate ahmed zewail. 
+ el-sayed is known throughout physical chemistry for “ el-sayed’s rule ,” which handles complexities of electron spin orbits, and which has found a lasting place in photochemistry textbooks. after losing his wife to cancer in 2005, el-sayed dedicated his knowledge and research to ending the scourge. 
+ also read: cancer and technology 
+ also read: punching cancer with rna knuckles 
+ the following authors also contributed to this research: haopeng xiao and tiegang han from georgia tech, and kuangcai chen and ning fang from georgia state university. this research was funded by the national science foundation division of chemistry (grants 1608801, career award che-1454501), and the national institutes of health nanotechnology study section (grant 1r01gm115763). any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the funding agencies. 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu) 
+ writer : ben brumfield 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

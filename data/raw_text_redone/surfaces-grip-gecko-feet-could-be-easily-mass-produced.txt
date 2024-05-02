@@ -1,0 +1,37 @@
+surfaces that grip like gecko feet could be easily mass-produced 
+ the science behind sticky gecko's feet lets these materials pick up about anything, and now they could be easily mass-produced. 
+ the inset on the upper right illustrates how the gecko adhesion surface is made by pushing lab razor blades into a setting polymer. the razor blades are pulled out, leaving indentations and stretching some of the polymer up, resulting in flexible walls that produce the gecko adhesion effect. credit: georgia tech / varenberg lab 
+ may 07, 2020 
+ — atlanta, ga 
+ why did the gecko climb the skyscraper? because it could; its toes stick to about anything. engineers can already emulate the secrets of gecko stickiness to make strips of rubbery materials that can pick up and release objects, but simple mass production for everyday use has been out of reach until now. 
+ researchers at the georgia institute of technology have developed,  in a new study , a method of making gecko-inspired adhesive materials that is much more cost-effective than current methods. it could enable mass production and the spread of the versatile gripping strips to manufacturing and homes. 
+ polymers with “gecko adhesion” surfaces could be used to make extremely versatile grippers to pick up very different objects even on the same assembly line. they could make picture hanging easy by adhering to both the picture and the wall at the same time. vacuum cleaner robots with gecko adhesion could someday scoot up tall buildings to clean facades. 
+ “with the exception of things like teflon, it will adhere to anything. this is a clear advantage in manufacturing because we don’t have to prepare the gripper for specific surfaces we want to lift. gecko-inspired adhesives can lift flat objects like boxes then turn around and lift curved objects like eggs and vegetables,” said michael varenberg, the study’s principal investigator and an  assistant professor in georgia tech’s george w. woodruff school of mechanical engineering . 
+ current grippers on assembly lines, such as clamps, magnets, and suction cups, can each lift limited ranges of objects. grippers based on gecko-inspired surfaces, which are dry and contain no glue or goo, could replace many grippers or just fill in capability gaps left by other gripping mechanisms. 
+ drawing out razors 
+ the adhesion comes from protrusions a few hundred microns in size that often look like sections of short, floppy walls running parallel to each other across the material’s surface. how they work by mimicking geckos’ feet is explained below. 
+ up to now, molding has produced these mesoscale walls by pouring ingredients onto a template, letting the mixture react and set to a flexible polymer then removing it from the mold. but the method is inconvenient. 
+ “molding techniques are expensive and time-consuming processes. and there are issues with getting the gecko-like material to release from the template, which can disturb the quality of the attachment surface,” varenberg said. 
+ the researchers’ new method formed those walls by pouring ingredients onto a smooth surface instead of a mold, letting the polymer partially set then dipping rows of laboratory razor blades into it. the material set a little more around the blades, which were then drawn out, leaving behind micron-scale indentations surrounded by the desired walls. 
+ varenberg and first author jae-kang kim published details of their new method  in the journal  acs applied materials & interfaces  on april 6, 2020. 
+ forget about perfection 
+ though the new method is easier than molding, developing it took a year of dipping, drawing, and readjusting while surveying finicky details under an electron microscope. 
+ “there are many parameters to control: viscosity and temperature of the liquid; timing, speed, and distance of withdrawing the blades. we needed enough plasticity of the setting polymer to the blades to stretch the walls up, and not so much rigidity that would lead the walls to rip up,” varenberg said. 
+ gecko-inspired surfaces have a fine topography on a micron-scale and sometimes even on a nanoscale, and surfaces made via molding are usually the most precise. but such perfection is unnecessary; the materials made with the new method did the job well and were also markedly robust. 
+ “many researchers demonstrating gecko adhesion have to do it in a cleanroom in clean gear. our system just plain works in normal settings. it is robust and simple, and i think it has good potential for use in industry and homes,” said varenberg, who studies surfaces in nature to mimic their advantageous qualities in human-made materials. 
+ [ready for graduate school with social distancing?  here's how to apply to georgia tech. ] 
+ gecko foot fluff 
+ behold the gecko’s foot. it has ridges on its toes, and this has led some in the past to think their feet stick by suction or some kind of clutching by the skin. 
+ but electron microscopes reveal a deeper structure – spatula-shaped bristly fibrils protrude a few dozen microns long off those ridges. the fibrils make such thorough contact with surfaces down to the nanoscale that weak attractions between atoms on both sides appear to add up enormously to create overall strong adhesion. 
+ in place of fluff, engineers have developed rows of shapes covering materials that produce the effect. a common shape makes a material’s surface look like a field of mushrooms that are a few hundred microns in size; another is rows of short walls like those in this study. 
+ “the mushroom patterns touch a surface, and they are attached straightaway, but detaching requires applying forces that can be disadvantageous. the wall-shaped projections require minor shear force like a tug or a gentle grab to generate adherence, but that is easy, and letting go of the object is uncomplicated, too,” varenberg said. 
+ varenberg’s research team used the drawing method to make walls with u-shaped spaces in between them and walls with v-shaped spaces in between. they worked with polyvinylsiloxane (pvs) and polyurethane (pu). the v-shape made in pvs worked best, but polyurethane is the better material for industry, so vanenberg’s group will now work toward achieving the v-shape gecko gripping pattern in pu for the best possible combination. 
+ also read: 
+ lung-heart super sensor on a chi p tinier than a ladybug 
+ here's how to  subscribe to our free science and technology email newsletter 
+ writer & media representative : ben brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

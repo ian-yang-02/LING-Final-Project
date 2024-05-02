@@ -1,0 +1,38 @@
+Researchers Unfolded Elegant Equations to Explain the Enigma of Expanding Origami
+Researchers use origami to explore how structures respond to certain kinds of mechanical stress.
+Researchers unfolded elegant equations to explain the enigma of expanding origami
+Aug 23, 2022
+— Atlanta, GA
+Most materials – from rubber bands to steel beams – thin out as they are stretched, but engineers can use origami’s interlocking ridges and precise folds to reverse this tendency and build devices that grow wider as they are pulled apart.
+Researchers increasingly use this kind of technique, drawn from the ancient art of origami, to design spacecraft components, medical robots, and antenna arrays. However, much of the work has progressed via instinct and trial and error. Now, researchers from Princeton Engineering and Georgia Tech have developed a general formula that analyzes how structures can be configured to thin, remain unaffected, or thicken as they are stretched, pushed, or bent.
+In a
+paper
+published August 3 in the
+Proceedings of the National Academy of Sciences , the researchers lay out their general rule for the way a broad class of origami responds to stress. The rule applies to origami formed from parallelograms (such as a square, rhombus, or rectangle) made of thin material. In their article, the researchers use origami to explore how structures respond to certain kinds of mechanical stress – for example, how a rectangular sponge swells in a bowtie shape when squeezed in the middle of its long sides. Of particular interest was how materials behave when stretched, like a stick of chewing gum that thins as it is pulled at both ends. The ratio of compression along one axis with stretching along the other is called the Poisson ratio.
+“Most materials have a positive Poisson ratio. If, for example, you pick up a rubber band and stretch it, it will become thinner and thinner before it breaks,” said
+Glaucio Paulino , professor at Princeton. “Cork has a zero Poisson ratio, and that is the only reason you can put the cork back in a wine bottle. Otherwise, you would break the bottle.”
+The researchers were able to write a set of equations to predict how origami-inspired structures will behave under this kind of stress. They then used the equations to create origami structures with a negative Poisson ratio – origami structures that grew wide instead of narrower when their ends were pulled, or structures that snapped into dome shapes when bent instead of sagging into a saddle shape.
+“With origami you can do this,” said Paulino, who is a professor of civil and environmental engineering and the Princeton materials institute. “It’s an amazing effect of geometry.”
+James McInerney , who is the study’s first author and a postdoctoral researcher at the University of Michigan, said the team created the equations to understand the property of symmetry in the structures. Symmetry means something that remains the same under certain transformation. For example, if you spin a square 180 degrees around an axis running between the centers of two sides, its shape remains the same.
+“Things that are symmetrical deform in expected ways in certain conditions,” McInerney said. By finding those symmetries in the origami, the researchers were able to create a system of equations that governed how the structure would respond to stress.
+McInerney said that the process was more complex than defining the symmetry rules because some of the folds resulted in deformations that did not obey the rules. He said generally the deformations made in the same plane as the paper (or thin material being folded) obeyed the rules, and those out of the plane broke the rules. “They broke the symmetry, but they broke the symmetry in a way that we could predict,” he said.
+D. Zeb Rocklin , an assistant physics professor at the Georgia Tech School of Physics and a co-author, said that origami presented a fascinating and contradictory behavior.
+“Usually, if you take a thin sheet or slab and you pull on it, it will retract in the middle. If you take the same sheet and bend it upwards, it will usually form a Pringle – or saddle – shape. Some materials instead thicken when you pull on them, and those always form domes rather than saddles. The amount of thinning always predicts the amount of bending” he said. “The bending of these origami is exactly the opposite of all conventional materials. Why is that?”
+Researchers have spent years seeking to define rules governing different classes of origami, with different folding patterns and shapes. But Rocklin said the research team discovered the class of origami was not important. It was the way the folds interacted that was key. To understand why origami seemed to defy movement usually defined by Poisson’s ratio – growing wider when pulled, for example – he researchers needed to understand how the interaction affected the movement of the entire structure. When artists fold the sheet so that it moves along its plane – for example, corrugating it so it can expand and contract – they also introduce a bend that moves the sheet into the saddle shape.
+“It is a hidden mode that comes along for the ride,” Rocklin said.
+Rocklin said by examining this hidden connection, the researchers were able to explain “this weird mode of the sheet doing opposite of what was expected.”
+“And we have a symmetry of that that explains why it does the exact opposite,” he said.
+In the future, the researchers intend to build on their work by examining more complex systems.
+“We would like to try to validate this for different patterns, different configurations; to make sense of the theory and validate it,” Paulino said. “For example, we need to investigate patterns such as the blockfold pattern, which is quite intriguing.”
+The research article
+Discrete symmetries control geometric mechanics in parallelogram-based origami
+was published online Aug 3 in the
+Proceedings of the National Academy of Sciences .
+Additional Images
+Contact
+Georgia Parmelee
+Email
+georgia.parmelee@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

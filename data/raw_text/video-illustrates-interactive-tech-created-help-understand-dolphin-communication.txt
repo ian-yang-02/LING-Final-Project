@@ -1,0 +1,28 @@
+Video Illustrates Interactive Tech Created to Help Understand Dolphin Communication
+A new video from Georgia Tech's College of Computing highlights Professor Thad Starner's collaboration with the Wild Dolphin Project.
+Mar 12, 2024
+Computers and dolphins don’t typically occupy the same space. However, Georgia Tech researchers and marine biologists from the Wild Dolphin Project have been swimming with the two for more than a decade.
+The Wild Dolphin Project is the world’s longest-running underwater dolphin research project, and this week, the organization is celebrating its 40th anniversary.
+Georgia Tech is marking the occasion with a  fun and engaging video illustrating the interactive computing technology its researchers have created to help marine biologists  studying dolphin behavior and communication in the open ocean.
+Referred to as the “Jane Goodall of the sea” by National Geographic, Denise Herzing is the founder and research director of the  Wild Dolphin Project . She and Georgia Tech College of Computing Professor Thad Starner began collaborating in 2011 on interactive technologies to aid the project’s study of a specific pod of Atlantic spotted dolphins.
+The initial CHAT (cetacean hearing augmented telemetry) device developed by Starner’s Contextual Computing Group was a large chest-worn submersible computer that produced and recorded sounds underwater. Fast forward to today and CHAT is now two smaller units that fit on the chest and wrist.
+CHAT works by having two marine biologists wear both units while swimming with the dolphins. The wrist device emits dolphin-like whistle sounds, while the chest device includes a hydrophone to detect and record sounds. The researchers made up the sounds to designate items they handle while in the water.
+The Georgia Tech video features an animated example of marine biologists passing a red scarf back and forth while triggering the designated sound for the scarf.
+“The hope is that the dolphins watching all of this can figure out the social context and repeat that sound to ask for the scarf,” said Scott Gilliland, CHAT developer and Georgia Tech senior research scientist.
+“If that happens, it means that our dolphins can mimic one word in our tiny, made-up language.”
+Gilliland and Starner continue to push CHAT forward to ensure the team captures this breakthrough when it happens. They are now collecting auditory field data to optimize their machine-learning model for identifying dolphin sounds in the open ocean.
+Ultimately, they expect CHAT to recognize if a dolphin repeats one of the preset sounds in real-time. The advanced system will notify researchers in the water of this event through bone-conducting headphones paired with CHAT.
+“Discoveries in dolphin cognition will serve to further elevate the status of all animals on the planet and help us define our relationship with them,” says Herzing, affiliate assistant professor at  Florida Atlantic University .
+CHAT is an ongoing collaboration between Herzing and Starner’s Contextual Computing Group. The Wild Dolphin Project is a Florida-based nonprofit research organization.­­
+Additional Media
+Related links
+VIDEO: Communicating with Dolphins, One Word at a Time
+Contact
+Ben Snedeker, Communications Mgr.
+Georgia Tech College of Computing
+albert.snedeker@cc.gatech.edu
+Email
+albert.snedeker@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

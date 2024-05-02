@@ -1,0 +1,48 @@
+long-acting contraceptive designed to be self-administered via microneedle patch 
+ a new long-acting contraceptive designed to be self-administered by women may provide a new family planning option. 
+ regents professor mark prausnitz and postdoctoral research scholar wei li examine an experimental microneedle contraceptive skin patch. designed to be self-administered by women for long-acting contraception, the patch could provide a new family planning option. (credit: christopher moore, georgia tech) 
+ jan 14, 2019 
+ — atlanta, ga 
+ a new long-acting contraceptive designed to be self-administered by women may provide a new family planning option, particularly in developing nations where access to health care can be limited, a recent study suggests. the contraceptive would be delivered using microneedle skin patch technology originally developed for the painless administration of vaccines. 
+ long-acting contraceptives now available provide the highest level of effectiveness, but usually require a health care professional to inject a drug or implant a device. short-acting techniques, on the other hand, require frequent compliance by users and therefore are often not as effective. in animal testing, an experimental microneedle contraceptive patch provided a therapeutic level of contraceptive hormone for more than a month with a single application to the skin. 
+ when the patch is applied for several seconds, the microscopic needles break off and remain under the surface of the skin, where biodegradable polymers slowly release the contraceptive drug levonorgestrel over time. originally designed for use in areas of the world with limited access to health care, the microneedle contraceptive could potentially provide a new family planning alternative to a broader population. 
+ the research was reported january 14 in the journal 
+ nature biomedical engineering 
+ and was supported by family health international (fhi 360), funded under a contract with the u.s. agency for international development (usaid). 
+ “there is a lot of interest in providing more options for long-acting contraceptives,” said 
+ mark prausnitz , a regents professor in the 
+ school of chemical and biomolecular engineering 
+ at the georgia institute of technology and the paper’s corresponding author. “our goal is for women to be able to self-administer long-acting contraceptives with the microneedle patch that would be applied to the skin for five seconds just once a month.” 
+ long-acting contraceptives are now available in formats such as patches that must be worn continuously, intrauterine devices (iuds) that must be placed by trained health care professionals, and drugs injected with hypodermic needles. if the microneedle contraceptive patch is ultimately approved for use, it could become the first self-administered, long-acting contraceptive that does not involve a conventional needle injection. like other long-acting contraceptive techniques, the microneedle contraceptive patch would disrupt the menstrual cycles of women using it. 
+ because the tiny needles must remain in the skin for the time-release of the hormone, researchers led by georgia tech postdoctoral research scholar wei li developed a mechanical technique that would allow the drug-containing microneedles to break free from the patch’s backing material. to accomplish that, the researchers molded tiny air bubbles into the top of the microneedles, creating a structural weakness. the resulting microneedles are strong enough to be pressed into the skin, but when the patch is then shifted to one side, the shear force breaks off the tiny structures in the skin. the patch backing can then be discarded. 
+ experimental patches designed to deliver a sufficient amount of the hormone for humans have been developed, but not yet tested, noted prausnitz, who holds the j. erskine love jr. chair in chemical and biomolecular engineering at georgia tech. researchers are also studying whether a single patch could carry enough hormone to provide contraception for as long as six months. 
+ “the microneedle patch delivery platform being developed by mark prausnitz and his colleagues for contraception is an exciting advancement in women’s health,” said gregory s. kopf, director of r&d contraceptive technology innovation at fhi 360. “this self-administered long-acting contraceptive will afford women discreet and convenient control over their fertility, leading to a positive impact on public health by reducing both unwanted and unintended pregnancies.” 
+ the microneedles are molded from a blend of a biodegradable polymers, poly(lactic-co-glycolic acid) and poly(lactic acid), commonly used in resorbable sutures, said steven schwendeman, the ara paul professor and chair of the department of pharmaceutical sciences at the university of michigan and a collaborator on this project. lactic and glycolic acids are present naturally in the body, contributing to the biocompatibility of the polymer material, he said. 
+ “we select polymer materials to meet specific design objectives such as microneedle strength, biocompatibility, biodegradation and drug release time, and formulation stability,” schwendeman explained. “our team then processes the polymer into microneedles by dissolving the polymer and drug in an organic solvent, molding the shape, and then drying off the solvent to create the microneedles. the polymer matrix when formed in this way can slowly and safely release contraceptive hormone for weeks or months when placed in the body.” 
+ testing with rats evaluated only the blood levels of the hormone and did not attempt to determine whether it could prevent pregnancy. “the goal was to show that we could enable the concentration of the levonorgestrel to stay above levels that are known to cause contraception in humans,” prausnitz explained. 
+ in developing the experimental contraceptive microneedle patch, the researchers leveraged earlier work on dissolving microneedle patches designed to carry vaccines into the body. a phase i clinical trial of influenza vaccination using rapidly dissolving microneedles has been conducted in collaboration with emory university. 
+ that study suggested that the microneedle patches could be safely used to administer the vaccine. because the microneedles are so small, they enter only the upper layers of the skin and were not perceived as painful by study participants. 
+ “we do not yet know how the contraceptive microneedle patches would work in humans,” prausnitz said. “because we are using a well-established contraceptive hormone, we are optimistic that the patch will be an effective contraceptive. we also expect that possible skin irritation at the site of patch application will be minimal, but these expectations need to be verified in clinical trials.” 
+ the contraceptive patches tested on the animals contained 100 microneedles. to deliver an adequate dose of levonorgestrel to a human will require a larger patch, which has been fabricated but not yet tested. the researchers would like to develop a patch that could be applied once every six months. 
+ “there is a lot of interest in minimizing the number of health care interventions that are needed,” prausnitz said. “therefore, a contraceptive patch lasting more than one month is desirable, particularly in countries where women have limited access to health care. but because microneedles are by definition small, there are limits to how much drug can be incorporated into a microneedle patch.” 
+ the research team also included richard n. terry from georgia tech, and jie tang and meihua r. feng from the university of michigan. 
+ this publication was prepared under a subcontract funded by family health international (fhi 360) under cooperative agreement no. aid-oaa-15-00045 funded by the u.s. agency for international development (usaid). the content of this publication does not necessarily reflect the views, analysis or policies of fhi 360 or usaid, nor does any mention of trade names, commercial products, or organizations imply endorsement by fhi 360 or usaid. 
+ mark prausnitz is an inventor of patents licensed to companies developing microneedle-based products, is a paid advisor to companies developing microneedle-based products, and is a founder / shareholder of companies developing microneedle-based products (micron biomedical). this potential conflict of interest has been disclosed and is managed by georgia tech and emory university. 
+ citation : wei li, et al., “rapidly separable microneedle patch for the sustained release of a contraceptive,” (nature biomedical engineering, 2019). 
+ https: / / dx.doi.org / 10.1038 / s41551-018-0337-4 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-660-1408) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

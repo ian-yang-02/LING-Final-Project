@@ -1,0 +1,47 @@
+planetary exploration rover avoids sand traps with “rear rotator pedaling” 
+ using the mini rover, researchers have studied locomotion techniques that could help future rovers work on granular lunar and planetary surfaces. 
+ built with multifunctional appendages able to spin wheels that can also be wiggled and lifted, the mini rover was modeled on a novel nasa rover design and used in the laboratory to develop and test complex locomotion techniques robust enough to help it climb hills composed of granular material, here ordinary beach sand. (credit: christopher moore, georgia tech) 
+ may 13, 2020 
+ — atlanta, ga 
+ the rolling hills of mars or the moon are a long way from the nearest tow truck. that’s why the next generation of exploration rovers will need to be good at climbing hills covered with loose material and avoiding entrapment on soft granular surfaces. 
+ built with wheeled appendages that can be lifted and wheels able to wiggle, a new robot known as the “mini rover” has developed and tested complex locomotion techniques robust enough to help it climb hills covered with such granular material – and avoid the risk of getting ignominiously stuck on some remote planet or moon. 
+ using a complex move the researchers dubbed “rear rotator pedaling,” the robot can climb a slope by using its unique design to combine paddling, walking, and wheel spinning motions. the rover’s behaviors were modeled using a branch of physics known as terradynamics. 
+ “when loose materials flow, that can create problems for robots moving across it,” said 
+ dan goldman , the dunn family professor in the 
+ school of physics 
+ at the georgia institute of technology. “this rover has enough degrees of freedom that it can get out of jams pretty effectively. by avalanching materials from the front wheels, it creates a localized fluid hill for the back wheels that is not as steep as the real slope. the rover is always self-generating and self-organizing a good hill for itself.” 
+ the research was reported on may 13 as the cover article in the journal 
+ science robotics . the work was supported by the nasa national robotics initiative and the army research office. 
+ a robot built by nasa’s johnson space center pioneered the ability to spin its wheels, sweep the surface with those wheels and lift each of its wheeled appendages where necessary, creating a broad range of potential motions. using in-house 3d printers, the georgia tech researchers collaborated with the johnson space center to re-create those capabilities in a scaled-down vehicle with four wheeled appendages driven by 12 different motors. 
+ “the rover was developed with a modular mechatronic architecture, commercially available components, and a minimal number of parts,” said siddharth shrivastava, an undergraduate student in georgia tech’s 
+ george w. woodruff school of mechanical engineering . “this enabled our team to use our robot as a robust laboratory tool and focus our efforts on exploring creative and interesting experiments without worrying about damaging the rover, service downtime, or hitting performance limitations.” 
+ the rover’s broad range of movements gave the research team an opportunity to test many variations that were studied using granular drag force measurements and modified resistive force theory. shrivastava and school of physics ph.d. candidate andras karsai began with the gaits explored by the nasa rp15 robot, and were able to experiment with locomotion schemes that could not have been tested on a full-size rover. 
+ the researchers also tested their experimental gaits on slopes designed to simulate planetary and lunar hills using a fluidized bed system known as scatter (systematic creation of arbitrary terrain and testing of exploratory robots) that could be tilted to evaluate the role of controlling the granular substrate. karsai and shrivastava collaborated with yasemin ozkan-aydin, a postdoctoral research fellow in goldman’s lab, to study the rover motion in the scatter test facility. 
+ “by creating a small robot with capabilities similar to the rp15 rover, we could test the principles of locomoting with various gaits in a controlled laboratory environment,” karsai said. “in our tests, we primarily varied the gait, the locomotion medium, and the slope the robot had to climb. we quickly iterated over many gait strategies and terrain conditions to examine the phenomena that emerged.” 
+ in the paper, the authors describe a gait that allowed the rover to climb a steep slope with the front wheels stirring up the granular material – poppy seeds for the lab testing – and pushing them back toward the rear wheels. the rear wheels wiggled from side-to-side, lifting and spinning to create a motion that resembles paddling in water. the material pushed to the back wheels effectively changed the slope the rear wheels had to climb, allowing the rover to make steady progress up a hill that might have stopped a simple wheeled robot. 
+ the experiments provided a variation on earlier robophysics work in goldman’s group that involved moving with legs or flippers, which had emphasized disturbing the granular surfaces as little as possible to avoid getting the robot stuck. 
+ “in our previous studies of pure legged robots, modeled on animals, we had kind of figured out that the secret was to not make a mess,” said goldman. “if you end up making too much of a mess with most robots, you end up just paddling and digging into the granular material. if you want fast locomotion, we found that you should try to keep the material as solid as possible by tweaking the parameters of motion.” 
+ but simple motions had proved problematic for mars rovers, which got stuck in granular materials. goldman says the gait discovered by shrivastava, karsai and ozkan-aydin might be able to help future rovers avoid that fate. 
+ “this combination of lifting and wheeling and paddling, if used properly, provides the ability to maintain some forward progress even if it is slow,” goldman said. “through our laboratory experiments, we have shown principles that could lead to improved robustness in planetary exploration – and even in challenging surfaces on our own planet.” 
+ the researchers hope next to scale up the unusual gaits to larger robots, and to explore the idea of studying robots and their localized environments together. “we’d like to think about the locomotor and its environment as a single entity,” goldman said. “there are certainly some interesting granular and soft matter physics issues to explore.” 
+ though the mini rover was designed to study lunar and planetary exploration, the lessons learned could also be applicable to terrestrial locomotion – an area of interest to the army research laboratory, one of the project’s sponsors. 
+ "this basic research is revealing exciting new approaches for locomotion in complex terrain," said dr. samuel stanton, program manager, army research office, an element of the u.s. army combat capabilities development command's army research laboratory. "this could lead to platforms capable of intelligently transitioning between wheeled and legged modes of movement to maintain high operational tempo." 
+ beyond those already mentioned, the researchers worked with robert ambrose and william bluethmann at nasa, and traveled to nasa jsc to study the full-size nasa rp15 rover. 
+ this work was supported by the army research office (w911nf-18-1-0120) and the nasa national robotics initiative (nnx15ar21g). any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring agencies. 
+ citation : siddharth shrivastava, andras karsai, yasemin ozkan-aydin, ross pettinger, william bluethmann, robert o. ambrose, daniel i. goldman, “material remodeling on granular terrain yields robustness benefits for a robophysical rover.” (science robotics, may 2020) 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

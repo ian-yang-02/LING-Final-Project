@@ -1,0 +1,13 @@
+animation research moves forward, one wardrobe at a time 
+ the goal of new animation technology is to allow robots to assist humans. 
+ aug 11, 2015 
+ — atlanta, ga 
+ animated characters can mimic human behavior extremely well. they can perform jaw-dropping feats of life and death. but there's one trick that digital denizens haven’t quite yet mastered: getting dressed and putting their pants on one leg at a time. research from the georgia institute of technology has produced a systematic tool that allows animators to create realistic motion for virtual humans who are getting dressed. the new algorithm enables virtual characters to intelligently manipulate simulated cloth to achieve the task of dressing with different dressing styles for various types of garment and fabric. the discovery will help today's computer animators create scenes similar to live-action movies with iconic clothing, such as the “jacket on, jacket off” drill in 2010’s “the karate kid” or spiderman pulling his mask over his head for the first time. such dressing scenes are noticeably absent in computer animated films due to the difficulty of manipulating simulated cloth.  the research team’s long-term goal is to develop assistive technologies that would enable robots of the future to help disabled or elderly adults with self care, such as getting dressed. “dressing is one of the activities of daily living that the health care community has identified as being important for independent living,” says karen liu, researcher on the paper and associate professor in the school of interactive computing. “the challenge of learning to dress at a young age or for some older adults and those with disabilities is mainly due to the combined difficulty in coordinating different body parts and manipulating soft and deformable objects.” “ animating human dressing ” is a technical paper at siggraph 2015, the acm conference on computer graphics and interactive techniques, aug. 9-13 in los angeles. 
+ contact 
+ joshua preston 
+ communications officer gvu center 678-231-0787 
+ email 
+ jpreston@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

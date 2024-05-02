@@ -1,0 +1,43 @@
+bluejeans to sunset at georgia tech may 30 [update - sunset date extended to june 14] 
+ georgia tech will sunset the bluejeans videoconferencing solution on june 14. 
+ apr 20, 2022 
+ — atlanta, ga 
+ updated may 27, 2022 
+ the sunset date planned for georgia tech's use of the bluejeans videoconferencing platform has been extended to june 14. any recordings that are still present in bluejeans after the new june 14   deadline will be 
+ permanently 
+ deleted. in order to provide additional support and training, the office of information technology will offer office hours: 
+ ·         wednesday, june 1, from 10 a.m - 2 p.m. 
+ ·         thursday, june 2, from 1 - 4 p.m. 
+ ·         tuesday, june 7, from 10 a.m. - 2 p.m. 
+ ·         thursday, june 9, from 1 - 4 p.m. 
+ ·         monday, june 13, from 10 a.m. - 4 p.m. 
+ original story: 
+ georgia tech will sunset the bluejeans videoconferencing solution on monday, may 30. campus users are encouraged to migrate stored recordings before then. 
+ the bluejeans decommission is a culmination of a review by the 
+ video collaboration review  (vcr) committee. the group was established to evaluate new videoconferencing solutions for academic course delivery and collaboration against existing services. driven by georgia tech professional education (gtpe) and the office of information technology (oit), the committee brought in student, faculty, and staff voices from across the institute to identify video collaboration service offerings. ultimately, plans to sunset bluejeans and webex (except for the georgia tech research institute*) were formalized. 
+ the vcr committee also announced a soft launch of the  zoom  video collaboration platform. 
+ “not only did zoom, to a large extent, meet our committee’s criteria, but it is also one of the most widely used video collaboration tools,” yakut gazi, ph.d., associate dean for learning systems at gtpe, 
+ said 
+ earlier this year. “many of our students, faculty, and staff have participated in zoom meetings during and even before the pandemic, which we anticipate will facilitate adoption at georgia tech.” since the soft launch, the platform has facilitated over 2,700 meetings and webinars by tech users. 
+ in preparation for the transition from bluejeans, students, faculty, and staff are encouraged to migrate stored lecture, meeting, and event recordings to 
+ kaltura mediaspace 
+ via the 
+ bluejeans video exporter 
+ tool. the exporter will move a maximum of five videos simultaneously, with each video typically taking a few minutes to upload. archived videos can take up to five hours, depending on the video’s length. 
+ oit has published an 
+ 11-step illustrated knowledge article 
+ to guide campus users during the recording transfer process. campus users who need further assistance can also submit a help request via the services and support site at 
+ gatech.service-now.com / home . 
+ in addition to zoom, georgia tech will continue to offer and support 
+ microsoft teams , which offers videoconferencing, secure file storage, chat, meeting, calling, and file-sharing capabilities. 
+ oit will work with the georgia tech community throughout the rest of the spring semester to prepare for the transition from bluejeans. upcoming communications will share additional information. 
+ the bluejeans video exporter tool can be accessed at 
+ mover.bluejeans.gatech.edu. 
+ *the georgia tech research institute will continue to use its version of webex ( gtri.webex.com ). 
+ additional images 
+ contact 
+ courtney hill 
+ courtney.hill@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

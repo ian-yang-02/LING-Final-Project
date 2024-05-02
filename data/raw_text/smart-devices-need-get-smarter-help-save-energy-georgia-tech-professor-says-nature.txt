@@ -1,0 +1,40 @@
+Smart Devices Need to Get Smarter to Help Save Energy, Georgia Tech Professor Says in ‘Nature Energy’ Article
+With connected smart devices consuming ever more household power, consumers need a better way to understand consumption, Omar Isaac Asensio writes
+Sep 16, 2019
+— Atlanta, GA
+By Michael Pearson
+As the growth in connected devices outstrips that of conventional home appliances, consumers will find it increasingly more difficult to understand which electrical devices are consuming the most power in their homes, and what to do about it, according to Omar Isaac Asensio, an assistant professor in the Georgia Institute of Technology’s
+School of Public Policy .
+U.S. consumers and businesses already have installed some 3.4 billion connected consumer devices, recent research shows, ranging from color-changing lightbulbs to constantly streaming security cameras. Despite their often diminutive physical footprint, such devices already exact an enormous draw on the energy supply—consuming about 15% of the global growth in electricity demand.
+Writing in the September issue of
+Nature Energy,
+Asensio
+says that with forecasts calling for the installation of billions more of such devices in coming years, the need is ever more acute for ways to encourage energy conservation and address consumer misperceptions about power use.
+“Given the growth of connected, smart devices in the home, which are easily expected to outpace traditional consumer electronics, it will increasingly be harder for households to understand the uses of electricity in the home, as these devices continuously draw power for two-way, on-call communications,” he said. “This is what economists refer to as a behavioral failure and it brings to center stage the need for behavioral interventions that can correct consumer misperceptions of household energy use.”
+Asensio’s article is a companion to a paper in the same
+Nature Energy
+issue detailing research from scholars at Indiana University. That paper examines the effectiveness of two types of interventions meant to help correct consumer misperceptions about which appliances use the most energy. The randomized online experiment by the Indiana University researchers examined the effect of one intervention in which respondents were told about energy usage among devices that consumed power on the high and low ends of the scale, as well as another intervention that told study participants that large heating and cooling appliances use “more energy than people think.”
+While the first scale-use intervention, called an anchoring intervention, had no impact on participants’ ability to identify effective behaviors, the second intervention — which simply gave participants an easy to understand rule of thumb to estimate energy use — did. The conclusion: simply offering a conservation message may not be as important as how the conservation message is framed to consumers.
+Asensio also has studied such framing interventions as part of a growing body of work by behavioral researchers. In a paper published in 2015 in the
+Proceedings of the National Academies of Sciences , Asensio reported on a study he conducted using high-frequency appliance monitoring data with environment and health-based information strategies highlighting the negative impacts of electricity production. Such individualized messages, which were delivered through a website and emails, resulted in an 8% reduction in power consumption versus a control group. But Asensio found that consumers took very different approaches to which appliances were targeted for conservation when the detailed breakdowns of energy use were disclosed using mobile apps at the point of use.
+With connected devices poised to fundamentally shift patterns of electricity use, Asensio said targeted information about invisible power consumption is needed at the place where it will do the most good: built into such devices and the smartphone apps that drive them.
+In other words, Asensio says, connected devices and apps should be designed to give consumers these science-based behavioral cues in ways that prompt them to make better decisions about the power consumption in their homes.
+“What’s exciting about this research is that direct communication to consumers is potentially a very low-cost policy,” he said. “The idea that we could couple leading-edge smart devices with behavioral science-based interventions can be a powerful approach to achieving large-scale conservation goals.”
+Asensio’s article for the October 2019 edition of
+Nature Energy , “Correcting Consumer Misperception,” is available online at
+http://dx.doi.org/10.1038/s41560-019-0472-5 .
+The School of Public Policy is a unit of the
+Ivan Allen College of Liberal Arts .
+Additional Images
+Related links
+An 'Interdisciplinary Ecosystem': Two Ivan Allen College of Liberal Arts teams …
+Georgia Smart Communities Challenge Kicks Off in Albany
+Omar Asensio Awarded 40 for 40 Fellowship by the Association for Public Policy …
+Contact
+Michael Pearson michael.pearson@iac.gatech.edu
+404.894.2290
+Email
+michael.pearson@iac.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

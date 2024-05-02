@@ -1,0 +1,36 @@
+Gravitational Waves From Binary Black Hole Merger Observed for 4th Time
+For the first time, a gravational wave has been detected in three different locations
+This illustration shows the merger of two black holes and the gravitational waves that ripple outward as the black holes spiral toward each other. Courtesy: LIGO/T. Pyle
+Sep 27, 2017
+— Atlanta, GA
+The
+LIGO Scientific Collaboration (LSC) and the Virgo collaboration have announced
+the first joint detection of gravitational waves with both the LIGO and Virgo detectors. It’s the fourth announced detection of a binary black hole system and the first significant gravitational-wave signal recorded by the Italy-based Virgo detector. It also marks the first time three detectors have confirmed a gravitational wave.
+The observation was made on August 14. The two Laser Interferometer Gravitational-Wave Observatory (LIGO) detectors, located in Livingston, Louisiana, and Hanford, Washington, and funded by the National Science Foundation (NSF), and the Virgo detector, located near Pisa, Italy, detected a transient gravitational-wave signal produced by the coalescence of two stellar mass black holes.
+A paper about the event, known as GW170814, has been accepted for publication in the journal Physical Review Letters. Sudarshan Ghonge, Georgia Tech graduate student, helped produce the first figure for the paper. He’s one of 17 Georgia Tech faculty members, postdoctoral researchers and students on the LIGO team.
+The detected gravitational waves—ripples in space and time—were emitted during the final moments of the merger of two black holes with masses about 31 and 25 times the mass of the sun and located about 1.8 billion light-years away. The newly produced spinning black hole has about 53 times the mass of our sun, which means that about three solar masses were converted into gravitational-wave energy during the coalescence.
+“This is just the beginning of observations with the network enabled by Virgo and LIGO working together,” says David Shoemaker of MIT, LSC spokesperson. “With the next observing run planned for fall 2018, we can expect such detections weekly or even more often.”
+The Virgo detector became active on August 1, just two weeks prior to the detection. Virgo is, at present, less sensitive than LIGO, but two independent search algorithms based on all the information available from the three detectors demonstrated the evidence of a signal in the Virgo data as well. It also highlights the scientific potential of a three-detector network of gravitational-wave detectors.
+Overall, the volume of universe that is likely to contain the source shrinks by more than a factor of 20 when moving from a two-detector network to a three-detector network. The sky region for GW170814 has a size of only 60 square degrees, more than 10 times smaller than with data from the two LIGO interferometers alone; in addition, the accuracy with which the source distance is measured benefits from the addition of Virgo.
+“This increased precision will allow the entire astrophysical community to eventually make even more exciting discoveries, including multi-messenger observations,” says Georgia Tech professor Laura Cadonati, the
+deputy spokesperson of the LSC . “A smaller search area enables follow-up observations with telescopes and satellites for cosmic events that produce gravitational waves and emissions of light, such as the collision of neutron stars.”
+“It is wonderful to see a first gravitational-wave signal in our brand new Advanced Virgo detector only two weeks after it officially started taking data,” says Jo van den Brand of Nikhef and VU University Amsterdam, spokesperson of the Virgo collaboration. “That’s a great reward after all the work done in the Advanced Virgo project to upgrade the instrument over the past six years.”
+“Little more than a year and a half ago, NSF announced that its Laser Gravitational-Wave Observatory had made the first-ever detection of gravitational waves resulting from the collision of two black holes in a galaxy a billion light-years away,” says France Córdova, NSF director. “Today, we are delighted to announce the first discovery made in partnership between the Virgo Gravitational-Wave Observatory and the LIGO Scientific Collaboration, the first time a gravitational-wave detection was observed by these observatories, located thousands of miles apart. This is an exciting milestone in the growing international scientific effort to unlock the extraordinary mysteries of our universe.”
+LIGO is funded by NSF and operated by Caltech and MIT, which conceived and built the project. Financial support for the Advanced LIGO project was led by NSF with Germany (Max Planck Society), the U.K. (Science and Technology Facilities Council) and Australia (Australian Research Council) making significant commitments and contributions to the project. More than 1,200 scientists from around the world participate in the effort through the LIGO Scientific Collaboration, which includes the GEO Collaboration. Additional partners are listed at  http://ligo.org/partners.php .
+The Virgo collaboration consists of more than 280 physicists and engineers belonging to 20 different European research groups: six from Centre National de la Recherche Scientifique (CNRS) in France; eight from the Istituto Nazionale di Fisica Nucleare (INFN) in Italy; two in the Netherlands with Nikhef; the MTA Wigner RCP in Hungary; the POLGRAW group in Poland; Spain with the University of Valencia; and EGO, the laboratory hosting the Virgo detector near Pisa in Italy.
+Additional Images
+Related links
+Georgia Tech's Center for Relativistic Astrophysics
+Laura Cadonati Named LIGO Deputy Spokesperson
+LIGO
+Read the Full LIGO/VIRGO Release
+Contact
+Jason Maderer
+National Media Relations
+maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

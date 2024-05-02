@@ -1,0 +1,56 @@
+I Saw That. Brain Mechanisms Create Confidence About Things Seen
+How your brain makes you aware that you actually are seeing what you see just got less mysterious.
+Researcher Dobromir Rahnev demonstrates the application of transcranial magnetic stimulation (TMS) in a Georgia Tech psychology research center with graduate student Ji-Won Jung. Credit: Georgia Tech / Rob Felt
+Jun 04, 2018
+— Atlanta, GA
+There’s a long way to go before neuroscience can fathom the vastness of human consciousness, but researchers pushing that envelope have uncovered a mechanism that helps create a simple visual awareness.
+In a new study , they describe brain functions that give you confidence that you did see what you just saw.
+Though that may be a very modest level of awareness that humans perhaps share with hamsters, psychologists at the Georgia Institute of Technology were fascinated to observe how two regions of the brain work together to produce this visual confidence.
+“We had already thought of the
+prefrontal cortex
+(PFC) as producing that confidence, but we haven’t previously distinguished two regions of it as having distinct, separate roles,” said Dobromir Rahnev, an
+assistant professor in Georgia Tech’s School of Psychology .
+Awareness of seeing
+The observed phenomenon is a type of metacognition, which is broadly defined as when the brain registers, i.e. becomes aware of, something else that the brain is doing. Metacognition can be as complex as pondering your own thoughts or as simple as knowing you feel itchy, or that you just saw something.
+The two regions of the PFC that the researchers studied were the
+dorsolateral prefrontal cortex
+(DLPFC) and the anterior prefrontal cortex (aPFC). The aPFC is about two inches above the eyebrow, near the top of the forehead and DLPFC is about a few inches directly behind aPFC.
+The upper area collects visual sensory input, according to the study, and when it has strong inputs, it signals down to the aPFC, which usually correctly and confidently registers – yes, I’m aware I see that.
+“The aPFC takes the evidence from the DLPFC and matches it to a level of confidence of what is being seen,” said graduate research assistant Medha Shekhar.
+Rahnev and Shekhar
+published their study in May in the Journal of Neuroscience .
+Two-stage signoff
+Though they have separate roles, neither region appears to lay claim to being the chief confidence maker of having seen something.
+“I would say that it’s both parts together,” Rahnev said. “The whole process of generating a confidence rating can be thought of as metacognition, so both the DLPFC and aPFC contribute to the process.”
+The DLPFC collects all the inputs. Then it nudges the aPFC to put the stamp on the final confidence rating, according to the psychologists’ model.
+To do that, the aPFC probably pulls in additional data from elsewhere in the brain.
+“There is research that suggests that we take into account other, non-perceptual factors when making our confidence judgment,” Shekhar said. “Our previous confidence about past things we’ve seen influences current confidence about what we’re seeing now. We hypothesize that there are other things like attention and arousal that the aPFC is taking into account.”
+Running brain interference
+Researchers currently can’t directly see the processes that interested them, since neurological imaging technologies are not yet that far along, so the psychologists had to come up with creative ways of observing the mechanisms. They used
+transcranial magnetic stimulation
+(TMS), which some people know from its application to treat depression, to interfere with activity in one brain region then separately in the other.
+“By dissociating the contributions made by the two regions, we could discern some mechanisms in these processes we were interested in,” Shekhar said.
+To track the effects of the dissociation caused by the magnetism, the psychologists had volunteers look at two faint patterns on a drab, gray background that appeared in sequence, and then indicate what they saw. It was nothing fancy, just a series of lined patterns like this one \\\\ or this one ////.
+“These are very standard visual inputs for an experiment like this,” Rahnev said. “They’re the most boring stimuli one can imagine. They’re called
+Gabor patches . We use them because we want to minimize interfering neurological activity by not encouraging the brain to do a lot of additional things.”
+The volunteers pressed buttons to say that the respective line patterns that they saw pointed up to the left \\\\ or up to the right //// and how sure they were about what they saw.
+Confidence up and down
+While the volunteers did this, the researchers used TMS to run interference in the volunteers’ DLPFC and then their aPFC. The TMS affected whether subjects got the line direction right or wrong and how sure subjects felt about what they were seeing.
+Applying TMS to the DLPFC caused the subjects’ confidence levels to sink, presumably because that interfered with it gathering or passing on enough data to trigger confidence. TMS to the aPFC, which had to be applied for a longer period to have relevant effect, actually increased visual metacognitive ability.
+The two effects were strong evidence that the two brain regions were carrying out separate roles in visual metacognition. The researchers also computationally modeled the brain processes, and their simulation concurred with the experimental results.
+Peeking at consciousness
+Did the researchers observe a piece of what makes consciousness work?
+“Consciousness is tricky because so many processes feed it and help generate it, so we stay agnostic about this and stick with the immediate phenomenon we observe,” Rahnev said.
+But he did think it may be fair to say that this kind of metacognition stands in the threshold of what we humans like to think of as consciousness.
+Like this article?  Get our email newsletter here.
+Additional Images
+Contact
+Writer & Media Representative : Ben Brumfield (404-660-1408)
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Email
+ben.brumfield@comm.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

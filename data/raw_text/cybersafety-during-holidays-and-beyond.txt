@@ -1,0 +1,26 @@
+Cybersafety During the Holidays and Beyond
+Throughout the holiday season and beyond, the Office of Information Technology reminds the Georgia Tech community to stop, think, and check when shopping online and before engaging with suspicious emails and other messages.
+Dec 19, 2023
+As online shopping has grown exponentially since the Covid-19 pandemic began, so has the risk for online scams and cyberattacks.
+“The holidays present an especially busy time for online activity and, unfortunately, cybercriminals take advantage,” said Leo Howell, Georgia Tech chief information security officer. “From creating fake shopping sites to exploiting financial transactions, threats are all around and it is important to remain vigilant.”
+Phishing — the fraudulent practice of sending emails or other messages purporting to be from reputable companies or individuals to induce people to reveal personal information — is also common.
+“The Cyber Security team at Georgia Tech has seen heightened phishing attempts across the campus,” Howell continued. “Email scams typically increase in frequency throughout the holiday season. I routinely encourage employees to double-check matters such as their financial institution’s routing number and their account number provided for direct deposit and instruct students how to detect suspicious emails and text messages.”
+The Office of Information Technology offers the following tips to stay safe online this season and beyond:
+Always STOP, THINK, and CHECK. Shop reliable websites of retailers you know and trust and visit their sites directly by entering a known, trusted URL into the address bar instead of following a link. Do research on retailers that you are not familiar with, such as looking for and examining consumer reviews, and verify that the retailer has a legitimate mailing address and phone number for sales or support questions.
+Be mindful of package tracking emails, fake ecards, charity donation scams, or anything that requests confirmation of purchase information. Double-check email links that appear to be from major retailers and shipping companies such as FedEx and UPS.
+If you receive an email, text message, or call with a deal that’s too good to be true, it’s probably a scam. Follow up with your own research.
+In your Georgia Tech accounts,
+don’t :
+Reset passwords via links sent in emails. Instead, go directly to BuzzPort ( buzzport.gatech.edu ) or Passport ( passport.gatech.edu)
+URLs to change your passwords.
+Respond to job solicitations that you did not apply for or expect.
+Click DUO prompts when you have not attempted a login.
+Engage with suspicious emails that are sent to your Georgia Tech email account. Instead, immediately forward the email to
+phishing@gatech.edu .
+Related links
+Georgia Tech Cyber Security
+Email
+courtney.hill@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

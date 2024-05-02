@@ -1,0 +1,44 @@
+leveraging the 5g network to wirelessly power iot devices 
+ researchers at georgia tech have uncovered an innovative way to tap into the over-capacity of 5g networks, turning them into “a wireless power grid” for powering internet of things (iot) devices that today need batteries to operate. 
+ a georgia tech athena group member holds an inkjet-printed prototype of a mm-wave harvester. the researchers envision a future where iot devices will be powered wirelessly over 5g networks. (photo credit: christopher moore, georgia tech) 
+ mar 25, 2021 
+ — atlanta, ga 
+ researchers at the georgia institute of technology have uncovered an innovative way to tap into the over-capacity of 5g networks, turning them into “a wireless power grid” for powering internet of things (iot) devices that today need batteries to operate. 
+ the georgia tech inventors have developed a flexible rotman lens-based rectifying antenna (rectenna) system capable, for the first time, of millimeter-wave harvesting in the 28-ghz band. (the rotman lens is key for beamforming networks and is frequently used in radar surveillance systems to see targets in multiple directions without physically moving the antenna system.) 
+ but to harvest enough power to supply low-power devices at long ranges, large aperture antennas are required. the problem with large antennas is they have a narrowing field of view. this limitation prevents their operation if the antenna is widely dispersed from a 5g base station. 
+ “we’ve solved the problem of only being able to look from one direction with a system that has a wide angle of coverage,” said senior researcher aline eid in the athena lab, established in georgia tech’s 
+ school of electrical and computer engineering 
+ to advance and develop novel technologies for electromagnetic, wireless, rf, millimeter-wave, and sub-terahertz applications. 
+ the findings were reported in the jan.12 issue of the journal 
+ scientific reports . 
+ the fcc has authorized 5g to focalize power much more densely compared with  previous generations of cellular networks. while today’s 5g was built for high-bandwidth communication, the high-frequency network holds rich opportunity to “harvest” unused power that would otherwise be wasted. 
+ tapping into 5g high-frequency power 
+ “with this innovation, we can have a large antenna, which works at higher frequencies and can receive power from any direction. it's direction-agnostic, which makes it a lot more practical,” noted jimmy hester, senior lab advisor and the cto and co-founder of atheraxon, a georgia tech spinoff developing 5g radio-frequency identification (rfid) technology. 
+ with the georgia tech solution, all the electromagnetic energy collected by the antenna arrays from one direction is combined and fed into a single rectifier, which maximizes its efficiency. 
+ “people have attempted to do energy harvesting at high frequencies like 24 or 35 gigahertz before,” eid said, but such antennas only worked if they had line of sight to the 5g base station; there was no way to increase their angle of coverage until now. 
+ operating just like an optical lens, the rotman lens provides six fields of view simultaneously in a pattern shaped like a spider. tuning the shape of the lens results in a structure with one angle of curvature on the beam-port side and another on the antenna side. this enables the structure to map a set of selected radiation directions to an associated set of beam-ports. the lens is then used as an intermediate component between the receiving antennas and the rectifiers for 5g energy harvesting. 
+ this novel approach addresses the tradeoff between rectenna angular coverage and turn-on sensitivity with a structure that merges unique radio frequency (rf) and direct current (dc) combination techniques, thereby enabling a system with both high gain and large beamwidth. 
+ in demonstrations, georgia tech’s technology achieved a 21-fold increase in harvested power compared with a referenced counterpart, while maintaining identical angular coverage. 
+ this robust system may open the door for new passive, long-range, mm-wave 5g-powered rfid for wearable and ubiquitous iot applications. the researchers used inhouse additive manufacturing to print the palm-sized mm-wave harvesters on a multitude of everyday flexible and rigid substrates. providing 3d and inkjet printing options will make the system more affordable and accessible to a broad range of users, platforms, frequencies, and applications. 
+ replacing batteries with over-the-air charging 
+ “the fact is 5g is going to be everywhere, especially in urban areas. you can replace millions, or tens of millions, of batteries of wireless sensors, especially for smart city and smart agricultural applications,” said 
+ emmanouil (manos)tentzeris , ken byers professor in flexible electronics in the 
+ school of electrical and computer engineering . 
+ tentzeris predicts that power as a service will be the next big application for the telecom industry, just as data overtook voice services as a major revenue producer. 
+ the research team is most excited by the prospect of service providers embracing this technology to offer power on demand “over the air,” eliminating the need for batteries. 
+ “i've been working on energy harvesting conventionally for at least six years, and for most of this time it didn't seem like there was a key to make energy harvesting work in the real world, because of fcc limits on power emission and focalization,” hester said. “with the advent of 5g networks, this could actually work and we’ve demonstrated it. that’s extremely exciting — we could get rid of batteries.” 
+ this work was supported by the air force research laboratory and the national science foundation (nsf) - emerging frontiers in research and innovation program. the work was performed in part at the georgia tech institute for electronics and nanotechnology, a member of the national nanotechnology coordinated infrastructure (nnci), which is supported by the nsf (grant eccs-1542174). 
+ citation : a. eid, et al., “5g as a wireless power grid.” ( scientific reports , 2021) 
+ https: / / doi.org / 10.1038 / s41598-020-79500-x . 
+ additional images 
+ contact 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : anne wainscott-sargent (404-435-5784) 
+ email 
+ asargent7@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

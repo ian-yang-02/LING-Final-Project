@@ -1,0 +1,55 @@
+Covid-19 Mask Study Finds Layering, Material Choice Matter
+Georgia Tech researchers discuss findings of Covid-19 mask study, analyzing the filtration performance of commercially available materials.
+Some of the mask fabric samples tested by Georgia Tech researchers. (Credit: Taekyu Joo, Georgia Tech)
+Apr 02, 2021
+— Atlanta, GA
+Wearing a face mask can protect yourself and others from Covid-19, but the type of material and how many fabric layers used can significantly affect exposure risk, finds a study from the Georgia Institute of Technology.
+The study measured the filtration efficiency of submicron particles passing through a variety of different materials. For comparison, a human hair is about 50 microns in diameter while 1 millimeter is 1,000 microns in size.
+“A submicron particle can stay in the air for hours and days, depending on the ventilation, so if you have a room that is not ventilated or poorly ventilated then these small particles can stay there for a very long period of time,” said
+Nga Lee (Sally) Ng , associate professor and Tanner Faculty Fellow in the
+School of Chemical and Biomolecular Engineering
+and the School of Earth and Atmospheric Sciences.
+The study was conducted during spring 2020, when the pandemic triggered a global shutdown of most institutions. Communities faced massive shortages of personal protective equipment, prompting many people to make their own homemade masks. Georgia Tech quickly set up the study since it already had “a great system for testing filtration efficiency using existing instruments in the lab,” Ng recalled.
+The study’s findings were used to shape homemade face mask recommendations
+here
+last April, with the comprehensive study findings published on March 22 in the journal
+Aerosol Science and Technology .
+In all, the researchers tested 33 different commercially accessible materials not limited to cloth fabrics, including single-layer woven fabrics such as cotton and woven polyester, blended fabrics, nonwoven materials, cellulose-based materials, materials commonly found and used in hospitals, and various filter materials.
+“We learned there was a lot of variability in filtration performance even in the same type of material,” Ng said.
+"We found commercially available materials that provide acceptable levels of submicron particle rejection while still maintaining air flow resistance similar to a surgical mask,” said
+Ryan Lively , an associate professor and John H. Woody Faculty Fellow in the School of Chemical and Biomolecular Engineering. “These materials combine fabric fiber density, a maze-like structure, and fiber surface chemistry to effectively reject submicron particles.”
+The best-performing materials for homemade masks were blackout drapery and sterilization wrap widely used for packing surgical instruments. Both materials are commercially available.
+The researchers said people should avoid using filters such as a HEPA/MERV or vacuum bags unless they are certified to be fiberglass-free since often such filters on their own may release glass fibers that can be inhaled. Other materials to avoid for masks include loose-knitted material, batting fabric, felt, fleece, or shiny, reusable shopping bags.
+Multilayered samples performed much better than single-layer samples, but people should pay attention to breathability. The two-layered and three-layered samples tested show an overall filtration efficiency of about 50% for submicron particles. Mask fit is also important since particles can easily escape through gaps at the nose or through the sides of the mask.
+The analysis showed that properly fitted and multilayer masks reject 84% of particles expelled by a person when one person wears it. Two people donning these types of masks reduces particle transmission by 96%.
+A final takeaway of the research was the importance of universal mask wearing.
+“The best way to protect ourselves and others is to reduce exhaled particles at the source, and the source is our face,” Ng said, adding, “That really gets amplified when everyone starts wearing masks.”
+She expressed optimism that the findings will motivate people to more widely embrace mask wearing if they are sick and need to be in public.
+“Not everyone understands the importance of airborne virus transmission, and the importance of wearing a mask,” she said. “I hope that the practice will continue to help reduce the release of these viral particles into the environment and help protect others.”
+In addition to Ng and Lively, the researchers included Taekyu Joo, Masayuki Takeuchi, Fobang Liu, Matthew P. Rivera, and Bahnisikha Dutta from Georgia Tech; Joy Barr and Eric Parker from theClubhou.se; Emily S. Blum and John H. Tipton from the Global Center for Medical Innovation; and Julia Varnedoef from Cobb County (Georgia) Schools.
+The work was supported by the Center for the Science and Technology of Advanced Material and Interfaces (STAMI) at Georgia Tech.
+CITATION : Joo, Taekyu, et al, “Evaluation of Particle Filtration Efficiency of Commercially Available Materials for Homemade Face Mask Usage.” (Aerosol Science and Technology, 2021)
+https://doi.org/10.1080/02786826.2021.1905149 .
+***
+The Georgia Institute of Technology, or  Georgia Tech , is a top 10 public research university developing leaders who advance technology and improve the human condition.
+The Institute offers  business, computing, design, engineering, liberal arts,
+and  sciences  degrees. Its nearly 40,000 students, representing 50 states and 149 countries, study at the main campus in Atlanta, at campuses in France and China, and through distance and online learning.
+As a leading technological university, Georgia Tech is an engine of economic development for Georgia, the Southeast, and the nation, conducting more than $1 billion in research annually for government, industry, and society.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia 30332-0181
+Media Relations Contact:
+Anne Wainscott-Sargent (404-435-5784) (asargent7@gatech.edu) or Tracey A. Reeves (tracey.reeves@gatech.edu)
+Additional Images
+Related links
+Indoor Air Quality Study Shows Aircraft in Flight May Have Lowest Particulate L…
+Contact
+Anne Wainscott-Sargent
+Research News
+(404-435-5784)
+Email
+asargent7@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

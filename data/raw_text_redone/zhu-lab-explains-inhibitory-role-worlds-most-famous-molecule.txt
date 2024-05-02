@@ -1,0 +1,41 @@
+zhu lab explains the inhibitory role of world’s most famous molecule 
+ new research teases apart the mechanisms behind the checkpoint protein pd-1 
+ technology from the zhu lab: a cell chamber is mounted on a microscope. three micropipettes, inserted into the chamber from both sides, are used to aspirate individual cells, to bring them into contact so that researchers can study their interactions. this is the kind of methodology that cheng zhu and his colleagues used to study pd-1, which might be the most famous molecule in the world. 
+ may 18, 2021 
+ — atlanta, ga 
+ a so-called “checkpoint” protein found on the immune system’s all-important t cells called pd-1 might be the most famous molecule on the planet. it was an anti-pd-1 drug, along with radiation therapy, that disintegrated former u.s. president jimmy carter’s brain tumors in 2015. 
+ under normal conditions, pd-1 serves an important role as an off-switch, preventing well-intentioned t cells from running amok and attacking normal, healthy cells by mistake. it does this by binding with a protein called pd-l1, found on some normal and some cancer cells. this interaction basically signals the t cell to leave the other cell alone. unfortunately, sometimes the other cell is cancer, which then goes unbothered because pd-1 told the t cell to stand down. 
+ the immunotherapy drug used to treat president carter, keytruda, is a checkpoint inhibitor. it inhibited pd-1, freeing the t cells to do their job and destroy the brain tumor. since then, research into the molecule has expanded and pd-1 blockade continues its evolution as a promising treatment against solid tumors. the japanese scientist who discovered the protein in 1992, tasuku honjo, won the nobel prize in 2018. 
+ “it has become a very hot molecule,” said 
+ cheng zhu , professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university and the george w. woodruff school of mechanical engineering at tech. “but only a minor fraction of cancer patients — about one third of the melanoma patients who have been treated with the blockade therapy — are responsive, indicating an incomplete understanding of how pd-1 works.” 
+ zhu and his colleagues are particularly interested in explaining how pd-1 inhibits t-cell activity, and they unravel one part of the mystery in a new paper in 
+ nature communications . using technology zhu developed decades ago that measures the biochemistry on live cell membranes, the researchers discovered that pd-1 disrupts the recruitment of cd8, a protein co-receptor that partners in t cell signaling and activation. 
+ “the results of our study identify a pd-1 inhibitory mechanism that disrupts cooperative molecular interactions and prevents cd8 from augmenting antigen recognition,” zhu said. “this explains the molecule’s potent inhibitory function regarding t cell activation and also explains its value as a target for clinical intervention.” 
+ the lead author on the paper is kaitao li, a research scientist in zhu’s 
+ cellular and molecular biomechanics lab , who focused on pd-1 for his ph.d. dissertation in 2016. li’s interest in the molecule has only grown through his friendship with 
+ rafi ahmed’s 
+ lab at emory. ahmed is a co-author of the new 
+ nature communications 
+ paper. 
+ “i was taking an immunology class at emory in 2010, and it was the first time i came across the pd-1 molecule,” li recalled. “a friend of mine was a grad student in rafi’s lab, and eventually, i became very inspired by their work.” 
+ ahmed’s lab identified pd-1 as a major mediator of t cell dysfunction during chronic infection, work that ultimately translated into human clinical studies of blockade therapy. meanwhile, the zhu lab had been focusing mainly on the basic science of on t cell activation and t cell receptors – tcr, a protein complex used by t cells for recognizing invading antigens. 
+ “what excites me most is that [this study] reinforces and extends the work that dr. zhu did 10 years ago on the sequence of events leading up to t cell activation, but now it brings pd-1 into the story, revealing how pd-1 dampens t cell activation,” explained simon davis, paper co-author, whose immunology lab at the university of oxford has studied pd-1 and other proteins for about 20 years. “we had proposed a long time ago that the activation sequence is dictated by the relative strengths of protein interactions involves, but dr. zhu’s lab was able to tease all this apart.” 
+ while zhu’s lab is rich in basic science, there is a translational aspect to this work. a biotech company that spun out davis’ work is interested in zhu’s discoveries, particularly the series of interactions among all of these critical molecules engaged in the immune response, davis said. 
+ and it’s bound to get more interesting going forward. zhu and li, who collaborated on pd-1 research for a paper in 2017, said they are planning two more studies focusing on the notable molecule, now the target of a hopeful treatment regimen that still has plenty of room for improvement. 
+ “there has certainly been some clinical success even though we don’t fully understand the mechanism behind it,” zhu said. “but there is still a long way to go because two thirds of the patients are not responding successfully. why? we have another study planned to try to answer that question.” 
+ this research was supported by national institutes of health grants 
+ u01ca214354, r01ca243486, and u01ca250040 (to c.z. and r.a.). 
+ citations: kaitao li, zhou yuan, jintian lyu, eunseon ahn, simon j. davis, rafi ahmet, cheng zhu, “ pd-1 suppresses tcr-cd8 cooperativity during t-cell antigen recognition” ( nature communications , may 2021) 
+ related links: 
+ “ pd-1 suppresses tcr-cd8 cooperativity during t-cell antigen recognition” ( nature communications , may 2021) 
+ cellular and molecular biomechanics laboratory 
+ jimmy carter’s cancer immunotherapy story 
+ additional images 
+ contact 
+ writer: 
+ jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,34 @@
+open-airventgt emergency ventilator provides patient monitoring, feedback control 
+ georgia tech researchers have created a prototype for an emergency ventilator with electronic sensors and computer controls. 
+ georgia tech researcher gokul pathikonda works on the open-airventgt, a low-cost, portable emergency ventilator that uses electronic sensors and computer control to manage key clinical parameters. (credit: ben wright, georgia tech) 
+ apr 27, 2020 
+ — atlanta, ga 
+ a research team at the georgia institute of technology has created a prototype for a low-cost, portable emergency ventilator that uses electronic sensors and computer control to manage key clinical parameters such as respiration rate, tidal volume (the amount of air moved into and out of the lungs during each cycle), inspiration and expiration ratio, and pressure on the lungs. 
+ the open-airventgt was designed to address acute respiratory distress syndrome (ards), a common complication for covid-19 patients which causes their lungs to stiffen, requiring their breathing to be assisted by ventilators. the new georgia tech device endeavors to make breathing more natural by allowing patients to trigger their own breaths instead of relying on a respiration rate pre-set in the device. 
+ the ventilator works by pneumatically compressing a bvm (bag valve mask) assembly of the kind used in hospitals and carried in ambulances as resuscitation devices. the ventilator is envisioned for use outside the united states in countries that do not have significant medical infrastructure in place, and is designed to be produced for around $300. 
+ “our primary goal is to give the clinicians control over key parameters of the ventilator's functionality," said devesh ranjan, a professor and associate chair in georgia tech’s george w. woodruff school of mechanical engineering. “once the system is initialized, a small on-board computer operates to maintain the setpoints governing respiration in an unattended way. the sensors and computer provide more control and real-time monitoring for doctors and other medical staff.” 
+ a projected shortage of ventilators prompted by the covid-19 pandemic has led to development of makeshift ventilators, many of them based on differing mechanical strategies to compress bvm devices. ranjan and his research team evaluated what others had done and sought input on clinician needs from critical care specialists at two atlanta hospitals during the design of the open-airventgt. 
+ “based on what they told us, we realized we needed more control over the system to help those who were treating the patients,” he said. “the clinicians needed to be able to see what is happening with patient’s respiration, and the ventilator needed to be able to respond to changing conditions.” 
+ the team used two sensors and a raspberry pi computer to control the operation of a pneumatic piston that compresses the resuscitator bag. using a standard computer monitor, the device’s computer provides information about the breathing rate, volume of air provided and pressure applied to the patients’ lungs. the system is designed to allow for warnings if conditions fall outside the range set. 
+ the open-airventgt was designed to be fabricated from components available worldwide. the pneumatic piston, which could be replaced by a different mechanical actuator, can be driven from a hospital compressed air supply, a portable compressor, or even a bottle of compressed air. the raspberry pi computer can be replaced with other computing sources, and the device is designed to adapt to different bag sizes. 
+ “we wanted to have easily sourced materials and use components that can be substituted where necessary,” said gokul pathikonda, a postdoctoral fellow in ranjan’s lab who led the engineering development of the device. “supply chains are different in different parts of the world, so we wanted the design to be modular and with easily interchangeable parts.” 
+ ranjan and his team have consulted the global center for medical innovation (gcmi) regarding steps necessary to seek fda emergency use authorization for the ventilator design. the team has already been approached by georgia tech alumni in ghana and india to set up manufacturing lines in their countries. the team is reviewing how best to release the design for others to mass produce these devices to meet the global needs. 
+ “the impact of this could be significant if other parts of the world are hit by the covid-19 pandemic,” ranjan said. “having equipment that can be made quickly where it is needed and with the kind of control system doctors need could really help address the worldwide impact of this virus.” 
+ in addition to ranjan and pathikonda, the multidisciplinary research team includes stephen johnston, dan fries, cameron ahmad, benjamin musci, chang hyeon lim and prasoon suchandra, graduate students in the school of mechanical engineering; kyle azevedo, a research engineer with the georgia tech research institute; prithayan barua, a graduate student in the college of computing working with prof. vivek sarkar; chris ballance, a research engineer in the school of aerospace engineering; and richard bedell, manager of equipment engineering and support services in the school of chemistry and biochemistry. they are also being assisted by kyle french and biye wang at the electronics shop in the school of mechanical engineering. 
+ “i cannot thank our team enough for transforming an idea into reality in just 3 weeks,” ranjan said. “this project has been made possible by the dedication and long hours of hard work shown by students and staff at georgia tech while still maintaining social distancing,” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations assistance : john toon (404894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

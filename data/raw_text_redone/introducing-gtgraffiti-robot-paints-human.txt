@@ -1,0 +1,40 @@
+introducing gtgraffiti: the robot that paints like a human 
+ graduate students at the georgia institute of technology have built the first graffiti-painting robot system that mimics the fluidity of human movement. 
+ gerry chen, ph.d. candidate in robotics, and michael qian, b.s. computer science, '22, with a finished artwork painted by the gtgraffiti robot. 
+ jun 16, 2022 
+ — atlanta, ga 
+ graduate students at the georgia institute of technology have built the first graffiti-painting robot system that mimics the fluidity of human movement. aptly named gtgraffiti, the system uses motion capture technology to record human painting motions and then composes and processes the gestures to program a cable-driven robot that spray paints graffiti artwork. 
+ the project was devised by robotics ph.d. student gerry chen, in collaboration with juan-diego florez, a fellow graduate student;  frank dellaert , robotics professor in the  school of interactive computing , and  seth hutchinson , professor and kuka chair for robotics. the team’s  peer-reviewed study of the robot system  was published in the international conference on robotics and automation proceedings for 2022. 
+ how it works 
+ for a robot to be able to paint in a human style, both the robot and the art must be designed with the other in mind — at least for now. the gtgraffiti system consists of three stages: artwork capture, robot hardware, and planning and control. 
+ first, the team uses motion capture technology to record human artists painting — a strategy that allows for insight into the types of motions required to produce spray-painted artwork. for this study, chen and the team invited two artists to paint the alphabet in a bubble letter graffiti style. as each artist painted, they recorded the motions of the artist’s hand across the canvas, as well as the movements of the spray paint can itself. capturing hand and spray paint can trajectories is crucial for the robot to be able to paint using similar layering, composition, and motion as those of a human artist. 
+ the team then processed the data to analyze each motion for speed, acceleration, and size, and used that information for the next stage — designing the robot. taking these data into consideration, as well as portability and accuracy required for the artwork, they chose to use a cable-driven robot. cable-driven robots, like the skycams used in sports stadiums for aerial camera shots, are notable for being able to scale to large sizes. the robot runs on a system of cables, motors, and pulleys. the team’s robot is currently mounted on a 9 by 10-foot-tall steel frame, but chen says it should be possible to mount it directly onto a flat structure of almost any size, such as the side of a building. 
+ for the third stage, the artist’s composition is converted into electrical signals. taken together, the figures form a library of digital characters, which can be programmed in any size, perspective, and combination to produce words for the robot to paint. a human artist chooses shapes from the library and uses them to compose a piece of art. for this study, the team chose to paint the letters “atl.” 
+ once the team chooses a sequence and position of characters, they use mathematical equations to generate trajectories for the robot to follow. these algorithmically produced pathways ensure that the robot paints with the correct speed, location, orientation, and perspective. finally, the pathways are converted into motor commands to be executed. 
+ with all the computing and competing movements, the motors on the robot could potentially work against each other, threatening to rip the robot apart. to address this, the central robot controller is programmed to recalculate motor commands 1,000 times per second so that the robot can function safely and reliably. once assembled, the robot can then paint an artwork in the style of a human graffiti artist. 
+ why art? why graffiti? 
+ some of the most typical industries for robotics applications include manufacturing, biomedicine, automobiles, agriculture, and the military. but the arts, it turns out, can showcase robotics in an especially powerful way. 
+ “the arts, especially painting or dancing, exemplify some of the most complex and nuanced motions humans can make,” chen said. “so if we want to create robots that can do the highly technical things that humans do, then creating robots that can  dance  or paint are great goals to shoot for. these are the types of skills that demonstrate the extraordinary capabilities of robots and can also be applied to a variety of other applications.” 
+ on a personal level, chen is motivated by his hope for people to perceive robots as being helpful to humanity, rather than seeing them as job-stealers or entities that cause feelings of fear, sadness, or doom as often depicted in film. 
+ “graffiti is an art form that is inherently meant to be seen by the masses,” chen said. “in that respect, i feel hopeful that we can use graffiti to communicate this idea — that robots working together with humans can make positive contributions to society.” 
+ future directions 
+ presently, chen and the team’s plans for the robot are centered around two main thrusts: preserving and amplifying art. to this end, they are currently experimenting with reproducing pre-recorded shapes at different scales and testing the robot’s ability to paint larger surfaces. these abilities would enable the robot to paint scaled up versions of original works in different geographical locations and for artists physically unable to engage in onsite spray painting. in theory, an artist would be able to paint an artwork in one part of the world, and a gtgraffiti bot could execute that artwork in another place. 
+ in the future, chen hopes to use gtgraffiti to capture artists painting graffiti in the wild. with the captured motion data, gtgraffiti would be able to reproduce the artwork were it ever painted over or destroyed. 
+ “the robot is not generating the art itself, but rather working together with the human artist to enable them to achieve more than they could without the robot,” chen said. 
+ chen envisions that the robot system will eventually have capabilities that allow for real-time artist-robot interaction. he hopes to develop the technology that could enable an artist standing at the foot of a building to spray paint graffiti in a small space while the cable-driven robot copies the painting with giant strokes on the side of the building, for example. 
+ “we hope that our research can help artists compose artwork that, executed by a superhuman robot, communicates messages more powerfully than any piece they could have physically painted themselves,” said chen. 
+ gtgraffiti is funded by a national science foundation grant that supports research involving human-robot collaboration in artistic endeavors. 
+ citation : g. chen, s. baek, j.-d. florez, w. qian, s.-w. leigh, s. hutchinson, and f. dellaert, “gtgraffiti: spray painting graffiti art from human painting motions with a cable driven parallel robot,” in  2022 ieee international conference on robotics and automation (icra) , 2022. 
+ doi :  https: / / doi.org / 10.1109 / icra46639.2022.9812008 
+ writer : catherine barzler 
+ video:  kevin beasley 
+ photography : rob felt 
+ media contact : catherine barzler | catherine.barzler@gatech.edu 
+ additional images 
+ contact 
+ catherine barzler, senior research writer / editor 
+ email 
+ catherine.barzler@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

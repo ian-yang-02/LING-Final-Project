@@ -1,0 +1,43 @@
+Wearable Ring, Wristband Allow Users to Control Smart Tech With Hand Gestures
+Using acoustic chirps emitted from a ring and received by a wristband, like a smartwatch, the system is able to recognize 22 different micro finger gestures that could be programmed to various commands.
+May 11, 2018
+— Atlanta, GA
+New technology created by a team of Georgia Tech researchers could make controlling text or other mobile applications as simple as “1-2-3.”
+Using acoustic chirps emitted from a ring and received by a wristband, like a smartwatch, the system is able to recognize 22 different micro finger gestures that could be programmed to various commands — including a T9 keyboard interface, a set of numbers, or application commands like playing or stopping music.
+A
+video demonstration of the technology
+shows how, at a high rate of accuracy, the system can recognize hand poses using the 12 bones of the fingers and digits ‘1’ through ‘10’ in American Sign Language (ASL).
+“Some interaction is not socially appropriate,” said
+Cheng Zhang , the Ph.D. student in the School of Interactive Computing who led the effort. “A wearable is always on you, so you should have the ability to interact through that wearable at any time in an appropriate and discreet fashion. When we’re talking, I can still make some quick reply that doesn’t interrupt our interaction.”
+Since one of the goals was to enter digits using only one hand, the team decided to use ASL, which already has well defined hand postures for each digit. In this manner, the user might select options from a numbered list, call a phone number, or do simple calculations.
+The system is called
+FingerPing . Unlike other technology that requires the use of a glove or a more obtrusive wearable, this technique is limited to just a thumb ring and a watch. The ring produces acoustic chirps that travel through the hand and are picked up by receivers on the watch. There are specific patterns in which sound waves travel through structures, including the hand, that can be altered by the manner in which the hand is posed. Utilizing those poses, the wearer can achieve up to 22 pre-programmed commands.
+The gestures are small and non-invasive, as simple as tapping the tip of a finger or posing your hand in classic “1,” “2,” and “3” gestures.
+“The receiver recognizes these tiny differences,” Zhang said. “The injected sound from the thumb will travel at different paths inside the body with different hand postures. For instance, when your hand is open there is only one direct path from the thumb to the wrist. Any time you do a gesture where you close a loop, the sound will take a different path and that will form a unique signature.”
+Zhang said that the research is a proof of concept for a technique that could be expanded and improved upon in the future.
+The research was presented last month at the 2018 ACM Conference on Human Factors in Computing Systems (CHI). The paper is titled FingerPing: Recognizing Fine-grained Hand Poses Using Active Acoustic On-body Sensing (Cheng Zhang,
+Qiuyue Xue ,
+Anandghan Waghmare ,
+Ruichen Meng ,
+Sumeet Jain ,
+Yizeng Han ,
+Xinyu Li ,
+Kenneth Cunefare ,
+Thomas Ploetz ,
+Thad Starner ,
+Omer Inan ,
+Gregory Abowd ).
+Researchers on this team, including Zhang, have worked on similar unique gesture techniques in the past. Zhang graduated from Georgia Tech in May and will join the Information Science Department at Cornell University as a tenure-track assistant professor.
+Additional Images
+Related links
+Using a Ring to Draw and Write
+Controlling Smartwatch with Breaths and Swipes
+Contact
+David Mitchell
+Communications Officer
+david.mitchell@cc.gatech.edu
+Email
+david.mitchell@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

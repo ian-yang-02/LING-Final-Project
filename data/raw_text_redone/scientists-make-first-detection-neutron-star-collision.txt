@@ -1,0 +1,56 @@
+scientists make first detection of neutron star collision 
+ historic detection allows astrophysicists to observe the universe in new ways. 
+ this visualization shows the coalescence of two orbiting neutron stars. the right panel contains a visualization of the matter of the neutron stars. the left panel shows how space-time is distorted near the collisions. image credit: karan jani / georgia tech 
+ oct 16, 2017 
+ — atlanta, ga 
+ there’s nothing like the first time. a first kiss. your first car. a baby’s first steps. 
+ laura cadonati’s first chirp came on 
+ september 14, 2015 . it lasted just a fraction of second, passing through earth 1.5 billion years after a violent collision of two massive black holes. the signal confirmed the existence of gravitational waves, ripples in space-time, which the world had been hoping to detect since albert einstein predicted them a century ago. 
+ on august 17 of this year, cadonati and her ligo colleagues heard another chirp — much different from the original. this chirp didn’t come and go in the blink of an eye. it stretched for 100 seconds. 
+ “groundbreaking,” said cadonati, a professor in the 
+ college of sciences . “it’s just as special as the first one, if not more.” 
+ that’s because the gravitational wave that produced this chirp arrived with something else, something that couldn’t have been produced by colliding black holes. it arrived with light. 
+ 130-million-year-old clues 
+ for the first time, scientists have detected a gravitational wave produced by the collision of two neutron stars. the wave was born 130 million years ago when the stars spun around each other, creating warps in space and time. when the stars crashed together, they produced a burst of electromagnetic radiation — gamma radiation, to be precise. 
+ those gravitational waves and gamma rays raced through the cosmos at the speed of light, arriving at earth at 8:41 a.m. on august 17. 
+ the waves were first detected by the laser interferometer gravitational-wave observatory (ligo) and italy’s virgo observatory. nasa’s orbiting fermi satellite saw the gamma ray flash two seconds later, and the european science agency also confirmed it. in the days and weeks afterward, other forms of electromagnetic radiation — including x-ray, ultraviolet, optical, infrared and radio waves — were detected by nearly 70 ground- and space-based observatories around the world. 
+ the observations are allowing scientists to view a neutron star collision, and learn what happens next, for the first time. 
+ “the 2015 detection was about discovery. this time it’s about understanding,” said cadonati, who also serves as deputy spokesperson of the ligo scientific collaboration (lsc), an international team of more than 1,200 researchers. “we’re decoding the mysteries of the universe using our senses. we’re listening to the information within gravitational waves and combining it with what we’re seeing within electromagnetic radiation.” 
+ a golden collision 
+ neutron stars form when massive stars explode in supernovas and collapse upon themselves. the august 17 neutron stars were about 12 miles in diameter — about the size of atlanta — with an estimated mass within the range of 1.1 to 1.6 times that of our sun. neutron stars are so incredibly dense that a teaspoon of their material would weigh a billion tons. 
+ the gravitational waves they produced are gone forever, arriving and leaving the ligo and virgo detectors in less than two minutes. but the fragments of the collision remain in view for electromagnetic researchers, who have pointed their telescopes and instruments at the faraway galaxy. 
+ theorists have predicted that what follows the initial fireball is a “kilonova” — a phenomenon by which the material that is left over from the collision is blown out of the immediate region and far out into space and triggers a chain of nuclear reactions. the new light-based observations show that heavy elements, such as lead, gold and platinum, are created in these collisions and subsequently distributed throughout the universe. this solves a decades-long mystery of where about half of all elements heavier than iron are produced. 
+ more findings are expected as scientists continue to monitor the smashup’s remnants in the weeks and months to come. 
+ “this detection has genuinely opened the doors to a new way of doing astrophysics,” said cadonati. “i expect it will be remembered as one of the most studied astrophysical events in history.” 
+ the tech contribution 
+ cadonati announced the findings during a press conference on october 16 in washington, d.c., as part of a panel of ligo, virgo and electromagnetic researchers. she’s one of 17 georgia tech faculty members, postdoctoral researchers and students within the lsc. each is also a member of the georgia tech 
+ center for relativistic astrophysics 
+ within the 
+ school of physics . 
+ “to me, it’s easily the most interesting physical discovery in recent times,” said graduate student christopher evans. “this not only gives us a chance to study neutron stars in a manner that we have never before, but also allows us to look at these exotic objects from multiple perspectives at once in order to form a more complete picture.” 
+ evans created a visualization of the collision and the gravitational waves it produced. the animation was included in the worldwide announcement at the press club. 
+ postdoctoral researcher karelle siellez joined the georgia tech ligo team in 2015. for this discovery, she collaborated with nasa’s fermi satellite team as it searched the skies for gamma rays. she developed algorithms that helped ensure that no bursts, as faint as they might be, would be overlooked during the search for gravitational waves. siellez will now work on the development of new algorithms for the joint search of gravitational waves and faint gamma ray bursts when the ligo instruments come back online in 2018. 
+ “today we are in a river,” she said. “tomorrow we will swim in an ocean of data where neutron star mergers guide us to a better understanding of our universe, observing cataclysmic events we once could only dream of.” 
+ another georgia tech postdoctoral researcher, james clark, was at a workshop in montana on august 17. he was leading a discussion on the possibilities and prospects for analysis of postmerger signals from binary neutron star mergers. as soon as he received news of the detection, he initiated analyses to probe the later, high-frequency stages of the merger using the techniques he spent years developing. 
+ clark said the days after august 17 were the most exciting of his career. 
+ “i’ve dedicated so much of my career to the detection of neutron stars,” said clark, who has been in ligo for 10 years. “when i sit back and think about what was observed and the future potential for new science from this event, the hairs on my arms raise. i’m overwhelmed with a similar sense of excitement and wonder that i experience when motorcycling through the scottish mountains in my homeland. it has been amazing.” 
+ the georgia tech lsc team faculty laura cadonati, professor and lsc deputy spokesperson pablo laguna, professor and chair of the school of physics deirdre shoemaker, professor and director of the center for relativistic astrophysics postdoctoral researchers juan calderon bustillo james clark karan jani karelle siellez 
+ graduate students erika cowan chris evans deborah ferguson sudarshan ghonge bhavesh khamesra 
+ undergraduate students 
+ clayton burrus taylor carter aiqi cheng kate napier will wills 
+ ligo is funded by the  nsf , and operated by  caltech  and  mit , which conceived of ligo and led the initial and advanced ligo projects. financial support for the advanced ligo project was led by the nsf with germany ( max planck society ), the u.k. ( science and technology facilities council ) and australia ( australian research council ) making significant commitments and contributions to the project. more than 1,200 scientists   and some 100  institutions   from around the world participate in the effort through the  ligo scientific collaboration , which includes the geo collaboration and the australian collaboration ozgrav. additional partners are listed at  http: / / ligo.org / partners.php . 
+ the virgo collaboration consists of more than 280 physicists and engineers belonging to 20 different european research groups: six from  centre national de la recherche scientifique  (cnrs) in france; eight from the  istituto nazionale di fisica nucleare  (infn) in italy; two in the netherlands with  nikhef ; the mta wigner rcp in hungary; the polgraw group in poland; spain with the university of valencia; and the european gravitational observatory, ego, the laboratory hosting the virgo detector near pisa in italy, funded by cnrs, infn, and nikhef. 
+ additional images 
+ related links 
+ laura cadonati named lsc deputy spokesperson 
+ gravitational wave detections earn nobel prize 
+ contact 
+ jason maderer 
+ national media relations 
+ 404-660-2926 
+ maderer@gatech.edu 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

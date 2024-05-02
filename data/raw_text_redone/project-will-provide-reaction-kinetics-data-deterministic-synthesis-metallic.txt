@@ -1,0 +1,44 @@
+project will provide reaction kinetics data for deterministic synthesis of metallic nanocrystals 
+ researchers are providing information about the reaction kinetics involved in growing metallic nanocrystals. 
+ researchers led by younan xia, professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university, have studied the kinetics of autocatalytic reactions used to make colloidal metal nanocrystals suitable for catalytic, biomedical, photonic, electronic and other uses. (credit: rob felt, georgia tech). 
+ dec 26, 2017 
+ — atlanta, ga 
+ researchers have published the first part of what they expect to be a database showing the kinetics involved in producing colloidal metal nanocrystals – which are suitable for catalytic, biomedical, photonic and electronic applications – through an autocatalytic mechanism. 
+ in the solution-based process, precursor chemicals adsorb to nanocrystal seeds before being reduced to atoms that fuel growth of the nanocrystals. the kinetics data is based on painstaking systematic studies done to determine growth rates on different nanocrystal facets — surface structures that control how the crystals grow by attracting individual atoms. 
+ in an article published december 11 in the journal 
+ proceedings of the national academy of sciences , a research team from the georgia institute of technology provided a quantitative picture of how surface conditions controlled the growth of palladium nanocrystals. the work, which will later include information on nanocrystals made from other noble metals, is supported by the national science foundation. 
+ “this is a fundamental study of how catalytic nanocrystals grow from tiny seeds, and a lot of people working in this field could benefit from the systematic, quantitative information we have developed,” said 
+ younan xia , professor and brock family chair in the 
+ wallace h. coulter department of biomedical engineering 
+ at georgia tech and emory university. “we expect that this work will help researchers control the morphology of nanocrystals that are needed for many different applications.” 
+ a critical factor controlling how nanocrystals grow from tiny seeds is the surface energy of the crystalline facets on the seeds. researchers have known that energy barriers dictate the surface attraction for precursors in solution, but specific information on the energy barrier for each type of facet had not been readily available. 
+ “typically, the surface of the seeds that are used to grow these nanocrystals has not been homogenous,” explained xia, who is also the georgia research alliance eminent scholar in nanomedicine and holds joint appointments in school of chemistry & biochemistry and school of chemical & biomolecular engineering. “you may have different facets on the crystals, which depend on the arrangement of the atoms below them. from the standpoint of precursors in the solution around the seeds, these surfaces have different activation energies which determine how difficult it will be for the precursors or atoms to land on each surface.” 
+ xia’s research team designed experiments to assess the energy barriers on various facets, using seeds in a variety of sizes and surface configurations chosen to have only one type of facet. the researchers measured both the growth of the nanocrystals in solution and the change in concentration of palladium tetrabromide (pdbr 4 2- ) precursor salt. 
+ “by choosing the right precursor, we can ensure that all the reduction we measure is on the surface and not in the solution,” he explained. “that allowed us to make meaningful measurements about the growth, which is controlled by the type of facet, as well as presence of a twin boundary, corresponding to distinctive growth patterns and end results.” 
+ over the course of nearly a year, visiting graduate research assistant tung-han yang studied the nanocrystal growth using different types of seeds. rather than allowing nanocrystal growth from self-nucleation, xia’s team chose to study growth from seeds so they could control the initial conditions. 
+ controlling the shape of the nanocrystals is critical to applications in catalysis, photonics, electronics and medicine. because these noble metals are expensive, minimizing the amount of material needed for catalytic applications helps control costs. 
+ “when you do catalysis with these materials, you want to make sure the nanocrystals are as small as possible and that all of the atoms are exposed to the surface,” said xia. “if they are not on the surface, they won’t contribute to the activity and therefore will be wasted.” 
+ the ultimate goal of the research is a database that scientists can use to guide the growth of nanocrystals with specific sizes, shapes and catalytic activity. beyond palladium, the researchers plan to publish the results of kinetic studies for gold, silver, platinum, rhodium and other nanocrystals. while the pattern of energy barriers will likely be different for each, there will be similarities in how the energy barriers control growth, xia said. 
+ “it’s really how the atoms are arranged on the surface that determines the surface energy,” he explained. “depending on the metals involved, the exact numbers will be different, but the ratios between the facet types should be more or less the same.” 
+ xia hopes that the work of his research team will lead to a better understanding of how the autocatalytic process works in the synthesis of these nanomaterials, and ultimately to broader applications. 
+ “if you want to control the morphology and properties, you need this information so you can choose the right precursor and reducing agent,” said xia. “this systematic study will lead to a database on these materials. this is just the beginning of what we plan to do.” 
+ in addition to the researchers already mentioned, the study also included shan zhou, kyle gilroy, legna figueroa-cosme, yi-hsien lee and jenn-ming wu. 
+ this work was supported in part by a research grant from the nsf (che 1505441) and startup funds from the georgia institute of technology. the electron microscopy studies were performed at georgia tech’s institute for electronics and nanotechnology, a member of the national nanotechnology coordinated infrastructure supported by the nsf (eccs-1542174). 
+ citation : tung-han yang, et al., “autocatalytic surface reduction and its role in controlling seed-mediated growth of colloidal metal nanocrystals,” (proceedings of the national academy of sciences, 2017). 
+ http: / / dx.doi.org / 10.1073 / pnas.1713907114 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (jtoon@gatech.edu) (404-894-6986). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

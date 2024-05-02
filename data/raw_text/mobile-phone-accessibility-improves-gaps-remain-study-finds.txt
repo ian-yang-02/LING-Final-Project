@@ -1,0 +1,38 @@
+Mobile Phone Accessibility Improves, But Gaps Remain, Study Finds
+Mobile phones are increasingly more accessible by people with disabilities, but significant gaps remain.
+Cell phones are increasingly more accessible for people with disabilities, but significant gaps remain, according to a new report by the Rehabilitation Engineering Research Center for Wireless Inclusive Technologies at Georgia Tech.
+Feb 12, 2019
+— Atlanta, GA
+Mobile phones are increasingly more accessible by people with disabilities, but significant gaps remain, according to a newly published study from the Rehabilitation Engineering Research Center for Wireless Inclusive Technologies (Wireless RERC) at the Georgia Institute of Technology.
+As part of the study, researchers at the Wireless RERC compared 2017 model year phones capable of receiving Wireless Emergency Alert notifications — a category that includes most top-tier phones —  to 2015 versions and found improved accessibility across 10 of 13 features.
+However, researchers found that phones offered by operators under the federally subsidized Lifeline program for low-income people fell short in nearly every category when compared to phones offered through traditional wireless plans.
+The results are of concern because research shows that people with disabilities are more likely to have lower incomes and may make up a significant percentage of Lifeline users, according to lead author
+Salimah LaForce , senior policy analyst at the
+Center for Advanced Communications Policy
+(CACP) and project director for policy and outreach at the Wireless RERC. CACP houses the Wireless RERC.
+“A person without a disability can take it for granted that they can go into a wireless store and leave with a phone that has the features they want,” LaForce said. “These data show that may not be the case for people with disabilities.”
+For instance, 84 percent of phones offered under traditional, or Tier One, plans offered by wireless carriers included built-in text-to-speech readers, an important feature for many people with vision disabilities. Among Lifeline phones, 26 percent of phones included that feature, according to the Wireless RERC analysis.
+Also, the study found that 17 percent of Lifeline phones examined included access to potentially lifesaving WEA alerts, compared to 84 percent of models offered through Tier One plans.
+“This statistic is particularly troubling because some of the nation’s populations which are most vulnerable to the effects of disasters are not receiving critical access to WEA messages,” the researchers wrote.
+Among other findings in the report:
+Smartphones are more likely than non-smartphones to include a broad range of accessibility features. According to the report, smartphones were more likely to include accessibility features in 20 of 24 features examined. This is of note because non-smartphones are less expensive than their display-screen oriented counterparts and sometimes preferred by people with lower incomes, older people, or people with specific disabilities for whom durability is a key concern.
+Nearly six in ten phones (58 percent) lacked video calling features needed by people who primarily communicate via American Sign Language.
+An “overwhelming percentage” of mobile phones lack good or excellent hearing aid compatibility ratings.
+The study included phones from the four major U.S. carriers, one prepaid carrier and five randomly selected Lifeline carriers. The report did not include assessments of individual phone models or operating systems.
+The Wireless RERC, whose primary mission is to harness wireless technology to empower people with disabilities to live independently, prepared the study for submission to the Federal Communications Commission as part of the agency’s biennial review of the Twenty First Century Communications and Video Accessibility Act of 2010 (CVAA).
+The law, which is sometimes called the “ADA for communications,” governs access to advanced communications technologies such as voice over internet, chat, and video calling.
+The report calls on FCC regulators to give extra attention to CVAA compliance among Lifeline providers to increase access to the WEA system and other accessibility features.
+The full report is available on the Wireless RERC website at
+https://b.gatech.edu/2RMcM42 .
+The Wireless RERC and CACP are part of Georgia Tech’s School of Public Policy, a unit of the Ivan Allen College of Liberal Arts.
+Writer : Michael Pearson, Ivan Allen College of Liberal Arts
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

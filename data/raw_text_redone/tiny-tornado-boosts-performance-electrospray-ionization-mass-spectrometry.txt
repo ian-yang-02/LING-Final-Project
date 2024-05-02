@@ -1,0 +1,44 @@
+tiny “tornado” boosts performance of electrospray ionization mass spectrometry 
+ researchers have improved the sensitivity and detection capability of the widely-used esi-ms analytical technique. 
+ this schematic represents how the drill device operates as it transmits ions to the mass spectrometer using a carefully-designed vortex flow. (courtesy peter kottke, georgia tech) 
+ jun 28, 2017 
+ — atlanta, ga 
+ adding the equivalent of a miniature tornado to the interface between electrospray ionization (esi) and a mass spectrometer (ms) has allowed researchers to improve the sensitivity and detection capability of the widely-used esi-ms analytical technique. among the scientific fields that could benefit from the new technique are proteomics, metabolomics and lipidomics – which serve biomedical and health applications ranging from biomarker detection and diagnostics to drug discovery and molecular medicine. 
+ known as dry ion localization and locomotion (drill), the new device creates a swirling flow that can separate electrospray droplets depending on their size. in this application, one of many potential uses for drill, the smaller droplets are directed to enter the mass spectrometer, while the larger ones – which still contain solvent – remain in the vortex flow until the solvent evaporates. removing the solvent allows analysis of additional ions that may be lost in current techniques and reduces the chemical “noise” that inhibits selectivity of the mass spectrometer. 
+ “a major challenge for detecting small quantities of biomolecules using mass spectrometry technology is that we can’t see everything that is actually in the sample,” said 
+ matthew torres , an assistant professor in georgia tech’s 
+ school of biological sciences . “the drill device provides a new way to solve that problem by increasing the number of ions we can get into the mass spec instrument so we can productively detect them. the ions are there now, but not necessarily in a form that the mass spec can handle.” 
+ developed by researchers at the georgia institute of technology with support from north carolina state university, drill can be added to existing electrospray ionization mass spectrometers without modifying them. 
+ “the principle is to make the droplets rotate and use inertia to separate them out by size,” explained 
+ andrei fedorov , a professor in georgia tech’s woodruff 
+ school of mechanical engineering . “we want the droplets to stay in the flow long enough to remove the solvent. in practice, smaller droplets remain in the center, where they are can be removed first for analysis, while the larger ones remain on the edge of the flow until they are dried.” 
+ the key idea of drill is based on fedorov’s 2007 invention “confining / focusing vortex flow transmission structure, mass spectrometry systems, and methods of transmitting particles, droplets, and ions." (us patent no. 7,595,487). in the past three years, the drill device has been developed with support from the national institute of general medical sciences of the national institutes of health, and its latest version was described june 14 in the american chemical society journal 
+ analytical chemistry . 
+ in electrospray ionization (esi), an electric potential is applied to a solution inside a capillary, producing a strong electric field at the spray capillary tip. that leads to the expulsion of an aerosol containing charged droplets that carry the molecules to be analyzed. the ejected droplets then break up into smaller droplets, creating a plume that expands spatially beyond the inlet intake capacity of the mass spectrometer, resulting in sample loss. the drill device provides an effective interface for collection and transmission of charged analytes from ionization sources, such as esi, to detection devices, such as mass spectrometers, resulting in significantly improved detection capability. 
+ as much as 80 to 90 percent of large biopolymers (proteins, peptides, and dna) are currently lost to analysis using existing esi-ms techniques, which have grown in importance to the life sciences community. capturing all of the biopolymers could lead to new discoveries, said torres, whose lab studies post-translational changes in proteins. by allowing analysis of large biomolecules, drill could facilitate top-down proteomics in which complete protein molecules could be studied without the need to enzymatically break them up into smaller pieces before ms analysis. 
+ “this could allow us to see combinatorial modifications that exist on a single protein molecule,” said torres. “it’s very important for us to understand how proteins communicate with one another, and drill may allow us to do that by more effectively removing the solvent from these types of samples.” 
+ the georgia tech researchers are using drill in their lab to interface between liquid chromatography and the esi-ms instrument. multiple electrodes and inlet / outlet ports enable precise control over the flow generation and guiding electric field inside the drill, so the device can be configured for a variety of uses, fedorov noted. in a general sense, drill adds a new approach for manipulating the trajectory of charged droplets, which, when combined with hydrodynamic drag forces and electric field forces, provides a rich range of possible operational modes. 
+ drill can improve the signal-to-noise ratio by a factor of 10 in the detection of angiotensin i, a peptide hormone, and boost the sensitivity for angiotensin ii ten-fold to picomole levels. drill demonstrated improved signal strength – up to 700-fold – for eight of nine peptides included in a test extract of biological tissue. 
+ drill could potentially allow the study of entire cell contents, analyzing thousands of different molecule types simultaneously. that could allow researchers to see how these molecules change over time to detect problems in chemical pathways and to determine why drugs work in some people and not others. 
+ “this could be a huge advance for biologists and others who are interested in protein biochemistry and cell biology because it enhances the sensitivity of the analytical technical and overcomes a major hurdle in studying large biological molecules,” torres added. “we expect to be able to see things we haven’t been able to see before.” 
+ the georgia tech researchers have been collaborating with david muddiman, a professor in the department of chemistry at north carolina state university, on developing drill and its analytical characterization using state-of-the-art mass spectrometry experiments. a unique contribution of the north carolina state university researchers is in using a powerful statistical method called “design of experiments” to guide the multi-parameter optimization of the drill device, resulting in identification of a sweet spot for optimal operation. 
+ fedorov and torres hope to expand use of the drill device beyond georgia tech laboratories and further enhance its design. among the near-term improvements planned is the addition of internal heating to accelerate the removal of solvent. “we see many additional improvements that will allow drill to further enhance the esi-ms process,” said fedorov. “we plan to continue evolving it as more labs start to use the device.” 
+ in addition to those already named, the paper’s co-authors include peter a. kottke, jung y. lee and alex p. jonke from georgia tech and chinthaka a. seneviratne and elizabeth s. hecht from north carolina state university. 
+ research reported in this publication was supported by the national institute of general medical sciences of the national institutes of health under award number r01gm112662. the content is solely the responsibility of the authors and does not necessarily represent the official views of the national institutes of health. 
+ citation : peter a. kottke, et al., “drill: an esi-ms interface for improved sensitivity via inertial droplet sorting and electrohydrodynamic focusing in a swirling flow,” (analytical chemistry, 2017). http: / / dx.doi.org / 10.1021 / acs.analchem.7b01555. 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact s: john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

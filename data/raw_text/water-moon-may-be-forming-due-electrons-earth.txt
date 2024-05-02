@@ -1,0 +1,54 @@
+Water on the Moon May Be Forming Due to Electrons From Earth
+The research, which was published in Nature Astronomy last month, has the potential to impact our understanding of how water, a critical resource for life and sustained future human missions to the Moon, formed and continues to evolve.
+Nov 09, 2023
+Scientists have discovered that electrons from Earth may be contributing to the formation of water on the Moon’s surface.
+The research, published in
+Nature Astronomy , has the potential to impact our understanding of how water — a critical resource for life and sustained future human missions to Earth's moon — formed and continues to evolve on the lunar surface.
+“Understanding how water is made on the Moon will help us understand how water was made in the early solar system and how water inevitably was brought to Earth,” says
+Thom Orlando ,
+Regents' Professor in the School of Chemistry and Biochemistry
+with a joint appointment in the
+School of Physics , who played a critical role in the discovery alongside
+Brant Jones ,
+a research scientist in the School of Chemistry and Biochemistry at Georgia Tech.
+“Understanding water formation and transport on the Moon will help explain current and future observations,” Jones adds. “It can help predict areas with high concentrations of water that will help with mission planning and in situ resource utilization (ISRU) mining. This is absolutely necessary for sustained human presence on the Moon.”
+The role of solar wind
+“Water production on airless bodies is driven by a combination of solar wind, heat, ionizing radiation and meteorite impacts,” Jones explains.
+Solar wind
+—
+a continuous stream of protons and electrons emitted by the Sun, traveling at 250 to 500 miles per second
+—
+is widely thought to be one of the primary ways in which water has been formed on the Moon.
+While solar wind buffets the Moon’s surface, Earth is protected due to its magnetosphere, a shield that forms as a result of the magnetic fields associated with the hot metals circulating in the Earth’s molten interior layers. However, solar wind is affected by the magnetosphere, forming the
+northern lights (aurora borealis) and southern lights (aurora australis)
+at Earth’s poles, and stretching the spherical shield into having a long “tail" — the magnetotail — which the Moon passes through periodically on its orbit around Earth.  When the Moon is in the magnetotail region, it is temporarily shielded from the protons in solar wind, but still exposed to photons from the Sun.
+"This provides a natural laboratory for studying the formation processes of lunar surface water," says University of Hawai‘i (UH) at Mānoa Assistant Researcher
+Shuai Li , who led the research study . "When the Moon is outside of the magnetotail, the
+lunar surface
+is bombarded with solar wind. Inside the magnetotail, there are almost no solar wind protons and water formation was expected to drop to nearly zero."
+Surprisingly, while the Moon was within the magnetotail, and shielded from solar wind, the researchers found that the rate of water formation did not change. Since water was still forming in the absence of solar wind, the researchers began to theorize what could be responsible for forming the water.
+Building on previous research, Orlando and Jones hypothesized that electrons from Earth could be responsible.
+A work in progress
+“This work was actually based, in part, on our previous studies examining the role of ionizing radiation in metal-oxide particles present in nuclear waste storage tanks,” Orlando explains, adding that in a previous project as part of an Energy Frontier Research Center called IDREAM, they showed that water forms when a mineral called boehmite is irradiated with electrons produced by energetic particles after radioactive decay.
+While boehmite does not exist on the Moon’s surface, minerals with similar compositions are present, and Orlando and Jones theorized that, like the boehmite, irradiation from electrons might be producing water on lunar surface grains. “Despite the incredibly different physical environments,” Orlando says, “the chemistry and physics is likely very similar.”
+The solar wind water cycle has the potential to make huge impacts on human discovery of the Moon and beyond.
+“While some of these water molecules will be destroyed by the Sun, some will eventually make it to the cold spots in permanently shadowed regions at higher latitudes,” Orlando says,
+in “the regions where some of the planned Artemis landings will be.”
+The next step? “Our hope is to prove that the hypothesis is correct!”
+Orlando and Jones have been studying the role of solar wind on the
+in situ
+production of water on the Moon, Mercury, and other airless bodies as part of the NASA Solar System Exploration Research Virtual Institute (SSERVI) center called
+Radiation Effects on Volatile Exploration of Asteroids and Lunar Surfaces
+(REVEALS).
+The realization that electrons from Earth were part of the dynamic lunar water cycle was a direct result of the interactions of several scientists with diverse backgrounds made possible by the SSERVI support. The work, which will further expand on the solar wind water cycle — including other sources of energy beyond surface temperature like meteorite and electron impacts — will continue in a new Georgia Tech-led SSERVI program, the
+Center for Lunar Environment and Volatile Exploration Research
+(CLEVER).
+Additional Images
+Contact
+Written by Selena Langner
+Editor: Jess Hunt-Ralston
+Email
+jess.hunt@cos.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

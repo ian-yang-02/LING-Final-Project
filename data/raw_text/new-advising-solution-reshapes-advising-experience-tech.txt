@@ -1,0 +1,30 @@
+New Advising Solution Reshapes Advising Experience at Tech
+The new solution is powered by Salesforce and replaced the undergraduate advising system, GradesFirst.
+Sep 15, 2020
+— Atlanta, GA
+Georgia Tech’s new advising solution, Advisor Link, went live Monday, Sept. 14. The new solution is powered by Salesforce and replaced the undergraduate advising system, GradesFirst.
+The implementation of Advisor Link supports recommendations by the provost’s Academic Advising Task Force to integrate more technology, analytics, and data reporting within academic advising at the Institute. The task force was assembled as part of the larger initiative, Advising for a New Era, which challenges inconsistent approaches to advising by addressing opportunities to establish common practices in advising and provide more visibility into the student journey at Georgia Tech.
+Advisor Link introduces new features to increase visibility into the student lifecycle and improve the user experience through an enhanced and intuitive user interface. Features also help to streamline communication between academic advisors within colleges and schools across the Institute.
+“We have a very distributed model of advising at Georgia Tech; we believe the best way to manage advising is through the academic units because they understand their subject matter and their students best,” said Colin Potts, vice provost for Undergraduate Education. “However, we have known for a long time that we need more coordination and dissemination of best practices in advising across the Institute. This implementation is one of the first major steps in helping us accomplish that.”
+“A common source of frustration for us as students has been having to reintroduce ourselves during advising appointments because advisors in different departments may not always share notes with each other,” said Jackson Caruso, Student Government Association (SGA) vice president of Academic Affairs. “I’m excited to know the information in Advisor Link will help advisors review intricate details from previous sessions and provide a personalized experience for each student.”
+Advisors have experienced similar dissatisfaction in the past, expressing the need for a single view into their advisees’ journeys with real-time data. Advisor Link represents an opportunity for each advisor to have a 360-view of each student’s academic and advising profile.
+“We are basically the touchpoint for students because we know all the resources on campus and how to direct students to get the help that they need,” said Mary Holder, academic professional in the Neuroscience program. “There are several features within Advisor Link that will allow us to refresh ourselves on what the students’ needs are before they come in and interface seamlessly with them during appointments. We are really excited about this new platform because it is going to allow us to incorporate more of our partner units into what we do on a regular basis. We are able to share notes, create success plans, build reports, and communicate with students more effectively. Providing that personalized and proactive approach to advising is transformative for Georgia Tech.”
+Advisor Link has been made available to the undergraduate advising community and Georgia Tech Professional Education, with plans to expand use of the solution in future phases to support online graduate degree programs.
+“I envision this tool helping faculty and staff better understand our students’ goals and ambitions at an individual level,” said Nelson Baker, dean of Professional Education. “With that insight, we are able to help shape an educational experience unique to the individual. This is the start of a wonderful conversation and support mechanism for all Georgia Tech students along their learning journeys, online or on campus.”
+More than 100 user stories from advisors and students were captured to establish requirements for Advisor Link.
+“We heard the pain points of our stakeholders and incorporated them into the implementation plan for Advisor Link,” said Kim White, director of OIT’s project management office and project manager for the student advising project. “This release of Advisor Link includes seamless integration of Banner data through the Enterprise Data Warehouse, real-time data and calendar synchronization with Office 365, and significant mapping of historical data from GradesFirst to capture appointment history, notes, and attachments. There are also several deep links to commonly used services like Oscar, Canvas, DegreeWorks, and Tableau embedded within the solution.”
+The implementation of Advisor Link was a collaborative effort led by the Office of the Provost in partnership with the Office of Undergraduate Education, Georgia Tech Professional Education, and the essential technological expertise and enablement of the Office of Information Technology.
+The project involved a steering committee comprising academic advisors, academic and business unit leaders, and leaders within SGA.
+For more information about the Advisor Link project, visit
+neweraadvising.gatech.edu . Undergraduate students can now schedule appointments with academic advisors by visiting
+advisor.gatech.edu .
+Additional Images
+Related links
+Advisor Link
+Contact
+Malynda Dorsey
+Director of IT Marketing & Communications
+Information Technology
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

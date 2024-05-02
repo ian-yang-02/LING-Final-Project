@@ -1,0 +1,34 @@
+hollister lab develops 3d printing for soft tissue engineering 
+ researchers use architected auxetics to achieve 300 times more flexibility in new 3d printing design. 
+ research scientist jeonghun park 
+ nov 30, 2023 
+ there are young children celebrating the holidays this year with their families, thanks to the 3d-printed medical devices created in the lab of  georgia tech researcher scott hollister . for more than 10 years, hollister and his collaborators have developed lifesaving, patient-specific airway splints for babies with rare birth defects. 
+ these personalized airway support devices are made of a biocompatible polyester called polycaprolactone (pcl), which has the advantage of being approved by the food and drug administration. researchers use selective laser sintering to heat the powdered polyester, which binds together as a solid structure. devices made of pcl have a great safety record when implanted into patients. 
+ unfortunately, pcl has the disadvantage of having relatively stiff and linear mechanical properties, which means this promising biomaterial has yet to be applied functionally to some other critical biomedical needs, such as soft tissue engineering. how do you make a firm thermoplastic into something flexible, and possibly capable of growing with the patient? hollister’s lab has figured out how. 
+ “3d auxetic design,” said jeong hun park, a research scientist in hollister’s lab who led the team’s recent study demonstrating the successful  3d printing of pcl for soft tissue engineering . an auxetic material, unlike typical common elastics, has a negative poisson’s ratio. that means if you stretch an auxetic material longitudinally it will also expand in the lateral direction, whereas most materials will get thinner laterally (because they have a positive poisson’s ratio). 
+ so, an auxetic structure can expand in both directions, which is useful when considering biomedical applications for humans, whose bodies and parts can change in size and shape over time and comprise many different textures and densities. hollister’s team set out to give usually firm pcl some new auxetic properties. 
+ “although the mechanical properties and behavior of the 3d structure depend on the inherent properties of the base material — in this case, pcl — it can also be significantly tuned through internal architecture design,” explained park. 
+ park guided the design of 3d-printed structures made up of tiny struts, arranged at right angles — imagine the bones of very tiny skyscrapers. the team began by creating cube-shaped structures first, to test the auxetic design’s flexibility, strength, and permeability. 
+ flexible behavior 
+ basically, an auxetic material is a network structure designed by assembling unit cells. these unit cells consist of struts and their intersecting joints, which are an important aspect of an auxetic device’s behavior. the rotation of those intersecting joints within the network, under compression or extension, causes negative poisson’s behavior. it also enables advanced performance for a printed device, including impact energy absorption, indentation resistance, and high flexibility. 
+ “when you look at the numbers, based on jeong hun’s work, the new structure is about 300 times more flexible than the typical solid structure we make out of pcl in our lab,” said hollister, professor in the wallace h. coulter department of biomedical engineering at georgia tech and emory university, where he also holds the patsy and alan dorris chair in pediatric technology and serves as the department’s associate chair for translational research. 
+ the combination of flexibility and strength in a device is particularly important here, park said, because the ultimate goal of the research is to “apply this structure to develop a breast reconstruction implant that has comparable biomechanical properties to native breast tissue. currently, we don’t have a biodegradable breast implantation option in the clinical setting.” 
+ he explained that these biodegradable breast reconstruction implants serve as a kind of scaffold. the idea is, the biocompatible material (pcl) eventually degrades and is absorbed into the body, while maintaining similar mechanical properties to native breast tissue. 
+ “we expect that native tissue will be first infiltrated into the pores of the biodegradable implant,” park said. “tissue volume will then increase within the implant as it degrades and eventually the device itself is replaced with the tissue after complete degradation of the implant.” 
+ expanding the cellular network 
+ essentially, the 3d-printed breast implant is designed to provide reconstructive support while also facilitating the growth of new tissue. 
+ the space between those tiny struts makes all the difference for the larger device, giving it a softness and pliability that would have been impossible otherwise. those spaces eventually can be filled with hydrogel that will help foster cell and tissue growth. 
+ the team’s architected auxetics also include the design of inner voids and spaces inside the struts, creating a kind of microporosity that enables the mass transport of oxygen, nutrients, and metabolites to nurture the expansion and growth of a cellular network. 
+ park is working with emory surgeon  angela cheng  in submitting a grant for further research and testing of the breast implant. and the team already is adapting the technology for other applications. one of the collaborators in this research, for example, is  mike davis , whose lab at emory is focused on cardiac regeneration. 
+ “because of the great flexibility, they’re using it to reconstruct infarcted or necrotic myocardial tissue,” hollister said. 
+ and park has developed an auxetic version of the pediatric tracheal splint. “the advantage there is, with this design, it can expand in two directions,” he said. “so, as young patients grow, the new device will grow with them.” 
+ video demonstration of auxetic compression 
+ additional images 
+ contact 
+ writer: 
+ jerry grillo 
+ email 
+ jerry.grillo@ibb.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

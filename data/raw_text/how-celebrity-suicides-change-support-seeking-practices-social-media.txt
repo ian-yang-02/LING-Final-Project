@@ -1,0 +1,31 @@
+How Celebrity Suicides Change Support-Seeking Practices on Social Media
+Following celebrity suicides, Redditors show expressions that indicate increased and explicit suicidal tendencies.
+Munmun de Choudhury is an assistant professor in the School of Interactive Computing
+Sep 24, 2015
+— Atlanta, GA
+There’s a widely adopted suicide support forum on Reddit called “SuicideWatch.” It features entries from people looking for support and guidance from experienced, trained moderators and anonymous social media users volunteering to extend help to those in need. New research from the Georgia Institute of Technology finds that activity on this forum changes dramatically in the aftermath of celebrity suicides. Instead of reaching out to others for support against suicidal thoughts, Redditors show expressions that indicate increased and explicit suicidal tendencies. Content and participation in the days and weeks after a celebrity’s death are more likely to be angry and more anxious.
+“People come to this site with hope to fight thoughts of self-destruction,” said Munmun De Choudhury, a Georgia Tech assistant professor who co-led the study. “They’re looking for help. But the pleas of support changed to hopelessness and despair.”
+De Choudhury’s group, which included co-leader Mark Dredze of Johns Hopkins University and Glen Coppersmith from the mental health startup Qntfy, looked at nearly 66,000 posts from 19,000 unique users from October 2013 to December 2014. The researchers noticed how language changed in the weeks before and after 10 celebrity suicides, including the 2014 death of comedian Robin Williams.
+For example, posts prior to suicides included “maybe I should just do it” and “I need some help…I feel I’m right on the edge.” Afterward, phrases were often along the lines of “It will be one more week and I’ll be done” and “I’ll be ending it this weekend.”
+“Redditors tended to be more inwardly focused after celebrity suicide,” said Dredze. “They wrote less about other people. Posts about family and friends shifted to ‘I’ and ‘me.’ We saw more self-disclosure and sadness.”
+The researchers add that Redditors didn’t go online to talk about the celebrity. They posted about their own life and the potential of ending it.
+The study mirrors the “Werther effect” – that there is an increased number of completed or attempted suicides after the media covers a celebrity’s suicide. Studies that focus on the Werther effect focus on people’s concrete actions. The new study uses social media to gain fresh insights about the morale of a community contemplating suicide.
+“We could explore what they thought and how they felt, that is, markers of suicide ideation,” said De Choudhury, a faculty member in Georgia Tech’s School of Interactive Computing.
+She and the research group say the findings can be used to offer better online support for psychologically vulnerable populations. For example, the leaders of the sub-Reddit group could prompt more moderators to check the site more frequently after celebrity suicides. Algorithms could be designed to develop risk scores based on language variations before and after a celebrity’s death, then have specialists keep an eye on Redditors most at risk.
+The current paper, “ Detecting Changes in Suicide Content Manifested in Social Media Following Celebrity Suicides ,” was presented in early September at the Proceedings of 26th ACM Conference on Hypertext and Social Media in Cyprus. It builds on De Choudury and her team’s prior social media studies about mothers with postpartum depression. Another of her papers, which monitored Reddit posts to help determine the likelihood that people trying to quit
+will actually abstain from tobacco and alcohol , will also be presented at the conference in Cyprus.
+This research was supported by National Institutes of Health grant 1R01GM11269701. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+Additional Images
+Related links
+Read the study
+For Help
+Tech Ends Suicide Together
+Contact
+Jason Maderer
+National Media Relations maderer@gatech.edu
+404-660-2926
+Email
+maderer@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,35 @@
+Researchers Highlight Ethical Issues for Developing Future AI Assistants
+With the design of AI systems that seek to enhance the abilities of older adults as they experience cognitive decline, a broad range of ethical issues arises.
+Next-generation smart assistants will likely be designed to anticipate a user’s wants and needs, and even assist and mediate social interactions between users and their support networks.
+Jul 31, 2023
+Most people use voice assistant technologies like Alexa or Google Assistant for list making and quick weather updates. But imagine if these technologies could do much more — summarize doctor’s appointments, remind someone to take their medicines, manage their schedule (knowing which events take priority), and not only read a recipe but also create reminders to shop for ingredients — without the user having to prompt it. If a smart assistant could use artificial intelligence to take away some of the cognitive load for common tasks, it could help older adults preserve their independence and autonomy.
+Next-generation smart assistants aren’t on the market yet, but the research necessary to create them is underway now. This includes efforts to develop smart assistants that are proactive —that is, the system could anticipate the user’s wants and needs, and even assist and mediate social interactions between users and their support networks. But with the design of systems that seek to enhance the abilities of older adults as they experience cognitive decline, a broad range of ethical issues arises.
+Researchers from the NSF
+AI Institute for Collaborative Assistance and Responsive Interaction for Networked Groups (AI-CARING)
+saw a need to outline some of these issues up front, with the hope that designers will consider them when developing the next generation of smart assistants. The team’s article, “ Ethical Issues in Near-Future Socially Supportive Smart Assistants for Older Adults ,” was published in the journal
+IEEE Transactions on Technology and Society .
+“We're trying to provide a landscape of the ethical issues designers need to take into account long before advanced smart assistant systems show up in a person’s home,” said
+Jason Borenstein , professor of ethics and director of Graduate Research Ethics Programs in the
+School of Public Policy
+and the Office of Graduate and Postdoctoral Education at Georgia Tech. “If designers don't think through these issues, then a family might set a relative up with a system, go home, and trust that their relative is safe and secure when they might not be.”
+According to the AI-CARING researchers, when a person relies on an AI system, that person becomes vulnerable to the system in unique ways. For people with age-related cognitive impairment who might use the technology for complicated forms of assistance, the stakes get even higher, with vulnerability increasing as their health declines. Systems that fail to perform correctly could put an older adult’s welfare at significant risk.
+“If a system makes a mistake when you’ve relied on it for something benign — like helping you choose the movie you’re going to watch — that’s not a big deal,” said
+Alex John London , lead author of the paper and K&L Gates Professor of Ethics and Computational Technologies at Carnegie Mellon University. “But if you’ve relied on it to remind you to take your medicine, and it doesn’t remind you or tells you to take the wrong medicine, that would be a big problem.”
+According to the researchers, to develop a system that truly prioritizes the user’s well-being, designers should consider issues such as trust, reliance, privacy, and a person’s changing cognitive abilities. They should also make sure the system supports the user’s goals rather than the goals of an outside party such as a family member, or even a company that might seek to market products to the user.
+A system like this would require a nuanced and constantly evolving model of the user and their preferences, incorporating data from a variety of different sources. For a smart assistant to effectively do its job, it might need to share some of the main user’s information with other entities, which can expose the user to risk.
+For example, a user might want the physician’s office to know that they would like a doctor’s appointment. But depending on the person, they may not want that information shared with their children, or only with one child and not another. According to the researchers, designers should consider methods of sharing personal information that also uphold the user’s ability to control it.
+Over trust and under trust of the system’s abilities are also important issues to consider. Over trust occurs when people project onto a technology abilities that it doesn’t have, which could put them at risk when the system fails to deliver in a way they anticipated. Under trust can be an issue as well, because if a system can help a person with an important task and the person chooses not to use the system, they also could be left without help.
+“The goal of our analysis is to point out challenges for creating truly assistive AI systems so that they can be incorporated into the design of AI from the beginning,” London said. “This can also help stakeholders create benchmarks for performance that reflect these ethical requirements rather than trying to address ethical issues after the system has already been designed, developed, and tested.”
+According to Borenstein, when smart assistants are created and introduced into homes, the primary user’s well-being and goals should be the foremost concern.
+“Designers are certainly well-intended, but all of us can benefit from the exchange of ideas across disciplines, and from talking with people with different perspectives on these kinds of technologies,” Borenstein said. “This is just one piece of that puzzle that can hopefully inform the design process.”
+Citation : A. J. London, Y. S. Razin, J. Borenstein, M. Eslami, R. Perkins and P. Robinette, " Ethical Issues in Near-Future Socially Supportive Smart Assistants for Older Adults ," in  IEEE Transactions on Technology and Society .
+DOI : 10.1109/TTS.2023.3237124
+Georgia Tech is bringing together the finest minds and voices to explore artificial intelligence — the opportunities, the risks, and above all the ethical and responsible stewardship of AI. To see our presenters and register to attend Avant South on Sept. 28 – 29, visit
+avantsouth.com .
+Additional Images
+Contact
+Catherine Barzler, Senior Research Writer/Editor
+catherine.barzler@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

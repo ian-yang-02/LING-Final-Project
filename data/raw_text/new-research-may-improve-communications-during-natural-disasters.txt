@@ -1,0 +1,42 @@
+New Research May Improve Communications During Natural Disasters
+New research from Georgia Tech Research demonstrates the ability to gather and share data during natural disasters during internet outages.
+Sep 08, 2017
+— Atlanta, GA
+Storms like Hurricane Irma and other natural disasters bring with them lots of uncertainty: where will they go, how much damage will they cause. What is certain is that no matter where they strike, natural disasters knock out power.
+And, no power means no internet for thousands of people in affected areas.
+However, Georgia Tech researchers are proposing a new way of gathering and sharing information during natural disasters that does not rely on the internet.
+Using computing power built into mobile phones, routers, and other hardware to create a network, emergency managers and first responders will be able to share and act on information gathered from people impacted by hurricanes, tornados, floods, and other disasters.
+“Increasingly, data gathered from passive and active sensors that people carry with them, such as their mobile phones, is being used to inform situational awareness in a variety of settings,” said
+Kishore Ramachandran , computer science professor at Georgia Tech.
+“In this way, humans are providing beneficial social sensing services. However, current social sensing services depend on internet connectivity since the services are deployed on central cloud platforms.”
+Communicating on the 'edge'
+In a
+paper
+presented earlier this year at the
+2 nd
+International Workshop on Social Sensing , the Georgia Tech research team detailed how it may be possible to access these centralized services using a decentralized network that leverages the growing amount of computing power at the “edge” of the internet.
+This ability will give a huge advantage to first responders.
+In a flooded area, for example, search and rescue personnel using a geo-distributed network would be able to continuously ping enabled phones, sensors, and other devices in an area to determine their exact locations. The data is used to create density maps of people in that search region. These maps are then used to prioritize and guide emergency response teams.
+The Georgia Tech proposal takes advantages of edge computing. Also known as fog computing, edge computing places more processing capabilities in sensing devices – like surveillance cameras, embedded pavement sensors, and others, as well as in consumer devices like cell phones, readers, and tablets – in order to improve network latency between sensors, apps, and users.
+Rather than just being able to communicate through the internet with central cloud platforms, the Georgia Tech team has demonstrated that by harnessing edge computing resources, sensing devices can be enabled to identify and communicate with other sensors in an area.
+Decentralizing social sensing services
+“We believe fog computing can become a potent enabler of decentralized, local social sensing services that can operate when internet connectivity is constrained,” said Ramachandran.
+“This capability will provide first responders and others with the level of situational awareness they need to make effective decisions in emergency situations.”
+The team has proposed a generic software architecture for social sensing applications that is capable of exploiting the fog-enabled devices. The design has three components – a central management function that resides in the cloud, a data processing element placed in the fog infrastructure, and a sensing component on the user’s device.
+The researchers say that it is not enough to simply run a centralized social sensing service on a number of parallel fog nodes.
+“Rather, the social sensing service has to become a distributed service capable of discovering available fog nodes and building a network that aggregates and shares information between social sensors that are connected to different fog nodes,” said computer science Ph.D. student
+Harshit Gupta .
+What's next?
+Beyond emergency response during natural disasters, the team believes its proposed fog architecture can also benefit communities with limited or no internet access. These include applications for public transportation management, job recruitment, and housing.
+Another possible application of the new approach is monitoring sensing devices in remote areas.
+To monitor far-flung devices in areas with no internet access, a bus could be outfitted with fog-enabled sensing capabilities. As it travels in remote areas it would collect data from sensing devices. Once in range of internet connectivity, the “data mule” bus would upload the information to the centralized cloud-based platforms.
+“In places that did not benefit from the first wave of cloud-based social sensing services, our hope is that these communities can leapfrog having to rely solely on the internet and directly use fog-based services,” said Ramachandran.
+Additional Images
+Contact
+Albert Snedeker, Communications Manager
+albert.snedeker@cc.gatech.edu
+Email
+albert.snedeker@cc.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

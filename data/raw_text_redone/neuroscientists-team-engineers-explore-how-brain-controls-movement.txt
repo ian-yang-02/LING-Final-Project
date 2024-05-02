@@ -1,0 +1,34 @@
+neuroscientists team with engineers to explore how the brain controls movement 
+ emory and georgia tech researchers recently received a $200,000 technological innovations in neuroscience award from the mcknight foundation 
+ a prototype of the proposed device has 16 electrodes that can record data from a single muscle. the mcknight award will allow the researchers to scale up to a device with more than 1,000 electrodes that can record from 10 or more muscles. 
+ aug 07, 2018 
+ — atlanta, ga 
+ scientists have made remarkable advances into recording the electrical activity that the nervous system uses to control complex skills, leading to insights into how the nervous system directs an animal’s behavior. 
+ “we can record the electrical activity of a single neuron, and large groups of neurons, as animals learn and perform skilled behaviors,” says  samuel sober , an associate professor of biology at emory university who studies the brain and nervous system. “what’s missing,” he adds, “is the technology to precisely record the electrical signals of the muscles that ultimately control that movement.” 
+ the sober lab is now developing that technology through a collaboration with the lab of  muhannad bakir , a professor in georgia tech’s school of electrical and computer engineering. the researchers recently received a $200,000 technological innovations in neuroscience award from the mcknight foundation to create a device that can record electrical action potentials, or “spikes” within muscles of songbirds and rodents. the technology will be used to help understand the neural control of many different skilled behaviors to potentially gain insights into neurological disorders that affect motor control. 
+ “our device will be the first that lets you record populations of spikes from all of the muscles involved in controlling a complex behavior,” sober says. “this technique will offer unprecedented access to the neural signals that control muscles, allowing previously impossible investigations into how the brain controls the body.” 
+ “by combining expertise in the life sciences at emory with the engineering expertise of georgia tech, we are able to enter new scientific territory,” bakir says. “the ultimate goal is to make discoveries that improve the quality of life of people.” 
+ the sober lab previously developed a prototype device — electrodes attached to flexible wires — to measure electrical activity in a breathing muscle used by bengalese finches to sing. the way birds control their song has a lot in common with human speech, both in how it is learned early in life and how it is produced in adulthood. the neural pathways for birdsong are also well known, and restricted to that one activity, making birds a good model system for studying nervous system function. 
+ “in experiments using our prototype, we discovered that, just like in brain cells, precise spike timing patterns in muscle cells are critical for controlling behavior — in this case breathing,” sober says. 
+ the prototype device, however, is basic. its 16 electrodes can only record activity from a single muscle — not the entire ensemble of muscles involved in birdsong. in order to gain a fuller picture of how neural signals control movement, neuroscientists need a much more sophisticated device. 
+ the mcknight funding allowed sober to team up with bakir. their goal is to create a micro-scale electromyography (emg) sensor array, containing more than 1,000 electrodes, to record single-cellular data across many muscles. 
+ the engineering challenges are formidable. the arrays need to be flexible enough to fit the shape of small muscles used in fine motor skills, and to change shape as the muscles contract. the entire device must also be tiny enough not to impede the movement of a small animal. 
+ “our first step is to build a flexible substrate on the micro-scale that can support high-density electrodes,” bakir says. “and we will need to use microchips that work in parallel with 1,000 electrodes, and then attach them to that substrate.” 
+ to meet that challenge, the bakir lab will create a 3d integrated circuit. “essentially, it’s building a miniature skyscraper of electrical circuits stacked vertically atop one another,” bakir says. this vertical design will allow the researchers to minimize the size of the flexible substrate. 
+ “to our knowledge, no one has done what we are trying to do in this project,” bakir says. “that makes it more difficult, but also exciting because we are entering new space.” 
+ the sober lab will use the new device to expand its songbird vocalization studies. and it will explore how the nervous system controls the muscles involved when a mouse performs skilled movements with its forelimbs. 
+ an early version of the technology will also be shared with collaborators of the sober lab at three different universities. these collaborators will further test the arrays, while also gathering data across more species. 
+ “we know so little about how the brain organizes skilled behaviors,” sober says. “once we perfect this technology, we will make it available to researchers in this field around the world, to advance knowledge as rapidly as possible.” 
+ the mission of the mcknight foundation’s technological innovations in neuroscience award, as described on its website, is “to bring science closer to the day when diseases of the brain and behavior can be accurately diagnosed, prevented and treated.” 
+ additional images 
+ contact 
+ writer and media contact: carol clark 
+ carol.clark@emory.edu 
+ senior science communicator 
+ emory university 
+ editor, esciencecommons 
+ email 
+ carol.clark@emory.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,33 @@
+topsy-turvy motion creates light switch effect at uranus 
+ uranus’ magnetosphere gets flipped on and off like a light switch every day as it rotates along with the planet. 
+ this is a composite image of uranus by voyager 2 and two different observations made by the hubble space telescope — one for the ring and one for the auroras (photo credit: esa / hubble && nasa, l. lamy / observatoire de paris). 
+ jun 26, 2017 
+ — atlanta, ga 
+ more than 30 years after voyager 2 sped past uranus, georgia institute of technology researchers are using the spacecraft’s data to learn more about the icy planet. their new study suggests that uranus’ magnetosphere, the region defined by the planet’s magnetic field and the material trapped inside it, gets flipped on and off like a light switch every day as it rotates along with the planet. it’s “open” in one orientation, allowing solar wind to flow into the magnetosphere; it later closes, forming a shield against the solar wind and deflecting it away from the planet. 
+ this is much different from earth’s magnetosphere, which typically only switches between open and closed in response to changes in the solar wind. earth’s magnetic field is nearly aligned with its spin axis, causing the entire magnetosphere to spin like a top along with the earth’s rotation. since the same alignment of earth’s magnetosphere is always facing toward the sun, the magnetic field threaded in the ever-present solar wind must change direction in order to reconfigure earth’s field from closed to open. this frequently occurs with strong solar storms. 
+ but uranus lies and rotates on its side, and its magnetic field is lopsided — it’s off-centered and tilted 60 degrees from its axis. those features cause the magnetic field to tumble asymmetrically relative to the solar wind direction as the icy giant completes its 17.24-hour full rotation. 
+ rather than the solar wind dictating a switch like here on earth, the researchers say uranus’ rapid rotational change in field strength and orientation lead to a periodic open-close-open-close scenario as it tumbles through the solar wind. 
+ “uranus is a geometric nightmare,” said 
+ carol paty , the georgia tech associate professor who co-authored the study. “the magnetic field tumbles very fast, like a child cartwheeling down a hill head over heels. when the magnetized solar wind meets this tumbling field in the right way, it can reconnect and uranus’ magnetosphere goes from open to closed to open on a daily basis.” 
+ paty says this solar wind reconnection is predicted to occur upstream of uranus’ magnetosphere over a range of latitudes, with magnetic flux closing in various parts of the planet’s twisted magnetotail. 
+ reconnection of magnetic fields is a phenomenon throughout the solar system. it occurs when the direction of the interplanetary magnetic field – which comes from the sun and is also known as the heliospheric magnetic field – is opposite a planet’s magnetospheric alignment. magnetic field lines are then spliced together and rearrange the local magnetic topology, allowing a surge of solar energy to enter the system. 
+ magnetic reconnection is one reason for earth’s auroras. auroras could be possible at a range of latitudes on uranus due to its off-kilter magnetic field, but the aurora is difficult to observe because the planet is nearly 2 billion miles from earth. the hubble space telescope occasionally gets a faint view, but it can’t directly measure uranus’ magnetosphere. 
+ the georgia tech researchers used numerical models to simulate the planet’s global magnetosphere and to predict favorable reconnection locations. they plugged in data collected by voyager 2 during its five-day flyby in 1986. it’s the only time a spacecraft has visited. 
+ the researchers say learning more about uranus is one key to discovering more about planets beyond our solar system. 
+ “the majority of exoplanets that have been discovered appear to also be ice giants in size,” said xin cao, the georgia tech ph.d. candidate in earth and atmospheric sciences who led the study. “perhaps what we see on uranus and neptune is the norm for planets: very unique magnetospheres and less-aligned magnetic fields. understanding how these complex magnetospheres shield exoplanets from stellar radiation is of key importance for studying the habitability of these newly discovered worlds.” 
+ the paper, “ diurnal and seasonal variability of uranus’ magnetosphere ,” is currently published in the journal of geophysical research: space physics. 
+ additional images 
+ related links 
+ the sands of titan would create great sand castles 
+ paty, schmidt involved in future europa mission 
+ the search for life in the solar system 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

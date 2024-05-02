@@ -1,0 +1,45 @@
+3d-printed device finds ‘needle in a haystack’ cancer cells by removing the hay 
+ a new approach enabled by 3d printing could help isolate tumor cells circulating in the bloodstream. 
+ a 3d-printed cell trap developed in the laboratory of georgia tech assistant professor a. fatih sarioglu captures blood cells to isolate tumor cells from a blood sample. (photo: allison carter, georgia tech) 
+ oct 29, 2019 
+ — atlanta, ga 
+ finding a handful of cancer cells hiding among billions of blood cells in a patient sample can be like finding a needle in a haystack. in a new approach enabled by 3d-printed cell traps, researchers are removing the hay to expose the cancer cells. 
+ trapping the white blood cells – which are about the size of cancer cells – and filtering out smaller red blood cells leaves behind the tumor cells, which could then be used to diagnose the disease, potentially provide early warning of recurrence and enable research into the cancer metastasis process. the work, led by researchers at the georgia institute of technology, could advance the goal of personalized cancer treatment by allowing rapid and low-cost separation of tumor cells circulating in the bloodstream. 
+ “isolating circulating tumor cells from whole blood samples has been a challenge because we are looking for a handful of cancer cells mixed with billions of normal red and white blood cells,” said 
+ a. fatih sarioglu , an assistant professor in georgia tech’s 
+ school of electrical and computer engineering 
+ (ece). “with this device, we can process a clinically-relevant volume of blood by capturing nearly all of the white blood cells and then filtering out the red blood cells by size. that leaves us with undamaged tumor cells that can be sequenced to determine the specific cancer type and the unique characteristics of each patient’s tumor.” 
+ the research was reported september 20 in the journal 
+ lab on a chip , and was supported by a seed grant from the integrated cancer research center at georgia tech. 
+ other attempts to capture circulating tumor cells have attempted to extract them from the blood using microfluidic technology that recognizes specific surface markers on the cancer cells. but because the cancer can change over time, the malignant cells can’t be recognized with certainty. and even if they can be captured, the tumor cells must be removed from circuitous channels in the device and separated from the antigen without causing damage. 
+ sarioglu and collaborators, including ece graduate student and first author chia-heng chu, decided to take a different approach, building 3d-printed traps lined with antigens to capture the white blood cells in a sample. the 3d printed traps allowed the researchers to greatly expand the surface area for capturing the white blood cells as they pass by in blood samples. zig-zagging fluid channels, some as much as half a meter long, increase the likelihood that every white blood cell would come into contact with a channel wall. 
+ “usual microfluidic devices have just a single layer with channel heights of 50 to 100 microns,” sarioglu said. “they are thick, but most of it just empty plastic. using 3d printing liberates us from the single channel and allows us to create many channels in three dimensions that better utilize the space.” 
+ while the 3d printing allowed an increase in channel density, that came with a significant challenge. earlier microfluidic devices could be designed with etched channels to carry the blood. but with 3d printing processes that are fabricated layer-by-layer, channels had to be filled with wax to allow more channels to be built atop them. the torturous channel structure, designed to maximize cell-wall interaction, made it virtually impossible to get the wax out after fabrication. 
+ the solution was to design cell traps that fit into standard centrifuges designed to spin samples for separation. the traps were heated in the centrifuge and then spun to allow the melted wax to escape. after removing the liquid wax, the channels received the antigen coating. 
+ after the white blood cells are removed, the smaller red blood cells pass through a simple commercial filter that traps the cancer cells and any remaining white blood cells. the tumor cells can then be removed from the filter, which is integrated into the 3d printed device. 
+ minimal processing of blood samples is a goal for the project to make the process available to clinics and hospitals without requiring specialized technician skills. less processing also reduces the risk of damage to the tumor cells and minimizes other cellular changes that could skew the evaluation. 
+ as part of the proof of principle testing, the researchers coated the white blood cells with biotin to accelerate testing. future cell traps will use antigens designed to attract the cells to the channel walls without the biotin processing step. 
+ the researchers tested their approach by adding cancer cells to blood taken from healthy people. because they knew how many cells were added, they could tell how many they should extract, and the experiment showed the trap could capture around 90 percent of the tumor cells. later testing of blood samples from prostate cancer patients isolated tumor cells from a 10-milliliter whole blood sample. 
+ testing included cells from prostate, breast and ovarian cancer, but sarioglu believes that the device will capture circulating tumor cells from any type of cancer because the removal mechanism targets blood cells rather than cancer cells. 
+ next steps will be to narrow the channels in the device, test white blood cell removal without the use of biotin, boost the percentage of white cell extraction and connect cell traps to increase trapping capacity. 
+ “we expect that this will really be an enabling tool for clinicians,” sarioglu said. “in our lab, the mindset is always toward translating our research by making the device simple enough to be used in hospitals, clinics and other facilities that will help diagnose disease in patients.” 
+ other co-authors of the paper include ruxiu liu, tevhide ozkaya-ahmadov, mert boya, brandi e. swain, jacob m. owens, enerelt burentugs, and john f. mcdonald, all from georgia tech, and mehmet asim bilen from emory university. 
+ citation : chia-heng chu, et al, “hybrid negative enrichment of circulating tumor cells from whole blood in a 3d-printed monolithic device.” ( lab on a chip , 2019) 
+ http: / / dx.doi.org / 10.1039 / c9lc00575g 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations contact: 
+ john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

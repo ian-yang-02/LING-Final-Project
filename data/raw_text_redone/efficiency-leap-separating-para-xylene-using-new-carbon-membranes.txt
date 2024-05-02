@@ -1,0 +1,38 @@
+efficiency leap in separating para-xylene using new carbon membranes 
+ researchers at georgia tech have uncovered new insights into the fabrication of carbon membranes that have the potential to drive significant cost savings once the solution for xylene isolation separation is scaled for industrial use. 
+ georgia tech used these carbon membrane materials to separate para-xylene from o-xylene. (photo credit: christopher moore, georgia tech) 
+ sep 07, 2021 
+ — atlanta, ga 
+ the petrol industry recognizes the importance of para-xylene, given its many uses in everyday products, from plastic soda bottles to polyester fiber. 
+ the challenge is that xylenes travel in threes and are virtually identical, making it extremely difficult to efficiently separate and purify para-xylene from its less used siblings such as ortho-xylene. these molecules’ size differs by one-tenth of a nanometer. however, membranes with tiny pores engineered to differentiate these molecules can potentially enable this important separation. 
+ building on long-term research with exxonmobil, researchers at the georgia institute of technology have uncovered new insights into the fabrication of carbon membranes that have the potential to drive significant cost savings once the solution for xylene isolation separation is scaled for industrial use. 
+ the 
+ findings 
+ were reported in the september 6, 2021 issue of the 
+ proceedings of the national academy of sciences . 
+ the work focuses on “carbon-based molecular sieves,” made by heating thin layers of materials in such a way as to drive off all the atoms other than carbon, resulting in a charcoal-like substance that has molecule-sized holes. in 2016 researchers at georgia tech and exxon mobil 
+ first demonstrated 
+ that a new carbon-based molecular sieve membrane could successfully separate xylene molecules and extract the super-useful para-xylene from the pack. 
+ now, georgia tech has advanced this work, devising improved carbon barriers that allows the skinnier p-xylene to slip through more rapidly, while rejecting the wider molecules. importantly, the team discovered a powerful relationship between the bonding chemistry of the carbons and the mobility of xylenes through the carbon membranes. 
+ the performance of the carbon membranes — if realized at industrial scales — could significantly lower energy costs compared with refining processes such as the standard crystallization method or adsorption-based method. the former approach involves freezing the xylene molecules in which only the para-xylene forms crystals, making it easy to isolate, but requiring substantial energy investment. the latter approach reduces energy consumption compared to crystallization but requires expensive and complex equipment to operate. the issue with membranes, according to georgia tech researchers, is the approach has only worked well in the lab environment, not in an industrial setting. 
+ “we have made more stable materials by changing the polymer precursor we use. then by changing how we transform the polymer into the carbon, we’ve made the membranes more productive,” said 
+ ryan lively , an associate professor in georgia tech’s  school of chemical & biomolecular engineering  and the paper’s corresponding author. 
+ just how much more productive? the team has shown the new materials can lead to purification systems that are estimated to be “three to six times lower cost than other state-of-the-art methods,” lively said. 
+ lively estimates that separation and purification account for around half the energy consumed in producing commodity chemicals and fuels. globally, the amount of energy used in conventional separation processes for aromatics, for example, benzene toluene, is equal to that produced by about 20 average-sized power plants. 
+ this advancement could have a big impact on petrol chemical energy consumption. the research was funded by exxonmobil and builds on more than 15 years of collaborative research effort between georgia tech and the global oil and gas leader. 
+ “through collaboration with strong academic institutions like georgia tech, we are constantly exploring new, more efficient ways to produce the energy, chemicals, and other products consumers around the world rely on every day," said vijay swarup, vice president of research and development at exxonmobil research and engineering company. 
+ the georgia tech researchers also uncovered new insights regarding the carbon structure itself. the team observed that subtle changes in the ratio of three dimensional to two-dimensional carbon centers in the membrane led to impressively large changes in the mobility of xylene isotherms within that material. they observed that a change in this ratio (the sp3 / sp2 carbon ratio) from 0.2 to 0.7 led to a factor of 1000 increase in the productivity of the membrane. surprisingly, the membrane largely maintained its selectivity, or its ability to do the xylene isomer separation, despite these changes in carbon structure. 
+ “the more three-dimensional carbons are in there, the higher the productivity,” said 
+ m.g. finn , professor and chair of georgia tech’s school of  chemistry and biochemistry 
+ and co-corresponding author on the article. “the more you crank up productivity, while maintaining the same selectivity, the less membrane you need to handle the same amount of xylene feed. from a design perspective, it shows that you have this enormous control over how the membrane works by making very small changes in the carbon chemistry,” finn concluded. 
+ exxonmobil research & engineering funded this research. 
+ citation: yao ma, nicholas c. bruno, fengyi zhang, m. g. finn, and ryan p. lively. “zeolite-like performance for xylene isomer purification using polymer-derived carbon membranes.” pnas (proceedings of the national academy of sciences of the united states of america). 
+ https: / / doi.org / 10.1073 / pnas.2022202118 
+ additional images 
+ contact 
+ anne wainscott-sargent 
+ email 
+ asargent7@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

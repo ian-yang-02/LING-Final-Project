@@ -1,0 +1,46 @@
+'macgyver'-like robot can build own tools by assessing form, function of supplies 
+ the breakthrough is a significant step toward enabling intelligent agents to devise more advanced tools that could prove useful in hazardous and potentially life-threatening environments. 
+ aug 07, 2019 
+ — atlanta, ga 
+ thanks to new technology that enables them to create simple tools, robots may be on the verge of their own version of the stone age. 
+ using a novel capability to reason about shape, function, and attachment of unrelated parts, researchers have for the first time successfully trained an intelligent agent to create basic tools by combining objects. 
+ the breakthrough comes from georgia tech’s 
+ robot autonomy and interactive learning 
+ (rail) research lab and is a significant step toward enabling intelligent agents to devise more advanced tools that could prove useful in hazardous – and potentially life-threatening – environments. 
+ the concept may sound familiar. it’s called “macgyvering,” based off the name of a 1980s — and recently rebooted — television series. in the series, the title character is known for his unconventional problem-solving ability using differing resources available to him. 
+ for years, computer scientists and others have been working to provide robots with similar capabilities. in their new robot-macgyvering work, rail lab researchers led by associate professor 
+ sonia chernova 
+ used as a starting point a robotics technique previously developed by former georgia tech professor 
+ mike stilman . 
+ in this latest work, a robot trained using the team’s novel approach is given a set of optional parts and told to make a specific tool. much like its human counterparts, the robot first examines the shapes of each part and how one might be attached to another. 
+ using machine learning, the robot is trained to match form to function – which object shapes facilitate a particular outcome – from numerous examples of everyday objects. for example, by learning that the concavity of bowls enables them to hold liquids, it makes use of this knowledge when constructing a spoon. similarly, the robots were taught how to attach objects together from examples of materials that could be pierced or grasped. 
+ in the study, researchers successfully created hammers, spatulas, scoops, squeegees, and screwdrivers. 
+ “the screwdriver was particularly interesting because the robot combined pliers and a coin,” said 
+ lakshmi nair , a ph.d. student in the 
+ school of interactive computing 
+ and one of the researchers on the project. “it reasoned that the pliers were able to grasp something and said that the coin sort of matched the head of a screwdriver. put them together, and it creates an effective tool.” 
+ currently, the robot is limited only to the shape and attachment. it cannot yet effectively reason about particular material properties, a crucial step in advancing to a real-world scenario. 
+ [related: robot able to instantly identify household materials using near-infrared light] 
+ “people reason that hammers are sturdy and strong, so you wouldn’t make a hammer out of foam blocks,” nair said. “we want to reach that level of reasoning in our work, which is something we’re working on now.” 
+ the inspiration for the work comes from the popular story of apollo 13, the doomed seventh crewed flight of the apollo space program. after an oxygen tank in the ship’s service module exploded two days into the mission, crew members were forced to make makeshift modifications to the carbon dioxide removal system. 
+ despite a dangerously tight window of time and extremely high tension among all aboard and at mission control, the rescue proved successful. nair and collaborators hope this research will prove foundational to future robotics technology that could reason faster and without the burden of stress. 
+ “they were able to make this filter, but the solution took a long time to come up with,” nair said. “we want to make robots that can assist humans in these kinds of scenarios to take the pressure off of them to come up with innovative solutions and potentially save their lives.” 
+ this work was presented at the 2019 robotics: science and systems conference in a paper titled 
+ autonomous tool construction using part shape and attachment prediction 
+ (lakshmi nair, 
+ nithin shrivatsav , 
+ zackory erickson , sonia chernova). it is supported in part by grants from the 
+ national science foundation 
+ and the 
+ office of naval research . 
+ additional images 
+ related links 
+ robot autonomy and interactive learning lab 
+ robotics and computational perception research at georgia tech 
+ contact 
+ david mitchell 
+ communications officer 
+ david.mitchell@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,30 @@
+New Research Indicates Political Preferences Influence Online Lending Decisions
+Research by Georgia Tech Scheller College of Business faculty member Eric Overby shows political bias exists between investors and borrowers in red or blue states.
+May 25, 2023
+If you need a loan, you might try walking into a bank branch and meeting with a loan officer. But you might also try a peer-to-peer online lending platform such as
+Prosper.com
+or
+Kiva . These platforms publish your loan request and interested investors – individuals or companies – fund your loan. In contrast to a bank loan in which the money comes from the bank, the money in a peer-to-peer loan comes from a group of investors, many of whom may be individuals similar to the borrower. If your credit score looks good and your request is reasonable, you should have no problem attracting investors to fund your loan. But what if attracting investors to your loan depends on whether you live in a “red” or a “blue” state?
+That’s the question two faculty members,
+Eric Overby , Catherine and Edwin Wahlen Professor of Information Technology Management at the Georgia Tech Scheller College of Business, and
+Hongchang Wang , assistant professor of Information Systems at the University of Texas -Naveen Jindal School of Management, investigated in their paper “ Do Political Differences Inhibit Market Transactions? An Investigation in the Context of Online Lending , ” forthcoming in
+Management Science .
+Location and Ideology
+Suppose an investor in Alabama – generally considered a red state – is choosing between two loans to fund. The borrowers have similar profiles, with one living in South Dakota (also a red state) and the other living in Vermont (a blue state). Wang and Overby asked the question: Would the Alabama investor be more likely to fund the South Dakota borrower because they are more likely to share political ideologies and personal worldviews?
+The researchers used data on who lent to whom in the peer-to-peer lending market prosper.com from 2006 to 2011 to study this question. They applied multiple models, including a gravity model and a difference in differences (DID) model that looked at how investors reacted to California’s legalization of same-sex marriage. They found a nuanced effect. Lending offers dropped by as much as 11.6% when the investor’s state was more conservative than the borrower’s state. But when the investor’s state was more liberal than the borrower’s state, there was no significant relationship.
+“When California legalized same-sex marriage, we found that investors from most states reacted by issuing more lending offers to California borrowers, except for investors from states with much more conservative political ideologies,” said Professor Wang.
+“The difference between investors from liberal and conservative states relates to an on-going debate in the psychology literature,” Professor Overby said. “The ‘prejudice gap’ hypothesis posits that conservatives are more intolerant of liberals than vice versa, whereas the ‘ideological conflict’ hypothesis posits that conservatives and liberals are equally intolerant of each other. Our results are consistent with the ‘prejudice gap’ hypothesis.”
+Related, the researchers found that borrowers from states that are more liberal than those of the investors active on the platform were less likely to have their loans funded. As Professor Overby explained, “The negative effect of political distance interfered with the basic function of the platform because fewer loans were getting funded.”
+Experience Matters
+However, the political distance effect was not apparent for experienced investors. As Wang described, “We found that the political distance between a borrower and the group of investors funding the loan doesn’t affect the loan’s repayment performance. It may be that investors learn this as they gain experience, so they stop considering a borrower’s likely political ideology in their lending decisions.”
+Wang and Overby’s research speaks to the negative effects of political polarization. In many cases, those with opposing political ideologies can’t agree on basic facts. The study shows that the negative effects of polarization also apply to peer-to-peer lending, at least for inexperienced investors. But as Overby put it, “The issue we document is not unsolvable. It goes away with experience, likely as investors learn that differences in political ideology don’t predict loan performance. We think education from peer-to-peer lending platforms about the factors that
+do
+predict loan performance can substitute for this experience.”
+Additional Images
+Related links
+Watch the video to hear Dr. Overby talk about his research.
+Contact
+Lorrie Burroughs
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

@@ -1,0 +1,39 @@
+new techniques allow greater control of smartwatches 
+ college of computing researchers control smartwatches with breaths and taps. 
+ 3d-printed flutecase snaps onto a watch to support whoosh. the attachment has eight holes around the bezel, each with varying lengths. when a wearer blows into each of the holes, unique frequencies are generated much like a flute. 
+ jan 24, 2017 
+ — atlanta, ga 
+ smartwatches aren’t the easiest things to control, with their small screens and owners’ bulky fingers. georgia institute of technology researchers have invented new ways to interact that provide a little more control. among their enhancements using lg and sony watches: 
+ scrolling through apps running your fingers along the watch band 
+ launching eight smartwatch apps by tapping key points on the watch case (or bezel) 
+ rejecting phone calls by blowing on the screen or tapping the side of the watch 
+ editing dictated text message errors by breathing on the screen 
+ transferring on-screen information from the watch to a phone with breaths 
+ selecting numbers by tapping the back of your hand 
+ the research was presented at several conferences in the fall, most recently in niagara falls at the 
+ 2016 acm international conference on interactive surfaces and spaces 
+ in november. 
+ ph.d. student 
+ cheng zhang 
+ oversaw watchout, an interaction technique that uses taps and scrolling gestures on the case and watchband, “outside” the watch screen. they’re possible because of the watch’s gyroscope and accelerometer sensors. 
+ “other techniques that improve control of smartwatches have included 3d gestures above the screen, bigger screens or adding an extra armband,” zhang said. “we wanted to show it could be done with existing technology already common on today’s devices.” 
+ one demo app allows wearers to scroll up, down, left and right by swiping on the watchband. according to zhang it makes it easier to interact with gps maps or menus. his study showed that scrolling on rubber watchbands was more accurate than leather bands due to the different friction of the materials. 
+ they also created an app that creates eight touchpoints on the device’s bezel. rather than scrolling through a long list of apps, the user simply hits one of eight spots on the case to launch facebook, for example. hitting the sides of the watch can also control incoming calls. 
+ “smartwatches aren’t very convenient when you’re carrying something,” zhang said. “that’s why we wanted to create a technique that allows the user to tap the watch to accept or deny phone calls. hitting the right side answers the call; the left side ignores it.” 
+ hands-free control is exactly what the other georgia tech team, led by ph.d. student 
+ gabriel reyes , had in mind. one day he watched his wife blow a piece of fuzz off her phone while holding their newborn son. he and a team of students later created whoosh, a technique that allows a person to control the watch by blowing, exhaling, shushing, sipping or puffing on the screen. the watch uses its microphone and machine learning to identify the breath patterns of each acoustic event, then assigns an action to each. 
+ for example, a wearer can shush the watch to ignore a call or blow on it twice to accept. in another scenario, the watch can be locked or unlocked using a correct combination of short or long breaths. voice recognition sometimes produces incorrect words when dictating a text message. blowing quickly on the watch can erase words, while blowing on it longer will send the text message when ready. finally, the technique also works with smartphones. a user can transfer content from the watch to a smartphone simply by sipping it off the watch and puffing it on the phone. 
+ reyes and his team are excited that they’ve proven the technology works. he says it could have potential for people with disabilities. “the sip and puff technique has been used to control wheelchairs,” he said. “perhaps whoosh could be the foundation for developers looking for ways that allow more control for those who can’t easily interact with their mobile and wearable devices.” 
+ dingtian zhang , a ph.d. student and labmate of reyes, also designed a 3d-printed case that snaps onto the watch. the attachment has eight holes around the bezel, each with varying lengths. when a wearer blows into each of the holes, unique frequencies are generated much like a flute. the watch’s microphone and the whoosh system detects the subtle differences in the frequencies produced and identifies the intended target. each target is linked to a specific action within applications. 
+ the final project, tapskin, allows users to tap on the back of their hand to input numbers 0-9 or commands into the watch. the technique uses the watch’s microphone and inertial sensors to detect a total of 11 different tapping locations on a person’s skin around the watch. 
+ additional images 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

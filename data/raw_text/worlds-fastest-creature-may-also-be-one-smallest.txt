@@ -1,0 +1,39 @@
+World’s Fastest Creature May Also be One of the Smallest
+Researchers are studying a tiny single-celled protozoan that achieves blazing-fast acceleration while contracting its worm-like body.
+With support from the National Science Foundation, Georgia Tech researchers are studying Spirostomum ambiguum, a tiny single-celled protozoan that achieves blazing-fast acceleration while contracting its worm-like body. (Credit: Rob Felt, Georgia Tech)
+Aug 07, 2018
+— Atlanta, GA
+Ask most people to identify the fastest animal on Earth and they’ll suggest a cheetah, falcon or even a sailfish. To that list of speedy animals, Georgia Institute of Technology assistant professor Saad Bhamla would like to add the Spirostomum ambiguum, a tiny single-celled protozoan that achieves blazing-fast acceleration while contracting its worm-like body.
+Common to many lakes and ponds, the Spirostomum ordinarily moves about using tiny hairs called cilia. But its claim to speed involves extremely rapid acceleration while contracting its body when startled. The creature can shorten its body by more than 60 percent in a few milliseconds, going from a four-millimeter flat ribbon to the shape of an American football – all without the kind of muscles humans use.
+How it does that, and how it does that without damaging fragile internal structures, is part of a four-year National Science Foundation (NSF) grant Bhamla just received. The physics and mathematics of the answers could help advance nanotechnology and accelerate a new generation of robots barely large enough to see with the naked eye.
+“As engineers, we like to look at how nature has handled important challenges,” said
+Bhamla , who is an assistant professor in Georgia Tech’s
+School of Chemical and Biomolecular Engineering . “We are always thinking about how to make these tiny things that we see zipping around in nature. If we can understand how they work, maybe the information can cross over to fill the gap for small robots that can move fast with little energy use.”
+Human muscles rely on the activity of actin and myosin proteins, but tiny creatures like this protozoan owe their motion to supramolecular springs, latches and motors that more often are found in the mechanical world.
+“If they had only the actin and myosin proteins that make up our muscles, they couldn’t generate enough force to actually move that fast,” Bhamla added. “The smaller they are, the faster they go – up to 200 meters per second squared. That’s really off the charts.”
+Bhamla holds a Ph.D. in chemical engineering from Stanford University, where he was part of a research team studying the world of very small animals. The single-celled creatures he and his collaborators found in ponds and lakes challenged his expectations for what it means to be unicellular.
+“My early biology training suggested that cells were just simple bags of fluid that didn’t do much but make up more interesting tissues,” said Bhamla. “The Spirostomum is completely different from the cells we are accustomed to.”
+As part of the NSF’s joint molecular cell biology (MCB) and Physics of Living Systems (POLS) program, Bhamla and his students are using the language of mathematics and physics to describe the activities of Spirostomum.
+“For instance, we want to know what is the fundamental limit for acceleration in a living cell,” he said. “We want to map out everything this creature is doing and model it in the computer, taking an engineering approach. We want to learn how a single cell achieves such remarkable acceleration and uses molecular springs to amplify its power output.”
+What the researchers learn could be useful to future generations of tiny robots that won’t be able to utilize the technologies for propulsion and grasping common to much larger machines. Beyond the simple mechanical challenges of making very small robots, engineers will have to confront energy density limitations – which the Spirostomum seems to have overcome.
+Robots this small would also be rather fragile, but what the researchers have observed by peering at protozoans is just the opposite.
+“It has internal organelles, DNA and delicate cytoskeletal components inside,” Bhamla noted. “We want to understand how they are not damaged by the rapid compression, because the internal pressures must increase rapidly. This may advance our understanding of how truly robust biological materials are under extreme stresses and pressures. ”
+Protozoans like Spirostomum are found everywhere in bodies of water, and part of the NSF award will fund sharing that tiny world with K-12 students. Already, Bhamla has established a collaboration with Janet Standeven, a science teacher  at the Lambert High School in Forsyth County, north of Atlanta. Five high school students are working this summer in a Georgia Tech lab to learn more about the world of tiny organisms.
+“To find these curious and crazy cells, you don’t need to go far,” said Bhamla. “We just go to a pond, collect samples and look them under a microscope. The sky is the limit on how far you can push this, and high school students are capable of a lot given the right mentorship.”
+This research is supported by the National Science Foundation under award number 1817334. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Assistance : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

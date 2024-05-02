@@ -1,0 +1,85 @@
+Georgia Tech Receives $65 Million Grant from Semiconductor Research Corporation for JUMP 2.0 Centers
+Two new research centers, representing an investment of about $65.7 million, have been awarded to Georgia Tech through the SRC-administrated Joint University Microelectronics Program 2.0, or JUMP 2.0.
+Georgia Tech was awarded $65.7 million to launch two new JUMP 2.0 research centers. Arijit Raychowdhury (left) and Saibal Mukhopadhyay (center) will lead the two centers. Muhannad Bakir (right) is associate director of a third center headquartered at Penn State.
+Jan 05, 2023
+— Atlanta, GA
+Intelligent machines and AI characters that can interact seamlessly and intimately with human beings will have wide-ranging effects on society – in healthcare, search and rescue, business and defense, and even recreation. The technology is not very far off, and a massive national effort, led in part by Georgia Tech researchers, is charting the course.
+Last year, the
+Semiconductor Research Corporation (SRC)
+and the
+Defense Advanced Research Projects Agency (DARPA)
+announced a new program to improve the nation’s information and technology infrastructure. With a global chip shortage, supply chain issues, and other challenges in play, a group of Georgia Tech faculty members jumped at the opportunity to participate.
+Their landing was perfect. Two new research centers, representing an investment of about $65.7 million, have been awarded to Georgia Tech through the SRC-administrated Joint University Microelectronics Program 2.0, or
+JUMP 2.0 .
+JUMP 2.0 will support the work of dozens of inter-disciplinary researchers from multiple universities, tackling the technological issues of an increasingly connected world. The goal is to improve the nation’s performance, efficiency, and capabilities for both commercial and military applications.
+“Georgia Tech won two of the seven centers, which is not only fantastic, but also speaks highly about the breadth and depth of our research enterprise,” said Professor
+Arijit Raychowdhury , the Steve W. Chaddick Chair of the
+School of Electrical and Computer Engineering at Georgia Tech
+and will direct one of the new centers.
+The JUMP 2.0 announcement represents the latest round of significant support advancing AI-related research at Georgia Tech. Last July, Tech received
+two National Science Foundation Artificial Intelligence Research awards totaling $40 million.
+In September, the U.S. Economic Development Administration awarded Georgia Tech
+$65 million to support a statewide initiative
+combining AI and manufacturing innovations with workforce and outreach programs.
+A New Collaborative Chapter
+Launching in 2023, JUMP 2.0 is the next chapter of an SRC-led alliance that formed in 2018 – the original JUMP, with its broad focus on nano-electronic computing.
+JUMP 2.0 is a collaboration between SRC indust­­rial participants (IBM, Intel, Raytheon, TSMC and Samsung, to name a few) and the Department of Defense. The program asked researchers from U.S. universities to solicit proposals for collaborative, multidisciplinary, multi-institute research in seven theme areas: cognition; communications and connectivity; intelligent sensing to action; systems and architectures for distributed computing; intelligent memory and storage; advanced monolithic and heterogenous integration; and high-performance energy efficient devices.
+The two new research centers Georgia Tech, both headquartered within the School of Electrical and Computer Engineering (ECE) are:
+• CoCoSys: Center for the Co-Design of Cognitive Systems (theme area: cognition), under the direction of Raychowdhury;
+• CogniSense: Center on Cognitive Multispectral Sensors (theme area: intelligent sensing to action), under the direction of
+Saibal Mukhopadhyay , Joseph M. Pettit Professor in ECE.
+Semiconductors, or microchips, are basically tiny silicon slices packed with millions of transistors that control electron activity. These chips enable all our electronic devices to work. So, a shortage of semiconductors – or a shortcoming in terms of quality and efficiency – spells trouble for sectors and industries that depend on these little bits of hardware, for example: computing, healthcare, telecommunication, security, transportation, or manufacturing.
+Building a Digital Human
+The goals for the JUMP 2.0 centers are lofty and wide-ranging, addressing current and future needs.
+“In some sense, the question we’re addressing is, ‘how do you build a perfect digital human,’” Raychowdhury said of the Team CoCoSys mission. “We want to learn how to build systems which are aware – capable of interacting as human agents with us. For example, we want AI that can listen to a conversation between two human beings and learn from that and seamlessly merge into society.”
+Current AI, Raychowdhury said, may be able to perform relatively narrow tasks better than a human, but one area that it is much less effective is human-intelligent machine collaboration. This concept has been increasingly researched in recent years as automated virtual assistants and the metaverse have entered the mainstream. As cognitive systems research moves toward creation of a digital human, it will have far-reaching impact in industry and healthcare testing, disaster relief, fully autonomous and collaborative systems, immersive training and gaming experiences, and more.
+“Continuous learning through interactions with humans is missing,” Raychowdhury said. “The next generation of AI needs to comprehend nuances of human interaction, explain, and interpret visual cues and language, and be able to do that in real-time with high energy-efficiency. That’s what we want to address. That’s the meta goal of this center.”
+Three other Georgia Tech faculty researchers, all from ECE, are part of Team CoCoSys:
+Larry Heck ,
+Azad Naeemi , and
+Tushar Krishna .
+“This is a diverse team in all possible ways with expertise across the board,” Raychowdhury said.
+Sensors with a Brain
+The ability to sense is fundamental and probably the most critical component for building an intelligent machine. “It is fundamental to nature,” said Mukhopadhyay. “We have eyes, ears, a nose, and skin to sense the environment around us.”
+The CogniSense Center research team wants to develop sensors that can effectively “perceive” everything around them and, like humans, efficiently attend to the information that really matters.
+Today’s electronics sensors samples everything they “see” and generate abundance of  digital data; sometime way too much for a machine store, process, and make sense. The CogniSense center’s goal is to change this paradigm by learning from biology.
+“In human, sensors and the brain work together to control attention and extract only important information from everything happening around us,” said Mukhopadhyay. “Can we make electronic sensors that behave like that – cognizant and energy efficient?”
+The team he’s assembled is made up of 20 researchers from 12 different institutions, including two other ECE faculty members:
+Justin Romberg
+(associate chair for research in ECE) and
+Muhannad Bakir
+(interim director of the Georgia Tech 3D Systems Packing Research Center).
+“We have a diverse team with expertise in radars, optics, integrated circuits, packaging, signal processing, and artificial intelligence to build these new sensors with a brain,” said Mukhopadhyay.
+Beyond Campus
+Georgia Tech researchers will play critical roles in three other centers based at other universities around the country:
+• PRISM: Center for Processing with Intelligent Storage and Memory
+• ACE: Evolvable Computing for Next-Generation Distributed Computer Systems.
+• CHIMES: Center for Heterogenous Integration of Microelectronic Systems
+CHIMES in particular will feature a large, multi-disciplinary Georgia Tech influence including ECE’s
+Suman Datta ,
+Callie Hao , and
+Shimeng Yu ; George Woodruff School of Mechanical Engineering’s
+Suresh Sitaraman
+and
+Satish Kumar;
+and the center’s associate director, Bakir (doubling up on his JUMP 2.0 responsibilities as a member of both CogniSense and CHIMES).
+“We are delighted in the critical and fundamental role Georgia Tech plays within CHIMES,” said Bakir. “In each of the four research themes that constitute this center, Georgia Tech faculty play a key role. This not only reflects our world class faculty, students, and staff, but also our world-class fabrication, assembly and bonding, and advanced system level prototyping facilities that will be critical in enabling next generation 3D heterogeneous and 3D monolithic circuits and systems.”
+Tech's multidisciplinary research activities related to CHIMES are supported by the
+Institute for Electronics and Nanotechnology (IEN) . Georgia Tech's nanotechnology core facilities, namely the IEN
+Micro/Nanofabrication Facility
+and
+Materials Characterization Facility , support CHIMES and other JUMP 2.0 research activities.
+Establishing all of these new semiconductor research centers is the result of impeccable timing, according to Raychowdhury, who pointed out that ECE broke into the
+top two in national rankings by
+U.S. News and World Report
+rankings for the first time in 2022, not long after President Biden signed the CHIPS and Science Act, which provides about $280 billion in new funding to boost U.S. research and manufacturing of semiconductors.
+“These research centers are part of a confluence of things that are happening simultaneously across the U.S.,” he said. “And they have implications for Georgia Tech, national security, and the independence of our national supply chain as a whole.”
+Additional Images
+Contact
+Writer:
+Jerry Grillo
+Email
+jerry.grillo@ibb.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

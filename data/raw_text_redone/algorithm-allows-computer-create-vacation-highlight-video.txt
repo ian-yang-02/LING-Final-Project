@@ -1,0 +1,17 @@
+algorithm allows a computer to create a vacation highlight video 
+ algorithm allows computer to scan 26 hours of video in three hours to create a highlight reel. 
+ a flowchart of how the process works, from examining 26 hours to video, trimming it to 20 hours, choosing the best visuals and producing the finished product. 
+ mar 10, 2016 
+ — atlanta, ga 
+ researchers at the georgia institute of technology unveiled a novel video-editing solution this week that automatically sorts and edits untouched footage into the most picturesque highlights for a vacation reel that could fill anyone with envy. the new approach is an algorithm – developed by students daniel castro and vinay bettadapura under the guidance of professor irfan essa – that analyzes video for images with ideal artistic properties. it first considers geolocation, then composition, symmetry and color vibrancy to determine what is important or picturesque. video frames with the highest scores are processed into a highlight reel. 
+ see the finished product here . castro and bettadapura conceived the approach after the latter returned from a two-week vacation, driving coast-to-coast across the southern united states. he ended the trip with 26.5 hours of footage from a wearable, head-mounted camera. he had no idea what do with it. “the data was essentially useless because there was just too much of it,” said bettadapura, who completed his ph.d. in the fall and now is a google software engineer. “we liked the idea of being able to automatically generate photo albums from your vacation, algorithmically.” the algorithm turned 26 hours of video into a 38-second highlight reel in three hours.  because bettadapura had worn a head-mounted contour action camera that captured gps data, the algorithm could filter by geographical location. that reduced the footage to 16 hours. shot boundary detection further reduced it into 1,724 video shots or about 10.2 hours of video. it then processed for artistic quality and provided an output of the most picturesque content. processing time is variable and depends on the number of computers used. the algorithm can be adapted to user preferences. “we can tweak the weights in our algorithm based on the user's aesthetic preferences,” bettadapura said. “by incorporating facial recognition, we can further adapt the system to generate highlights that include people the user cares about.” castro and bettadapura presented their findings at wacv 2016: ieee’s winter conference on the applications of computer vision, march 7 in lake placid, n.y. the pair will continue to work together testing the algorithm with multiple participants to help generalize the approach, incorporate facial recognition, and develop data visualization techniques that make it easy to browse and search specific moments. the implications of future, successful tests could echo far beyond their initial work at georgia tech. “this research brings together multiple modalities to more efficiently understand large amounts of data,” said castro, who is completing his ph.d. in computer science and also working as an intern at google. “we are trying to optimize how easy it is to understand all of the data we have in an efficient manner because otherwise it would be impossible to do so.” 
+ additional images 
+ related links 
+ school of interactive computing 
+ contact 
+ tara labouff college of computing marketing communications manager 602-770-0264 
+ email 
+ tlabouff@cc.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

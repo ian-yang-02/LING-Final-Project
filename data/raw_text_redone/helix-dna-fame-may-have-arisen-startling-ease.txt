@@ -1,0 +1,62 @@
+the helix, of dna fame, may have arisen with startling ease 
+ an evolutionary enigma may have just been cracked: explaining how the helix of rna and dna evolved. 
+ artwork for a study led by nick hud and published in angewandte chemie shows the chemical structure of the helix that self-assembled in the lab, producing surprisingly bountiful results. credit: georgia tech / nick hud 
+ jan 23, 2019 
+ — atlanta, ga 
+ trying to explain how dna and rna evolved to form such neat spirals has been a notorious enigma in science. but  a 
+ new study 
+ suggests  the rotation may have occurred with ease billions of years ago when rna’s chemical ancestors casually spun into spiraled strands. 
+ in the lab, researchers at the georgia institute of technology were surprised to see them do it under conditions thought to be common on earth just before first life evolved: in plain water, with no catalysts, and at room temperature. 
+ the neat spiraling also elegantly integrated another compound which today forms the backbone of rna and dna. the resulting structure had features that strongly resembled rna. 
+ pivotal twists 
+ the study has come a step closer to answering a 
+ chicken-egg 
+ question about the evolutionary path that led to rna (from which dna later evolved): did the spiral come first, and did this structure influence which molecular components made it later into rna because they fit well into the spiral? 
+ “the spiraling could have had a reinforcing effect. it could have facilitated the molecules getting connected together that have the same 
+ chirality 
+ (curve) to connect into a common backbone that is compatible with the helical twist,” said the study’s principal investigator nicholas hud,  a regents professor in georgia tech’s school of chemistry and biochemistry . 
+ the researchers published the new study  in the journal  angewandte chemie  in december 2018 . the research was funded by the national science foundation and the nasa astrobiology program under the  center for chemical evolution . the center is headquartered at georgia tech, and hud is its principal investigator. 
+ the study’s resulting polymers were not rna but could be have been an important intermediate step in the early evolution of rna. for building blocks, the researchers used base molecules referred to as “proto-nucleobases,” highly suspected to be precursors of  nucleobases , main components that transport genetic code in today’s rna. 
+ [thinking about grad school?  here's how to apply to georgia tech. ] 
+ nucleobase paradox 
+ the study had to work around a paradox in chemical evolution: 
+ making rna or dna using their actual nucleobases in the lab without the aid of the enzymes of living cells that usually do this job is more than a herculean task. thus, although rna and dna are ubiquitous on earth now, their evolution on pre-life earth would appear to have been an anomaly requiring erratic convergences of extreme conditions. 
+ by contrast, the georgia tech researchers’ model of chemical evolution holds that precursor nucleobases self-assembled easily to into ancestral prototypes -- that were polymer-like and referred to as assemblies -- which later evolved into rna. 
+ “we would call these ‘proto-nucleobases’ or ‘ancestral nucleobases,’” hud said. “for our overall model of chemical evolution, we’re saying that these proto-nucleobases, which self-assemble into these long strands, could have been part of a very early stage before modern nucleobases were incorporated.” 
+ one main suspected proto-nucleobase in this experiment -- and in previous experiments on the possible the evolution of rna -- was  triaminopyrimidine (tap) .  cyanuric acid (ca)  was another. the researchers highly suspect tap and ca were parts of a proto-rna. 
+ the chemical bonds that hold together assemblies of the two suspected proto-nucleobases were surprisingly strong but  non-covalent , which is akin to connecting two magnets. in rna the main bonds holding together modern nucleobases are  covalent bonds , akin to welding, and enzymes make those bonds in cells today. 
+ helical biases 
+ a helix can spiral two ways, left-handed or right-handed. in chemistry, a molecule can also be handed, or  chiral , making for “l” or “d” forms of the molecule. 
+ incidentally, the building blocks of today’s rna and dna are all the d form, which make a right-handed helix. why they evolved like this is still a mystery. 
+ batches of tap and ca the researchers started out with produced roughly equal amounts of right and left-handed helices, but something stood out: whole regions of a batch were biased in one direction and were separate from other regions that spiraled mostly the other way. 
+ “the propensity for the molecules to choose one helical direction was so strong that large regions of the batches were made up predominantly of assemblies that were unidirectionally twisted,” hud said. 
+ this was surprising because the individual molecules of tap and ca had no chirality of their own, neither l nor d. still, the twists had a preferred direction. 
+ ‘world record’ 
+ the researchers added two more experiments to test how strongly their rna-like assemblies preferred making one-handed helices. 
+ first, they introduced a smidgeon of compounds similar to tap and ca, but which had l or d chirality, to nudge the spiraling direction. the whole batch conformed to the chirality of the respective additive, resulting in assemblies twisting in a unified direction as helices do in rna and dna today. 
+ “it was the new world record for the smallest amount of a chiral dopant (additive) that would flip a whole solution,” said  suneesh karunakaran , the study’s first author and a graduate researcher in hud’s lab. “this demonstrated how easy it would be in nature to get abundant amounts of unified helices.” 
+ second, they put the sugar compound  ribose-5-phosphate  together with tap to more closely emulate the current building blocks of rna. the ribose fell into place, and the resulting assembly spiraled in a direction dictated by the ribose chirality. 
+ “this molecule easily formed an rna-like assembly that was surprisingly stable, even though the pieces were only held together by non-covalent bonds,” karunakaran said. 
+ evolution revolution 
+ the study’s results under such simple conditions represent a leap forward in experimental evidence for how the helical twist of biomolecules could have already been in place long before life emerged. 
+ the research also expands a growing body of evidence supporting an unconventional hypothesis by the center for chemical evolution, which dispenses with the need for a narrative that rare cataclysms and unlikely ingredients were necessary to produce life’s early building blocks. 
+ instead, most biomolecules likely arose in several gradual steps, on quiet, rain-swept dirt flats or lakeshore rocks lapped by waves. precursor molecules with the right reactivity enabled those steps readily and produced abundant materials for further evolutionary steps. 
+ basement engineer 
+ in the lab, helix self-assemblage was so productive that it outstripped a detection device’s capacity to examine the output. regions a square millimeter or more in size were packed with unidirectionally spiraled polymer-like assemblies. 
+ “to look at them i had to make adjustments to the equipment,” said karunakaran. “i punched holes in a foil and put it in front of the beam of our spectropolarimeter.” 
+ that worked but needed improvement, so hud took to his basement at home to build an automated scanner that could handle the experiment’s bountiful results. it revealed large regions of helices with the same handedness. 
+ also read : 
+ this actually happened: strip all the lynchpins from the ribosome and it still works 
+ brian j. cafferty, angela weigert-muñoz and gary b. schuster of georgia tech co-authored the research. it was funded by the national science foundation and the nasa astrobiology program under the nsf center for chemical evolution (grant che-1504217). nicholas hud is also associate director of the parker h. petit institute for bioengineering and bioscience. any findings, recommendations or conclusions are those of the authors and not necessarily of the funding agencies. 
+ media relations assistance : ben brumfield 
+ (404) 660-1408 
+ ben.brumfield@comm.gatech.edu 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ writer:  ben brumfield 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

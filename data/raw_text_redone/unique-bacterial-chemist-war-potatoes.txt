@@ -1,0 +1,80 @@
+unique bacterial chemist in the war on potatoes 
+ a bacterial warrior the only one of its kind? this enzyme is "wacko" in the ways it breaks down a poison related to tnt. 
+ a bacterial warrior the only one of its kind? this enzyme is "wacko" in many ways in its breakdown of a poison related to tnt. on top of that, 5naa-a is known so far only to exist in a single living organism on earth. could it be the lone master of a rare bacterial enzymatic kung fu, in the war on potatoes? or does a genomic clue point to its existence in one other solitary case? 
+ oct 03, 2016 
+ — atlanta, ga 
+ in fertile farm soils where potatoes grow, 
+ streptomyces scabies 
+ bacteria wage war using chemicals related to explosives and pesticides. 
+ but a microbial spoiler defuses one of 
+ s. scabies ’ poisons. researchers at the georgia institute of technology have gained new insights into a one-of-a-kind mechanism it employs, which could someday contribute to the development of new agents to degrade tough pollutants and help rescue crops. 
+ when 
+ s. scabies 
+ infects potatoes, it spews poisons called thaxtomins, which riddle potatoes with familiar dark scabs. perhaps a trifle to the potato connoisseur excising them with a paring knife, on a global scale, the blemishes add up to a slash in agricultural production. 
+ unprecedented moves 
+ scientists investigating potato soil found that bacteria of the species 
+ bradyrhizobium sp. js329 
+ run interference. though their tough enzymes don’t break down thaxtomins, they do render innocuous another 
+ s. scabies 
+ toxic secretion called 
+ 5-nitroanthranilic acid 
+ (5-naa). 
+ still, understanding how it is broken down could prove useful to agriculture. “the 5naa molecule is similar enough to thaxtomin that studying its degradation might inspire future work to engineer an enzyme or bacterium, or even the plant itself, to detoxify thaxtomin,” lieberman said. 
+ one enzyme in particular uses seemingly unprecedented and spectacular chemical tricks to tear apart 5-naa’s otherwise ironclad chemical structure. 
+ researchers uncovered them and published the results in the 
+ journal nature chemical biology on monday, october 3, 2016 . the research was funded by the national science foundation, pew charitable trusts, georgia internship for teachers, and the u.s. department of energy. 
+ chemical warfare 
+ s. scabies 
+ bacteria are masters of chemical warfare, and not just against potatoes. 
+ “this family of bacteria is known for the ability to synthesize lots of different molecules, including ones that humans use as antibiotics,” said senior researcher 
+ raquel lieberman, an associate professor 
+ at georgia tech’s 
+ school of chemistry and biochemistry . 
+ “they’re good at killing other organisms,” she said. though the thaxtomins they secrete are well-known for marring potatoes, little is known about toxin 5naa. 
+ enzymatic kung fu 
+ 5naa has met its match in bacterium bradyrhizobium sp. js329, which we’ll call “brady” for short. 
+ “brady” produces enzymes that can combat 5naa, the first of which is called 5naa-a. the added “a” after the dash stands for “aminohydrolase,” a term that means it uses water to alter part of toxin 5naa. 
+ the “substitution reaction” that enzyme 5naa-a carries out is common in organic synthesis, but extremely rare in living things. “there’s only one other known enzyme confirmed to utilize this particular chemical mechanism,” lieberman said. 
+ lieberman’s team, which specializes in making protein crystals of enzymes like 5naa-a, observed the moment of the ensuing reaction.  “we were able to capture the critical step (hydrolysis) in the crystal for this paper,” she said. 
+ “it does this wacko chemical reaction,” lieberman said. 5naa-a helps destroy toxin 5naa in two ways that are like outlandish kung fu moves. 
+ breaking the wrong arm 
+ toxin 5naa enters the “brady” bacterium with a deadly weapon. a nitro group, or no2, is part of its structure, which makes 5naa a nitroaromatic compound. 
+ “basically, all these nitroaromatics are either explosive or toxic,” lieberman said. “ tnt 
+ is not that different from this compound.” 
+ plenty of bacteria have evolved enzymes to tackle synthetic nitroaromatics -- pollutants like dyes, pesticides or explosives that have been dumped in our environment. the enzymes tend to use the same strategy. “the nitro groups are typically the first target of any degrading enzyme, because they are so toxic,” lieberman said. 
+ not so for enzyme 5naa-a. 
+ it goes after another group on the toxic molecule, the amine, which is innocuous. it’s like a kung fu master breaking the arm opposite of the one with the weapon. but it works. 
+ by hydrolyzing the amine, enzyme 5naa-a sets up toxin 5naa for destruction by other enzymes.  “the fact that it does it without removing the nitro is the weird part. it’s an unexpected move,” lieberman said. 
+ kryptonite suicide 
+ then there’s the weirdness around metal. 
+ 5naa-a is a metalloprotease, an enzyme that needs a metal ion to do its work.  but unlike other metalloproteases, it doesn’t have one embedded in it.  it can operate with one of four different metals, but 5naa-a can’t seem to find the metal on its own. 
+ “it relies on 5naa to bring it to the party,” lieberman said. 
+ in other words, poison 5naa seems to tow a metal ion up to enzyme 5naa-a, which then takes it away and uses it to destroy the poison. it’s like superman handing off kryptonite to an arch enemy. 
+ “at least that’s very much what we think is happening,” lieberman said.  “we’re going to investigate the details further.” 
+ solitary master 
+ the sum of 5naa-a’s weird ways led lieberman’s team to check an enormous genome database for matches of the gene sequence that can produce an enzyme like 5naa-a.  they found only one single known other example on earth. 
+ “that enzyme gene sequence comes from sediment in yellowstone national park,” lieberman said. it is not yet confirmed that bacteria housing it actually detoxify 5naa, though it’s likely. 
+ even if it does, enzyme 5naa-a remains uncommonly rare, given the myriad microbes on earth producing an even higher number of enzymes. “the fact that there may just be one other is mind-boggling,” lieberman said. 
+ high school researchers 
+ in another rarity, a high school science teacher is one of the authors on the research paper. 
+ casey bethel , who was named 
+ georgia teacher of the year for 2017 , helped the other researchers break through a barrier that was holding up progress. 
+ “we use so-called tags to identify the enzyme we’re interested in when we go to harvest it. we suspected the tags were interfering in the crystallization process,” bethel said. so, he cloned the proteins with removable tags, which significantly helped the project move forward. 
+ bethel participates in georgia tech’s 
+ main k-12 outreach, ceismc , which, among other things, boosts stem education among underserved populations in georgia public schools. and for three years, ceismc has helped him improve his teaching skills. 
+ bethel has also 
+ brought high school students to work in lieberman’s lab with him . he’s thrilled that he -- and they -- could be a part of the study. “fantastical! unimaginable! who’d think that a high school teacher would be published in a nature journal?” bethel said. 
+ since starting with georgia tech’s outreach, bethel has seen at least 60 of his former students choose stem studies and careers. “whereas before, the number was close to zero,” he said. “it’s indescribable. it’s momentous, magnificent and impactful. i’ll never be able to measure the impact.” 
+ read: georgia tech's major outreach to k12 students 
+ read: hairy nanorods and the fight against cancer 
+ former georgia tech researchers sibel kalyoncu and david p. heaner jr. were the paper’s main authors; zohre kurt, casey m. bethel, chiamaka ukachukwu, srinivas chakravarthy and jim c. spain, all from georgia tech coauthored the paper. the research was funded by the national science foundation (career award 0845445), and the u. s. department of energy, office of science, office of basic energy sciences (contract w-31-109-eng-38). 
+ additional images 
+ contact 
+ writer and contact: ben brumfield 
+ research news 
+ (404) 660-1408 
+ email 
+ ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,45 @@
+‘SlothBot in the Garden’ Demonstrates Hyper-Efficient Conservation Robot
+Visitors to the Atlanta Botanical Garden can observe the testing of SlothBot, a new high-tech tool in the battle to save some of the world’s most endangered species.
+SlothBot is a slow-moving and energy-efficient robot that can linger in the trees to monitor animals, plants, and the environment below. It has been installed for testing in the Atlanta Botanical Garden. (Credit: Rob Felt, Georgia Tech)
+Jun 16, 2020
+— Atlanta, GA
+For the next several months, visitors to the
+Atlanta Botanical Garden
+will be able to observe the testing of a new high-tech tool in the battle to save some of the world’s most endangered species. SlothBot, a slow-moving and energy-efficient robot that can linger in the trees to monitor animals, plants, and the environment below, will be tested near the Garden’s popular Canopy Walk.
+Built by robotics engineers at the Georgia Institute of Technology to take advantage of the low-energy lifestyle of real sloths, SlothBot demonstrates how being slow can be ideal for certain applications. Powered by solar panels and using innovative power management technology, SlothBot moves along a cable strung between two large trees as it monitors temperature, weather, carbon dioxide levels, and other information in the Garden’s 30-acre midtown Atlanta forest.
+“SlothBot embraces slowness as a design principle,” said
+Magnus Egerstedt , professor and Steve W. Chaddick School Chair in the Georgia Tech
+School of Electrical and Computer Engineering . “That’s not how robots are typically designed today, but being slow and hyper-energy efficient will allow SlothBot to linger in the environment to observe things we can only see by being present continuously for months, or even years.”
+About three feet long, SlothBot’s whimsical 3D-printed shell helps protect its motors, gearing, batteries, and sensing equipment from the weather. The robot is programmed to move only when necessary, and will locate sunlight when its batteries need recharging. At the Atlanta Botanical Garden, SlothBot will operate on a single 100-foot cable, but in larger environmental applications, it will be able to switch from cable to cable to cover more territory.
+“The most exciting goal we’ll demonstrate with SlothBot is the union of robotics and technology with conservation,” said
+Emily Coffey , vice president for conservation and research at the Garden. “We do conservation research on imperiled plants and ecosystems around the world, and SlothBot will help us find new and exciting ways to advance our research and conservation goals.”
+Supported by the National Science Foundation and the Office of Naval Research, SlothBot could help scientists better understand the abiotic factors affecting critical ecosystems, providing a new tool for developing information needed to protect rare species and endangered ecosystems.
+“SlothBot could do some of our research remotely and help us understand what’s happening with pollinators, interactions between plants and animals, and other phenomena that are difficult to observe otherwise,” Coffey added. “With the rapid loss of biodiversity and with more than a quarter of the world’s plants potentially heading toward extinction, SlothBot offers us another way to work toward conserving those species.”
+Inspiration for the robot came from a visit Egerstedt made to a vineyard in Costa Rica where he saw two-toed sloths creeping along overhead wires in their search for food in the tree canopy. “It turns out that they were strategically slow, which is what we need if we want to deploy robots for long periods of time,” he said.
+A few other robotic systems have already demonstrated the value of slowness. Among the best known are the Mars Exploration Rovers that gathered information on the red planet for more than a dozen years. “Speed wasn’t really all that important to the Mars Rovers,” Egerstedt noted. “But they learned a lot during their leisurely exploration of the planet.”
+Beyond conservation, SlothBot could have applications for precision agriculture, where the robot’s camera and other sensors traveling in overhead wires could provide early detection of crop diseases, measure humidity, and watch for insect infestation. After testing in the Atlanta Botanical Garden, the researchers hope to move SlothBot to South America to observe orchid pollination or the lives of endangered frogs.
+The research team, which includes Ph.D students Gennaro Notomista and Yousef Emam, undergraduate student Amy Yao, and postdoctoral researcher Sean Wilson, considered multiple locomotion techniques for the SlothBot. Wheeled robots are common, but in the natural world they can easily be defeated by obstacles like rocks or mud. Flying robots require too much energy to linger for long. That’s why Egerstedt’s observation of the wire-crawling sloths was so important.
+“It’s really fascinating to think about robots becoming part of the environment, a member of an ecosystem,” he said. “While we’re not building an anatomical replica of the living sloth, we believe our robot can be integrated to be part of the ecosystem it’s observing like a real sloth.”
+The SlothBot launched in the Atlanta Botanical Garden is the second version of a system originally reported in May 2019 at the International Conference on Robotics and Automation. That robot was a much smaller laboratory prototype.
+Beyond their conservation goals, the researchers hope SlothBot will provide a new way to stimulate interest in conservation from the Garden’s visitors. “This will help us tell the story of the merger between technology and conservation,” Coffey said. “It’s a unique way to engage the public and bring forward a new way to tell our story.”
+And that should be especially interesting to children visiting the Garden.
+“This new way of thinking about robots should trigger curiosity among the kids who will walk by it,” said Egerstedt. “Thanks to SlothBot, I’m hoping we will get an entirely new generation interested in what robotics can do to make the world better.”
+This research was sponsored by the U.S. Office of Naval Research through Grant N00014-15-2115 and by the National Science Foundation through Grant 1531195. The content is solely the responsibility of the authors and does not necessarily represent the official views of the sponsoring agencies.
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contacts : John Toon, Georgia Tech (404-894-6986) (jtoon@gatech.edu); Danny Flanders, Atlanta Botanical Garden (404-591-1550) (dflanders@atlantabg.org).
+Writer : John Toon
+UPDATED STORY:
+After 13 months in the "wild," SlothBot comes down.  (College of Engineering)
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

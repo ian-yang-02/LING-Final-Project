@@ -1,0 +1,45 @@
+study finds “lurking malice” in cloud hosting services 
+ a study of 20 major cloud hosting services has found that as many as 10 percent of the repositories hosted by them had been compromised. 
+ this map shows locations where the impacts of bad repositories (bars) occur. (credit: xiaojing liao, georgia tech) 
+ oct 19, 2016 
+ — atlanta, ga 
+ a study of 20 major cloud hosting services has found that as many as 10 percent of the repositories hosted by them had been compromised – with several hundred of the “buckets” actively providing malware. such bad content could be challenging to find, however, because it can be rapidly assembled from stored components that individually may not appear to be malicious. 
+ to identify the bad content, researchers created a scanning tool that looks for features unique to the bad repositories, known as “bars.” the features included certain types of redirection schemes and “gatekeeper” elements designed to protect the malware from scanners. researchers from the georgia institute of technology, indiana university bloomington and the university of california santa barbara conducted the study. 
+ believed to be the first systematic study of cloud-based malicious activity, the research will be presented october 24 at the acm conference on computer and communications security in vienna, austria.  the work was supported in part by the national science foundation. 
+ “bad actors have migrated to the cloud along with everybody else,” said 
+ raheem beyah , a professor in georgia tech’s 
+ school of electrical and computer engineering . “the bad guys are using the cloud to deliver malware and other nefarious things while remaining undetected. the resources they use are compromised in a variety of ways, from traditional exploits to simply taking advantage of poor configurations.” 
+ beyah and graduate student xiaojing liao found that the bad actors could hide their activities by keeping components of their malware in separate repositories that by themselves didn’t trigger traditional scanners. only when they were needed to launch an attack were the different parts of this malware assembled. 
+ “some exploits appear to be benign until they are assembled in a certain way,” explained beyah, who is the motorola foundation professor and associate chair for strategic initiatives and innovation in the school of electrical and computer engineering. “when you scan the components in a piecemeal kind of way, you only see part of the malware, and the part you see may not be malicious.” 
+ in the cloud, malicious actors take advantage of how difficult it can be to scan so much storage. operators of cloud hosting services may not have the resources to do the deep scans that may be necessary to find the bars – and their monitoring of repositories may be limited by service-level agreements. 
+ while splitting the malicious software up helped hide it, the strategy also created a technique for finding the “bad buckets” hosting it, beyah said. many of the bad actors had redundant repositories connected by specific kinds of redirection schemes that allowed attacks to continue if one bucket were lost. the bad buckets also usually had “gatekeepers” designed to keep scanners out of the repositories, and where webpages were served, they had simple structures that were easy to propagate. 
+ “we observed that there is an inherent structure associated with how these attackers have set things up,” he explained. “for instance, the bad guys all had bodyguards at the door. that’s not normal for cloud storage, and we used that structure to detect them.” 
+ the researchers began by studying a small number of known bad repositories to understand how they were being used. based on what they learned, they created “barfinder,” a scanner tool that automatically searches for and detects features common to the bad repositories. 
+ overall, the researchers scanned more than 140,000 sites on 20 cloud hosting sites and found about 700 active repositories for malicious content. in total, about 10 percent of cloud repositories the team studied had been compromised in some way. the researchers notified the cloud hosting companies of their findings before publication of the study. 
+ “it’s pervasive in the cloud,” said beyah. “we found problems in every last one of the hosting services we studied. we believe this is a significant problem for the cloud hosting industry.” 
+ in some cases, the bad actors simply opened an inexpensive account and began hosting their software. in other cases, the malicious content was hidden in the cloud-based domains of well-known brands. intermingling the bad content with good content in the brand domains protected the malware from blacklisting of the domain. 
+ beyah and liao saw a wide range of attacks in the cloud hosted repositories, ranging from phishing and common drive-by downloads to fake antivirus and computer update sites. “they can attack you directly from these buckets, or they can redirect you to other malicious buckets or a series of malicious buckets,” he said. “it can be difficult to see where the code is redirecting you.” 
+ to protect cloud-based repositories from these attacks, beyah recommends the usual defenses, including patching of systems and proper configuration settings. 
+ looking ahead, the researchers hope to make barfinder available to a broader audience. that could include licensing the technology to a security company, or making it available as an open-source tool. 
+ “attackers are very clever, and as we secure things and make the cloud infrastructure more challenging for them to attack, they will move onto something else,” he said. “in the meantime, every system that we can secure makes the internet just a little bit safer.” 
+ read about other 
+ georgia tech presentations 
+ at the acm conference on computer and communications security. 
+ this work was supported in part by the national science foundation (grants cns-1223477, 1223495, 1527141 and 1618493). any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the national science foundation. 
+ citation : xiaojing liao, et al., “lurking malice in the cloud: understanding and detecting cloud repository as a malicious service,” acm conference on computer and communications security (ccs). 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (ben.brumfield@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

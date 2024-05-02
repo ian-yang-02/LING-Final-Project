@@ -1,0 +1,47 @@
+simple, low-cost ventilator builds on available resuscitation bags 
+ a simple, low-cost ventilator based on the resuscitation bags carried in ambulances has been designed and tested. 
+ a simple, low-cost ventilator based on the resuscitation bags carried in ambulances – and widely available in hospitals – has been designed by an international team of university researchers.  (credit: steven norris, georgia tech) 
+ apr 06, 2020 
+ — atlanta, ga 
+ a simple, low-cost ventilator based on the resuscitation bags carried in ambulances – and widely available in hospitals – has been designed by an international team of university researchers. the device, which is powered by a 12-volt motor, could help meet peak medical demands in the industrialized world and serve resource-constrained countries that don’t have supplies of conventional ventilators. 
+ “the high transmission rate and debilitating respiratory consequences of covid-19 are creating an unmet demand for ventilators worldwide. it is heartwarming to see u.s. manufacturers open-source some of their fda-approved designs to stimulate production.” said 
+ susan margulies , chair of the 
+ wallace h. coulter department of biomedical engineering at georgia tech and emory university , an expert in ventilator-associated lung injuries. “our strategy to rapidly expand the supply of ventilators focuses on a simple, low-cost design based on common resuscitation bags carried by ambulances.” 
+ the device, which can serve two patients simultaneously, can be produced from inexpensive metal stock and plastic gearing. power comes from standard wall adapters or 12-volt vehicle batteries. the research team is working with the 
+ emory university office of technology transfer 
+ to move the design into manufacturing. 
+ “we are adapting the bag-valve-mask (bvm) resuscitators that are already in place, designed to be manually squeezed for reviving a patient,” said 
+ shannon yee , an associate professor in 
+ georgia tech’s george w. woodruff school of mechanical engineering . “we are providing the mechanical assist that allows the bags to be squeezed continuously for days rather than for short periods of time. we are using infrastructure already in place.” 
+ the device was designed at cranfield university in the united kingdom and built and tested at georgia tech in collaboration with emory university. at cranfield, 
+ professor leon williams , head of the 
+ centre for competitive creative design , specializes in rapid prototyping, and has been iterating the designs with researchers in atlanta. 
+ “we have paid special attention to the requirements of medical specialists to ensure that the system is fit for the purpose,” said williams. “for example, we have ensured that the operator of the system is able to manually adjust the tidal volume – the volume of air delivered to the lungs with each breath – to safeguard the patient.” 
+ yee said the device is intended to meet the critical needs created by the covid-19 pandemic. 
+ “what’s unique about our design is that we have two bvm’s per ventilator, which allows two people to breathe with each device that is built,” yee said. “our goal was to provide the bare essentials for a ventilator to help with patients who have covid-19 or acute respiratory distress syndrome.” 
+ though each emergency ventilator can serve two patients simultaneously, their air flow is separate to avoid cross-contamination. flow volumes can be controlled independently to meet the needs of each patient. 
+ in addition to yee and williams, kyle azevedo, a research engineer with the 
+ georgia tech research institute (gtri) , has been supporting quality control and test procedures for the device, collaborating with gtri researchers jonathan holmes and wiley holcombe. a small batch of the devices has already been assembled for bench testing and shared with georgia hospitals for evaluation. 
+ “we believe these devices can be mass manufactured in quantities that make a tangible impact on ventilator shortages nationally or worldwide,” azevedo said. “leveraging the bvm resuscitators reduces the need for complex electronics, and most of the parts can be cut from flat stock or 3d printed. actuation is via a simple dc motor and regulator, which are widely available.” 
+ gtri has experience with bringing concepts to reality, and is advising on manufacturing scale-up for the devices. “it’s very important to pay attention to design for mass manufacture,” he said. 
+ the automated bvm ventilation system has been designed for use in emergency situations where all other ventilators are occupied, or in resource-restricted areas where traditional ventilators are simply not available. the systems are intended to be used on a temporary basis until a conventional ventilator becomes available. 
+ the system is designed to be inexpensive to produce. “the bvm system is purposely designed to be modular and reconfigurable,” williams said. “if we need to make further improvements to the system over time, this is possible.” 
+ because it is intended for global production and use, the bvm ventilator design emphasized using as few parts as possible, yee said. the ventilator can supply oxygen from a hospital’s built-in supply system, or from a portable oxygen generator. the device must be used in conjunction with a pulse oximeter or other device that reliably provides a real-time reading of patient oxygen levels. 
+ “we designed the ventilator to be simple to make, cut from sheets of steel,” yee explained. “kits can be assembled and packaged flat for shipping, then reassembled where needed. the manufacturing requires skills that are readily available, and hand tools could even be used.” 
+ with just a few weeks until the demand for medical support from ventilators is expected to peak in some hard-hit communities, the researchers understand the race against time to get their engineering drawings out to manufacturers. “we really need to get this out to people,” yee said. “time is of the essence.” 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : georgia tech - john toon (404-894-6986) ( jtoon@gatech.edu ); cranfield university – ( mediarelations@cranfield.ac.uk ) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,24 @@
+GlobalProtect VPN to Replace Cisco AnyConnect
+Users are being asked to transition from AnyConnect to the GlobalProtect VPN service in a phased approach.
+Staff member using MacBook Pro at Georgia Tech
+Dec 13, 2021
+— Atlanta, GA
+As a component of Georgia Tech's  Endpoint Compliance Campaign , the Office of Information Technology will sunset the Cisco AnyConnect-based virtual private network (VPN) service at the end of the academic year. Users are being asked to transition from AnyConnect to the GlobalProtect VPN service in a phased approach.
+GlobalProtect is a client and clientless-based remote access VPN solution, which offers a higher capacity and higher performance VPN solution.
+Phases for the transition are as follows:
+IT Community: Nov. 2, 2021
+Faculty/Staff/Employees: Dec. 21, 2021
+Students/Other Users: May 10, 2022
+Access to Cisco AnyConnect VPN for faculty and staff will be disabled on Tuesday, Dec. 21. Before this time, Georgia Tech employees are encouraged to install and begin using GlobalProtect VPN offered at  vpn.gatech.edu . Instructions can be found at
+KB0026837 .
+If you require assistance or have any issues with GlobalProtect, please submit a  Technology Help Request .
+Additional Images
+Contact
+Courtney Hill
+Communications Officer II
+Office of Information Technology
+Email
+courtney.hill@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

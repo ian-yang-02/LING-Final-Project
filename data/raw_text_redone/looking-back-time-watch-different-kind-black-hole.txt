@@ -1,0 +1,42 @@
+looking back in time to watch for a different kind of black hole 
+ a new simulation may help astronomers watch for signals indicating the formation of black holes in early galaxies. 
+ image is a simulated uv false-color image showing heated gas spiraling into the black hole in the center. (credit: georgia tech) 
+ sep 20, 2018 
+ — atlanta, ga 
+ black holes form when stars die, allowing the matter in them to collapse into an extremely dense object from which not even light can escape. astronomers theorize that massive black holes could also form at the birth of a galaxy, but so far nobody has been able to look far enough back in time to observe the conditions creating these direct collapse black holes (dcbh). 
+ the james webb space telescope, scheduled for launch in 2021, might be able look far enough back into the early universe to see a galaxy hosting a nascent massive black hole. now, a simulation done by researchers at the georgia institute of technology has suggested what astronomers should look for if they search the skies for a dcbh in its early stages. 
+ the first-of-its-kind simulation, reported september 10 in the journal nature astronomy, suggests that direct formation of these black holes would be accompanied by specific kinds of intense radiation, including x-rays and ultraviolet emission that would shift to infrared by the time they reach the telescope. the black holes would also likely spawn massive metal-free stars, a finding that was unexpected. 
+ the research was supported by nasa, the los alamos national laboratory, the national science foundation, the southern regional education board and two hubble theory grants. 
+ “there are supermassive black holes at the center of many large galaxies, but we haven’t been able to observe the way they form or how they got that large,” said kirk s. s. barrow, the paper’s first author and a recent ph.d. graduate of georgia tech’s school of physics. “scientists have theorized that these supermassive black holes could have formed at the birth of a galaxy, and we wanted to turn these theoretical predictions into observational predictions that could be seen by the james webb space telescope.” 
+ dcbh formation would be initiated by the collapse of a large cloud of gas during the early formation of a galaxy, said 
+ john h. wise , a professor in georgia tech’s 
+ school of physics 
+ and the center for relativistic astrophysics. but before astronomers could hope to catch this formation, they would have to know what to look for in the spectra that the telescope could detect, which is principally infrared. 
+ the formation of a black hole could require a million years or so, but to envision what that might have looked like, former postdoctoral researcher aycin aykutalp – now at los alamos national laboratory – used the national science foundation-supported stampede supercomputer at the university of texas at austin to run a simulation focusing on the aftermath of dcbh formation. the simulation used physics first principles such as gravity, radiation and hydrodynamics. 
+ “if the galaxy forms first and then the black hole forms in the center, that would have one type of signature,” said wise, who is the dunn family associate professor in the school of physics. “if the black hole formed first, would that have a different signature? we wanted to find out whether there would be any physical differences, and if so, whether that would translate into differences we could observe with the james webb space telescope.” 
+ the simulations provided information such as densities and temperatures, and barrow converted that data into predictions for what might be observed through the telescope – the light likely to be observed and how it would affected by gas and dust it would have encountered on its long journey to earth. “at the end, we had something that an observer could hopefully see,” barrow said. 
+ black holes take about a million years to form, a blip in galactic time. in the dcbh simulation, that first step involves gas collapsing into a supermassive star as much as 100,000 times more massive than our sun. the star then undergoes gravitational instability and collapses into itself to form a massive black hole. radiation from the black hole then triggers the formation of stars over period of about 500,000 years, the simulation suggested. 
+ “the stars of this first generation are usually much more massive, so they live for a shorter period of time,” wise said. “in the first five to six million years after their formation, they die and go supernova. that’s another one of the signatures that we report in this study.” 
+ after the supernovae form, the black hole quiets down but creates a struggle between electromagnetic emissions – ultraviolet light and x-rays trying to escape – and the black hole’s own gravity. “these cycles go on for another 20 or 30 million years,” wise said. 
+ black holes are relatively common in the universe, so the hope is that with enough snapshots, astronomers could catch one being born, and that could lead to a new understanding of how galaxies evolve over time. 
+ star formation around the dcbh was unexpected, but in hindsight, it makes sense, barrow said. the ionization produced by the black holes would produce photochemical reactions able to trigger the formation of the stars. metal-free stars tend to be larger than others because the absence of a metal such as iron prevents fragmentation. but because they are so large, these stars produce tremendous amounts of radiation and end their lives in supernovae, he said. 
+ “this is one of the last great mysteries of the early universe,” barrow said. “we hope this study provides a good step toward figuring out how these supermassive black holes formed at the birth of a galaxy.” 
+ this research was supported by a southern regional education board doctoral fellowship, a lanl ldrd exploratory research grant 20170317er, national science foundation (nsf) grants ast-1333360 and ast-1614333, hubble theory grants hst-ar-13895 and hst-ar-14326, and nasa grant nnx-17ag23g. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations. 
+ citation : kirk s. s. barrow, aycin aykutalp & john h. wise, “observational signatures of massive black hole formation in the early universe,” (nature astronomy, 2018). 
+ https: / / doi.org / 10.1038 / s41550-018-0569-y 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu). 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

@@ -1,0 +1,27 @@
+Advanced Systems Packaging at Georgia Tech: The Leader in US Academic Research for 3 Decades
+Professor Rao Tummala and his PRC Team Advance System-On -Package Vs. System-on- Chip Vision as Moore’s Law Reaches its Limit
+History of PRC &amp; Rao Tummala, Professor Emeritus
+May 14, 2021
+— Atlanta, GA
+When Rammohana Rao Tummala, the son of a farmer, left his village in Andhra Pradesh for engineering school, he knew he was a first. The first in his family to achieve higher education, attending Andhra Loyola College in Vijayawada, then the top ranked Indian Institute of Science, Bangalore. He then became the first in his family to leave India for his M.S. degree in Canada and later attained his Ph.D. at the University of Illinois. Now recognized as the father of modern microelectronics packaging innovations, he did not know when he took that first leap across continents, how many times, and in how many ways, he would be a first.
+In 1969, Tummala began his career at IBM in New York where he invented and led two major technologies: industry’s first gas panel plasma display and industry’s first 100-chip package .  “My claim to fame at IBM is heading the materials team that invented the first plasma display and manufacturing it. IBM made a fortune with it. An even bigger gain for IBM was his 100-chip MCM invention that he conceived of in 1975, now called “chiplets” in the industry.” Tummala and his large team of researchers and developers conceived and developed a 61-layer glass-ceramic/copper multichip module, now called LTCC in the industry. IBM manufactured this technology in US and in Germany for all its mainframes and servers, from 1992 till 2014, making it the highest value -add package in the history, more than a $100B.  For these and many other contributions, IBM named him its first IBM Fellow in Packaging in 1984, a very prestigious and rare title that IBM awarded to merely one in 10,000 employees. In 1986, he became Director of IBM's Advanced Packaging Research laboratory, responsible for all of IBM's Strategy and Programs in the U.S., Europe, and Japan. At the same time, he was appointed as a member of the National Academy of Engineering and named an IEEE Fellow .
+After so many firsts in the corporate arena, Tummala turned his attention to the world of academics, when his youngest son wanted to attend the Georgia Institute of Technology for his undergraduate degree in ECE. Tummala accepted an endowed chair faculty position with the Georgia Institute of Technology to lead a new interdisciplinary research center focused on electronics packaging. Less than a month after his arrival at Georgia Tech, Rao authored and submitted his winning proposal for the first NSF ERC at Georgia Tech, reflecting his vision of System-on Package (SOP) vs. the industry standard System-on-Chip (SOC). In 1994, the National Science Foundation awarded the Georgia Tech 3D Systems Packaging Research Center (3D-PRC) a $35M grant over 11 years to create a pioneering SOP program integrating research, education and industry collaborations. To meet these goals, 20 new faculty were recruited with expertise in every electronics area. Additionally, a first of its kind, a 300 mm panel-size cleanroom room for substrate, assembly, and reliability testing facility at a cost of $47M was established for both research and educational use. He raised more than $ 200M during his tenure at GT from 1993-2018.
+Under the leadership of Tummala, the 3D Systems Packaging Research Center began to engage with 50 U.S and global supply-chain companies and the State of Georgia to contribute additional funding for the endeavor. In 1988 while at IBM, Tummala published the first modern handbook in packaging,
+Microelectronics Packaging Handbook ; followed by the first undergraduate level textbook   Fundamentals of Microsystem Packaging
+(2001). In 2006 he introduced the concept of System-On-Package  design and fabrication with the publication of
+Introduction to System-on-Package ,
+and in 2020 the second edition of
+Fundamentals of Device and Systems Packaging
+was released.
+Due to Tummala’s extensive outreach and collaboration with educational and industry entities from the U.S., Europe and Asia coupled with the stellar research record during the 11 years of NSF funding, the 3D-PRC evolved into a successful global industry consortium involving researchers, developers, users and supply-chain manufacturing companies. The consortia focused on the development of many  new technologies, all focused on the concept
+System-On-Package (SOP),
+a process of scaling electronics systems for highly functional yet smaller and cheaper  systems such as modern smartphones.
+In 2018 after educating more than 400 Ph.D., 450 M.S. and 300 B.S. students in packaging technologies, Tummala passed the directorship flame and retired. In 2019, based on an international search, Prof. Madhavan Swaminathan was appointed as the next Director of PRC, which celebrated its 25 th
+anniversary the following year. The 3D-PRC is a model of what a successful government, academic and industry partnership can achieve, however it is fair to say that it would not exist at all without the many firsts of Emeritus Professor and innovative thinker Rao Tummala.
+Christa M. Ernst
+Additional Images
+Email
+christa.ernst@research.gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

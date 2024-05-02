@@ -1,0 +1,37 @@
+in the mood for giving: charitable donations may be more about how you feel before giving, not after 
+ twitter posts and an online experiment involving the cheery “hakuna matata” scene from the lion king offer new insights into why we give to charity. 
+ school of economics assistant professor casey wichman and a co-author at the university of massachusetts amherst studied the impact of mood on giving. 
+ jun 26, 2023 
+ conventional wisdom suggests that we give to charity at least partly because of post-donation warm and fuzzies that make us feel great inside. turns out, it might be the other way around. 
+ georgia tech 
+ school of economics 
+ assistant professor casey wichman and a colleague from the university of massachusetts amherst have found evidence from social media posts that a good mood reliably predicts a charitable donation. the 
+ findings , recently published in  the economic journal,  question common beliefs about why we give of our time and money and may have practical implications for the causes that seek to benefit from our generosity. 
+ “the findings are interesting simply because i think many of us believe one reason we give to charity is because of how it makes us feel,” 
+ wichman 
+ said. “but there’s a practical side of this, as well, and that has to do with how non-profit fundraisers might want to think about shifting tactics to improve the moods of would-be donors before soliciting donations.” 
+ the concept wichman and his umass colleague, nathan chan, explored is called “preheating,” a riff on the “warm glow” often associated with post-donation moods. while psychologists are familiar with this idea, the study by wichman and chan may be the first to identify the effect outside of a controlled lab setting. 
+ for their study, chan and wichman turned to twitter. the researchers first grabbed batches of tweets from about 20,000 people who donated to wikipedia. to mark the moment the donation occurred, they used # ilovewikipedia tweets the non-profit encyclopedia prompts users to post after contributing. 
+ the researchers then used natural language processing tools to analyze the sentiment of tweets those users sent before and after they made their donation. the authors detected a reliable and statistically significant mood boost in tweets sent up to about an hour before donating to wikipedia, according to wichman. 
+ how much of a boost? the “preheating” associated with donating roughly equaled the joy you might feel on discovering a $20 bill crumpled up in the pocket of an old coat, wichman said. that’s based on earlier economics research assigning monetary values to varying degrees of mood changes. 
+ the buoyant mood seemed to last for about 30 minutes after the donation before returning to baseline levels, according to the researchers. 
+ the analysis by wichman and chan didn’t capture what the donors were so happy about before their donation. they also don’t know how much money the ebullient twitter users donated to wikipedia or how much they might have given in a less giddy mood. 
+ the pair did, however, carry out an experiment that offers some insights. they asked volunteers online to decide how to split $50 between themselves and a charity. but first, the would-be philanthropists had to watch either the cheerful “hakuna matata” scene from disney’s 
+ the lion king 
+ or a neutral clip about microbes. 
+ the researchers found that those who watched the relentlessly optimistic singing warthog and meerkat duo donated 7% more to charity and were more likely to give away the entire amount than those who watched the microbe video. the results, while less conclusive due to a smaller sample size, support the paper’s overall finding that mood influences giving more than many researchers have given it credit for, wichman said. 
+ consequently, the idea of “preheating” potential donors with feel-good content or hitting them up with solicitations after they post positive messages online could be a winner for non-profits looking to maximize givers, the researchers say. 
+ “if you can find moments when people are happy, that might be a good time to be targeting them for charitable contributions,” chan said. 
+ the paper, “preheating social behavior,” was first published online june 6, 2023, in 
+ the economic journal . it is available at 
+ https: / / doi.org / 10.1093 / ej / uead041 . 
+ the school of economics is a unit of the ivan allen college of liberal arts. 
+ additional images 
+ contact 
+ michael pearson 
+ ivan allen college of liberal arts 
+ email 
+ michael.pearson@iac.gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

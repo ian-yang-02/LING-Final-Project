@@ -1,0 +1,46 @@
+moths and perhaps other animals rely on precise timing of neural spikes 
+ researchers have captured and analyzed nearly all of the brain signals sent to the wings of hawk moths. 
+ research on the hummingbird-sized hawk moth (manduca sexta) shows that millisecond changes in timing of its action potential spikes conveys the majority of information the moth uses to coordinate the muscles in its wings. (credit: rob felt, georgia tech) 
+ dec 17, 2019 
+ — atlanta, ga 
+ extracting nectar from flowers that may be dancing in the wind requires precise, millisecond timing between the brain and muscles. 
+ by capturing and analyzing nearly all of the brain signals sent to the wing muscles of hawk moths ( manduca sexta ), which feed on such nectar, researchers have shown that precise timing within rapid sequences of neural signal spikes is essential to controlling the flight muscles necessary for the moths to eat. 
+ the research shows that millisecond changes in timing of the action potential spikes, rather than the number or amplitude of the spikes, conveys the majority of information the moths use to coordinate the five muscles in each of their wings. the importance of precise spike timing had been known for certain specific muscles in vertebrates, but the new work shows the general nature of the connection. 
+ “we were able to record simultaneously nearly every signal the moth’s brain uses to control its wings, which gives us an unprecedented and complete window into how the brain is conducting these agile and graceful maneuvers,” said 
+ simon sponberg , dunn family professor in the 
+ school of physics 
+ at the georgia institute of technology. “these muscles are coordinated by subtle shifts in the timing at the millisecond scale rather than by just turning a knob to create more activity. it’s a more subtle story than we might have expected, and there are hints that this may apply more generally.” 
+ the research was reported dec. 16 in the journal 
+ proceedings of the national academy of sciences . the work was supported by the national science foundation, the esther a. & joseph klingenstein fund, and the simons foundation. 
+ researchers joy putney, rachel conn and sponberg set out to study how the brain coordinates agile activities such as running or flying that require compensating for perturbations in the air or variations on the ground. while the size of the signals could account for gross control of the behavior, the fine points of choreographing the tasks had to come from elsewhere, they reasoned. 
+ recording motor control signals in humans and other vertebrates would be a daunting task because so many neurons are used to control so many muscles in even simple behaviors. fortunately, the researchers knew about the hawk moth, whose flight muscles are each controlled by a single or very few motor neurons. that allowed the researchers to study neural signals by measuring the activity of the corresponding muscles, using tiny wires inserted through the insect’s exoskeleton. 
+ putney and conn determined the location of each wing muscle inside the moth exoskeleton, and learned where to create tiny holes for the wires — two for each muscle — that capture the signals. after inserting the wires in the anesthetized moths, the graduate students closed the holes with superglue to hold the wires in place. connections to a computer system allowed recording and analysis. 
+ “the first time i did the surgery by myself, it took six hours,” said putney. “now i can do it in under an hour.” 
+ while connected to the computer, the moths were able to fly on a tether as they viewed a moving 3d-printed plastic flower. to measure the torque forces the moths created as they attempted to track the flower, the wired-up moths were suspended from an accelerometer. 
+ the torque information was then correlated with the spiking signals recorded from each wing muscle. 
+ the importance of the work relates to the completeness of the signal measurement, which brought out the importance of the timing codes to what the moth was doing, putney said. 
+ “people have recorded lots of muscles together before, but what we have shown is that all of these muscles are using timing codes,” she said. “the way they are using these codes is consistent, regardless of the size of the muscle and how it is attached to the body.” 
+ indeed, researchers have seen hints about the importance of precision timing in higher animals, and sponberg believes the hawk moth research should encourage more study into the role of timing. the importance and prevalence of timing across the moth’s motor program also raises questions about how nervous systems in general create precise and coordinated motor commands. 
+ “we think this raises a question that can’t be ignored any longer — whether or not this timing could be the real way that the brain is orchestrating movement,” sponberg said. “when we look at specific signals in vertebrates, even up to humans, there are hints that this timing could be there.” 
+ the study could also lead to new research on how the brain produces the agile motor control needed for agile movement. 
+ “now that we know that the motor control is really precise, we can start trying to understand how the brain integrates precise sensory information to do motor control,” sponberg said. “we want to really understand not only how the brain sets up signals, but also how the biophysics of muscles enables the precise timing that the brain uses.” 
+ this material is based upon work supported by national science foundation graduate research fellowships dge-1650044 and dge-1444932, an nsf career award (1554790), and a klingenstein-simons fellowship award in the neurosciences. any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the sponsoring organization. 
+ citation : joy putney, rachel conn, and simon sponberg, “precise timing is ubiquitous, consistent and coordinated across a comprehensive, spike-resolved flight motor program.” ( proceedings of the national academy of sciences, 
+ 2019.) 
+ https: / / www.pnas.org / content / early / 2019 / 12 / 11 / 1907513116 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia 30332-0181  usa 
+ media relations contact : john toon (404-894-6986) (jtoon@gatech.edu) 
+ writer : john toon 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

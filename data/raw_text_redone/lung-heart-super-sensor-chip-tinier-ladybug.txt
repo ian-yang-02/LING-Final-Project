@@ -1,0 +1,34 @@
+lung-heart super sensor on a chip tinier than a ladybug 
+ the future of socially distanced lung and heart health monitoring could lie in this inconspicuous yet incredibly sensitive chip. 
+ a square black dot with huge abilities to record lung and heart data. credit: georgia tech / ayazi lab 
+ apr 15, 2020 
+ — atlanta, ga 
+ during a stroll, a woman’s breathing becomes a slight bit shallower, and a monitor in her clothing alerts her to get a telemedicine check-up.  a new study  details how a sensor chip smaller than a ladybug records multiple lung and heart signals along with body movements and could enable such a future socially distanced health monitor. 
+ the core mechanism of the chip developed by researchers at the georgia institute of technology involves two finely manufactured layers of silicon, which overlay each other separated by the space of 270 nanometers – about 0.000001 inches. they carry a minute voltage. 
+ vibrations from bodily motions and sounds put part of the chip in very slight motion, making the voltage flux, thus creating readable electronic outputs. in human testing, the chip has recorded a variety of signals from the mechanical workings of the lungs and the heart with clarity, signals that often escape meaningful detection by current medical technology. 
+ “right now, medicine looks to  ekgs (electrocardiograms ) for information on the heart, but ekgs only measure electrical impulses. the heart is a mechanical system with muscles pumping and valves opening and shutting, and it sends out a signature of sounds and motions, which an ekg does not detect. ekgs also say nothing about lung function,” said  farrokh ayazi, ken byers professor in georgia tech’s school of electrical and computer engineering . 
+ stethoscope-accelerometer combo 
+ the chip, which acts as an advanced  electronic stethoscope  and accelerometer in one, is aptly called an accelerometer contact microphone. it detects vibrations that enter the chip from inside the body while keeping out distracting noise from outside the body's core like airborne sounds 
+ “if it rubs on my skin or shirt, it doesn’t hear the friction, but the device is very sensitive to sounds coming at it from inside the body, so it picks up useful vibrations even through clothing,” ayazi said. 
+ the detection bandwidth is enormous - from broad, sweeping motions to inaudibly high-pitched tones. thus, the sensor chip records all at once fine details of the heartbeat, waves the heart sends through the body, and respiration rates and lung sounds. it even tracks the wearer’s physical activities such as walking. 
+ the signals are recorded in sync, potentially offering the big picture of a patient’s heart and lung health. for the study, the researchers successfully recorded a “gallop,” a faint third sound after the “lub-dub” of the heartbeat. gallops are normally elusive clues of heart failure. 
+ the researchers published their results  in the journal  npj digital medicine  on february 12, 2020. the research was funded by the georgia research alliance, the defense advanced research projects agency (darpa), the national science foundation, and the national institutes of health. study coauthor divya gupta, m.d., a cardiologist at emory university, collaborated in testing the chip on human participants. 
+ hermetically sealed vacuum 
+ medical research has tried to make better use of the body’s mechanical signals for decades but recording some – like waves traversing multiple tissues – has proven inconsistent, while others – like gallops – have relied upon clinician skills influenced by human error. the new chip produces high-resolution, quantified data that future research could match to pathologies in order to identify them. 
+ “we are working already to collect significantly more data matched with pathologies. we envision algorithms in the future that may enable a broad array of clinical readings,” ayazi said. 
+ though the chip’s main engineering principle is simple, making it work and then manufacturable took ayazi’s lab ten years, mainly because of the lilliputian scale of the gap between the silicon layers, i.e. electrodes. if the 2-millimeter by 2-millimeter sensor chip were expanded to the size of a football field, that air gap would be about an inch wide. 
+ “that very thin gap separating the two electrodes cannot have any contact, not even by forces in the air in between the layers, so the whole sensor is hermetically sealed inside a vacuum cavity,” ayazi said. “this makes for that ultralow signal noise and breadth of bandwidth that are unique.” 
+ detects through clothing 
+ the researchers used a manufacturing process developed in ayazi’s lab called the  harpss+ platform (high aspect ratio poly and single crystalline silicon)  for mass production, running off hand-sized sheets that were then cut into the tiny sensor chips. harpss+ is the first reported mass manufacturing process that achieves such consistently thin gaps, and it has enabled high-throughput manufacturing of many such advanced mems, or microelectromechanical systems. 
+ the experimental device is currently battery-powered and uses a second chip called a signal-conditioning circuit to translate the sensor chip’s signals into patterned read-outs. 
+ three sensors or more could be inserted into a chest band that would triangulate health signals to locate their sources. someday a device may pinpoint an emerging heart valve flaw by turbulence it produces in the bloodstream or identify a cancerous lesion by faint crackling sounds in a lung. 
+ here's how to  subscribe to our free science and technology newsletter 
+ also read: 
+ digital tool helps with tough covid19 decision 
+ these researchers co-authored the study: pranav gupta (first author), mohammad moghimi, yaesuk jeong and omer inan from georgia tech. the research was funded by the georgia research alliance, the defense advanced research projects agency (darpa) technology office’s advanced inertial micro sensors program (contract # n66001-16-1-4064), and by the national science foundation / national institutes of health smart and connected health program (grant # r01 eb023808). the team’s work with human subjects was approved by emory university and georgia institute of technology institutional review boards (irb # h18248). any findings, conclusions or recommendations are those of the authors and not necessarily of the sponsors. 
+ writer & media representative : ben brumfield (404-272-2780), email:  ben.brumfield@comm.gatech.edu 
+ georgia institute of technology 
+ additional images 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

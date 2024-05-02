@@ -1,0 +1,44 @@
+a look inside stem cells helps create personalized regenerative medicine 
+ in two papers, researchers examined a specific type of stem cell with an intracellular toolkit to determine which cells are most likely to create effective cell therapies. 
+ nicholas zhang, georgia tech ph.d. candidate 
+ & 
+ may 12, 2023 
+ organelles – the bits and pieces of rna and protein within a cell – play important roles in human health and disease, such as maintaining homeostasis, regulating growth and aging, and generating energy. organelle diversity in cells not only exists between cell types but also individual cells. studying these differences helps researchers better understand cell function, leading to improved therapeutics to treat various diseases. 
+ in two papers out of the lab of 
+ ahmet f. coskun , a bernie marcus early career professor in the 
+ coulter department of biomedical engineering at the georgia institute of technology and emory university , researchers examined a specific type of stem cell with an intracellular toolkit to determine which cells are most likely to create effective cell therapies. 
+ “we are studying the placement of organelles within cells and how they communicate to help better treat disease,” said coskun. “our recent work proposes the use of an intracellular toolkit to map organelle bio-geography in stem cells that could lead to more precise therapies.” 
+ creating the subcellular omics toolkit 
+ the 
+ first study 
+ — published in 
+ scientific reports, 
+ a 
+ nature 
+ portfolio journal 
+ — 
+ looked at mesenchymal stem cells (mscs) that have historically offered promising treatments for repairing defective cells or modulating the immune response in patients. in a series of experiments, the researchers were able to create a data-driven, single-cell approach through rapid subcellular proteomic imaging that enabled personalized stem cell therapeutics. 
+ the researchers then implemented a rapid multiplexed immunofluorescence technique in which they used antibodies designed to target specific organelles. by fluorescing antibodies, they tracked wavelengths and signals to compile images of many different cells, creating maps. these maps then enabled researchers to see the spatial organization of organelle contacts and geographical spread in similar cells to determine which cell types would best treat various diseases. 
+ “usually, the stem cells are used to repair defective cells or treat immune diseases, but our micro-study of these specific cells showed just how different they can be from one another,” said coskun. “this proved that patient treatment population and customized isolation of the stem cells identities and their bioenergetic organelle function should be considered when selecting the tissue source. in other words, in treating a specific disease, it might be better to harvest the same type of cell from different locations depending on the patient’s needs.” 
+ rna-rna proximity matters 
+ in the next study published this week in 
+ cell reports methods , the researchers took the toolkit a step further, studying the spatial organization of multiple neighboring rna molecules in single cells, which are important to cellular function. the researchers evolved the tool by combining machine learning and spatial transcriptomics. they found that analyzing the variations of gene proximity for classification of cell types was more accurate that analyzing gene expression only. 
+ “the physical interactions between molecules create life; therefore, the physical locations and proximity of these molecules play important roles,” said coskun. “we created an intracellular toolkit of subcellular gene neighborhood networks in each cell's different geographical parts to take a closer look at this.” 
+ the experiment consisted of two parts: the development of computational methods and experiments at the lab bench. the researchers examined published datasets and an algorithm to group rna molecules based on their physical location. this “nearest neighbor” algorithm helped determine gene groupings. on the bench, researchers then labeled rna molecules with fluorescents to easily locate them in single cells. they then uncovered many features from the distribution of rna molecules, such as how genes are likely to be in similar subcellular locations. 
+ cell therapy requires many cells with highly similar phenotypes, and if there are subtypes of unknown cells in therapeutic cells, researchers cannot predict the behavior of these cells once injected into patients. with these tools, more cells of the same type can be identified, and distinct stem cell subsets with uncommon gene programs can be isolated. 
+ “we are expanding the toolkit for the subcellular spatial organization of molecules – a ‘swiss army knife’ for the subcellular spatial omics field, if you will,” said coskun. “the goal is to measure, quantify, and model multiple independent but also interrelated molecular events in each cell with multiple functionalities. the end purpose is to define a cell’s function that can achieve high energy, lego-like modular gene neighborhood networks and diverse cellular decisions.” 
+ this research is funded by 
+ regenerative engineering and medicine at georgia tech , as well as the 
+ nsf engineering research center for cell manufacturing technologies (cmat). 
+ citation: venkatesan, m., zhang, n., marteau, b., yajima, y., ortiz de zarate garcia, n., fang, z., hu, t., cai, s., ford, a. olszewski, h., borst, a., and coskun, a. f.  spatial subcellular organelle networks in single cells. scientific reports 13, 5374 (2023). 
+ doi.org / 10.1038 / s41598-023-32474-y 
+ citation: fang, z., ford, a., hu, t., zhang, n., mantalaris, a., coskun, a.f.  subcellular spatially resolved gene neighborhood networks in single cells. 
+ cell reports methods . may 12, 2023. doi.org / 10.1016 / j.crmeth.2023.100476 
+ additional images 
+ contact 
+ georgia parmelee 
+ email 
+ georgia.parmelee@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

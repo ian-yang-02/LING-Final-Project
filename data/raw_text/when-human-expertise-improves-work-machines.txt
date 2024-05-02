@@ -1,0 +1,45 @@
+When Human Expertise Improves the Work of Machines
+Machine learning algorithms can sometimes do a better job with a little help from human expertise.
+A single crystal sample is placed onto the measurement stage of the modified atomic force microscope (i.e. piezoresponse force microscope). (Photo: Rob Felt, Georgia Tech)
+Aug 15, 2019
+— Atlanta, GA
+Machine learning algorithms can sometimes do a better job with a little help from human expertise, at least in the field of materials science.
+In many specialized areas of science, engineering and medicine, researchers are turning to machine learning algorithms to analyze data sets that have grown much too large for humans to understand. In materials science, success with this effort could accelerate the design of next-generation advanced functional materials, where development now depends on old-fashioned trial-and-error.
+By themselves, however, data analytics techniques borrowed from other research areas often fail to provide the insights needed to help materials scientists and engineers choose which of many variables to adjust — and can’t account for dramatic changes such as the introduction of a new chemical compound into the process. In some complex materials such as ferroelectrics, as many as 10 different factors can affect the properties of the resulting product.
+In a paper published this week in the journal
+NPJ Computational Materials , researchers explain how to give the machines an edge at solving the challenge by intelligently organizing the data to be analyzed based on human knowledge of what factors are likely to be important and related. Known as dimensional stacking, the technique shows that human experience still has a role to play in the age of machine intelligence.
+The research was sponsored by the National Science Foundation and the Defense Threat Reduction Agency, as well as the Swiss National Science Foundation. Measurements were performed, in part, at the Oak Ridge National Laboratory in Oak Ridge, Tennessee.
+“When your machine accepts strings of data, it really does matter how you are putting those strings together,” said
+Nazanin Bassiri-Gharb , the paper’s corresponding author and a professor in the
+George W. Woodruff School of Mechanical Engineering
+at the Georgia Institute of Technology. “We must be mindful that the organization of data before it goes to the algorithm makes a difference. If you don’t plug the information in correctly, you will get a result that isn’t necessarily correlated with the reality of the physics and chemistry that govern the materials.”
+Bassiri-Gharb works on ferroelectrics, crystalline materials that exhibit spontaneous electrical polarizations switchable by an external electric field. Widely used for their piezoelectric properties — which allow electrical inputs to generate mechanical outputs, and mechanical motion to generate electrical voltages — their chemical formulas are usually complicated, including lead, manganese, niobium, oxygen, titanium, indium, bismuth and other elements.
+Researchers, who have been working for decades to improve the materials, would like to develop advanced ferroelectrics that don’t include lead. But trial-and-error design techniques haven’t led to major breakthroughs, and she is not alone in wanting a more direct approach — one that could also more rapidly lead to improvements in other functional materials used in microelectronics, batteries, optoelectronic systems and other critical research fields.
+“For materials science, things get really complicated, especially with the functional materials,” said Bassiri-Gharb. “As materials scientists, it’s very difficult to design the materials if we don’t understand why a response is increased. We have learned that the functionalities are not compartmentalized. They are interrelated among many properties of the material.”
+The technique described in the paper involves a preprocessing step in which the large data sets are organized according to physical or chemical properties that make sense to material scientists.
+“As a scientist or engineer, you have an idea whether or not there are physical or chemical correlations,” she explained. “You have to be cognizant of what kind of correlations could exist. The way you stack your data to be analyzed would have implications with respect to the physical or chemical correlations. If you do this correctly, you can get more information from any data analytics approach you might be using.”
+To test the techniques, Bassiri-Gharb and collaborators Lee Griffin, Iaroslav Gaponenko, and Shujun Zhang tested samples of relaxor-ferroelectric materials used in advanced ultrasonic imaging equipment. Griffin, a Georgia Tech graduate research assistant and the paper’s co-first author, did the experimental measurements. Zhang, a researcher at the University of Wollongong in Australia, provided samples for the study. Bassiri-Gharb and Gaponenko, a research affiliate in her group, developed the approach.
+Using a conductive tip on an atomic force microscope, they examined the electromechanical response from a series of chemically related samples, generating as many as 2,500 time- and voltage-dependent measurements on a grid of points established on each sample. The process generated hundreds of thousands of data points and provided a good test for the stacking approach, known technically as concatenation.
+“Instead of just looking at the chemical composition that provides the highest response, we looked at a range of compositions and tried to figure out the commonality,” she said. “We figured out that if we applied this data stacking with some thought process behind it, we could learn more about these interesting materials.”
+Among their findings: Though the material is a single crystal, the functional response showed highly disordered behavior, reminiscent of a fully disordered material like glass. “This glassy behavior really is unexpectedly persisting beyond a small percentage of the material compositions,” said Bassiri-Gharb. “It is persisting across all of the compositions that we have looked at.”
+She hopes the technique will ultimately lead to information that will improve many materials and their functionalities. Knowing which chemicals need to be included could allow the materials scientists to move to the next phase — working with chemists to put the right atoms in the right places.
+“The big goal for any materials’ functionality is to find the guidelines that will provide the properties we want,” she said. “We want to find the straight path to the best compositions for the next generation of these materials.”
+This research was supported by the National Science Foundation (NSF) through award DMR-1255379, by the Defense Threat Reduction Agency (DTRA) though grant HDTRA1-15-0035, by the Center for the Science and Technology of Advanced Materials and Interfaces (STAMI) at Georgia Tech, and Division II of the Swiss National Science Foundation under project 200021_178782. The piezo-response measurements were in part performed at the Center for Nanophase Materials Sciences at Oak Ridge National Laboratory, which is a U.S. Department of Energy Office of Science User Facility. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsoring organizations.
+CITATION : Lee A. Griffin, et al., “Smart machine learning or discovering meaningful physical and chemical contributions through dimensional stacking” ( NPJ Computational Materials , 2019,
+https://rdcu.be/bOycU ).
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

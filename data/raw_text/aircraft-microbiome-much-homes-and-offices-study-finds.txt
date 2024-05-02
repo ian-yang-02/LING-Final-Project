@@ -1,0 +1,49 @@
+Aircraft Microbiome Much Like That of Homes and Offices, Study Finds
+Researchers have conducted what may be the first study of the aircraft microbiome.
+Georgia Tech Professor Howard Weiss reviews data about bacteria found on aircraft studied by a research team that sampled tray tables, seat belt buckles and the handles of lavatory doors. (Credit: John Toon, Georgia Tech)
+Jun 07, 2018
+— Atlanta, GA
+What does flying in a commercial airliner have in common with working at the office or relaxing at home?
+According to a new study, the answer is the microbiome – the community of bacteria found in homes, offices and aircraft cabins. Believed to be the first to comprehensively assess the microbiome of aircraft, the study found that the bacterial communities accompanying airline passengers at 30,000 feet have much in common with the bacterial communities surrounding people in their homes and offices.
+Using advanced sequencing technology, researchers from the Georgia Institute of Technology and Emory University studied the bacteria found on three components of an airliner cabin that are commonly touched by passengers: tray tables, seat belt buckles and the handles of lavatory doors. They swabbed those items before and after ten transcontinental flights and also sampled air in the rear of the cabin during flight.
+What they found was surprisingly unexciting.
+“Airline passengers should not be frightened by sensational stories about germs on a plane,” said Vicki Stover Hertzberg, a professor in Emory University’s Nell Hodgson Woodruff School of Nursing and a co-author of the study. “They should recognize that microbes are everywhere and that an airplane is no better and no worse than an office building, a subway car, home or a classroom. These environments all have microbiomes that look like places occupied by people.”
+The results of the FlyHealthy™ study were reported June 6, 2018, in the journal
+Microbial Ecology . In March, the researchers reported on a separate part of the study that examined potential routes for transmitting certain respiratory viruses – such as the flu – on commercial flights.
+Given the unusual nature of an aircraft cabin, the researchers hadn’t known what to expect from their microbiome study. On transcontinental flights, passengers spend four or five hours in close proximity breathing a very dry mix of outdoor air and recycled cabin air that has been passed through special filters, similar to those found in operating rooms.
+“There were reasons to believe that the communities of bacteria in an aircraft cabin might be different from those in other parts of the built environment, so it surprised me that what we found was very similar to what other researchers have found in homes and offices,” said Howard Weiss, a professor in Georgia Tech’s
+School of Mathematics
+and the study’s corresponding author. “What we found was bacterial communities that were mostly derived from human skin, the human mouth – and some environmental bacteria.”
+The sampling found significant variations from flight to flight, which is consistent with the differences other researchers have found among the cars of passenger trains, Weiss noted. Each aircraft seemed to have its own microbiome, but the researchers did not detect statistically significant differences between preflight and post-flight conditions on the flights studied.
+“We identified a core airplane microbiome – the genera that were present in every sample we studied,” Weiss added. The core microbiome included genera
+Propionibacterium, Burkholderia, Staphylococcus, and Strepococcus (oralis) .
+Though the study revealed bacteria common to other parts of the built environment, Weiss still suggests travelers exercise reasonable caution. “I carry a bottle of hand sanitizer in my computer bag whenever I travel,” said Weiss. “It’s a good practice to wash or sanitize your hands, avoid touching your face, and get a flu shot ever year.”
+This new information on the aircraft microbiome provides a baseline for further study, and could lead to improved techniques for maintaining healthy aircraft.
+“The finding that airplanes have their own unique microbiome should not be totally surprising since we have been exploring the unique microbiome of everything from humans to spacecraft to salt ponds in Australia. The study does have important implications for industrial cleaning and sterilization standards for airplanes,” said Christopher Dupont, another co-author and an associate professor in the Microbial and Environmental Genomics Department at the J. Craig Venter Institute, which provided bioinformatics analysis of the study’s data.
+The 229 samples obtained from the aircraft cabin testing were subjected to 16S rRNA sequencing, which was done at the HudsonAlpha Institute for Biotechnology in Huntsville, Alabama. The small amount of genetic material captured on the swabs and air sampling limited the level of detail the testing could provide to identifying genera of bacteria, Weiss said. The extensive bioinformatics, or sequence analysis, was carried out at the J. Craig Venter Institute in La Jolla, Calif.
+In the March 19 issue of the journal
+Proceedings of the National Academy of Sciences , the researchers reported on the results of another component of the FlyHealthy™ study that looked at potential transmission of respiratory viruses on aircraft. They found that an infectious passenger with influenza or other droplet-transmitted respiratory infection will most likely not transmit infection to passengers seated farther away than two seats laterally and one row in front or back on an aircraft.
+That portion of the study was designed to assess rates and routes of possible infectious disease transmission during flights, using a model that combines estimated infectivity and patterns of contact among aircraft passengers and crew members to determine likelihood of infection. FlyHealthy™ team members were assigned to monitor specific areas of the passenger cabin, developing information about contacts between passengers as they moved around.
+Among next steps, the researchers would like to study the microbiome of airport areas, especially the departure lounges where passengers congregate before boarding. They would also like to study long-haul international flights in which passengers spend more time together – and are more likely to move about the cabin.
+In addition to those already mentioned, the paper’s authors include Josh L. Espinoza and Karen Nelson of the J. Craig Venter Institute, Shawn Levy of the HudsonAlpha Institute for Biotechnology, and Sharon Norris of The Boeing Company.
+This work was supported by contract 2001-041-1 between the Georgia Institute of Technology and The Boeing Company.
+CITATION : Howard Weiss, et al., “The Airplane Cabin Microbiome,” (Microbial Ecology, 2018).
+https://link.springer.com/article/10.1007/s00248-018-1191-3
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Related links
+Researchers Determine Routes of Respiratory Infectious Disease Transmission on …
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

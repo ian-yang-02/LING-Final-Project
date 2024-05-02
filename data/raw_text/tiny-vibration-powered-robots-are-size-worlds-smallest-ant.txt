@@ -1,0 +1,44 @@
+Tiny Vibration-Powered Robots Are the Size of the World’s Smallest Ant
+The size of an ant, the micro-bristle-bot moves by harnessing vibration.
+A micro-bristle-bot is shown next to a U.S. penny for size comparison. (Photo: Allison Carter)
+Jul 16, 2019
+— Atlanta, GA
+Researchers have created a new type of tiny 3D-printed robot that moves by harnessing vibration from piezoelectric actuators, ultrasound sources or even tiny speakers. Swarms of these “micro-bristle-bots” might work together to sense environmental changes, move materials – or perhaps one day repair injuries inside the human body.
+The prototype robots respond to different vibration frequencies depending on their configurations, allowing researchers to control individual bots by adjusting the vibration. Approximately two millimeters long – about the size of the world’s smallest ant – the bots can cover four times their own length in a second despite the physical limitations of their small size.
+“We are working to make the technology robust, and we have a lot of potential applications in mind,” said
+Azadeh Ansari , an assistant professor in the
+School of Electrical and Computer Engineering
+at the Georgia Institute of Technology. “We are working at the intersection of mechanics, electronics, biology and physics. It’s a very rich area and there’s a lot of room for multidisciplinary concepts.”
+A paper describing the micro-bristle-bots has been accepted for publication in the
+Journal of Micromechanics and Microengineering . The research was supported by a seed grant from Georgia Tech’s Institute for Electronics and Nanotechnology. In addition to Ansari, the research team includes George W. Woodruff School of Mechanical Engineering Associate Professor Jun Ueda and graduate students DeaGyu Kim and Zhijian (Chris) Hao.
+The micro-bristle-bots consist of a piezoelectric actuator glued onto a polymer body that is 3D-printed using two-photon polymerization lithography (TPP). The actuator generates vibration and is powered externally because no batteries are small enough to fit onto the bot. The vibrations can also come from a piezoelectric shaker beneath the surface on which the robots move, from an ultrasound/sonar source, or even from a tiny acoustic speaker.
+The vibrations move the springy legs up and down, propelling the micro-bot forward. Each robot can be designed to respond to different vibration frequencies depending on leg size, diameter, design and overall geometry. The amplitude of the vibrations controls the speed at which the micro-bots move.
+“As the micro-bristle-bots move up and down, the vertical motion is translated into a directional movement by optimizing the design of the legs, which look like bristles,” explained Ansari. “The legs of the micro-robot are designed with specific angles that allow them to bend and move in one direction in resonant response to the vibration.”
+The micro-bristle-bots are made in a 3D printer using the TPP process, a technique that polymerizes a monomer resin material. Once the portion of the resin block struck by the ultraviolet light has been chemically developed, the remainder can be washed away, leaving the desired robotic structure.
+“It’s writing rather than traditional lithography,” Ansari explained. “You are left with the structure that you write with a laser on the resin material. The process now takes quite a while, so we are looking at ways to scale it up to make hundreds or thousands of micro-bots at a time.”
+Some of the robots have four legs, while others have six. First author DeaGyu Kim made hundreds of the tiny structures to determine the ideal configuration.
+The piezoelectric actuators, which use the material lead zirconate titanate (PZT), vibrate when electric voltage is applied to them. In reverse, they can also be used to generate a voltage, when they are vibrated, a capability the micro-bristle-bots could use to power up onboard sensors when they are actuated by external vibrations.
+Ansari and her team are working to add steering capability to the robots by joining two slightly different micro-bristle-bots together. Because each of the joined micro-bots would respond to different vibration frequencies, the combination could be steered by varying the frequencies and amplitudes. “Once you have a fully steerable micro-robot, you can imagine doing a lot of interesting things,” she said.
+Other researchers have worked on micro-robots that use magnetic fields to produce movement, Ansari noted. While that is useful for moving entire swarms at once, magnetic forces cannot easily be used to address individual robots within a swarm. The micro-bristle-bots created by Ansari and her team are believed to be the smallest robots powered by vibration.
+The micro-bristle-bots are approximately two millimeters in length, 1.8 millimeters wide and 0.8 millimeters thick, and weigh about five milligrams. The 3D printer can produce smaller robots, but with a reduced mass, the adhesion forces between the tiny devices and a surface can get very large. Sometimes, the micro-bots cannot be separated from the tweezers used to pick them up.
+Ansari and her team have built a “playground” in which multiple micro-bots can move around as the researchers learn more about what they can do. They are also interested in developing micro-bots that can jump and swim.
+“We can look at the collective behavior of ants, for example, and apply what we learn from them to our little robots,” she added. “These micro-bristle-bots walk nicely in a laboratory environment, but there is a lot more we will have to do before they can go out into the outside world.”
+The micro-bot fabrication was performed at the Georgia Tech Institute for Electronics and Nanotechnology, a member of the National Nanotechnology Coordinated Infrastructure, which is supported by the National Science Foundation through grant ECCS-1542173.
+CITATION : DeaGyu Kim, Zhijian Hao, Jun Ueda and Azadeh Ansari, “A 5mg micro-bristle-bot fabricated by two-photon lithography” ( Journal of Micromechanics and Microengineering , 2019).
+https://doi.org/10.1088/1361-6439/ab309b
+Research News
+Georgia Institute of Technology
+177 North Avenue
+Atlanta, Georgia  30332-0181  USA
+Media Relations Contact : John Toon (404-894-6986) (jtoon@gatech.edu).
+Writer : John Toon
+Additional Images
+Contact
+John Toon
+Research News
+(404) 894-6986
+Email
+jtoon@gatech.edu
+Georgia Institute of Technology
+North Avenue Atlanta, GA 30332
++1 404.894.2000

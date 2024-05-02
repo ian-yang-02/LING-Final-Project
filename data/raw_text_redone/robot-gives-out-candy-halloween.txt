@@ -1,0 +1,32 @@
+robot gives out candy on halloween 
+ a robot gave out candy at the home of an assistant professor. 
+ wearing a mask, cape and hat, sawyer the robot gives out candy on halloween. 
+ nov 01, 2017 
+ — atlanta, ga 
+ last halloween, sonia chernova hardly left her doorstep in decatur, georgia, handing out candy to a constant stream of kids. 
+ this year, she put an autonomous robot on the porch to do it for her. it gave out 1,000 pieces in three hours to hundreds of kids. 
+ “best halloween ever,” said chernova, an assistant professor in the school of interactive computing. “both kids and parents loved getting candy from a real robot, and many people stayed around to watch it work. now all of my neighbors want one for their house next year!” 
+ the credit for the event goes to chernova’s research team, who got the idea after she mentioned that halloween is overwhelming at her house because of the crowds. the students went to work, training sawyer, 
+ a collaborative machine built by rethink robotics , in less than an hour. they simply showed the robot the motions that were required. the robot did the rest of the work the rest of the night. 
+ “it was fun to watch the faces of the kids when they walked up to the house,” chernova said. “everyone wanted to know who was remotely controlling the robot, but everything was autonomous. it was a lot of fun!” 
+ the robot wore a hat, cape and mask. 
+ what’s next? 
+ “maybe we’ll have sawyer carve a turkey on thanksgiving,” chernova said. “or hang ornaments during the holidays.” 
+ chernova oversees georgia tech’s 
+ robot autonomy and interactive learning (rail) lab , 
+ which works to make robots more accessible to people. andrew silva, jonathan balloch, david kent, siddhartha banerjee, angel daruna, asif rana and weiuy liu are the students who worked on the halloween project. 
+ additional images 
+ related links 
+ controlling a robot using point and click 
+ georgia tech women in robotics 
+ visit the rail lab 
+ contact 
+ jason maderer 
+ national media relations 
+ maderer@gatech.edu 
+ 404-660-2926 
+ email 
+ maderer@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000

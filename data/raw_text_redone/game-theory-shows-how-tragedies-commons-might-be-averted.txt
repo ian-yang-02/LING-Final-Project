@@ -1,0 +1,41 @@
+game theory shows how tragedies of the commons might be averted 
+ georgia tech researchers have developed a theory to unite the study of behavior and its effect on the environment. 
+ georgia tech researchers have developed a theory to unite the study of behavior and its effect on the environment, combining theories of strategic behavior with those of resource depletion and restoration, leading to what they term an “oscillating tragedy of the commons.” shown is professor joshua weitz. (credit: stephen beckett, georgia tech) 
+ nov 09, 2016 
+ — atlanta, ga 
+ lake lanier in georgia is the primary water reservoir serving suburban and metropolitan atlanta. when the lake’s water level drops below a certain point, calls go out for water conservation and news reports show images of the red mud shoreline. in some affected counties, water restrictions are imposed. the combination of usage restrictions and changes in precipitation eventually averts the crisis. but, when the crisis ends, water usage rebounds – until the next shortage. 
+ inspired by this example, researchers at the georgia institute of technology have developed a theory to unite the study of behavior and its effect on the environment. in doing so, they combined theories of strategic behavior with those of resource depletion and restoration, leading to what they term an “oscillating tragedy of the commons.” the research was reported in november 8 in the journal 
+ proceedings of the national academy of sciences . 
+ the study of how behavior affects resource depletion has a long history. the originating example is that of small farmers who share a common pasture. each farmer has to decide whether to graze some or all of his flock, while also considering what actions other farmers might take. to avoid losing out to a competitor, each farmer decides to attempt to maximize the benefit by grazing as many sheep as possible. consequently, the sheep overgraze and damage the pasture. paradoxically, the benefit to each farmer over the long run is less than if they had cooperated and each grazed fewer sheep. 
+ that individuals acting out of their own self-interest can be worse off than had they coordinated is termed a “tragedy of the commons” – a concept introduced nearly 50 years ago by the ecologist garrett hardin. (the use of the term “tragedy” denotes its inevitability). however, the originating example does not include a mechanism by which incentives for cooperation change as the resource is depleted. 
+ “our actions can substantively change the environment and, in turn, the changing environment influences the incentives for future action,” said 
+ joshua weitz , who led the study and is a professor in georgia tech’s 
+ school of biological sciences 
+ and director of the interdisciplinary graduate program in quantitative biosciences. “the theory in our paper proposes a unified approach for the co-evolution of actions and environment.” 
+ other authors on the study include postdoctoral fellow ceyhun eksin and graduate teaching assistant keith paarporn, both members of the weitz group in the school of electrical and computer engineering, as well as professors sam brown and will ratcliff, both faculty in the school of biological sciences. 
+ there are many other prominent examples of tragedies of the commons. one example is that of antibiotic resistance in microbes. the widespread use of antibiotics among humans and in agriculture selects for antibiotic resistance strains. over time, the spread of resistance renders antibiotics ineffective for use in patients with otherwise curable infections. hence, individuals trying to maximize their own benefit can unintentionally degrade the collective value of the antibiotics. 
+ another example stems from individual decisions about whether or not to vaccinate against childhood infectious diseases like measles, mumps and rubella. crucially, a retracted study falsely linking autism to vaccination has inspired some parents not to vaccinate their children. yet, when population levels of immunity drop, then these potentially lethal infectious diseases that had been prevented in the past will reappear in sporadic outbreaks or, dangerously, as large-scale epidemics. 
+ “individual agents acting in their own self-interest – trying to do what’s right for them alone – can end up in a worse state than if they coordinated,” weitz said. “for example, the decision not to vaccinate increases the frequency of individuals having a dangerous, infectious disease. as people see the disease return, the incentives for vaccination change.” 
+ the research proposes a new model of evolutionary games with a feedback loop in which changes to the resource – whether it be water supplies, pastureland, antibiotics, or vaccine use – change the incentives for people to take action in their own interests. the environment and the incentives co-evolve and are tied to one another, allowing the outcome to be predicted. 
+ “incentives to use a lot of water when water is in short supply are different than when water levels are replete,” weitz said. “when things are bad and the commons is depleted, there may be greater incentives to cooperate than when the commons are in good condition.” 
+ unlike in the originating example of the tragedy of the commons, weitz and colleagues report that tragedies can recur again and again. formally, the researchers unite game theory with evolutionary models in which both the tendency to cooperate and the state of the environment coevolve. 
+ the theoretical research also pointed the way to a testable principle to avert the tragedy of the commons in specific application domains. for example, in their analyses, weitz and colleagues found that averting the tragedy of the commons was only possible when cooperation was incentivized even when the environment was depleted and others continued to act to degrade the resources. 
+ “another lesson is that idealism matters,” said weitz, continuing, “a small group of cooperating individuals can, over time, change the social and environmental context for all and for the better.” 
+ this work was supported by a grant w911nf-14-1-0402 from the army research office. any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the sponsor. 
+ citation : joshua s. weitz, ceyhun eksin, keith paarporn, sam p. brown and william c. ratcliff, "an oscillating tragedy of the commons in replicator dynamics with game-environment feedback," (proceedings of the national academy of sciences, 2016). 
+ http: / / www.pnas.org / content / early / 2016 / 11 / 02 / 1604096113.abstract 
+ research news 
+ georgia institute of technology 
+ 177 north avenue 
+ atlanta, georgia  30332-0181  usa 
+ media relations contacts : john toon (404-894-6986) (jtoon@gatech.edu) or ben brumfield (404-385-1933) (ben.brumfield@comm.gatech.edu). 
+ additional images 
+ contact 
+ john toon 
+ research news 
+ (404) 894-6986 
+ email 
+ jtoon@gatech.edu 
+ georgia institute of technology 
+ north avenue atlanta, ga 30332 
+ +1 404.894.2000
